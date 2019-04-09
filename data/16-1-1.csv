@@ -1,13 +1,4 @@
 Year,Units,Sex,Age,Value
-2010,Victims of intentional homicide (Number),,,793.0
-2011,Victims of intentional homicide (Number),,,738.0
-2012,Victims of intentional homicide (Number),,,659.0
-2013,Victims of intentional homicide (Number),,,682.0
-2014,Victims of intentional homicide (Number),,,716.0
-2015,Victims of intentional homicide (Number),,,682.0
-2016,Victims of intentional homicide (Number),,,963.0
-2017,Victims of intentional homicide (Number),,,813.0
-2018,Victims of intentional homicide (Number),,,788.0
 2010,Victims of intentional homicide (per 100 000 inhabitants),,,0.99
 2011,Victims of intentional homicide (per 100 000 inhabitants),,,0.92
 2012,Victims of intentional homicide (per 100 000 inhabitants),,,0.82
@@ -17,66 +8,75 @@ Year,Units,Sex,Age,Value
 2016,Victims of intentional homicide (per 100 000 inhabitants),,,1.17
 2017,Victims of intentional homicide (per 100 000 inhabitants),,,0.98
 2018,Victims of intentional homicide (per 100 000 inhabitants),,,
-2010,,female (Number),,393.0
-2011,,female (Number),,338.0
-2012,,female (Number),,296.0
-2013,,female (Number),,328.0
-2014,,female (Number),,339.0
-2015,,female (Number),,327.0
-2016,,female (Number),,469.0
-2017,,female (Number),,380.0
-2018,,female (Number),,367.0
-2010,,male (Number),,400.0
-2011,,male (Number),,400.0
-2012,,male (Number),,363.0
-2013,,male (Number),,354.0
-2014,,male (Number),,377.0
-2015,,male (Number),,355.0
-2016,,male (Number),,494.0
-2017,,male (Number),,433.0
-2018,,male (Number),,421.0
-2010,,,under 14 years (Number),77.0
-2011,,,under 14 years (Number),73.0
-2012,,,under 14 years (Number),90.0
-2013,,,under 14 years (Number),66.0
-2014,,,under 14 years (Number),63.0
-2015,,,under 14 years (Number),62.0
-2016,,,under 14 years (Number),68.0
-2017,,,under 14 years (Number),67.0
-2018,,,under 14 years (Number),70.0
-2010,,,14 to under 18 years (Number),22.0
-2011,,,14 to under 18 years (Number),27.0
-2012,,,14 to under 18 years (Number),6.0
-2013,,,14 to under 18 years (Number),12.0
-2014,,,14 to under 18 years (Number),15.0
-2015,,,14 to under 18 years (Number),14.0
-2016,,,14 to under 18 years (Number),35.0
-2017,,,14 to under 18 years (Number),4.0
-2018,,,14 to under 18 years (Number),14.0
-2010,,,18 to under 21 years (Number),38.0
-2011,,,18 to under 21 years (Number),29.0
-2012,,,18 to under 21 years (Number),23.0
-2013,,,18 to under 21 years (Number),15.0
-2014,,,18 to under 21 years (Number),20.0
-2015,,,18 to under 21 years (Number),18.0
-2016,,,18 to under 21 years (Number),43.0
-2017,,,18 to under 21 years (Number),16.0
-2018,,,18 to under 21 years (Number),26.0
-2010,,,21 to under 60 years (Number),448.0
-2011,,,21 to under 60 years (Number),424.0
-2012,,,21 to under 60 years (Number),359.0
-2013,,,21 to under 60 years (Number),377.0
-2014,,,21 to under 60 years (Number),405.0
-2015,,,21 to under 60 years (Number),343.0
-2016,,,21 to under 60 years (Number),527.0
-2017,,,21 to under 60 years (Number),414.0
-2018,,,21 to under 60 years (Number),445.0
-2010,,,60 years and over (Number),208.0
-2011,,,60 years and over (Number),185.0
-2012,,,60 years and over (Number),181.0
-2013,,,60 years and over (Number),212.0
-2014,,,60 years and over (Number),213.0
-2015,,,60 years and over (Number),245.0
-2016,,,60 years and over (Number),290.0
-2017,,,60 years and over (Number),312.0
-2018,,,60 years and over (Number),233.0
+2010,Victims of intentional homicide (Number),,,793.0
+2011,Victims of intentional homicide (Number),,,738.0
+2012,Victims of intentional homicide (Number),,,659.0
+2013,Victims of intentional homicide (Number),,,682.0
+2014,Victims of intentional homicide (Number),,,716.0
+2015,Victims of intentional homicide (Number),,,682.0
+2016,Victims of intentional homicide (Number),,,963.0
+2017,Victims of intentional homicide (Number),,,813.0
+2018,Victims of intentional homicide (Number),,,788.0
+2010,Victims of intentional homicide (Number),female,,393.0
+2011,Victims of intentional homicide (Number),female,,338.0
+2012,Victims of intentional homicide (Number),female,,296.0
+2013,Victims of intentional homicide (Number),female,,328.0
+2014,Victims of intentional homicide (Number),female,,339.0
+2015,Victims of intentional homicide (Number),female,,327.0
+2016,Victims of intentional homicide (Number),female,,469.0
+2017,Victims of intentional homicide (Number),female,,380.0
+2018,Victims of intentional homicide (Number),female,,367.0
+2010,Victims of intentional homicide (Number),male,,400.0
+2011,Victims of intentional homicide (Number),male,,400.0
+2012,Victims of intentional homicide (Number),male,,363.0
+2013,Victims of intentional homicide (Number),male,,354.0
+2014,Victims of intentional homicide (Number),male,,377.0
+2015,Victims of intentional homicide (Number),male,,355.0
+2016,Victims of intentional homicide (Number),male,,494.0
+2017,Victims of intentional homicide (Number),male,,433.0
+2018,Victims of intentional homicide (Number),male,,421.0
+2010,Victims of intentional homicide (Number),,under 14 years,77.0
+2011,Victims of intentional homicide (Number),,under 14 years,73.0
+2012,Victims of intentional homicide (Number),,under 14 years,90.0
+2013,Victims of intentional homicide (Number),,under 14 years,66.0
+2014,Victims of intentional homicide (Number),,under 14 years,63.0
+2015,Victims of intentional homicide (Number),,under 14 years,62.0
+2016,Victims of intentional homicide (Number),,under 14 years,68.0
+2017,Victims of intentional homicide (Number),,under 14 years,67.0
+2018,Victims of intentional homicide (Number),,under 14 years,70.0
+2010,Victims of intentional homicide (Number),,14 to under 18 years,22.0
+2011,Victims of intentional homicide (Number),,14 to under 18 years,27.0
+2012,Victims of intentional homicide (Number),,14 to under 18 years,6.0
+2013,Victims of intentional homicide (Number),,14 to under 18 years,12.0
+2014,Victims of intentional homicide (Number),,14 to under 18 years,15.0
+2015,Victims of intentional homicide (Number),,14 to under 18 years,14.0
+2016,Victims of intentional homicide (Number),,14 to under 18 years,35.0
+2017,Victims of intentional homicide (Number),,14 to under 18 years,4.0
+2018,Victims of intentional homicide (Number),,14 to under 18 years,14.0
+2010,Victims of intentional homicide (Number),,18 to under 21 years,38.0
+2011,Victims of intentional homicide (Number),,18 to under 21 years,29.0
+2012,Victims of intentional homicide (Number),,18 to under 21 years,23.0
+2013,Victims of intentional homicide (Number),,18 to under 21 years,15.0
+2014,Victims of intentional homicide (Number),,18 to under 21 years,20.0
+2015,Victims of intentional homicide (Number),,18 to under 21 years,18.0
+2016,Victims of intentional homicide (Number),,18 to under 21 years,43.0
+2017,Victims of intentional homicide (Number),,18 to under 21 years,16.0
+2018,Victims of intentional homicide (Number),,18 to under 21 years,26.0
+2010,Victims of intentional homicide (Number),,21 to under 60 years,448.0
+2011,Victims of intentional homicide (Number),,21 to under 60 years,424.0
+2012,Victims of intentional homicide (Number),,21 to under 60 years,359.0
+2013,Victims of intentional homicide (Number),,21 to under 60 years,377.0
+2014,Victims of intentional homicide (Number),,21 to under 60 years,405.0
+2015,Victims of intentional homicide (Number),,21 to under 60 years,343.0
+2016,Victims of intentional homicide (Number),,21 to under 60 years,527.0
+2017,Victims of intentional homicide (Number),,21 to under 60 years,414.0
+2018,Victims of intentional homicide (Number),,21 to under 60 years,445.0
+2010,Victims of intentional homicide (Number),,60 years and over,208.0
+2011,Victims of intentional homicide (Number),,60 years and over,185.0
+2012,Victims of intentional homicide (Number),,60 years and over,181.0
+2013,Victims of intentional homicide (Number),,60 years and over,212.0
+2014,Victims of intentional homicide (Number),,60 years and over,213.0
+2015,Victims of intentional homicide (Number),,60 years and over,245.0
+2016,Victims of intentional homicide (Number),,60 years and over,290.0
+2017,Victims of intentional homicide (Number),,60 years and over,312.0
+2018,Victims of intentional homicide (Number),,60 years and over,233.0
