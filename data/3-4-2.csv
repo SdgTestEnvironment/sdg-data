@@ -1,9 +1,9 @@
-Year,Units,timeseries,Value
-2010,per 100 000 inhabitants,suicide mortality rate,12.3
-2011,per 100 000 inhabitants,suicide mortality rate,12.6
-2012,per 100 000 inhabitants,suicide mortality rate,12.3
-2013,per 100 000 inhabitants,suicide mortality rate,12.5
-2014,per 100 000 inhabitants,suicide mortality rate,12.6
-2015,per 100 000 inhabitants,suicide mortality rate,12.3
-2016,per 100 000 inhabitants,suicide mortality rate,11.9
-2017,per 100 000 inhabitants,suicide mortality rate,11.2
+Year,timeseries,Value
+per 100 000 inhabitants,suicide mortality rate,12.3
+per 100 000 inhabitants,suicide mortality rate,12.6
+per 100 000 inhabitants,suicide mortality rate,12.3
+per 100 000 inhabitants,suicide mortality rate,12.5
+per 100 000 inhabitants,suicide mortality rate,12.6
+per 100 000 inhabitants,suicide mortality rate,12.3
+per 100 000 inhabitants,suicide mortality rate,11.9
+per 100 000 inhabitants,suicide mortality rate,11.2
