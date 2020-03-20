@@ -25,31 +25,31 @@ prose:
             label: "Layout"
             scope: page
     ######### Global Metadata #########
-      - name: "indicator_name"
-        field:
-            element: text
-            label: "Indicator name"
-            scope: global
-      - name: "indicator"
-        field:
-            element: hidden
-            label: "Indicator number"
-            scope: global
-      - name: "indicator_sort_order"
-        field:
-            element: text
-            label: "Indicator display order (within Goal page)"
-            scope: global
       - name: "target"
         field:
             element: text
             label: "Target name"
             scope: global
-      - name: "target_id"
+      #- name: "target_id"
+        #field:
+            #element: hidden
+            #label: "Target number"
+            #scope: global
+      - name: "indicator_name"
         field:
             element: text
-            label: "Target number"
+            label: "Indicator name"
             scope: global
+      #- name: "indicator"
+        #field:
+            #element: hidden
+            #label: "Indicator number"
+            #scope: global
+      #- name: "indicator_sort_order"
+        #field:
+            #element: hidden
+            #label: "Indicator display order (within Goal page)"
+            #scope: global
       - name: "un_designated_tier"
         field:
             element: text
