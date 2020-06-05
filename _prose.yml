@@ -1,4 +1,5 @@
-# Prose configuration
+# This determines the schema that all indicator metadata must follow.
+# It also provides a configuration for the Prose.io file-editing service.
 prose:
   metadata:
     meta:
@@ -83,28 +84,6 @@ prose:
             translation_key: metadata_fields.goal_meta_link_text
             value: "UN metadata"
             scope: global
-      - name: "goal_meta_2_link"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.goal_meta_link
-            scope: global
-      - name: "goal_meta_2_link_text"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.goal_meta_link_text
-            value: "UN metadata"
-            scope: global
-      ###---#22 additionalDataAsEmbedded---start------------------------------
-      ######### additional #######################
-      - name: "additional_information"
-        field:
-          element: text
-          label: "Additional information"
-          scope: additional_information
-      ###---#22 additionalDataAsEmbedded---stop-------------------------------
-
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
@@ -330,45 +309,6 @@ prose:
             translation_key: metadata_fields.source_url_text_1
             value: "Link to source"
             scope: source_1
-      - name: "source_url_1b"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-            scope: source_1
-      - name: "source_url_text_1b"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1c"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-            scope: source_1
-      - name: "source_url_text_1c"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_1
-      - name: "source_url_1d"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-            scope: source_1
-      - name: "source_url_text_1d"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_1
       - name: "source_release_date_1"
         field:
             element: text
@@ -447,44 +387,6 @@ prose:
             label: "Link to data source text"
             translation_key: metadata_fields.source_url_text_1
             value: "Link to Source"
-            scope: source_2
-      - name: "source_url_2b"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-            scope: source_2
-      - name: "source_url_text_2b"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_2
-      - name: "source_url_2c"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-            scope: source_2
-      - name: "source_url_text_2c"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_2
-      - name: "source_url_2d"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-      - name: "source_url_text_2d"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
             scope: source_2
       - name: "source_release_date_2"
         field:
@@ -565,45 +467,6 @@ prose:
             label: "Link to data source text"
             translation_key: metadata_fields.source_url_text_1
             scope: source_3
-      - name: "source_url_3b"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-            scope: source_3
-      - name: "source_url_text_3b"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_3
-      - name: "source_url_3c"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-            scope: source_3
-      - name: "source_url_text_3c"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_3
-      - name: "source_url_3d"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-            scope: source_3
-      - name: "source_url_text_3d"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_3
       - name: "source_release_date_3"
         field:
             element: text
@@ -680,45 +543,6 @@ prose:
         field:
             element: text
             label: "Link to data source text"
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_4
-      - name: "source_url_4b"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-            scope: source_4
-      - name: "source_url_text_4b"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_4
-      - name: "source_url_4c"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-            scope: source_4
-      - name: "source_url_text_4c"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_4
-      - name: "source_url_4d"
-        field:
-            element: text
-            label: ""
-            translation_key: metadata_fields.source_url_1
-            scope: source_4
-      - name: "source_url_text_4d"
-        field:
-            element: text
-            label: ""
             translation_key: metadata_fields.source_url_text_1
             value: "Link to source"
             scope: source_4
