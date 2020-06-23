@@ -90,7 +90,7 @@ reporting_status_extra_fields:
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 #map_layers:
-  - geojson_file: https://g205sdgs.github.io/sdg-data/Ländergrenzen_ohne_Seegrenzen.geojson
+  - geojson_file: https://g205sdgs.github.io/sdg-data/bounds.geojson
     name_property: GEN
     id_property: AGS
     #output_subfolder: regions
