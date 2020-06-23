@@ -90,7 +90,7 @@ reporting_status_extra_fields:
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 map_layers:
-  - geojson_file: bounds.geojson
+  - geojson_file: /bounds.geojson
     name_property: GEN
     id_property: AGS
     #output_subfolder: regions
