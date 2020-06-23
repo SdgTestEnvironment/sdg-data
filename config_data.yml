@@ -93,5 +93,5 @@ map_layers:
   - geojson_file: bounds.geojson
     name_property: GEN
     id_property: AGS
-    output_subfolder: regions
-    filename_prefix: indicator_
+    #output_subfolder: regions
+    #filename_prefix: indicator_
