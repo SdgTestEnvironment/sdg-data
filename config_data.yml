@@ -73,6 +73,8 @@ translations:
   - class: TranslationInputYaml
     source: translations
 
+hide_empty_metadata: true
+
 # Reporting status extra fields
 # -----------------------------
 # This allows the build to generate stats for reporting status by additional
