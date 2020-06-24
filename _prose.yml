@@ -276,7 +276,7 @@ prose:
         field:
             element: text
             label: ""
-            scope: source_1 
+            scope: source_1
       - name: source_organisation_1
         field:
             element: text
@@ -356,6 +356,11 @@ prose:
             translation_key: metadata_fields.source_active_1
             help: Whether or not to display this source
             value: false
+      - name: source_organisation_logo_2
+        field:
+            element: text
+            label: ""
+            scope: source_2
       - name: source_organisation_2
         field:
             element: text
@@ -435,6 +440,11 @@ prose:
             translation_key: metadata_fields.source_active_1
             help: Whether or not to display this source
             value: false
+      - name: source_organisation_logo_3
+        field:
+            element: text
+            label: ""
+            scope: source_3
       - name: source_organisation_3
         field:
             element: text
@@ -514,6 +524,11 @@ prose:
             translation_key: metadata_fields.source_active_1
             help: Whether or not to display this source
             value: false
+      - name: source_organisation_logo_4
+        field:
+            element: text
+            label: ""
+            scope: source_4
       - name: source_organisation_4
         field:
             element: text
@@ -593,6 +608,11 @@ prose:
             translation_key: metadata_fields.source_active_1
             help: Whether or not to display this source
             value: false
+      - name: source_organisation_logo_5
+        field:
+            element: text
+            label: ""
+            scope: source_5
       - name: source_organisation_5
         field:
             element: text
@@ -672,6 +692,11 @@ prose:
             translation_key: metadata_fields.source_active_1
             help: Whether or not to display this source
             value: false
+      - name: source_organisation_logo_6
+        field:
+            element: text
+            label: ""
+            scope: source_6
       - name: source_organisation_6
         field:
             element: text
