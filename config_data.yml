@@ -73,7 +73,6 @@ translations:
   - class: TranslationInputYaml
     source: translations
 
-hide_empty_metadata: true
 
 # Reporting status extra fields
 # -----------------------------
