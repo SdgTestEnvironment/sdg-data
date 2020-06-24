@@ -272,6 +272,11 @@ prose:
             translation_key: metadata_fields.source_active_1
             help: Whether or not to display this source
             value: true
+      - name: source_organisation_logo_1
+        field:
+            element: text
+            label: ""
+            scope: source_1 
       - name: source_organisation_1
         field:
             element: text
