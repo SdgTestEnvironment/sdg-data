@@ -41,6 +41,44 @@ prose:
             label: "Indicator number"
             translation_key: metadata_fields.indicator
             scope: global
+
+
+
+      - name: "goal_meta_link"
+        field:
+            element: text
+            label: "Link to UN metadata"
+            scope: global
+      - name: "goal_meta_link_text"
+        field:
+            element: text
+            label: "Link to UN metadata text"
+            value: "UN metadata"
+            scope: global
+      - name: "goal_meta_2_link"
+        field:
+            element: text
+            label: ""
+            scope: global
+      - name: "goal_meta_2_link_text"
+        field:
+            element: text
+            label: ""
+            value: "UN metadata"
+            scope: global
+      - name: "goal_meta_3_link"
+        field:
+            element: text
+            label: ""
+            scope: global
+      - name: "goal_meta_3_link_text"
+        field:
+            element: text
+            label: ""
+            value: "UN metadata"
+            scope: global
+
+
       - name: "target_name"
         field:
             element: text
@@ -97,6 +135,21 @@ prose:
             label: "Indicator description"
             translation_key: metadata_fields.national_indicator_description
             scope: national
+
+
+      - name: "goal_meta_national_link"
+        field:
+            element: text
+            label: "Link to national metadata"
+            scope: national
+      - name: "goal_meta_national_link_text"
+        field:
+            element: text
+            label: "Link to national metadata text"
+            value: "UN metadata"
+            scope: national
+
+
       - name: "national_geographical_coverage"
         field:
             element: text
