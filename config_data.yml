@@ -82,6 +82,10 @@ reporting_status_extra_fields:
   - un_designated_tier
   #- un_custodian_agency
 
+
+hide_empty_metadata: true
+
+
 # Map layers
 # ----------
 # This allows the build to generate one or more GeoJSON files to be used by
