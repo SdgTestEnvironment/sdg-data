@@ -136,6 +136,13 @@ prose:
             translation_key: metadata_fields.national_indicator_description
             scope: national
 
+      - name: "comparison_sdg"
+        field:
+            element: text
+            label: "Comparison to global metadata"
+            translation_key: metadata_fields.comparison_sdg
+            scope: national
+
 
       - name: "goal_meta_national_link"
         field:
