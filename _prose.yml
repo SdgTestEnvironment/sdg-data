@@ -29,12 +29,12 @@ prose:
             translation_key: metadata_fields.layout
             scope: page
     ######### Global Metadata #########
-    - name: "target_name"
-      field:
-          element: text
-          label: "Target name"
-          translation_key: metadata_fields.target
-          scope: global
+      - name: "target_name"
+        field:
+            element: text
+            label: "Target name"
+            translation_key: metadata_fields.target
+            scope: global
     # - name: "target_id"
     #   field:
     #       element: text
