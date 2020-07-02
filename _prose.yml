@@ -145,12 +145,12 @@ prose:
             scope: national
 
 
-      - name: "national_geographical_coverage"
-        field:
-            element: text
-            label: "Geographical coverage"
-            translation_key: metadata_fields.national_geographical_coverage
-            scope: national
+      # - name: "national_geographical_coverage"
+      #   field:
+      #       element: text
+      #       label: "Geographical coverage"
+      #       translation_key: metadata_fields.national_geographical_coverage
+      #       scope: national
       - name: "computation_units"
         field:
             element: text
