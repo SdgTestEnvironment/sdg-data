@@ -1,11 +1,11 @@
-Year,Time series,methodology,Value
-2010,Hepatitis B incidence,a) to 2014,0.94
-2011,Hepatitis B incidence,a) to 2014,1.01
-2012,Hepatitis B incidence,a) to 2014,0.84
-2013,Hepatitis B incidence,a) to 2014,0.86
-2014,Hepatitis B incidence,a) to 2014,0.93
-2015,Hepatitis B incidence,b) 2015 to 2018,4.77
-2016,Hepatitis B incidence,b) 2015 to 2018,4.23
-2017,Hepatitis B incidence,b) 2015 to 2018,4.34
-2018,Hepatitis B incidence,b) 2015 to 2018,5.42
-2019,Hepatitis B incidence,c) since 2019,10.71
+Year,methodology,Value
+2010,To 2014,0.94
+2011,To 2014,1.01
+2012,To 2014,0.84
+2013,To 2014,0.86
+2014,To 2014,0.93
+2015,From 2015 to 2018,4.77
+2016,From 2015 to 2018,4.23
+2017,From 2015 to 2018,4.34
+2018,From 2015 to 2018,5.42
+2019,From 2019,10.71
