@@ -52,24 +52,24 @@ Year,Units,timeseries,Value
 2016,bn eur,gross fixed capital formation,634.0
 2017,bn eur,gross fixed capital formation,665.7
 2018,bn eur,gross fixed capital formation,703.4
-2010,mn h,hours worked by employees,47845.0
-2011,mn h,hours worked by employees,48665.0
-2012,mn h,hours worked by employees,48776.0
-2013,mn h,hours worked by employees,48890.0
-2014,mn h,hours worked by employees,49703.0
-2015,mn h,hours worked by employees,50454.0
-2016,mn h,hours worked by employees,51013.0
-2017,mn h,hours worked by employees,51949.0
-2018,mn h,hours worked by employees,53002.0
-2010,mn h,hours worked by persons employed,57013.0
-2011,mn h,hours worked by persons employed,57909.0
-2012,mn h,hours worked by persons employed,57835.0
-2013,mn h,hours worked by persons employed,57668.0
-2014,mn h,hours worked by persons employed,58327.0
-2015,mn h,hours worked by persons employed,58997.0
-2016,mn h,hours worked by persons employed,59477.0
-2017,mn h,hours worked by persons employed,60222.0
-2018,mn h,hours worked by persons employed,61068.0
+2010,mn h,hours worked by employees,47845
+2011,mn h,hours worked by employees,48665
+2012,mn h,hours worked by employees,48776
+2013,mn h,hours worked by employees,48890
+2014,mn h,hours worked by employees,49703
+2015,mn h,hours worked by employees,50454
+2016,mn h,hours worked by employees,51013
+2017,mn h,hours worked by employees,51949
+2018,mn h,hours worked by employees,53002
+2010,mn h,hours worked by persons employed,57013
+2011,mn h,hours worked by persons employed,57909
+2012,mn h,hours worked by persons employed,57835
+2013,mn h,hours worked by persons employed,57668
+2014,mn h,hours worked by persons employed,58327
+2015,mn h,hours worked by persons employed,58997
+2016,mn h,hours worked by persons employed,59477
+2017,mn h,hours worked by persons employed,60222
+2018,mn h,hours worked by persons employed,61086
 2010,2010 = 100,labour productivity per hour worked by employee,100.0
 2011,2010 = 100,labour productivity per hour worked by employee,101.9
 2012,2010 = 100,labour productivity per hour worked by employee,102.2
@@ -88,15 +88,15 @@ Year,Units,timeseries,Value
 2016,2010 = 100,labour productivity per hour worked by persons employed,106.7
 2017,2010 = 100,labour productivity per hour worked by persons employed,107.6
 2018,2010 = 100,labour productivity per hour worked by persons employed,107.6
-2010,1 000,persons employed,41020.0
-2011,1 000,persons employed,41577.0
-2012,1 000,persons employed,42061.0
-2013,1 000,persons employed,42319.0
-2014,1 000,persons employed,42671.0
-2015,1 000,persons employed,43071.0
-2016,1 000,persons employed,43642.0
-2017,1 000,persons employed,44269.0
-2018,1 000,persons employed,44841.0
+2010,1 000,persons employed,41020
+2011,1 000,persons employed,41577
+2012,1 000,persons employed,42061
+2013,1 000,persons employed,42319
+2014,1 000,persons employed,42671
+2015,1 000,persons employed,43071
+2016,1 000,persons employed,43642
+2017,1 000,persons employed,44269
+2018,1 000,persons employed,44841
 2010,2010 = 100,real gdp per capita,100.0
 2011,2010 = 100,real gdp per capita,103.7
 2012,2010 = 100,real gdp per capita,104.0

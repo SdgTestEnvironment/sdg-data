@@ -7,14 +7,6 @@ Year,substance,sex,Value
 2015,a) drugs,,51919
 2016,a) drugs,,52621
 2017,a) drugs,,51806
-2010,a) drugs,male,26656
-2011,a) drugs,male,26241
-2012,a) drugs,male,25566
-2013,a) drugs,male,29266
-2014,a) drugs,male,36515
-2015,a) drugs,male,38689
-2016,a) drugs,male,39318
-2017,a) drugs,male,38925
 2010,a) drugs,female,10451
 2011,a) drugs,female,10607
 2012,a) drugs,female,10600
@@ -23,6 +15,14 @@ Year,substance,sex,Value
 2015,a) drugs,female,13230
 2016,a) drugs,female,13303
 2017,a) drugs,female,12881
+2010,a) drugs,male,26656
+2011,a) drugs,male,26241
+2012,a) drugs,male,25566
+2013,a) drugs,male,29266
+2014,a) drugs,male,36515
+2015,a) drugs,male,38689
+2016,a) drugs,male,39318
+2017,a) drugs,male,38925
 2010,b) alcohol and other psychoactive substances (total),,191512
 2011,b) alcohol and other psychoactive substances (total),,192159
 2012,b) alcohol and other psychoactive substances (total),,195976
@@ -31,14 +31,6 @@ Year,substance,sex,Value
 2015,b) alcohol and other psychoactive substances (total),,176185
 2016,b) alcohol and other psychoactive substances (total),,170467
 2017,b) alcohol and other psychoactive substances (total),,165834
-2010,b) alcohol and other psychoactive substances (total),male,142373
-2011,b) alcohol and other psychoactive substances (total),male,141363
-2012,b) alcohol and other psychoactive substances (total),male,143488
-2013,b) alcohol and other psychoactive substances (total),male,143201
-2014,b) alcohol and other psychoactive substances (total),male,135845
-2015,b) alcohol and other psychoactive substances (total),male,129808
-2016,b) alcohol and other psychoactive substances (total),male,125878
-2017,b) alcohol and other psychoactive substances (total),male,122260
 2010,b) alcohol and other psychoactive substances (total),female,49139
 2011,b) alcohol and other psychoactive substances (total),female,50796
 2012,b) alcohol and other psychoactive substances (total),female,52487
@@ -47,31 +39,15 @@ Year,substance,sex,Value
 2015,b) alcohol and other psychoactive substances (total),female,46377
 2016,b) alcohol and other psychoactive substances (total),female,44589
 2017,b) alcohol and other psychoactive substances (total),female,43574
+2010,b) alcohol and other psychoactive substances (total),male,142373
+2011,b) alcohol and other psychoactive substances (total),male,141363
+2012,b) alcohol and other psychoactive substances (total),male,143488
+2013,b) alcohol and other psychoactive substances (total),male,143201
+2014,b) alcohol and other psychoactive substances (total),male,135845
+2015,b) alcohol and other psychoactive substances (total),male,129808
+2016,b) alcohol and other psychoactive substances (total),male,125878
+2017,b) alcohol and other psychoactive substances (total),male,122260
 2012,b) alcohol and other psychoactive substances (total),unknown,1
-2010,d) alcohol and other psychoactive substances (other psychoactive substances),,30660
-2011,d) alcohol and other psychoactive substances (other psychoactive substances),,29170
-2012,d) alcohol and other psychoactive substances (other psychoactive substances),,29104
-2013,d) alcohol and other psychoactive substances (other psychoactive substances),,28500
-2014,d) alcohol and other psychoactive substances (other psychoactive substances),,19932
-2015,d) alcohol and other psychoactive substances (other psychoactive substances),,17871
-2016,d) alcohol and other psychoactive substances (other psychoactive substances),,16235
-2017,d) alcohol and other psychoactive substances (other psychoactive substances),,14343
-2010,d) alcohol and other psychoactive substances (other psychoactive substances),female,7008
-2011,d) alcohol and other psychoactive substances (other psychoactive substances),female,6723
-2012,d) alcohol and other psychoactive substances (other psychoactive substances),female,6790
-2013,d) alcohol and other psychoactive substances (other psychoactive substances),female,6429
-2014,d) alcohol and other psychoactive substances (other psychoactive substances),female,4405
-2015,d) alcohol and other psychoactive substances (other psychoactive substances),female,3859
-2016,d) alcohol and other psychoactive substances (other psychoactive substances),female,3367
-2017,d) alcohol and other psychoactive substances (other psychoactive substances),female,3060
-2010,d) alcohol and other psychoactive substances (other psychoactive substances),male,23652
-2011,d) alcohol and other psychoactive substances (other psychoactive substances),male,22447
-2012,d) alcohol and other psychoactive substances (other psychoactive substances),male,22314
-2013,d) alcohol and other psychoactive substances (other psychoactive substances),male,22071
-2014,d) alcohol and other psychoactive substances (other psychoactive substances),male,15527
-2015,d) alcohol and other psychoactive substances (other psychoactive substances),male,14012
-2016,d) alcohol and other psychoactive substances (other psychoactive substances),male,12868
-2017,d) alcohol and other psychoactive substances (other psychoactive substances),male,11283
 2010,c) alcohol and other psychoactive substances (alcohol),,160852
 2011,c) alcohol and other psychoactive substances (alcohol),,162989
 2012,c) alcohol and other psychoactive substances (alcohol),,166872
@@ -97,3 +73,27 @@ Year,substance,sex,Value
 2016,c) alcohol and other psychoactive substances (alcohol),male,113010
 2017,c) alcohol and other psychoactive substances (alcohol),male,110977
 2012,c) alcohol and other psychoactive substances (alcohol),unknown,1
+2010,d) alcohol and other psychoactive substances (other psychoactive substances),,30660
+2011,d) alcohol and other psychoactive substances (other psychoactive substances),,29170
+2012,d) alcohol and other psychoactive substances (other psychoactive substances),,29104
+2013,d) alcohol and other psychoactive substances (other psychoactive substances),,28500
+2014,d) alcohol and other psychoactive substances (other psychoactive substances),,19932
+2015,d) alcohol and other psychoactive substances (other psychoactive substances),,17871
+2016,d) alcohol and other psychoactive substances (other psychoactive substances),,16235
+2017,d) alcohol and other psychoactive substances (other psychoactive substances),,14343
+2010,d) alcohol and other psychoactive substances (other psychoactive substances),female,7008
+2011,d) alcohol and other psychoactive substances (other psychoactive substances),female,6723
+2012,d) alcohol and other psychoactive substances (other psychoactive substances),female,6790
+2013,d) alcohol and other psychoactive substances (other psychoactive substances),female,6429
+2014,d) alcohol and other psychoactive substances (other psychoactive substances),female,4405
+2015,d) alcohol and other psychoactive substances (other psychoactive substances),female,3859
+2016,d) alcohol and other psychoactive substances (other psychoactive substances),female,3367
+2017,d) alcohol and other psychoactive substances (other psychoactive substances),female,3060
+2010,d) alcohol and other psychoactive substances (other psychoactive substances),male,23652
+2011,d) alcohol and other psychoactive substances (other psychoactive substances),male,22447
+2012,d) alcohol and other psychoactive substances (other psychoactive substances),male,22314
+2013,d) alcohol and other psychoactive substances (other psychoactive substances),male,22071
+2014,d) alcohol and other psychoactive substances (other psychoactive substances),male,15527
+2015,d) alcohol and other psychoactive substances (other psychoactive substances),male,14012
+2016,d) alcohol and other psychoactive substances (other psychoactive substances),male,12868
+2017,d) alcohol and other psychoactive substances (other psychoactive substances),male,11283
