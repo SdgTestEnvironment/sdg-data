@@ -8,15 +8,6 @@ Year,age,sex,Value
 2016,13 years and under,,36
 2017,13 years and under,,67
 2018,13 years and under,,18
-2010,13 years and under,male,9
-2011,13 years and under,male,16
-2012,13 years and under,male,8
-2013,13 years and under,male,12
-2014,13 years and under,male,13
-2015,13 years and under,male,12
-2016,13 years and under,male,21
-2017,13 years and under,male,51
-2018,13 years and under,male,9
 2010,13 years and under,female,2
 2011,13 years and under,female,13
 2012,13 years and under,female,11
@@ -26,6 +17,15 @@ Year,age,sex,Value
 2016,13 years and under,female,15
 2017,13 years and under,female,16
 2018,13 years and under,female,9
+2010,13 years and under,male,9
+2011,13 years and under,male,16
+2012,13 years and under,male,8
+2013,13 years and under,male,12
+2014,13 years and under,male,13
+2015,13 years and under,male,12
+2016,13 years and under,male,21
+2017,13 years and under,male,51
+2018,13 years and under,male,9
 2010,14 to under 18 years,,108
 2011,14 to under 18 years,,95
 2012,14 to under 18 years,,96
@@ -35,15 +35,6 @@ Year,age,sex,Value
 2016,14 to under 18 years,,111
 2017,14 to under 18 years,,53
 2018,14 to under 18 years,,112
-2010,14 to under 18 years,male,11
-2011,14 to under 18 years,male,13
-2012,14 to under 18 years,male,8
-2013,14 to under 18 years,male,13
-2014,14 to under 18 years,male,10
-2015,14 to under 18 years,male,7
-2016,14 to under 18 years,male,11
-2017,14 to under 18 years,male,4
-2018,14 to under 18 years,male,16
 2010,14 to under 18 years,female,97
 2011,14 to under 18 years,female,82
 2012,14 to under 18 years,female,88
@@ -53,3 +44,12 @@ Year,age,sex,Value
 2016,14 to under 18 years,female,100
 2017,14 to under 18 years,female,49
 2018,14 to under 18 years,female,96
+2010,14 to under 18 years,male,11
+2011,14 to under 18 years,male,13
+2012,14 to under 18 years,male,8
+2013,14 to under 18 years,male,13
+2014,14 to under 18 years,male,10
+2015,14 to under 18 years,male,7
+2016,14 to under 18 years,male,11
+2017,14 to under 18 years,male,4
+2018,14 to under 18 years,male,16
