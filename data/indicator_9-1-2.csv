@@ -35,14 +35,13 @@ Year,Units,timeseries,mode of transport,Value
 2014,mn pkm,a) passenger transport,motorised private transport,934960
 2015,mn pkm,a) passenger transport,motorised private transport,945730
 2016,mn pkm,a) passenger transport,motorised private transport,965460
-2010,mn tkm,b) freight transport,commercial air transport,1428
-2011,mn tkm,b) freight transport,commercial air transport,1480
-2012,mn tkm,b) freight transport,commercial air transport,1420
-2013,mn tkm,b) freight transport,commercial air transport,1410
-2014,mn tkm,b) freight transport,commercial air transport,1441
-2015,mn tkm,b) freight transport,commercial air transport,1447
-2016,mn tkm,b) freight transport,commercial air transport,1519
-2017,mn tkm,b) freight transport,commercial air transport,1617
+2010,mn tkm,b) freight transport,,627857
+2011,mn tkm,b) freight transport,,627966
+2012,mn tkm,b) freight transport,,618911
+2013,mn tkm,b) freight transport,,636011
+2014,mn tkm,b) freight transport,,643567
+2015,mn tkm,b) freight transport,,651928
+2016,mn tkm,b) freight transport,,666923
 2010,mn tkm,b) freight transport,road transport,440600
 2011,mn tkm,b) freight transport,road transport,442635
 2012,mn tkm,b) freight transport,road transport,431999
@@ -50,15 +49,6 @@ Year,Units,timeseries,mode of transport,Value
 2014,mn tkm,b) freight transport,road transport,452939
 2015,mn tkm,b) freight transport,road transport,460200
 2016,mn tkm,b) freight transport,road transport,464000
-2010,mn tkm,b) freight transport,transport via pipeline crude oil,16259
-2011,mn tkm,b) freight transport,transport via pipeline crude oil,15623
-2012,mn tkm,b) freight transport,transport via pipeline crude oil,16207
-2013,mn tkm,b) freight transport,transport via pipeline crude oil,18180
-2014,mn tkm,b) freight transport,transport via pipeline crude oil,17541
-2015,mn tkm,b) freight transport,transport via pipeline crude oil,17714
-2016,mn tkm,b) freight transport,transport via pipeline crude oil,18761
-2017,mn tkm,b) freight transport,transport via pipeline crude oil,18239
-2018,mn tkm,b) freight transport,transport via pipeline crude oil,17225
 2010,mn tkm,b) freight transport,rail transport,107292
 2011,mn tkm,b) freight transport,rail transport,113201
 2012,mn tkm,b) freight transport,rail transport,110797
@@ -67,13 +57,6 @@ Year,Units,timeseries,mode of transport,Value
 2015,mn tkm,b) freight transport,rail transport,117252
 2016,mn tkm,b) freight transport,rail transport,128296
 2017,mn tkm,b) freight transport,rail transport,129361
-2010,mn tkm,b) freight transport,,627857
-2011,mn tkm,b) freight transport,,627966
-2012,mn tkm,b) freight transport,,618911
-2013,mn tkm,b) freight transport,,636011
-2014,mn tkm,b) freight transport,,643567
-2015,mn tkm,b) freight transport,,651928
-2016,mn tkm,b) freight transport,,666923
 2010,mn tkm,b) freight transport,inland waterway transport,62278
 2011,mn tkm,b) freight transport,inland waterway transport,55027
 2012,mn tkm,b) freight transport,inland waterway transport,58488
@@ -83,3 +66,20 @@ Year,Units,timeseries,mode of transport,Value
 2016,mn tkm,b) freight transport,inland waterway transport,54347
 2017,mn tkm,b) freight transport,inland waterway transport,55518
 2018,mn tkm,b) freight transport,inland waterway transport,46900
+2010,mn tkm,b) freight transport,commercial air transport,1428
+2011,mn tkm,b) freight transport,commercial air transport,1480
+2012,mn tkm,b) freight transport,commercial air transport,1420
+2013,mn tkm,b) freight transport,commercial air transport,1410
+2014,mn tkm,b) freight transport,commercial air transport,1441
+2015,mn tkm,b) freight transport,commercial air transport,1447
+2016,mn tkm,b) freight transport,commercial air transport,1519
+2017,mn tkm,b) freight transport,commercial air transport,1617
+2010,mn tkm,b) freight transport,transport via pipeline crude oil,16259
+2011,mn tkm,b) freight transport,transport via pipeline crude oil,15623
+2012,mn tkm,b) freight transport,transport via pipeline crude oil,16207
+2013,mn tkm,b) freight transport,transport via pipeline crude oil,18180
+2014,mn tkm,b) freight transport,transport via pipeline crude oil,17541
+2015,mn tkm,b) freight transport,transport via pipeline crude oil,17714
+2016,mn tkm,b) freight transport,transport via pipeline crude oil,18761
+2017,mn tkm,b) freight transport,transport via pipeline crude oil,18239
+2018,mn tkm,b) freight transport,transport via pipeline crude oil,17225

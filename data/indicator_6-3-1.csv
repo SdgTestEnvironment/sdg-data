@@ -1,10 +1,4 @@
 Year,treatment,type of waste water,Value
-2010,untreated wastewater that does not have to undergo treatment,other wastewater that does not have to undergo treatment,4.4
-2013,untreated wastewater that does not have to undergo treatment,other wastewater that does not have to undergo treatment,5.5
-2016,untreated wastewater that does not have to undergo treatment,other wastewater that does not have to undergo treatment,5.7
-2010,untreated wastewater that does not have to undergo treatment,cooling water,68.3
-2013,untreated wastewater that does not have to undergo treatment,cooling water,60.3
-2016,untreated wastewater that does not have to undergo treatment,cooling water,59.7
 2010,safely treated wastewater (total),,100
 2011,safely treated wastewater (total),,100
 2012,safely treated wastewater (total),,100
@@ -17,3 +11,9 @@ Year,treatment,type of waste water,Value
 2010,untreated wastewater that does not have to undergo treatment,,72.7
 2013,untreated wastewater that does not have to undergo treatment,,65.8
 2016,untreated wastewater that does not have to undergo treatment,,65.4
+2010,untreated wastewater that does not have to undergo treatment,cooling water,68.3
+2013,untreated wastewater that does not have to undergo treatment,cooling water,60.3
+2016,untreated wastewater that does not have to undergo treatment,cooling water,59.7
+2010,untreated wastewater that does not have to undergo treatment,other wastewater that does not have to undergo treatment,4.4
+2013,untreated wastewater that does not have to undergo treatment,other wastewater that does not have to undergo treatment,5.5
+2016,untreated wastewater that does not have to undergo treatment,other wastewater that does not have to undergo treatment,5.7
