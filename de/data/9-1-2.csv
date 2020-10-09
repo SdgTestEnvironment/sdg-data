@@ -35,14 +35,13 @@ Year,Units,Zeitreihe,Verkehrsmittel,Value
 2014,Mill. Pkm,a) Personenverkehr,Motorisierter Individualverkehr,934960
 2015,Mill. Pkm,a) Personenverkehr,Motorisierter Individualverkehr,945730
 2016,Mill. Pkm,a) Personenverkehr,Motorisierter Individualverkehr,965460
-2010,Mill. tkm,b) Güterverkehr,Luftverkehr,1428
-2011,Mill. tkm,b) Güterverkehr,Luftverkehr,1480
-2012,Mill. tkm,b) Güterverkehr,Luftverkehr,1420
-2013,Mill. tkm,b) Güterverkehr,Luftverkehr,1410
-2014,Mill. tkm,b) Güterverkehr,Luftverkehr,1441
-2015,Mill. tkm,b) Güterverkehr,Luftverkehr,1447
-2016,Mill. tkm,b) Güterverkehr,Luftverkehr,1519
-2017,Mill. tkm,b) Güterverkehr,Luftverkehr,1617
+2010,Mill. tkm,b) Güterverkehr,,627857
+2011,Mill. tkm,b) Güterverkehr,,627966
+2012,Mill. tkm,b) Güterverkehr,,618911
+2013,Mill. tkm,b) Güterverkehr,,636011
+2014,Mill. tkm,b) Güterverkehr,,643567
+2015,Mill. tkm,b) Güterverkehr,,651928
+2016,Mill. tkm,b) Güterverkehr,,666923
 2010,Mill. tkm,b) Güterverkehr,Straßenverkehr,440600
 2011,Mill. tkm,b) Güterverkehr,Straßenverkehr,442635
 2012,Mill. tkm,b) Güterverkehr,Straßenverkehr,431999
@@ -50,15 +49,6 @@ Year,Units,Zeitreihe,Verkehrsmittel,Value
 2014,Mill. tkm,b) Güterverkehr,Straßenverkehr,452939
 2015,Mill. tkm,b) Güterverkehr,Straßenverkehr,460200
 2016,Mill. tkm,b) Güterverkehr,Straßenverkehr,464000
-2010,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,16259
-2011,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,15623
-2012,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,16207
-2013,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,18180
-2014,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,17541
-2015,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,17714
-2016,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,18761
-2017,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,18239
-2018,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,17225
 2010,Mill. tkm,b) Güterverkehr,Eisenbahnverkehr,107292
 2011,Mill. tkm,b) Güterverkehr,Eisenbahnverkehr,113201
 2012,Mill. tkm,b) Güterverkehr,Eisenbahnverkehr,110797
@@ -67,13 +57,6 @@ Year,Units,Zeitreihe,Verkehrsmittel,Value
 2015,Mill. tkm,b) Güterverkehr,Eisenbahnverkehr,117252
 2016,Mill. tkm,b) Güterverkehr,Eisenbahnverkehr,128296
 2017,Mill. tkm,b) Güterverkehr,Eisenbahnverkehr,129361
-2010,Mill. tkm,b) Güterverkehr,,627857
-2011,Mill. tkm,b) Güterverkehr,,627966
-2012,Mill. tkm,b) Güterverkehr,,618911
-2013,Mill. tkm,b) Güterverkehr,,636011
-2014,Mill. tkm,b) Güterverkehr,,643567
-2015,Mill. tkm,b) Güterverkehr,,651928
-2016,Mill. tkm,b) Güterverkehr,,666923
 2010,Mill. tkm,b) Güterverkehr,Binnenschifffahrt,62278
 2011,Mill. tkm,b) Güterverkehr,Binnenschifffahrt,55027
 2012,Mill. tkm,b) Güterverkehr,Binnenschifffahrt,58488
@@ -83,3 +66,20 @@ Year,Units,Zeitreihe,Verkehrsmittel,Value
 2016,Mill. tkm,b) Güterverkehr,Binnenschifffahrt,54347
 2017,Mill. tkm,b) Güterverkehr,Binnenschifffahrt,55518
 2018,Mill. tkm,b) Güterverkehr,Binnenschifffahrt,46900
+2010,Mill. tkm,b) Güterverkehr,Luftverkehr,1428
+2011,Mill. tkm,b) Güterverkehr,Luftverkehr,1480
+2012,Mill. tkm,b) Güterverkehr,Luftverkehr,1420
+2013,Mill. tkm,b) Güterverkehr,Luftverkehr,1410
+2014,Mill. tkm,b) Güterverkehr,Luftverkehr,1441
+2015,Mill. tkm,b) Güterverkehr,Luftverkehr,1447
+2016,Mill. tkm,b) Güterverkehr,Luftverkehr,1519
+2017,Mill. tkm,b) Güterverkehr,Luftverkehr,1617
+2010,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,16259
+2011,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,15623
+2012,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,16207
+2013,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,18180
+2014,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,17541
+2015,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,17714
+2016,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,18761
+2017,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,18239
+2018,Mill. tkm,b) Güterverkehr,Transport in Rohrleitungen: Rohöl,17225
