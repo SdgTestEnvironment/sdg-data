@@ -1,13 +1,4 @@
 Year,type of disease,Value
-2010,d) chronic respiratory disease,7.4
-2011,d) chronic respiratory disease,7.5
-2012,d) chronic respiratory disease,7.1
-2013,d) chronic respiratory disease,8.0
-2014,d) chronic respiratory disease,7.6
-2015,d) chronic respiratory disease,8.7
-2016,d) chronic respiratory disease,8.8
-2017,d) chronic respiratory disease,9.4
-2018,d) chronic respiratory disease,9.7
 2010,a) cardiovascular disease,45.0
 2011,a) cardiovascular disease,41.8
 2012,a) cardiovascular disease,41.3
@@ -35,3 +26,12 @@ Year,type of disease,Value
 2016,c) diabetes mellitus,3.5
 2017,c) diabetes mellitus,3.8
 2018,c) diabetes mellitus,3.8
+2010,d) chronic respiratory disease,7.4
+2011,d) chronic respiratory disease,7.5
+2012,d) chronic respiratory disease,7.1
+2013,d) chronic respiratory disease,8.0
+2014,d) chronic respiratory disease,7.6
+2015,d) chronic respiratory disease,8.7
+2016,d) chronic respiratory disease,8.8
+2017,d) chronic respiratory disease,9.4
+2018,d) chronic respiratory disease,9.7
