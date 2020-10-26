@@ -1,31 +1,34 @@
 Year,Units,timeseries,Value
-2010,%,annual growth rate of real gdp,4.1
-2011,%,annual growth rate of real gdp,3.7
-2012,%,annual growth rate of real gdp,0.5
-2013,%,annual growth rate of real gdp,0.5
+2010,%,annual growth rate of real gdp,4.2
+2011,%,annual growth rate of real gdp,3.9
+2012,%,annual growth rate of real gdp,0.4
+2013,%,annual growth rate of real gdp,0.4
 2014,%,annual growth rate of real gdp,2.2
-2015,%,annual growth rate of real gdp,1.7
+2015,%,annual growth rate of real gdp,1.5
 2016,%,annual growth rate of real gdp,2.2
-2017,%,annual growth rate of real gdp,2.2
-2018,%,annual growth rate of real gdp,1.4
-2010,bn eur,available income of private households,1561.7
-2011,bn eur,available income of private households,1608.3
-2012,bn eur,available income of private households,1647.7
-2013,bn eur,available income of private households,1669.7
-2014,bn eur,available income of private households,1711.3
-2015,bn eur,available income of private households,1755.2
-2016,bn eur,available income of private households,1807.7
-2017,bn eur,available income of private households,1869.9
-2018,bn eur,available income of private households,1930.0
-2010,bn eur,consumption by private households,1407.0
-2011,bn eur,consumption by private households,1454.0
-2012,bn eur,consumption by private households,1494.7
-2013,bn eur,consumption by private households,1512.6
-2014,bn eur,consumption by private households,1541.3
-2015,bn eur,consumption by private households,1578.3
-2016,bn eur,consumption by private households,1622.1
-2017,bn eur,consumption by private households,1676.6
-2018,bn eur,consumption by private households,1717.3
+2017,%,annual growth rate of real gdp,2.6
+2018,%,annual growth rate of real gdp,1.3
+2019,%,annual growth rate of real gdp,0.6
+2010,bn eur,available income of private households,1525.6
+2011,bn eur,available income of private households,1577.6
+2012,bn eur,available income of private households,1614.0
+2013,bn eur,available income of private households,1637.0
+2014,bn eur,available income of private households,1678.0
+2015,bn eur,available income of private households,1724.5
+2016,bn eur,available income of private households,1784.9
+2017,bn eur,available income of private households,1846.0
+2018,bn eur,available income of private households,1911.6
+2019,bn eur,available income of private households,1969.8
+2010,bn eur,consumption by private households,1372.9
+2011,bn eur,consumption by private households,1423.6
+2012,bn eur,consumption by private households,1465.9
+2013,bn eur,consumption by private households,1492.5
+2014,bn eur,consumption by private households,1521.1
+2015,bn eur,consumption by private households,1559.4
+2016,bn eur,consumption by private households,1608.2
+2017,bn eur,consumption by private households,1656.3
+2018,bn eur,consumption by private households,1706.2
+2019,bn eur,consumption by private households,1755.6
 2010,bn eur,debt level of the total public budget,2011.7
 2011,bn eur,debt level of the total public budget,2025.4
 2012,bn eur,debt level of the total public budget,2068.3
@@ -33,85 +36,96 @@ Year,Units,timeseries,Value
 2014,bn eur,debt level of the total public budget,2043.9
 2015,bn eur,debt level of the total public budget,2020.7
 2016,bn eur,debt level of the total public budget,2009.3
-2017,bn eur,debt level of the total public budget,1967.4
-2010,bn eur,government fiscal balance,-108.9
-2011,bn eur,government fiscal balance,-25.9
-2012,bn eur,government fiscal balance,-0.9
-2013,bn eur,government fiscal balance,-4.0
-2014,bn eur,government fiscal balance,16.7
-2015,bn eur,government fiscal balance,23.9
-2016,bn eur,government fiscal balance,28.7
-2017,bn eur,government fiscal balance,34.0
-2018,bn eur,government fiscal balance,57.3
-2010,bn eur,gross fixed capital formation,501.4
-2011,bn eur,gross fixed capital formation,547.8
-2012,bn eur,gross fixed capital formation,554.7
-2013,bn eur,gross fixed capital formation,556.8
-2014,bn eur,gross fixed capital formation,587.5
-2015,bn eur,gross fixed capital formation,605.5
-2016,bn eur,gross fixed capital formation,634.0
-2017,bn eur,gross fixed capital formation,665.7
-2018,bn eur,gross fixed capital formation,703.4
-2010,mn h,hours worked by employees,47845
-2011,mn h,hours worked by employees,48665
-2012,mn h,hours worked by employees,48776
-2013,mn h,hours worked by employees,48890
-2014,mn h,hours worked by employees,49703
-2015,mn h,hours worked by employees,50454
-2016,mn h,hours worked by employees,51013
-2017,mn h,hours worked by employees,51949
-2018,mn h,hours worked by employees,53002
-2010,mn h,hours worked by persons employed,57013
-2011,mn h,hours worked by persons employed,57909
-2012,mn h,hours worked by persons employed,57835
-2013,mn h,hours worked by persons employed,57668
-2014,mn h,hours worked by persons employed,58327
-2015,mn h,hours worked by persons employed,58997
-2016,mn h,hours worked by persons employed,59477
-2017,mn h,hours worked by persons employed,60222
-2018,mn h,hours worked by persons employed,61086
-2010,2010 = 100,labour productivity per hour worked by employee,100.0
-2011,2010 = 100,labour productivity per hour worked by employee,101.9
-2012,2010 = 100,labour productivity per hour worked by employee,102.2
-2013,2010 = 100,labour productivity per hour worked by employee,102.4
-2014,2010 = 100,labour productivity per hour worked by employee,103.0
-2015,2010 = 100,labour productivity per hour worked by employee,103.2
-2016,2010 = 100,labour productivity per hour worked by employee,104.4
-2017,2010 = 100,labour productivity per hour worked by employee,104.7
-2018,2010 = 100,labour productivity per hour worked by employee,104.1
-2010,2010 = 100,labour productivity per hour worked by persons employed,100.0
-2011,2010 = 100,labour productivity per hour worked by persons employed,102.1
-2012,2010 = 100,labour productivity per hour worked by persons employed,102.7
-2013,2010 = 100,labour productivity per hour worked by persons employed,103.5
-2014,2010 = 100,labour productivity per hour worked by persons employed,104.6
-2015,2010 = 100,labour productivity per hour worked by persons employed,105.2
-2016,2010 = 100,labour productivity per hour worked by persons employed,106.7
-2017,2010 = 100,labour productivity per hour worked by persons employed,107.6
-2018,2010 = 100,labour productivity per hour worked by persons employed,107.6
-2010,1 000,persons employed,41020
-2011,1 000,persons employed,41577
-2012,1 000,persons employed,42061
-2013,1 000,persons employed,42319
-2014,1 000,persons employed,42671
-2015,1 000,persons employed,43071
-2016,1 000,persons employed,43642
-2017,1 000,persons employed,44269
-2018,1 000,persons employed,44841
-2010,2010 = 100,real gdp per capita,100.0
-2011,2010 = 100,real gdp per capita,103.7
-2012,2010 = 100,real gdp per capita,104.0
-2013,2010 = 100,real gdp per capita,104.2
-2014,2010 = 100,real gdp per capita,106.0
-2015,2010 = 100,real gdp per capita,107.0
-2016,2010 = 100,real gdp per capita,108.5
-2017,2010 = 100,real gdp per capita,110.4
-2018,2010 = 100,real gdp per capita,111.6
-2010,bn eur,trade balance,134.1
-2011,bn eur,trade balance,132.1
-2012,bn eur,trade balance,168.0
-2013,bn eur,trade balance,168.4
-2014,bn eur,trade balance,203.5
-2015,bn eur,trade balance,244.1
-2016,bn eur,trade balance,247.5
-2017,bn eur,trade balance,247.8
-2018,bn eur,trade balance,229.2
+2017,bn eur,debt level of the total public budget,1969.1
+2018,bn eur,debt level of the total public budget,1915.8
+2019,bn eur,debt level of the total public budget,1898.8
+2010,bn eur,government fiscal balance,-112.3
+2011,bn eur,government fiscal balance,-23.7
+2012,bn eur,government fiscal balance,0.3
+2013,bn eur,government fiscal balance,1.1
+2014,bn eur,government fiscal balance,17.0
+2015,bn eur,government fiscal balance,29.1
+2016,bn eur,government fiscal balance,36.4
+2017,bn eur,government fiscal balance,44.4
+2018,bn eur,government fiscal balance,61.6
+2019,bn eur,government fiscal balance,52.5
+2010,bn eur,gross fixed capital formation,501.1
+2011,bn eur,gross fixed capital formation,548.7
+2012,bn eur,gross fixed capital formation,557.9
+2013,bn eur,gross fixed capital formation,559.5
+2014,bn eur,gross fixed capital formation,586.7
+2015,bn eur,gross fixed capital formation,605.8
+2016,bn eur,gross fixed capital formation,636.3
+2017,bn eur,gross fixed capital formation,666.0
+2018,bn eur,gross fixed capital formation,709.3
+2019,bn eur,gross fixed capital formation,748.0
+2010,mn h,hours worked by employees,49314
+2011,mn h,hours worked by employees,50102
+2012,mn h,hours worked by employees,50100
+2013,mn h,hours worked by employees,50220
+2014,mn h,hours worked by employees,51032
+2015,mn h,hours worked by employees,51754
+2016,mn h,hours worked by employees,52451
+2017,mn h,hours worked by employees,53233
+2018,mn h,hours worked by employees,54145
+2019,mn h,hours worked by employees,54681
+2010,mn h,hours worked by persons employed,58524
+2011,mn h,hours worked by persons employed,59279
+2012,mn h,hours worked by persons employed,59162
+2013,mn h,hours worked by persons employed,59140
+2014,mn h,hours worked by persons employed,59827
+2015,mn h,hours worked by persons employed,60412
+2016,mn h,hours worked by persons employed,60933
+2017,mn h,hours worked by persons employed,61483
+2018,mn h,hours worked by persons employed,62229
+2019,mn h,hours worked by persons employed,62596
+2010,2015 = 100,labour productivity per hour worked by employee,96.5
+2011,2015 = 100,labour productivity per hour worked by employee,98.7
+2012,2015 = 100,labour productivity per hour worked by employee,99.1
+2013,2015 = 100,labour productivity per hour worked by employee,99.3
+2014,2015 = 100,labour productivity per hour worked by employee,99.9
+2015,2015 = 100,labour productivity per hour worked by employee,100.0
+2016,2015 = 100,labour productivity per hour worked by employee,100.9
+2017,2015 = 100,labour productivity per hour worked by employee,102.0
+2018,2015 = 100,labour productivity per hour worked by employee,101.5
+2019,2015 = 100,labour productivity per hour worked by employee,101.1
+2010,2015 = 100,labour productivity per hour worked by persons employed,94.9
+2011,2015 = 100,labour productivity per hour worked by persons employed,97.4
+2012,2015 = 100,labour productivity per hour worked by persons employed,98.0
+2013,2015 = 100,labour productivity per hour worked by persons employed,98.5
+2014,2015 = 100,labour productivity per hour worked by persons employed,99.5
+2015,2015 = 100,labour productivity per hour worked by persons employed,100.0
+2016,2015 = 100,labour productivity per hour worked by persons employed,101.4
+2017,2015 = 100,labour productivity per hour worked by persons employed,103.1
+2018,2015 = 100,labour productivity per hour worked by persons employed,103.1
+2019,2015 = 100,labour productivity per hour worked by persons employed,103.1
+2010,1 000,persons employed,41048
+2011,1 000,persons employed,41544
+2012,1 000,persons employed,42019
+2013,1 000,persons employed,42350
+2014,1 000,persons employed,42721
+2015,1 000,persons employed,43122
+2016,1 000,persons employed,43661
+2017,1 000,persons employed,44262
+2018,1 000,persons employed,44868
+2019,1 000,persons employed,45269
+2010,2015 = 100,real gdp per capita,93.6
+2011,2015 = 100,real gdp per capita,97.3
+2012,2015 = 100,real gdp per capita,97.5
+2013,2015 = 100,real gdp per capita,97.6
+2014,2015 = 100,real gdp per capita,99.4
+2015,2015 = 100,real gdp per capita,100.0
+2016,2015 = 100,real gdp per capita,101.4
+2017,2015 = 100,real gdp per capita,103.7
+2018,2015 = 100,real gdp per capita,104.7
+2019,2015 = 100,real gdp per capita,105.0
+2010,bn eur,trade balance,134.9
+2011,bn eur,trade balance,132.2
+2012,bn eur,trade balance,167.5
+2013,bn eur,trade balance,161.9
+2014,bn eur,trade balance,193.8
+2015,bn eur,trade balance,229.8
+2016,bn eur,trade balance,231.2
+2017,bn eur,trade balance,228.1
+2018,bn eur,trade balance,206.4
+2019,bn eur,trade balance,199.9
