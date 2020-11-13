@@ -31,10 +31,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Deploy
-      uses: actions/checkout@v2
-      with:
-        persist-credentials: false
+    - uses: actions/checkout@v1
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
@@ -47,7 +44,7 @@ jobs:
       run: |
         python scripts/build_data.py
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.6.1
+      uses: JamesIves/github-pages-deploy-action@3.6.2
       with:
         REPOSITORY_NAME: sustainabledevelopment-germany/sdg-data-pub
         ACCESS_TOKEN: ${{ secrets.token }}
