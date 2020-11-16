@@ -48,6 +48,6 @@ jobs:
       with:
         REPOSITORY_NAME: sustainabledevelopment-germany/sdg-data-pub
         ACCESS_TOKEN: ${{ secrets.token }}
-        BRANCH: gh-pages
+        BRANCH: master #gh-pages
         FOLDER: _site
         CLEAN: true
