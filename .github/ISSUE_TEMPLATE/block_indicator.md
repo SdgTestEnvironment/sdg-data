@@ -1,7 +1,7 @@
 ---
-name: 'Indikator:'
+name: 'Indikator blockieren'
 about: 'Dieses Issue wird angelegt, um einen Indikator als "zu prüfen" zu markieren'
-title: ''
+title: 'Indikator:'
 labels: ''
 assignees: ''
 
