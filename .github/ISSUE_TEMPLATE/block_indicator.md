@@ -9,4 +9,4 @@ assignees: ''
 
 Der im Titel genannte Indikator muss von untenstehender Person auf [dieser Seite](https://sdgtestenvironment.github.io/sdg-indicators/) geprüft werden.
 
-Prüfer: @
+Prüfer: 
