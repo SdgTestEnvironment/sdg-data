@@ -2,6 +2,7 @@ Value,en,Disaggregation combinations using this value,Number of indicators
 a) Zweigstellen von Zahlungsverkehrsdienstleistern,a) Branches of payment service providers,1,1
 Staatsausgaben für Gesundheit (COFOG Abteilung 7),Government expenditure on health (COFOG division 7),1,1
 a) Erzeugte gefährliche Abfälle,a) Hazardous waste generated per capita,1,1
+Verpflichtungen für Biodiversität,ODA (commitments) for biodiversity,2,2
 Anzeigequote bei Körperverletzung,Police reporting rate for physical assault,1,1
 a) Bevölkerung mit einer sicher verwalteten Abwasserversorgung,a) Population using safely managed sanitation services,1,1
 Gesamtbestand der obererdigen Biomasse in Wäldern,Above-ground biomass stock in forest,1,1
@@ -14,17 +15,16 @@ Armutsgefährdung oder soziale Ausgrenzung,At-risk-of-poverty or social exclusio
 Verfügbares Einkommen privater Haushalte,Available income of private households,1,1
 Durchschnittlicher Stundenlohn Beschäftigter,Average hourly earnings of employees,3,1
 b) Bankautomaten von inländischen Zahlungsdienstleistern,b) ATMs of national payment service providers,1,1
+Umweltschutzausgaben,Environmental protection expenditure,1,1
 Staatsausgaben für Bildung (COFOG Abteilung 9),Government expenditure on education (COFOG division 9),1,1
 b) Behandelte gefährliche Abfälle,b) Hazardous waste treated,5,1
+Bruttoentwicklungsausgaben für den Forstsektor,ODA (gross disbursements) to the forestry sector,1,1
 b) Bevölkerung mit einer Badewanne oder Dusche,b) Population with a bathtub or a shower,1,1
 Registrierung der Geburten,Birth registration,1,1
 Staatsausgaben für soziale Sicherung (COFOG Abteilung 10),Government expenditure on social protection (COFOG division 10),1,1
 Anzeigequote bei Raub,Police reporting rate for robbery,1,1
 Eigenkapitalquote,Capital to assets ratio,1,1
 Entbindungen in Krankenhäusern,Child deliveries in hospitals,1,1
-Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung,Children at acute risk of harm with signs of physical abuse,3,1
-Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung,Children at acute risk of harm with signs of physical or psychological abuse,3,1
-Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung,Children at acute risk of harm with signs of psychological abuse,3,1
 CO&#8322;-Emissionen zum realen BIP,CO2 emissions per real GDP,1,1
 CO2-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe,CO2-emissions per gross value added (price adjusted) in manufacturing industries,1,1
 Übereinstimmung mit dem Basler Übereinkommen,Compliance with the Basel Convention,1,1
@@ -41,8 +41,6 @@ Tabakgebrauch in der Bevölkerung ab 15 Jahren,Current tobacco use among persons
 Registrierung der Sterbefälle,Death registration,1,1
 Schuldenstand des öffentlichen Gesamthaushaltes,Debt level of the total public budget,1,1
 Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten,Documents issued for the import and export of protected species,2,2
-environmental protection expenditure,environmental protection expenditure,1,1
-Ausbeutung der Arbeitskraft,Exploitation of labour,4,1
 Erhebliche materielle Deprivation,Extensive material deprivation,1,1
 Tödliche Arbeitsunfälle,Fatal occupational accidents,1,1
 Weibliche Beschäftigte des öffentlichen Dienstes,Female employees in public sector,1,1
@@ -87,13 +85,11 @@ Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und 
 Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern,ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries,1,1
 Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen),ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperation),1,1
 "Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur",ODA and OOF (gross disbursements) to infrastructure,1,1
-oda (commitments) for biodiversity,oda (commitments) for biodiversity,2,2
 Bruttoentwicklungsausgaben für Studienplatzkosten,ODA (gross disbursements) for imputed student costs,1,1
 Bruttoentwicklungsausgaben für verwandte Zwecke,ODA (gross disbursements) for other related water and sanitation purposes,1,1
 Bruttoentwicklungsausgaben für Stipendien,ODA (gross disbursements) for scholarships,1,1
 Bruttoentwicklungsausgaben für Wasser und Sanitär,ODA (gross disbursements) for water and sanitation,1,1
 Bruttoentwicklungsausgaben für Infrastruktur,ODA (gross disbursements) to infrastructure,1,1
-Verpflichtungen für Biodiversität,ODA (commitments) for biodiversity,1,1
 Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL),Organically farmed agricultural land (data from BMEL),1,1
 Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes),Organically farmed agricultural land (data from Destatis),1,1
 Übergewicht bei Kindern unter 5 Jahren,Overweight among children under the age of 5 years,1,1
@@ -126,6 +122,8 @@ Meeresschutzgebiete,Protected marine area,1,1
 Schutzgebiete an Land,Protected terrestrial areas,1,1
 Verhältnis Flächenverbrauchsrate zur Bevölkerungsentwicklung,Ratio of land consumption rate to population growth rate,1,1
 Reales BIP pro Kopf,Real GDP per capita,1,1
+Stoffliche Verwertung,Recycled waste,2,1
+Recyclingquote,Recycling rate,2,1
 Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,Regulatory Tier 1 capital to risk-weighted assets,1,1
 Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch (nach nationaler Definition),Renewable energy share in gross final energy consumption (according to national definition),1,1
 Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch (nach UN-Definition),Renewable energy share in total final energy consumption (according to UN definition),1,1
@@ -133,11 +131,9 @@ Gesamtkapitalrentabilität,Return on assets,1,1
 "Sitze im nationalen Parlament, die Frauen innehaben",Seats held by women in national parliament,1,1
 "Sitze in den Landesparlamenten, die Frauen innehaben",Seats held by women in regional parliaments,16,1
 Aufgriffe aufgrund des Artenschutzes,Seizures by authorities concerning the protection of species,2,2
-Sexuelle Ausbeutung,Sexual exploitation,10,1
 Weibliche Erwerbstätige insgesamt,Total female persons in employment,1,1
 Siedlungsabfälle insgesamt,Municipal solid waste in total,1,1
 Außenbeitrag,Trade balance,1,1
 Arbeitslose Leistungsbezieher,Unemployed persons with unemployment benefits,1,1
 Opfer von Straftaten,Victims of criminal offences,8,1
-Opfer von Menschenhandel,Victims of human trafficking,2,1
 Untergewicht (bezogen auf die Größe) bei Kindern unter 5 Jahren,Wasting among children under the age of 5 years,1,1

@@ -14,7 +14,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-6-1,Zeitreihe,1
 #12-4-1,Zeitreihe,1
 #12-4-2,"Zeitreihe, Art der Abfallbehandlung",2
-#12-5-1,Abfallart,1
+#12-5-1,"Zeitreihe, Abfallart",2
 #14-4-1,"Zeitreihe, Meer",2
 #14-5-1,Zeitreihe,1
 #15-1-2,Zeitreihe,1
@@ -26,8 +26,8 @@ Indicator,Disaggregations,Number of disaggregations
 #15-c-1,Zeitreihe,1
 #16-1-1,"Geschlecht, Altersklasse",2
 #16-1-3,"Geschlecht, Altersklasse, Zeitreihe",3
-#16-2-1,"Geschlecht, Zeitreihe",2
-#16-2-2,"Geschlecht, Altersklasse, Zeitreihe",3
+#16-2-1,"Geschlecht, Form der Misshandlung",2
+#16-2-2,"Geschlecht, Altersklasse, Form der Ausbeutung",3
 #16-3-1,Zeitreihe,1
 #16-5-1,"Geschlecht, Zeitreihe",2
 #16-7-1,Zeitreihe,1
