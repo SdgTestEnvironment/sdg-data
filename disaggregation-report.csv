@@ -1,39 +1,39 @@
 Disaggregation,en,Number of indicators,Number of values
-activities,Activities,1,5
-age of mother,Age of mother,1,2
-age,Age group,14,26
-area of law,Area of law,1,4
-classification,Classification,1,4
-conversion,Conversion,1,2
-disability,Disability status,1,1
-economic sector,Economic sector,2,5
-education level,Education level,1,2
-facilities,Facilities,1,4
-form of abuse,Form of abuse,1,2
-form of exploitation,Form of exploitation,1,2
-indicator,Indicator,1,3
-items,Items,1,5
-level of proficiency,Level of proficiency,1,2
-level of risk of extinction,Level of risk of extinction,1,5
-level of waterstress,Level of waterstress,1,2
-mode of transport,Mode of transport,1,6
-profession,Profession,1,4
-region,Region,3,16
-sea,Sea,1,2
-sector,Sector,1,2
-sex,Sex,22,4
-skill,Skill,1,2
-speed,Speed,1,5
-subject,Subject,1,2
-substance,Substance,1,2
-technological intensity,Technological intensity,1,2
-technology,Technology,1,2
+Aktivitäten,Activities,1,5
+Alter der Mutter,Age of mother,1,2
+Altersklasse,Age group,14,26
+Rechtsgebiet,Area of law,1,4
+Klassifikation,Classification,1,4
+Umrechnung,Conversion,1,2
+Behinderungsstatus,Disability status,1,1
+Wirtschaftszweig,Economic sector,2,5
+Ausbildungsgrad,Education level,1,2
+Ausstattung,Facilities,1,4
+Form der Misshandlung,Form of abuse,1,2
+Form der Ausbeutung,Form of exploitation,1,2
+Indikator,Indicator,1,3
+Probleme,Items,1,5
+Leistungsniveau,Level of proficiency,1,2
+Gefährdungskategorie,Level of risk of extinction,1,5
+Nutzung der Wasserressourcen,Level of waterstress,1,2
+Verkehrsträger,Mode of transport,1,6
+Beruf,Profession,1,4
+Region,Region,3,16
+Meer,Sea,1,2
+Sektor,Sector,1,2
+Geschlecht,Sex,22,4
+Fähigkeit,Skill,1,2
+Geschwindigkeit,Speed,1,5
+Schulfach,Subject,1,2
+Substanz,Substance,1,2
+Technologieintensität,Technological intensity,1,2
+Technologie,Technology,1,2
 timeseries,timeseries,54,135
-treatment,Treatment,1,2
-type of account,Type of account,1,2
-type of disease,Type of disease,2,7
-type of flow,Type of flow,1,5
-type of waste treatment,Type of waste treatment,1,4
-type of waste water,Type of waste water,1,2
-type of waste,Type of waste,1,2
-type of water body,Type of water body,1,2
+Behandlung,Treatment,1,2
+Kontenart,Type of account,1,2
+Art der Erkrankung,Type of disease,2,7
+Art der Finanzströme,Type of flow,1,5
+Art der Abfallbehandlung,Type of waste treatment,1,4
+Art des Abwassers,Type of waste water,1,2
+Abfallart,Type of waste,1,2
+Art des Gewässers,Type of water body,1,2

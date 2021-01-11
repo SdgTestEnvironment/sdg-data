@@ -1,38 +1,38 @@
-Year,Units,timeseries,level of risk of extinction,Value
-2015,%,level of risk of extinction (according to fao classification),b) at risk,45.45
-2015,%,level of risk of extinction (according to fao classification),a) not at risk,54.55
-2011,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,74.0
-2012,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,
-2013,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,75.0
-2014,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,
-2015,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,77.0
-2016,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,
-2017,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,77.0
-2011,%,level of risk of extinction (according to national classification),a) not at risk,29.7
-2012,%,level of risk of extinction (according to national classification),a) not at risk,
-2013,%,level of risk of extinction (according to national classification),a) not at risk,30.7
-2014,%,level of risk of extinction (according to national classification),a) not at risk,
-2015,%,level of risk of extinction (according to national classification),a) not at risk,28.6
-2016,%,level of risk of extinction (according to national classification),a) not at risk,
-2017,%,level of risk of extinction (according to national classification),a) not at risk,29.9
-2011,%,level of risk of extinction (according to national classification),b) under observation,39.2
-2012,%,level of risk of extinction (according to national classification),b) under observation,
-2013,%,level of risk of extinction (according to national classification),b) under observation,42.7
-2014,%,level of risk of extinction (according to national classification),b) under observation,
-2015,%,level of risk of extinction (according to national classification),b) under observation,46.8
-2016,%,level of risk of extinction (according to national classification),b) under observation,
-2017,%,level of risk of extinction (according to national classification),b) under observation,46.8
-2011,%,level of risk of extinction (according to national classification),c) breeding programs for preservation,24.3
-2012,%,level of risk of extinction (according to national classification),c) breeding programs for preservation,
-2013,%,level of risk of extinction (according to national classification),c) breeding programs for preservation,20.0
-2014,%,level of risk of extinction (according to national classification),c) breeding programs for preservation,
-2015,%,level of risk of extinction (according to national classification),c) breeding programs for preservation,18.2
-2016,%,level of risk of extinction (according to national classification),c) breeding programs for preservation,
-2017,%,level of risk of extinction (according to national classification),c) breeding programs for preservation,16.9
-2011,%,level of risk of extinction (according to national classification),d) rudiments remaining,6.8
-2012,%,level of risk of extinction (according to national classification),d) rudiments remaining,
-2013,%,level of risk of extinction (according to national classification),d) rudiments remaining,6.7
-2014,%,level of risk of extinction (according to national classification),d) rudiments remaining,
-2015,%,level of risk of extinction (according to national classification),d) rudiments remaining,6.5
-2016,%,level of risk of extinction (according to national classification),d) rudiments remaining,
-2017,%,level of risk of extinction (according to national classification),d) rudiments remaining,6.5
+Year,Units,timeseries,Gefährdungskategorie,Value
+2015,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Gefährdet,45.45
+2015,Prozent,Gefährdungskategorie (nach FAO-Klassifikation),Nicht gefährdet,54.55
+2011,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,74.0
+2012,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,
+2013,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,75.0
+2014,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,
+2015,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,77.0
+2016,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,
+2017,Anzahl,"Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",,77.0
+2011,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,29.7
+2012,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,
+2013,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,30.7
+2014,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,
+2015,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,28.6
+2016,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,
+2017,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Nicht gefährdet,29.9
+2011,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,39.2
+2012,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,
+2013,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,42.7
+2014,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,
+2015,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,46.8
+2016,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,
+2017,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Beobachtungspopulationen,46.8
+2011,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,24.3
+2012,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,
+2013,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,20.0
+2014,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,
+2015,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,18.2
+2016,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,
+2017,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Erhaltungspopulationen,16.9
+2011,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,6.8
+2012,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,
+2013,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,6.7
+2014,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,
+2015,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,6.5
+2016,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,
+2017,Prozent,Gefährdungskategorie (nach nationaler Klassifikation),Phänotypische Erhaltungspopulationen,6.5
