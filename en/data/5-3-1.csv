@@ -1,25 +1,25 @@
-Year,Units,age,Value
-2010,%,under 18 years,0
-2011,%,under 18 years,0
-2012,%,under 18 years,0
-2013,%,under 18 years,0
-2014,%,under 18 years,0
-2015,%,under 18 years,0
-2016,%,under 18 years,0
-2017,%,under 18 years,0
-2010,number,under 18 years,225
-2011,number,under 18 years,213
-2012,number,under 18 years,214
-2013,number,under 18 years,256
-2014,number,under 18 years,321
-2015,number,under 18 years,880
-2016,number,under 18 years,700
-2017,number,under 18 years,318
-2010,%,under 15 years,0
-2011,%,under 15 years,0
-2012,%,under 15 years,0
-2013,%,under 15 years,0
-2014,%,under 15 years,0
-2015,%,under 15 years,0
-2016,%,under 15 years,0
-2017,%,under 15 years,0
+Year,Units,Age group,Value
+2010,Percentage,Under 18 years old,0
+2011,Percentage,Under 18 years old,0
+2012,Percentage,Under 18 years old,0
+2013,Percentage,Under 18 years old,0
+2014,Percentage,Under 18 years old,0
+2015,Percentage,Under 18 years old,0
+2016,Percentage,Under 18 years old,0
+2017,Percentage,Under 18 years old,0
+2010,Number,Under 18 years old,225
+2011,Number,Under 18 years old,213
+2012,Number,Under 18 years old,214
+2013,Number,Under 18 years old,256
+2014,Number,Under 18 years old,321
+2015,Number,Under 18 years old,880
+2016,Number,Under 18 years old,700
+2017,Number,Under 18 years old,318
+2010,Percentage,Under 15 years old,0
+2011,Percentage,Under 15 years old,0
+2012,Percentage,Under 15 years old,0
+2013,Percentage,Under 15 years old,0
+2014,Percentage,Under 15 years old,0
+2015,Percentage,Under 15 years old,0
+2016,Percentage,Under 15 years old,0
+2017,Percentage,Under 15 years old,0
