@@ -1,13 +1,13 @@
-Year,Zeitreihe,Value
-2010,Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung,100.0
-2011,Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung,100.0
-2012,Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung,100.0
-2013,Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung,100.0
-2014,Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung,100.0
-2015,Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung,100.0
-2016,Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung,100.0
-2017,Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung,100.0
-2018,Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung,100.0
-2010,Bevölkerung mit Anschluss an die öffentliche Wasserversorgung,99.3
-2013,Bevölkerung mit Anschluss an die öffentliche Wasserversorgung,99.3
-2016,Bevölkerung mit Anschluss an die öffentliche Wasserversorgung,99.4
+Year,timeseries,Value
+2010,population using safely managed drinking water services (%),100.0
+2011,population using safely managed drinking water services (%),100.0
+2012,population using safely managed drinking water services (%),100.0
+2013,population using safely managed drinking water services (%),100.0
+2014,population using safely managed drinking water services (%),100.0
+2015,population using safely managed drinking water services (%),100.0
+2016,population using safely managed drinking water services (%),100.0
+2017,population using safely managed drinking water services (%),100.0
+2018,population using safely managed drinking water services (%),100.0
+2010,population connected to the public water supply system (%),99.3
+2013,population connected to the public water supply system (%),99.3
+2016,population connected to the public water supply system (%),99.4

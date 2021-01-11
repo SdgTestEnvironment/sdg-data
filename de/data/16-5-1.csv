@@ -1,23 +1,23 @@
-Year,Units,Zeitreihe,Geschlecht,Value
-2015,Prozent (%),population who had the impression that public officials are corruptible,,4.65
-2016,Prozent (%),population who had the impression that public officials are corruptible,,
-2017,Prozent (%),population who had the impression that public officials are corruptible,,3.66
-2018,Prozent (%),population who had the impression that public officials are corruptible,,
-2019,Prozent (%),population who had the impression that public officials are corruptible,,4.67
-2015,Prozent (%),population who had the impression that public officials are corruptible,Weiblich,4.89
-2016,Prozent (%),population who had the impression that public officials are corruptible,Weiblich,
-2017,Prozent (%),population who had the impression that public officials are corruptible,Weiblich,3.75
-2018,Prozent (%),population who had the impression that public officials are corruptible,Weiblich,
-2019,Prozent (%),population who had the impression that public officials are corruptible,Weiblich,4.62
-2015,Prozent (%),population who had the impression that public officials are corruptible,Männlich,4.36
-2016,Prozent (%),population who had the impression that public officials are corruptible,Männlich,
-2017,Prozent (%),population who had the impression that public officials are corruptible,Männlich,3.57
-2018,Prozent (%),population who had the impression that public officials are corruptible,Männlich,
-2019,Prozent (%),population who had the impression that public officials are corruptible,Männlich,4.56
-2019,Prozent (%),population who had the impression that public officials are corruptible,Divers,28.0
-2010,Anzahl,Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten,,354.0
-2011,Anzahl,Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten,,295.0
-2012,Anzahl,Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten,,163.0
-2013,Anzahl,Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten,,222.0
-2014,Anzahl,Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten,,121.0
-2015,Anzahl,Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten,,148.0
+Year,Units,timeseries,sex,Value
+2015,%,population who had the impression that public officials are corruptible,,4.65
+2016,%,population who had the impression that public officials are corruptible,,
+2017,%,population who had the impression that public officials are corruptible,,3.66
+2018,%,population who had the impression that public officials are corruptible,,
+2019,%,population who had the impression that public officials are corruptible,,4.67
+2015,%,population who had the impression that public officials are corruptible,female,4.89
+2016,%,population who had the impression that public officials are corruptible,female,
+2017,%,population who had the impression that public officials are corruptible,female,3.75
+2018,%,population who had the impression that public officials are corruptible,female,
+2019,%,population who had the impression that public officials are corruptible,female,4.62
+2015,%,population who had the impression that public officials are corruptible,male,4.36
+2016,%,population who had the impression that public officials are corruptible,male,
+2017,%,population who had the impression that public officials are corruptible,male,3.57
+2018,%,population who had the impression that public officials are corruptible,male,
+2019,%,population who had the impression that public officials are corruptible,male,4.56
+2019,%,population who had the impression that public officials are corruptible,divers,28.0
+2010,number,private persons (donors) suspected in the context of corruption offences,,354.0
+2011,number,private persons (donors) suspected in the context of corruption offences,,295.0
+2012,number,private persons (donors) suspected in the context of corruption offences,,163.0
+2013,number,private persons (donors) suspected in the context of corruption offences,,222.0
+2014,number,private persons (donors) suspected in the context of corruption offences,,121.0
+2015,number,private persons (donors) suspected in the context of corruption offences,,148.0

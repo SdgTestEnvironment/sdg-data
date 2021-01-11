@@ -1,21 +1,21 @@
-Year,Time series,Value
-2010,Goverment expenditure on environmental protection (COFOG division 5),14.387
-2011,Goverment expenditure on environmental protection (COFOG division 5),15.745
-2012,Goverment expenditure on environmental protection (COFOG division 5),15.741
-2013,Goverment expenditure on environmental protection (COFOG division 5),16.354
-2014,Goverment expenditure on environmental protection (COFOG division 5),16.671
-2015,Goverment expenditure on environmental protection (COFOG division 5),16.796
-2016,Goverment expenditure on environmental protection (COFOG division 5),17.428
-2017,Goverment expenditure on environmental protection (COFOG division 5),17.737
-2018,Goverment expenditure on environmental protection (COFOG division 5),19.255
-2019,Goverment expenditure on environmental protection (COFOG division 5),20.758
-2010,"Goverment expenditure on recreation, culture and religion (COFOG division 8)",29.393
-2011,"Goverment expenditure on recreation, culture and religion (COFOG division 8)",29.46
-2012,"Goverment expenditure on recreation, culture and religion (COFOG division 8)",29.427
-2013,"Goverment expenditure on recreation, culture and religion (COFOG division 8)",29.34
-2014,"Goverment expenditure on recreation, culture and religion (COFOG division 8)",30.654
-2015,"Goverment expenditure on recreation, culture and religion (COFOG division 8)",31.278
-2016,"Goverment expenditure on recreation, culture and religion (COFOG division 8)",31.923
-2017,"Goverment expenditure on recreation, culture and religion (COFOG division 8)",33.598
-2018,"Goverment expenditure on recreation, culture and religion (COFOG division 8)",35.644
-2019,"Goverment expenditure on recreation, culture and religion (COFOG division 8)",36.004
+Year,timeseries,Value
+2010,goverment expenditure on environmental protection (cofog division 5) (bn eur),14.387
+2011,goverment expenditure on environmental protection (cofog division 5) (bn eur),15.745
+2012,goverment expenditure on environmental protection (cofog division 5) (bn eur),15.741
+2013,goverment expenditure on environmental protection (cofog division 5) (bn eur),16.354
+2014,goverment expenditure on environmental protection (cofog division 5) (bn eur),16.671
+2015,goverment expenditure on environmental protection (cofog division 5) (bn eur),16.796
+2016,goverment expenditure on environmental protection (cofog division 5) (bn eur),17.428
+2017,goverment expenditure on environmental protection (cofog division 5) (bn eur),17.737
+2018,goverment expenditure on environmental protection (cofog division 5) (bn eur),19.255
+2019,goverment expenditure on environmental protection (cofog division 5) (bn eur),20.758
+2010,"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)",29.393
+2011,"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)",29.46
+2012,"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)",29.427
+2013,"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)",29.34
+2014,"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)",30.654
+2015,"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)",31.278
+2016,"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)",31.923
+2017,"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)",33.598
+2018,"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)",35.644
+2019,"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)",36.004
