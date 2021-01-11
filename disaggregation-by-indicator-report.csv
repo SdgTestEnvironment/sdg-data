@@ -1,53 +1,54 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-2-1,"Geschlecht, Altersklasse",2
-#1-2-2,"Geschlecht, Altersklasse, timeseries",3
-#1-3-1,timeseries,1
-#1-a-2,timeseries,1
-#10-1-1,timeseries,1
+#1-2-2,"Geschlecht, Altersklasse, Zeitreihe",3
+#1-3-1,Zeitreihe,1
+#1-a-2,Zeitreihe,1
+#10-1-1,Zeitreihe,1
 #10-2-1,"Geschlecht, Altersklasse",2
-#10-5-1,timeseries,1
+#10-5-1,Zeitreihe,1
 #10-b-1,Art der Finanzströme,1
 #11-1-1,Probleme,1
-#11-2-1,"Geschlecht, Altersklasse, timeseries, Behinderungsstatus",4
-#11-3-1,timeseries,1
-#11-4-1,timeseries,1
-#11-6-1,timeseries,1
-#12-4-1,timeseries,1
-#12-4-2,"timeseries, Art der Abfallbehandlung",2
-#12-5-1,"timeseries, Abfallart",2
-#14-4-1,"timeseries, Meer",2
-#14-5-1,timeseries,1
-#15-1-2,timeseries,1
-#15-2-1,timeseries,1
+#11-2-1,"Geschlecht, Altersklasse, Zeitreihe, Behinderungsstatus",4
+#11-3-1,Zeitreihe,1
+#11-4-1,Zeitreihe,1
+#11-6-1,Zeitreihe,1
+#12-2-2,Zeitreihe,1
+#12-4-1,Zeitreihe,1
+#12-4-2,"Zeitreihe, Art der Abfallbehandlung",2
+#12-5-1,"Zeitreihe, Abfallart",2
+#14-4-1,"Zeitreihe, Meer",2
+#14-5-1,Zeitreihe,1
+#15-1-2,Zeitreihe,1
+#15-2-1,Zeitreihe,1
 #15-4-2,Klassifikation,1
-#15-7-1,timeseries,1
-#15-a-1,timeseries,1
-#15-b-1,timeseries,1
-#15-c-1,timeseries,1
+#15-7-1,Zeitreihe,1
+#15-a-1,Zeitreihe,1
+#15-b-1,Zeitreihe,1
+#15-c-1,Zeitreihe,1
 #16-1-1,"Geschlecht, Altersklasse",2
-#16-1-3,"Geschlecht, Altersklasse, timeseries",3
+#16-1-3,"Geschlecht, Altersklasse, Zeitreihe",3
 #16-2-1,"Geschlecht, Form der Misshandlung",2
 #16-2-2,"Geschlecht, Altersklasse, Form der Ausbeutung",3
-#16-3-1,timeseries,1
-#16-5-1,"Geschlecht, timeseries",2
-#16-7-1,timeseries,1
+#16-3-1,Zeitreihe,1
+#16-5-1,"Geschlecht, Zeitreihe",2
+#16-7-1,Zeitreihe,1
 #16-7-2,Geschlecht,1
-#17-1-2,timeseries,1
-#17-13-1,timeseries,1
-#17-15-1,timeseries,1
-#17-19-1,timeseries,1
-#17-19-2,timeseries,1
-#17-2-1,timeseries,1
+#17-1-2,Zeitreihe,1
+#17-13-1,Zeitreihe,1
+#17-15-1,Zeitreihe,1
+#17-19-1,Zeitreihe,1
+#17-19-2,Zeitreihe,1
+#17-2-1,Zeitreihe,1
 #17-6-1,Geschwindigkeit,1
 #17-7-1,Sektor,1
 #17-8-1,Geschlecht,1
-#17-9-1,timeseries,1
-#2-2-2,timeseries,1
+#17-9-1,Zeitreihe,1
+#2-2-2,Zeitreihe,1
 #2-3-1,Wirtschaftszweig,1
-#2-4-1,timeseries,1
-#2-5-1,timeseries,1
-#2-5-2,"timeseries, Gefährdungskategorie",2
-#3-1-2,timeseries,1
+#2-4-1,Zeitreihe,1
+#2-5-1,Zeitreihe,1
+#2-5-2,"Zeitreihe, Gefährdungskategorie",2
+#3-1-2,Zeitreihe,1
 #3-2-1,Altersklasse,1
 #3-3-1,Geschlecht,1
 #3-4-1,Art der Erkrankung,1
@@ -55,8 +56,8 @@ Indicator,Disaggregations,Number of disaggregations
 #3-5-2,Umrechnung,1
 #3-7-2,Alter der Mutter,1
 #3-9-2,Art der Erkrankung,1
-#3-a-1,"Geschlecht, timeseries",2
-#3-b-1,timeseries,1
+#3-a-1,"Geschlecht, Zeitreihe",2
+#3-b-1,Zeitreihe,1
 #3-c-1,Beruf,1
 #4-1-1,"Ausbildungsgrad, Schulfach",2
 #4-2-2,Geschlecht,1
@@ -65,33 +66,34 @@ Indicator,Disaggregations,Number of disaggregations
 #4-5-1,Indikator,1
 #4-6-1,"Fähigkeit, Leistungsniveau",2
 #4-a-1,Ausstattung,1
-#4-b-1,timeseries,1
+#4-b-1,Zeitreihe,1
 #5-1-1,Rechtsgebiet,1
 #5-3-1,Altersklasse,1
 #5-4-1,"Geschlecht, Altersklasse",2
-#5-5-1,"timeseries, Region",2
-#5-b-1,timeseries,1
-#6-1-1,timeseries,1
-#6-2-1,timeseries,1
+#5-5-1,"Zeitreihe, Region",2
+#5-b-1,Zeitreihe,1
+#6-1-1,Zeitreihe,1
+#6-2-1,Zeitreihe,1
 #6-3-1,"Behandlung, Art des Abwassers",2
 #6-3-2,Art des Gewässers,1
 #6-4-1,Wirtschaftszweig,1
 #6-4-2,Nutzung der Wasserressourcen,1
-#6-a-1,timeseries,1
-#7-1-1,timeseries,1
-#7-2-1,timeseries,1
-#8-10-1,timeseries,1
+#6-a-1,Zeitreihe,1
+#7-1-1,Zeitreihe,1
+#7-2-1,Zeitreihe,1
+#8-10-1,Zeitreihe,1
 #8-10-2,Kontenart,1
-#8-5-1,"Geschlecht, timeseries, Region",3
+#8-4-2,Zeitreihe,1
+#8-5-1,"Geschlecht, Zeitreihe, Region",3
 #8-5-2,"Geschlecht, Altersklasse",2
 #8-6-1,Geschlecht,1
 #8-7-1,"Geschlecht, Altersklasse",2
-#8-8-1,"Geschlecht, timeseries",2
-#8-a-1,timeseries,1
-#9-1-2,"timeseries, Verkehrsträger",2
-#9-2-1,timeseries,1
-#9-4-1,timeseries,1
+#8-8-1,"Geschlecht, Zeitreihe",2
+#8-a-1,Zeitreihe,1
+#9-1-2,"Zeitreihe, Verkehrsträger",2
+#9-2-1,Zeitreihe,1
+#9-4-1,Zeitreihe,1
 #9-5-1,Region,1
-#9-a-1,timeseries,1
+#9-a-1,Zeitreihe,1
 #9-b-1,Technologieintensität,1
 #9-c-1,Technologie,1
