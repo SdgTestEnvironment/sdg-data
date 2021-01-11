@@ -1,12 +1,12 @@
-Year,Units,Time series,Type of waste,Value
-2010,Percentage (%),Recycling rate,Municipal waste,62.5
-2011,Percentage (%),Recycling rate,Municipal waste,63.0
-2012,Percentage (%),Recycling rate,Municipal waste,65.2
-2013,Percentage (%),Recycling rate,Municipal waste,63.8
-2014,Percentage (%),Recycling rate,Municipal waste,65.6
-2015,Percentage (%),Recycling rate,Municipal waste,66.7
-2016,Percentage (%),Recycling rate,Municipal waste,67.1
-2017,Percentage (%),Recycling rate,Municipal waste,67.2
+Year,Units,timeseries,Type of waste,Value
+2010,Percentage,Recycling rate,Municipal waste,62.5
+2011,Percentage,Recycling rate,Municipal waste,63.0
+2012,Percentage,Recycling rate,Municipal waste,65.2
+2013,Percentage,Recycling rate,Municipal waste,63.8
+2014,Percentage,Recycling rate,Municipal waste,65.6
+2015,Percentage,Recycling rate,Municipal waste,66.7
+2016,Percentage,Recycling rate,Municipal waste,67.1
+2017,Percentage,Recycling rate,Municipal waste,67.2
 2010,1 000 tonnes,Recycled waste,Municipal waste,30774.0
 2011,1 000 tonnes,Recycled waste,Municipal waste,31633.0
 2012,1 000 tonnes,Recycled waste,Municipal waste,32460.0
@@ -15,14 +15,14 @@ Year,Units,Time series,Type of waste,Value
 2015,1 000 tonnes,Recycled waste,Municipal waste,34453.0
 2016,1 000 tonnes,Recycled waste,Municipal waste,34958.0
 2017,1 000 tonnes,Recycled waste,Municipal waste,34783.0
-2010,Percentage (%),Recycling rate,Total waste,69.0
-2011,Percentage (%),Recycling rate,Total waste,69.1
-2012,Percentage (%),Recycling rate,Total waste,69.7
-2013,Percentage (%),Recycling rate,Total waste,68.8
-2014,Percentage (%),Recycling rate,Total waste,68.9
-2015,Percentage (%),Recycling rate,Total waste,68.3
-2016,Percentage (%),Recycling rate,Total waste,69.9
-2017,Percentage (%),Recycling rate,Total waste,69.1
+2010,Percentage,Recycling rate,Total waste,69.0
+2011,Percentage,Recycling rate,Total waste,69.1
+2012,Percentage,Recycling rate,Total waste,69.7
+2013,Percentage,Recycling rate,Total waste,68.8
+2014,Percentage,Recycling rate,Total waste,68.9
+2015,Percentage,Recycling rate,Total waste,68.3
+2016,Percentage,Recycling rate,Total waste,69.9
+2017,Percentage,Recycling rate,Total waste,69.1
 2010,1 000 tonnes,Recycled waste,Total waste,257350.0
 2011,1 000 tonnes,Recycled waste,Total waste,267105.0
 2012,1 000 tonnes,Recycled waste,Total waste,265363.0

@@ -1,32 +1,32 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
-a) branches of payment service providers (per 100 000 adults),a) Branches of payment service providers,1,1
+a) branches of payment service providers (per 100 000 adults),Branches of payment service providers,1,1
 a) government expenditure on health (cofog division 7) (%),Government expenditure on health (COFOG division 7),1,1
-a) hazardous waste generated per capita,a) Hazardous waste generated per capita,1,1
+a) hazardous waste generated per capita,Hazardous waste generated per capita,1,1
 a) oda (commitments) for biodiversity,ODA (commitments) for biodiversity,2,2
 a) police reporting rate for physical assault (%),Police reporting rate for physical assault,1,1
-a) population using safely managed sanitation services (%),a) Population using safely managed sanitation services,1,1
+a) population using safely managed sanitation services (%),Population using safely managed sanitation services,1,1
 above-ground biomass stock in forest,Above-ground biomass stock in forest,1,1
-"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))",Aid for trade commitments (ODA and OOF),1,1
-"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))",Aid for trade gross disbursements (ODA and OOF),1,1
+"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))",ODA and OOF (commitments) for aid for trade,1,1
+"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))",ODA and OOF (gross disbursement) for aid for trade,1,1
 animal genetic resources (number),Animal genetic resources,1,1
 annual growth rate of real gdp,Annual growth rate of real GDP,1,1
 at least one population and housing census in the last 10 years conducted,At least one population and housing census in the last 10 years conducted,1,1
 at-risk-of-poverty or social exclusion (according to eurostat definition) (%),At-risk-of-poverty or social exclusion,6,1
 available income of private households,Available income of private households,1,1
 average hourly earnings of employees,Average hourly earnings of employees,3,1
-b) atms of national payment service providers (per 100 000 adults),b) ATMs of national payment service providers,1,1
+b) atms of national payment service providers (per 100 000 adults),ATMs of national payment service providers,1,1
 b) environmental protection expenditure,Environmental protection expenditure,1,1
 b) government expenditure on education (cofog division 9) (%),Government expenditure on education (COFOG division 9),1,1
-b) hazardous waste treated,b) Hazardous waste treated,5,1
+b) hazardous waste treated,Hazardous waste treated,5,1
 b) oda (gross disbursements) to the forestry sector,ODA (gross disbursements) to the forestry sector,1,1
-b) population with a bathtub or a shower (%),b) Population with a bathtub or a shower,1,1
+b) population with a bathtub or a shower (%),Population with a bathtub or a shower,1,1
 birth registration,Birth registration,1,1
 c) government expenditure on social protection (cofog division 10) (%),Government expenditure on social protection (COFOG division 10),1,1
 c) police reporting rate for robbery (%),Police reporting rate for robbery,1,1
 capital to assets ratio (%),Capital to assets ratio,1,1
 child deliveries in hospitals,Child deliveries in hospitals,1,1
 co2 emission per real gdp,CO2 emissions per real GDP,1,1
-co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)),CO2-emissions per gross value added (price adjusted) in manufacturing industries,1,1
+co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)),CO2 emissions per gross value added (price adjusted) in manufacturing industries,1,1
 compliance with the basel convention (%),Compliance with the Basel Convention,1,1
 compliance with the montreal protocol (%),Compliance with the Montreal Protocol,1,1
 compliance with the rotterdam convention (%),Compliance with the Rotterdam Convention,1,1
@@ -42,7 +42,7 @@ death registration,Death registration,1,1
 debt level of the total public budget,Debt level of the total public budget,1,1
 documents issued for the import and export of protected species (number),Documents issued for the import and export of protected species,2,2
 extensive material deprivation (%),Extensive material deprivation,1,1
-fatal occupational accidents (per 100 000 employees),Fatal occupational accidents,1,1
+fatal occupational accidents (per 100 000 employees),Fatal,1,1
 female employees in public sector (%),Female employees in public sector,1,1
 fish stocks within biologically sustainable levels (%),Fish stocks within biologically sustainable levels,3,1
 forest area located within protected areas,Forest area located within protected areas,1,1
@@ -50,8 +50,8 @@ forest area net change rate,Forest area net change rate,1,1
 forest area under an independently verified forest management certification scheme,Forest area under an independently verified forest management certification scheme,1,1
 freight transport,Freight transport,6,1
 gender pay gap,Gender Pay Gap,17,1
-goverment expenditure on environmental protection (cofog division 5) (bn eur),Goverment expenditure on environmental protection (COFOG division 5),1,1
-"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)","Goverment expenditure on recreation, culture and religion (COFOG division 8)",1,1
+goverment expenditure on environmental protection (cofog division 5) (bn eur),Government expenditure on environmental protection (COFOG division 5),1,1
+"goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)","Government expenditure on recreation, culture and religion (COFOG division 8)",1,1
 government fiscal balance,Government fiscal balance,1,1
 gross fixed capital formation,Gross fixed capital formation,1,1
 growth rate of income of the bottom 40 per cent of the population (%),Growth rate of income of the bottom 40 per cent of the population,1,1
@@ -74,13 +74,13 @@ manufacturing gross value added per capita,Manufacturing gross value added per c
 marine key biodiversity areas (kbas) covered by protected areas (%),Marine Key Biodiversity Areas (KBAs) covered by protected areas,1,1
 municipal solid waste regularly collected and treated,Municipal solid waste regularly collected and treated,1,1
 net open position in foreign exchange to capital (%),Net open position in foreign exchange to capital,1,1
-non-fatal occupational accidents (per 100 000 employees),Non-fatal occupational accidents,3,1
+non-fatal occupational accidents (per 100 000 employees),Non-fatal,3,1
 nonperforming loans net of provisions to capital (%),Nonperforming loans net of provisions to capital,1,1
 nonperforming loans net of provisions to gross loans (%),Nonperforming loans net of provisions to gross loans,1,1
 "oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries,1,1
-"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperation),1,1
+"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations),1,1
 "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries,1,1
-"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperation),1,1
+"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))",ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations),1,1
 "oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016))",ODA and OOF (gross disbursements) to infrastructure,1,1
 oda (gross disbursements) for imputed student costs,ODA (gross disbursements) for imputed student costs,1,1
 "oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))",ODA (gross disbursements) for other related water and sanitation purposes,1,1
@@ -89,7 +89,7 @@ oda (gross disbursements) for scholarships,ODA (gross disbursements) for scholar
 "oda (gross disbursements) to infrastructure (mn usd, constant prices (2016))",ODA (gross disbursements) to infrastructure,1,1
 organically farmed agricultural land (data from bmel),Organically farmed agricultural land (data from BMEL),1,1
 organically farmed agricultural land (data from destatis),Organically farmed agricultural land (data from Destatis),1,1
-overweight among children under the age of 5 years (%),Overweight among children under the age of 5 years,1,1
+overweight among children under the age of 5 years (%),Overweight among children,1,1
 passenger transport,Passenger transport,5,1
 penetration rate mobile communication,Penetration rate mobile communication,1,1
 persons employed,Persons employed,1,1
@@ -109,15 +109,15 @@ private persons (donors) suspected in the context of corruption offences,Private
 proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%),Proportion of bilateral and imputed multilateral net ODA for LDCs to the GNI,1,1
 proportion of domestic expenditures funded by national taxes and insurance contributions (%),Proportion of domestic expenditures funded by national taxes and insurance contributions,1,1
 proportion of domestic expenditures funded by national taxes (%),Proportion of domestic expenditures funded by national taxes,1,1
-proportion of fish stocks monitored based on the maximum sustainable yield (MSY) approach in all managed stocks,Proportion of fish stocks monitored based on the maximum sustainable yield (MSY) approach in all managed stocks,1,1
+proportion of fish stocks monitored based on the maximum sustainable yield (MSY) approach in all managed stocks,proportion of fish stocks monitored based on the maximum sustainable yield (MSY) approach in all managed stocks,1,1
 proportion of net oda to gni (%),Proportion of net ODA to GNI,1,1
-proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%),Proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation,1,1
-proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%),Proportion of results indicators drawn from country-led results frameworks by providers of development cooperation,1,1
-proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%),Proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation,1,1
+proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%),Proportion of indicator results drawn from country-led results frameworks by providers of development cooperation,1,1
+proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%),Proportion of results drawn from country-led result frameworks by providers of development cooperation,1,1
+proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%),Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation,1,1
 proportion of settlement and transport areas to population,Proportion of settlement and transport areas to population,1,1
-protected marine area (%),Protected marine area,1,1
+protected marine area (%),Protected marine areas,1,1
 protected terrestrial areas (%),Protected terrestrial areas,1,1
-ratio of land consumption rate to population growth rate,Ratio of land consumption rate to population growth rate,1,1
+ratio of land consumption rate to population growth rate,Ratio of land consumption rate to population growth rate (year-to-year),1,1
 real gdp per capita,Real GDP per capita,1,1
 recycled waste,Recycled waste,2,1
 recycling rate,Recycling rate,2,1
@@ -133,4 +133,4 @@ total municipal solid waste generated,Municipal solid waste in total,1,1
 trade balance,Trade balance,1,1
 unemployed persons with unemployment benefits (%),Unemployed persons with unemployment benefits,1,1
 victims of criminal offences,Victims of criminal offences,8,1
-wasting among children under the age of 5 years (%),Wasting among children under the age of 5 years,1,1
+wasting among children under the age of 5 years (%),Wasting among children,1,1
