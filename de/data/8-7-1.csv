@@ -1,58 +1,58 @@
-Year,age,sex,Value
-2010,13 years and under,,11
-2011,13 years and under,,29
-2012,13 years and under,,19
-2013,13 years and under,,18
-2014,13 years and under,,22
-2015,13 years and under,,19
-2016,13 years and under,,36
-2017,13 years and under,,67
-2018,13 years and under,,18
-2010,13 years and under,female,2
-2011,13 years and under,female,13
-2012,13 years and under,female,11
-2013,13 years and under,female,6
-2014,13 years and under,female,9
-2015,13 years and under,female,7
-2016,13 years and under,female,15
-2017,13 years and under,female,16
-2018,13 years and under,female,9
-2010,13 years and under,male,9
-2011,13 years and under,male,16
-2012,13 years and under,male,8
-2013,13 years and under,male,12
-2014,13 years and under,male,13
-2015,13 years and under,male,12
-2016,13 years and under,male,21
-2017,13 years and under,male,51
-2018,13 years and under,male,9
-2010,14 to under 18 years,,108
-2011,14 to under 18 years,,95
-2012,14 to under 18 years,,96
-2013,14 to under 18 years,,92
-2014,14 to under 18 years,,76
-2015,14 to under 18 years,,87
-2016,14 to under 18 years,,111
-2017,14 to under 18 years,,53
-2018,14 to under 18 years,,112
-2010,14 to under 18 years,female,97
-2011,14 to under 18 years,female,82
-2012,14 to under 18 years,female,88
-2013,14 to under 18 years,female,79
-2014,14 to under 18 years,female,66
-2015,14 to under 18 years,female,80
-2016,14 to under 18 years,female,100
-2017,14 to under 18 years,female,49
-2018,14 to under 18 years,female,96
-2010,14 to under 18 years,male,11
-2011,14 to under 18 years,male,13
-2012,14 to under 18 years,male,8
-2013,14 to under 18 years,male,13
-2014,14 to under 18 years,male,10
-2015,14 to under 18 years,male,7
-2016,14 to under 18 years,male,11
-2017,14 to under 18 years,male,4
-2018,14 to under 18 years,male,16
+Year,Altersklasse,Geschlecht,Value
+2010,13 Jahre und jünger,,11
+2011,13 Jahre und jünger,,29
+2012,13 Jahre und jünger,,19
+2013,13 Jahre und jünger,,18
+2014,13 Jahre und jünger,,22
+2015,13 Jahre und jünger,,19
+2016,13 Jahre und jünger,,36
+2017,13 Jahre und jünger,,67
+2018,13 Jahre und jünger,,18
+2010,13 Jahre und jünger,Weiblich,2
+2011,13 Jahre und jünger,Weiblich,13
+2012,13 Jahre und jünger,Weiblich,11
+2013,13 Jahre und jünger,Weiblich,6
+2014,13 Jahre und jünger,Weiblich,9
+2015,13 Jahre und jünger,Weiblich,7
+2016,13 Jahre und jünger,Weiblich,15
+2017,13 Jahre und jünger,Weiblich,16
+2018,13 Jahre und jünger,Weiblich,9
+2010,13 Jahre und jünger,Männlich,9
+2011,13 Jahre und jünger,Männlich,16
+2012,13 Jahre und jünger,Männlich,8
+2013,13 Jahre und jünger,Männlich,12
+2014,13 Jahre und jünger,Männlich,13
+2015,13 Jahre und jünger,Männlich,12
+2016,13 Jahre und jünger,Männlich,21
+2017,13 Jahre und jünger,Männlich,51
+2018,13 Jahre und jünger,Männlich,9
+2010,14 bis unter 18 Jahre,,108
+2011,14 bis unter 18 Jahre,,95
+2012,14 bis unter 18 Jahre,,96
+2013,14 bis unter 18 Jahre,,92
+2014,14 bis unter 18 Jahre,,76
+2015,14 bis unter 18 Jahre,,87
+2016,14 bis unter 18 Jahre,,111
+2017,14 bis unter 18 Jahre,,53
+2018,14 bis unter 18 Jahre,,112
+2010,14 bis unter 18 Jahre,Weiblich,97
+2011,14 bis unter 18 Jahre,Weiblich,82
+2012,14 bis unter 18 Jahre,Weiblich,88
+2013,14 bis unter 18 Jahre,Weiblich,79
+2014,14 bis unter 18 Jahre,Weiblich,66
+2015,14 bis unter 18 Jahre,Weiblich,80
+2016,14 bis unter 18 Jahre,Weiblich,100
+2017,14 bis unter 18 Jahre,Weiblich,49
+2018,14 bis unter 18 Jahre,Weiblich,96
+2010,14 bis unter 18 Jahre,Männlich,11
+2011,14 bis unter 18 Jahre,Männlich,13
+2012,14 bis unter 18 Jahre,Männlich,8
+2013,14 bis unter 18 Jahre,Männlich,13
+2014,14 bis unter 18 Jahre,Männlich,10
+2015,14 bis unter 18 Jahre,Männlich,7
+2016,14 bis unter 18 Jahre,Männlich,11
+2017,14 bis unter 18 Jahre,Männlich,4
+2018,14 bis unter 18 Jahre,Männlich,16
 2010,,,119
 2011,,,124
 2012,,,115
@@ -62,21 +62,21 @@ Year,age,sex,Value
 2016,,,147
 2017,,,120
 2018,,,130
-2010,,female,99
-2011,,female,95
-2012,,female,99
-2013,,female,85
-2014,,female,75
-2015,,female,87
-2016,,female,115
-2017,,female,65
-2018,,female,105
-2010,,male,20
-2011,,male,29
-2012,,male,16
-2013,,male,25
-2014,,male,23
-2015,,male,19
-2016,,male,32
-2017,,male,55
-2018,,male,25
+2010,,Weiblich,99
+2011,,Weiblich,95
+2012,,Weiblich,99
+2013,,Weiblich,85
+2014,,Weiblich,75
+2015,,Weiblich,87
+2016,,Weiblich,115
+2017,,Weiblich,65
+2018,,Weiblich,105
+2010,,Männlich,20
+2011,,Männlich,29
+2012,,Männlich,16
+2013,,Männlich,25
+2014,,Männlich,23
+2015,,Männlich,19
+2016,,Männlich,32
+2017,,Männlich,55
+2018,,Männlich,25
