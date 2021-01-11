@@ -1,7 +1,7 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
-Luftverkehr,Commercial air transport,2,1
-Binnenschifffahrt,Inland waterway transport,1,1
-Motorisierter Individualverkehr,Motorised private transport,1,1
-Eisenbahnverkehr,Rail transport,2,1
-Straßenverkehr,Road transport,2,1
-Rohrfernleitungen: Rohöl,Pipelines: crude oil,1,1
+commercial air transport,Commercial air transport,2,1
+inland waterway transport,Inland waterway transport,1,1
+motorised private transport,Motorised private transport,1,1
+rail transport,Rail transport,2,1
+road transport,Road transport,2,1
+transport via pipeline crude oil,Pipelines: crude oil,1,1

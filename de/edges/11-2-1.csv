@@ -1,4 +1,4 @@
 From,To
-Zeitreihe,Geschlecht
-Zeitreihe,Altersklasse
-Zeitreihe,Behinderungsstatus
+timeseries,sex
+timeseries,age
+timeseries,disability

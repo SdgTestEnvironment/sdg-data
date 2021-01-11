@@ -1,6 +1,6 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
-"Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)","Agriculture, forestry and fishing (NACE Rev. 2, section A)",1,1
-Landwirtschaft,Agriculture,1,1
-"MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)","MIMEC (NACE Rev. 2, sections B, C, D, F)",1,1
-"Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)","Services (NACE Rev. 2, sections E, G to T)",1,1
-Forstwirtschaft,Forestry,1,1
+"a) agriculture, forestry and fishing (nace rev 2, section a)","Agriculture, forestry and fishing (NACE Rev. 2, section A)",1,1
+agriculture,Agriculture,1,1
+"b) mimec (nace rev 2, sections b, c, d, f)","MIMEC (NACE Rev. 2, sections B, C, D, F)",1,1
+"c) services (nace rev 2, sections e, g to t)","Services (NACE Rev. 2, sections E, G to T)",1,1
+forestry,Forestry,1,1

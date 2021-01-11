@@ -1,6 +1,6 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
-Nicht gefährdet,Not at risk,2,1
-Gefährdet,At risk,1,1
-Beobachtungspopulationen,Under observation,1,1
-Erhaltungspopulationen,Breeding programs for preservation,1,1
-Phänotypische Erhaltungspopulationen,Rudiments remaining,1,1
+a) not at risk,Not at risk,2,1
+b) at risk,At risk,1,1
+b) under observation,Under observation,1,1
+c) breeding programs for preservation,Breeding programs for preservation,1,1
+d) rudiments remaining,Rudiments remaining,1,1
