@@ -1,25 +1,25 @@
-Year,Units,Zeitreihe,Value
-2010,Millionen Tonnen,Inländische Materialverwendung (DMC),1263.0
-2011,Millionen Tonnen,Inländische Materialverwendung (DMC),1363.0
-2012,Millionen Tonnen,Inländische Materialverwendung (DMC),1318.0
-2013,Millionen Tonnen,Inländische Materialverwendung (DMC),1311.0
-2014,Millionen Tonnen,Inländische Materialverwendung (DMC),1373.0
-2015,Millionen Tonnen,Inländische Materialverwendung (DMC),1293.0
-2016,Millionen Tonnen,Inländische Materialverwendung (DMC),1304.0
-2017,Millionen Tonnen,Inländische Materialverwendung (DMC),1296.0
-2010,Tonnen pro Kopf,Inländische Materialverwendung (DMC),15.7
-2011,Tonnen pro Kopf,Inländische Materialverwendung (DMC),17.0
-2012,Tonnen pro Kopf,Inländische Materialverwendung (DMC),16.4
-2013,Tonnen pro Kopf,Inländische Materialverwendung (DMC),16.3
-2014,Tonnen pro Kopf,Inländische Materialverwendung (DMC),17.0
-2015,Tonnen pro Kopf,Inländische Materialverwendung (DMC),15.8
-2016,Tonnen pro Kopf,Inländische Materialverwendung (DMC),15.8
-2017,Tonnen pro Kopf,Inländische Materialverwendung (DMC),15.7
-2010,2010 = 100,Inländische Materialverwendung (DMC) zum realen BIP,100.0
-2011,2010 = 100,Inländische Materialverwendung (DMC) zum realen BIP,103.9
-2012,2010 = 100,Inländische Materialverwendung (DMC) zum realen BIP,100.0
-2013,2010 = 100,Inländische Materialverwendung (DMC) zum realen BIP,99.0
-2014,2010 = 100,Inländische Materialverwendung (DMC) zum realen BIP,101.4
-2015,2010 = 100,Inländische Materialverwendung (DMC) zum realen BIP,93.9
-2016,2010 = 100,Inländische Materialverwendung (DMC) zum realen BIP,92.7
-2017,2010 = 100,Inländische Materialverwendung (DMC) zum realen BIP,89.9
+Year,Units,Value
+2010,Millionen Tonnen,1263.0
+2011,Millionen Tonnen,1363.0
+2012,Millionen Tonnen,1318.0
+2013,Millionen Tonnen,1311.0
+2014,Millionen Tonnen,1373.0
+2015,Millionen Tonnen,1293.0
+2016,Millionen Tonnen,1304.0
+2017,Millionen Tonnen,1296.0
+2010,Tonnen pro Kopf,15.7
+2011,Tonnen pro Kopf,17.0
+2012,Tonnen pro Kopf,16.4
+2013,Tonnen pro Kopf,16.3
+2014,Tonnen pro Kopf,17.0
+2015,Tonnen pro Kopf,15.8
+2016,Tonnen pro Kopf,15.8
+2017,Tonnen pro Kopf,15.7
+2010,per real gdp (2010 = 100),100.0
+2011,per real gdp (2010 = 100),103.9
+2012,per real gdp (2010 = 100),100.0
+2013,per real gdp (2010 = 100),99.0
+2014,per real gdp (2010 = 100),101.4
+2015,per real gdp (2010 = 100),93.9
+2016,per real gdp (2010 = 100),92.7
+2017,per real gdp (2010 = 100),89.9
