@@ -73,14 +73,14 @@ Year,Units,sex,age,form of exploitation,Value
 2015,number,male,,sexual exploitation,17.0
 2016,number,male,,sexual exploitation,24.0
 2017,number,male,,sexual exploitation,5.0
-2010,number,,13 years and under,sexual exploitation,8.0
-2011,number,,13 years and under,sexual exploitation,13.0
-2012,number,,13 years and under,sexual exploitation,12.0
-2013,number,,13 years and under,sexual exploitation,9.0
-2014,number,,13 years and under,sexual exploitation,5.0
-2015,number,,13 years and under,sexual exploitation,6.0
-2016,number,,13 years and under,sexual exploitation,12.0
-2017,number,,13 years and under,sexual exploitation,16.0
+2010,number,,under 14 years,sexual exploitation,8.0
+2011,number,,under 14 years,sexual exploitation,13.0
+2012,number,,under 14 years,sexual exploitation,12.0
+2013,number,,under 14 years,sexual exploitation,9.0
+2014,number,,under 14 years,sexual exploitation,5.0
+2015,number,,under 14 years,sexual exploitation,6.0
+2016,number,,under 14 years,sexual exploitation,12.0
+2017,number,,under 14 years,sexual exploitation,16.0
 2010,number,,14 to under 18 years,sexual exploitation,79.0
 2011,number,,14 to under 18 years,sexual exploitation,77.0
 2012,number,,14 to under 18 years,sexual exploitation,88.0
@@ -113,11 +113,11 @@ Year,Units,sex,age,form of exploitation,Value
 2015,number,,25 years and over,sexual exploitation,98.0
 2016,number,,25 years and over,sexual exploitation,142.0
 2017,number,,25 years and over,sexual exploitation,149.0
-2010,number,,0 - unknown age,sexual exploitation,8.0
-2011,number,,0 - unknown age,sexual exploitation,13.0
-2012,number,,0 - unknown age,sexual exploitation,10.0
-2013,number,,0 - unknown age,sexual exploitation,10.0
-2014,number,,0 - unknown age,sexual exploitation,12.0
-2015,number,,0 - unknown age,sexual exploitation,25.0
-2016,number,,0 - unknown age,sexual exploitation,23.0
-2017,number,,0 - unknown age,sexual exploitation,11.0
+2010,number,,unknown age,sexual exploitation,8.0
+2011,number,,unknown age,sexual exploitation,13.0
+2012,number,,unknown age,sexual exploitation,10.0
+2013,number,,unknown age,sexual exploitation,10.0
+2014,number,,unknown age,sexual exploitation,12.0
+2015,number,,unknown age,sexual exploitation,25.0
+2016,number,,unknown age,sexual exploitation,23.0
+2017,number,,unknown age,sexual exploitation,11.0

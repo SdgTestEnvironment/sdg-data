@@ -1,11 +1,8 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
-Alter unbekannt,Unknown age,1,1
-13 Jahre und jünger,13 years and younger,6,4
 14 bis unter 18 Jahre,14 to under 18 years old,6,4
 15 bis unter 25 Jahre,15 to under 25 years old,5,3
 16 bis unter 25 Jahre,16 to under 25 years old,5,1
 16 bis unter 75 Jahre,16 to under 75 years old,5,1
-17 Jahre und jünger,17 years and younger,4,4
 18 bis unter 21 Jahre,18 to under 21 years old,3,3
 18 bis unter 30 Jahre,18 to under 30 years old,1,1
 18 bis unter 65 Jahre,18 to under 65 years old,3,3
@@ -14,14 +11,16 @@ Alter unbekannt,Unknown age,1,1
 25 bis unter 45 Jahre,25 to under 45 years old,1,1
 25 bis unter 64 Jahre,25 to under 64 years old,3,1
 25 bis unter 75 Jahre,25 to under 75 years old,1,1
-25 Jahre und mehr,25 years old and over,1,1
+25 Jahre und mehr,25 years and over,1,1
 30 bis unter 45 Jahre,30 to under 45 years old,1,1
 45 bis unter 55 Jahre,45 to under 55 years old,1,1
 45 bis unter 65 Jahre,45 to under 65 years old,1,1
 55 bis unter 65 Jahre,55 to under 65 years old,1,1
-60 Jahre und mehr,60 years old and over,2,2
-65 Jahre und mehr,65 years old and over,5,5
-Unter 1 Jahr,Under 1 year old,1,1
-Unter 15 Jahren,Under 15 years old,1,1
-Unter 18 Jahren,Under 18 years old,2,1
-Unter 5 Jahren,Under 5 years old,1,1
+60 Jahre und mehr,60 years and over,2,2
+65 Jahre und mehr,65 years and over,5,5
+11 Monate und weniger,11 month and under,1,1
+13 Jahre und weniger,13 years and under,6,4
+14 Jahre und weniger,15 years and under,1,1
+17 Jahre und weniger,17 years and under,6,5
+4 Jahre und weniger,4 years and under,1,1
+Alter unbekannt,Unknown age,1,1
