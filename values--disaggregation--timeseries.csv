@@ -68,10 +68,8 @@ Gefährdungskategorie (nach nationaler Klassifikation),Level of risk of extincti
 Verbindlichkeiten,Liquid assets to short-term liabilities,1,1
 Lebendgeborene insgesamt,Live births in total,1,1
 "Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)","Local livestock breeds (horses, cows, pigs, sheep and goats)",1,1
-Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP,Manufacturing gross value added as a proportion of GDP,1,1
-Verhältnis der Bruttowertschöpfung im Verarbeitenden Gewerbe an der Bruttowertschöpfung insgesamt,Manufacturing gross value added as a proportion of total gross value added,1,1
-Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf,Manufacturing gross value added per capita,1,1
 "Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",Marine Key Biodiversity Areas (KBAs) covered by protected areas,1,1
+"Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)","Material deprivation for the housing dimension, total (1-4 items)",1,1
 "Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden",Municipal solid waste regularly collected and treated,1,1
 Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln,Net open position in foreign exchange to capital,1,1
 Nicht-tödlich,Non-fatal,3,1
@@ -95,8 +93,12 @@ Penetrationsrate Mobilfunk,Penetration rate mobile communication,1,1
 Erwerbstätige,Persons employed,1,1
 Pflanzengenetische Ressourcen,Plant genetic resources,1,1
 Bevölkerung mit Anschluss an die öffentliche Wasserversorgung,Population connected to the public water supply system,1,1
+"Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet",Population considering their dwelling as too dark,1,1
 Bevölkerung mit Krankenversicherungsschutz,Population covered by health insurance,1,1
 Bevölkerungsentwicklung,Population growth rate,1,1
+"Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt","Population living in an area with crime, violence or vandalism",1,1
+Bevölkerung mit Lärmbelästigung in deren Wohnumgebung,Population living in an area with noise pollution,1,1
+"Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt",Population living in households with moisture damages,1,1
 "Bevölkerung, die körperlicher Gewalt ausgesetzt war",Population subjected to physical violence,1,1
 "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)",Population that has convenient access to public transport (within 10 minutes walking distance),9,1
 "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)",Population that has convenient access to public transport (within 500 meters),1,1
@@ -125,7 +127,7 @@ Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtige
 Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch,Renewable energy share in gross final energy consumption,1,1
 Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch,Renewable energy share in total final energy consumption,1,1
 Gesamtkapitalrentabilität,Return on assets,1,1
-"Sitze im nationalen Parlament, die Frauen inne haben",Seats held by women in national parliament,1,1
+"Sitze im nationalen Parlament, die Frauen innehaben",Seats held by women in national parliament,1,1
 "Sitze in den Landesparlamenten, die Frauen inne haben",Seats held by women in regional parliaments,16,1
 Aufgriffe aufgrund des Artenschutzes,Seizures by authorities concerning the protection of species,2,2
 Weibliche Erwerbstätige insgesamt,Total female persons in employment,1,1

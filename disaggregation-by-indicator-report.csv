@@ -1,14 +1,14 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-2-1,"Altersklasse, Geschlecht",2
-#1-2-2,"Zeitreihe, Altersklasse, Geschlecht",3
+#1-2-1,"Geschlecht, Altersklasse",2
+#1-2-2,"Geschlecht, Altersklasse, Zeitreihe",3
 #1-3-1,Zeitreihe,1
 #1-a-2,Zeitreihe,1
 #10-1-1,Zeitreihe,1
-#10-2-1,"Altersklasse, Geschlecht",2
+#10-2-1,"Geschlecht, Altersklasse",2
 #10-5-1,Zeitreihe,1
 #10-b-1,Art der Finanzströme,1
-#11-1-1,Probleme,1
-#11-2-1,"Zeitreihe, Altersklasse, Geschlecht, Behinderungsstatus",4
+#11-1-1,Zeitreihe,1
+#11-2-1,"Geschlecht, Altersklasse, Zeitreihe, Behinderungsstatus",4
 #11-3-1,Zeitreihe,1
 #11-4-1,Zeitreihe,1
 #11-6-1,Zeitreihe,1
@@ -24,12 +24,12 @@ Indicator,Disaggregations,Number of disaggregations
 #15-a-1,Zeitreihe,1
 #15-b-1,Zeitreihe,1
 #15-c-1,Zeitreihe,1
-#16-1-1,"Altersklasse, Geschlecht",2
-#16-1-3,"Zeitreihe, Altersklasse, Geschlecht",3
+#16-1-1,"Geschlecht, Altersklasse",2
+#16-1-3,"Geschlecht, Altersklasse, Zeitreihe",3
 #16-2-1,"Geschlecht, Form der Misshandlung",2
-#16-2-2,"Altersklasse, Geschlecht, Form der Ausbeutung",3
+#16-2-2,"Geschlecht, Altersklasse, Form der Ausbeutung",3
 #16-3-1,Zeitreihe,1
-#16-5-1,"Zeitreihe, Geschlecht",2
+#16-5-1,"Geschlecht, Zeitreihe",2
 #16-7-1,Zeitreihe,1
 #16-7-2,Geschlecht,1
 #17-1-2,Zeitreihe,1
@@ -55,12 +55,12 @@ Indicator,Disaggregations,Number of disaggregations
 #3-5-2,Umrechnung,1
 #3-7-2,Alter der Mutter,1
 #3-9-2,Art der Erkrankung,1
-#3-a-1,"Zeitreihe, Geschlecht",2
+#3-a-1,"Geschlecht, Zeitreihe",2
 #3-b-1,Zeitreihe,1
 #3-c-1,Beruf,1
 #4-1-1,"Ausbildungsgrad, Schulfach",2
 #4-2-2,Geschlecht,1
-#4-3-1,"Altersklasse, Geschlecht",2
+#4-3-1,"Geschlecht, Altersklasse",2
 #4-4-1,"Altersklasse, Aktivitäten",2
 #4-5-1,Indikator,1
 #4-6-1,"Fähigkeit, Leistungsniveau",2
@@ -68,7 +68,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-b-1,Zeitreihe,1
 #5-1-1,Rechtsgebiet,1
 #5-3-1,Altersklasse,1
-#5-4-1,"Altersklasse, Geschlecht",2
+#5-4-1,"Geschlecht, Altersklasse",2
 #5-5-1,"Zeitreihe, Region",2
 #5-b-1,Zeitreihe,1
 #6-1-1,Zeitreihe,1
@@ -82,14 +82,13 @@ Indicator,Disaggregations,Number of disaggregations
 #7-2-1,Zeitreihe,1
 #8-10-1,Zeitreihe,1
 #8-10-2,Kontenart,1
-#8-5-1,"Zeitreihe, Geschlecht, Region",3
-#8-5-2,"Altersklasse, Geschlecht",2
+#8-5-1,"Geschlecht, Zeitreihe, Region",3
+#8-5-2,"Geschlecht, Altersklasse",2
 #8-6-1,Geschlecht,1
-#8-7-1,"Altersklasse, Geschlecht",2
-#8-8-1,"Zeitreihe, Geschlecht",2
+#8-7-1,"Geschlecht, Altersklasse",2
+#8-8-1,"Geschlecht, Zeitreihe",2
 #8-a-1,Zeitreihe,1
 #9-1-2,"Zeitreihe, Verkehrsträger",2
-#9-2-1,Zeitreihe,1
 #9-4-1,Zeitreihe,1
 #9-5-1,Region,1
 #9-a-1,Zeitreihe,1
