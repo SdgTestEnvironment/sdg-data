@@ -1,8 +1,8 @@
-Value,en,Disaggregation combinations using this value,Number of indicators
-a) Herz-Kreislauferkrankung,a) Cardiovascular disease,1,1
-a) Durchfallerkrankungen,a) Diarrhoea,1,1
-b) Bösartige Neubildungen,b) Cancer,1,1
-b) Intestinale Nematodeninfektionen,b) Intestinal nematode infections,1,1
-c) Diabetes mellitus,c) Diabetes mellitus,1,1
-c) Energie- und Eiweißmangelernährung,c) Protein-energy malnutrition,1,1
-d) Chronische Atemwegserkrankungen,d) Chronic respiratory disease,1,1
+Value,Disaggregation combinations using this value,Number of indicators
+a) cardiovascular disease,1,1
+a) diarrhoea,1,1
+b) cancer,1,1
+b) intestinal nematode infections,1,1
+c) diabetes mellitus,1,1
+c) protein-energy malnutrition,1,1
+d) chronic respiratory disease,1,1

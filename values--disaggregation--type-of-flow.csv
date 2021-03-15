@@ -1,6 +1,6 @@
-Value,en,Disaggregation combinations using this value,Number of indicators
-Öffentliche Nettoentwicklungsausgaben (ODA),ODA (net disbursements),1,1
-Öffentlich unterstützte Exportkredite (Nettoauszahlungen),Officially supported export credits (net disbursements),1,1
-Andere öffentliche Nettoleistungen (OOF),OOF (net disbursements),1,1
-Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen),Private Concessional Flows at market terms (net disbursements),1,1
-Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen),Private Sector Flows at market terms (net disbursement),1,1
+Value,Disaggregation combinations using this value,Number of indicators
+oda (net disbursements),1,1
+officially supported export credits (net disbursements),1,1
+oof (net disbursements),1,1
+private concessional flows (net disbursements),1,1
+private sector flows at market terms (net disbursements),1,1
