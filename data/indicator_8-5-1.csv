@@ -1,6 +1,15 @@
 Year,Units,timeseries,sex,region,GeoCode,Value
+2010,eur/h,average hourly earnings of employees,,,,
+2011,eur/h,average hourly earnings of employees,,,,
+2012,eur/h,average hourly earnings of employees,,,,
+2013,eur/h,average hourly earnings of employees,,,,
 2014,eur/h,average hourly earnings of employees,,,,17.78
+2015,eur/h,average hourly earnings of employees,,,,
+2016,eur/h,average hourly earnings of employees,,,,
+2017,eur/h,average hourly earnings of employees,,,,
 2018,eur/h,average hourly earnings of employees,,,,19.66
+2019,eur/h,average hourly earnings of employees,,,,
+2020,eur/h,average hourly earnings of employees,,,,
 2010,eur/h,average hourly earnings of employees,female,,,14.62
 2011,eur/h,average hourly earnings of employees,female,,,14.88
 2012,eur/h,average hourly earnings of employees,female,,,15.18
@@ -11,6 +20,7 @@ Year,Units,timeseries,sex,region,GeoCode,Value
 2017,eur/h,average hourly earnings of employees,female,,,16.66
 2018,eur/h,average hourly earnings of employees,female,,,17.33
 2019,eur/h,average hourly earnings of employees,female,,,17.98
+2020,eur/h,average hourly earnings of employees,female,,,
 2010,eur/h,average hourly earnings of employees,male,,,18.81
 2011,eur/h,average hourly earnings of employees,male,,,19.17
 2012,eur/h,average hourly earnings of employees,male,,,19.63
@@ -21,6 +31,7 @@ Year,Units,timeseries,sex,region,GeoCode,Value
 2017,eur/h,average hourly earnings of employees,male,,,20.94
 2018,eur/h,average hourly earnings of employees,male,,,21.70
 2019,eur/h,average hourly earnings of employees,male,,,22.26
+2020,eur/h,average hourly earnings of employees,male,,,
 2010,%,gender pay gap,,,,22
 2011,%,gender pay gap,,,,22
 2012,%,gender pay gap,,,,23
