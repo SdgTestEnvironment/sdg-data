@@ -23,7 +23,6 @@ profession,1,4
 region,4,16
 sea,1,2
 sector,1,2
-series,1,2
 sex,22,4
 skill,1,2
 speed,1,5
@@ -32,6 +31,7 @@ subject,1,2
 substance,1,2
 technological intensity,1,2
 technology,1,2
+time series,1,2
 timeseries,54,138
 treatment,1,2
 type of account,1,2
