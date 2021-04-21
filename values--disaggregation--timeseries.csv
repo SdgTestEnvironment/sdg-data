@@ -4,7 +4,7 @@ a) government expenditure on health (cofog division 7) (%),1,1
 a) hazardous waste generated per capita,1,1
 a) oda (commitments) for biodiversity,2,2
 a) police reporting rate for physical assault (%),1,1
-a) population using safely managed sanitation services (%),1,1
+a) population using safely managed sanitation services (%),2,2
 above-ground biomass stock in forest,1,1
 "aid for trade commitments (oda and oof) (mn usd, constant prices (2016))",1,1
 "aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))",1,1
@@ -23,6 +23,7 @@ c) government expenditure on social protection (cofog division 10) (%),1,1
 c) police reporting rate for robbery (%),1,1
 capital to assets ratio (%),1,1
 child deliveries in hospitals,1,1
+children and youth with a minimum proficiency level in reading and mathematics,4,1
 co2 emission per real gdp,1,1
 co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)),1,1
 compliance with the basel convention (%),1,1
@@ -57,6 +58,8 @@ growth rate of income of the total population (%),1,1
 hours worked by employees,1,1
 hours worked by persons employed,1,1
 households and small-sized enterprises connected to the electricity network,1,1
+households covered by 3g or lte,2,1
+inpatient treatment of neglected tropical diseases,8,1
 key biodiversity areas (kbas) covered by protected areas (%),1,1
 labour productivity per hour worked by employee,1,1
 labour productivity per hour worked by persons employed,1,1
@@ -69,7 +72,7 @@ live births total,1,1
 marine key biodiversity areas (kbas) covered by protected areas (%),1,1
 material deprivation for the housing dimension,1,1
 mobile penetration rate,1,1
-municipal solid waste regularly collected and treated,1,1
+municipal solid waste regularly collected and treated,2,2
 net open position in foreign exchange to capital (%),1,1
 non-fatal occupational accidents (per 100 000 employees),3,1
 nonperforming loans net of provisions to capital (%),1,1
@@ -90,6 +93,7 @@ organically farmed agricultural land (data from bmel),1,1
 organically farmed agricultural land (data from destatis),1,1
 overweight among children under the age of 5 years (%),1,1
 passenger transport,5,1
+people requiring interventions against neglected tropical diseases,4,1
 persons at risk of poverty or social exclusion,6,1
 persons employed,1,1
 population connected to the public water supply system (%),1,1
@@ -101,8 +105,8 @@ population living in an area with noise pollution,1,1
 population living in households with moisture damages,1,1
 population subjected to physical violence,1,1
 population that has convenient access to public transport (within 10 minutes walking distance) (%),9,1
-population that has convenient access to public transport (within 500 meters) (%),1,1
-population using safely managed drinking water services (%),1,1
+population that has convenient access to public transport (within 500 meters) (%),2,2
+population using safely managed drinking water services (%),2,2
 population who had the impression that public officials are corruptible,4,1
 population who were victims of criminal offences,1,1
 population with access to electricity,1,1

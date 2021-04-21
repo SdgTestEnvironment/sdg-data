@@ -20,7 +20,7 @@ Year,Units,Time series,Value
 2017,Billion EUR,Available income of private households,1846.0
 2018,Billion EUR,Available income of private households,1911.6
 2019,Billion EUR,Available income of private households,1969.8
-2020,Billion EUR,Available income of private households,
+2020,Billion EUR,Available income of private households,1983.0
 2010,Billion EUR,Consumption by private households,1372.9
 2011,Billion EUR,Consumption by private households,1423.6
 2012,Billion EUR,Consumption by private households,1465.9
@@ -31,7 +31,7 @@ Year,Units,Time series,Value
 2017,Billion EUR,Consumption by private households,1656.3
 2018,Billion EUR,Consumption by private households,1706.2
 2019,Billion EUR,Consumption by private households,1755.6
-2020,Billion EUR,Consumption by private households,
+2020,Billion EUR,Consumption by private households,1655.7
 2010,Billion EUR,Debt level of the total public budget,2011.7
 2011,Billion EUR,Debt level of the total public budget,2025.4
 2012,Billion EUR,Debt level of the total public budget,2068.3
@@ -53,7 +53,7 @@ Year,Units,Time series,Value
 2017,Billion EUR,Government fiscal balance,44.4
 2018,Billion EUR,Government fiscal balance,61.6
 2019,Billion EUR,Government fiscal balance,52.5
-2020,Billion EUR,Government fiscal balance,
+2020,Billion EUR,Government fiscal balance,-139.6
 2010,Billion EUR,Gross fixed capital formation,501.1
 2011,Billion EUR,Gross fixed capital formation,548.7
 2012,Billion EUR,Gross fixed capital formation,557.9
@@ -64,7 +64,7 @@ Year,Units,Time series,Value
 2017,Billion EUR,Gross fixed capital formation,666.0
 2018,Billion EUR,Gross fixed capital formation,709.3
 2019,Billion EUR,Gross fixed capital formation,748.0
-2020,Billion EUR,Gross fixed capital formation,
+2020,Billion EUR,Gross fixed capital formation,735.5
 2010,Million hours,Hours worked by employees,49314.0
 2011,Million hours,Hours worked by employees,50102.0
 2012,Million hours,Hours worked by employees,50100.0
@@ -130,7 +130,7 @@ Year,Units,Time series,Value
 2017,2015 = 100,Real GDP per capita,103.7
 2018,2015 = 100,Real GDP per capita,104.7
 2019,2015 = 100,Real GDP per capita,105.0
-2020,2015 = 100,Real GDP per capita,
+2020,2015 = 100,Real GDP per capita,99.8
 2010,Billion EUR,Trade balance,134.9
 2011,Billion EUR,Trade balance,132.2
 2012,Billion EUR,Trade balance,167.5
@@ -141,4 +141,4 @@ Year,Units,Time series,Value
 2017,Billion EUR,Trade balance,228.1
 2018,Billion EUR,Trade balance,206.4
 2019,Billion EUR,Trade balance,199.9
-2020,Billion EUR,Trade balance,
+2020,Billion EUR,Trade balance,194.0
