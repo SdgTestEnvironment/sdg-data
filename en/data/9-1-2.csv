@@ -7,7 +7,7 @@ Year,Units,Time series,Mode of transport,Value
 2015,Million passenger-kilometre,Passenger transport,,1180504
 2016,Million passenger-kilometre,Passenger transport,,1204730
 2017,Million passenger-kilometre,Passenger transport,,1178426
-2018,Million passenger-kilometre,Passenger transport,,182201
+2018,Million passenger-kilometre,Passenger transport,,1182201
 2010,Million passenger-kilometre,Passenger transport,Road transport,78092
 2011,Million passenger-kilometre,Passenger transport,Road transport,77957
 2012,Million passenger-kilometre,Passenger transport,Road transport,76019
@@ -42,7 +42,7 @@ Year,Units,Time series,Mode of transport,Value
 2014,Million passenger-kilometre,Passenger transport,Motorised private transport,934957
 2015,Million passenger-kilometre,Passenger transport,Motorised private transport,945729
 2016,Million passenger-kilometre,Passenger transport,Motorised private transport,965151
-2017,Million passenger-kilometre,Passenger transport,Motorised private transport,950650
+2017,Million passenger-kilometre,Passenger transport,Motorised private transport,935650
 2018,Million passenger-kilometre,Passenger transport,Motorised private transport,934800
 2010,Million tonne-kilometres,Freight transport,,627882
 2011,Million tonne-kilometres,Freight transport,,628083
@@ -59,7 +59,7 @@ Year,Units,Time series,Mode of transport,Value
 2013,Million tonne-kilometres,Freight transport,Road transport,442681
 2014,Million tonne-kilometres,Freight transport,Road transport,451939
 2015,Million tonne-kilometres,Freight transport,Road transport,464573
-2016,Million tonne-kilometres,Freight transport,Road transport,473538
+2016,Million tonne-kilometres,Freight transport,Road transport,473438
 2017,Million tonne-kilometres,Freight transport,Road transport,485982
 2018,Million tonne-kilometres,Freight transport,Road transport,500244
 2010,Million tonne-kilometres,Freight transport,Rail transport,107317
