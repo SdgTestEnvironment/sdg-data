@@ -1,7 +1,386 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,timeseries,age,sex,Value
+2010,physical harassment,,,28870
+2011,physical harassment,,,26876
+2012,physical harassment,,,26360
+2013,physical harassment,,,25517
+2014,physical harassment,,,23303
+2015,physical harassment,,,21070
+2016,physical harassment,,,19949
+2017,physical harassment,,,29980
+2018,physical harassment,,,34907
+2019,physical harassment,,,34643
+2020,physical harassment,,,34666
+2010,physical harassment,,female,22909
+2011,physical harassment,,female,21414
+2012,physical harassment,,female,21217
+2013,physical harassment,,female,20455
+2014,physical harassment,,female,18682
+2015,physical harassment,,female,16941
+2016,physical harassment,,female,16115
+2017,physical harassment,,female,25609
+2018,physical harassment,,female,30104
+2019,physical harassment,,female,29838
+2020,physical harassment,,female,29557
+2010,physical harassment,,male,5961
+2011,physical harassment,,male,5462
+2012,physical harassment,,male,5143
+2013,physical harassment,,male,5062
+2014,physical harassment,,male,4621
+2015,physical harassment,,male,4129
+2016,physical harassment,,male,3834
+2017,physical harassment,,male,4371
+2018,physical harassment,,male,4803
+2019,physical harassment,,male,4805
+2020,physical harassment,,male,5109
+2010,physical harassment,under 14 years,,443
+2011,physical harassment,under 14 years,,416
+2012,physical harassment,under 14 years,,432
+2013,physical harassment,under 14 years,,427
+2014,physical harassment,under 14 years,,377
+2015,physical harassment,under 14 years,,343
+2016,physical harassment,under 14 years,,336
+2017,physical harassment,under 14 years,,1122
+2018,physical harassment,under 14 years,,1568
+2019,physical harassment,under 14 years,,1675
+2020,physical harassment,under 14 years,,1503
+2010,physical harassment,under 14 years,female,272
+2011,physical harassment,under 14 years,female,263
+2012,physical harassment,under 14 years,female,310
+2013,physical harassment,under 14 years,female,273
+2014,physical harassment,under 14 years,female,260
+2015,physical harassment,under 14 years,female,221
+2016,physical harassment,under 14 years,female,221
+2017,physical harassment,under 14 years,female,901
+2018,physical harassment,under 14 years,female,1335
+2019,physical harassment,under 14 years,female,1380
+2020,physical harassment,under 14 years,female,1175
+2010,physical harassment,under 14 years,male,171
+2011,physical harassment,under 14 years,male,153
+2012,physical harassment,under 14 years,male,122
+2013,physical harassment,under 14 years,male,154
+2014,physical harassment,under 14 years,male,117
+2015,physical harassment,under 14 years,male,122
+2016,physical harassment,under 14 years,male,115
+2017,physical harassment,under 14 years,male,221
+2018,physical harassment,under 14 years,male,233
+2019,physical harassment,under 14 years,male,295
+2020,physical harassment,under 14 years,male,328
+2010,physical harassment,14 to under 18 years,,1289
+2011,physical harassment,14 to under 18 years,,1227
+2012,physical harassment,14 to under 18 years,,1101
+2013,physical harassment,14 to under 18 years,,1143
+2014,physical harassment,14 to under 18 years,,1063
+2015,physical harassment,14 to under 18 years,,817
+2016,physical harassment,14 to under 18 years,,806
+2017,physical harassment,14 to under 18 years,,3347
+2018,physical harassment,14 to under 18 years,,4355
+2019,physical harassment,14 to under 18 years,,4414
+2020,physical harassment,14 to under 18 years,,4043
+2010,physical harassment,14 to under 18 years,female,1132
+2011,physical harassment,14 to under 18 years,female,1087
+2012,physical harassment,14 to under 18 years,female,991
+2013,physical harassment,14 to under 18 years,female,1015
+2014,physical harassment,14 to under 18 years,female,943
+2015,physical harassment,14 to under 18 years,female,716
+2016,physical harassment,14 to under 18 years,female,710
+2017,physical harassment,14 to under 18 years,female,3085
+2018,physical harassment,14 to under 18 years,female,4033
+2019,physical harassment,14 to under 18 years,female,4051
+2020,physical harassment,14 to under 18 years,female,3680
+2010,physical harassment,14 to under 18 years,male,157
+2011,physical harassment,14 to under 18 years,male,140
+2012,physical harassment,14 to under 18 years,male,110
+2013,physical harassment,14 to under 18 years,male,128
+2014,physical harassment,14 to under 18 years,male,120
+2015,physical harassment,14 to under 18 years,male,101
+2016,physical harassment,14 to under 18 years,male,96
+2017,physical harassment,14 to under 18 years,male,262
+2018,physical harassment,14 to under 18 years,male,322
+2019,physical harassment,14 to under 18 years,male,363
+2020,physical harassment,14 to under 18 years,male,363
+2010,physical harassment,18 to under 21 years,,2467
+2011,physical harassment,18 to under 21 years,,2202
+2012,physical harassment,18 to under 21 years,,2036
+2013,physical harassment,18 to under 21 years,,1769
+2014,physical harassment,18 to under 21 years,,1654
+2015,physical harassment,18 to under 21 years,,1402
+2016,physical harassment,18 to under 21 years,,1253
+2017,physical harassment,18 to under 21 years,,2956
+2018,physical harassment,18 to under 21 years,,3815
+2019,physical harassment,18 to under 21 years,,3569
+2020,physical harassment,18 to under 21 years,,3541
+2010,physical harassment,18 to under 21 years,female,2185
+2011,physical harassment,18 to under 21 years,female,1946
+2012,physical harassment,18 to under 21 years,female,1804
+2013,physical harassment,18 to under 21 years,female,1586
+2014,physical harassment,18 to under 21 years,female,1477
+2015,physical harassment,18 to under 21 years,female,1265
+2016,physical harassment,18 to under 21 years,female,1136
+2017,physical harassment,18 to under 21 years,female,2763
+2018,physical harassment,18 to under 21 years,female,3522
+2019,physical harassment,18 to under 21 years,female,3290
+2020,physical harassment,18 to under 21 years,female,3268
+2010,physical harassment,18 to under 21 years,male,282
+2011,physical harassment,18 to under 21 years,male,256
+2012,physical harassment,18 to under 21 years,male,232
+2013,physical harassment,18 to under 21 years,male,183
+2014,physical harassment,18 to under 21 years,male,177
+2015,physical harassment,18 to under 21 years,male,137
+2016,physical harassment,18 to under 21 years,male,117
+2017,physical harassment,18 to under 21 years,male,193
+2018,physical harassment,18 to under 21 years,male,293
+2019,physical harassment,18 to under 21 years,male,279
+2020,physical harassment,18 to under 21 years,male,273
+2010,physical harassment,21 to under 60 years,,23019
+2011,physical harassment,21 to under 60 years,,21536
+2012,physical harassment,21 to under 60 years,,21296
+2013,physical harassment,21 to under 60 years,,20738
+2014,physical harassment,21 to under 60 years,,18814
+2015,physical harassment,21 to under 60 years,,17239
+2016,physical harassment,21 to under 60 years,,16303
+2017,physical harassment,21 to under 60 years,,21108
+2018,physical harassment,21 to under 60 years,,23526
+2019,physical harassment,21 to under 60 years,,23340
+2020,physical harassment,21 to under 60 years,,23889
+2010,physical harassment,21 to under 60 years,female,18342
+2011,physical harassment,21 to under 60 years,female,17238
+2012,physical harassment,21 to under 60 years,female,17207
+2013,physical harassment,21 to under 60 years,female,16679
+2014,physical harassment,21 to under 60 years,female,15118
+2015,physical harassment,21 to under 60 years,female,13916
+2016,physical harassment,21 to under 60 years,female,13260
+2017,physical harassment,21 to under 60 years,female,17822
+2018,physical harassment,21 to under 60 years,female,20058
+2019,physical harassment,21 to under 60 years,female,19927
+2020,physical harassment,21 to under 60 years,female,20226
+2010,physical harassment,21 to under 60 years,male,4677
+2011,physical harassment,21 to under 60 years,male,4298
+2012,physical harassment,21 to under 60 years,male,4089
+2013,physical harassment,21 to under 60 years,male,4059
+2014,physical harassment,21 to under 60 years,male,3696
+2015,physical harassment,21 to under 60 years,male,3323
+2016,physical harassment,21 to under 60 years,male,3043
+2017,physical harassment,21 to under 60 years,male,3286
+2018,physical harassment,21 to under 60 years,male,3468
+2019,physical harassment,21 to under 60 years,male,3413
+2020,physical harassment,21 to under 60 years,male,3663
+2010,physical harassment,60 years and over,,1652
+2011,physical harassment,60 years and over,,1495
+2012,physical harassment,60 years and over,,1495
+2013,physical harassment,60 years and over,,1440
+2014,physical harassment,60 years and over,,1395
+2015,physical harassment,60 years and over,,1269
+2016,physical harassment,60 years and over,,1251
+2017,physical harassment,60 years and over,,1447
+2018,physical harassment,60 years and over,,1643
+2019,physical harassment,60 years and over,,1645
+2020,physical harassment,60 years and over,,1690
+2010,physical harassment,60 years and over,male,674
+2011,physical harassment,60 years and over,male,615
+2012,physical harassment,60 years and over,male,590
+2013,physical harassment,60 years and over,male,538
+2014,physical harassment,60 years and over,male,511
+2015,physical harassment,60 years and over,male,446
+2016,physical harassment,60 years and over,male,463
+2017,physical harassment,60 years and over,male,409
+2018,physical harassment,60 years and over,male,487
+2019,physical harassment,60 years and over,male,455
+2020,physical harassment,60 years and over,male,482
+2010,sexual harassment,,,
+2011,sexual harassment,,,
+2012,sexual harassment,,,
+2013,sexual harassment,,,
+2014,sexual harassment,,,
+2015,sexual harassment,,,
+2016,sexual harassment,,,
+2017,sexual harassment,,,45
+2018,sexual harassment,,,55
+2019,sexual harassment,,,38
+2020,sexual harassment,,,14
+2010,sexual harassment,,female,
+2011,sexual harassment,,female,
+2012,sexual harassment,,female,
+2013,sexual harassment,,female,
+2014,sexual harassment,,female,
+2015,sexual harassment,,female,
+2016,sexual harassment,,female,
+2017,sexual harassment,,female,41
+2018,sexual harassment,,female,52
+2019,sexual harassment,,female,35
+2020,sexual harassment,,female,13
+2010,sexual harassment,,male,
+2011,sexual harassment,,male,
+2012,sexual harassment,,male,
+2013,sexual harassment,,male,
+2014,sexual harassment,,male,
+2015,sexual harassment,,male,
+2016,sexual harassment,,male,
+2017,sexual harassment,,male,4
+2018,sexual harassment,,male,3
+2019,sexual harassment,,male,3
+2020,sexual harassment,,male,1
+2010,sexual harassment,under 14 years,,
+2011,sexual harassment,under 14 years,,
+2012,sexual harassment,under 14 years,,
+2013,sexual harassment,under 14 years,,
+2014,sexual harassment,under 14 years,,
+2015,sexual harassment,under 14 years,,
+2016,sexual harassment,under 14 years,,
+2017,sexual harassment,under 14 years,,3
+2018,sexual harassment,under 14 years,,4
+2019,sexual harassment,under 14 years,,5
+2020,sexual harassment,under 14 years,,2
+2010,sexual harassment,under 14 years,female,
+2011,sexual harassment,under 14 years,female,
+2012,sexual harassment,under 14 years,female,
+2013,sexual harassment,under 14 years,female,
+2014,sexual harassment,under 14 years,female,
+2015,sexual harassment,under 14 years,female,
+2016,sexual harassment,under 14 years,female,
+2017,sexual harassment,under 14 years,female,2
+2018,sexual harassment,under 14 years,female,3
+2019,sexual harassment,under 14 years,female,5
+2020,sexual harassment,under 14 years,female,1
+2010,sexual harassment,under 14 years,male,
+2011,sexual harassment,under 14 years,male,
+2012,sexual harassment,under 14 years,male,
+2013,sexual harassment,under 14 years,male,
+2014,sexual harassment,under 14 years,male,
+2015,sexual harassment,under 14 years,male,
+2016,sexual harassment,under 14 years,male,
+2017,sexual harassment,under 14 years,male,1
+2018,sexual harassment,under 14 years,male,1
+2019,sexual harassment,under 14 years,male,0
+2020,sexual harassment,under 14 years,male,1
+2010,sexual harassment,14 to under 18 years,,
+2011,sexual harassment,14 to under 18 years,,
+2012,sexual harassment,14 to under 18 years,,
+2013,sexual harassment,14 to under 18 years,,
+2014,sexual harassment,14 to under 18 years,,
+2015,sexual harassment,14 to under 18 years,,
+2016,sexual harassment,14 to under 18 years,,
+2017,sexual harassment,14 to under 18 years,,14
+2018,sexual harassment,14 to under 18 years,,23
+2019,sexual harassment,14 to under 18 years,,10
+2020,sexual harassment,14 to under 18 years,,5
+2010,sexual harassment,14 to under 18 years,female,
+2011,sexual harassment,14 to under 18 years,female,
+2012,sexual harassment,14 to under 18 years,female,
+2013,sexual harassment,14 to under 18 years,female,
+2014,sexual harassment,14 to under 18 years,female,
+2015,sexual harassment,14 to under 18 years,female,
+2016,sexual harassment,14 to under 18 years,female,
+2017,sexual harassment,14 to under 18 years,female,14
+2018,sexual harassment,14 to under 18 years,female,23
+2019,sexual harassment,14 to under 18 years,female,10
+2020,sexual harassment,14 to under 18 years,female,5
+2010,sexual harassment,14 to under 18 years,male,
+2011,sexual harassment,14 to under 18 years,male,
+2012,sexual harassment,14 to under 18 years,male,
+2013,sexual harassment,14 to under 18 years,male,
+2014,sexual harassment,14 to under 18 years,male,
+2015,sexual harassment,14 to under 18 years,male,
+2016,sexual harassment,14 to under 18 years,male,
+2017,sexual harassment,14 to under 18 years,male,0
+2018,sexual harassment,14 to under 18 years,male,0
+2019,sexual harassment,14 to under 18 years,male,0
+2020,sexual harassment,14 to under 18 years,male,0
+2010,sexual harassment,18 to under 21 years,,
+2011,sexual harassment,18 to under 21 years,,
+2012,sexual harassment,18 to under 21 years,,
+2013,sexual harassment,18 to under 21 years,,
+2014,sexual harassment,18 to under 21 years,,
+2015,sexual harassment,18 to under 21 years,,
+2016,sexual harassment,18 to under 21 years,,
+2017,sexual harassment,18 to under 21 years,,11
+2018,sexual harassment,18 to under 21 years,,7
+2019,sexual harassment,18 to under 21 years,,4
+2020,sexual harassment,18 to under 21 years,,5
+2010,sexual harassment,18 to under 21 years,female,
+2011,sexual harassment,18 to under 21 years,female,
+2012,sexual harassment,18 to under 21 years,female,
+2013,sexual harassment,18 to under 21 years,female,
+2014,sexual harassment,18 to under 21 years,female,
+2015,sexual harassment,18 to under 21 years,female,
+2016,sexual harassment,18 to under 21 years,female,
+2017,sexual harassment,18 to under 21 years,female,10
+2018,sexual harassment,18 to under 21 years,female,5
+2019,sexual harassment,18 to under 21 years,female,4
+2020,sexual harassment,18 to under 21 years,female,5
+2010,sexual harassment,18 to under 21 years,male,
+2011,sexual harassment,18 to under 21 years,male,
+2012,sexual harassment,18 to under 21 years,male,
+2013,sexual harassment,18 to under 21 years,male,
+2014,sexual harassment,18 to under 21 years,male,
+2015,sexual harassment,18 to under 21 years,male,
+2016,sexual harassment,18 to under 21 years,male,
+2017,sexual harassment,18 to under 21 years,male,1
+2018,sexual harassment,18 to under 21 years,male,2
+2019,sexual harassment,18 to under 21 years,male,0
+2020,sexual harassment,18 to under 21 years,male,0
+2010,sexual harassment,21 to under 60 years,,
+2011,sexual harassment,21 to under 60 years,,
+2012,sexual harassment,21 to under 60 years,,
+2013,sexual harassment,21 to under 60 years,,
+2014,sexual harassment,21 to under 60 years,,
+2015,sexual harassment,21 to under 60 years,,
+2016,sexual harassment,21 to under 60 years,,
+2017,sexual harassment,21 to under 60 years,,16
+2018,sexual harassment,21 to under 60 years,,21
+2019,sexual harassment,21 to under 60 years,,19
+2020,sexual harassment,21 to under 60 years,,2
+2010,sexual harassment,21 to under 60 years,female,
+2011,sexual harassment,21 to under 60 years,female,
+2012,sexual harassment,21 to under 60 years,female,
+2013,sexual harassment,21 to under 60 years,female,
+2014,sexual harassment,21 to under 60 years,female,
+2015,sexual harassment,21 to under 60 years,female,
+2016,sexual harassment,21 to under 60 years,female,
+2017,sexual harassment,21 to under 60 years,female,14
+2018,sexual harassment,21 to under 60 years,female,21
+2019,sexual harassment,21 to under 60 years,female,16
+2020,sexual harassment,21 to under 60 years,female,2
+2010,sexual harassment,21 to under 60 years,male,
+2011,sexual harassment,21 to under 60 years,male,
+2012,sexual harassment,21 to under 60 years,male,
+2013,sexual harassment,21 to under 60 years,male,
+2014,sexual harassment,21 to under 60 years,male,
+2015,sexual harassment,21 to under 60 years,male,
+2016,sexual harassment,21 to under 60 years,male,
+2017,sexual harassment,21 to under 60 years,male,2
+2018,sexual harassment,21 to under 60 years,male,0
+2019,sexual harassment,21 to under 60 years,male,3
+2020,sexual harassment,21 to under 60 years,male,0
+2010,sexual harassment,60 years and over,,
+2011,sexual harassment,60 years and over,,
+2012,sexual harassment,60 years and over,,
+2013,sexual harassment,60 years and over,,
+2014,sexual harassment,60 years and over,,
+2015,sexual harassment,60 years and over,,
+2016,sexual harassment,60 years and over,,
+2017,sexual harassment,60 years and over,,1
+2018,sexual harassment,60 years and over,,0
+2019,sexual harassment,60 years and over,,0
+2020,sexual harassment,60 years and over,,0
+2010,sexual harassment,60 years and over,female,
+2011,sexual harassment,60 years and over,female,
+2012,sexual harassment,60 years and over,female,
+2013,sexual harassment,60 years and over,female,
+2014,sexual harassment,60 years and over,female,
+2015,sexual harassment,60 years and over,female,
+2016,sexual harassment,60 years and over,female,
+2017,sexual harassment,60 years and over,female,1
+2018,sexual harassment,60 years and over,female,0
+2019,sexual harassment,60 years and over,female,0
+2020,sexual harassment,60 years and over,female,0
+2010,sexual harassment,60 years and over,male,
+2011,sexual harassment,60 years and over,male,
+2012,sexual harassment,60 years and over,male,
+2013,sexual harassment,60 years and over,male,
+2014,sexual harassment,60 years and over,male,
+2015,sexual harassment,60 years and over,male,
+2016,sexual harassment,60 years and over,male,
+2017,sexual harassment,60 years and over,male,0
+2018,sexual harassment,60 years and over,male,0
+2019,sexual harassment,60 years and over,male,0
+2020,sexual harassment,60 years and over,male,0
