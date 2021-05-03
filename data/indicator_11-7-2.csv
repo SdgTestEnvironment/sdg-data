@@ -204,10 +204,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,,,
 2015,sexual harassment,,,
 2016,sexual harassment,,,
-2017,sexual harassment,,,45
-2018,sexual harassment,,,55
-2019,sexual harassment,,,38
-2020,sexual harassment,,,14
+2017,sexual harassment,,,8395
+2018,sexual harassment,,,8872
+2019,sexual harassment,,,8069
+2020,sexual harassment,,,9333
 2010,sexual harassment,,female,
 2011,sexual harassment,,female,
 2012,sexual harassment,,female,
@@ -215,10 +215,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,,female,
 2015,sexual harassment,,female,
 2016,sexual harassment,,female,
-2017,sexual harassment,,female,41
-2018,sexual harassment,,female,52
-2019,sexual harassment,,female,35
-2020,sexual harassment,,female,13
+2017,sexual harassment,,female,7314
+2018,sexual harassment,,female,7680
+2019,sexual harassment,,female,6875
+2020,sexual harassment,,female,7980
 2010,sexual harassment,,male,
 2011,sexual harassment,,male,
 2012,sexual harassment,,male,
@@ -226,10 +226,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,,male,
 2015,sexual harassment,,male,
 2016,sexual harassment,,male,
-2017,sexual harassment,,male,4
-2018,sexual harassment,,male,3
-2019,sexual harassment,,male,3
-2020,sexual harassment,,male,1
+2017,sexual harassment,,male,1081
+2018,sexual harassment,,male,1192
+2019,sexual harassment,,male,1194
+2020,sexual harassment,,male,1353
 2010,sexual harassment,under 14 years,,
 2011,sexual harassment,under 14 years,,
 2012,sexual harassment,under 14 years,,
@@ -270,10 +270,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,14 to under 18 years,,
 2015,sexual harassment,14 to under 18 years,,
 2016,sexual harassment,14 to under 18 years,,
-2017,sexual harassment,14 to under 18 years,,14
-2018,sexual harassment,14 to under 18 years,,23
-2019,sexual harassment,14 to under 18 years,,10
-2020,sexual harassment,14 to under 18 years,,5
+2017,sexual harassment,14 to under 18 years,,1118
+2018,sexual harassment,14 to under 18 years,,1133
+2019,sexual harassment,14 to under 18 years,,941
+2020,sexual harassment,14 to under 18 years,,1072
 2010,sexual harassment,14 to under 18 years,female,
 2011,sexual harassment,14 to under 18 years,female,
 2012,sexual harassment,14 to under 18 years,female,
@@ -281,10 +281,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,14 to under 18 years,female,
 2015,sexual harassment,14 to under 18 years,female,
 2016,sexual harassment,14 to under 18 years,female,
-2017,sexual harassment,14 to under 18 years,female,14
-2018,sexual harassment,14 to under 18 years,female,23
-2019,sexual harassment,14 to under 18 years,female,10
-2020,sexual harassment,14 to under 18 years,female,5
+2017,sexual harassment,14 to under 18 years,female,969
+2018,sexual harassment,14 to under 18 years,female,981
+2019,sexual harassment,14 to under 18 years,female,811
+2020,sexual harassment,14 to under 18 years,female,933
 2010,sexual harassment,14 to under 18 years,male,
 2011,sexual harassment,14 to under 18 years,male,
 2012,sexual harassment,14 to under 18 years,male,
@@ -292,10 +292,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,14 to under 18 years,male,
 2015,sexual harassment,14 to under 18 years,male,
 2016,sexual harassment,14 to under 18 years,male,
-2017,sexual harassment,14 to under 18 years,male,0
-2018,sexual harassment,14 to under 18 years,male,0
-2019,sexual harassment,14 to under 18 years,male,0
-2020,sexual harassment,14 to under 18 years,male,0
+2017,sexual harassment,14 to under 18 years,male,149
+2018,sexual harassment,14 to under 18 years,male,152
+2019,sexual harassment,14 to under 18 years,male,120
+2020,sexual harassment,14 to under 18 years,male,139
 2010,sexual harassment,18 to under 21 years,,
 2011,sexual harassment,18 to under 21 years,,
 2012,sexual harassment,18 to under 21 years,,
@@ -303,10 +303,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,18 to under 21 years,,
 2015,sexual harassment,18 to under 21 years,,
 2016,sexual harassment,18 to under 21 years,,
-2017,sexual harassment,18 to under 21 years,,11
-2018,sexual harassment,18 to under 21 years,,7
-2019,sexual harassment,18 to under 21 years,,4
-2020,sexual harassment,18 to under 21 years,,5
+2017,sexual harassment,18 to under 21 years,,942
+2018,sexual harassment,18 to under 21 years,,885
+2019,sexual harassment,18 to under 21 years,,729
+2020,sexual harassment,18 to under 21 years,,974
 2010,sexual harassment,18 to under 21 years,female,
 2011,sexual harassment,18 to under 21 years,female,
 2012,sexual harassment,18 to under 21 years,female,
@@ -314,10 +314,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,18 to under 21 years,female,
 2015,sexual harassment,18 to under 21 years,female,
 2016,sexual harassment,18 to under 21 years,female,
-2017,sexual harassment,18 to under 21 years,female,10
-2018,sexual harassment,18 to under 21 years,female,5
-2019,sexual harassment,18 to under 21 years,female,4
-2020,sexual harassment,18 to under 21 years,female,5
+2017,sexual harassment,18 to under 21 years,female,868
+2018,sexual harassment,18 to under 21 years,female,788
+2019,sexual harassment,18 to under 21 years,female,640
+2020,sexual harassment,18 to under 21 years,female,881
 2010,sexual harassment,18 to under 21 years,male,
 2011,sexual harassment,18 to under 21 years,male,
 2012,sexual harassment,18 to under 21 years,male,
@@ -325,10 +325,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,18 to under 21 years,male,
 2015,sexual harassment,18 to under 21 years,male,
 2016,sexual harassment,18 to under 21 years,male,
-2017,sexual harassment,18 to under 21 years,male,1
-2018,sexual harassment,18 to under 21 years,male,2
-2019,sexual harassment,18 to under 21 years,male,0
-2020,sexual harassment,18 to under 21 years,male,0
+2017,sexual harassment,18 to under 21 years,male,74
+2018,sexual harassment,18 to under 21 years,male,97
+2019,sexual harassment,18 to under 21 years,male,85
+2020,sexual harassment,18 to under 21 years,male,93
 2010,sexual harassment,21 to under 60 years,,
 2011,sexual harassment,21 to under 60 years,,
 2012,sexual harassment,21 to under 60 years,,
@@ -336,10 +336,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,21 to under 60 years,,
 2015,sexual harassment,21 to under 60 years,,
 2016,sexual harassment,21 to under 60 years,,
-2017,sexual harassment,21 to under 60 years,,16
-2018,sexual harassment,21 to under 60 years,,21
-2019,sexual harassment,21 to under 60 years,,19
-2020,sexual harassment,21 to under 60 years,,2
+2017,sexual harassment,21 to under 60 years,,5581
+2018,sexual harassment,21 to under 60 years,,6041
+2019,sexual harassment,21 to under 60 years,,5656
+2020,sexual harassment,21 to under 60 years,,6488
 2010,sexual harassment,21 to under 60 years,female,
 2011,sexual harassment,21 to under 60 years,female,
 2012,sexual harassment,21 to under 60 years,female,
@@ -347,10 +347,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,21 to under 60 years,female,
 2015,sexual harassment,21 to under 60 years,female,
 2016,sexual harassment,21 to under 60 years,female,
-2017,sexual harassment,21 to under 60 years,female,14
-2018,sexual harassment,21 to under 60 years,female,21
-2019,sexual harassment,21 to under 60 years,female,16
-2020,sexual harassment,21 to under 60 years,female,2
+2017,sexual harassment,21 to under 60 years,female,4816
+2018,sexual harassment,21 to under 60 years,female,5219
+2019,sexual harassment,21 to under 60 years,female,4743
+2020,sexual harassment,21 to under 60 years,female,5489
 2010,sexual harassment,21 to under 60 years,male,
 2011,sexual harassment,21 to under 60 years,male,
 2012,sexual harassment,21 to under 60 years,male,
@@ -358,10 +358,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,21 to under 60 years,male,
 2015,sexual harassment,21 to under 60 years,male,
 2016,sexual harassment,21 to under 60 years,male,
-2017,sexual harassment,21 to under 60 years,male,2
-2018,sexual harassment,21 to under 60 years,male,0
-2019,sexual harassment,21 to under 60 years,male,3
-2020,sexual harassment,21 to under 60 years,male,0
+2017,sexual harassment,21 to under 60 years,male,765
+2018,sexual harassment,21 to under 60 years,male,822
+2019,sexual harassment,21 to under 60 years,male,910
+2020,sexual harassment,21 to under 60 years,male,999
 2010,sexual harassment,60 years and over,,
 2011,sexual harassment,60 years and over,,
 2012,sexual harassment,60 years and over,,
@@ -369,10 +369,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,60 years and over,,
 2015,sexual harassment,60 years and over,,
 2016,sexual harassment,60 years and over,,
-2017,sexual harassment,60 years and over,,1
-2018,sexual harassment,60 years and over,,0
-2019,sexual harassment,60 years and over,,0
-2020,sexual harassment,60 years and over,,0
+2017,sexual harassment,60 years and over,,751
+2018,sexual harassment,60 years and over,,809
+2019,sexual harassment,60 years and over,,738
+2020,sexual harassment,60 years and over,,797
 2010,sexual harassment,60 years and over,female,
 2011,sexual harassment,60 years and over,female,
 2012,sexual harassment,60 years and over,female,
@@ -380,10 +380,10 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,60 years and over,female,
 2015,sexual harassment,60 years and over,female,
 2016,sexual harassment,60 years and over,female,
-2017,sexual harassment,60 years and over,female,1
-2018,sexual harassment,60 years and over,female,0
-2019,sexual harassment,60 years and over,female,0
-2020,sexual harassment,60 years and over,female,0
+2017,sexual harassment,60 years and over,female,659
+2018,sexual harassment,60 years and over,female,689
+2019,sexual harassment,60 years and over,female,662
+2020,sexual harassment,60 years and over,female,676
 2010,sexual harassment,60 years and over,male,
 2011,sexual harassment,60 years and over,male,
 2012,sexual harassment,60 years and over,male,
@@ -391,7 +391,7 @@ Year,timeseries,age,sex,Value
 2014,sexual harassment,60 years and over,male,
 2015,sexual harassment,60 years and over,male,
 2016,sexual harassment,60 years and over,male,
-2017,sexual harassment,60 years and over,male,0
-2018,sexual harassment,60 years and over,male,0
-2019,sexual harassment,60 years and over,male,0
-2020,sexual harassment,60 years and over,male,0
+2017,sexual harassment,60 years and over,male,92
+2018,sexual harassment,60 years and over,male,120
+2019,sexual harassment,60 years and over,male,76
+2020,sexual harassment,60 years and over,male,121
