@@ -1,7 +1,9 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,area2,Value
+2019,(a) national education policies,
+2020,(a) national education policies,1
+2019,(b) curricula,
+2020,(b) curricula,0.904
+2019,(c) teacher education,
+2020,(c) teacher education,0.95
+2019,(d) student assessment,
+2020,(d) student assessment,0.917
