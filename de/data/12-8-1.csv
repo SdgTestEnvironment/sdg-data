@@ -1,7 +1,9 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Bereich,Value
+2019,(a) nationale Bildungspolitik,
+2020,(a) nationale Bildungspolitik,1.0
+2019,(b) Lehrpläne,
+2020,(b) Lehrpläne,0.904
+2019,(c) Ausbildung von Lehrkräften,
+2020,(c) Ausbildung von Lehrkräften,0.95
+2019,(d) Leistungsbewertung der Lernenden,
+2020,(d) Leistungsbewertung der Lernenden,0.917
