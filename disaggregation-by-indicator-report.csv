@@ -92,7 +92,7 @@ Indicator,Disaggregations,Number of disaggregations
 #7-2-1,timeseries,1
 #8-10-1,timeseries,1
 #8-10-2,type of account,1
-#8-5-1,"timeseries, region, sex",3
+#8-5-1,"timeseries, sex, region",3
 #8-5-2,"sex, age",2
 #8-6-1,sex,1
 #8-7-1,"sex, age",2
