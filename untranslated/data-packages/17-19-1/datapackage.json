@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,15 +23,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",
-                "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",
-                ""
+                "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,16 +23,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "sdg indicator 4-2-2",
-                "sdg indicator 4-3-1 (youth)",
                 "sdg indicator 4-3-1 (adults)",
-                ""
+                "sdg indicator 4-3-1 (youth)"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

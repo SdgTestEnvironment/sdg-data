@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,17 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Anteil der Gewinnung an den erneuerbaren Wasserressourcen",
-                "Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)",
-                ""
+                "Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)"
               ]
             },
             "title": "Nutzung der Wasserressourcen"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

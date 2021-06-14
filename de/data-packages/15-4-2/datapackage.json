@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Gebiete der Klasse 3 (Höhe 2500-3500 Meter)",
                 "Gebiete der Klasse 4 (Höhe 1500-2500 Meter)",
                 "Gebiete der Klasse 5 (Höhe 1000-1500 Meter)",
-                "Gebiete der Klasse 6 (Höhe  300-1000 Meter)",
-                ""
+                "Gebiete der Klasse 6 (Höhe  300-1000 Meter)"
               ]
             },
             "title": "Klassifikation"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

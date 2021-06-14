@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,17 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttozahlungen (ODA) zur Minderung der Armut",
+                "",
                 "Verpflichtungen (ODA) zur Minderung der Armut",
-                ""
+                "Bruttozahlungen (ODA) zur Minderung der Armut"
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

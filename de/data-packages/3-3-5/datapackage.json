@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,9 +25,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten",
+                "",
                 "Stationäre Behandlung bei vernachlässigten Tropenkrankheiten",
-                ""
+                "Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten"
               ]
             },
             "title": "Zeitreihe"
@@ -32,23 +37,18 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
+                "Buruli-Ulkus",
                 "Dengue",
                 "Echinokokkose",
-                "Lepra",
-                "Buruli-Ulkus",
                 "Afrikanische Trypanosomiasis",
                 "Leishmaniose",
+                "Lepra",
                 "Tollwut",
-                "Frambösie",
-                ""
+                "Frambösie"
               ]
             },
             "title": "Art der Erkrankung"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

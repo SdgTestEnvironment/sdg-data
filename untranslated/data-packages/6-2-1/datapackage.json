@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,15 +23,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "a) population using safely managed sanitation services (%)",
-                "b) population with a bathtub or a shower (%)",
-                ""
+                "b) population with a bathtub or a shower (%)"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

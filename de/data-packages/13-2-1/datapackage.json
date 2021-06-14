@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,17 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten",
+                "",
                 "Klimaschutzplan 2050",
-                ""
+                "National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten"
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

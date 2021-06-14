@@ -11,28 +11,32 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "kg per capita",
+                "",
                 "%",
-                ""
+                "kg per capita"
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "a) hazardous waste generated per capita",
-                "b) hazardous waste treated",
-                ""
+                "b) hazardous waste treated"
               ]
             }
           },
@@ -41,17 +45,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
+                "deposit onto or into land and land treatment and release into water bodies",
                 "energy recovery",
                 "incineration",
-                "recovery other than energy recovery",
-                "deposit onto or into land and land treatment and release into water bodies",
-                ""
+                "recovery other than energy recovery"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

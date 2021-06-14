@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,9 +25,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Wastewater safely treated (total)",
-                "Untreated wastewater that does not have to undergo treatment",
-                ""
+                "Untreated wastewater that does not have to undergo treatment"
               ]
             },
             "title": "Treatment"
@@ -32,17 +37,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Cooling water",
-                "Other wastewater",
-                ""
+                "Other wastewater"
               ]
             },
             "title": "Type of waste water"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

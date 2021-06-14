@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,17 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ODA (commitments) for biodiversity",
-                "ODA (gross disbursements) to the forestry sector",
-                ""
+                "ODA (gross disbursements) to the forestry sector"
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

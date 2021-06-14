@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,15 +23,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (gross disbursements) for water and sanitation",
+                "",
                 "ODA (gross disbursements) for other related purposes",
-                ""
+                "oda (gross disbursements) for water and sanitation"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

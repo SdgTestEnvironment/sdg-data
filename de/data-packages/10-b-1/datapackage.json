@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,20 +25,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Öffentliche Nettoentwicklungsausgaben (ODA)",
-                "Andere öffentliche Nettoleistungen (OOF)",
                 "Öffentlich unterstützte Exportkredite (Nettoauszahlungen)",
-                "Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)",
+                "Andere öffentliche Nettoleistungen (OOF)",
                 "Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoauszahlungen)",
-                ""
+                "Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)"
               ]
             },
             "title": "Art der Finanzströme"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

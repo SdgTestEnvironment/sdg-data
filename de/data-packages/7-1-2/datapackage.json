@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Jahr"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -26,6 +21,16 @@
             "title": "Units"
           },
           {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Jahr"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
@@ -34,11 +39,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
           }
         ]
       }

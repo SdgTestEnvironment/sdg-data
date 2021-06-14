@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,17 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "10 to under 15 years",
-                "15 to under 20 years",
-                ""
+                "15 to under 20 years"
               ]
             },
             "title": "Age of mother"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

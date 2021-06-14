@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "in lower secondary education",
                 "in pre-primary education",
                 "in primary education",
-                "in upper secondary education",
-                ""
+                "in upper secondary education"
               ]
             },
             "title": "grade"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

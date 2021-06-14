@@ -11,17 +11,35 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100 000 inhabitants",
+                "",
                 "number",
-                ""
+                "per 100 000 inhabitants"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "14 to under 18 years",
+                "18 to under 21 years",
+                "21 to under 60 years",
+                "60 years and over",
+                "under 14 years"
               ]
             }
           },
@@ -30,29 +48,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "female",
-                "male",
-                ""
+                "male"
               ]
             }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "under 14 years",
-                "14 to under 18 years",
-                "18 to under 21 years",
-                "21 to under 60 years",
-                "60 years and over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,17 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Verpflichtungen (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben für den Forstsektor",
-                ""
+                "Bruttoentwicklungsausgaben für den Forstsektor"
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

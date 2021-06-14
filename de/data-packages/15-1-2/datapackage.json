@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,17 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",
-                "Fläche der Land- und Süßwasserökosysteme , die unter Schutz steht",
-                ""
+                "Fläche der Land- und Süßwasserökosysteme , die unter Schutz steht"
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,20 +25,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Basler Übereinkommen",
+                "Minamata Übereinkommen",
                 "Montrealer Protokoll",
                 "Rotterdamer Übereinkommen",
-                "Stockholmer Übereinkommen",
-                "Minamata Übereinkommen",
-                ""
+                "Stockholmer Übereinkommen"
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

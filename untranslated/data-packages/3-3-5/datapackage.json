@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,9 +23,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "people requiring interventions against neglected tropical diseases",
+                "",
                 "inpatient treatment of neglected tropical diseases",
-                ""
+                "people requiring interventions against neglected tropical diseases"
               ]
             }
           },
@@ -30,21 +34,17 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
+                "buruli ulcer",
                 "dengue",
                 "echinococcosis",
-                "leprosy",
-                "buruli ulcer",
                 "human african trypanosomiasis",
                 "leishmaniases",
+                "leprosy",
                 "rabies",
-                "yaws",
-                ""
+                "yaws"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

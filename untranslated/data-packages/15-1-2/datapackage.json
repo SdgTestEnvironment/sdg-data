@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,15 +23,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "key biodiversity areas (kbas) covered by protected areas (%)",
-                "protected terrestrial areas (%)",
-                ""
+                "protected terrestrial areas (%)"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
           }
         ]
       }

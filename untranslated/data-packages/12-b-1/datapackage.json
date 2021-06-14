@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,15 +23,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "seea tables",
-                "tsa tables",
-                ""
+                "tsa tables"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
           }
         ]
       }

@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,9 +25,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Sicher behandeltes Abwasser (insgesamt)",
-                "Abwasser, das keiner Abwasserbehandlung bedarf",
-                ""
+                "Abwasser, das keiner Abwasserbehandlung bedarf"
               ]
             },
             "title": "Behandlung"
@@ -32,17 +37,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Kühlwasser",
-                "Sonstiges Abwasser",
-                ""
+                "Sonstiges Abwasser"
               ]
             },
             "title": "Art des Abwassers"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }
