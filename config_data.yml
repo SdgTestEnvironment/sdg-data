@@ -28,6 +28,9 @@ data_schema:
   class: DataSchemaInputTableSchemaYaml
   source: data-schema/*.yml
 
+datapackage:
+  sorting: default
+
 
 
 # Source directory
