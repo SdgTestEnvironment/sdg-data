@@ -1,4 +1,8 @@
 fields:
+  - name: Value
+    type: number
+  - name: Year
+    type: integer
   - name: region
     type: string
     constraints:
@@ -20,3 +24,5 @@ fields:
         - saxony-anhalt
         - schleswig-holstein
         - thuringia
+  - name: GeoCode
+    type: string
