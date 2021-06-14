@@ -24,12 +24,12 @@ schema_file: _prose.yml
 
 # For Disaggregation sorting
 
-# data_schema:
-#   class: DataSchemaInputTableSchemaYaml
-#   source: data-schema/*.yml
-
 datapackage:
   sorting: alphabetical
+
+data_schema:
+  class: DataSchemaInputTableSchemaYaml
+  source: data-schema/*.yml
 
 
 
