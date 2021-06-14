@@ -1,0 +1,69 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "age of victim",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "14 bis unter 18 Jahre",
+                "18 bis unter 21 Jahre",
+                "21 bis unter 60 Jahre",
+                "60 Jahre und älter",
+                "13 Jahre und jünger"
+              ]
+            },
+            "title": "Alter der Opfer"
+          },
+          {
+            "name": "sex of victim",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Weiblich",
+                "Männlich"
+              ]
+            },
+            "title": "Geschlecht der Opfer"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Körperliche Belästigung",
+                "Sexuelle Belästigung"
+              ]
+            },
+            "title": "Zeitreihe"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-7-2",
+  "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten Opfer körperlicher oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Tatort"
+}

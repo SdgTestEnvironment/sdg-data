@@ -1,0 +1,65 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "mn pkm",
+                "mn tkm"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "mode of transport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "commercial air transport",
+                "inland waterway transport",
+                "motorised private transport",
+                "rail transport",
+                "road transport",
+                "transport via pipeline crude oil"
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "freight transports",
+                "passenger transports"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-1-2",
+  "title": "Passagier- und Frachtvolumen, nach Verkehrsträgern"
+}

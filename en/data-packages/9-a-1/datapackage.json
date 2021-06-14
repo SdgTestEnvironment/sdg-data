@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ODA (gross disbursements) to infrastructure",
+                "ODA (gross disbursements) to the agriculture sector",
+                "ODA and OOF (gross disbursements) to infrastructure"
+              ]
+            },
+            "title": "Time series"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-a-1",
+  "title": "Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Ausgaben) für Infrastruktur"
+}

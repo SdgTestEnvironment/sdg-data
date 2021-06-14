@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "3g",
+                "lte"
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "a) population using safely managed sanitation services (%)",
+                "households covered by 3g or lte",
+                "municipal solid waste regularly collected and treated",
+                "population that has convenient access to public transport (within 500 meters) (%)",
+                "population using safely managed drinking water services (%)",
+                "population with access to electricity",
+                "proportion of the rural population who live within 2 km of an all-season road"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-4-1",
+  "title": "Anteil der Bevölkerung, der in Haushalten mit Zugang zu grundlegenden Diensten lebt"
+}

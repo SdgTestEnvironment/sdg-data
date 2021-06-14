@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Inpatient treatment of neglected tropical diseases",
+                "People requiring interventions against neglected tropical diseases"
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Buruli ulcer",
+                "Dengue",
+                "Echinococcosis",
+                "Human African Trypanosomiasis",
+                "Leishmaniases",
+                "Leprosy",
+                "Rabies",
+                "Yaws"
+              ]
+            },
+            "title": "Type of disease"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-3-5",
+  "title": "Anzahl der Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten"
+}

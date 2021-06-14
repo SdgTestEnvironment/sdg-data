@@ -1,0 +1,70 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Prozent",
+                "Anzahl"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "level of risk of extinction",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Nicht gefährdet",
+                "Gefährdet",
+                "Beobachtungspopulationen",
+                "Erhaltungspopulationen",
+                "Phänotypische Erhaltungspopulationen"
+              ]
+            },
+            "title": "Gefährdungskategorie"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Gefährdungskategorie (nach FAO-Klassifikation)",
+                "Gefährdungskategorie (nach nationaler Klassifikation)",
+                "Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)"
+              ]
+            },
+            "title": "Zeitreihe"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-5-2",
+  "title": "Anteil heimischer Rassen, die als vom Aussterben bedroht eingestuft sind"
+}

@@ -1,0 +1,66 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage",
+                "1,000 tonnes"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Material recovery",
+                "Recycling rate"
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "type of waste",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Municipal waste",
+                "Total waste"
+              ]
+            },
+            "title": "Type of waste"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-5-1",
+  "title": "Nationale Recyclingquote, Tonnen an recyceltem Material"
+}

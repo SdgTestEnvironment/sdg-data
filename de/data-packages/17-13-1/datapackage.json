@@ -1,0 +1,68 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Prozent",
+                "1 000",
+                "2015 = 100",
+                "Milliarden EUR",
+                "Millionen Stunden"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Jährliche Wachstumsrate des realen BIP",
+                "Verfügbares Einkommen privater Haushalte",
+                "Konsum privater Haushalte",
+                "Schuldenstand des öffentlichen Gesamthaushaltes",
+                "Finanzierungssaldo des Staates",
+                "Bruttoanlageinvestitionen",
+                "Geleistete Arbeitsstunden der Arbeitnehmer",
+                "Geleistete Arbeitsstunden der Erwerbstätigen",
+                "Arbeitsproduktivität je geleisteter Arbeitnehmerstunde",
+                "Arbeitsproduktivität je geleisteter Erwerbstätigenstunde",
+                "Erwerbstätige",
+                "Reales BIP pro Kopf",
+                "Außenbeitrag"
+              ]
+            },
+            "title": "Zeitreihe"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1",
+  "title": "Makroökonomisches Dashboard"
+}
