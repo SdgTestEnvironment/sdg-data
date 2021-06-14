@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,16 +19,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "capital to assets ratio (%)",
-                "liquid assets to short-term liabilities (%)",
-                "net open position in foreign exchange to capital (%)",
+                "regulatory tier 1 capital to risk-weighted assets (%)",
                 "nonperforming loans net of provisions to capital (%)",
                 "nonperforming loans net of provisions to gross loans (%)",
-                "regulatory tier 1 capital to risk-weighted assets (%)",
-                "return on assets (%)"
+                "return on assets (%)",
+                "liquid assets to short-term liabilities (%)",
+                "net open position in foreign exchange to capital (%)",
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

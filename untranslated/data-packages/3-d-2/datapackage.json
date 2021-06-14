@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",
-                "methicillin-resistant staphylococcus aureus (mrsa)"
+                "methicillin-resistant staphylococcus aureus (mrsa)",
+                ""
               ]
             }
           },
@@ -34,11 +30,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "who",
                 "ecdc",
-                "who"
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,11 +19,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "a) branches of payment service providers (per 100 000 adults)",
-                "b) atms of national payment service providers (per 100 000 adults)"
+                "b) atms of national payment service providers (per 100 000 adults)",
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

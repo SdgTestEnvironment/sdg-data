@@ -11,51 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percentage",
-                "Number"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
           },
           {
-            "name": "sex",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Divers",
-                "Female",
-                "Male"
+                "Percentage",
+                "Number",
+                ""
               ]
             },
-            "title": "Sex"
+            "title": "Units"
           },
           {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
-                "Private persons (donors) suspected in the context of corruption offences"
+                "Private persons (donors) suspected in the context of corruption offences",
+                ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                "Divers",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

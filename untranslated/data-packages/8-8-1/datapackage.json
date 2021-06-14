@@ -11,34 +11,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "female",
-                "male"
-              ]
-            }
           },
           {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "fatal occupational accidents (per 100 000 employees)",
-                "non-fatal occupational accidents (per 100 000 employees)"
+                "non-fatal occupational accidents (per 100 000 employees)",
+                ""
               ]
             }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }
