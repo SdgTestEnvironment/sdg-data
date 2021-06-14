@@ -11,46 +11,39 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 inhabitants",
+                "",
                 "Number",
-                ""
+                "Per 100,000 inhabitants"
               ]
             },
             "title": "Units"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "13 years and younger",
+                "",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 25 years",
                 "25 years and older",
-                "Unknown age",
-                ""
+                "13 years and younger",
+                "Unknown age"
               ]
             },
             "title": "Age group"
@@ -60,17 +53,24 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Labour exploitation",
-                "Sexual exploitation",
-                ""
+                "Sexual exploitation"
               ]
             },
             "title": "Form of exploitation"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
           }
         ]
       }

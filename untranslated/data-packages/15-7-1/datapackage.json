@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,15 +23,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "documents issued for the import and export of protected species (number)",
-                "seizures by authorities concerning the protection of species (number)",
-                ""
+                "seizures by authorities concerning the protection of species (number)"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

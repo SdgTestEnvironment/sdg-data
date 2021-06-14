@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "a) Cardiovascular disease",
                 "b) Cancer",
                 "c) Diabetes mellitus",
-                "d) Chronic respiratory disease",
-                ""
+                "d) Chronic respiratory disease"
               ]
             },
             "title": "Type of disease"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

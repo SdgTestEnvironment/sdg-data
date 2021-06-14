@@ -11,23 +11,23 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "mj/eur",
+                "",
                 "2015 = 100",
-                ""
+                "mj/eur"
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
           }
         ]
       }

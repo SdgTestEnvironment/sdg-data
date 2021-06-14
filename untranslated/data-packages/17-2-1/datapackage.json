@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,15 +23,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of net oda to gni (%)",
+                "",
                 "proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%)",
-                ""
+                "proportion of net oda to gni (%)"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

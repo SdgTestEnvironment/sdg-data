@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,20 +25,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ODA (net disbursements)",
-                "OOF (net disbursements)",
                 "Officially supported export credits (net disbursements)",
-                "Private sector flows at market terms (net disbursement)",
+                "OOF (net disbursements)",
                 "Private concessional flows (net disbursements)",
-                ""
+                "Private sector flows at market terms (net disbursement)"
               ]
             },
             "title": "Type of flow"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

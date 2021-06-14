@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "string",
             "title": "Year"
@@ -20,21 +25,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "15 years",
                 "15.5 years",
                 "16 years",
                 "16.5 years",
                 "17 years",
-                "17.5 years",
-                ""
+                "17.5 years"
               ]
             },
             "title": "Age group"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }
