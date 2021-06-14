@@ -7,22 +7,38 @@ fields:
     type: string
     constraints:
       enum:
-        - germany
-        - baden-wuerttemberg
-        - bavaria
-        - berlin
-        - brandenburg
-        - bremen
-        - hamburg
-        - hesse
-        - mecklenburg western pomerania
-        - lower saxony
-        - north rhine-westphalia
-        - rhineland palatinate
-        - saarland
-        - saxony
-        - saxony-anhalt
-        - schleswig-holstein
-        - thuringia
+        # - germany
+        # - baden-wuerttemberg
+        # - bavaria
+        # - berlin
+        # - brandenburg
+        # - bremen
+        # - hamburg
+        # - hesse
+        # - mecklenburg western pomerania
+        # - lower saxony
+        # - north rhine-westphalia
+        # - rhineland palatinate
+        # - saarland
+        # - saxony
+        # - saxony-anhalt
+        # - schleswig-holstein
+        # - thuringia
+        - Baden-Württemberg
+        - Bayern
+        - Rheinland-Pfalz
+        - Saarland
+        - Sachsen
+        - Sachsen-Anhalt
+        - Schleswig-Holstein
+        - Thüringen
+        - Berlin
+        - Brandenburg
+        - Bremen
+        - Hamburg
+        - Hessen
+        - Mecklenburg-Vorpommern
+        - Niedersachsen
+        - Nordrhein-Westfalen
   - name: GeoCode
     type: string
