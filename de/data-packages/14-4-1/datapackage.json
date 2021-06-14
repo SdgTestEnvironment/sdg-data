@@ -11,38 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "sea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Ostsee",
-                "Nordsee"
-              ]
-            },
-            "title": "Meer"
           },
           {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen",
-                "MSY-untersuchte an allen bewirtschafteten Beständen"
+                "MSY-untersuchte an allen bewirtschafteten Beständen",
+                ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "sea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nordsee",
+                "Ostsee",
+                ""
+              ]
+            },
+            "title": "Meer"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

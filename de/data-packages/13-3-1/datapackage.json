@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "string",
             "title": "Jahr"
@@ -25,14 +20,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "(a) nationale Bildungspolitik",
                 "(b) Lehrpläne",
                 "(c) Ausbildung von Lehrkräften",
-                "(d) Leistungsbewertung der Lernenden"
+                "(d) Leistungsbewertung der Lernenden",
+                ""
               ]
             },
             "title": "Bereich"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

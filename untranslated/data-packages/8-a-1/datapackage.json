@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,11 +19,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "aid for trade commitments (oda and oof)",
-                "aid for trade gross disbursements (oda and oof)"
+                "aid for trade gross disbursements (oda and oof)",
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

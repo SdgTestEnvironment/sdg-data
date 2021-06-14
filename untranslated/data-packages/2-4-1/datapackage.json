@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,11 +19,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "organically farmed agricultural land (data from destatis)",
                 "organically farmed agricultural land (data from bmel)",
-                "organically farmed agricultural land (data from destatis)"
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

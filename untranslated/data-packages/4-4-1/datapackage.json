@@ -11,37 +11,37 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "activities",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "copied or moved a file and folder",
-                "installed software or applications (apps)",
-                "transferred files between computer and other devices",
-                "used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
-                "written code in a programming language"
-              ]
-            }
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "16 to under 25 years",
-                "16 to under 75 years"
+                "16 to under 75 years",
+                ""
               ]
             }
+          },
+          {
+            "name": "activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "copied or moved a file and folder",
+                "installed software or applications (apps)",
+                "used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
+                "transferred files between computer and other devices",
+                "written code in a programming language",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

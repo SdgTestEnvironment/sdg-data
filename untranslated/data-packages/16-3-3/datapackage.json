@@ -11,34 +11,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "integer"
-          },
-          {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "declination",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "admissible applications",
-                "rejected applications"
-              ]
-            }
           },
           {
             "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "applications received",
                 "applications finally processed",
-                "applications received"
+                ""
               ]
             }
+          },
+          {
+            "name": "declination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "admissible applications",
+                "rejected applications",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
           }
         ]
       }

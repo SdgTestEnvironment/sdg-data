@@ -11,41 +11,41 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "activities",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Kopieren oder Verschieben von Dateien und Ordnern",
-                "Installation von Software oder Anwendungen (Apps)",
-                "Übertragung von Dateien zwischen Computern und anderen Geräten",
-                "Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken",
-                "Schreiben eines Programmes in einer Programmiersprache"
-              ]
-            },
-            "title": "Aktivitäten"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "16 bis unter 25 Jahre",
-                "16 bis unter 75 Jahre"
+                "16 bis unter 75 Jahre",
+                ""
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "activities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kopieren oder Verschieben von Dateien und Ordnern",
+                "Installation von Software oder Anwendungen (Apps)",
+                "Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken",
+                "Übertragung von Dateien zwischen Computern und anderen Geräten",
+                "Schreiben eines Programmes in einer Programmiersprache",
+                ""
+              ]
+            },
+            "title": "Aktivitäten"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

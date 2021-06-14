@@ -11,38 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "EUR pro Stunde",
                 "Prozent",
-                "EUR pro Stunde"
+                ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Durchschnittlicher Stundenlohn Beschäftigter",
+                "Verdienstabstand",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
@@ -50,42 +63,29 @@
                 "Bremen",
                 "Hamburg",
                 "Hessen",
-                "Niedersachsen",
                 "Mecklenburg-Vorpommern",
+                "Niedersachsen",
                 "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
                 "Saarland",
                 "Sachsen",
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
-                "Thüringen"
+                "Thüringen",
+                ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "sex",
+            "name": "GeoCode",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Weiblich",
-                "Männlich"
-              ]
-            },
-            "title": "Geschlecht"
+            "title": "GeoCode"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Durchschnittlicher Stundenlohn Beschäftigter",
-                "Verdienstabstand"
-              ]
-            },
-            "title": "Zeitreihe"
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

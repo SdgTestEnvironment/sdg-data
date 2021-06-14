@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,13 +19,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "a) medical doctors",
                 "b) dentists",
                 "c) nursing and midwifery personnel",
-                "d) pharmacists"
+                "d) pharmacists",
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

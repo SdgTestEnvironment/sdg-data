@@ -11,38 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "form of abuse",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Körperliche Misshandlung",
-                "Psychische Misshandlung"
-              ]
-            },
-            "title": "Form der Misshandlung"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Weiblich",
-                "Männlich"
+                "Männlich",
+                ""
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "form of abuse",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Körperliche Misshandlung",
+                "Psychische Misshandlung",
+                ""
+              ]
+            },
+            "title": "Form der Misshandlung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

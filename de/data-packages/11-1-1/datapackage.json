@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -25,15 +20,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)",
+                "Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt",
                 "Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet",
                 "Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt",
                 "Bevölkerung mit Lärmbelästigung in deren Wohnumgebung",
-                "Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt"
+                "Materielle Deprivation bezogen auf die Wohn-Dimension, insgesamt (1-4 Probleme)",
+                ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }
