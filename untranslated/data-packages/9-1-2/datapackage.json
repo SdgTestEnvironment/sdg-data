@@ -23,7 +23,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Year",

@@ -3043,7 +3043,7 @@
               "enum": [
                 "",
                 "Prozent",
-                "2010 = 100",
+                "2015 = 100",
                 "Keine Einheit"
               ]
             },
@@ -4125,7 +4125,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -6820,7 +6820,6 @@
               "enum": [
                 "",
                 "Bruttoentwicklungsausgaben für Infrastruktur",
-                "Bruttoentwicklungsausgaben für die Landwirtschaft",
                 "Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur"
               ]
             },

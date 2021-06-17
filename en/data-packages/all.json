@@ -3043,7 +3043,7 @@
               "enum": [
                 "",
                 "Percentage",
-                "2010 = 100",
+                "2015 = 100",
                 "No Unit"
               ]
             },
@@ -4125,7 +4125,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -6820,7 +6820,6 @@
               "enum": [
                 "",
                 "ODA (gross disbursements) to infrastructure",
-                "ODA (gross disbursements) to the agriculture sector",
                 "ODA and OOF (gross disbursements) to infrastructure"
               ]
             },
@@ -8669,10 +8668,10 @@
             "constraints": {
               "enum": [
                 "",
-                "DTP vaccination rate at school entrance",
-                "HPV vaccination rate among 15 years old girls",
-                "Measles vaccination rate at sschool entrance",
-                "Pneumococcal vaccination rate at school entrance"
+                "DTP vaccination coverage at school entry",
+                "HPV vaccination coverage among 15 year-old girls",
+                "Measles vaccination coverage at school entry",
+                "Pneumococcal vaccination coverage at school entry"
               ]
             },
             "title": "Time series"

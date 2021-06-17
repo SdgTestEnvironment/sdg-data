@@ -2795,7 +2795,7 @@
               "enum": [
                 "",
                 "%",
-                "2010 = 100",
+                "2015 = 100",
                 "no unit"
               ]
             }
@@ -3788,7 +3788,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Year",
@@ -5866,7 +5866,7 @@
             "constraints": {
               "enum": [
                 "",
-                "ODA (gross disbursements) for other related purposes",
+                "oda (gross disbursements) for other related purposes",
                 "oda (gross disbursements) for water and sanitation"
               ]
             }
@@ -6261,7 +6261,6 @@
               "enum": [
                 "",
                 "oda (gross disbursements) to infrastructure",
-                "oda (gross disbursements) to the agriculture sector",
                 "oda and oof (gross disbursements) to infrastructure"
               ]
             }
