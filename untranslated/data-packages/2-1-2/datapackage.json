@@ -17,29 +17,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "former federal territory",
-                "germany",
-                "new german states"
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "female",
-                "male"
-              ]
-            }
           }
         ]
       }

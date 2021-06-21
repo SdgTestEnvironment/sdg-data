@@ -4023,31 +4023,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Former Federal territory",
-                "Germany",
-                "New German states"
-              ]
-            },
-            "title": "Area"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
           }
         ]
       },
@@ -4345,26 +4320,27 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
+                "Long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)",
+                "Short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)"
+              ]
+            },
+            "title": "Time series"
           }
         ]
       },

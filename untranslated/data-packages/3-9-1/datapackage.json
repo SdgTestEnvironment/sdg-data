@@ -11,23 +11,24 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
+                "long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)",
+                "short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)"
+              ]
+            }
           }
         ]
       }

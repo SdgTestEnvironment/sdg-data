@@ -4023,31 +4023,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Früheres Bundesgebiet",
-                "Deutschland",
-                "Neue Länder"
-              ]
-            },
-            "title": "Gebiet"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Weiblich",
-                "Männlich"
-              ]
-            },
-            "title": "Geschlecht"
           }
         ]
       },
@@ -4345,26 +4320,27 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre)",
+                "Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre)",
+                "Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre)"
+              ]
+            },
+            "title": "Zeitreihe"
           }
         ]
       },

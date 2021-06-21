@@ -19,31 +19,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Früheres Bundesgebiet",
-                "Deutschland",
-                "Neue Länder"
-              ]
-            },
-            "title": "Gebiet"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Weiblich",
-                "Männlich"
-              ]
-            },
-            "title": "Geschlecht"
           }
         ]
       }
