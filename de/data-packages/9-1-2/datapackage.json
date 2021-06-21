@@ -11,54 +11,54 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Millionen Personenkilometer",
-                "Millionen Tonnenkilometer"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "mode of transport",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Luftverkehr",
-                "Binnenschifffahrt",
-                "Motorisierter Individualverkehr",
-                "Eisenbahnverkehr",
-                "Straßenverkehr",
-                "Rohrfernleitungen: Rohöl"
+                "Millionen Personenkilometer",
+                "Millionen Tonnenkilometer",
+                ""
               ]
             },
-            "title": "Verkehrsträger"
+            "title": "Units"
           },
           {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Personenverkehr",
                 "Güterverkehr",
-                "Personenverkehr"
+                ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "mode of transport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Straßenverkehr",
+                "Eisenbahnverkehr",
+                "Luftverkehr",
+                "Motorisierter Individualverkehr",
+                "Binnenschifffahrt",
+                "Rohrfernleitungen: Rohöl",
+                ""
+              ]
+            },
+            "title": "Verkehrsträger"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

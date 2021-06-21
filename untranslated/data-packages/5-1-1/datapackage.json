@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "integer"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,13 +19,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "area 1 overarching legal frameworks and public life",
-                "area 2 violence against women",
+                "area 4 marriage and family",
                 "area 3 employment and economic benefits",
-                "area 4 marriage and family"
+                "area 2 violence against women",
+                "area 1 overarching legal frameworks and public life",
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
           }
         ]
       }

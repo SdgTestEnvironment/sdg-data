@@ -11,26 +11,45 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population that has convenient access to public transport (within 500 meters)",
+                "Population that has convenient access to public transport (within 10 minutes walking distance)",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "17 years and younger",
                 "18 to under 30 years",
                 "30 to under 45 years",
                 "45 to under 65 years",
                 "65 years and older",
-                "17 years and younger"
+                ""
               ]
             },
             "title": "Age group"
@@ -40,35 +59,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Mobility impaired people"
+                "Mobility impaired people",
+                ""
               ]
             },
             "title": "Disability status"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Population that has convenient access to public transport (within 10 minutes walking distance)",
-                "Population that has convenient access to public transport (within 500 meters)"
-              ]
-            },
-            "title": "Time series"
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

@@ -11,53 +11,53 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Anzahl",
-                "Je 100 000 Einwohner"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "14 bis unter 18 Jahre",
-                "18 bis unter 21 Jahre",
-                "21 bis unter 60 Jahre",
-                "60 Jahre und älter",
-                "13 Jahre und jünger"
+                "Je 100 000 Einwohner",
+                "Anzahl",
+                ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "Units"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Weiblich",
-                "Männlich"
+                "Männlich",
+                ""
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13 Jahre und jünger",
+                "14 bis unter 18 Jahre",
+                "18 bis unter 21 Jahre",
+                "21 bis unter 60 Jahre",
+                "60 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }
