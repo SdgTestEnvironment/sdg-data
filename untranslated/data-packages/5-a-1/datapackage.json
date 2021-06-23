@@ -15,19 +15,31 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "owned and leased agricultural land",
+                "female owners of agricultural holdings with the legal form of a sole proprietorship",
+                "agricultural holdings with the legal of a form sole proprietorship",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ownership",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "property",
+                "leasehold",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

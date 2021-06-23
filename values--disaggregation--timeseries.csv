@@ -6,6 +6,7 @@ a) oda (commitments) for biodiversity,2,2
 a) police reporting rate for physical assault (%),1,1
 a) population using safely managed sanitation services (%),1,1
 above-ground biomass stock in forest,1,1
+agricultural holdings with the legal of a form sole proprietorship,1,1
 aid for trade commitments (oda and oof),1,1
 aid for trade gross disbursements (oda and oof),1,1
 animal genetic resources (number),1,1
@@ -32,6 +33,9 @@ compliance with the montreal protocol (%),1,1
 compliance with the rotterdam convention (%),1,1
 compliance with the stockholm convention (%),1,1
 consumption by private households,1,1
+contractingparties to the international treaty on plant genetic resources for food and agriculture,1,1
+"countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture",1,1
+"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1,1
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%),1,1
 current tobacco use among persons aged 15 years and older (%),3,1
 death registration,1,1
@@ -40,6 +44,7 @@ documents issued for the import and export of protected species (number),2,2
 dtp vaccination rate at school entrance,1,1
 fatal occupational accidents (per 100 000 employees),1,1
 female employees in public sector (%),1,1
+female owners of agricultural holdings with the legal form of a sole proprietorship,1,1
 fish stocks within biologically sustainable levels (%),3,1
 forest area located within protected areas,1,1
 forest area net change rate,1,1
@@ -79,6 +84,7 @@ net open position in foreign exchange to capital (%),1,1
 non-fatal occupational accidents (per 100 000 employees),3,1
 nonperforming loans net of provisions to capital (%),1,1
 nonperforming loans net of provisions to gross loans (%),1,1
+number of standard material transfer agreements (smtas),1,1
 "oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",1,1
 oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation),1,1
 "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))",1,1
@@ -92,8 +98,10 @@ oda (gross disbursements) for scholarships,1,1
 oda (gross disbursements) for water and sanitation,1,1
 oda (gross disbursements) to infrastructure,1,1
 organically farmed agricultural land (data from bmel),1,1
-organically farmed agricultural land (data from destatis),1,1
+organically farmed agricultural land (data from destatis),17,1
 overweight among children under the age of 5 years (%),1,1
+owned and leased agricultural land,3,1
+parties to the nagoya protocol,1,1
 passenger transports,5,1
 people requiring interventions against neglected tropical diseases,4,1
 persons at risk of poverty or social exclusion,6,1

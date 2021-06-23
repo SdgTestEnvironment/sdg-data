@@ -705,20 +705,33 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Owned and leased agricultural land",
+                "Female owners of agricultural holdings with the legal form of a sole proprietorship",
+                "Agricultural holdings with the legal of a form sole proprietorship",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Time series"
+          },
+          {
+            "name": "ownership",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Property",
+                "Leasehold",
+                ""
+              ]
+            },
+            "title": "Ownership"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1206,20 +1219,37 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Sex"
+          },
+          {
+            "name": "percentiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "P5",
+                "P10",
+                "P25",
+                "P50",
+                "P75",
+                "P90",
+                "P95",
+                ""
+              ]
+            },
+            "title": "Percentiles"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1551,20 +1581,8 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -3864,6 +3882,37 @@
             "title": "Time series"
           },
           {
+            "name": "region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5122,18 +5171,6 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -5587,20 +5624,23 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture",
+                "Parties to the Nagoya Protocol",
+                "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture",
+                "Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House",
+                "Number of Standard Material Transfer Agreements (SMTAs)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Time series"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6881,20 +6921,8 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7140,20 +7168,8 @@
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7180,7 +7196,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Key Biodiversity Areas (KBAs) covered by protected areas",
+                "Mountain Key Biodiversity Areas (KBAs) covered by protected areas",
                 "Mountain regions, covered by protected areas",
                 ""
               ]
@@ -8078,8 +8094,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Physical harassment",
-                "Sexual harassment",
+                "Victims of physical harassment",
+                "Victims of sexual harassment",
                 ""
               ]
             },

@@ -705,20 +705,33 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Eigene und gepachtete landwirtschaftlich genutzte Flächen",
+                "Weibliche Inhaber landwirtschaftlicher Betriebe der Rechtsform Einzelunternehmen",
+                "Betriebe der Rechtsform Einzelunternehmen",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "ownership",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eigentum",
+                "Pacht",
+                ""
+              ]
+            },
+            "title": "Eigentumsverhältnis"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1206,20 +1219,37 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Geschlecht"
+          },
+          {
+            "name": "percentiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "P5",
+                "P10",
+                "P25",
+                "P50",
+                "P75",
+                "P90",
+                "P95",
+                ""
+              ]
+            },
+            "title": "Perzentile"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1551,20 +1581,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -3864,6 +3882,37 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5122,18 +5171,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -5587,20 +5624,23 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Vertragsparteien des Internationalen Saatgutvertrags",
+                "Vertragsparteien des Nagoya-Protokoll",
+                "Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden",
+                "Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden",
+                "Anzahl standardisierter Materialübertragungsvereinbarungen",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6881,20 +6921,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7140,20 +7168,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -8078,8 +8094,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Körperliche Belästigung",
-                "Sexuelle Belästigung",
+                "Opfer von körperlicher Belästigung",
+                "Opfer von sexueller Belästigung",
                 ""
               ]
             },

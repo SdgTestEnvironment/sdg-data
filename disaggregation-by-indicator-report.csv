@@ -28,6 +28,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-2-1,timeseries,1
 #15-4-1,timeseries,1
 #15-4-2,classification,1
+#15-6-1,timeseries,1
 #15-7-1,timeseries,1
 #15-a-1,timeseries,1
 #15-b-1,timeseries,1
@@ -51,10 +52,11 @@ Indicator,Disaggregations,Number of disaggregations
 #17-7-1,sector,1
 #17-8-1,"sex, age",2
 #17-9-1,timeseries,1
+#2-1-1,"sex, percentiles",2
 #2-2-2,timeseries,1
 #2-2-3,age,1
 #2-3-1,economic sector,1
-#2-4-1,timeseries,1
+#2-4-1,"timeseries, region",2
 #2-5-1,timeseries,1
 #2-5-2,"timeseries, level of risk of extinction",2
 #3-1-2,timeseries,1
@@ -85,6 +87,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-3-1,age,1
 #5-4-1,"sex, age",2
 #5-5-1,region,1
+#5-a-1,"timeseries, ownership",2
 #5-b-1,timeseries,1
 #6-1-1,timeseries,1
 #6-2-1,timeseries,1

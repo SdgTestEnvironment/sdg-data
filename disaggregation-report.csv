@@ -21,12 +21,14 @@ level of proficiency,1,2
 level of risk of extinction,1,5
 level of waterstress,1,2
 mode of transport,1,6
+ownership,1,2
+percentiles,1,7
 profession,1,4
-region,4,17
+region,5,17
 sea,1,2
 sector,1,2
 sex of victim,1,2
-sex,22,4
+sex,23,4
 skill,1,2
 source,1,2
 speed,1,5
@@ -36,7 +38,7 @@ substance,1,2
 technological intensity,1,2
 technology,1,2
 time series,1,2
-timeseries,59,149
+timeseries,61,157
 treatment,1,2
 type of account,1,2
 type of disease,3,15

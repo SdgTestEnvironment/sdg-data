@@ -16,20 +16,33 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Eigene und gepachtete landwirtschaftlich genutzte Flächen",
+                "Weibliche Inhaber landwirtschaftlicher Betriebe der Rechtsform Einzelunternehmen",
+                "Betriebe der Rechtsform Einzelunternehmen",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "ownership",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eigentum",
+                "Pacht",
+                ""
+              ]
+            },
+            "title": "Eigentumsverhältnis"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
