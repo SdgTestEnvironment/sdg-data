@@ -28,7 +28,7 @@
             "title": "Time series"
           },
           {
-            "name": "age of victim",
+            "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,10 +40,10 @@
                 ""
               ]
             },
-            "title": "Age of victims"
+            "title": "Age group"
           },
           {
-            "name": "sex of victim",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -52,7 +52,7 @@
                 ""
               ]
             },
-            "title": "Gender of victims"
+            "title": "Sex"
           },
           {
             "name": "Value",

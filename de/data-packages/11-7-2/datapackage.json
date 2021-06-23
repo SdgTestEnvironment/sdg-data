@@ -28,7 +28,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "age of victim",
+            "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,10 +40,10 @@
                 ""
               ]
             },
-            "title": "Alter der Opfer"
+            "title": "Altersklasse"
           },
           {
-            "name": "sex of victim",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -52,7 +52,7 @@
                 ""
               ]
             },
-            "title": "Geschlecht der Opfer"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",

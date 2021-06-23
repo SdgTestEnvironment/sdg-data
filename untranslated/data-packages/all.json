@@ -7440,7 +7440,7 @@
             }
           },
           {
-            "name": "age of victim",
+            "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7454,7 +7454,7 @@
             }
           },
           {
-            "name": "sex of victim",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
