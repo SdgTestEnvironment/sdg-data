@@ -873,7 +873,7 @@
                 ""
               ]
             },
-            "title": "Standard-Rechnungslegungsinstrument"
+            "title": "Standard Gesamtrechnungssystem"
           },
           {
             "name": "Value",
@@ -3726,8 +3726,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mittels UN-Faktoren",
-                "Mittels nationaler Faktoren",
+                "Nach UN-Faktoren",
+                "Nach nationalen Faktoren",
                 ""
               ]
             },
