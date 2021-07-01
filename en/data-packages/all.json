@@ -5599,6 +5599,23 @@
             "title": "Year"
           },
           {
+            "name": "domain",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All Domains",
+                "Domain 1. Migrant rights",
+                "Domain 2. Whole-of-government/ Evidence-based policies",
+                "Domain 3. Cooperation and partnerships",
+                "Domain 4. Socioeconomic well-being",
+                "Domain 5. Mobility dimensions of crises",
+                "Domain 6. Safe, orderly and regular migration",
+                ""
+              ]
+            },
+            "title": "Domain"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -7318,6 +7335,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No Unit",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "timeseries",

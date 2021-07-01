@@ -5599,6 +5599,23 @@
             "title": "Jahr"
           },
           {
+            "name": "domain",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alle Bereiche",
+                "Bereich 1. Rechte von Migranten",
+                "Bereich 2: Gesamtheitliche/ Evidenzbasierte Politik",
+                "Bereich 3. Zusammenarbeit und Partnerschaften",
+                "Bereich 4: Sozioökonomisches Wohlbefinden",
+                "Bereich 5. Mobilitätsdimensionen von Krisen",
+                "Bereich 6. Sichere, geordnete und reguläre Migration",
+                ""
+              ]
+            },
+            "title": "Bereich"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -7318,6 +7335,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Keine Einheit",
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "timeseries",
