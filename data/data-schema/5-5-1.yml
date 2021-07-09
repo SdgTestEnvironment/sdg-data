@@ -7,7 +7,6 @@ fields:
     type: string
     constraints:
       enum:
-        - germany
         - baden-wuerttemberg
         - bavaria
         - berlin
@@ -24,5 +23,6 @@ fields:
         - saxony-anhalt
         - schleswig-holstein
         - thuringia
+        - germany
   - name: GeoCode
     type: string
