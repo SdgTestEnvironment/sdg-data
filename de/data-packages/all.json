@@ -601,10 +601,10 @@
             "constraints": {
               "enum": [
                 "Öffentliche Nettoentwicklungsausgaben (ODA)",
-                "Andere öffentliche Nettoleistungen (OOF)",
-                "Öffentlich unterstützte Exportkredite (Nettoauszahlungen)",
-                "Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)",
-                "Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoauszahlungen)",
+                "Sonstige öffentliche Nettoausgaben (OOF)",
+                "Öffentlich unterstützte Exportkredite (Nettoausgaben)",
+                "Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)",
+                "Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)",
                 ""
               ]
             },
@@ -1124,8 +1124,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
-                "Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
+                "Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
+                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
                 ""
               ]
             },
@@ -1625,8 +1625,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur",
-                "Bruttoentwicklungsausgaben für Infrastruktur",
+                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur",
+                "Bruttoentwicklungsausgaben (ODA) für Infrastruktur",
                 ""
               ]
             },
@@ -2348,7 +2348,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verpflichtungen (ODA) für Biodiversität",
+                "Zusagen (ODA) für Biodiversität",
                 "Umweltschutzausgaben",
                 ""
               ]
@@ -2496,8 +2496,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE",
-                "Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE",
+                "Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE",
+                "Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungslausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)",
                 ""
               ]
             },
@@ -3247,8 +3247,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben für Stipendien",
-                "Bruttoentwicklungsausgaben für Studienplatzkosten",
+                "Bruttoentwicklungsausgaben (ODA) für Stipendien",
+                "Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten",
                 ""
               ]
             },
@@ -3701,8 +3701,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttozahlungen (ODA) zur Minderung der Armut",
-                "Verpflichtungen (ODA) zur Minderung der Armut",
+                "Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut",
+                "Zusagen (ODA) zur Minderung der Armut",
                 ""
               ]
             },
@@ -3921,8 +3921,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern",
-                "Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern",
+                "Zusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten",
+                "Bruttoausgaben (ODA und OOF) zum Ausbau statistischer Kapazitäten",
                 ""
               ]
             },
@@ -4963,8 +4963,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben für Wasser und Sanitär",
-                "Bruttoentwicklungsausgaben für verwandte Zwecke",
+                "Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär",
+                "Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke",
                 ""
               ]
             },
@@ -6543,8 +6543,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verpflichtungen (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben für den Forstsektor",
+                "Zusagen (ODA) für Biodiversität",
+                "Bruttoentwicklungsausgaben (ODA) für den Forstsektor",
                 ""
               ]
             },
@@ -7693,7 +7693,7 @@
                 ""
               ]
             },
-            "title": "Technologiesectoren"
+            "title": "Technologiesektoren"
           },
           {
             "name": "Value",
@@ -7954,8 +7954,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verpflichtungen für Handelshilfe (ODA und OOF)",
-                "Bruttoauszahlungen für Handelshilfe (ODA und OOF)",
+                "Zusagen (ODA und OOF) für Handelshilfe",
+                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe",
                 ""
               ]
             },
