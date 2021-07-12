@@ -12,11 +12,11 @@ Year,Units,timeseries,Value
 2020,no unit,contractingparties to the international treaty on plant genetic resources for food and agriculture,1.0
 2021,no unit,contractingparties to the international treaty on plant genetic resources for food and agriculture,1.0
 2010,no unit,parties to the nagoya protocol,
-2011,no unit,parties to the nagoya protocol,1.0
-2012,no unit,parties to the nagoya protocol,1.0
-2013,no unit,parties to the nagoya protocol,1.0
-2014,no unit,parties to the nagoya protocol,1.0
-2015,no unit,parties to the nagoya protocol,1.0
+2011,no unit,parties to the nagoya protocol,
+2012,no unit,parties to the nagoya protocol,
+2013,no unit,parties to the nagoya protocol,
+2014,no unit,parties to the nagoya protocol,
+2015,no unit,parties to the nagoya protocol,
 2016,no unit,parties to the nagoya protocol,1.0
 2017,no unit,parties to the nagoya protocol,1.0
 2018,no unit,parties to the nagoya protocol,1.0
@@ -35,18 +35,18 @@ Year,Units,timeseries,Value
 2019,no unit,"countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture",1.0
 2020,no unit,"countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture",1.0
 2021,no unit,"countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture",1.0
-2010,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
-2011,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
+2010,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
+2011,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
 2012,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
-2013,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
-2014,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
-2015,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
-2016,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
-2017,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
-2018,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
-2019,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
-2020,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
-2021,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
+2013,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
+2014,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
+2015,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
+2016,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
+2017,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
+2018,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
+2019,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
+2020,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
+2021,no unit,"countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",1.0
 2010,number,number of standard material transfer agreements (smtas),
 2011,number,number of standard material transfer agreements (smtas),
 2012,number,number of standard material transfer agreements (smtas),3898.0

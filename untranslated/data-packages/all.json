@@ -1260,7 +1260,18 @@
               "enum": [
                 "mn t",
                 "t per capita",
-                "per real gdp (2015 = 100)",
+                "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "raw material consumption (rmc)",
+                "raw material consumption per real gdp",
                 ""
               ]
             }
@@ -7162,7 +7173,7 @@
               "enum": [
                 "mn t",
                 "t per capita",
-                "per real gdp (2015 = 100)",
+                "2015 = 100",
                 ""
               ]
             }
@@ -7196,7 +7207,7 @@
               "enum": [
                 "mn t",
                 "t per capita",
-                "per real gdp (2015 = 100)",
+                "2015 = 100",
                 ""
               ]
             }
@@ -8177,7 +8188,18 @@
               "enum": [
                 "mn t",
                 "t per capita",
-                "per real gdp (2015 = 100)",
+                "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "raw material consumption (rmc)",
+                "raw material consumption per real gdp",
                 ""
               ]
             }

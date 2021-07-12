@@ -1370,11 +1370,23 @@
               "enum": [
                 "Million tonnes",
                 "Tonnes per capita",
-                "Per real GDP (2015 = 100)",
+                "2015 = 100",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Raw material consumption (RMC)",
+                "Raw material consumption per real GDP",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -7798,7 +7810,7 @@
               "enum": [
                 "Million tonnes",
                 "Tonnes per capita",
-                "Per real GDP (2015 = 100)",
+                "2015 = 100",
                 ""
               ]
             },
@@ -7835,7 +7847,7 @@
               "enum": [
                 "Million tonnes",
                 "Tonnes per capita",
-                "Per real GDP (2015 = 100)",
+                "2015 = 100",
                 ""
               ]
             },
@@ -8904,11 +8916,23 @@
               "enum": [
                 "Million tonnes",
                 "Tonnes per capita",
-                "Per real GDP (2015 = 100)",
+                "2015 = 100",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Raw material consumption (RMC)",
+                "Raw material consumption per real GDP",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

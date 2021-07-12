@@ -1370,11 +1370,23 @@
               "enum": [
                 "Millionen Tonnen",
                 "Tonnen pro Kopf",
-                "Pro realem BIP (2015 = 100)",
+                "2015 = 100",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)",
+                "Inländische Rohstoffverwendung pro realem BIP",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -7798,7 +7810,7 @@
               "enum": [
                 "Millionen Tonnen",
                 "Tonnen pro Kopf",
-                "Pro realem BIP (2015 = 100)",
+                "2015 = 100",
                 ""
               ]
             },
@@ -7835,7 +7847,7 @@
               "enum": [
                 "Millionen Tonnen",
                 "Tonnen pro Kopf",
-                "Pro realem BIP (2015 = 100)",
+                "2015 = 100",
                 ""
               ]
             },
@@ -8904,11 +8916,23 @@
               "enum": [
                 "Millionen Tonnen",
                 "Tonnen pro Kopf",
-                "Pro realem BIP (2015 = 100)",
+                "2015 = 100",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)",
+                "Inländische Rohstoffverwendung pro realem BIP",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
