@@ -16,20 +16,21 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "thematic area",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Maternity Care",
+                "Contraceptive and Family Planning",
+                "HIV and HPV",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Thematic area"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

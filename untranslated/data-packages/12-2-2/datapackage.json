@@ -27,6 +27,17 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "domestic material consumption (dmc)",
+                "domestic material consumption per real gdp",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -16,20 +16,21 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "thematic area",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Mutterschaftsvorsorge",
+                "Empfängnisverhütung und Familienplanung",
+                "HIV und HPV",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Themenbereich"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

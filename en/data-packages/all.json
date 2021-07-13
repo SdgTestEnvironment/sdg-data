@@ -996,13 +996,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Relative to GDP (%)",
-                "As proportion of total gross value added (%)",
-                "EUR per inhabitant",
+                "Percentage",
+                "EUR",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing gross value added as a proportion of GDP",
+                "Manufacturing gross value added as a proportion of total gross value added",
+                "Manufacturing gross value added per capita",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -1923,7 +1935,7 @@
             "constraints": {
               "enum": [
                 "17 years and younger",
-                "15 years and younger",
+                "14 years and younger",
                 ""
               ]
             },
@@ -3525,20 +3537,21 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "thematic area",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Maternity Care",
+                "Contraceptive and Family Planning",
+                "HIV and HPV",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Thematic area"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -5568,7 +5581,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten (a) physischer Gewalt; (b) psychischer Gewalt; und/ oder (c) sexueller Gewalt ausgesetzt war"
+      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten (a) physischer Gewalt; (b) psychischer Gewalt; und (c) sexueller Gewalt ausgesetzt war"
     },
     {
       "path": "14-1-1/data.csv",
@@ -6549,6 +6562,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million USD, constant prices (2018)",
+                "Million USD, constant prices (2019)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "timeseries",
@@ -7817,6 +7842,18 @@
             "title": "Units"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption (DMC)",
+                "Domestic material consumption per real GDP",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7852,6 +7889,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption (DMC)",
+                "Domestic material consumption per real GDP",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

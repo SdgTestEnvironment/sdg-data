@@ -29,6 +29,18 @@
             "title": "Units"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inländische Materialverwendung (DMC)",
+                "Inländische Materialverwendung pro realem BIP",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

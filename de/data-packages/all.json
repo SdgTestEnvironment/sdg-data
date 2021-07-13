@@ -996,13 +996,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis zum BIP (%)",
-                "Verhältnis zur Bruttowertschöpfung insgesamt (%)",
-                "EUR je Einwohner",
+                "Prozent",
+                "EUR",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP",
+                "Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt",
+                "Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -3525,20 +3537,21 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "thematic area",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Mutterschaftsvorsorge",
+                "Empfängnisverhütung und Familienplanung",
+                "HIV und HPV",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Themenbereich"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -5568,7 +5581,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten (a) physischer Gewalt; (b) psychischer Gewalt; und/ oder (c) sexueller Gewalt ausgesetzt war"
+      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten (a) physischer Gewalt; (b) psychischer Gewalt; und (c) sexueller Gewalt ausgesetzt war"
     },
     {
       "path": "14-1-1/data.csv",
@@ -6549,6 +6562,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millionen USD, konstante Preise (2018)",
+                "Millionen USD, konstante Preise (2019)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "timeseries",
@@ -7817,6 +7842,18 @@
             "title": "Units"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inländische Materialverwendung (DMC)",
+                "Inländische Materialverwendung pro realem BIP",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7852,6 +7889,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inländische Materialverwendung (DMC)",
+                "Inländische Materialverwendung pro realem BIP",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

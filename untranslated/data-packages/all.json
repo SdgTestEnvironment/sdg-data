@@ -916,9 +916,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "relative to gdp",
-                "as proportion of total gross value added",
-                "eur per inhabitant",
+                "%",
+                "eur",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "manufacturing gross value added as a proportion of gdp",
+                "manufacturing gross value added as a proportion of total gross value added",
+                "manufacturing gross value added per capita",
                 ""
               ]
             }
@@ -3238,19 +3249,20 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "thematic area",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "maternity care",
+                "contraceptive and family planning",
+                "hiv and hpv",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -5114,7 +5126,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten (a) physischer Gewalt; (b) psychischer Gewalt; und/ oder (c) sexueller Gewalt ausgesetzt war"
+      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten (a) physischer Gewalt; (b) psychischer Gewalt; und (c) sexueller Gewalt ausgesetzt war"
     },
     {
       "path": "14-1-1/data.csv",
@@ -6014,6 +6026,17 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mn usd, constant prices (2018)",
+                "mn usd, constant prices (2019)",
+                ""
+              ]
+            }
           },
           {
             "name": "timeseries",
@@ -7179,6 +7202,17 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "domestic material consumption (dmc)",
+                "domestic material consumption per real gdp",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -7208,6 +7242,17 @@
                 "mn t",
                 "t per capita",
                 "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "domestic material consumption (dmc)",
+                "domestic material consumption per real gdp",
                 ""
               ]
             }

@@ -15,19 +15,20 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "thematic area",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "maternity care",
+                "contraceptive and family planning",
+                "hiv and hpv",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
