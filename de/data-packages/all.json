@@ -266,18 +266,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -291,6 +279,17 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "disability",
@@ -341,7 +340,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -498,18 +497,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
-                "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -521,6 +508,18 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
+                "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -547,18 +546,6 @@
             "title": "Jahr"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -570,6 +557,18 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -695,18 +694,6 @@
             "title": "Jahr"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -718,6 +705,18 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -2416,18 +2415,6 @@
             "title": "Units"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -2442,6 +2429,19 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                "Unbekannt",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "form of exploitation",
@@ -2875,18 +2875,6 @@
             "title": "Units"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -2900,6 +2888,18 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -5237,18 +5237,6 @@
             "title": "Jahr"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -5259,6 +5247,18 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -5548,18 +5548,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -5573,6 +5561,18 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -7288,18 +7288,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -7311,6 +7299,18 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -8398,18 +8398,6 @@
             "title": "Jahr"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -8423,6 +8411,18 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
