@@ -1,4 +1,4 @@
 From,To
-timeseries,age
-timeseries,sex
 timeseries,disability
+timeseries,sex
+timeseries,age

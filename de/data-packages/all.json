@@ -266,6 +266,29 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menschen mit Mobilitätseinschränkung",
+                ""
+              ]
+            },
+            "title": "Behinderungsstatus"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -279,28 +302,6 @@
               ]
             },
             "title": "Altersklasse"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menschen mit Mobilitätseinschränkung",
-                ""
-              ]
-            },
-            "title": "Behinderungsstatus"
           },
           {
             "name": "Value",
@@ -2415,6 +2416,19 @@
             "title": "Units"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                "Unbekannt",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -2429,19 +2443,6 @@
               ]
             },
             "title": "Altersklasse"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                "Unbekannt",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
           },
           {
             "name": "form of exploitation",
@@ -5548,6 +5549,18 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -5561,18 +5574,6 @@
               ]
             },
             "title": "Altersklasse"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -7288,6 +7289,18 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -7299,18 +7312,6 @@
               ]
             },
             "title": "Altersklasse"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
           },
           {
             "name": "Value",

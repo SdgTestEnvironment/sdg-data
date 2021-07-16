@@ -28,6 +28,29 @@
             "title": "Time series"
           },
           {
+            "name": "disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mobility impaired people",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -41,28 +64,6 @@
               ]
             },
             "title": "Age group"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mobility impaired people",
-                ""
-              ]
-            },
-            "title": "Disability status"
           },
           {
             "name": "Value",
