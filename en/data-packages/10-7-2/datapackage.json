@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All Domains",
                 "Domain 1. Migrant rights",
                 "Domain 2. Whole-of-government/ Evidence-based policies",
                 "Domain 3. Cooperation and partnerships",

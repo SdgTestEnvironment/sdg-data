@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all domains",
                 "domain 1. migrant rights",
                 "domain 2. whole-of-government/evidence-based policies",
                 "domain 3. cooperation and partnerships",
