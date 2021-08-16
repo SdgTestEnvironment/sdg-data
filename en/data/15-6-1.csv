@@ -1,8 +1,7 @@
 Year,Units,Series,Value
-Year,Units,Value,Time series
-2015,Percentage,1,A
-2015,Percentage,3,B
-2015,Number,2,C
-2016,Percentage,1,A
-2016,Percentage,3,B
-2016,Number,2,C
+2015,Percentage,A,1
+2015,Percentage,B,3
+2015,Number,C,2
+2016,Percentage,A,1
+2016,Percentage,B,3
+2016,Number,C,2

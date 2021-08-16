@@ -3175,7 +3175,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -3183,7 +3183,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Percentage",
                 "Number",
                 ""
@@ -3196,10 +3195,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Value",
-                "1",
-                "3",
-                "2",
+                "A",
+                "B",
+                "C",
                 ""
               ]
             },
@@ -3207,7 +3205,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]

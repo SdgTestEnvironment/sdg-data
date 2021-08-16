@@ -12,14 +12,13 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "%",
                 "number",
                 ""
@@ -31,17 +30,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Value",
-                "1",
-                "3",
-                "2",
+                "A",
+                "B",
+                "C",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }

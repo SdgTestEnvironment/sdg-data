@@ -1,8 +1,7 @@
 Year,Units,Series,Value
-Jahr,Units,Value,Zeitreihe
-2015,Prozent,1,A
-2015,Prozent,3,B
-2015,Anzahl,2,C
-2016,Prozent,1,A
-2016,Prozent,3,B
-2016,Anzahl,2,C
+2015,Prozent,A,1
+2015,Prozent,B,3
+2015,Anzahl,C,2
+2016,Prozent,A,1
+2016,Prozent,B,3
+2016,Anzahl,C,2

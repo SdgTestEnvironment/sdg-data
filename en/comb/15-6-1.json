@@ -1,1 +1,1 @@
-{"data":{"Year":["Year","2015","2015","2015","2016","2016","2016"],"Units":["Units","Percentage","Percentage","Number","Percentage","Percentage","Number"],"Series":["Value","1","3","2","1","3","2"],"Value":["Time series","A","B","C","A","B","C"]},"edges":[]}
+{"data":{"Year":[2015,2015,2015,2016,2016,2016],"Units":["Percentage","Percentage","Number","Percentage","Percentage","Number"],"Series":["A","B","C","A","B","C"],"Value":[1,3,2,1,3,2]},"edges":[]}
