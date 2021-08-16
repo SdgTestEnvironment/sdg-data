@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "C",
+                "Vertragsparteien des Internationalen Saatgutvertrags",
+                "Vertragsparteien des Nagoya-Protokoll",
+                "Anzahl standardisierter Material&shy;übertragungs&shy;vereinbarungen",
                 ""
               ]
             },
@@ -51,5 +51,5 @@
   ],
   "profile": "data-package",
   "name": "15-6-1",
-  "title": "Anzahl der Staaten, die rechtliche, administrative und politische Rahmenbedingungen verabschiedet haben, um Vorteile gerecht und gleichmäßig zu verteilen"
+  "title": "Anzahl der Staaten, die rechtliche, administrative und politische Rahmenbedingungen verabschiedet haben, um Vorteile gerecht und gleichmäßig zu verteilen?"
 }

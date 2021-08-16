@@ -30,9 +30,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "C",
+                "contractingparties to the international treaty on plant genetic resources for food and agriculture",
+                "parties to the nagoya protocol",
+                "number of standard material transfer agreements (smtas)",
                 ""
               ]
             }
@@ -47,5 +47,5 @@
   ],
   "profile": "data-package",
   "name": "15-6-1",
-  "title": "Anzahl der Staaten, die rechtliche, administrative und politische Rahmenbedingungen verabschiedet haben, um Vorteile gerecht und gleichmäßig zu verteilen"
+  "title": "Anzahl der Staaten, die rechtliche, administrative und politische Rahmenbedingungen verabschiedet haben, um Vorteile gerecht und gleichmäßig zu verteilen?"
 }
