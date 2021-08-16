@@ -3183,7 +3183,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "No Unit",
                 "Number",
                 ""
               ]
@@ -3197,7 +3197,9 @@
               "enum": [
                 "Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture",
                 "Parties to the Nagoya Protocol",
-                "C",
+                "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture",
+                "Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House",
+                "Number of Standard Material Transfer Agreements (SMTAs)",
                 ""
               ]
             },
@@ -3205,12 +3207,12 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Anzahl der Staaten, die rechtliche, administrative und politische Rahmenbedingungen verabschiedet haben, um Vorteile gerecht und gleichmäßig zu verteilen?"
+      "title": "Anzahl der Staaten, die rechtliche, administrative und politische Rahmenbedingungen verabschiedet haben, um Vorteile gerecht und gleichmäßig zu verteilen"
     },
     {
       "path": "12-8-1/data.csv",
