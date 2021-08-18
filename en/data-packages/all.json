@@ -1654,7 +1654,7 @@
             "constraints": {
               "enum": [
                 "Population not living in an area with crime, violence or vandalism",
-                "Feelings of insecurity in the neighbourhood",
+                "Feelings of insecurity in the neighbourhood (at night)",
                 ""
               ]
             },
@@ -6929,7 +6929,7 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

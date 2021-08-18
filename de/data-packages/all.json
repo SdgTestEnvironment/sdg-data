@@ -1654,7 +1654,7 @@
             "constraints": {
               "enum": [
                 "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
-                "Unsicherheitsgefühl in der Wohnumgebung",
+                "Unsicherheitsgefühl in der Wohnumgebung (nachts)",
                 ""
               ]
             },
@@ -6929,7 +6929,7 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
