@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mutterschaftsvorsorge",
-                "Empfängnisverhütung und Familienplanung",
-                "HIV und HPV",
+                "Abschnitt 1: Mutterschaftsvorsorge",
+                "Abschnitt 2:  Empfängnisverhütung und Familienplanung",
+                "Abschnitt 4: HIV und HPV",
                 ""
               ]
             },

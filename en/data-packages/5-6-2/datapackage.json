@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Maternity Care",
-                "Contraceptive and Family Planning",
-                "HIV and HPV",
+                "Section 1: Maternity care",
+                "Section 2: Contraceptive and family planning",
+                "Section 4: HIV and HPV",
                 ""
               ]
             },
