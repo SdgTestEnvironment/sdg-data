@@ -2926,6 +2926,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "no unit",
                 "number",
                 ""
               ]
@@ -5539,6 +5540,17 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number",
+                "%",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

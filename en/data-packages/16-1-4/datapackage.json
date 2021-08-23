@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Feelings of insecurity in the neighbourhood (at night)",
+                "Feeling of (in)security of the population in its neighbourhood (at night)",
                 "Population not living in an area with crime, violence or vandalism",
                 ""
               ]

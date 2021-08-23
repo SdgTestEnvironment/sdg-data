@@ -1653,7 +1653,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unsicherheitsgefühl in der Wohnumgebung (nachts)",
+                "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)",
                 "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
                 ""
               ]
@@ -3183,6 +3183,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Keine Einheit",
                 "Anzahl",
                 ""
               ]
@@ -6029,6 +6030,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
