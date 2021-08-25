@@ -3183,6 +3183,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "No Unit",
                 "Number",
                 ""
               ]

@@ -3183,6 +3183,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Anzahl",
                 ""
               ]
@@ -5376,7 +5377,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Keine Einheit",
+                "",
                 "2015 = 100",
                 "Prozent",
                 ""

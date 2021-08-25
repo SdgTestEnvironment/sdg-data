@@ -2926,6 +2926,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "no unit",
                 "number",
                 ""
               ]
