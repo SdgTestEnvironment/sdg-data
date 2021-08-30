@@ -1649,18 +1649,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)",
-                "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "feelings of insecurity",
             "type": "string",
             "constraints": {
@@ -1673,6 +1661,18 @@
               ]
             },
             "title": "Unsicherheitsgefühl"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)",
+                "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -3199,7 +3199,7 @@
                 "Vertragsparteien des Nagoya-Protokoll",
                 "Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden",
                 "Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden",
-                "Anzahl standardisierter Materialübertragungs-vereinbarungen",
+                "Anzahl standardisierter Materialübertragungsvereinbarungen",
                 ""
               ]
             },
@@ -5524,8 +5524,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Opfer von körperlicher Belästigung",
-                "Opfer von sexueller Belästigung",
+                "Opfer körperlicher Belästigung",
+                "Opfer sexueller Belästigung",
                 ""
               ]
             },
@@ -6639,7 +6639,7 @@
             "constraints": {
               "enum": [
                 "Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",
-                "Fläche der Land- und Süßwasserökosysteme , die unter Schutz steht",
+                "Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",
                 ""
               ]
             },
@@ -8941,7 +8941,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
