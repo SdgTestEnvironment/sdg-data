@@ -467,7 +467,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -3608,8 +3608,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Overweight among children",
-                "Wasting among children",
+                "Overweight",
+                "Wasting",
                 ""
               ]
             },
