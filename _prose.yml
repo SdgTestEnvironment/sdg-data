@@ -122,6 +122,12 @@ prose:
             label: "Indicator available"
             translation_key: metadata_fields.national_indicator_available
             scope: national
+      - name: "national_indicators_available"
+        field:
+            element: text
+            label: "Indicator available"
+            translation_key: metadata_fields.national_indicators_available
+            scope: national
       - name: "national_indicator_description"
         field:
             element: text
