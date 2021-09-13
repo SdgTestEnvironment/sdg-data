@@ -2498,6 +2498,37 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "disability",
             "type": "string",
             "constraints": {
@@ -6047,20 +6078,20 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Armutsgefährdungsquote",
+                "Staatsausgaben für soziale Sicherung",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6602,24 +6633,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Escherichia coli mit Resistenz gegenüber 3. Generations-Cephalosporinen (z. B. ESBL- E. coli)",
-                "Methicillin-resistente Staphylococcus aureus (MRSA)",
+                "Escherichia coli, 3GCR",
+                "Staphylococcus aureus, MR",
                 ""
               ]
             },
-            "title": "Antimikrobiell-resistente Organismen"
+            "title": "Erreger und Resistenz"
           },
           {
             "name": "source",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weltgesundheitsorganisation (WHO)",
-                "Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)",
+                "GLASS (WHO)",
+                "EARS-Net (ECDC)",
                 ""
               ]
             },
-            "title": "Datenquelle"
+            "title": "Surveillance"
           },
           {
             "name": "Value",
@@ -8559,12 +8590,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Weibliche Erwerbstätige insgesamt",
-                "Weibliche Beschäftigte des öffentlichen Dienstes",
+                "Stellenverteilung von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung",
+                "Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "field of work",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",
+                "Polizei",
+                "Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",
+                "Gesundheit, Umwelt, Sport und Erholung",
+                ""
+              ]
+            },
+            "title": "Aufgabenbereiche"
+          },
+          {
+            "name": "level of court",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oberste/Verfassungsgerichte",
+                "Übergeordnete Gerichte",
+                "Untergeordnete Gerichte",
+                ""
+              ]
+            },
+            "title": "Gerichtsebene"
           },
           {
             "name": "Value",

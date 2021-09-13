@@ -2294,6 +2294,35 @@
             }
           },
           {
+            "name": "region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "disability",
             "type": "string",
             "constraints": {
@@ -5553,19 +5582,19 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "at-risk-of-poverty rate (according to eurostat definition) (%)",
+                "c) government expenditure on social protection (cofog division 10) (%)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -7860,8 +7889,33 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total female persons in employment (%)",
-                "female employees in public sector (%)",
+                "proportions of positions of women in the public service compared to the national distribution, by field of work",
+                "ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "field of work",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "political leadership and central administration, foreign affairs",
+                "police",
+                "education, science, research, cultural affairs",
+                "health, environment, sports and recreation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "level of court",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "supreme/constitutional courts",
+                "higher-level courts",
+                "lower-level courts",
                 ""
               ]
             }
