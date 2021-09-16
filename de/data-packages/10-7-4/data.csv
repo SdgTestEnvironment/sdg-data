@@ -1,11 +1,78 @@
-Year,Value
-2010,0.5
-2011,0.5
-2012,0.5
-2013,0.5
-2014,0.6
-2015,0.7
-2016,1.1
-2017,1.4
-2018,1.5
-2019,1.6
+Year,Herkunftsland,Value
+2010,,0.47
+2011,,0.47
+2012,,0.5
+2013,,0.51
+2014,,0.57
+2015,,0.67
+2016,,1.05
+2017,,1.39
+2018,,1.55
+2019,,1.64
+2020,,1.68
+2010,Syrien,0.01
+2011,Syrien,0.01
+2012,Syrien,0.02
+2013,Syrien,0.03
+2014,Syrien,0.07
+2015,Syrien,0.14
+2016,Syrien,0.43
+2017,Syrien,0.57
+2018,Syrien,0.63
+2019,Syrien,0.68
+2020,Syrien,0.7
+2010,Afghanistan,0.03
+2011,Afghanistan,0.03
+2012,Afghanistan,0.03
+2013,Afghanistan,0.04
+2014,Afghanistan,0.04
+2015,Afghanistan,0.04
+2016,Afghanistan,0.06
+2017,Afghanistan,0.13
+2018,Afghanistan,0.16
+2019,Afghanistan,0.17
+2020,Afghanistan,0.18
+2010,Irak,0.05
+2011,Irak,0.05
+2012,Irak,0.05
+2013,Irak,0.05
+2014,Irak,0.06
+2015,Irak,0.07
+2016,Irak,0.1
+2017,Irak,0.15
+2018,Irak,0.17
+2019,Irak,0.17
+2020,Irak,0.17
+2010,Iran,0.02
+2011,Iran,0.02
+2012,Iran,0.02
+2013,Iran,0.02
+2014,Iran,0.03
+2015,Iran,0.03
+2016,Iran,0.03
+2017,Iran,0.05
+2018,Iran,0.05
+2019,Iran,0.05
+2020,Iran,0.05
+2010,Türkei,0.05
+2011,Türkei,0.05
+2012,Türkei,0.05
+2013,Türkei,0.05
+2014,Türkei,0.05
+2015,Türkei,0.05
+2016,Türkei,0.05
+2017,Türkei,0.05
+2018,Türkei,0.05
+2019,Türkei,0.05
+2020,Türkei,0.06
+2010,Russische Föderation,0.04
+2011,Russische Föderation,0.05
+2012,Russische Föderation,0.05
+2013,Russische Föderation,0.04
+2014,Russische Föderation,0.05
+2015,Russische Föderation,0.04
+2016,Russische Föderation,0.04
+2017,Russische Föderation,0.05
+2018,Russische Föderation,0.05
+2019,Russische Föderation,0.05
+2020,Russische Föderation,0.05

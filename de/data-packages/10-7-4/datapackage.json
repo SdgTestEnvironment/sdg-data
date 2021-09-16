@@ -16,6 +16,22 @@
             "title": "Jahr"
           },
           {
+            "name": "country of origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Syrien",
+                "Afghanistan",
+                "Irak",
+                "Iran",
+                "Türkei",
+                "Russische Föderation",
+                ""
+              ]
+            },
+            "title": "Herkunftsland"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

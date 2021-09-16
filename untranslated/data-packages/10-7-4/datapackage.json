@@ -15,6 +15,21 @@
             "type": "integer"
           },
           {
+            "name": "country of origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "syria",
+                "afghanistan",
+                "iraq",
+                "iran",
+                "turkey",
+                "russian federation",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
