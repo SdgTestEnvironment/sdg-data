@@ -3179,18 +3179,6 @@
             "title": "Erreger und Resistenz"
           },
           {
-            "name": "source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GLASS (WHO)",
-                "EARS-Net (ECDC)",
-                ""
-              ]
-            },
-            "title": "Surveillance"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7555,8 +7543,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wachstumsrate des Einkommens der gesamten Bevölkerung",
-                "Wachstumsrate des Einkommens der ärmsten 40 Prozent der Bevölkerung",
+                "Wachstumsrate des Nettoäquivalenzeinkommens der gesamten Bevölkerung",
+                "Wachstumsrate des Nettoäquivalenzeinkommens der ärmsten 40 Prozent der Bevölkerung",
                 ""
               ]
             },

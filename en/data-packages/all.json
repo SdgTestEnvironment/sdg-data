@@ -3179,18 +3179,6 @@
             "title": "Antimicrobial-resistant organism"
           },
           {
-            "name": "source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "World Health Organization (WHO)",
-                "European Centre for Disease Prevention and Control (ECDC)",
-                ""
-              ]
-            },
-            "title": "Data source"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7555,8 +7543,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Growth rate of income of the total population",
-                "Growth rate of income of the bottom 40 per cent of the population",
+                "Growth rate of net equivalent income of the total population",
+                "rowth rate of net equivalent income of the bottom 40 per cent of the population",
                 ""
               ]
             },

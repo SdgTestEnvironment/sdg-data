@@ -1,41 +1,21 @@
-Year,Erreger und Resistenz,Surveillance,Value
-2010,"Escherichia coli, 3GCR",GLASS (WHO),
-2011,"Escherichia coli, 3GCR",GLASS (WHO),
-2012,"Escherichia coli, 3GCR",GLASS (WHO),
-2013,"Escherichia coli, 3GCR",GLASS (WHO),
-2014,"Escherichia coli, 3GCR",GLASS (WHO),
-2015,"Escherichia coli, 3GCR",GLASS (WHO),
-2016,"Escherichia coli, 3GCR",GLASS (WHO),
-2017,"Escherichia coli, 3GCR",GLASS (WHO),
-2018,"Escherichia coli, 3GCR",GLASS (WHO),12.18
-2019,"Escherichia coli, 3GCR",GLASS (WHO),
-2010,"Staphylococcus aureus, MR",GLASS (WHO),
-2011,"Staphylococcus aureus, MR",GLASS (WHO),
-2012,"Staphylococcus aureus, MR",GLASS (WHO),
-2013,"Staphylococcus aureus, MR",GLASS (WHO),
-2014,"Staphylococcus aureus, MR",GLASS (WHO),
-2015,"Staphylococcus aureus, MR",GLASS (WHO),
-2016,"Staphylococcus aureus, MR",GLASS (WHO),
-2017,"Staphylococcus aureus, MR",GLASS (WHO),
-2018,"Staphylococcus aureus, MR",GLASS (WHO),7.56
-2019,"Staphylococcus aureus, MR",GLASS (WHO),
-2010,"Escherichia coli, 3GCR",EARS-Net (ECDC),8.35820895
-2011,"Escherichia coli, 3GCR",EARS-Net (ECDC),7.96265788
-2012,"Escherichia coli, 3GCR",EARS-Net (ECDC),8.83898709
-2013,"Escherichia coli, 3GCR",EARS-Net (ECDC),10.74039362
-2014,"Escherichia coli, 3GCR",EARS-Net (ECDC),10.53474223
-2015,"Escherichia coli, 3GCR",EARS-Net (ECDC),10.29786291
-2016,"Escherichia coli, 3GCR",EARS-Net (ECDC),11.09947643
-2017,"Escherichia coli, 3GCR",EARS-Net (ECDC),12.28139037
-2018,"Escherichia coli, 3GCR",EARS-Net (ECDC),12.19700759
-2019,"Escherichia coli, 3GCR",EARS-Net (ECDC),11.50642805
-2010,"Staphylococcus aureus, MR",EARS-Net (ECDC),20.9090909
-2011,"Staphylococcus aureus, MR",EARS-Net (ECDC),16.08040201
-2012,"Staphylococcus aureus, MR",EARS-Net (ECDC),15.37261022
-2013,"Staphylococcus aureus, MR",EARS-Net (ECDC),12.81969309
-2014,"Staphylococcus aureus, MR",EARS-Net (ECDC),12.90527654
-2015,"Staphylococcus aureus, MR",EARS-Net (ECDC),11.25498007
-2016,"Staphylococcus aureus, MR",EARS-Net (ECDC),10.17636326
-2017,"Staphylococcus aureus, MR",EARS-Net (ECDC),9.07982937
-2018,"Staphylococcus aureus, MR",EARS-Net (ECDC),7.66907199
-2019,"Staphylococcus aureus, MR",EARS-Net (ECDC),6.71129707
+Year,Erreger und Resistenz,Value
+2010,"Escherichia coli, 3GCR",8.35820895
+2011,"Escherichia coli, 3GCR",7.96265788
+2012,"Escherichia coli, 3GCR",8.83898709
+2013,"Escherichia coli, 3GCR",10.74039362
+2014,"Escherichia coli, 3GCR",10.53474223
+2015,"Escherichia coli, 3GCR",10.29786291
+2016,"Escherichia coli, 3GCR",11.09947643
+2017,"Escherichia coli, 3GCR",12.28139037
+2018,"Escherichia coli, 3GCR",12.19700759
+2019,"Escherichia coli, 3GCR",11.50642805
+2010,"Staphylococcus aureus, MR",20.9090909
+2011,"Staphylococcus aureus, MR",16.08040201
+2012,"Staphylococcus aureus, MR",15.37261022
+2013,"Staphylococcus aureus, MR",12.81969309
+2014,"Staphylococcus aureus, MR",12.90527654
+2015,"Staphylococcus aureus, MR",11.25498007
+2016,"Staphylococcus aureus, MR",10.17636326
+2017,"Staphylococcus aureus, MR",9.07982937
+2018,"Staphylococcus aureus, MR",7.66907199
+2019,"Staphylococcus aureus, MR",6.71129707

@@ -28,18 +28,6 @@
             "title": "Erreger und Resistenz"
           },
           {
-            "name": "source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GLASS (WHO)",
-                "EARS-Net (ECDC)",
-                ""
-              ]
-            },
-            "title": "Surveillance"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
