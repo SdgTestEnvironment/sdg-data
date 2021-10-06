@@ -1720,8 +1720,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
                 "Männlich",
+                "Weiblich",
                 ""
               ]
             },
@@ -7137,7 +7137,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -7150,8 +7150,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
                 "Männlich",
+                "Weiblich",
                 ""
               ]
             },
