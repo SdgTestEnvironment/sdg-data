@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär",
-                "Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke",
+                "Bruttoentwicklungs-ausgaben (ODA) für Wasser und Sanitär",
+                "Bruttoentwicklungs-ausgaben (ODA) für verwandte Zwecke",
                 ""
               ]
             },

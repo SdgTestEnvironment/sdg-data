@@ -780,7 +780,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut",
+                "Bruttoentwicklungs-ausgaben (ODA) zur Minderung der Armut",
                 "Zusagen (ODA) zur Minderung der Armut",
                 ""
               ]
@@ -890,8 +890,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär",
-                "Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke",
+                "Bruttoentwicklungs-ausgaben (ODA) für Wasser und Sanitär",
+                "Bruttoentwicklungs-ausgaben (ODA) für verwandte Zwecke",
                 ""
               ]
             },
@@ -926,7 +926,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE",
+                "Verhältnis der öffentlichen Nettoentwicklungs-ausgaben (ODA) zum BNE",
                 "Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungslausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)",
                 ""
               ]
@@ -4019,7 +4019,7 @@
             "constraints": {
               "enum": [
                 "Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur",
-                "Bruttoentwicklungsausgaben (ODA) für Infrastruktur",
+                "Bruttoentwicklungs-ausgaben (ODA) für Infrastruktur",
                 ""
               ]
             },
@@ -5547,8 +5547,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) für Stipendien",
-                "Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten",
+                "Bruttoentwicklungs-ausgaben (ODA) für Stipendien",
+                "Bruttoentwicklungs-ausgaben (ODA) für kalkulatorische Studienplatzkosten",
                 ""
               ]
             },
