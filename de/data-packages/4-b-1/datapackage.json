@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungs-ausgaben (ODA) für Stipendien",
-                "Bruttoentwicklungs-ausgaben (ODA) für kalkulatorische Studienplatzkosten",
+                "Bruttoentwicklungsausgaben (ODA) für Stipendien",
+                "Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten",
                 ""
               ]
             },

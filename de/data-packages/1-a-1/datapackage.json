@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungs-ausgaben (ODA) zur Minderung der Armut",
+                "Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut",
                 "Zusagen (ODA) zur Minderung der Armut",
                 ""
               ]
