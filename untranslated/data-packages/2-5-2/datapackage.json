@@ -11,35 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "%",
-                "number"
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
           {
-            "name": "level of risk of extinction",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "a) not at risk",
-                "b) at risk",
-                "b) under observation",
-                "c) breeding programs for preservation",
-                "d) rudiments remaining"
+                "%",
+                "number",
+                ""
               ]
             }
           },
@@ -48,12 +30,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "level of risk of extinction (according to fao classification)",
+                "local livestock breeds (horses, cows, pigs, sheep and goats)",
                 "level of risk of extinction (according to national classification)",
-                "local livestock breeds (horses, cows, pigs, sheep and goats)"
+                ""
               ]
             }
+          },
+          {
+            "name": "level of risk of extinction",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "b) at risk",
+                "a) not at risk",
+                "b) under observation",
+                "c) breeding programs for preservation",
+                "d) rudiments remaining",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

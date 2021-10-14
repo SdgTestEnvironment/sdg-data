@@ -11,21 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "proportions of positions of women in the public service compared to the national distribution, by field of work",
-                "ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -34,11 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "political leadership and central administration, foreign affairs",
+                "police",
                 "education, science, research, cultural affairs",
                 "health, environment, sports and recreation",
-                "police",
-                "political leadership and central administration, foreign affairs"
+                ""
               ]
             }
           },
@@ -47,12 +32,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "supreme/constitutional courts",
                 "higher-level courts",
                 "lower-level courts",
-                "supreme/constitutional courts"
+                ""
               ]
             }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "proportions of positions of women in the public service compared to the national distribution, by field of work",
+                "ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

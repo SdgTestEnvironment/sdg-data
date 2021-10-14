@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,12 +19,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "a) government expenditure on health (cofog division 7) (%)",
                 "b) government expenditure on education (cofog division 9) (%)",
-                "c) government expenditure on social protection (cofog division 10) (%)"
+                "a) government expenditure on health (cofog division 7) (%)",
+                "c) government expenditure on social protection (cofog division 10) (%)",
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

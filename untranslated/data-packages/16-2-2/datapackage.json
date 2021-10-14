@@ -11,47 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "number",
-                "per 100 000 inhabitants"
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
           {
-            "name": "age",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "14 to under 18 years",
-                "18 to under 21 years",
-                "21 to under 25 years",
-                "25 years and over",
-                "under 14 years",
-                "unknown age"
-              ]
-            }
-          },
-          {
-            "name": "form of exploitation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "exploitation of labour",
-                "sexual exploitation"
+                "per 100 000 inhabitants",
+                "number",
+                ""
               ]
             }
           },
@@ -60,12 +30,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "female",
                 "male",
-                "unknown"
+                "unknown",
+                ""
               ]
             }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 14 years",
+                "14 to under 18 years",
+                "18 to under 21 years",
+                "21 to under 25 years",
+                "25 years and over",
+                "unknown age",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "form of exploitation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "exploitation of labour",
+                "sexual exploitation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

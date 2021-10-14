@@ -11,38 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "EUR per hour",
                 "Percentage",
-                "EUR per hour"
+                ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average hourly earnings of employees",
+                "Gender Pay Gap",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Baden-Württemberg",
                 "Bavaria",
                 "Berlin",
@@ -50,42 +63,29 @@
                 "Bremen",
                 "Hamburg",
                 "Hesse",
-                "Lower Saxony",
                 "Mecklenburg Western Pomerania",
+                "Lower Saxony",
                 "North Rhine-Westphalia",
                 "Rhineland Palatinate",
                 "Saarland",
                 "Saxony",
                 "Saxony-Anhalt",
                 "Schleswig-Holstein",
-                "Thuringia"
+                "Thuringia",
+                ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "sex",
+            "name": "GeoCode",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
+            "title": "GeoCode"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Average hourly earnings of employees",
-                "Gender Pay Gap"
-              ]
-            },
-            "title": "Time series"
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

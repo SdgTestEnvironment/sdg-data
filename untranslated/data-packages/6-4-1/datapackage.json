@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,12 +19,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "a) agriculture, forestry and fishing (nace rev 2, section a)",
                 "b) mimec (nace rev 2, sections b, c, d, f)",
-                "c) services (nace rev 2, sections e, g to t)"
+                "c) services (nace rev 2, sections e, g to t)",
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

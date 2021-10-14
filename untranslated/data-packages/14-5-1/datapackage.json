@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "integer"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,11 +19,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "marine key biodiversity areas (kbas) covered by protected areas (%)",
-                "protected marine area (%)"
+                "protected marine area (%)",
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
           }
         ]
       }

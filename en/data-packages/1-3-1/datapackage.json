@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -25,12 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Population covered by health insurance",
-                "Unemployed persons with unemployment benefits"
+                "Unemployed persons with unemployment benefits",
+                ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

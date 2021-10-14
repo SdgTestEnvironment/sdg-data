@@ -11,35 +11,35 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "raw material consumption (rmc)",
-                "raw material consumption per real gdp"
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "2015 = 100",
                 "mn t",
-                "t per capita"
+                "t per capita",
+                "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "raw material consumption (rmc)",
+                "raw material consumption per real gdp",
+                ""
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
-          },
-          {
-            "name": "Year",
-            "type": "integer"
           }
         ]
       }

@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -25,13 +20,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "SDG indicator 4.2.2",
+                "SDG-Indicator 4.3.1 (Youths)",
                 "SDG-Indicator 4.3.1 (Adults)",
-                "SDG-Indicator 4.3.1 (Youths)"
+                ""
               ]
             },
             "title": "Indicator"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

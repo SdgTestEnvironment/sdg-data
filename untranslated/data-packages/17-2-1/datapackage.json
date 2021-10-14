@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,11 +19,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "proportion of oda (net disbursements) to gni",
                 "proportion of bilateral and imputed multilateral oda (net disbursements) for lcds to the gross national income (gni)",
-                "proportion of oda (net disbursements) to gni"
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

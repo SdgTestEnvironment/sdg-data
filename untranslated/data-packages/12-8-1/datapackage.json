@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "string"
           },
@@ -23,13 +19,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "(a) national education policies",
                 "(b) curricula",
                 "(c) teacher education",
-                "(d) student assessment"
+                "(d) student assessment",
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

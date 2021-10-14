@@ -11,23 +11,25 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "organically farmed agricultural land (data from destatis)",
+                "organically farmed agricultural land (data from bmel)",
+                ""
+              ]
+            }
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "baden-wuerttemberg",
                 "bavaria",
                 "berlin",
@@ -35,28 +37,26 @@
                 "bremen",
                 "hamburg",
                 "hesse",
-                "lower saxony",
                 "mecklenburg western pomerania",
+                "lower saxony",
                 "north rhine-westphalia",
                 "rhineland palatinate",
                 "saarland",
                 "saxony",
                 "saxony-anhalt",
                 "schleswig-holstein",
-                "thuringia"
+                "thuringia",
+                ""
               ]
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "organically farmed agricultural land (data from bmel)",
-                "organically farmed agricultural land (data from destatis)"
-              ]
-            }
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

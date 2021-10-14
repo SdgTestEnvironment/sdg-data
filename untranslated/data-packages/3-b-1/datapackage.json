@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,13 +19,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "dtp vaccination rate at school entrance",
-                "hpv vaccination rate among 15 years old girls",
                 "measles vaccination rate at sschool entrance",
-                "pneumococcal vaccination rate at school entrance"
+                "pneumococcal vaccination rate at school entrance",
+                "hpv vaccination rate among 15 years old girls",
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "number"
           }
         ]
       }

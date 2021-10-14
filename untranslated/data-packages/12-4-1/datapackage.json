@@ -11,10 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "integer"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
@@ -23,14 +19,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "compliance with the basel convention (%)",
-                "compliance with the minamata convention (%)",
                 "compliance with the montreal protocol (%)",
                 "compliance with the rotterdam convention (%)",
-                "compliance with the stockholm convention (%)"
+                "compliance with the stockholm convention (%)",
+                "compliance with the minamata convention (%)",
+                ""
               ]
             }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
           }
         ]
       }
