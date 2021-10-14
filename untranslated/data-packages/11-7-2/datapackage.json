@@ -11,31 +11,24 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "Value",
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "physical harassment",
-                "sexual harassment",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 14 years",
+                "",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 60 years",
                 "60 years and over",
-                ""
+                "under 14 years"
               ]
             }
           },
@@ -44,15 +37,22 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "female",
-                "male",
-                ""
+                "male"
               ]
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "physical harassment",
+                "sexual harassment"
+              ]
+            }
           }
         ]
       }

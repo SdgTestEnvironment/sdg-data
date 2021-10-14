@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "string",
             "title": "Jahr"
@@ -20,21 +25,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Bereich 1. Rechte von Migranten",
                 "Bereich 2. Gesamtheitliche/ Evidenzbasierte Politik",
                 "Bereich 3. Zusammenarbeit und Partnerschaften",
                 "Bereich 4. Sozioökonomisches Wohlbefinden",
                 "Bereich 5. Mobilitätsdimensionen von Krisen",
-                "Bereich 6. Sichere, geordnete und reguläre Migration",
-                ""
+                "Bereich 6. Sichere, geordnete und reguläre Migration"
               ]
             },
             "title": "Politikbereiche"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

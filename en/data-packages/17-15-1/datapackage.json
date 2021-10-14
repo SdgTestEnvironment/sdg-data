@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,18 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Proportion of indicator results drawn from country-led results frameworks by providers of development cooperation",
                 "Proportion of results drawn from country-led result frameworks by providers of development cooperation",
-                "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation",
-                ""
+                "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation"
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

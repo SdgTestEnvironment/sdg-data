@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "DTP vaccination coverage at school entry",
-                "Measles vaccination coverage at school entry",
-                "Pneumococcal vaccination coverage at school entry",
                 "HPV vaccination coverage among 15 year-old girls",
-                ""
+                "Measles vaccination coverage at school entry",
+                "Pneumococcal vaccination coverage at school entry"
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

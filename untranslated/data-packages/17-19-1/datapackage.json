@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,15 +23,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "oda and oof (commitments) to strengthen statistical capacity",
-                "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity",
-                ""
+                "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

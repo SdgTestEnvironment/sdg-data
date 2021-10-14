@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,10 +25,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Sub-indicator 1: Spatial extent of water-related ecosystems",
                 "Sub-indicator 3:  Quantity discharge of water in rivers",
-                "Sub-indicator 4: Water bodies with good quality",
-                ""
+                "Sub-indicator 4: Water bodies with good quality"
               ]
             },
             "title": "Time series"
@@ -33,17 +38,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "River water bodies",
+                "",
                 "Open water bodies",
-                ""
+                "River water bodies"
               ]
             },
             "title": "Type of water body"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

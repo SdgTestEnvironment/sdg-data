@@ -11,34 +11,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "fish stocks within biologically sustainable levels (%)",
-                "proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "sea",
             "type": "string",
             "constraints": {
               "enum": [
-                "greater north sea",
+                "",
                 "baltic sea",
-                ""
+                "greater north sea"
               ]
             }
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "fish stocks within biologically sustainable levels (%)",
+                "proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks"
+              ]
+            }
           }
         ]
       }

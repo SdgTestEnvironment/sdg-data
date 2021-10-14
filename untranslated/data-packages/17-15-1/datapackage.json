@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,16 +23,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)",
                 "proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)",
-                "proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)",
-                ""
+                "proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
           }
         ]
       }

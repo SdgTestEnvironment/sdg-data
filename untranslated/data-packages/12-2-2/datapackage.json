@@ -11,35 +11,35 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "domestic material consumption (dmc)",
+                "domestic material consumption per real gdp"
+              ]
+            }
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "mn t",
-                "t per capita",
+                "",
                 "2015 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "domestic material consumption (dmc)",
-                "domestic material consumption per real gdp",
-                ""
+                "mn t",
+                "t per capita"
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
           }
         ]
       }

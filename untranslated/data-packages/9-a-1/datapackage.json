@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,15 +23,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (gross disbursements) to infrastructure",
+                "",
                 "oda (gross disbursements) to infrastructure",
-                ""
+                "oda and oof (gross disbursements) to infrastructure"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

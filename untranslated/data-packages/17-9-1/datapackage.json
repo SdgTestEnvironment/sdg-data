@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,15 +23,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "oda and oof (commitments) for capacity building and national planning (without south-south cooperation)",
-                "oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperation)",
-                ""
+                "oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperation)"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

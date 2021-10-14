@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,20 +25,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "a) Über 144 kbit/s bis unter 2 Mbit/s",
                 "b) 2 Mbit/s bis unter 10 Mbit/s",
                 "c) 10 Mbit/s bis unter 30 Mbit/s",
                 "d) 30 Mbit/s bis unter 100 Mbit/s",
-                "e) 100 Mbit/s und mehr",
-                ""
+                "e) 100 Mbit/s und mehr"
               ]
             },
             "title": "Geschwindigkeit"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

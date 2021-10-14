@@ -11,46 +11,46 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "population who had the impression that public officials are corruptible",
+                "private persons (donors) suspected in the context of corruption offences"
+              ]
+            }
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "%",
-                "number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                "divers",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "population who had the impression that public officials are corruptible",
-                "private persons (donors) suspected in the context of corruption offences",
-                ""
+                "number"
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "divers",
+                "female",
+                "male"
+              ]
+            }
           }
         ]
       }

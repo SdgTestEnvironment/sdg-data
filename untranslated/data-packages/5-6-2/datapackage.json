@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,17 +23,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "maternity care",
-                "contraceptive and family planning",
+                "",
                 "comprehensive sexuality education and information",
+                "contraceptive and family planning",
                 "hiv and hpv",
-                ""
+                "maternity care"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
           }
         ]
       }

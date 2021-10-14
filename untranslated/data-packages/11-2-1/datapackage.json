@@ -11,17 +11,38 @@
       "schema": {
         "fields": [
           {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "population that has convenient access to public transport (within 500 meters) (%)",
-                "population that has convenient access to public transport (within 10 minutes walking distance) (%)",
-                ""
+                "",
+                "18 to under 30 years",
+                "30 to under 45 years",
+                "45 to under 65 years",
+                "65 years and over",
+                "under 18 years"
+              ]
+            }
+          },
+          {
+            "name": "disability",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "mobility impaired people"
               ]
             }
           },
@@ -30,6 +51,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "baden-wuerttemberg",
                 "bavaria",
                 "berlin",
@@ -37,30 +59,15 @@
                 "bremen",
                 "hamburg",
                 "hesse",
-                "mecklenburg western pomerania",
                 "lower saxony",
+                "mecklenburg western pomerania",
                 "north rhine-westphalia",
                 "rhineland palatinate",
                 "saarland",
                 "saxony",
                 "saxony-anhalt",
                 "schleswig-holstein",
-                "thuringia",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "disability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mobility impaired people",
-                ""
+                "thuringia"
               ]
             }
           },
@@ -69,29 +76,22 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "female",
-                "male",
-                ""
+                "male"
               ]
             }
           },
           {
-            "name": "age",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
-                "18 to under 30 years",
-                "30 to under 45 years",
-                "45 to under 65 years",
-                "65 years and over",
-                ""
+                "",
+                "population that has convenient access to public transport (within 10 minutes walking distance) (%)",
+                "population that has convenient access to public transport (within 500 meters) (%)"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "DTP-Impfquote zum Schuleintritt",
-                "Masern-Impfquote zum Schuleintritt",
-                "Pneumokokken-Impfquote zum Schuleintritt",
                 "HPV-Impfquote bei 15-jährigen Mädchen",
-                ""
+                "Masern-Impfquote zum Schuleintritt",
+                "Pneumokokken-Impfquote zum Schuleintritt"
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

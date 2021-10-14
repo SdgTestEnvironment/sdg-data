@@ -11,43 +11,43 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung",
-                "Bevölkerung mit einer sicher verwalteten Abwasserentsorgung",
-                "Bevölkerung mit Zugang zu Elektrizität",
-                "Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt",
-                "Haushalte, die mit 3G oder LTE abgedeckt sind",
-                "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)",
-                "Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "technology",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "3G",
-                "LTE",
-                ""
+                "LTE"
               ]
             },
             "title": "Technologie"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bevölkerung mit einer sicher verwalteten Abwasserentsorgung",
+                "Haushalte, die mit 3G oder LTE abgedeckt sind",
+                "Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden",
+                "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)",
+                "Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung",
+                "Bevölkerung mit Zugang zu Elektrizität",
+                "Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt"
+              ]
+            },
+            "title": "Zeitreihe"
           }
         ]
       }

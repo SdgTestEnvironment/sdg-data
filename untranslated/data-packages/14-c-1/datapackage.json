@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,15 +23,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "score for the implementation of unclos and ist two implementing agreements",
-                "score for the ratification of and accession to unclos and ist two implementing agreements",
-                ""
+                "score for the ratification of and accession to unclos and ist two implementing agreements"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

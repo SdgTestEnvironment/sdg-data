@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Section 1: Maternity care",
-                "Section 2: Contraception and family planning",
+                "",
                 "Section 3: Comprehensive sexuality education and information",
+                "Section 2: Contraception and family planning",
                 "Section 4: HIV and HPV",
-                ""
+                "Section 1: Maternity care"
               ]
             },
             "title": "Thematic area"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

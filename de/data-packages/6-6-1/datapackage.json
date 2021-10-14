@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,10 +25,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Subindikator 1: Fläche der wasserbezogenen Ökosysteme",
                 "Subindikator 3: Wasserabfluss über Flüsse",
-                "Subindikator 4: Gewässer mit guter Wasserqualität",
-                ""
+                "Subindikator 4: Gewässer mit guter Wasserqualität"
               ]
             },
             "title": "Zeitreihe"
@@ -33,17 +38,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fließgewässer",
+                "",
                 "Seen und Talsperren",
-                ""
+                "Fließgewässer"
               ]
             },
             "title": "Art des Gewässers"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

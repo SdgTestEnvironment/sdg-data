@@ -11,34 +11,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           },
           {
-            "name": "skill",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) literacy skills",
-                "b) numeracy skills",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "level of proficiency",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "minimum requirement level i",
-                "minimum requirement level ii",
-                ""
+                "minimum requirement level ii"
               ]
             }
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "a) literacy skills",
+                "b) numeracy skills"
+              ]
+            }
           }
         ]
       }

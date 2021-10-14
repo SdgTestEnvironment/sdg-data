@@ -11,6 +11,23 @@
       "schema": {
         "fields": [
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Proportions of positions of women in the public service compared to the national distribution",
+                "Ratio of proportion of women in the judiciary to proportion of women in the total population"
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,11 +37,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Political leadership and central administration, foreign affairs",
-                "Police",
+                "",
                 "Education, science, research, cultural affairs",
                 "Health, environment, sports and recreation",
-                ""
+                "Police",
+                "Political leadership and central administration, foreign affairs"
               ]
             },
             "title": "Field of work"
@@ -34,30 +51,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Supreme/Constitutional courts",
+                "",
                 "Higher-level courts",
                 "Lower-level courts",
-                ""
+                "Supreme/Constitutional courts"
               ]
             },
             "title": "Level of court"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportions of positions of women in the public service compared to the national distribution",
-                "Ratio of proportion of women in the judiciary to proportion of women in the total population",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

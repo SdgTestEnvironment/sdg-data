@@ -11,35 +11,35 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "owned and leased agricultural land",
-                "female owners of agricultural holdings with the legal form of a sole proprietorship",
-                "agricultural holdings with the legal of a form sole proprietorship",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "ownership",
             "type": "string",
             "constraints": {
               "enum": [
-                "property",
+                "",
                 "leasehold",
-                ""
+                "property"
               ]
             }
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "agricultural holdings with the legal of a form sole proprietorship",
+                "female owners of agricultural holdings with the legal form of a sole proprietorship",
+                "owned and leased agricultural land"
+              ]
+            }
           }
         ]
       }

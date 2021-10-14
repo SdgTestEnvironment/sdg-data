@@ -11,23 +11,23 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "animal genetic resources (number)",
-                "plant genetic resources (number)",
-                ""
+                "plant genetic resources (number)"
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
           }
         ]
       }

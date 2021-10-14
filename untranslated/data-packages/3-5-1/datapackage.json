@@ -11,35 +11,35 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           },
           {
-            "name": "substance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) drugs",
-                "b) alcohol and other psychoactive substances",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "female",
                 "male",
-                "unknown",
-                ""
+                "unknown"
               ]
             }
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "substance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "a) drugs",
+                "b) alcohol and other psychoactive substances"
+              ]
+            }
           }
         ]
       }

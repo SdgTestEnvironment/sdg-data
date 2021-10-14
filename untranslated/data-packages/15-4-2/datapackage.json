@@ -11,6 +11,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,17 +23,13 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "class 3 areas (elevation 2500-3500 meters)",
                 "class 4 areas (elevation 1500-2500 meters)",
                 "class 5 areas (elevation 1000-1500 meters)",
-                "class 6 areas (elevation  300-1000 meters)",
-                ""
+                "class 6 areas (elevation  300-1000 meters)"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

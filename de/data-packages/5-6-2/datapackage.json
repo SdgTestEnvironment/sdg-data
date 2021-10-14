@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Abschnitt 1: Mutterschaftsvorsorge",
-                "Abschnitt 2: Empfängnisverhütung und Familienplanung",
+                "",
                 "Abschnitt 3: Umfassende Sexualerziehung und Information",
+                "Abschnitt 2: Empfängnisverhütung und Familienplanung",
                 "Abschnitt 4: HIV und HPV",
-                ""
+                "Abschnitt 1: Mutterschaftsvorsorge"
               ]
             },
             "title": "Themenbereich"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

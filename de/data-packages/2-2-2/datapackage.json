@@ -11,38 +11,38 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "string",
             "title": "Jahr"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Übergewicht",
-                "Auszehrung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Männlich",
+                "",
                 "Weiblich",
-                ""
+                "Männlich"
               ]
             },
             "title": "Geschlecht"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Übergewicht",
+                "Auszehrung"
+              ]
+            },
+            "title": "Zeitreihe"
           }
         ]
       }

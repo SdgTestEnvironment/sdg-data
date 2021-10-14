@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,17 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch",
+                "",
                 "Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch",
-                ""
+                "Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch"
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

@@ -11,6 +11,21 @@
       "schema": {
         "fields": [
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "feelings of insecurity in the neighbourhood",
+                "population not living in an area with crime, violence or vandalism (%)"
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,28 +34,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "very safe",
+                "",
                 "safe",
                 "unsafe",
-                "very unsafe",
-                ""
+                "very safe",
+                "very unsafe"
               ]
             }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "feelings of insecurity in the neighbourhood",
-                "population not living in an area with crime, violence or vandalism (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

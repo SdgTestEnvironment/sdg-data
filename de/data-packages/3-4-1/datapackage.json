@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "a) Herz-Kreislauferkrankung",
                 "b) Bösartige Neubildungen",
                 "c) Diabetes mellitus",
-                "d) Chronische Atemwegserkrankungen",
-                ""
+                "d) Chronische Atemwegserkrankungen"
               ]
             },
             "title": "Art der Erkrankung"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

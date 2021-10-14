@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,21 +25,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Syrien",
+                "",
                 "Afghanistan",
-                "Irak",
                 "Iran",
-                "Türkei",
+                "Irak",
                 "Russische Föderation",
-                ""
+                "Syrien",
+                "Türkei"
               ]
             },
             "title": "Herkunftsland"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }

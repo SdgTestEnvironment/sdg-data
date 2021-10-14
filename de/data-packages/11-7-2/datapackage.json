@@ -11,33 +11,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Opfer körperlicher Belästigung",
-                "Opfer sexueller Belästigung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "13 Jahre und jünger",
+                "",
                 "14 bis unter 18 Jahre",
                 "18 bis unter 21 Jahre",
                 "21 bis unter 60 Jahre",
                 "60 Jahre und älter",
-                ""
+                "13 Jahre und jünger"
               ]
             },
             "title": "Altersklasse"
@@ -47,17 +40,24 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Weiblich",
-                "Männlich",
-                ""
+                "Männlich"
               ]
             },
             "title": "Geschlecht"
           },
           {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Opfer körperlicher Belästigung",
+                "Opfer sexueller Belästigung"
+              ]
+            },
+            "title": "Zeitreihe"
           }
         ]
       }

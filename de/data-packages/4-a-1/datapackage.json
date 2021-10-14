@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -20,19 +25,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "a) Schulen mit Zugang zu Elektrizität",
                 "e) Schulen mit Zugang zu Trinkwasser",
                 "f) Schulen mit Zugang zu geschlechterspezifische, grundlegende sanitäre Anlagen",
-                "g) Schulen mit Zugang zu grundlegende Einrichtungen zum Händewaschen",
-                ""
+                "g) Schulen mit Zugang zu grundlegende Einrichtungen zum Händewaschen"
               ]
             },
             "title": "Ausstattung"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       }

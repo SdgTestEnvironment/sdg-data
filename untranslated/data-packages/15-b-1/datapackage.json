@@ -11,34 +11,34 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "a) oda (commitments) for biodiversity",
+                "b) environmental protection expenditure"
+              ]
+            }
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2018)",
+                "",
                 "mn eur",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) oda (commitments) for biodiversity",
-                "b) environmental protection expenditure",
-                ""
+                "mn usd, constant prices (2018)"
               ]
             }
           },
           {
             "name": "Value",
             "type": "number"
+          },
+          {
+            "name": "Year",
+            "type": "integer"
           }
         ]
       }

@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -20,20 +25,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population living in households with moisture damages",
+                "",
+                "Material deprivation for the housing dimension, total (1-4 items)",
                 "Population considering their dwelling as too dark",
                 "Population living in an area with crime, violence or vandalism",
                 "Population living in an area with noise pollution",
-                "Material deprivation for the housing dimension, total (1-4 items)",
-                ""
+                "Population living in households with moisture damages"
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }
