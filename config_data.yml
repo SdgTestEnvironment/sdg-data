@@ -118,9 +118,7 @@ docs_intro: This is a list of examples of endpoints and output that are
 # For Disaggregation sorting
 
 
-data_schema:
-  class: DataSchemaInputTableSchemaYaml
-  source: data-schema/*.yml
+
 
 map_layers:
   - geojson_file: boundaries.geojson
