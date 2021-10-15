@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Syria",
                 "Afghanistan",
-                "Iraq",
                 "Iran",
-                "Turkey",
+                "Iraq",
                 "Russian Federation",
+                "Syria",
+                "Turkey",
                 ""
               ]
             },

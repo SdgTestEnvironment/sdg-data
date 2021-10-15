@@ -6010,12 +6010,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "syria",
                 "afghanistan",
-                "iraq",
                 "iran",
-                "turkey",
+                "iraq",
                 "russian federation",
+                "syria",
+                "turkey",
                 ""
               ]
             }
