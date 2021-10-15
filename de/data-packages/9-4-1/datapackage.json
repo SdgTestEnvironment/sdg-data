@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "CO<sub>2</sub>-Emissionen zum realen BIP",
-                "CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe"
+                "co2 emission per real gdp",
+                "co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010))"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

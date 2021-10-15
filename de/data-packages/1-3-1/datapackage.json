@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Bevölkerung mit Krankenversicherungsschutz",
-                "Arbeitslose Leistungsbezieher"
+                "population covered by health insurance (%)",
+                "unemployed persons with unemployment benefits (%)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

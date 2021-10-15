@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Subindikator 1: Fläche der wasserbezogenen Ökosysteme",
-                "Subindikator 3: Wasserabfluss über Flüsse",
-                "Subindikator 4: Gewässer mit guter Wasserqualität"
+                "sub-indicator 1: spatial extent of water-related ecosystems",
+                "sub-indicator 3:  quantity discharge of water in rivers",
+                "sub-indicator 4: water bodies with good quality"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "type of water body",
@@ -39,11 +39,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Seen und Talsperren",
-                "Fließgewässer"
+                "open water bodies",
+                "river water bodies"
               ]
             },
-            "title": "Art des Gewässers"
+            "title": "type of water body"
           }
         ]
       }

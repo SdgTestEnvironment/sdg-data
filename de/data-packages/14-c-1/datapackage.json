@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Punktzahl der Umsetzung des Seerechtsübereinkommens der Vereinten Nationen (SRÜ) und seiner zwei Zusatzübereinkommen",
-                "Punktzahl für die Ratifikation und den Beitritt zu dem Seerechtsübereinkommens der Vereinten Nationen (SRÜ) und seiner zwei Zusatzübereinkommen"
+                "score for the implementation of unclos and ist two implementing agreements",
+                "score for the ratification of and accession to unclos and ist two implementing agreements"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

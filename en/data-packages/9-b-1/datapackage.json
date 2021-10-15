@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Medium-high-tech",
-                "High-tech",
+                "medium-high-tech",
+                "high-tech",
                 ""
               ]
             },
-            "title": "Technology sectors"
+            "title": "technology sectors"
           },
           {
             "name": "Value",

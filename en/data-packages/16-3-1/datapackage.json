@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Reporting rate for physical assault",
-                "Reporting rate for robbery",
+                "a) police reporting rate for physical assault (%)",
+                "c) police reporting rate for robbery (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

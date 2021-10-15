@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "level of waterstress",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Anteil der Gewinnung an den erneuerbaren Wasserressourcen",
-                "Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)"
+                "share of withdrawal in renewable water resources",
+                "share of withdrawal in renewable water resources (excluding cooling water)"
               ]
             },
-            "title": "Grad der Wasserknappheit"
+            "title": "level of waterstress"
           }
         ]
       }

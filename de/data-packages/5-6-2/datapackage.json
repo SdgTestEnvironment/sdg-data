@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "thematic area",
@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Abschnitt 3: Umfassende Sexualerziehung und Information",
-                "Abschnitt 2: Empfängnisverhütung und Familienplanung",
-                "Abschnitt 4: HIV und HPV",
-                "Abschnitt 1: Mutterschaftsvorsorge"
+                "comprehensive sexuality education and information",
+                "contraceptive and family planning",
+                "hiv and hpv",
+                "maternity care"
               ]
             },
-            "title": "Themenbereich"
+            "title": "thematic area"
           }
         ]
       }

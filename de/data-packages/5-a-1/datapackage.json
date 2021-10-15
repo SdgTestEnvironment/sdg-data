@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "ownership",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Pacht",
-                "Eigentum"
+                "leasehold",
+                "property"
               ]
             },
-            "title": "Eigentumsverhältnis"
+            "title": "ownership"
           },
           {
             "name": "timeseries",
@@ -38,12 +38,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Betriebe der Rechtsform Einzelunternehmen",
-                "Weibliche Inhaber landwirtschaftlicher Betriebe der Rechtsform Einzelunternehmen",
-                "Eigene und gepachtete landwirtschaftlich genutzte Flächen"
+                "agricultural holdings with the legal of a form sole proprietorship",
+                "female owners of agricultural holdings with the legal form of a sole proprietorship",
+                "owned and leased agricultural land"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

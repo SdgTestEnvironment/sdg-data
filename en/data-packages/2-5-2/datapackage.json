@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Number",
+                "%",
+                "number",
                 ""
               ]
             },
@@ -32,28 +32,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Level of risk of extinction (according to FAO classification)",
-                "Local livestock breeds (horses, cows, pigs, sheep and goats)",
-                "Level of risk of extinction (according to national classification)",
+                "level of risk of extinction (according to fao classification)",
+                "local livestock breeds (horses, cows, pigs, sheep and goats)",
+                "level of risk of extinction (according to national classification)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "level of risk of extinction",
             "type": "string",
             "constraints": {
               "enum": [
-                "At risk",
-                "Not at risk",
-                "Under observation",
-                "Breeding programs for preservation",
-                "Rudiments remaining",
+                "b) at risk",
+                "a) not at risk",
+                "b) under observation",
+                "c) breeding programs for preservation",
+                "d) rudiments remaining",
                 ""
               ]
             },
-            "title": "Level of risk of extinction"
+            "title": "level of risk of extinction"
           },
           {
             "name": "Value",

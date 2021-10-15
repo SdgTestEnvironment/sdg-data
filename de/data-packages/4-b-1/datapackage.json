@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten",
-                "Bruttoentwicklungsausgaben (ODA) für Stipendien"
+                "oda (gross disbursements) for imputed student costs",
+                "oda (gross disbursements) for scholarships"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

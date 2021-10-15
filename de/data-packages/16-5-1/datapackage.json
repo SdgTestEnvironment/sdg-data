@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
-                "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten"
+                "population who had the impression that public officials are corruptible",
+                "private persons (donors) suspected in the context of corruption offences"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Units",
@@ -28,8 +28,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Prozent",
-                "Anzahl"
+                "%",
+                "number"
               ]
             },
             "title": "Units"
@@ -42,7 +42,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "sex",
@@ -50,12 +50,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Divers",
-                "Weiblich",
-                "Männlich"
+                "divers",
+                "female",
+                "male"
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           }
         ]
       }

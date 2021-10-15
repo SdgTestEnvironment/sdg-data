@@ -15,13 +15,24 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "number",
+                ""
+              ]
+            }
+          },
+          {
             "name": "country of origin",
             "type": "string",
             "constraints": {
               "enum": [
                 "afghanistan",
-                "iran",
                 "iraq",
+                "iran",
                 "russian federation",
                 "syria",
                 "turkey",

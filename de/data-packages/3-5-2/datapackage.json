@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "conversion",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Nach nationalen Faktoren",
-                "Nach UN-Faktoren"
+                "by national factors",
+                "by un factors"
               ]
             },
-            "title": "Umrechnung"
+            "title": "conversion"
           }
         ]
       }

@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Medical doctors",
-                "Dentists",
-                "Nursing and midwifery personnel",
-                "Pharmacists",
+                "a) medical doctors",
+                "b) dentists",
+                "c) nursing and midwifery personnel",
+                "d) pharmacists",
                 ""
               ]
             },
-            "title": "Profession"
+            "title": "profession"
           },
           {
             "name": "Value",

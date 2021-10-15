@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "technology sectors",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Hightech",
-                "Medium-Hightech"
+                "high-tech",
+                "medium-high-tech"
               ]
             },
-            "title": "Technologiesektoren"
+            "title": "technology sectors"
           }
         ]
       }

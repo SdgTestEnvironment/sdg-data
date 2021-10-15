@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Very safe",
-                "Safe",
-                "Unsafe",
-                "Very unsafe",
+                "very safe",
+                "safe",
+                "unsafe",
+                "very unsafe",
                 ""
               ]
             },
-            "title": "Feelings of insecurity"
+            "title": "feelings of insecurity"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Feeling of (in)security of the population in its neighbourhood (at night)",
-                "Population not living in an area with crime, violence or vandalism",
+                "feelings of insecurity in the neighbourhood",
+                "population not living in an area with crime, violence or vandalism (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

@@ -1,34 +1,34 @@
-Year,Units,Altersklasse,Value
-2010,Prozent,17 Jahre und jünger,0
-2011,Prozent,17 Jahre und jünger,0
-2012,Prozent,17 Jahre und jünger,0
-2013,Prozent,17 Jahre und jünger,0
-2014,Prozent,17 Jahre und jünger,0
-2015,Prozent,17 Jahre und jünger,0
-2016,Prozent,17 Jahre und jünger,0
-2017,Prozent,17 Jahre und jünger,0
-2018,Prozent,17 Jahre und jünger,0
-2019,Prozent,17 Jahre und jünger,0
-2020,Prozent,17 Jahre und jünger,0
-2010,Anzahl,17 Jahre und jünger,225
-2011,Anzahl,17 Jahre und jünger,213
-2012,Anzahl,17 Jahre und jünger,214
-2013,Anzahl,17 Jahre und jünger,256
-2014,Anzahl,17 Jahre und jünger,321
-2015,Anzahl,17 Jahre und jünger,880
-2016,Anzahl,17 Jahre und jünger,700
-2017,Anzahl,17 Jahre und jünger,318
-2018,Anzahl,17 Jahre und jünger,143
-2019,Anzahl,17 Jahre und jünger,90
-2020,Anzahl,17 Jahre und jünger,73
-2010,Prozent,14 Jahre und jünger,0
-2011,Prozent,14 Jahre und jünger,0
-2012,Prozent,14 Jahre und jünger,0
-2013,Prozent,14 Jahre und jünger,0
-2014,Prozent,14 Jahre und jünger,0
-2015,Prozent,14 Jahre und jünger,0
-2016,Prozent,14 Jahre und jünger,0
-2017,Prozent,14 Jahre und jünger,0
-2018,Prozent,14 Jahre und jünger,0
-2019,Prozent,14 Jahre und jünger,0
-2020,Prozent,14 Jahre und jünger,0
+Year,Units,age,Value
+2010,%,under 18 years,0
+2011,%,under 18 years,0
+2012,%,under 18 years,0
+2013,%,under 18 years,0
+2014,%,under 18 years,0
+2015,%,under 18 years,0
+2016,%,under 18 years,0
+2017,%,under 18 years,0
+2018,%,under 18 years,0
+2019,%,under 18 years,0
+2020,%,under 18 years,0
+2010,number,under 18 years,225
+2011,number,under 18 years,213
+2012,number,under 18 years,214
+2013,number,under 18 years,256
+2014,number,under 18 years,321
+2015,number,under 18 years,880
+2016,number,under 18 years,700
+2017,number,under 18 years,318
+2018,number,under 18 years,143
+2019,number,under 18 years,90
+2020,number,under 18 years,73
+2010,%,under 15 years,0
+2011,%,under 15 years,0
+2012,%,under 15 years,0
+2013,%,under 15 years,0
+2014,%,under 15 years,0
+2015,%,under 15 years,0
+2016,%,under 15 years,0
+2017,%,under 15 years,0
+2018,%,under 15 years,0
+2019,%,under 15 years,0
+2020,%,under 15 years,0

@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Millionen EUR",
-                "Millionen USD, konstante Preise (2018)"
+                "mn eur",
+                "mn usd, constant prices (2018)"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Zusagen (ODA) für Biodiversität",
-                "Umweltschutzausgaben"
+                "a) oda (commitments) for biodiversity",
+                "b) environmental protection expenditure"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

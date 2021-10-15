@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "sea",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Ostsee",
-                "Nordsee"
+                "baltic sea",
+                "greater north sea"
               ]
             },
-            "title": "Meer"
+            "title": "sea"
           },
           {
             "name": "timeseries",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen",
-                "MSY-untersuchte an allen bewirtschafteten Beständen"
+                "fish stocks within biologically sustainable levels (%)",
+                "proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

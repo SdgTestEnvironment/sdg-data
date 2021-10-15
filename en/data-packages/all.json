@@ -70,25 +70,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "17 years and younger",
+                "under 18 years",
                 "18 to under 65 years",
-                "65 years and older",
+                "65 years and over",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -119,14 +119,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Area 4: Marriage and family",
-                "Area 3: Employment and economic benefit",
-                "Area 2: Violence against women",
-                "Area 1: Overarching legal frameworks and public life",
+                "area 4 marriage and family",
+                "area 3 employment and economic benefits",
+                "area 2 violence against women",
+                "area 1 overarching legal frameworks and public life",
                 ""
               ]
             },
-            "title": "Area of law"
+            "title": "area of law"
           },
           {
             "name": "Value",
@@ -157,37 +157,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Severely materially deprived persons",
-                "Persons at risk of poverty or social exclusion",
+                "severely materially deprived persons",
+                "persons at risk of poverty or social exclusion",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 years and younger",
+                "under 18 years",
                 "18 to under 65 years",
-                "65 years and older",
+                "65 years and over",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Value",
@@ -218,8 +218,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
-                "Percentage",
+                "number",
+                "%",
                 ""
               ]
             },
@@ -270,12 +270,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "timeseries"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -398,8 +418,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "No Unit",
-                "Number",
+                "no unit",
+                "number",
                 ""
               ]
             },
@@ -410,15 +430,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture",
-                "Parties to the Nagoya Protocol",
-                "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture",
-                "Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House",
-                "Number of Standard Material Transfer Agreements (SMTAs)",
+                "contractingparties to the international treaty on plant genetic resources for food and agriculture",
+                "parties to the nagoya protocol",
+                "countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture",
+                "countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
+                "number of standard material transfer agreements (smtas)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -449,12 +469,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) for aid for trade",
-                "ODA and OOF (gross disbursement) for aid for trade",
+                "aid for trade commitments (oda and oof)",
+                "aid for trade gross disbursements (oda and oof)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -545,24 +565,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of sustainable managed stocks in all MSY examined stocks",
-                "Proportion of MSY examined in all managed stocks",
+                "fish stocks within biologically sustainable levels (%)",
+                "proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sea",
             "type": "string",
             "constraints": {
               "enum": [
-                "Greater North Sea",
-                "Baltic sea",
+                "greater north sea",
+                "baltic sea",
                 ""
               ]
             },
-            "title": "Sea"
+            "title": "sea"
           },
           {
             "name": "Value",
@@ -593,12 +613,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (gross disbursements) for water and sanitation",
-                "ODA (gross disbursements) for other related purposes",
+                "oda (gross disbursements) for water and sanitation",
+                "oda (gross disbursements) for other related purposes",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -701,8 +721,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million tonnes",
-                "Tonnes per capita",
+                "mn t",
+                "t per capita",
                 "2015 = 100",
                 ""
               ]
@@ -714,12 +734,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic material consumption (DMC)",
-                "Domestic material consumption per real GDP",
+                "domestic material consumption (dmc)",
+                "domestic material consumption per real gdp",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -750,8 +770,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million tonnes",
-                "Percentage",
+                "mn t",
+                "%",
                 ""
               ]
             },
@@ -762,14 +782,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Above-ground biomass stock in forest",
-                "Forest area located within protected areas",
-                "Forest area net change rate",
-                "Forest area under an independently verified forest management certification scheme",
+                "above-ground biomass stock in forest",
+                "forest area located within protected areas",
+                "forest area net change rate",
+                "forest area under an independently verified forest management certification scheme",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -836,13 +856,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of indicator results drawn from country-led results frameworks by providers of development cooperation",
-                "Proportion of results drawn from country-led result frameworks by providers of development cooperation",
-                "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation",
+                "proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)",
+                "proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)",
+                "proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -873,14 +893,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Cardiovascular disease",
-                "b) Cancer",
-                "c) Diabetes mellitus",
-                "d) Chronic respiratory disease",
+                "a) cardiovascular disease",
+                "b) cancer",
+                "c) diabetes mellitus",
+                "d) chronic respiratory disease",
                 ""
               ]
             },
-            "title": "Type of disease"
+            "title": "type of disease"
           },
           {
             "name": "Value",
@@ -903,24 +923,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "timeseries"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -947,8 +975,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million tonnes",
-                "Tonnes per capita",
+                "mn t",
+                "t per capita",
                 "2015 = 100",
                 ""
               ]
@@ -960,12 +988,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Raw material consumption (RMC)",
-                "Raw material consumption per real GDP",
+                "raw material consumption (rmc)",
+                "raw material consumption per real gdp",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -996,26 +1024,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",
@@ -1087,8 +1115,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Number",
+                "%",
+                "number",
                 ""
               ]
             },
@@ -1099,12 +1127,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "17 years and younger",
-                "14 years and younger",
+                "under 18 years",
+                "under 15 years",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Value",
@@ -1135,12 +1163,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -1171,12 +1199,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Online accounts",
-                "Current accounts",
+                "online accounts",
+                "current accounts",
                 ""
               ]
             },
-            "title": "Type of account"
+            "title": "type of account"
           },
           {
             "name": "Value",
@@ -1291,12 +1319,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Documents issued for the import and export of protected species",
-                "Seizures by authorities concerning the protection of species",
+                "documents issued for the import and export of protected species (number)",
+                "seizures by authorities concerning the protection of species (number)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -1327,15 +1355,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population living in households with moisture damages",
-                "Population considering their dwelling as too dark",
-                "Population living in an area with crime, violence or vandalism",
-                "Population living in an area with noise pollution",
-                "Material deprivation for the housing dimension, total (1-4 items)",
+                "population living in households with moisture damages",
+                "population considering their dwelling as too dark",
+                "population living in an area with crime, violence or vandalism",
+                "population living in an area with noise pollution",
+                "material deprivation for the housing dimension",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -1426,8 +1454,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "1,000 tonnes",
+                "%",
+                "1 000 t",
                 ""
               ]
             },
@@ -1438,24 +1466,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Recycling rate",
-                "Material recovery",
+                "recycling rate",
+                "recycled waste",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "type of waste",
             "type": "string",
             "constraints": {
               "enum": [
-                "Municipal waste",
-                "Total waste",
+                "municipal waste",
+                "total waste",
                 ""
               ]
             },
-            "title": "Type of waste"
+            "title": "type of waste"
           },
           {
             "name": "Value",
@@ -1558,15 +1586,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Basel Convention",
-                "Montreal Protocol",
-                "Rotterdam Convention",
-                "Stockholm Convention",
-                "Minamata Convention",
+                "compliance with the basel convention (%)",
+                "compliance with the montreal protocol (%)",
+                "compliance with the rotterdam convention (%)",
+                "compliance with the stockholm convention (%)",
+                "compliance with the minamata convention (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -1621,12 +1649,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of domestic expenditures funded by national taxes",
-                "Proportion of domestic expenditures funded by national taxes and insurance contributions",
+                "proportion of domestic expenditures funded by national taxes (%)",
+                "proportion of domestic expenditures funded by national taxes and insurance contributions (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -1717,8 +1745,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "1,000",
+                "%",
+                "1 000",
                 ""
               ]
             },
@@ -1729,12 +1757,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population with access to electricity",
-                "Households and small-sized enterprises connected to the electricity network",
+                "population with access to electricity",
+                "households and small-sized enterprises connected to the electricity network",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -1765,12 +1793,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Marine Key Biodiversity Areas (KBAs) covered by protected areas",
-                "Marine areas covered by protected areas",
+                "marine key biodiversity areas (kbas) covered by protected areas (%)",
+                "protected marine area (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -1806,19 +1834,19 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -1849,8 +1877,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 inhabitants",
-                "Number",
+                "per 100 000 inhabitants",
+                "number",
                 ""
               ]
             },
@@ -1861,41 +1889,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                "Unknown",
+                "female",
+                "male",
+                "unknown",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "13 years and younger",
+                "under 14 years",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 25 years",
-                "25 years and older",
-                "Unknown age",
+                "25 years and over",
+                "unknown age",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "form of exploitation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Labour exploitation",
-                "Sexual exploitation",
+                "exploitation of labour",
+                "sexual exploitation",
                 ""
               ]
             },
-            "title": "Form of exploitation"
+            "title": "form of exploitation"
           },
           {
             "name": "Value",
@@ -1962,14 +1990,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DTP vaccination coverage at school entry",
-                "Measles vaccination coverage at school entry",
-                "Pneumococcal vaccination coverage at school entry",
-                "HPV vaccination coverage among 15 year-old girls",
+                "dtp vaccination rate at school entrance",
+                "measles vaccination rate at sschool entrance",
+                "pneumococcal vaccination rate at school entrance",
+                "hpv vaccination rate among 15 years old girls",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -2005,19 +2033,19 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -2048,8 +2076,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Number",
+                "%",
+                "number",
                 ""
               ]
             },
@@ -2060,25 +2088,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                "Divers",
+                "female",
+                "male",
+                "divers",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
-                "Private persons (donors) suspected in the context of corruption offences",
+                "population who had the impression that public officials are corruptible",
+                "private persons (donors) suspected in the context of corruption offences",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2205,8 +2233,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "EUR",
+                "%",
+                "eur",
                 ""
               ]
             },
@@ -2217,13 +2245,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Manufacturing gross value added as a proportion of GDP",
-                "Manufacturing gross value added as a proportion of total gross value added",
-                "Manufacturing gross value added per capita",
+                "manufacturing gross value added as a proportion of gdp",
+                "manufacturing gross value added as a proportion of total gross value added",
+                "manufacturing gross value added per capita",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2254,13 +2282,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SDG indicator 4.2.2",
-                "SDG-Indicator 4.3.1 (Youths)",
-                "SDG-Indicator 4.3.1 (Adults)",
+                "sdg indicator 4-2-2",
+                "sdg indicator 4-3-1 (youth)",
+                "sdg indicator 4-3-1 (adults)",
                 ""
               ]
             },
-            "title": "Indicator"
+            "title": "indicator"
           },
           {
             "name": "Value",
@@ -2291,8 +2319,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Number",
+                "%",
+                "number",
                 ""
               ]
             },
@@ -2303,40 +2331,40 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population who were exposed to physical violence",
-                "Population who were victims of criminal offences",
-                "Victims of criminal offences",
+                "population subjected to physical violence",
+                "population who were victims of criminal offences",
+                "victims of criminal offences",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "13 years and younger",
+                "under 14 years",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 60 years",
-                "60 years and older",
+                "60 years and over",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Value",
@@ -2367,14 +2395,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Medical doctors",
-                "Dentists",
-                "Nursing and midwifery personnel",
-                "Pharmacists",
+                "a) medical doctors",
+                "b) dentists",
+                "c) nursing and midwifery personnel",
+                "d) pharmacists",
                 ""
               ]
             },
-            "title": "Profession"
+            "title": "profession"
           },
           {
             "name": "Value",
@@ -2412,7 +2440,7 @@
                 ""
               ]
             },
-            "title": "Area"
+            "title": "area2"
           },
           {
             "name": "Value",
@@ -2443,24 +2471,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) At the end of primary education",
-                "c) At the end of lower secondary education",
+                "b) at the end of lower primary education",
+                "c) at the end of lower secondary education",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "education level"
           },
           {
             "name": "subject",
             "type": "string",
             "constraints": {
               "enum": [
-                "Reading",
-                "Mathematics",
+                "reading",
+                "mathematics",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "subject"
           },
           {
             "name": "Value",
@@ -2683,29 +2711,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "P5",
-                "P10",
-                "P25",
-                "P50",
-                "P75",
-                "P90",
-                "P95",
+                "p5",
+                "p10",
+                "p25",
+                "p50",
+                "p75",
+                "p90",
+                "p95",
                 ""
               ]
             },
-            "title": "Percentiles"
+            "title": "percentiles"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -2736,13 +2764,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Diarrhoea",
-                "b) Intestinal nematode infections",
-                "c) Protein-energy malnutrition",
+                "a) diarrhoea",
+                "b) intestinal nematode infections",
+                "c) protein-energy malnutrition",
                 ""
               ]
             },
-            "title": "Type of disease"
+            "title": "type of disease"
           },
           {
             "name": "Value",
@@ -2773,13 +2801,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                "Divers",
+                "female",
+                "male",
+                "divers",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -2810,12 +2838,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (gross disbursements) for scholarships",
-                "ODA (gross disbursements) for imputed student costs",
+                "oda (gross disbursements) for scholarships",
+                "oda (gross disbursements) for imputed student costs",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -2846,12 +2874,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)",
-                "Government expenditure on cultural services (COFOG division 8.2)",
+                "goverment expenditure on protection of biodiversity and landscape (cofog division 5.4) (bn eur)",
+                "goverment expenditure on cultural services (cofog division 8.2) (bn eur)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -2882,26 +2910,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",
@@ -2937,14 +2965,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Schools with access to electricity",
-                "e) Schools with access to basic drinking water",
-                "f) Schools with access to single-sex basic sanitation facilities",
-                "g) Schools with access to basic handwashing facilities",
+                "a) schools with access to electricity",
+                "e) schools with access to basic drinking water",
+                "f) schools with access to single-sex basic sanitation facilities",
+                "g) schools with access to basic handwashing facilities (as per the wash indicator definitions)",
                 ""
               ]
             },
-            "title": "Facilities"
+            "title": "facilities"
           },
           {
             "name": "Value",
@@ -2975,8 +3003,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million USD, constant prices (2018)",
-                "Million EUR",
+                "mn usd, constant prices (2018)",
+                "mn eur",
                 ""
               ]
             },
@@ -2987,12 +3015,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (commitments) for biodiversity",
-                "Environmental protection expenditure",
+                "a) oda (commitments) for biodiversity",
+                "b) environmental protection expenditure",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -3023,7 +3051,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Megajoule per EUR",
+                "mj/eur",
                 "2015 = 100",
                 ""
               ]
@@ -3059,12 +3087,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (gross disbursements) for poverty reduction",
-                "ODA (commitments) for poverty reduction",
+                "oda (gross disbursements) for poverty reduction",
+                "oda (commitments) for poverty reduction",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -3119,12 +3147,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population covered by health insurance",
-                "Unemployed persons with unemployment benefits",
+                "population covered by health insurance (%)",
+                "unemployed persons with unemployment benefits (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -3155,12 +3183,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Growth rate of net equivalent income of the total population",
-                "rowth rate of net equivalent income of the bottom 40 per cent of the population",
+                "growth rate of income of the total population (%)",
+                "growth rate of income of the bottom 40 per cent of the population (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -3191,24 +3219,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "13 years and younger",
+                "under 14 years",
                 "14 to under 18 years",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -3239,13 +3267,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Government expenditure on education",
-                "Government expenditure on health",
-                "Government expenditure on social protection",
+                "b) government expenditure on education (cofog division 9) (%)",
+                "a) government expenditure on health (cofog division 7) (%)",
+                "c) government expenditure on social protection (cofog division 10) (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -3377,7 +3405,7 @@
                 ""
               ]
             },
-            "title": "Age of mother"
+            "title": "age of mother"
           },
           {
             "name": "Value",
@@ -3460,24 +3488,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "timeseries"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3504,25 +3540,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Drugs",
-                "Alcohol and other psychoactive substances",
+                "a) drugs",
+                "b) alcohol and other psychoactive substances",
                 ""
               ]
             },
-            "title": "Substance"
+            "title": "substance"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                "Unknown",
+                "female",
+                "male",
+                "unknown",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -3665,24 +3701,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "timeseries"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3733,24 +3777,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Overweight",
-                "Wasting",
+                "overweight among children under the age of 5 years (%)",
+                "wasting among children under the age of 5 years (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -3781,12 +3825,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "By UN factors",
-                "By national factors",
+                "by un factors",
+                "by national factors",
                 ""
               ]
             },
-            "title": "Conversion"
+            "title": "conversion"
           },
           {
             "name": "Value",
@@ -3817,24 +3861,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "form of abuse",
             "type": "string",
             "constraints": {
               "enum": [
-                "Physical abuse",
-                "Psychological abuse",
+                "physical abuse",
+                "psychological abuse",
                 ""
               ]
             },
-            "title": "Form of abuse"
+            "title": "form of abuse"
           },
           {
             "name": "Value",
@@ -3869,23 +3913,23 @@
                 "25 to under 45 years",
                 "45 to under 55 years",
                 "55 to under 65 years",
-                "65 years and older",
+                "65 years and over",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -3916,8 +3960,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
-                "Percentage",
+                "number",
+                "%",
                 ""
               ]
             },
@@ -4004,12 +4048,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "timeseries"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4060,8 +4124,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
-                "Percentage",
+                "number",
+                "%",
                 ""
               ]
             },
@@ -4072,13 +4136,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "At least one population and housing census in the last 10 years conducted",
-                "Birth registration",
-                "Death registration",
+                "at least one population and housing census in the last 10 years conducted",
+                "birth registration",
+                "death registration",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -4109,12 +4173,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Animal genetic resources",
-                "Plant genetic resources",
+                "animal genetic resources (number)",
+                "plant genetic resources (number)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -4145,12 +4209,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Reporting rate for physical assault",
-                "Reporting rate for robbery",
+                "a) police reporting rate for physical assault (%)",
+                "c) police reporting rate for robbery (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -4217,12 +4281,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SEEA tables",
-                "TSA tables",
+                "seea tables",
+                "tsa tables",
                 ""
               ]
             },
-            "title": "Standard accounting system"
+            "title": "standard accounting system"
           },
           {
             "name": "Value",
@@ -4277,12 +4341,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas",
-                "Terrestrial and freshwater areas covered by protected areas",
+                "key biodiversity areas (kbas) covered by protected areas (%)",
+                "protected terrestrial areas (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -4337,12 +4401,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (gross disbursements) to infrastructure",
-                "ODA (gross disbursements) to infrastructure",
+                "oda and oof (gross disbursements) to infrastructure",
+                "oda (gross disbursements) to infrastructure",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -4545,24 +4609,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Intended Nationally Determined Contribution of the EU and its member States",
-                "Climate Action Plan 2050",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4581,24 +4653,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "timeseries"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4625,12 +4705,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of ODA (net disbursements) to GNI",
-                "Proportion of bilateral and imputed multilateral ODA (net disbursements) for LDCs to the gross national income (GNI)",
+                "proportion of oda (net disbursements) to gni",
+                "proportion of bilateral and imputed multilateral oda (net disbursements) for lcds to the gross national income (gni)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -4661,18 +4741,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Copying or moving of files and folders",
-                "Using copy or cut and paste tools to duplicate or move information on screen",
-                "Writing code in a programming language",
-                "Connecting and installing new devices, eg a printer or a modem",
-                "Transferring files between computer and other devices",
-                "Installing software or apps",
-                "Creating electronic presentations with presentation software, including e.g. images, sound, video or charts",
-                "Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
+                "copied or moved a file and folder",
+                "using copy or cut and paste tools to duplicate or move information on screen",
+                "written code in a programming language",
+                "connecting and installing new devices, eg a printer or a modem",
+                "transferred files between computer and other devices",
+                "installed software or applications (apps)",
+                "creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",
+                "used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
                 ""
               ]
             },
-            "title": "Activities"
+            "title": "activities"
           },
           {
             "name": "age",
@@ -4684,7 +4764,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Value",
@@ -4715,24 +4795,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Applications received",
-                "Applications finally processed",
+                "applications received",
+                "applications finally processed",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "time series"
           },
           {
             "name": "declination",
             "type": "string",
             "constraints": {
               "enum": [
-                "Admissible applications",
-                "Rejected applications",
+                "admissible applications",
+                "rejected applications",
                 ""
               ]
             },
-            "title": "Outcome of the application process"
+            "title": "declination"
           },
           {
             "name": "Value",
@@ -4787,8 +4867,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million passenger-kilometre",
-                "Million tonne-kilometres",
+                "mn pkm",
+                "mn tkm",
                 ""
               ]
             },
@@ -4799,28 +4879,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Passenger transports",
-                "Freight transports",
+                "passenger transports",
+                "freight transports",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "mode of transport",
             "type": "string",
             "constraints": {
               "enum": [
-                "Road transport",
-                "Rail transport",
-                "Commercial air transport",
-                "Motorised private transport",
-                "Inland waterway transport",
-                "Pipelines: crude oil",
+                "road transport",
+                "rail transport",
+                "commercial air transport",
+                "motorised private transport",
+                "inland waterway transport",
+                "transport via pipeline crude oil",
                 ""
               ]
             },
-            "title": "Mode of transport"
+            "title": "mode of transport"
           },
           {
             "name": "Value",
@@ -4851,12 +4931,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) to strengthen statistical capacity",
-                "ODA and OOF (gross disbursements) to strengthen statistical capacity",
+                "oda and oof (commitments) to strengthen statistical capacity",
+                "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -4887,11 +4967,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Billion EUR",
-                "Million hours",
+                "%",
+                "bn eur",
+                "mn h",
                 "2015 = 100",
-                "1,000",
+                "1 000",
                 ""
               ]
             },
@@ -4902,23 +4982,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual growth rate of real GDP",
-                "Available income of private households",
-                "Consumption by private households",
-                "Debts of the total public budget",
-                "Government fiscal balance",
-                "Gross fixed capital formation",
-                "Hours worked by employees",
-                "Hours worked by persons employed",
-                "Labour productivity per hour worked by employee",
-                "Labour productivity per hour worked by persons employed",
-                "Persons employed",
-                "Real GDP per capita",
-                "Trade balance",
+                "annual growth rate of real gdp",
+                "available income of private households",
+                "consumption by private households",
+                "debt level of the total public budget",
+                "government fiscal balance",
+                "gross fixed capital formation",
+                "hours worked by employees",
+                "hours worked by persons employed",
+                "labour productivity per hour worked by employee",
+                "labour productivity per hour worked by persons employed",
+                "persons employed",
+                "real gdp per capita",
+                "trade balance",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -4958,7 +5038,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Value",
@@ -5025,8 +5105,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR per hour",
-                "Percentage",
+                "eur/h",
+                "%",
                 ""
               ]
             },
@@ -5037,50 +5117,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average hourly earnings of employees",
-                "Gender Pay Gap",
+                "average hourly earnings of employees",
+                "gender pay gap",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",
@@ -5152,24 +5232,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Literacy skills",
-                "b) Numeracy skills",
+                "a) literacy skills",
+                "b) numeracy skills",
                 ""
               ]
             },
-            "title": "Skill"
+            "title": "skill"
           },
           {
             "name": "level of proficiency",
             "type": "string",
             "constraints": {
               "enum": [
-                "Minimum requirement level I",
-                "Minimum requirement level II",
+                "minimum requirement level i",
+                "minimum requirement level ii",
                 ""
               ]
             },
-            "title": "Level of proficiency"
+            "title": "level of proficiency"
           },
           {
             "name": "Value",
@@ -5255,7 +5335,7 @@
                 ""
               ]
             },
-            "title": "Area"
+            "title": "area2"
           },
           {
             "name": "Value",
@@ -5278,24 +5358,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "timeseries"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -5322,14 +5410,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Section 1: Maternity care",
-                "Section 2: Contraception and family planning",
-                "Section 3: Comprehensive sexuality education and information",
-                "Section 4: HIV and HPV",
+                "maternity care",
+                "contraceptive and family planning",
+                "comprehensive sexuality education and information",
+                "hiv and hpv",
                 ""
               ]
             },
-            "title": "Thematic area"
+            "title": "thematic area"
           },
           {
             "name": "Value",
@@ -5460,12 +5548,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "timeseries"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -5492,39 +5600,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Political leadership and central administration, foreign affairs",
-                "Police",
-                "Education, science, research, cultural affairs",
-                "Health, environment, sports and recreation",
+                "political leadership and central administration, foreign affairs",
+                "police",
+                "education, science, research, cultural affairs",
+                "health, environment, sports and recreation",
                 ""
               ]
             },
-            "title": "Field of work"
+            "title": "field of work"
           },
           {
             "name": "level of court",
             "type": "string",
             "constraints": {
               "enum": [
-                "Supreme/Constitutional courts",
-                "Higher-level courts",
-                "Lower-level courts",
+                "supreme/constitutional courts",
+                "higher-level courts",
+                "lower-level courts",
                 ""
               ]
             },
-            "title": "Level of court"
+            "title": "level of court"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportions of positions of women in the public service compared to the national distribution",
-                "Ratio of proportion of women in the judiciary to proportion of women in the total population",
+                "proportions of positions of women in the public service compared to the national distribution, by field of work",
+                "ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -5555,15 +5663,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (net disbursements)",
-                "OOF (net disbursements)",
-                "Officially supported export credits (net disbursements)",
-                "Private sector flows at market terms (net disbursement)",
-                "Private concessional flows (net disbursements)",
+                "oda (net disbursements)",
+                "oof (net disbursements)",
+                "officially supported export credits (net disbursements)",
+                "private sector flows at market terms (net disbursements)",
+                "private concessional flows (net disbursements)",
                 ""
               ]
             },
-            "title": "Type of flow"
+            "title": "type of flow"
           },
           {
             "name": "Value",
@@ -5618,8 +5726,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million USD, constant prices (2018)",
-                "Million EUR",
+                "mn usd, constant prices (2018)",
+                "mn eur",
                 ""
               ]
             },
@@ -5630,12 +5738,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (commitments) for biodiversity",
-                "Environmental protection expenditure",
+                "a) oda (commitments) for biodiversity",
+                "b) environmental protection expenditure",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -5666,24 +5774,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fatal occupational accidents",
-                "Non-fatal occupational accidents",
+                "fatal occupational accidents (per 100 000 employees)",
+                "non-fatal occupational accidents (per 100 000 employees)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -5858,7 +5966,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Over 144 kbps to under 2 mbps",
+                "a) over 144 kbps to under 2 mbps",
                 "b) 2 mbps to under 10 mbps",
                 "c) 10 mbps to under 30 mbps",
                 "d) 30 mbps to under 100 mbps",
@@ -5866,7 +5974,7 @@
                 ""
               ]
             },
-            "title": "Speed"
+            "title": "speed"
           },
           {
             "name": "Value",
@@ -5925,12 +6033,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "timeseries"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -5957,8 +6085,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "1,000 tonnes",
+                "%",
+                "1 000 t",
                 ""
               ]
             },
@@ -5969,12 +6097,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Municipal solid waste regularly collected and treated",
-                "Municipal solid waste in total",
+                "municipal solid waste regularly collected and treated",
+                "total municipal solid waste generated",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -6005,25 +6133,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sub-indicator 1: Spatial extent of water-related ecosystems",
-                "Sub-indicator 3:  Quantity discharge of water in rivers",
-                "Sub-indicator 4: Water bodies with good quality",
+                "sub-indicator 1: spatial extent of water-related ecosystems",
+                "sub-indicator 3:  quantity discharge of water in rivers",
+                "sub-indicator 4: water bodies with good quality",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "type of water body",
             "type": "string",
             "constraints": {
               "enum": [
-                "River water bodies",
-                "Open water bodies",
+                "river water bodies",
+                "open water bodies",
                 ""
               ]
             },
-            "title": "Type of water body"
+            "title": "type of water body"
           },
           {
             "name": "Value",
@@ -6054,30 +6182,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "People requiring interventions against neglected tropical diseases",
-                "Inpatient treatment of neglected tropical diseases",
+                "people requiring interventions against neglected tropical diseases",
+                "inpatient treatment of neglected tropical diseases",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "type of disease",
             "type": "string",
             "constraints": {
               "enum": [
-                "Dengue",
-                "Echinococcosis",
-                "Leprosy",
-                "Buruli ulcer",
-                "Human African Trypanosomiasis",
-                "Leishmaniases",
-                "Rabies",
-                "Yaws",
+                "dengue",
+                "echinococcosis",
+                "leprosy",
+                "buruli ulcer",
+                "human african trypanosomiasis",
+                "leishmaniases",
+                "rabies",
+                "yaws",
                 ""
               ]
             },
-            "title": "Type of disease"
+            "title": "type of disease"
           },
           {
             "name": "Value",
@@ -6132,26 +6260,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Very safe",
-                "Safe",
-                "Unsafe",
-                "Very unsafe",
+                "very safe",
+                "safe",
+                "unsafe",
+                "very unsafe",
                 ""
               ]
             },
-            "title": "Feelings of insecurity"
+            "title": "feelings of insecurity"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Feeling of (in)security of the population in its neighbourhood (at night)",
-                "Population not living in an area with crime, violence or vandalism",
+                "feelings of insecurity in the neighbourhood",
+                "population not living in an area with crime, violence or vandalism (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -6182,12 +6310,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "General government",
-                "Corporations",
+                "general government",
+                "corporations",
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "sector"
           },
           {
             "name": "Value",
@@ -6218,8 +6346,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilogram per capita",
-                "Percentage",
+                "kg per capita",
+                "%",
                 ""
               ]
             },
@@ -6230,26 +6358,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hazardous waste generated per capita",
-                "Hazardous waste treated",
+                "a) hazardous waste generated per capita",
+                "b) hazardous waste treated",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "type of waste treatment",
             "type": "string",
             "constraints": {
               "enum": [
-                "Energy recovery",
-                "Incineration",
-                "Recovery other than energy recovery",
-                "Deposit onto or into land and land treatment and release into water bodies",
+                "energy recovery",
+                "incineration",
+                "recovery other than energy recovery",
+                "deposit onto or into land and land treatment and release into water bodies",
                 ""
               ]
             },
-            "title": "Type of waste treatment"
+            "title": "type of waste treatment"
           },
           {
             "name": "Value",
@@ -6316,12 +6444,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -6388,12 +6516,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "11 months and younger",
-                "4 years and younger",
+                "under 1 year",
+                "under 5 years",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Value",
@@ -6448,12 +6576,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3G",
-                "LTE",
+                "3g",
+                "lte",
                 ""
               ]
             },
-            "title": "Technology"
+            "title": "technology"
           },
           {
             "name": "Value",
@@ -6540,20 +6668,32 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "country of origin",
             "type": "string",
             "constraints": {
               "enum": [
-                "Afghanistan",
-                "Iran",
-                "Iraq",
-                "Russian Federation",
-                "Syria",
-                "Turkey",
+                "afghanistan",
+                "iraq",
+                "iran",
+                "russian federation",
+                "syria",
+                "turkey",
                 ""
               ]
             },
-            "title": "Country of origin"
+            "title": "country of origin"
           },
           {
             "name": "Value",
@@ -6584,12 +6724,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)",
-                "ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)",
+                "oda and oof (commitments) for capacity building and national planning (without south-south cooperation)",
+                "oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperation)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -6620,12 +6760,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Greater 10 %",
-                "Greater 25 %",
+                "greater 10 percentage",
+                "greater 25 percentage",
                 ""
               ]
             },
-            "title": "Household expenditures on health"
+            "title": "household expenditures on health"
           },
           {
             "name": "Value",
@@ -6680,12 +6820,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population using safely managed sanitation services",
-                "Population with a bathtub or a shower",
+                "a) population using safely managed sanitation services (%)",
+                "b) population with a bathtub or a shower (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -6776,24 +6916,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Current tobacco use among persons aged 15 years and older",
-                "Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)",
+                "current tobacco use among persons aged 15 years and older (%)",
+                "current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -6831,19 +6971,19 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -6874,14 +7014,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Class 3 areas (elavation 2500-3500 meters)",
-                "Class 4 areas (elavation 1500-2500 meters)",
-                "Class 5 areas (elavation 1000-1500 meters)",
-                "Class 6 areas (elavation 300-1000 meters)",
+                "class 3 areas (elevation 2500-3500 meters)",
+                "class 4 areas (elevation 1500-2500 meters)",
+                "class 5 areas (elevation 1000-1500 meters)",
+                "class 6 areas (elevation  300-1000 meters)",
                 ""
               ]
             },
-            "title": "Classification"
+            "title": "classification"
           },
           {
             "name": "Value",
@@ -6948,12 +7088,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Medium-high-tech",
-                "High-tech",
+                "medium-high-tech",
+                "high-tech",
                 ""
               ]
             },
-            "title": "Technology sectors"
+            "title": "technology sectors"
           },
           {
             "name": "Value",
@@ -6984,12 +7124,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of withdrawal in renewable water resources",
-                "Share of withdrawal in renewable water resources (excluding cooling water)",
+                "share of withdrawal in renewable water resources",
+                "share of withdrawal in renewable water resources (excluding cooling water)",
                 ""
               ]
             },
-            "title": "Level of waterstress"
+            "title": "level of waterstress"
           },
           {
             "name": "Value",
@@ -7020,12 +7160,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Branches of payment service providers",
-                "ATMs of national payment service providers",
+                "a) branches of payment service providers (per 100 000 adults)",
+                "b) atms of national payment service providers (per 100 000 adults)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -7056,12 +7196,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Escherichia coli with resistance to 3rd generation cephalosporins (e.g. ESBL- E. coli)",
-                "Methicillin-resistant Staphylococcus aureus (MRSA)",
+                "escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",
+                "methicillin-resistant staphylococcus aureus (mrsa)",
                 ""
               ]
             },
-            "title": "Antimicrobial-resistant organism"
+            "title": "antimicrobial-resistant organisms"
           },
           {
             "name": "Value",
@@ -7092,12 +7232,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "At-risk-of-poverty rate",
-                "Government expenditure on social protection",
+                "at-risk-of-poverty rate (according to eurostat definition) (%)",
+                "c) government expenditure on social protection (cofog division 10) (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -7128,38 +7268,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Organically farmed agricultural land (data from Destatis)",
-                "Organically farmed agricultural land (data from BMEL)",
+                "organically farmed agricultural land (data from destatis)",
+                "organically farmed agricultural land (data from bmel)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",
@@ -7195,12 +7335,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population using safely managed drinking water services",
-                "Population connected to the public water supply system",
+                "population using safely managed drinking water services (%)",
+                "population connected to the public water supply system (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -7316,7 +7456,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -7347,16 +7487,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domain 1. Migrant rights",
-                "Domain 2. Whole-of-government/ Evidence-based policies",
-                "Domain 3. Cooperation and partnerships",
-                "Domain 4. Socioeconomic well-being",
-                "Domain 5. Mobility dimensions of crises",
-                "Domain 6. Safe, orderly and regular migration",
+                "domain 1. migrant rights",
+                "domain 2. whole-of-government/evidence-based policies",
+                "domain 3. cooperation and partnerships",
+                "domain 4. socioeconomic well-being",
+                "domain 5. mobility dimensions of crises",
+                "domain 6. safe, orderly and regular migration",
                 ""
               ]
             },
-            "title": "Policy area"
+            "title": "domain"
           },
           {
             "name": "Value",
@@ -7459,12 +7599,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CO<sub>2</sub> emissions per real GDP",
-                "CO<sub>2</sub> emissions per gross value added (price adjusted) in manufacturing industries",
+                "co2 emission per real gdp",
+                "co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010))",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -7519,17 +7659,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Capital to assets ratio",
-                "Regulatory Tier 1 capital to risk-weighted assets",
-                "Nonperforming loans net of provisions to capital",
-                "Nonperforming loans net of provisions to gross loans",
-                "Return on assets",
-                "Liquid assets to short-term liabilities",
-                "Net open position in foreign exchange to capital",
+                "capital to assets ratio (%)",
+                "regulatory tier 1 capital to risk-weighted assets (%)",
+                "nonperforming loans net of provisions to capital (%)",
+                "nonperforming loans net of provisions to gross loans (%)",
+                "return on assets (%)",
+                "liquid assets to short-term liabilities (%)",
+                "net open position in foreign exchange to capital (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -7560,9 +7700,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "No Unit",
+                "no unit",
                 "2015 = 100",
-                "Percentage",
+                "%",
                 ""
               ]
             },
@@ -7573,14 +7713,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio of land consumption rate to population growth rate (year-to-year)",
-                "Proportion of settlement and transport areas to population",
-                "Land consumption rate",
-                "Population growth rate",
+                "ratio of land consumption rate to population growth rate",
+                "proportion of settlement and transport areas to population",
+                "land consumption rate",
+                "population growth rate",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -7603,24 +7743,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "timeseries"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -7647,12 +7795,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture",
-                "Forestry",
+                "agriculture",
+                "forestry",
                 ""
               ]
             },
-            "title": "Economic activities"
+            "title": "economic sector"
           },
           {
             "name": "Value",
@@ -7719,12 +7867,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mountain Key Biodiversity Areas (KBAs) covered by protected areas",
-                "Mountain regions, covered by protected areas",
+                "key biodiversity areas (kbas) covered by protected areas",
+                "mountain regions, covered by protected areas",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -7755,25 +7903,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "17 years and younger",
+                "under 18 years",
                 "18 to under 65 years",
-                "65 years and older",
+                "65 years and over",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -7804,27 +7952,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany",
-                "Baden-Württemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "germany",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",
@@ -7890,24 +8038,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "timeseries"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -7934,8 +8090,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million tonnes",
-                "Tonnes per capita",
+                "mn t",
+                "t per capita",
                 "2015 = 100",
                 ""
               ]
@@ -7947,12 +8103,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Raw material consumption (RMC)",
-                "Raw material consumption per real GDP",
+                "raw material consumption (rmc)",
+                "raw material consumption per real gdp",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -8019,38 +8175,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population that has convenient access to public transport (within 500 meters)",
-                "Population that has convenient access to public transport (within 10 minutes walking distance)",
+                "population that has convenient access to public transport (within 500 meters) (%)",
+                "population that has convenient access to public transport (within 10 minutes walking distance) (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",
@@ -8062,38 +8218,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mobility impaired people",
+                "mobility impaired people",
                 ""
               ]
             },
-            "title": "Disability status"
+            "title": "disability"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 years and younger",
+                "under 18 years",
                 "18 to under 30 years",
                 "30 to under 45 years",
                 "45 to under 65 years",
-                "65 years and older",
+                "65 years and over",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Value",
@@ -8184,13 +8340,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing",
-                "MIMEC",
-                "Services",
+                "a) agriculture, forestry and fishing (nace rev 2, section a)",
+                "b) mimec (nace rev 2, sections b, c, d, f)",
+                "c) services (nace rev 2, sections e, g to t)",
                 ""
               ]
             },
-            "title": "Economic activities"
+            "title": "economic sector"
           },
           {
             "name": "Value",
@@ -8221,12 +8377,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Documents issued for the import and export of protected species",
-                "Seizures by authorities concerning the protection of species",
+                "documents issued for the import and export of protected species (number)",
+                "seizures by authorities concerning the protection of species (number)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -8257,29 +8413,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population using safely managed drinking water services",
-                "Population using safely managed sanitation services",
-                "Population with access to electricity",
-                "Proportion of the rural population who live within 2 km of an all-season road",
-                "Households covered by 3G or LTE",
-                "Population that has convenient access to public transport (within 500 meters)",
-                "Municipal solid waste regularly collected and treated",
+                "population using safely managed drinking water services (%)",
+                "a) population using safely managed sanitation services (%)",
+                "population with access to electricity",
+                "proportion of the rural population who live within 2 km of an all-season road",
+                "households covered by 3g or lte",
+                "population that has convenient access to public transport (within 500 meters) (%)",
+                "municipal solid waste regularly collected and treated",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "technology",
             "type": "string",
             "constraints": {
               "enum": [
-                "3G",
-                "LTE",
+                "3g",
+                "lte",
                 ""
               ]
             },
-            "title": "Technology"
+            "title": "technology"
           },
           {
             "name": "Value",
@@ -8310,12 +8466,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Score for the implementation of UNCLOS and ist two implementing agreements",
-                "Score for the ratification of and accession to UNCLOS and ist two implementing agreements",
+                "score for the implementation of unclos and ist two implementing agreements",
+                "score for the ratification of and accession to unclos and ist two implementing agreements",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -8346,8 +8502,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million tonnes",
-                "Tonnes per capita",
+                "mn t",
+                "t per capita",
                 "2015 = 100",
                 ""
               ]
@@ -8359,12 +8515,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic material consumption (DMC)",
-                "Domestic material consumption per real GDP",
+                "domestic material consumption (dmc)",
+                "domestic material consumption per real gdp",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -8395,13 +8551,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
-                "Long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
-                "Long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)",
+                "short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
+                "long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
+                "long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -8432,12 +8588,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -8475,7 +8631,7 @@
                 ""
               ]
             },
-            "title": "Area"
+            "title": "area2"
           },
           {
             "name": "Value",
@@ -8530,8 +8686,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 inhabitants",
-                "Number",
+                "per 100 000 inhabitants",
+                "number",
                 ""
               ]
             },
@@ -8542,27 +8698,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "13 years and younger",
+                "under 14 years",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 60 years",
-                "60 years and older",
+                "60 years and over",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -8593,12 +8749,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Child deliveries in hospitals",
-                "Live births in total",
+                "child deliveries in hospitals",
+                "live births total",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -8713,12 +8869,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -8905,12 +9061,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "River water bodies",
-                "Open water bodies",
+                "river water bodies",
+                "open water bodies",
                 ""
               ]
             },
-            "title": "Type of water body"
+            "title": "type of water body"
           },
           {
             "name": "Value",
@@ -9001,39 +9157,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Victims of physical harassment",
-                "Victims of sexual harassment",
+                "physical harassment",
+                "sexual harassment",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "13 years and younger",
+                "under 14 years",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 60 years",
-                "60 years and older",
+                "60 years and over",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -9064,12 +9220,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mobile penetration rate",
-                "Private households with at least one mobile phone",
+                "mobile penetration rate",
+                "private households with at least one mobile phone (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -9100,25 +9256,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Owned and leased agricultural land",
-                "Female owners of agricultural holdings with the legal form of a sole proprietorship",
-                "Agricultural holdings with the legal form of a sole proprietorship",
+                "owned and leased agricultural land",
+                "female owners of agricultural holdings with the legal form of a sole proprietorship",
+                "agricultural holdings with the legal of a form sole proprietorship",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "ownership",
             "type": "string",
             "constraints": {
               "enum": [
-                "Property",
-                "Leasehold",
+                "property",
+                "leasehold",
                 ""
               ]
             },
-            "title": "Ownership"
+            "title": "ownership"
           },
           {
             "name": "Value",
@@ -9185,8 +9341,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Number",
+                "%",
+                "number",
                 ""
               ]
             },
@@ -9197,28 +9353,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Level of risk of extinction (according to FAO classification)",
-                "Local livestock breeds (horses, cows, pigs, sheep and goats)",
-                "Level of risk of extinction (according to national classification)",
+                "level of risk of extinction (according to fao classification)",
+                "local livestock breeds (horses, cows, pigs, sheep and goats)",
+                "level of risk of extinction (according to national classification)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "level of risk of extinction",
             "type": "string",
             "constraints": {
               "enum": [
-                "At risk",
-                "Not at risk",
-                "Under observation",
-                "Breeding programs for preservation",
-                "Rudiments remaining",
+                "b) at risk",
+                "a) not at risk",
+                "b) under observation",
+                "c) breeding programs for preservation",
+                "d) rudiments remaining",
                 ""
               ]
             },
-            "title": "Level of risk of extinction"
+            "title": "level of risk of extinction"
           },
           {
             "name": "Value",
@@ -9249,12 +9405,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Renewable energy share in total final energy consumption",
-                "Renewable energy share in gross final energy consumption",
+                "renewable energy share in total final energy consumption",
+                "renewable energy share in gross final energy consumption",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",
@@ -9309,23 +9465,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Untreated wastewater that does not have to undergo treatment",
+                "untreated wastewater that does not have to undergo treatment",
                 ""
               ]
             },
-            "title": "Treatment"
+            "title": "treatment"
           },
           {
             "name": "type of waste water",
             "type": "string",
             "constraints": {
               "enum": [
-                "Cooling water",
-                "Other wastewater",
+                "cooling water",
+                "other wastewater that does not have to undergo treatment",
                 ""
               ]
             },
-            "title": "Type of waste water"
+            "title": "type of waste water"
           },
           {
             "name": "Value",

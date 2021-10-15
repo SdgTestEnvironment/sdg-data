@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "DTP-Impfquote zum Schuleintritt",
-                "HPV-Impfquote bei 15-jährigen Mädchen",
-                "Masern-Impfquote zum Schuleintritt",
-                "Pneumokokken-Impfquote zum Schuleintritt"
+                "dtp vaccination rate at school entrance",
+                "hpv vaccination rate among 15 years old girls",
+                "measles vaccination rate at sschool entrance",
+                "pneumococcal vaccination rate at school entrance"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

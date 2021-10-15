@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "sex",
@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Weiblich",
-                "Männlich",
-                "Unbekannt"
+                "female",
+                "male",
+                "unknown"
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "substance",
@@ -39,11 +39,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Drogen",
-                "Alkohol und andere psychoaktive Substanzen"
+                "a) drugs",
+                "b) alcohol and other psychoactive substances"
               ]
             },
-            "title": "Substanz"
+            "title": "substance"
           }
         ]
       }

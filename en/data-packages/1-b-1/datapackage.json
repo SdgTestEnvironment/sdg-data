@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "At-risk-of-poverty rate",
-                "Government expenditure on social protection",
+                "at-risk-of-poverty rate (according to eurostat definition) (%)",
+                "c) government expenditure on social protection (cofog division 10) (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Prozent",
-                "Anzahl"
+                "%",
+                "number"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "age",
@@ -38,14 +38,14 @@
             "constraints": {
               "enum": [
                 "",
-                "14 bis unter 18 Jahre",
-                "18 bis unter 21 Jahre",
-                "21 bis unter 60 Jahre",
-                "60 Jahre und älter",
-                "13 Jahre und jünger"
+                "14 to under 18 years",
+                "18 to under 21 years",
+                "21 to under 60 years",
+                "60 years and over",
+                "under 14 years"
               ]
             },
-            "title": "Altersklasse"
+            "title": "age"
           },
           {
             "name": "sex",
@@ -53,11 +53,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Weiblich",
-                "Männlich"
+                "female",
+                "male"
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "timeseries",
@@ -65,12 +65,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Bevölkerung, die körperlicher Gewalt ausgesetzt war",
-                "Bevölkerung, die Opfer einer Straftat war",
-                "Opfer von Straftaten"
+                "population subjected to physical violence",
+                "population who were victims of criminal offences",
+                "victims of criminal offences"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

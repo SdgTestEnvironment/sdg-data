@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Prozent",
-                "Anzahl"
+                "%",
+                "number"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "age",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "14 Jahre und jünger",
-                "17 Jahre und jünger"
+                "under 15 years",
+                "under 18 years"
               ]
             },
-            "title": "Altersklasse"
+            "title": "age"
           }
         ]
       }

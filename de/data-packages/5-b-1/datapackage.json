@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Penetrationsrate Mobilfunk",
-                "Privathaushalte mit mindestens einem Mobiltelefon"
+                "mobile penetration rate",
+                "private households with at least one mobile phone (%)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

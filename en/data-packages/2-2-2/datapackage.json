@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Overweight",
-                "Wasting",
+                "overweight among children under the age of 5 years (%)",
+                "wasting among children under the age of 5 years (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",

@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "declination",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Zulässige Anträge",
-                "Abgelehnte Anträge"
+                "admissible applications",
+                "rejected applications"
               ]
             },
-            "title": "Ausgang des Antragsverfahrens"
+            "title": "declination"
           },
           {
             "name": "time series",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Abschließend bearbeitete Anträge",
-                "Eingegangene Anträge"
+                "applications finally processed",
+                "applications received"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "time series"
           }
         ]
       }

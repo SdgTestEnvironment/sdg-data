@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Documents issued for the import and export of protected species",
-                "Seizures by authorities concerning the protection of species",
+                "documents issued for the import and export of protected species (number)",
+                "seizures by authorities concerning the protection of species (number)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

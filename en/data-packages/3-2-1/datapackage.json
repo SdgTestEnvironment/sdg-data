@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "11 months and younger",
-                "4 years and younger",
+                "under 1 year",
+                "under 5 years",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Value",

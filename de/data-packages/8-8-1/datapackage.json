@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "sex",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Weiblich",
-                "Männlich"
+                "female",
+                "male"
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "timeseries",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Tödliche Arbeitsunfälle",
-                "Nicht-tödliche Arbeitsunfälle"
+                "fatal occupational accidents (per 100 000 employees)",
+                "non-fatal occupational accidents (per 100 000 employees)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

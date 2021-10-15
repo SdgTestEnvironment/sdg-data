@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Staatsausgaben für Kultur (COFOG Abteilung 8.2)",
-                "Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)"
+                "goverment expenditure on cultural services (cofog division 8.2) (bn eur)",
+                "goverment expenditure on protection of biodiversity and landscape (cofog division 5.4) (bn eur)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

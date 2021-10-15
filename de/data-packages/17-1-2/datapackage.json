@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Anteil der Staatsausgaben, die durch Steuern finanziert werden",
-                "Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsausgaben finanziert werden"
+                "proportion of domestic expenditures funded by national taxes (%)",
+                "proportion of domestic expenditures funded by national taxes and insurance contributions (%)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

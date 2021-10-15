@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "profession",
@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Ärzte",
-                "Zahnärzte",
-                "Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe",
-                "Apotheker"
+                "a) medical doctors",
+                "b) dentists",
+                "c) nursing and midwifery personnel",
+                "d) pharmacists"
               ]
             },
-            "title": "Beruf"
+            "title": "profession"
           }
         ]
       }

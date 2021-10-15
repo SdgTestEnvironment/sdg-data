@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "sex",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Weiblich",
-                "Männlich"
+                "female",
+                "male"
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "timeseries",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Übergewicht",
-                "Auszehrung"
+                "overweight among children under the age of 5 years (%)",
+                "wasting among children under the age of 5 years (%)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

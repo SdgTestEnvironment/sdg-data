@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Basel Convention",
-                "Montreal Protocol",
-                "Rotterdam Convention",
-                "Stockholm Convention",
-                "Minamata Convention",
+                "compliance with the basel convention (%)",
+                "compliance with the montreal protocol (%)",
+                "compliance with the rotterdam convention (%)",
+                "compliance with the stockholm convention (%)",
+                "compliance with the minamata convention (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

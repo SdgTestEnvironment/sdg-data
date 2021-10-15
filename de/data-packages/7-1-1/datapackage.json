@@ -16,7 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Prozent",
+                "%",
                 "1 000"
               ]
             },
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Haushalte und Kleinbetriebe, die an das Elektrizitätsnetzwerk angebunden sind",
-                "Bevölkerung mit Zugang zu Elektrizität"
+                "households and small-sized enterprises connected to the electricity network",
+                "population with access to electricity"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "age",
@@ -26,15 +26,15 @@
             "constraints": {
               "enum": [
                 "",
-                "15 Jahre",
-                "15,5 Jahre",
-                "16 Jahre",
-                "16,5 Jahre",
-                "17 Jahre",
-                "17,5 Jahre"
+                "15 years",
+                "15.5 years",
+                "16 years",
+                "16.5 years",
+                "17 years",
+                "17.5 years"
               ]
             },
-            "title": "Altersklasse"
+            "title": "age"
           }
         ]
       }

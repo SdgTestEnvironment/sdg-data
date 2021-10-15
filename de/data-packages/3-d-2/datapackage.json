@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "antimicrobial-resistant organisms",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Escherichia coli, 3GCR",
-                "Staphylococcus aureus, MR"
+                "escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",
+                "methicillin-resistant staphylococcus aureus (mrsa)"
               ]
             },
-            "title": "Erreger und Resistenz"
+            "title": "antimicrobial-resistant organisms"
           }
         ]
       }

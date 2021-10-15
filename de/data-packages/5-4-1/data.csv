@@ -1,25 +1,25 @@
-Year,Altersklasse,Geschlecht,Value
+Year,age,sex,Value
 2012,,,
 2013,,,13.0
 2014,,,
-2012,15 bis unter 25 Jahre,,
-2013,15 bis unter 25 Jahre,,6.0
-2014,15 bis unter 25 Jahre,,
-2012,25 bis unter 45 Jahre,,
-2013,25 bis unter 45 Jahre,,14.0
-2014,25 bis unter 45 Jahre,,
-2012,45 bis unter 55 Jahre,,
-2013,45 bis unter 55 Jahre,,14.0
-2014,45 bis unter 55 Jahre,,
-2012,55 bis unter 65 Jahre,,
-2013,55 bis unter 65 Jahre,,14.0
-2014,55 bis unter 65 Jahre,,
-2012,65 Jahre und älter,,
-2013,65 Jahre und älter,,17.0
-2014,65 Jahre und älter,,
-2012,,Weiblich,
-2013,,Weiblich,16.0
-2014,,Weiblich,
-2012,,Männlich,
-2013,,Männlich,10.0
-2014,,Männlich,
+2012,15 to under 25 years,,
+2013,15 to under 25 years,,6.0
+2014,15 to under 25 years,,
+2012,25 to under 45 years,,
+2013,25 to under 45 years,,14.0
+2014,25 to under 45 years,,
+2012,45 to under 55 years,,
+2013,45 to under 55 years,,14.0
+2014,45 to under 55 years,,
+2012,55 to under 65 years,,
+2013,55 to under 65 years,,14.0
+2014,55 to under 65 years,,
+2012,65 years and over,,
+2013,65 years and over,,17.0
+2014,65 years and over,,
+2012,,female,
+2013,,female,16.0
+2014,,female,
+2012,,male,
+2013,,male,10.0
+2014,,male,

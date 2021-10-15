@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Zusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten",
-                "Bruttoausgaben (ODA und OOF) zum Ausbau statistischer Kapazitäten"
+                "oda and oof (commitments) to strengthen statistical capacity",
+                "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

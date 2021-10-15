@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,14 +26,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Basler Übereinkommen",
-                "Minamata Übereinkommen",
-                "Montrealer Protokoll",
-                "Rotterdamer Übereinkommen",
-                "Stockholmer Übereinkommen"
+                "compliance with the basel convention (%)",
+                "compliance with the minamata convention (%)",
+                "compliance with the montreal protocol (%)",
+                "compliance with the rotterdam convention (%)",
+                "compliance with the stockholm convention (%)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Zusagen (ODA) zur Minderung der Armut",
-                "Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut"
+                "oda (commitments) for poverty reduction",
+                "oda (gross disbursements) for poverty reduction"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

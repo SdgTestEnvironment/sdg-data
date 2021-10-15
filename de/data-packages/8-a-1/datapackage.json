@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Zusagen (ODA und OOF) für Handelshilfe",
-                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe"
+                "aid for trade commitments (oda and oof)",
+                "aid for trade gross disbursements (oda and oof)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

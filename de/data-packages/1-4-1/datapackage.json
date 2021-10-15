@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "technology",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "3G",
-                "LTE"
+                "3g",
+                "lte"
               ]
             },
-            "title": "Technologie"
+            "title": "technology"
           },
           {
             "name": "timeseries",
@@ -38,16 +38,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Bevölkerung mit einer sicher verwalteten Abwasserentsorgung",
-                "Haushalte, die mit 3G oder LTE abgedeckt sind",
-                "Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden",
-                "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)",
-                "Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung",
-                "Bevölkerung mit Zugang zu Elektrizität",
-                "Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt"
+                "a) population using safely managed sanitation services (%)",
+                "households covered by 3g or lte",
+                "municipal solid waste regularly collected and treated",
+                "population that has convenient access to public transport (within 500 meters) (%)",
+                "population using safely managed drinking water services (%)",
+                "population with access to electricity",
+                "proportion of the rural population who live within 2 km of an all-season road"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

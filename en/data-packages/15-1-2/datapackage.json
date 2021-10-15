@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas",
-                "Terrestrial and freshwater areas covered by protected areas",
+                "key biodiversity areas (kbas) covered by protected areas (%)",
+                "protected terrestrial areas (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

@@ -20,39 +20,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Victims of physical harassment",
-                "Victims of sexual harassment",
+                "physical harassment",
+                "sexual harassment",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "13 years and younger",
+                "under 14 years",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 60 years",
-                "60 years and older",
+                "60 years and over",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",

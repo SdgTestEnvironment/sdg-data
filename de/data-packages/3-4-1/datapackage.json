@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "type of disease",
@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "a) Herz-Kreislauferkrankung",
-                "b) Bösartige Neubildungen",
-                "c) Diabetes mellitus",
-                "d) Chronische Atemwegserkrankungen"
+                "a) cardiovascular disease",
+                "b) cancer",
+                "c) diabetes mellitus",
+                "d) chronic respiratory disease"
               ]
             },
-            "title": "Art der Erkrankung"
+            "title": "type of disease"
           }
         ]
       }

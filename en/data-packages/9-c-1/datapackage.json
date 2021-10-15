@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3G",
-                "LTE",
+                "3g",
+                "lte",
                 ""
               ]
             },
-            "title": "Technology"
+            "title": "technology"
           },
           {
             "name": "Value",

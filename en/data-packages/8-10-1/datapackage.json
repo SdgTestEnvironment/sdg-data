@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Branches of payment service providers",
-                "ATMs of national payment service providers",
+                "a) branches of payment service providers (per 100 000 adults)",
+                "b) atms of national payment service providers (per 100 000 adults)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

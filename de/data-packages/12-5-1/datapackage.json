@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Prozent",
-                "1 000 Tonnen"
+                "%",
+                "1 000 t"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Stoffliche Verwertung",
-                "Recyclingquote"
+                "recycled waste",
+                "recycling rate"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "type of waste",
@@ -50,11 +50,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Siedlungsabfälle insgesamt",
-                "Abfallaufkommen insgesamt"
+                "municipal waste",
+                "total waste"
               ]
             },
-            "title": "Abfallart"
+            "title": "type of waste"
           }
         ]
       }

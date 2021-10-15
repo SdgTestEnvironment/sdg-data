@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) for aid for trade",
-                "ODA and OOF (gross disbursement) for aid for trade",
+                "aid for trade commitments (oda and oof)",
+                "aid for trade gross disbursements (oda and oof)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

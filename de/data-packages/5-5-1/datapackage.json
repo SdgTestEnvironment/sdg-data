@@ -23,7 +23,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "region",
@@ -31,26 +31,26 @@
             "constraints": {
               "enum": [
                 "",
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Deutschland",
-                "Hamburg",
-                "Hessen",
-                "Niedersachsen",
-                "Mecklenburg-Vorpommern",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen"
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "germany",
+                "hamburg",
+                "hesse",
+                "lower saxony",
+                "mecklenburg western pomerania",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia"
               ]
             },
-            "title": "Region"
+            "title": "region"
           }
         ]
       }

@@ -16,20 +16,32 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "country of origin",
             "type": "string",
             "constraints": {
               "enum": [
-                "Afghanistan",
-                "Iran",
-                "Iraq",
-                "Russian Federation",
-                "Syria",
-                "Turkey",
+                "afghanistan",
+                "iraq",
+                "iran",
+                "russian federation",
+                "syria",
+                "turkey",
                 ""
               ]
             },
-            "title": "Country of origin"
+            "title": "country of origin"
           },
           {
             "name": "Value",

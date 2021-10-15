@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Anteil der Stellen von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung",
-                "Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung"
+                "proportions of positions of women in the public service compared to the national distribution, by field of work",
+                "ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "field of work",
@@ -38,13 +38,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",
-                "Gesundheit, Umwelt, Sport und Erholung",
-                "Polizei",
-                "Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten"
+                "education, science, research, cultural affairs",
+                "health, environment, sports and recreation",
+                "police",
+                "political leadership and central administration, foreign affairs"
               ]
             },
-            "title": "Aufgabenbereiche"
+            "title": "field of work"
           },
           {
             "name": "level of court",
@@ -52,12 +52,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Übergeordnete Gerichte",
-                "Untergeordnete Gerichte",
-                "Oberste/Verfassungsgerichte"
+                "higher-level courts",
+                "lower-level courts",
+                "supreme/constitutional courts"
               ]
             },
-            "title": "Gerichtsebene"
+            "title": "level of court"
           }
         ]
       }

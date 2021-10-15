@@ -1,51 +1,51 @@
-Year,Feelings of insecurity,Series,Value
-2010,Very safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2011,Very safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2012,Very safe,Feeling of (in)security of the population in its neighbourhood (at night),41.0
-2013,Very safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2014,Very safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2015,Very safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2016,Very safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2017,Very safe,Feeling of (in)security of the population in its neighbourhood (at night),36.7
-2018,Very safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2019,Very safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2010,Safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2011,Safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2012,Safe,Feeling of (in)security of the population in its neighbourhood (at night),41.8
-2013,Safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2014,Safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2015,Safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2016,Safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2017,Safe,Feeling of (in)security of the population in its neighbourhood (at night),41.9
-2018,Safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2019,Safe,Feeling of (in)security of the population in its neighbourhood (at night),
-2010,Unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2011,Unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2012,Unsafe,Feeling of (in)security of the population in its neighbourhood (at night),12.5
-2013,Unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2014,Unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2015,Unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2016,Unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2017,Unsafe,Feeling of (in)security of the population in its neighbourhood (at night),15.2
-2018,Unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2019,Unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2010,Very unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2011,Very unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2012,Very unsafe,Feeling of (in)security of the population in its neighbourhood (at night),4.8
-2013,Very unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2014,Very unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2015,Very unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2016,Very unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2017,Very unsafe,Feeling of (in)security of the population in its neighbourhood (at night),6.3
-2018,Very unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2019,Very unsafe,Feeling of (in)security of the population in its neighbourhood (at night),
-2010,,"Population not living in an area with crime, violence or vandalism",88.0
-2011,,"Population not living in an area with crime, violence or vandalism",87.1
-2012,,"Population not living in an area with crime, violence or vandalism",87.5
-2013,,"Population not living in an area with crime, violence or vandalism",86.5
-2014,,"Population not living in an area with crime, violence or vandalism",86.9
-2015,,"Population not living in an area with crime, violence or vandalism",86.2
-2016,,"Population not living in an area with crime, violence or vandalism",85.9
-2017,,"Population not living in an area with crime, violence or vandalism",85.8
-2018,,"Population not living in an area with crime, violence or vandalism",86.7
-2019,,"Population not living in an area with crime, violence or vandalism",86.9
+Year,feelings of insecurity,Series,Value
+2010,very safe,feelings of insecurity in the neighbourhood,
+2011,very safe,feelings of insecurity in the neighbourhood,
+2012,very safe,feelings of insecurity in the neighbourhood,41.0
+2013,very safe,feelings of insecurity in the neighbourhood,
+2014,very safe,feelings of insecurity in the neighbourhood,
+2015,very safe,feelings of insecurity in the neighbourhood,
+2016,very safe,feelings of insecurity in the neighbourhood,
+2017,very safe,feelings of insecurity in the neighbourhood,36.7
+2018,very safe,feelings of insecurity in the neighbourhood,
+2019,very safe,feelings of insecurity in the neighbourhood,
+2010,safe,feelings of insecurity in the neighbourhood,
+2011,safe,feelings of insecurity in the neighbourhood,
+2012,safe,feelings of insecurity in the neighbourhood,41.8
+2013,safe,feelings of insecurity in the neighbourhood,
+2014,safe,feelings of insecurity in the neighbourhood,
+2015,safe,feelings of insecurity in the neighbourhood,
+2016,safe,feelings of insecurity in the neighbourhood,
+2017,safe,feelings of insecurity in the neighbourhood,41.9
+2018,safe,feelings of insecurity in the neighbourhood,
+2019,safe,feelings of insecurity in the neighbourhood,
+2010,unsafe,feelings of insecurity in the neighbourhood,
+2011,unsafe,feelings of insecurity in the neighbourhood,
+2012,unsafe,feelings of insecurity in the neighbourhood,12.5
+2013,unsafe,feelings of insecurity in the neighbourhood,
+2014,unsafe,feelings of insecurity in the neighbourhood,
+2015,unsafe,feelings of insecurity in the neighbourhood,
+2016,unsafe,feelings of insecurity in the neighbourhood,
+2017,unsafe,feelings of insecurity in the neighbourhood,15.2
+2018,unsafe,feelings of insecurity in the neighbourhood,
+2019,unsafe,feelings of insecurity in the neighbourhood,
+2010,very unsafe,feelings of insecurity in the neighbourhood,
+2011,very unsafe,feelings of insecurity in the neighbourhood,
+2012,very unsafe,feelings of insecurity in the neighbourhood,4.8
+2013,very unsafe,feelings of insecurity in the neighbourhood,
+2014,very unsafe,feelings of insecurity in the neighbourhood,
+2015,very unsafe,feelings of insecurity in the neighbourhood,
+2016,very unsafe,feelings of insecurity in the neighbourhood,
+2017,very unsafe,feelings of insecurity in the neighbourhood,6.3
+2018,very unsafe,feelings of insecurity in the neighbourhood,
+2019,very unsafe,feelings of insecurity in the neighbourhood,
+2010,,"population not living in an area with crime, violence or vandalism (%)",88.0
+2011,,"population not living in an area with crime, violence or vandalism (%)",87.1
+2012,,"population not living in an area with crime, violence or vandalism (%)",87.5
+2013,,"population not living in an area with crime, violence or vandalism (%)",86.5
+2014,,"population not living in an area with crime, violence or vandalism (%)",86.9
+2015,,"population not living in an area with crime, violence or vandalism (%)",86.2
+2016,,"population not living in an area with crime, violence or vandalism (%)",85.9
+2017,,"population not living in an area with crime, violence or vandalism (%)",85.8
+2018,,"population not living in an area with crime, violence or vandalism (%)",86.7
+2019,,"population not living in an area with crime, violence or vandalism (%)",86.9

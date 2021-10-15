@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Escherichia coli with resistance to 3rd generation cephalosporins (e.g. ESBL- E. coli)",
-                "Methicillin-resistant Staphylococcus aureus (MRSA)",
+                "escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",
+                "methicillin-resistant staphylococcus aureus (mrsa)",
                 ""
               ]
             },
-            "title": "Antimicrobial-resistant organism"
+            "title": "antimicrobial-resistant organisms"
           },
           {
             "name": "Value",

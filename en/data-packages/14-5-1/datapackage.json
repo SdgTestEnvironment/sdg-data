@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Marine Key Biodiversity Areas (KBAs) covered by protected areas",
-                "Marine areas covered by protected areas",
+                "marine key biodiversity areas (kbas) covered by protected areas (%)",
+                "protected marine area (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sub-indicator 1: Spatial extent of water-related ecosystems",
-                "Sub-indicator 3:  Quantity discharge of water in rivers",
-                "Sub-indicator 4: Water bodies with good quality",
+                "sub-indicator 1: spatial extent of water-related ecosystems",
+                "sub-indicator 3:  quantity discharge of water in rivers",
+                "sub-indicator 4: water bodies with good quality",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "type of water body",
             "type": "string",
             "constraints": {
               "enum": [
-                "River water bodies",
-                "Open water bodies",
+                "river water bodies",
+                "open water bodies",
                 ""
               ]
             },
-            "title": "Type of water body"
+            "title": "type of water body"
           },
           {
             "name": "Value",

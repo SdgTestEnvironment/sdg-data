@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "economic sector",
@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Land- und Forstwirtschaft, Fischerei",
-                "MIMEC",
-                "Dienstleistungen"
+                "a) agriculture, forestry and fishing (nace rev 2, section a)",
+                "b) mimec (nace rev 2, sections b, c, d, f)",
+                "c) services (nace rev 2, sections e, g to t)"
               ]
             },
-            "title": "Wirtschaftszweig"
+            "title": "economic sector"
           }
         ]
       }

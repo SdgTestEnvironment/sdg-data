@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Prozent",
-                "Anzahl"
+                "%",
+                "number"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -38,12 +38,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren",
-                "Registrierung der Geburten",
-                "Registrierung der Sterbefälle"
+                "at least one population and housing census in the last 10 years conducted",
+                "birth registration",
+                "death registration"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "13 years and younger",
+                "under 14 years",
                 "14 to under 18 years",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",

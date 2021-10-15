@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population living in households with moisture damages",
-                "Population considering their dwelling as too dark",
-                "Population living in an area with crime, violence or vandalism",
-                "Population living in an area with noise pollution",
-                "Material deprivation for the housing dimension, total (1-4 items)",
+                "population living in households with moisture damages",
+                "population considering their dwelling as too dark",
+                "population living in an area with crime, violence or vandalism",
+                "population living in an area with noise pollution",
+                "material deprivation for the housing dimension",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Zweigstellen von Zahlungsverkehrsdienstleistern",
-                "Bankautomaten von inländischen Zahlungsdienstleistern"
+                "a) branches of payment service providers (per 100 000 adults)",
+                "b) atms of national payment service providers (per 100 000 adults)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

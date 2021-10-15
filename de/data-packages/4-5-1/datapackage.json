@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "indicator",
@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "SDG-Indikator 4.2.2",
-                "SDG-Indikator 4.3.1 (Erwachsene)",
-                "SDG-Indikator 4.3.1 (Jugendliche)"
+                "sdg indicator 4-2-2",
+                "sdg indicator 4-3-1 (adults)",
+                "sdg indicator 4-3-1 (youth)"
               ]
             },
-            "title": "Indikator"
+            "title": "indicator"
           }
         ]
       }

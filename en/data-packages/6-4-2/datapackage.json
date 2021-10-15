@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of withdrawal in renewable water resources",
-                "Share of withdrawal in renewable water resources (excluding cooling water)",
+                "share of withdrawal in renewable water resources",
+                "share of withdrawal in renewable water resources (excluding cooling water)",
                 ""
               ]
             },
-            "title": "Level of waterstress"
+            "title": "level of waterstress"
           },
           {
             "name": "Value",

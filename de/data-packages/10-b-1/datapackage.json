@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "type of flow",
@@ -26,14 +26,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Öffentliche Nettoentwicklungsausgaben (ODA)",
-                "Öffentlich unterstützte Exportkredite (Nettoausgaben)",
-                "Sonstige öffentliche Nettoausgaben (OOF)",
-                "Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)",
-                "Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)"
+                "oda (net disbursements)",
+                "officially supported export credits (net disbursements)",
+                "oof (net disbursements)",
+                "private concessional flows (net disbursements)",
+                "private sector flows at market terms (net disbursements)"
               ]
             },
-            "title": "Art der Finanzströme"
+            "title": "type of flow"
           }
         ]
       }

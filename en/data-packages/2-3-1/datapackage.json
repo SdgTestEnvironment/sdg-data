@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture",
-                "Forestry",
+                "agriculture",
+                "forestry",
                 ""
               ]
             },
-            "title": "Economic activities"
+            "title": "economic sector"
           },
           {
             "name": "Value",

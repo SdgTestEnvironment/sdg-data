@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes"
+                "documents issued for the import and export of protected species (number)",
+                "seizures by authorities concerning the protection of species (number)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

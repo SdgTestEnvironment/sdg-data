@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "facilities",
@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "a) Schulen mit Zugang zu Elektrizität",
-                "e) Schulen mit Zugang zu Trinkwasser",
-                "f) Schulen mit Zugang zu geschlechterspezifische, grundlegende sanitäre Anlagen",
-                "g) Schulen mit Zugang zu grundlegende Einrichtungen zum Händewaschen"
+                "a) schools with access to electricity",
+                "e) schools with access to basic drinking water",
+                "f) schools with access to single-sex basic sanitation facilities",
+                "g) schools with access to basic handwashing facilities (as per the wash indicator definitions)"
               ]
             },
-            "title": "Ausstattung"
+            "title": "facilities"
           }
         ]
       }

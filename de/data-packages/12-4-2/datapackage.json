@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Prozent",
-                "Kilogramm pro Kopf"
+                "%",
+                "kg per capita"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Aufkommen gefährlicher Abfälle",
-                "Behandelte gefährliche Abfälle"
+                "a) hazardous waste generated per capita",
+                "b) hazardous waste treated"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "type of waste treatment",
@@ -50,13 +50,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern",
-                "Energierückgewinnung",
-                "Verbrennung",
-                "Verwertung anderer als die der Energierückgewinnung"
+                "deposit onto or into land and land treatment and release into water bodies",
+                "energy recovery",
+                "incineration",
+                "recovery other than energy recovery"
               ]
             },
-            "title": "Art der Abfallbehandlung"
+            "title": "type of waste treatment"
           }
         ]
       }

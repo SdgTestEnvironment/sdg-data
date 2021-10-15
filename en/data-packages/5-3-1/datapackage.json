@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Number",
+                "%",
+                "number",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "17 years and younger",
-                "14 years and younger",
+                "under 18 years",
+                "under 15 years",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Value",

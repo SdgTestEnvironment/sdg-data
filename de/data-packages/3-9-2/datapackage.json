@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "type of disease",
@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "a) Durchfallerkrankungen",
-                "b) Intestinale Nematodeninfektionen",
-                "c) Energie- und Eiweißmangelernährung"
+                "a) diarrhoea",
+                "b) intestinal nematode infections",
+                "c) protein-energy malnutrition"
               ]
             },
-            "title": "Art der Erkrankung"
+            "title": "type of disease"
           }
         ]
       }

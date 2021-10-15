@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Prozent",
-                "Millionen Tonnen"
+                "%",
+                "mn t"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -38,13 +38,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Gesamtbestand der obererdigen Biomasse in Wäldern",
-                "Waldfläche in Schutzgebieten",
-                "Jährliche Veränderung der Waldfläche",
-                "Waldflächen mit einem unabhängig geprüften Wald-Management-System"
+                "above-ground biomass stock in forest",
+                "forest area located within protected areas",
+                "forest area net change rate",
+                "forest area under an independently verified forest management certification scheme"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

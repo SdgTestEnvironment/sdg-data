@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit",
-                "Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit",
-                "Anteil von Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden"
+                "proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)",
+                "proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)",
+                "proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

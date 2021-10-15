@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR per hour",
-                "Percentage",
+                "eur/h",
+                "%",
                 ""
               ]
             },
@@ -32,50 +32,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average hourly earnings of employees",
-                "Gender Pay Gap",
+                "average hourly earnings of employees",
+                "gender pay gap",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",

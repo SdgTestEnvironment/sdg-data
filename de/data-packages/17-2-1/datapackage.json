@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)",
-                "Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE"
+                "proportion of bilateral and imputed multilateral oda (net disbursements) for lcds to the gross national income (gni)",
+                "proportion of oda (net disbursements) to gni"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

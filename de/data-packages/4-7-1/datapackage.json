@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "area2",
@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "(a) nationale Bildungspolitik",
-                "(b) Lehrpläne",
-                "(c) Ausbildung von Lehrkräften",
-                "(d) Leistungsbewertung der Lernenden"
+                "(a) national education policies",
+                "(b) curricula",
+                "(c) teacher education",
+                "(d) student assessment"
               ]
             },
-            "title": "Bereich"
+            "title": "area2"
           }
         ]
       }

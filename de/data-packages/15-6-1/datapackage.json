@@ -16,14 +16,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Vertragsparteien des Internationalen Saatgutvertrags",
-                "Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden",
-                "Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden",
-                "Anzahl standardisierter Materialübertragungs-vereinbarungen",
-                "Vertragsparteien des Nagoya-Protokoll"
+                "contractingparties to the international treaty on plant genetic resources for food and agriculture",
+                "countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture",
+                "countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
+                "number of standard material transfer agreements (smtas)",
+                "parties to the nagoya protocol"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Units",
@@ -31,8 +31,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Keine Einheit",
-                "Anzahl"
+                "no unit",
+                "number"
               ]
             },
             "title": "Units"
@@ -45,7 +45,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           }
         ]
       }

@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "sex",
@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Divers",
-                "Weiblich",
-                "Männlich"
+                "divers",
+                "female",
+                "male"
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           }
         ]
       }

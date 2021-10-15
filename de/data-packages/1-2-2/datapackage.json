@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "age",
@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "18 bis unter 65 Jahre",
-                "65 Jahre und älter",
-                "17 Jahre und jünger"
+                "18 to under 65 years",
+                "65 years and over",
+                "under 18 years"
               ]
             },
-            "title": "Altersklasse"
+            "title": "age"
           },
           {
             "name": "sex",
@@ -39,11 +39,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Weiblich",
-                "Männlich"
+                "female",
+                "male"
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "timeseries",
@@ -51,11 +51,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Von Armut oder sozialer Ausgrenzung bedrohte Personen",
-                "Unter erheblicher materieller Deprivation leidende Personen"
+                "persons at risk of poverty or social exclusion",
+                "severely materially deprived persons"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

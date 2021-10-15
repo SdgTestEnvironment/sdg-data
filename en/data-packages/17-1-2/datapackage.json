@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of domestic expenditures funded by national taxes",
-                "Proportion of domestic expenditures funded by national taxes and insurance contributions",
+                "proportion of domestic expenditures funded by national taxes (%)",
+                "proportion of domestic expenditures funded by national taxes and insurance contributions (%)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

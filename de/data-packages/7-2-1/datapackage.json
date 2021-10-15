@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch",
-                "Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch"
+                "renewable energy share in gross final energy consumption",
+                "renewable energy share in total final energy consumption"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

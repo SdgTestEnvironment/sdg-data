@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million tonnes",
-                "Percentage",
+                "mn t",
+                "%",
                 ""
               ]
             },
@@ -32,14 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Above-ground biomass stock in forest",
-                "Forest area located within protected areas",
-                "Forest area net change rate",
-                "Forest area under an independently verified forest management certification scheme",
+                "above-ground biomass stock in forest",
+                "forest area located within protected areas",
+                "forest area net change rate",
+                "forest area under an independently verified forest management certification scheme",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

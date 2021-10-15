@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of sustainable managed stocks in all MSY examined stocks",
-                "Proportion of MSY examined in all managed stocks",
+                "fish stocks within biologically sustainable levels (%)",
+                "proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sea",
             "type": "string",
             "constraints": {
               "enum": [
-                "Greater North Sea",
-                "Baltic sea",
+                "greater north sea",
+                "baltic sea",
                 ""
               ]
             },
-            "title": "Sea"
+            "title": "sea"
           },
           {
             "name": "Value",

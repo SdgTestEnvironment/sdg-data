@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Renewable energy share in total final energy consumption",
-                "Renewable energy share in gross final energy consumption",
+                "renewable energy share in total final energy consumption",
+                "renewable energy share in gross final energy consumption",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

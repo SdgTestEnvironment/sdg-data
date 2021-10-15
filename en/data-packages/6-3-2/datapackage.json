@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "River water bodies",
-                "Open water bodies",
+                "river water bodies",
+                "open water bodies",
                 ""
               ]
             },
-            "title": "Type of water body"
+            "title": "type of water body"
           },
           {
             "name": "Value",

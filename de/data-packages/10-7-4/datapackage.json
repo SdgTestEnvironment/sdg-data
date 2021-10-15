@@ -11,6 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "%",
+                "number"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -18,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "country of origin",
@@ -26,15 +38,15 @@
             "constraints": {
               "enum": [
                 "",
-                "Afghanistan",
-                "Iran",
-                "Irak",
-                "Russische Föderation",
-                "Syrien",
-                "Türkei"
+                "afghanistan",
+                "iran",
+                "iraq",
+                "russian federation",
+                "syria",
+                "turkey"
               ]
             },
-            "title": "Herkunftsland"
+            "title": "country of origin"
           }
         ]
       }

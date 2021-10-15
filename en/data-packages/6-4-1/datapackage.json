@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing",
-                "MIMEC",
-                "Services",
+                "a) agriculture, forestry and fishing (nace rev 2, section a)",
+                "b) mimec (nace rev 2, sections b, c, d, f)",
+                "c) services (nace rev 2, sections e, g to t)",
                 ""
               ]
             },
-            "title": "Economic activities"
+            "title": "economic sector"
           },
           {
             "name": "Value",

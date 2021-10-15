@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke",
-                "Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär"
+                "oda (gross disbursements) for other related purposes",
+                "oda (gross disbursements) for water and sanitation"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

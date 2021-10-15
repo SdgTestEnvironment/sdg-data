@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mountain Key Biodiversity Areas (KBAs) covered by protected areas",
-                "Mountain regions, covered by protected areas",
+                "key biodiversity areas (kbas) covered by protected areas",
+                "mountain regions, covered by protected areas",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Value",

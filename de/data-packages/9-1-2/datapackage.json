@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Millionen Personenkilometer",
-                "Millionen Tonnenkilometer"
+                "mn pkm",
+                "mn tkm"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "mode of transport",
@@ -38,15 +38,15 @@
             "constraints": {
               "enum": [
                 "",
-                "Luftverkehr",
-                "Binnenschifffahrt",
-                "Motorisierter Individualverkehr",
-                "Eisenbahnverkehr",
-                "Straßenverkehr",
-                "Rohrfernleitungen: Rohöl"
+                "commercial air transport",
+                "inland waterway transport",
+                "motorised private transport",
+                "rail transport",
+                "road transport",
+                "transport via pipeline crude oil"
               ]
             },
-            "title": "Verkehrsträger"
+            "title": "mode of transport"
           },
           {
             "name": "timeseries",
@@ -54,11 +54,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Güterverkehr",
-                "Personenverkehr"
+                "freight transports",
+                "passenger transports"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }

@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Prozent",
-                "Anzahl"
+                "%",
+                "number"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "level of risk of extinction",
@@ -38,14 +38,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Nicht gefährdet",
-                "Gefährdet",
-                "Beobachtungspopulationen",
-                "Erhaltungspopulationen",
-                "Phänotypische Erhaltungspopulationen"
+                "a) not at risk",
+                "b) at risk",
+                "b) under observation",
+                "c) breeding programs for preservation",
+                "d) rudiments remaining"
               ]
             },
-            "title": "Gefährdungskategorie"
+            "title": "level of risk of extinction"
           },
           {
             "name": "timeseries",
@@ -53,12 +53,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Gefährdungskategorie (nach FAO-Klassifikation)",
-                "Gefährdungskategorie (nach nationaler Klassifikation)",
-                "Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)"
+                "level of risk of extinction (according to fao classification)",
+                "level of risk of extinction (according to national classification)",
+                "local livestock breeds (horses, cows, pigs, sheep and goats)"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       }
