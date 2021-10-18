@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "form of abuse",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "physical abuse",
-                "psychological abuse"
+                "Körperliche Misshandlung",
+                "Psychische Misshandlung"
               ]
             },
-            "title": "form of abuse"
+            "title": "Form der Misshandlung"
           },
           {
             "name": "sex",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "female",
-                "male"
+                "Weiblich",
+                "Männlich"
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           }
         ]
       }

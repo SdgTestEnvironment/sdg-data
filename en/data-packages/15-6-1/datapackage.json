@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "no unit",
-                "number",
+                "No Unit",
+                "Number",
                 ""
               ]
             },
@@ -32,15 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "contractingparties to the international treaty on plant genetic resources for food and agriculture",
-                "parties to the nagoya protocol",
-                "countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture",
-                "countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
-                "number of standard material transfer agreements (smtas)",
+                "Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture",
+                "Parties to the Nagoya Protocol",
+                "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture",
+                "Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House",
+                "Number of Standard Material Transfer Agreements (SMTAs)",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "",
-                "%",
-                "eur/h"
+                "Prozent",
+                "EUR pro Stunde"
               ]
             },
             "title": "Units"
@@ -35,7 +35,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "region",
@@ -43,25 +43,25 @@
             "constraints": {
               "enum": [
                 "",
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "lower saxony",
-                "mecklenburg western pomerania",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia"
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Niedersachsen",
+                "Mecklenburg-Vorpommern",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen"
               ]
             },
-            "title": "region"
+            "title": "Region"
           },
           {
             "name": "sex",
@@ -69,11 +69,11 @@
             "constraints": {
               "enum": [
                 "",
-                "female",
-                "male"
+                "Weiblich",
+                "Männlich"
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           },
           {
             "name": "timeseries",
@@ -81,11 +81,11 @@
             "constraints": {
               "enum": [
                 "",
-                "average hourly earnings of employees",
-                "gender pay gap"
+                "Durchschnittlicher Stundenlohn Beschäftigter",
+                "Verdienstabstand"
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           }
         ]
       }

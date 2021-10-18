@@ -23,7 +23,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "age",
@@ -31,14 +31,14 @@
             "constraints": {
               "enum": [
                 "",
-                "18 to under 30 years",
-                "30 to under 45 years",
-                "45 to under 65 years",
-                "65 years and over",
-                "under 18 years"
+                "18 bis unter 30 Jahre",
+                "30 bis unter 45 Jahre",
+                "45 bis unter 65 Jahre",
+                "65 Jahre und älter",
+                "17 Jahre und jünger"
               ]
             },
-            "title": "age"
+            "title": "Altersklasse"
           },
           {
             "name": "disability",
@@ -46,10 +46,10 @@
             "constraints": {
               "enum": [
                 "",
-                "mobility impaired people"
+                "Menschen mit Mobilitätseinschränkung"
               ]
             },
-            "title": "disability"
+            "title": "Behinderungsstatus"
           },
           {
             "name": "region",
@@ -57,25 +57,25 @@
             "constraints": {
               "enum": [
                 "",
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "lower saxony",
-                "mecklenburg western pomerania",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia"
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Niedersachsen",
+                "Mecklenburg-Vorpommern",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen"
               ]
             },
-            "title": "region"
+            "title": "Region"
           },
           {
             "name": "sex",
@@ -83,11 +83,11 @@
             "constraints": {
               "enum": [
                 "",
-                "female",
-                "male"
+                "Weiblich",
+                "Männlich"
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           },
           {
             "name": "timeseries",
@@ -95,11 +95,11 @@
             "constraints": {
               "enum": [
                 "",
-                "population that has convenient access to public transport (within 10 minutes walking distance) (%)",
-                "population that has convenient access to public transport (within 500 meters) (%)"
+                "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)",
+                "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)"
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           }
         ]
       }

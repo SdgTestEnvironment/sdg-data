@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "economic sector",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "agriculture",
-                "forestry"
+                "Landwirtschaft",
+                "Forstwirtschaft"
               ]
             },
-            "title": "economic sector"
+            "title": "Wirtschaftszweig"
           }
         ]
       }

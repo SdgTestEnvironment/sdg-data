@@ -20,37 +20,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "severely materially deprived persons",
-                "persons at risk of poverty or social exclusion",
+                "Severely materially deprived persons",
+                "Persons at risk of poverty or social exclusion",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
+                "17 years and younger",
                 "18 to under 65 years",
-                "65 years and over",
+                "65 years and older",
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age group"
           },
           {
             "name": "Value",

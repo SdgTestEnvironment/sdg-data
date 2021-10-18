@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "sdg indicator 4-2-2",
-                "sdg indicator 4-3-1 (youth)",
-                "sdg indicator 4-3-1 (adults)",
+                "SDG indicator 4.2.2",
+                "SDG-Indicator 4.3.1 (Youths)",
+                "SDG-Indicator 4.3.1 (Adults)",
                 ""
               ]
             },
-            "title": "indicator"
+            "title": "Indicator"
           },
           {
             "name": "Value",

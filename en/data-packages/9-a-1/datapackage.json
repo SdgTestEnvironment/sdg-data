@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (gross disbursements) to infrastructure",
-                "oda (gross disbursements) to infrastructure",
+                "ODA and OOF (gross disbursements) to infrastructure",
+                "ODA (gross disbursements) to infrastructure",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "Value",

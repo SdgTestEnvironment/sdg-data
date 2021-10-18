@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population using safely managed drinking water services (%)",
-                "population connected to the public water supply system (%)",
+                "Population using safely managed drinking water services",
+                "Population connected to the public water supply system",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "Value",

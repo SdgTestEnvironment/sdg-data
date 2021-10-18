@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "feelings of insecurity in the neighbourhood",
-                "population not living in an area with crime, violence or vandalism (%)"
+                "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)",
+                "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt"
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "feelings of insecurity",
@@ -38,13 +38,13 @@
             "constraints": {
               "enum": [
                 "",
-                "safe",
-                "unsafe",
-                "very safe",
-                "very unsafe"
+                "Eher sicher",
+                "Eher unsicher",
+                "Sehr sicher",
+                "Sehr unsicher"
               ]
             },
-            "title": "feelings of insecurity"
+            "title": "Unsicherheitsgefühl"
           }
         ]
       }

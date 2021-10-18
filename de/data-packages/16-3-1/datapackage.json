@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "a) police reporting rate for physical assault (%)",
-                "c) police reporting rate for robbery (%)"
+                "Anzeigequote bei Körperverletzung",
+                "Anzeigequote bei Raub"
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           }
         ]
       }

@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "domestic material consumption (dmc)",
-                "domestic material consumption per real gdp"
+                "Inländische Materialverwendung (DMC)",
+                "Inländische Materialverwendung pro realem BIP"
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Units",
@@ -29,8 +29,8 @@
               "enum": [
                 "",
                 "2015 = 100",
-                "mn t",
-                "t per capita"
+                "Millionen Tonnen",
+                "Tonnen pro Kopf"
               ]
             },
             "title": "Units"
@@ -43,7 +43,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           }
         ]
       }

@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) diarrhoea",
-                "b) intestinal nematode infections",
-                "c) protein-energy malnutrition",
+                "a) Diarrhoea",
+                "b) Intestinal nematode infections",
+                "c) Protein-energy malnutrition",
                 ""
               ]
             },
-            "title": "type of disease"
+            "title": "Type of disease"
           },
           {
             "name": "Value",

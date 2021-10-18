@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "applications received",
-                "applications finally processed",
+                "Applications received",
+                "Applications finally processed",
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "declination",
             "type": "string",
             "constraints": {
               "enum": [
-                "admissible applications",
-                "rejected applications",
+                "Admissible applications",
+                "Rejected applications",
                 ""
               ]
             },
-            "title": "declination"
+            "title": "Outcome of the application process"
           },
           {
             "name": "Value",

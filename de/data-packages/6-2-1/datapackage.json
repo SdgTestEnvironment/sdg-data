@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "a) population using safely managed sanitation services (%)",
-                "b) population with a bathtub or a shower (%)"
+                "Bevölkerung mit einer sicher verwalteten Abwasserentsorgung",
+                "Bevölkerung mit einer Badewanne oder Dusche"
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           }
         ]
       }

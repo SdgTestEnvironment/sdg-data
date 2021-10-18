@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (gross disbursements) for poverty reduction",
-                "oda (commitments) for poverty reduction",
+                "ODA (gross disbursements) for poverty reduction",
+                "ODA (commitments) for poverty reduction",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "Value",

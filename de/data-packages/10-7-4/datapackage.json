@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "%",
-                "number"
+                "Prozent",
+                "Anzahl"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "country of origin",
@@ -38,15 +38,15 @@
             "constraints": {
               "enum": [
                 "",
-                "afghanistan",
-                "iran",
-                "iraq",
-                "russian federation",
-                "syria",
-                "turkey"
+                "Afghanistan",
+                "Iran",
+                "Irak",
+                "Russische Föderation",
+                "Syrien",
+                "Türkei"
               ]
             },
-            "title": "country of origin"
+            "title": "Herkunftsland"
           }
         ]
       }

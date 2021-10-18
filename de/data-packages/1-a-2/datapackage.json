@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "timeseries",
@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "a) government expenditure on health (cofog division 7) (%)",
-                "b) government expenditure on education (cofog division 9) (%)",
-                "c) government expenditure on social protection (cofog division 10) (%)"
+                "Staatsausgaben für Gesundheit",
+                "Staatsausgaben für Bildung",
+                "Staatsausgaben für soziale Sicherung"
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           }
         ]
       }

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
-                "number",
+                "Percentage",
+                "Number",
                 ""
               ]
             },
@@ -32,16 +32,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "afghanistan",
-                "iraq",
-                "iran",
-                "russian federation",
-                "syria",
-                "turkey",
+                "Afghanistan",
+                "Iraq",
+                "Iran",
+                "Russian Federation",
+                "Syria",
+                "Turkey",
                 ""
               ]
             },
-            "title": "country of origin"
+            "title": "Country of origin"
           },
           {
             "name": "Value",

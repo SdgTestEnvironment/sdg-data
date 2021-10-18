@@ -1,57 +1,57 @@
-Year,timeseries,type of water body,Value
-2010,sub-indicator 1: spatial extent of water-related ecosystems,,
-2011,sub-indicator 1: spatial extent of water-related ecosystems,,
-2012,sub-indicator 1: spatial extent of water-related ecosystems,,
-2013,sub-indicator 1: spatial extent of water-related ecosystems,,
-2014,sub-indicator 1: spatial extent of water-related ecosystems,,
-2015,sub-indicator 1: spatial extent of water-related ecosystems,,
-2016,sub-indicator 1: spatial extent of water-related ecosystems,,
-2017,sub-indicator 1: spatial extent of water-related ecosystems,,-0.1
-2010,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
-2011,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
-2012,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
-2013,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
-2014,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
-2015,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
-2016,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,
-2017,sub-indicator 1: spatial extent of water-related ecosystems,river water bodies,-0.7
-2010,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
-2011,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
-2012,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
-2013,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
-2014,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
-2015,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
-2016,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,
-2017,sub-indicator 1: spatial extent of water-related ecosystems,open water bodies,0.5
-2010,sub-indicator 3:  quantity discharge of water in rivers,,3.4
-2011,sub-indicator 3:  quantity discharge of water in rivers,,-1.1
-2012,sub-indicator 3:  quantity discharge of water in rivers,,-1.8
-2013,sub-indicator 3:  quantity discharge of water in rivers,,3.0
-2014,sub-indicator 3:  quantity discharge of water in rivers,,-1.6
-2015,sub-indicator 3:  quantity discharge of water in rivers,,-4.7
-2016,sub-indicator 3:  quantity discharge of water in rivers,,0.7
-2017,sub-indicator 3:  quantity discharge of water in rivers,,-2.6
-2010,sub-indicator 4: water bodies with good quality,,
-2011,sub-indicator 4: water bodies with good quality,,
-2012,sub-indicator 4: water bodies with good quality,,
-2013,sub-indicator 4: water bodies with good quality,,
-2014,sub-indicator 4: water bodies with good quality,,38.99
-2015,sub-indicator 4: water bodies with good quality,,
-2016,sub-indicator 4: water bodies with good quality,,
-2017,sub-indicator 4: water bodies with good quality,,
-2010,sub-indicator 4: water bodies with good quality,river water bodies,
-2011,sub-indicator 4: water bodies with good quality,river water bodies,
-2012,sub-indicator 4: water bodies with good quality,river water bodies,
-2013,sub-indicator 4: water bodies with good quality,river water bodies,
-2014,sub-indicator 4: water bodies with good quality,river water bodies,35.08
-2015,sub-indicator 4: water bodies with good quality,river water bodies,
-2016,sub-indicator 4: water bodies with good quality,river water bodies,
-2017,sub-indicator 4: water bodies with good quality,river water bodies,
-2010,sub-indicator 4: water bodies with good quality,open water bodies,
-2011,sub-indicator 4: water bodies with good quality,open water bodies,
-2012,sub-indicator 4: water bodies with good quality,open water bodies,
-2013,sub-indicator 4: water bodies with good quality,open water bodies,
-2014,sub-indicator 4: water bodies with good quality,open water bodies,72.41
-2015,sub-indicator 4: water bodies with good quality,open water bodies,
-2016,sub-indicator 4: water bodies with good quality,open water bodies,
-2017,sub-indicator 4: water bodies with good quality,open water bodies,
+Year,Zeitreihe,Art des Gewässers,Value
+2010,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,,
+2011,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,,
+2012,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,,
+2013,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,,
+2014,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,,
+2015,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,,
+2016,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,,
+2017,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,,-0.1
+2010,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Fließgewässer,
+2011,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Fließgewässer,
+2012,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Fließgewässer,
+2013,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Fließgewässer,
+2014,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Fließgewässer,
+2015,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Fließgewässer,
+2016,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Fließgewässer,
+2017,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Fließgewässer,-0.7
+2010,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Seen und Talsperren,
+2011,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Seen und Talsperren,
+2012,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Seen und Talsperren,
+2013,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Seen und Talsperren,
+2014,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Seen und Talsperren,
+2015,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Seen und Talsperren,
+2016,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Seen und Talsperren,
+2017,Subindikator 1: Fläche der wasserbezogenen Ökosysteme,Seen und Talsperren,0.5
+2010,Subindikator 3: Wasserabfluss über Flüsse,,3.4
+2011,Subindikator 3: Wasserabfluss über Flüsse,,-1.1
+2012,Subindikator 3: Wasserabfluss über Flüsse,,-1.8
+2013,Subindikator 3: Wasserabfluss über Flüsse,,3.0
+2014,Subindikator 3: Wasserabfluss über Flüsse,,-1.6
+2015,Subindikator 3: Wasserabfluss über Flüsse,,-4.7
+2016,Subindikator 3: Wasserabfluss über Flüsse,,0.7
+2017,Subindikator 3: Wasserabfluss über Flüsse,,-2.6
+2010,Subindikator 4: Gewässer mit guter Wasserqualität,,
+2011,Subindikator 4: Gewässer mit guter Wasserqualität,,
+2012,Subindikator 4: Gewässer mit guter Wasserqualität,,
+2013,Subindikator 4: Gewässer mit guter Wasserqualität,,
+2014,Subindikator 4: Gewässer mit guter Wasserqualität,,38.99
+2015,Subindikator 4: Gewässer mit guter Wasserqualität,,
+2016,Subindikator 4: Gewässer mit guter Wasserqualität,,
+2017,Subindikator 4: Gewässer mit guter Wasserqualität,,
+2010,Subindikator 4: Gewässer mit guter Wasserqualität,Fließgewässer,
+2011,Subindikator 4: Gewässer mit guter Wasserqualität,Fließgewässer,
+2012,Subindikator 4: Gewässer mit guter Wasserqualität,Fließgewässer,
+2013,Subindikator 4: Gewässer mit guter Wasserqualität,Fließgewässer,
+2014,Subindikator 4: Gewässer mit guter Wasserqualität,Fließgewässer,35.08
+2015,Subindikator 4: Gewässer mit guter Wasserqualität,Fließgewässer,
+2016,Subindikator 4: Gewässer mit guter Wasserqualität,Fließgewässer,
+2017,Subindikator 4: Gewässer mit guter Wasserqualität,Fließgewässer,
+2010,Subindikator 4: Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2011,Subindikator 4: Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2012,Subindikator 4: Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2013,Subindikator 4: Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2014,Subindikator 4: Gewässer mit guter Wasserqualität,Seen und Talsperren,72.41
+2015,Subindikator 4: Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2016,Subindikator 4: Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2017,Subindikator 4: Gewässer mit guter Wasserqualität,Seen und Talsperren,

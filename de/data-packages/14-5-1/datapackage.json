@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "marine key biodiversity areas (kbas) covered by protected areas (%)",
-                "protected marine area (%)"
+                "Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",
+                "Meeresfläche, die unter Schutz steht"
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           }
         ]
       }

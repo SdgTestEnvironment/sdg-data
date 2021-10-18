@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "age",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "under 1 year",
-                "under 5 years"
+                "11 Monate und jünger",
+                "4 Jahre und jünger"
               ]
             },
-            "title": "age"
+            "title": "Altersklasse"
           }
         ]
       }

@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "animal genetic resources (number)",
-                "plant genetic resources (number)",
+                "Animal genetic resources",
+                "Plant genetic resources",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

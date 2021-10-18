@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2018)",
-                "mn eur",
+                "Million USD, constant prices (2018)",
+                "Million EUR",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) oda (commitments) for biodiversity",
-                "b) environmental protection expenditure",
+                "ODA (commitments) for biodiversity",
+                "Environmental protection expenditure",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100 000 inhabitants",
-                "number",
+                "Per 100,000 inhabitants",
+                "Number",
                 ""
               ]
             },
@@ -32,27 +32,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 14 years",
+                "13 years and younger",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 60 years",
-                "60 years and over",
+                "60 years and older",
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age group"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Value",

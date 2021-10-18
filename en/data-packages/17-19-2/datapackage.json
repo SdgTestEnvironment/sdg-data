@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
-                "%",
+                "Number",
+                "Percentage",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "at least one population and housing census in the last 10 years conducted",
-                "birth registration",
-                "death registration",
+                "At least one population and housing census in the last 10 years conducted",
+                "Birth registration",
+                "Death registration",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "Value",

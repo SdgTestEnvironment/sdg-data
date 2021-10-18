@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "education level",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "b) at the end of lower primary education",
-                "c) at the end of lower secondary education"
+                "b) Am Ende der Grundschule",
+                "c) Am Ende der Sekundarstufe I"
               ]
             },
-            "title": "education level"
+            "title": "Ausbildungsgrad"
           },
           {
             "name": "subject",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "mathematics",
-                "reading"
+                "Mathematik",
+                "Lesen"
               ]
             },
-            "title": "subject"
+            "title": "Schulfach"
           }
         ]
       }

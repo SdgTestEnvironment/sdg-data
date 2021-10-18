@@ -23,7 +23,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "region",
@@ -31,25 +31,25 @@
             "constraints": {
               "enum": [
                 "",
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "lower saxony",
-                "mecklenburg western pomerania",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia"
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Niedersachsen",
+                "Mecklenburg-Vorpommern",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen"
               ]
             },
-            "title": "region"
+            "title": "Region"
           },
           {
             "name": "timeseries",
@@ -57,11 +57,11 @@
             "constraints": {
               "enum": [
                 "",
-                "organically farmed agricultural land (data from bmel)",
-                "organically farmed agricultural land (data from destatis)"
+                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)",
+                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)"
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           }
         ]
       }

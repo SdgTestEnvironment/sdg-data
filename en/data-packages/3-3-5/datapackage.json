@@ -20,30 +20,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "people requiring interventions against neglected tropical diseases",
-                "inpatient treatment of neglected tropical diseases",
+                "People requiring interventions against neglected tropical diseases",
+                "Inpatient treatment of neglected tropical diseases",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "type of disease",
             "type": "string",
             "constraints": {
               "enum": [
-                "dengue",
-                "echinococcosis",
-                "leprosy",
-                "buruli ulcer",
-                "human african trypanosomiasis",
-                "leishmaniases",
-                "rabies",
-                "yaws",
+                "Dengue",
+                "Echinococcosis",
+                "Leprosy",
+                "Buruli ulcer",
+                "Human African Trypanosomiasis",
+                "Leishmaniases",
+                "Rabies",
+                "Yaws",
                 ""
               ]
             },
-            "title": "type of disease"
+            "title": "Type of disease"
           },
           {
             "name": "Value",

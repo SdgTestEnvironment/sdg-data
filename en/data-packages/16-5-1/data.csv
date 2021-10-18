@@ -1,51 +1,51 @@
-Year,Units,sex,Series,Value
-2010,%,,population who had the impression that public officials are corruptible,
-2011,%,,population who had the impression that public officials are corruptible,
-2012,%,,population who had the impression that public officials are corruptible,
-2013,%,,population who had the impression that public officials are corruptible,
-2014,%,,population who had the impression that public officials are corruptible,
-2015,%,,population who had the impression that public officials are corruptible,4.65
-2016,%,,population who had the impression that public officials are corruptible,
-2017,%,,population who had the impression that public officials are corruptible,3.66
-2018,%,,population who had the impression that public officials are corruptible,
-2019,%,,population who had the impression that public officials are corruptible,4.67
-2010,%,female,population who had the impression that public officials are corruptible,
-2011,%,female,population who had the impression that public officials are corruptible,
-2012,%,female,population who had the impression that public officials are corruptible,
-2013,%,female,population who had the impression that public officials are corruptible,
-2014,%,female,population who had the impression that public officials are corruptible,
-2015,%,female,population who had the impression that public officials are corruptible,4.89
-2016,%,female,population who had the impression that public officials are corruptible,
-2017,%,female,population who had the impression that public officials are corruptible,3.75
-2018,%,female,population who had the impression that public officials are corruptible,
-2019,%,female,population who had the impression that public officials are corruptible,4.62
-2010,%,male,population who had the impression that public officials are corruptible,
-2011,%,male,population who had the impression that public officials are corruptible,
-2012,%,male,population who had the impression that public officials are corruptible,
-2013,%,male,population who had the impression that public officials are corruptible,
-2014,%,male,population who had the impression that public officials are corruptible,
-2015,%,male,population who had the impression that public officials are corruptible,4.36
-2016,%,male,population who had the impression that public officials are corruptible,
-2017,%,male,population who had the impression that public officials are corruptible,3.57
-2018,%,male,population who had the impression that public officials are corruptible,
-2019,%,male,population who had the impression that public officials are corruptible,4.56
-2010,%,divers,population who had the impression that public officials are corruptible,
-2011,%,divers,population who had the impression that public officials are corruptible,
-2012,%,divers,population who had the impression that public officials are corruptible,
-2013,%,divers,population who had the impression that public officials are corruptible,
-2014,%,divers,population who had the impression that public officials are corruptible,
-2015,%,divers,population who had the impression that public officials are corruptible,
-2016,%,divers,population who had the impression that public officials are corruptible,
-2017,%,divers,population who had the impression that public officials are corruptible,
-2018,%,divers,population who had the impression that public officials are corruptible,
-2019,%,divers,population who had the impression that public officials are corruptible,28.0
-2010,number,,private persons (donors) suspected in the context of corruption offences,354.0
-2011,number,,private persons (donors) suspected in the context of corruption offences,295.0
-2012,number,,private persons (donors) suspected in the context of corruption offences,163.0
-2013,number,,private persons (donors) suspected in the context of corruption offences,222.0
-2014,number,,private persons (donors) suspected in the context of corruption offences,121.0
-2015,number,,private persons (donors) suspected in the context of corruption offences,148.0
-2016,number,,private persons (donors) suspected in the context of corruption offences,
-2017,number,,private persons (donors) suspected in the context of corruption offences,
-2018,number,,private persons (donors) suspected in the context of corruption offences,
-2019,number,,private persons (donors) suspected in the context of corruption offences,
+Year,Units,Sex,Series,Value
+2010,Percentage,,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2011,Percentage,,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2012,Percentage,,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2013,Percentage,,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2014,Percentage,,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2015,Percentage,,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,4.65
+2016,Percentage,,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2017,Percentage,,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,3.66
+2018,Percentage,,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2019,Percentage,,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,4.67
+2010,Percentage,Female,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2011,Percentage,Female,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2012,Percentage,Female,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2013,Percentage,Female,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2014,Percentage,Female,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2015,Percentage,Female,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,4.89
+2016,Percentage,Female,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2017,Percentage,Female,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,3.75
+2018,Percentage,Female,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2019,Percentage,Female,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,4.62
+2010,Percentage,Male,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2011,Percentage,Male,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2012,Percentage,Male,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2013,Percentage,Male,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2014,Percentage,Male,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2015,Percentage,Male,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,4.36
+2016,Percentage,Male,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2017,Percentage,Male,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,3.57
+2018,Percentage,Male,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2019,Percentage,Male,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,4.56
+2010,Percentage,Divers,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2011,Percentage,Divers,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2012,Percentage,Divers,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2013,Percentage,Divers,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2014,Percentage,Divers,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2015,Percentage,Divers,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2016,Percentage,Divers,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2017,Percentage,Divers,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2018,Percentage,Divers,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,
+2019,Percentage,Divers,Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years,28.0
+2010,Number,,Private persons (donors) suspected in the context of corruption offences,354.0
+2011,Number,,Private persons (donors) suspected in the context of corruption offences,295.0
+2012,Number,,Private persons (donors) suspected in the context of corruption offences,163.0
+2013,Number,,Private persons (donors) suspected in the context of corruption offences,222.0
+2014,Number,,Private persons (donors) suspected in the context of corruption offences,121.0
+2015,Number,,Private persons (donors) suspected in the context of corruption offences,148.0
+2016,Number,,Private persons (donors) suspected in the context of corruption offences,
+2017,Number,,Private persons (donors) suspected in the context of corruption offences,
+2018,Number,,Private persons (donors) suspected in the context of corruption offences,
+2019,Number,,Private persons (donors) suspected in the context of corruption offences,

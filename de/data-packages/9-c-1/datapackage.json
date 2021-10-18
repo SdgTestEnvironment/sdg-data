@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "technology",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "3g",
-                "lte"
+                "3G",
+                "LTE"
               ]
             },
-            "title": "technology"
+            "title": "Technologie"
           }
         ]
       }

@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "%",
-                "number"
+                "Prozent",
+                "Anzahl"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           }
         ]
       }

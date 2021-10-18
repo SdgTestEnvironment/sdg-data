@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "greater 10 percentage",
-                "greater 25 percentage",
+                "Greater 10 %",
+                "Greater 25 %",
                 ""
               ]
             },
-            "title": "household expenditures on health"
+            "title": "Household expenditures on health"
           },
           {
             "name": "Value",

@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) drugs",
-                "b) alcohol and other psychoactive substances",
+                "Drugs",
+                "Alcohol and other psychoactive substances",
                 ""
               ]
             },
-            "title": "substance"
+            "title": "Substance"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
-                "unknown",
+                "Female",
+                "Male",
+                "Unknown",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Value",

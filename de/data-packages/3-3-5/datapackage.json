@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "inpatient treatment of neglected tropical diseases",
-                "people requiring interventions against neglected tropical diseases"
+                "Stationäre Behandlung bei vernachlässigten Tropenkrankheiten",
+                "Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten"
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           },
           {
             "name": "type of disease",
@@ -38,17 +38,17 @@
             "constraints": {
               "enum": [
                 "",
-                "buruli ulcer",
-                "dengue",
-                "echinococcosis",
-                "human african trypanosomiasis",
-                "leishmaniases",
-                "leprosy",
-                "rabies",
-                "yaws"
+                "Buruli-Ulkus",
+                "Dengue",
+                "Echinokokkose",
+                "Afrikanische Trypanosomiasis",
+                "Leishmaniose",
+                "Lepra",
+                "Tollwut",
+                "Frambösie"
               ]
             },
-            "title": "type of disease"
+            "title": "Art der Erkrankung"
           }
         ]
       }

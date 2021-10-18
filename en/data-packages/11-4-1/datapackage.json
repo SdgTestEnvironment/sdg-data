@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "goverment expenditure on protection of biodiversity and landscape (cofog division 5.4) (bn eur)",
-                "goverment expenditure on cultural services (cofog division 8.2) (bn eur)",
+                "Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)",
+                "Government expenditure on cultural services (COFOG division 8.2)",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "Value",

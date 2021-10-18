@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "area of law",
@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "area 1 overarching legal frameworks and public life",
-                "area 2 violence against women",
-                "area 3 employment and economic benefits",
-                "area 4 marriage and family"
+                "Area 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben",
+                "Area 2: Gewalt gegen Frauen",
+                "Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen",
+                "Area 4: Ehe und Familie"
               ]
             },
-            "title": "area of law"
+            "title": "Rechtsgebiet"
           }
         ]
       }

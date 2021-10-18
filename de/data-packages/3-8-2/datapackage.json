@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "household expenditures on health",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "greater 10 percentage",
-                "greater 25 percentage"
+                "Größer 10 %",
+                "Größer 25 %"
               ]
             },
-            "title": "household expenditures on health"
+            "title": "Haushaltsausgaben für Gesundheit"
           }
         ]
       }

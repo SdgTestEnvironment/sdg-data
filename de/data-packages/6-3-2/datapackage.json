@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "type of water body",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "open water bodies",
-                "river water bodies"
+                "Seen und Talsperren",
+                "Fließgewässer"
               ]
             },
-            "title": "type of water body"
+            "title": "Art des Gewässers"
           }
         ]
       }

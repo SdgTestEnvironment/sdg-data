@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "standard accounting system",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "seea tables",
-                "tsa tables"
+                "SEEA Tabellen",
+                "TSA Tabellen"
               ]
             },
-            "title": "standard accounting system"
+            "title": "Standard Gesamtrechnungssystem"
           }
         ]
       }

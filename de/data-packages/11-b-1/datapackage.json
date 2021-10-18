@@ -28,7 +28,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "timeseries",
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           }
         ]
       }

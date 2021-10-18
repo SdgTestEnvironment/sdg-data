@@ -20,38 +20,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population that has convenient access to public transport (within 500 meters) (%)",
-                "population that has convenient access to public transport (within 10 minutes walking distance) (%)",
+                "Population that has convenient access to public transport (within 500 meters)",
+                "Population that has convenient access to public transport (within 10 minutes walking distance)",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
+                "Baden-Württemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "region"
+            "title": "Region"
           },
           {
             "name": "GeoCode",
@@ -63,38 +63,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mobility impaired people",
+                "Mobility impaired people",
                 ""
               ]
             },
-            "title": "disability"
+            "title": "Disability status"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
+                "17 years and younger",
                 "18 to under 30 years",
                 "30 to under 45 years",
                 "45 to under 65 years",
-                "65 years and over",
+                "65 years and older",
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age group"
           },
           {
             "name": "Value",

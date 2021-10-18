@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) population using safely managed sanitation services (%)",
-                "b) population with a bathtub or a shower (%)",
+                "Population using safely managed sanitation services",
+                "Population with a bathtub or a shower",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "Value",

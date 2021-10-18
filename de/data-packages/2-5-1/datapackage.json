@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "animal genetic resources (number)",
-                "plant genetic resources (number)"
+                "Tiergenetische Ressourcen",
+                "Pflanzengenetische Ressourcen"
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           }
         ]
       }

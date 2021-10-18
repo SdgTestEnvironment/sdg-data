@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "key biodiversity areas (kbas) covered by protected areas",
-                "mountain regions, covered by protected areas"
+                "Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",
+                "Flächen in Gebirgen, die unter Schutz stehen"
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           }
         ]
       }

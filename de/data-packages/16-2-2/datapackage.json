@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "number",
-                "per 100 000 inhabitants"
+                "Anzahl",
+                "Je 100 000 Einwohner/ -innen"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "age",
@@ -38,15 +38,15 @@
             "constraints": {
               "enum": [
                 "",
-                "14 to under 18 years",
-                "18 to under 21 years",
-                "21 to under 25 years",
-                "25 years and over",
-                "under 14 years",
-                "unknown age"
+                "14 bis unter 18 Jahre",
+                "18 bis unter 21 Jahre",
+                "21 bis unter 25 Jahre",
+                "25 Jahre und älter",
+                "13 Jahre und jünger",
+                "Alter unbekannt"
               ]
             },
-            "title": "age"
+            "title": "Altersklasse"
           },
           {
             "name": "form of exploitation",
@@ -54,11 +54,11 @@
             "constraints": {
               "enum": [
                 "",
-                "exploitation of labour",
-                "sexual exploitation"
+                "Ausbeutung der Arbeitskraft",
+                "Sexuelle Ausbeutung"
               ]
             },
-            "title": "form of exploitation"
+            "title": "Form der Ausbeutung"
           },
           {
             "name": "sex",
@@ -66,12 +66,12 @@
             "constraints": {
               "enum": [
                 "",
-                "female",
-                "male",
-                "unknown"
+                "Weiblich",
+                "Männlich",
+                "Unbekannt"
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           }
         ]
       }

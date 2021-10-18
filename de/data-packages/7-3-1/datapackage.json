@@ -17,7 +17,7 @@
               "enum": [
                 "",
                 "2015 = 100",
-                "mj/eur"
+                "Megajoule pro EUR"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           }
         ]
       }

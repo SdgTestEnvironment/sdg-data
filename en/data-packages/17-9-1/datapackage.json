@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments) for capacity building and national planning (without south-south cooperation)",
-                "oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperation)",
+                "ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)",
+                "ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "Value",

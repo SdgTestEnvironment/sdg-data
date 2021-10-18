@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "age of mother",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "10 to under 15 years",
-                "15 to under 20 years"
+                "10 bis unter 15 Jahre",
+                "15 bis unter 20 Jahre"
               ]
             },
-            "title": "age of mother"
+            "title": "Alter der Mutter"
           }
         ]
       }

@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "timeseries",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "at-risk-of-poverty rate (according to eurostat definition) (%)",
-                "c) government expenditure on social protection (cofog division 10) (%)"
+                "Armutsgefährdungsquote",
+                "Staatsausgaben für soziale Sicherung"
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           }
         ]
       }

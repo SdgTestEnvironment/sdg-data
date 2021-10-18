@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "raw material consumption (rmc)",
-                "raw material consumption per real gdp"
+                "Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)",
+                "Inländische Rohstoffverwendung pro realem BIP"
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Units",
@@ -29,8 +29,8 @@
               "enum": [
                 "",
                 "2015 = 100",
-                "mn t",
-                "t per capita"
+                "Millionen Tonnen",
+                "Tonnen pro Kopf"
               ]
             },
             "title": "Units"
@@ -43,7 +43,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           }
         ]
       }

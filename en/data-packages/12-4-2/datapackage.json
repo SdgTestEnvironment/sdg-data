@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg per capita",
-                "%",
+                "Kilogram per capita",
+                "Percentage",
                 ""
               ]
             },
@@ -32,26 +32,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) hazardous waste generated per capita",
-                "b) hazardous waste treated",
+                "Hazardous waste generated per capita",
+                "Hazardous waste treated",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "type of waste treatment",
             "type": "string",
             "constraints": {
               "enum": [
-                "energy recovery",
-                "incineration",
-                "recovery other than energy recovery",
-                "deposit onto or into land and land treatment and release into water bodies",
+                "Energy recovery",
+                "Incineration",
+                "Recovery other than energy recovery",
+                "Deposit onto or into land and land treatment and release into water bodies",
                 ""
               ]
             },
-            "title": "type of waste treatment"
+            "title": "Type of waste treatment"
           },
           {
             "name": "Value",

@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "age",
@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "18 to under 65 years",
-                "65 years and over",
-                "under 18 years"
+                "18 bis unter 65 Jahre",
+                "65 Jahre und älter",
+                "17 Jahre und jünger"
               ]
             },
-            "title": "age"
+            "title": "Altersklasse"
           },
           {
             "name": "sex",
@@ -39,11 +39,11 @@
             "constraints": {
               "enum": [
                 "",
-                "female",
-                "male"
+                "Weiblich",
+                "Männlich"
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           }
         ]
       }

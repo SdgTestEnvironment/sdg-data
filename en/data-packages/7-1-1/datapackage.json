@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
-                "1 000",
+                "Percentage",
+                "1,000",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population with access to electricity",
-                "households and small-sized enterprises connected to the electricity network",
+                "Population with access to electricity",
+                "Households and small-sized enterprises connected to the electricity network",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "Value",

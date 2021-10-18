@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "current tobacco use among persons aged 15 years and older (%)",
-                "current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%)",
+                "Current tobacco use among persons aged 15 years and older",
+                "Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Value",

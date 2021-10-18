@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (gross disbursements) for water and sanitation",
-                "oda (gross disbursements) for other related purposes",
+                "ODA (gross disbursements) for water and sanitation",
+                "ODA (gross disbursements) for other related purposes",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "Value",

@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "type of account",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "current accounts",
-                "online accounts"
+                "Girokonten",
+                "Online-Konten"
               ]
             },
-            "title": "type of account"
+            "title": "Kontenart"
           }
         ]
       }

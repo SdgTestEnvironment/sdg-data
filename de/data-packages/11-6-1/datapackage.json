@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "%",
-                "1 000 t"
+                "Prozent",
+                "1 000 Tonnen"
               ]
             },
             "title": "Units"
@@ -30,7 +30,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "timeseries",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "municipal solid waste regularly collected and treated",
-                "total municipal solid waste generated"
+                "Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden",
+                "Siedlungsabfälle insgesamt"
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           }
         ]
       }

@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "co2 emission per real gdp",
-                "co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010))",
+                "CO<sub>2</sub> emissions per real GDP",
+                "CO<sub>2</sub> emissions per gross value added (price adjusted) in manufacturing industries",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "Value",

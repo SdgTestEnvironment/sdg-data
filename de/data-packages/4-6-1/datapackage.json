@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -18,7 +18,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "level of proficiency",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "minimum requirement level i",
-                "minimum requirement level ii"
+                "Mindestniveau Stufe I",
+                "Mindestniveau Stufe II"
               ]
             },
-            "title": "level of proficiency"
+            "title": "Leistungsniveau"
           },
           {
             "name": "skill",
@@ -38,11 +38,11 @@
             "constraints": {
               "enum": [
                 "",
-                "a) literacy skills",
-                "b) numeracy skills"
+                "a) Lesen",
+                "b) Rechnen"
               ]
             },
-            "title": "skill"
+            "title": "Fähigkeit"
           }
         ]
       }
