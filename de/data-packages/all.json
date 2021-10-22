@@ -165,18 +165,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -188,6 +176,18 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -1127,8 +1127,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "17 Jahre und jünger",
                 "14 Jahre und jünger",
+                "17 Jahre und jünger",
                 ""
               ]
             },
@@ -1885,19 +1885,6 @@
             "title": "Units"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                "Unbekannt",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -1912,6 +1899,19 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                "Unbekannt",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "form of exploitation",
@@ -2340,18 +2340,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -2365,6 +2353,18 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -8225,18 +8225,6 @@
             "title": "Behinderungsstatus"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -8250,6 +8238,18 @@
               ]
             },
             "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",

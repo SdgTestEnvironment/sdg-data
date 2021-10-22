@@ -152,17 +152,6 @@
             }
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -170,6 +159,17 @@
                 "under 18 years",
                 "18 to under 65 years",
                 "65 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -1035,8 +1035,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
                 "under 15 years",
+                "under 18 years",
                 ""
               ]
             }
@@ -1730,18 +1730,6 @@
             }
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                "unknown",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -1752,6 +1740,18 @@
                 "21 to under 25 years",
                 "25 years and over",
                 "unknown age",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                "unknown",
                 ""
               ]
             }
@@ -2148,17 +2148,6 @@
             }
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -2168,6 +2157,17 @@
                 "18 to under 21 years",
                 "21 to under 60 years",
                 "60 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -7550,17 +7550,6 @@
             }
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -7570,6 +7559,17 @@
                 "30 to under 45 years",
                 "45 to under 65 years",
                 "65 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
