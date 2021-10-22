@@ -2395,10 +2395,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ärzte",
-                "Zahnärzte",
-                "Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe",
                 "Apotheker",
+                "Ärzte",
+                "Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe",
+                "Zahnärzte",
                 ""
               ]
             },
