@@ -11,23 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Anteil der Stellen von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung",
-                "Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung"
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -37,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten",
+                "Polizei",
                 "Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",
                 "Gesundheit, Umwelt, Sport und Erholung",
-                "Polizei",
-                "Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten"
+                ""
               ]
             },
             "title": "Aufgabenbereiche"
@@ -51,13 +34,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Oberste/Verfassungsgerichte",
                 "Übergeordnete Gerichte",
                 "Untergeordnete Gerichte",
-                "Oberste/Verfassungsgerichte"
+                ""
               ]
             },
             "title": "Gerichtsebene"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anteil der Stellen von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung",
+                "Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

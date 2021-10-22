@@ -11,38 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Weiblich",
-                "Männlich"
-              ]
-            },
-            "title": "Geschlecht"
           },
           {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Tabakkonsum in der Bevölkerung ab 15 Jahren",
-                "Tabakkonsum in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)"
+                "Tabakkonsum in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)",
+                ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

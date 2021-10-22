@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -25,12 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Wachstumsrate des Nettoäquivalenzeinkommens der gesamten Bevölkerung",
                 "Wachstumsrate des Nettoäquivalenzeinkommens der ärmsten 40 Prozent der Bevölkerung",
-                "Wachstumsrate des Nettoäquivalenzeinkommens der gesamten Bevölkerung"
+                ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

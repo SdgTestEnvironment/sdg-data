@@ -11,54 +11,54 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Prozent",
-                "Anzahl"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "level of risk of extinction",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Nicht gefährdet",
-                "Gefährdet",
-                "Beobachtungspopulationen",
-                "Erhaltungspopulationen",
-                "Phänotypische Erhaltungspopulationen"
+                "Prozent",
+                "Anzahl",
+                ""
               ]
             },
-            "title": "Gefährdungskategorie"
+            "title": "Units"
           },
           {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Gefährdungskategorie (nach FAO-Klassifikation)",
+                "Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",
                 "Gefährdungskategorie (nach nationaler Klassifikation)",
-                "Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)"
+                ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "level of risk of extinction",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gefährdet",
+                "Nicht gefährdet",
+                "Beobachtungspopulationen",
+                "Erhaltungspopulationen",
+                "Phänotypische Erhaltungspopulationen",
+                ""
+              ]
+            },
+            "title": "Gefährdungskategorie"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

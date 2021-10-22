@@ -11,51 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
-                "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten"
-              ]
-            },
-            "title": "Zeitreihe"
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Prozent",
-                "Anzahl"
+                "Anzahl",
+                ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Divers",
                 "Weiblich",
-                "Männlich"
+                "Männlich",
+                "Divers",
+                ""
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
+                "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

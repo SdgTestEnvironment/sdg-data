@@ -11,23 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)",
-                "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt"
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -37,14 +20,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Sehr sicher",
                 "Eher sicher",
                 "Eher unsicher",
-                "Sehr sicher",
-                "Sehr unsicher"
+                "Sehr unsicher",
+                ""
               ]
             },
             "title": "Unsicherheitsgefühl"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)",
+                "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

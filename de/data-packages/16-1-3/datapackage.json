@@ -11,66 +11,66 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Prozent",
-                "Anzahl"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "14 bis unter 18 Jahre",
-                "18 bis unter 21 Jahre",
-                "21 bis unter 60 Jahre",
-                "60 Jahre und älter",
-                "13 Jahre und jünger"
+                "Prozent",
+                "Anzahl",
+                ""
               ]
             },
-            "title": "Altersklasse"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Weiblich",
-                "Männlich"
-              ]
-            },
-            "title": "Geschlecht"
+            "title": "Units"
           },
           {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Bevölkerung, die körperlicher Gewalt ausgesetzt war",
                 "Bevölkerung, die Opfer einer Straftat war",
-                "Opfer von Straftaten"
+                "Opfer von Straftaten",
+                ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13 Jahre und jünger",
+                "14 bis unter 18 Jahre",
+                "18 bis unter 21 Jahre",
+                "21 bis unter 60 Jahre",
+                "60 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }
