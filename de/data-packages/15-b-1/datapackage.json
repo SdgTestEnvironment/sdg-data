@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Millionen USD, konstante Preise (2018)",
-                "Millionen EUR",
+                "Millionen USD, konstante Preise (2019)",
                 ""
               ]
             },
@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Zusagen (ODA) für Biodiversität",
-                "Umweltschutzausgaben",
+                "Bruttoentwicklungsausgaben (ODA) für den Forstsektor",
                 ""
               ]
             },

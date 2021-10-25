@@ -852,20 +852,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit",
-                "Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit",
-                "Anteil der Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden",
-                "Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5728,7 +5714,7 @@
             "constraints": {
               "enum": [
                 "Millionen USD, konstante Preise (2018)",
-                "Millionen EUR",
+                "Millionen USD, konstante Preise (2019)",
                 ""
               ]
             },
@@ -5740,7 +5726,7 @@
             "constraints": {
               "enum": [
                 "Zusagen (ODA) für Biodiversität",
-                "Umweltschutzausgaben",
+                "Bruttoentwicklungsausgaben (ODA) für den Forstsektor",
                 ""
               ]
             },
