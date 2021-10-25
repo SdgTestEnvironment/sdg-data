@@ -22,7 +22,8 @@
               "enum": [
                 "Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit",
                 "Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit",
-                "Anteil von Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden",
+                "Anteil der Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden",
+                "Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit",
                 ""
               ]
             },
@@ -30,7 +31,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
