@@ -2990,7 +2990,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen USD, konstante Preise (2018)",
+                "Millionen USD, konstante Preise (2019)",
                 "Millionen EUR",
                 ""
               ]
@@ -3003,6 +3003,7 @@
             "constraints": {
               "enum": [
                 "Zusagen (ODA) für Biodiversität",
+                "Auszahlungen (ODA) für Biodiversität",
                 "Umweltschutzausgaben",
                 ""
               ]
@@ -5709,23 +5710,12 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millionen USD, konstante Preise (2018)",
-                "Millionen USD, konstante Preise (2019)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Zusagen (ODA) für Biodiversität",
+                "Auszahlungen (ODA) für Biodiversität",
                 "Bruttoentwicklungsausgaben (ODA) für den Forstsektor",
                 ""
               ]
@@ -8299,20 +8289,41 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "(1) a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden",
+                "(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020",
+                "(2) Online-Umfrage zu politischen Reaktionen, Mandat, rechtlichen Befugnissen und Ressourcen für den Umgang mit der Bedrohung durch invasive gebietsfremde Arten",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "legislation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Übereinkommen über die biologische Vielfalt",
+                "Cartagena-Protokoll",
+                "Internationales Pflanzenschutzübereinkommen",
+                "Übereinkommen über gesundheitspolizeiliche und pflanzenschutzrechtliche Maßnahmen der Welthandelsorganisation",
+                "Weltorganisation für Tiergesundheit",
+                "Übereinkommenüber den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen",
+                "Ramsar-Konvention",
+                "Übereinkommen zur Erhaltung wandernder wild lebender Tierarten",
+                "Welterbekonvention",
+                "Ballastwasser-Übereinkommen",
+                ""
+              ]
+            },
+            "title": "Rechtsvorschrift"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

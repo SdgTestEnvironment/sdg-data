@@ -2990,7 +2990,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million USD, constant prices (2018)",
+                "Million USD, constant prices (2019)",
                 "Million EUR",
                 ""
               ]
@@ -3003,6 +3003,7 @@
             "constraints": {
               "enum": [
                 "ODA (commitments) for biodiversity",
+                "ODA (disbursements) for biodiversity",
                 "Environmental protection expenditure",
                 ""
               ]
@@ -5709,23 +5710,12 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million USD, constant prices (2018)",
-                "Million USD, constant prices (2019)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "ODA (commitments) for biodiversity",
+                "ODA (disbursements) for biodiversity",
                 "ODA (gross disbursements) to the forestry sector",
                 ""
               ]
@@ -7183,8 +7173,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Escherichia coli with resistance to 3rd generation cephalosporins (e.g. ESBL- E. coli)",
-                "Methicillin-resistant Staphylococcus aureus (MRSA)",
+                "Escherichia coli, 3GCR",
+                "Staphylococcus aureus, MR",
                 ""
               ]
             },
@@ -8299,20 +8289,41 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control",
+                "(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020",
+                "(2) Online survey on Policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Time series"
+          },
+          {
+            "name": "legislation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Convention on Biological Diversity",
+                "Cartagena Protocol",
+                "International Plant Protection Convention",
+                "Agreement on Sanitary and Phytosanitary Measures of the World Trade Organisation",
+                "World Organisation for Animal Health",
+                "Convention on International Trade in Endangered Species",
+                "Ramsar Convention",
+                "Convention on the Conservation of Migratory Species of Wild Animals",
+                "World Heritage Convention",
+                "International Convention for the Control and Management of Ship's Ballast Water and Sediments",
+                ""
+              ]
+            },
+            "title": "Legislation"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
