@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "housing conditions",
-                "housing deprivation",
-                ""
-              ]
-            }
-          },
-          {
             "name": "typification",
             "type": "string",
             "constraints": {
@@ -49,7 +38,7 @@
             }
           },
           {
-            "name": "Series",
+            "name": "xx",
             "type": "string",
             "constraints": {
               "enum": [
@@ -59,6 +48,17 @@
                 "population that has neither a bath, nor a shower in their home",
                 "population that does not have a toilet for the sole use of their household",
                 "population that considers their accommodation too dark",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wohnverhältnisse",
+                "Deprivation der Unterkunft",
                 ""
               ]
             }
