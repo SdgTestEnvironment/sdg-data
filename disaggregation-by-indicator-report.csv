@@ -11,7 +11,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-7-2,domain,1
 #10-7-4,country of origin,1
 #10-b-1,type of flow,1
-#11-1-1,"sex, typification",2
+#11-1-1,"sex, typification, timesereis",3
 #11-2-1,"timeseries, age, sex, region, disability",5
 #11-3-1,timeseries,1
 #11-4-1,timeseries,1

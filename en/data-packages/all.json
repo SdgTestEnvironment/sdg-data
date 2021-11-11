@@ -7055,7 +7055,7 @@
             "title": "Sex"
           },
           {
-            "name": "Series",
+            "name": "timesereis",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7065,6 +7065,18 @@
                 "Population that has neither a bath, nor a shower in their home",
                 "Population that does not have a toilet for the sole use of their household",
                 "Population that considers their accommodation too dark",
+                ""
+              ]
+            },
+            "title": "timesereis"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wohnverhältnisse",
+                "Deprivation der Unterkunft",
                 ""
               ]
             },
