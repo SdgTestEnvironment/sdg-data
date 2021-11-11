@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wohnverhältnisse",
+                "Deprivation der Unterkunft",
+                ""
+              ]
+            },
+            "title": "series"
+          },
+          {
             "name": "typification",
             "type": "string",
             "constraints": {
@@ -41,7 +53,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "timesereis",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -51,18 +63,6 @@
                 "Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",
                 "Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",
                 "Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
-                ""
-              ]
-            },
-            "title": "timesereis"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wohnverhältnisse",
-                "Deprivation der Unterkunft",
                 ""
               ]
             },

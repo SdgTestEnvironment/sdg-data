@@ -32,6 +32,7 @@ profession,1,4
 region,6,17
 sea,1,2
 sector,1,2
+series,1,2
 sex,27,4
 skill,1,2
 speed,1,5
@@ -42,7 +43,6 @@ technology sectors,1,2
 technology,1,2
 thematic area,1,4
 time series,1,2
-timesereis,1,6
 timeseries,56,140
 treatment,1,1
 type of account,1,2

@@ -7030,6 +7030,18 @@
             "title": "Year"
           },
           {
+            "name": "series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Housing conditions",
+                "Housing deprivation",
+                ""
+              ]
+            },
+            "title": "series"
+          },
+          {
             "name": "typification",
             "type": "string",
             "constraints": {
@@ -7055,7 +7067,7 @@
             "title": "Sex"
           },
           {
-            "name": "timesereis",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7065,18 +7077,6 @@
                 "Population that has neither a bath, nor a shower in their home",
                 "Population that does not have a toilet for the sole use of their household",
                 "Population that considers their accommodation too dark",
-                ""
-              ]
-            },
-            "title": "timesereis"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wohnverhältnisse",
-                "Deprivation der Unterkunft",
                 ""
               ]
             },
@@ -8053,7 +8053,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Carbon balance for the forest ecosystem above ground",
+                "Above-ground biomass stock in forest",
                 "Forest area located within protected areas",
                 "Forest area net change rate",
                 "Forest area under an independently verified forest management certification scheme",
