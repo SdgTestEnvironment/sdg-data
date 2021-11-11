@@ -7030,15 +7030,41 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "typification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Population living in households with moisture damages",
-                "Population considering their dwelling as too dark",
-                "Population living in an area with crime, violence or vandalism",
-                "Population living in an area with noise pollution",
-                "Material deprivation for the housing dimension, total (1-4 items)",
+                "Cities",
+                "Smaller towns and suburbs",
+                "Rural areas",
+                ""
+              ]
+            },
+            "title": "Typification"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Overcrowding rate",
+                "Rate of overburdening by housing costs",
+                "Population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor",
+                "Population that has neither a bath, nor a shower in their home",
+                "Population that does not have a toilet for the sole use of their household",
+                "Population that considers their accommodation too dark",
                 ""
               ]
             },
@@ -8121,12 +8147,12 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "ODA (commitments) for biodiversity",
-                "ODA (disbursements) for biodiversity",
+                "ODA (gross disbursements) for biodiversity",
                 "ODA (gross disbursements) to the forestry sector",
                 ""
               ]
@@ -8281,7 +8307,7 @@
             "constraints": {
               "enum": [
                 "ODA (commitments) for biodiversity",
-                "ODA (disbursements) for biodiversity",
+                "ODA (gross disbursements) for biodiversity",
                 "Environmental protection expenditure",
                 ""
               ]
@@ -9395,7 +9421,7 @@
           }
         ]
       },
-      "title": "Anzahl der Katastrophen zugeschriebenen Todesopfer, vermissten Personen und direkt betroffenen Personen  je 100&nbsp;000 Einwohner/ -innen"
+      "title": "Anzahl der Katastrophen zugeschriebenen Todesopfer, vermissten Personen und direkt betroffenen Personen je 100&nbsp;000 Einwohner/ -innen"
     },
     {
       "path": "13-1-3/data.csv",

@@ -2,7 +2,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 a) branches of payment service providers (per 100 000 adults),1,1
 a) government expenditure on health (cofog division 7) (%),1,1
 a) hazardous waste generated per capita,1,1
-a) oda (commitments) for biodiversity,1,1
+a) oda (commitments) for biodiversity,2,2
 a) police reporting rate for physical assault (%),1,1
 a) population using safely managed sanitation services (%),1,1
 above-ground biomass stock in forest,1,1
@@ -17,11 +17,12 @@ average hourly earnings of employees,3,1
 b) atms of national payment service providers (per 100 000 adults),1,1
 b) government expenditure on education (cofog division 9) (%),1,1
 b) hazardous waste treated,5,1
-b) oda (disbursements) for biodiversity,1,1
+b) oda (disbursements) for biodiversity,2,2
 b) population with a bathtub or a shower (%),1,1
 birth registration,1,1
 c) environmental protection expenditure,1,1
 c) government expenditure on social protection (cofog division 10) (%),2,2
+c) oda (gross disbursements) to the forestry sector,1,1
 c) police reporting rate for robbery (%),1,1
 capital to assets ratio (%),1,1
 child deliveries in hospitals,1,1
@@ -69,7 +70,6 @@ liquid assets to short-term liabilities (%),1,1
 live births total,1,1
 "local livestock breeds (horses, cows, pigs, sheep and goats)",1,1
 marine key biodiversity areas (kbas) covered by protected areas (%),1,1
-material deprivation for the housing dimension,1,1
 measles vaccination rate at sschool entrance,1,1
 mobile penetration rate,1,1
 "mountain regions, covered by protected areas",1,1
@@ -104,12 +104,8 @@ persons employed,1,1
 physical harassment,18,1
 pneumococcal vaccination rate at school entrance,1,1
 population connected to the public water supply system (%),1,1
-population considering their dwelling as too dark,1,1
 population covered by health insurance (%),1,1
 population growth rate,1,1
-"population living in an area with crime, violence or vandalism",1,1
-population living in an area with noise pollution,1,1
-population living in households with moisture damages,1,1
 population subjected to physical violence,1,1
 population that has convenient access to public transport (within 10 minutes walking distance) (%),9,1
 population that has convenient access to public transport (within 500 meters) (%),17,1

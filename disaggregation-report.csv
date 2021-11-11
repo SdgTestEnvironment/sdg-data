@@ -32,7 +32,7 @@ profession,1,4
 region,6,17
 sea,1,2
 sector,1,2
-sex,26,4
+sex,27,4
 skill,1,2
 speed,1,5
 standard accounting system,1,2
@@ -42,7 +42,7 @@ technology sectors,1,2
 technology,1,2
 thematic area,1,4
 time series,1,2
-timeseries,56,144
+timeseries,56,140
 treatment,1,1
 type of account,1,2
 type of disease,3,15
@@ -51,3 +51,4 @@ type of waste treatment,1,4
 type of waste water,1,2
 type of waste,1,2
 type of water body,1,2
+typification,1,3
