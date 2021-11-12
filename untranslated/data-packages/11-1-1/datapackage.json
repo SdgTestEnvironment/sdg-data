@@ -15,24 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "typification",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "cities",
-                "smaller towns and suburbs",
-                "rural areas",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
+                "Wohnverhältnisse",
+                "Deprivation der Unterkunft",
                 ""
               ]
             }
@@ -53,12 +41,24 @@
             }
           },
           {
-            "name": "Series",
+            "name": "typification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wohnverhältnisse",
-                "Deprivation der Unterkunft",
+                "cities",
+                "smaller towns and suburbs",
+                "rural areas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }

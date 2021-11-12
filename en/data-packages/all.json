@@ -7030,6 +7030,34 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wohnverhältnisse",
+                "Deprivation der Unterkunft",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "xx",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Overcrowding rate",
+                "Rate of overburdening by housing costs",
+                "Population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor",
+                "Population that has neither a bath, nor a shower in their home",
+                "Population that does not have a toilet for the sole use of their household",
+                "Population that considers their accommodation too dark",
+                ""
+              ]
+            },
+            "title": "xx"
+          },
+          {
             "name": "typification",
             "type": "string",
             "constraints": {
@@ -7053,34 +7081,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "xx",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Overcrowding rate",
-                "Rate of overburdening by housing costs",
-                "Population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor",
-                "Population that has neither a bath, nor a shower in their home",
-                "Population that does not have a toilet for the sole use of their household",
-                "Population that considers their accommodation too dark",
-                ""
-              ]
-            },
-            "title": "xx"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wohnverhältnisse",
-                "Deprivation der Unterkunft",
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "Value",
