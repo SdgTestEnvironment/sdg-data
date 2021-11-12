@@ -6108,6 +6108,7 @@
             "constraints": {
               "enum": [
                 "total wastewater produced from public and non-public disposal",
+                "cooling water",
                 ""
               ]
             }

@@ -33,6 +33,7 @@
             "constraints": {
               "enum": [
                 "Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung",
+                "Kühlwasser",
                 ""
               ]
             },
