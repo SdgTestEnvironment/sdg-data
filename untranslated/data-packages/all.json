@@ -6465,7 +6465,7 @@
             }
           },
           {
-            "name": "xx",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [

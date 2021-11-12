@@ -95,6 +95,7 @@ oda (gross disbursements) to infrastructure,1,1
 "online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species",1,1
 organically farmed agricultural land (data from bmel),1,1
 organically farmed agricultural land (data from destatis),17,1
+overcrowding rate,3,1
 overweight among children under the age of 5 years (%),3,1
 owned and leased agricultural land,3,1
 passenger transports,5,1
@@ -106,9 +107,13 @@ pneumococcal vaccination rate at school entrance,1,1
 population connected to the public water supply system (%),1,1
 population covered by health insurance (%),1,1
 population growth rate,1,1
+"population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor",3,1
 population subjected to physical violence,1,1
+population that considers their accommodation too dark,3,1
+population that does not have a toilet for the sole use of their household,3,1
 population that has convenient access to public transport (within 10 minutes walking distance) (%),9,1
 population that has convenient access to public transport (within 500 meters) (%),17,1
+"population that has neither a bath, nor a shower in their home",3,1
 population using safely managed drinking water services (%),1,1
 population who were victims of criminal offences,1,1
 population with access to electricity,1,1
@@ -121,6 +126,7 @@ proportion of oda (net disbursements) to gni,1,1
 proportion of settlement and transport areas to population,1,1
 protected marine area (%),1,1
 protected terrestrial areas (%),1,1
+rate of overburdening by housing costs,3,1
 ratio of land consumption rate to population growth rate,1,1
 real gdp per capita,1,1
 recycled waste,2,1

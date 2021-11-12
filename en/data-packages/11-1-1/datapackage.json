@@ -28,7 +28,7 @@
             "title": "Time series"
           },
           {
-            "name": "xx",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,7 +41,7 @@
                 ""
               ]
             },
-            "title": "xx"
+            "title": "Time series"
           },
           {
             "name": "typification",
