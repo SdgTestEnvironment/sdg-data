@@ -7030,18 +7030,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wohnverhältnisse",
-                "Deprivation der Unterkunft",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
@@ -7056,6 +7044,18 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wohnverhältnisse",
+                "Deprivation der Unterkunft",
+                ""
+              ]
+            },
+            "title": "series"
           },
           {
             "name": "typification",
