@@ -1679,7 +1679,7 @@
           }
         ]
       },
-      "title": "CO<sub>2</sub>-Emissionen pro Wertschöpfungseinheit"
+      "title": "CO²-Emissionen pro Wertschöpfungseinheit"
     },
     {
       "path": "9-1-2/data.csv",
@@ -2725,20 +2725,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6648,27 +6636,39 @@
             "title": "Jahr"
           },
           {
-            "name": "treatment",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Abwasser, das keiner Abwasserbehandlung bedarf",
+                "Prozent",
+                "1 000 m³",
                 ""
               ]
             },
-            "title": "Behandlung"
+            "title": "Units"
           },
           {
             "name": "type of waste water",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kühlwasser",
-                "Sonstiges Abwasser",
+                "Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung",
                 ""
               ]
             },
             "title": "Art des Abwassers"
+          },
+          {
+            "name": "treatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unbehandeltes Abwasser",
+                "Behandeltes Abwasser",
+                ""
+              ]
+            },
+            "title": "Behandlung"
           },
           {
             "name": "Value",

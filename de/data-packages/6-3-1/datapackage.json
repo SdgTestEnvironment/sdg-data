@@ -16,27 +16,39 @@
             "title": "Jahr"
           },
           {
-            "name": "treatment",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Abwasser, das keiner Abwasserbehandlung bedarf",
+                "Prozent",
+                "1 000 m³",
                 ""
               ]
             },
-            "title": "Behandlung"
+            "title": "Units"
           },
           {
             "name": "type of waste water",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kühlwasser",
-                "Sonstiges Abwasser",
+                "Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung",
                 ""
               ]
             },
             "title": "Art des Abwassers"
+          },
+          {
+            "name": "treatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unbehandeltes Abwasser",
+                "Behandeltes Abwasser",
+                ""
+              ]
+            },
+            "title": "Behandlung"
           },
           {
             "name": "Value",
