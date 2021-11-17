@@ -3803,6 +3803,42 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mikrogramm pro Kubikmeter",
+                "Je 1 Million Einwohner/ -innen",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>",
+                "Anteil der Bevölkerung mit erhöhter Feinstaubexposition",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "fine particulate matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PM2.5",
+                "PM10",
+                ""
+              ]
+            },
+            "title": "fine particulate matter"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -6670,6 +6706,18 @@
               ]
             },
             "title": "Behandlung"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abwasser und Kühlwasser",
+                "Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

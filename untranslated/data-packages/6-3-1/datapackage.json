@@ -48,6 +48,17 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "wastewater and cooling water",
+                "wastewater that is safely treated or does not require treatment",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

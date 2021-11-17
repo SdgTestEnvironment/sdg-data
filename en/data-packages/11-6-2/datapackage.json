@@ -16,6 +16,42 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Micrograms per cubic meters",
+                "Per 1 million inhabitants",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population weighted annual mean levels of PM<sub>10</sub>",
+                "Share of the population with excessive exposure to fine particulate matter",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "fine particulate matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PM2.5",
+                "PM10",
+                ""
+              ]
+            },
+            "title": "fine particulate matter"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

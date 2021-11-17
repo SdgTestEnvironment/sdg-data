@@ -52,6 +52,18 @@
             "title": "Behandlung"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abwasser und Kühlwasser",
+                "Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

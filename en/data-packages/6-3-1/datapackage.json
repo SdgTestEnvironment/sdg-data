@@ -52,6 +52,18 @@
             "title": "Treatment"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wastewater and cooling water",
+                "Wastewater that is safely treated or does not require treatment",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
