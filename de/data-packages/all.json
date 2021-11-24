@@ -3383,18 +3383,6 @@
             "title": "Units"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>",
-                "Anteil der Bevölkerung mit erhöhter Feinstaubexposition",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "fine particulate matter",
             "type": "string",
             "constraints": {
@@ -3405,6 +3393,18 @@
               ]
             },
             "title": "Feinstaub"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>",
+                "Anteil der Bevölkerung mit erhöhter Feinstaubexposition",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

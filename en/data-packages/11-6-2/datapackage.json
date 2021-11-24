@@ -28,18 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population weighted annual mean levels of PM<sub>10</sub>",
-                "Share of the population with excessive exposure to fine particulate matter",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "fine particulate matter",
             "type": "string",
             "constraints": {
@@ -50,6 +38,18 @@
               ]
             },
             "title": "Fine particulate matter"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population weighted annual mean levels of PM<sub>10</sub>",
+                "Share of the population with excessive exposure to fine particulate matter",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

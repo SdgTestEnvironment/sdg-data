@@ -26,23 +26,23 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "population weighted annual mean levels of pm10 (micrograms per cubic meter)",
-                "share of the population with excessive exposure to fine particulate matter",
-                ""
-              ]
-            }
-          },
-          {
             "name": "fine particulate matter",
             "type": "string",
             "constraints": {
               "enum": [
                 "pm2.5",
                 "pm10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "population weighted annual mean levels of pm10 (micrograms per cubic meter)",
+                "share of the population with excessive exposure to fine particulate matter",
                 ""
               ]
             }
