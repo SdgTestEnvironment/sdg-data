@@ -4751,7 +4751,7 @@
                 "Quote der Überbelastung durch Wohnkosten",
                 "Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
                 "Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",
-                "Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",
+                "Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",
                 "Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
                 ""
               ]
@@ -4781,7 +4781,7 @@
                 ""
               ]
             },
-            "title": "Räumliche Typologie"
+            "title": "Verstädterungsgrad"
           },
           {
             "name": "sex",

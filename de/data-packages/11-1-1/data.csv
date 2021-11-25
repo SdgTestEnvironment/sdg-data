@@ -1,4 +1,4 @@
-Year,Zeitreihe,Series,Räumliche Typologie,Geschlecht,Value
+Year,Zeitreihe,Series,Verstädterungsgrad,Geschlecht,Value
 2010,Überbelegungsquote,Wohnverhältnisse,Städte,,9.6
 2011,Überbelegungsquote,Wohnverhältnisse,Städte,,9.5
 2012,Überbelegungsquote,Wohnverhältnisse,Städte,,10.8
@@ -131,39 +131,39 @@ Year,Zeitreihe,Series,Räumliche Typologie,Geschlecht,Value
 2018,"Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",Deprivation der Unterkunft,,Männlich,0.0
 2019,"Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",Deprivation der Unterkunft,,Männlich,0.0
 2020,"Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",Deprivation der Unterkunft,,Männlich,
-2010,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,1.6
-2011,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.9
-2012,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.9
-2013,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.1
-2014,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.0
-2015,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.1
-2016,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.1
-2017,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.1
-2018,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.0
-2019,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.2
-2020,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,
-2010,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,1.7
-2011,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.9
-2012,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,1.0
-2013,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.2
-2014,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.0
-2015,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.1
-2016,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.1
-2017,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.1
-2018,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.1
-2019,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.2
-2020,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,
-2010,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,1.6
-2011,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.8
-2012,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.9
-2013,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.1
-2014,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.0
-2015,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.1
-2016,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.1
-2017,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.1
-2018,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.0
-2019,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.3
-2020,"Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,
+2010,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,1.6
+2011,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.9
+2012,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.9
+2013,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.1
+2014,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.0
+2015,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.1
+2016,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.1
+2017,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.1
+2018,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.0
+2019,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,0.2
+2020,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,,
+2010,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,1.7
+2011,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.9
+2012,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,1.0
+2013,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.2
+2014,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.0
+2015,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.1
+2016,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.1
+2017,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.1
+2018,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.1
+2019,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,0.2
+2020,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Weiblich,
+2010,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,1.6
+2011,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.8
+2012,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.9
+2013,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.1
+2014,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.0
+2015,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.1
+2016,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.1
+2017,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.1
+2018,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.0
+2019,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,0.3
+2020,"Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",Deprivation der Unterkunft,,Männlich,
 2010,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",Deprivation der Unterkunft,,,4.2
 2011,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",Deprivation der Unterkunft,,,4.1
 2012,"Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",Deprivation der Unterkunft,,,3.9
