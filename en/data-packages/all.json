@@ -6533,8 +6533,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wastewater and cooling water",
                 "Wastewater that is safely treated or does not require treatment",
+                "Wastewater and cooling water",
                 ""
               ]
             },

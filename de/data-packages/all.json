@@ -6533,8 +6533,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Abwasser und Kühlwasser",
                 "Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",
+                "Abwasser und Kühlwasser",
                 ""
               ]
             },
