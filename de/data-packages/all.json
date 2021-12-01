@@ -5506,7 +5506,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -5525,6 +5525,18 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vorhanden",
+                "Nicht vorhanden",
+                ""
+              ]
+            },
+            "title": "Ausprägung"
           },
           {
             "name": "Value",

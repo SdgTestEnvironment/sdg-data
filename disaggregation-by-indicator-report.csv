@@ -94,7 +94,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-a-1,"timeseries, ownership",2
 #5-b-1,timeseries,1
 #6-1-1,timeseries,1
-#6-2-1,timeseries,1
+#6-2-1,"timeseries, characteristics",2
 #6-3-1,"type of waste water, treatment",2
 #6-3-2,type of water body,1
 #6-4-1,economic sector,1

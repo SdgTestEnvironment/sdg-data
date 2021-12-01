@@ -26,6 +26,17 @@
             }
           },
           {
+            "name": "characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "available",
+                "not available",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -28,6 +28,18 @@
             "title": "Time series"
           },
           {
+            "name": "characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Available",
+                "Not available",
+                ""
+              ]
+            },
+            "title": "Characteristics"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
