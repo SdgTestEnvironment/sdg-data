@@ -890,18 +890,6 @@
             "title": "Time series"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Housing conditions",
-                "Housing deprivation",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "urbanisation",
             "type": "string",
             "constraints": {
@@ -925,6 +913,18 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Housing conditions",
+                "Housing deprivation",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

@@ -30,17 +30,6 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "housing conditions",
-                "housing deprivation",
-                ""
-              ]
-            }
-          },
-          {
             "name": "urbanisation",
             "type": "string",
             "constraints": {
@@ -59,6 +48,17 @@
               "enum": [
                 "female",
                 "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "housing conditions",
+                "housing deprivation",
                 ""
               ]
             }

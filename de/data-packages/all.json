@@ -890,18 +890,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wohnverhältnisse",
-                "Deprivation der Unterkunft",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "urbanisation",
             "type": "string",
             "constraints": {
@@ -925,6 +913,18 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wohnverhältnisse",
+                "Deprivation der Unterkunft",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
