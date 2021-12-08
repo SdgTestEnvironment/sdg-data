@@ -32,7 +32,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "Series",
+            "name": "series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,10 +41,10 @@
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "series"
           },
           {
-            "name": "typification",
+            "name": "urbanisation",
             "type": "string",
             "constraints": {
               "enum": [

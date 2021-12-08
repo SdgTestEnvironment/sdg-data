@@ -1,3 +1,4 @@
 From,To
-Time series,Degree of urbanisation
-Time series,Sex
+Time series,series
+series,Degree of urbanisation
+series,Sex

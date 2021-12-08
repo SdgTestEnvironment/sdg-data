@@ -30,7 +30,7 @@
             }
           },
           {
-            "name": "Series",
+            "name": "series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,7 +41,7 @@
             }
           },
           {
-            "name": "typification",
+            "name": "urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
