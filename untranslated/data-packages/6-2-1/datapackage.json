@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) population using safely managed sanitation services (%)",
-                "b) population with a bathtub or a shower (%)",
+                "toilet",
+                "bathtub or shower",
                 ""
               ]
             }

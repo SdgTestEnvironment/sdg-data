@@ -65,39 +65,39 @@ Year,Time series,Series,Degree of urbanisation,Sex,Value
 2018,Housing cost overburden rate,Housing conditions,Rural areas,,10.4
 2019,Housing cost overburden rate,Housing conditions,Rural areas,,12.4
 2020,Housing cost overburden rate,Housing conditions,Rural areas,,17.6
-2010,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,,13.3
-2011,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,,13.7
-2012,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,,13.5
-2013,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,,13.1
-2014,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,,12.3
-2015,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,,12.8
-2016,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,,13.1
-2017,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,,12.5
-2018,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,,13.4
-2019,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,,12.0
-2020,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,,12.0
-2010,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Female,13.7
-2011,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Female,14.1
-2012,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Female,13.7
-2013,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Female,13.1
-2014,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Female,12.6
-2015,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Female,13.1
-2016,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Female,13.5
-2017,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Female,12.7
-2018,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Female,13.7
-2019,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Female,12.3
-2020,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Female,12.1
-2010,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Male,13.0
-2011,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Male,13.4
-2012,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Male,13.2
-2013,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Male,13.1
-2014,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Male,12.1
-2015,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Male,12.4
-2016,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Male,12.7
-2017,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Male,12.2
-2018,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Male,13.2
-2019,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Male,11.7
-2020,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor",Housing deprivation,,Male,11.8
+2010,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,,13.3
+2011,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,,13.7
+2012,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,,13.5
+2013,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,,13.1
+2014,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,,12.3
+2015,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,,12.8
+2016,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,,13.1
+2017,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,,12.5
+2018,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,,13.4
+2019,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,,12.0
+2020,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,,12.0
+2010,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Female,13.7
+2011,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Female,14.1
+2012,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Female,13.7
+2013,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Female,13.1
+2014,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Female,12.6
+2015,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Female,13.1
+2016,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Female,13.5
+2017,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Female,12.7
+2018,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Female,13.7
+2019,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Female,12.3
+2020,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Female,12.1
+2010,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Male,13.0
+2011,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Male,13.4
+2012,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Male,13.2
+2013,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Male,13.1
+2014,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Male,12.1
+2015,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Male,12.4
+2016,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Male,12.7
+2017,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Male,12.2
+2018,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Male,13.2
+2019,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Male,11.7
+2020,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",Housing deprivation,,Male,11.8
 2010,"Population having neither a bath, nor a shower in their dwelling",Housing deprivation,,,0.5
 2011,"Population having neither a bath, nor a shower in their dwelling",Housing deprivation,,,0.1
 2012,"Population having neither a bath, nor a shower in their dwelling",Housing deprivation,,,0.1

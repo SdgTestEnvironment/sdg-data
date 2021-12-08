@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Safely managed sanitation services",
-                "Bathtub or a shower",
+                "Toilet",
+                "Bathtub or shower",
                 ""
               ]
             },
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Characteristics"
+            "title": "Availability"
           },
           {
             "name": "Value",
