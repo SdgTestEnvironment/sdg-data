@@ -32,7 +32,7 @@
             "title": "Time series"
           },
           {
-            "name": "series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,7 +41,7 @@
                 ""
               ]
             },
-            "title": "series"
+            "title": "Time series"
           },
           {
             "name": "urbanisation",

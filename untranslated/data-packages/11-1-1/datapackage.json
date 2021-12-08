@@ -30,7 +30,7 @@
             }
           },
           {
-            "name": "series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
