@@ -1507,8 +1507,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Toilette",
-                "Badewanne oder Dusche",
+                "Zugang zu einer Toilette",
+                "Zugang zu Badewanne oder Dusche",
                 ""
               ]
             },
