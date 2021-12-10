@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure",
                 "ODA (commitments) to public-private partnerships (PPP) for infrastructure",
+                "ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure",
                 ""
               ]
             },

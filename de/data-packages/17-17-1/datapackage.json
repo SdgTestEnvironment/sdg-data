@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur",
                 "Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur",
+                "Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur",
                 ""
               ]
             },
