@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Access to toilet",
-                "Access to bathtub or shower",
+                "Population with (own) toilet",
+                "Population with (own) bathtub or shower",
                 ""
               ]
             },
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Available",
-                "Not available",
+                "Yes",
+                "No",
                 ""
               ]
             },

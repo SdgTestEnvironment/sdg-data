@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zugang zu einer Toilette",
-                "Zugang zu Badewanne oder Dusche",
+                "Bevölkerung mit (eigener) Toilette",
+                "Bevölkerung mit (eigener) Badewanne oder Dusche",
                 ""
               ]
             },
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vorhanden",
-                "Nicht vorhanden",
+                "Ja",
+                "Nein",
                 ""
               ]
             },
