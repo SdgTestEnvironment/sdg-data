@@ -1988,6 +1988,18 @@
             "title": "Jahr"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Verhältnis von Frauen im öffentlichen Dienst",
+                "Verhältnis von Frauen in der Justiz",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "field of work",
             "type": "string",
             "constraints": {
@@ -2013,18 +2025,6 @@
               ]
             },
             "title": "Gerichtsebene"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anteil der Stellen von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung",
-                "Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -9200,29 +9200,29 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "km²",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Subindikator 1: Fläche der wasserbezogenen Ökosysteme",
-                "Subindikator 3: Wasserabfluss über Flüsse",
-                "Subindikator 4: Gewässer mit guter Wasserqualität",
+                "Seen und Flüsse ständige Wasserfläche",
+                "Feuchtgebiete",
+                "Permanente Veränderung der Wasserfläche von Seen und Flüssen (verglichen mit 2015)",
                 ""
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "type of water body",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fließgewässer",
-                "Seen und Talsperren",
-                ""
-              ]
-            },
-            "title": "Art des Gewässers"
           },
           {
             "name": "Value",

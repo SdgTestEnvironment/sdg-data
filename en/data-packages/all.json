@@ -1988,6 +1988,18 @@
             "title": "Year"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio of female members in the public service",
+                "Ratio of female members in the judiciary",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "field of work",
             "type": "string",
             "constraints": {
@@ -2013,18 +2025,6 @@
               ]
             },
             "title": "Level of court"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportions of positions of women in the public service compared to the national distribution",
-                "Ratio of proportion of women in the judiciary to proportion of women in the total population",
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "Value",
@@ -9200,29 +9200,29 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "km²",
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sub-indicator 1: Spatial extent of water-related ecosystems",
-                "Sub-indicator 3:  Quantity discharge of water in rivers",
-                "Sub-indicator 4: Water bodies with good quality",
+                "Lakes and Rivers permanent water area",
+                "Wetlands area",
+                "Lakes and Rivers permanent water area change (compared to 2015)",
                 ""
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "type of water body",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "River water bodies",
-                "Open water bodies",
-                ""
-              ]
-            },
-            "title": "Type of water body"
           },
           {
             "name": "Value",

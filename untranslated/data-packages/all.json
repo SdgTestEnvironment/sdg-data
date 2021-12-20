@@ -1826,6 +1826,17 @@
             "type": "integer"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "proportions of positions of women in the public service compared to the national distribution, by field of work",
+                "ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court",
+                ""
+              ]
+            }
+          },
+          {
             "name": "field of work",
             "type": "string",
             "constraints": {
@@ -1846,17 +1857,6 @@
                 "supreme/constitutional courts",
                 "higher-level courts",
                 "lower-level courts",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "proportions of positions of women in the public service compared to the national distribution, by field of work",
-                "ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court",
                 ""
               ]
             }
@@ -8446,24 +8446,24 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "sub-indicator 1: spatial extent of water-related ecosystems",
-                "sub-indicator 3:  quantity discharge of water in rivers",
-                "sub-indicator 4: water bodies with good quality",
+                "km2",
+                "%",
                 ""
               ]
             }
           },
           {
-            "name": "type of water body",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "river water bodies",
-                "open water bodies",
+                "lakes and rivers permanent water area",
+                "wetlands area",
+                "lakes and rivers permanent water area change",
                 ""
               ]
             }

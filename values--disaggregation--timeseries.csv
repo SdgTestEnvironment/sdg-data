@@ -62,6 +62,8 @@ key biodiversity areas (kbas) covered by protected areas,1,1
 key biodiversity areas (kbas) covered by protected areas (%),1,1
 labour productivity per hour worked by employee,1,1
 labour productivity per hour worked by persons employed,1,1
+lakes and rivers permanent water area change,1,1
+lakes and rivers permanent water area,2,1
 land consumption rate,1,1
 level of risk of extinction (according to fao classification),2,1
 level of risk of extinction (according to national classification),4,1
@@ -125,10 +127,12 @@ proportion of domestic expenditures funded by national taxes (%),1,1
 proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks,1,1
 proportion of oda (net disbursements) to gni,1,1
 proportion of settlement and transport areas to population,1,1
+"proportions of positions of women in the public service compared to the national distribution, by field of work",5,1
 protected marine area (%),1,1
 protected terrestrial areas (%),1,1
 rate of overburdening by housing costs,3,1
 ratio of land consumption rate to population growth rate,1,1
+"ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court",4,1
 real gdp per capita,1,1
 recycled waste,2,1
 recycling rate,2,1
@@ -147,3 +151,4 @@ trade balance,1,1
 unemployed persons with unemployment benefits (%),1,1
 victims of criminal offences,8,1
 wasting among children under the age of 5 years (%),3,1
+wetlands area,2,1
