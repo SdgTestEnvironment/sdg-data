@@ -33,7 +33,9 @@
             "constraints": {
               "enum": [
                 "Seen und Flüsse ständige Wasserfläche",
+                "Seen und Flüsse ständige Wasserfläche im Verhältnis zur gesamten Landfläche",
                 "Feuchtgebiete",
+                "Feuchtgebiete im Verhältnis zur gesamten Landfläche",
                 "Permanente Veränderung der Wasserfläche von Seen und Flüssen (verglichen mit 2015)",
                 ""
               ]
