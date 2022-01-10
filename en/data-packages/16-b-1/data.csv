@@ -1,7 +1,117 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sex,Age group,Migratory status,Income quintile,Degree of urbanisation,Education level,Country of citizenship,Marital status,Value
+2015,,,,,,,,,13
+2017,,,,,,,,,10
+2019,,,,,,,,,9
+2015,Female,,,,,,,,13
+2017,Female,,,,,,,,10
+2019,Female,,,,,,,,8
+2015,Male,,,,,,,,13
+2017,Male,,,,,,,,10
+2019,Male,,,,,,,,9
+2019,Divers,,,,,,,,23
+2015,,15 to under 20 years,,,,,,,8
+2017,,15 to under 20 years,,,,,,,8
+2019,,15 to under 20 years,,,,,,,7
+2015,,20 to under 25 years,,,,,,,14
+2017,,20 to under 25 years,,,,,,,9
+2019,,20 to under 25 years,,,,,,,8
+2015,,25 to under 30 years,,,,,,,15
+2017,,25 to under 30 years,,,,,,,10
+2019,,25 to under 30 years,,,,,,,11
+2015,,30 to under 35 years,,,,,,,10
+2017,,30 to under 35 years,,,,,,,9
+2019,,30 to under 35 years,,,,,,,10
+2015,,35 to under 40 years,,,,,,,13
+2017,,35 to under 40 years,,,,,,,6
+2019,,35 to under 40 years,,,,,,,9
+2015,,40 to under 45 years,,,,,,,11
+2017,,40 to under 45 years,,,,,,,8
+2019,,40 to under 45 years,,,,,,,7
+2015,,45 to under 50 years,,,,,,,10
+2017,,45 to under 50 years,,,,,,,10
+2019,,45 to under 50 years,,,,,,,8
+2015,,50 to under 55 years,,,,,,,14
+2017,,50 to under 55 years,,,,,,,8
+2019,,50 to under 55 years,,,,,,,7
+2015,,55 to under 60 years,,,,,,,14
+2017,,55 to under 60 years,,,,,,,8
+2019,,55 to under 60 years,,,,,,,6
+2015,,60 to under 65 years,,,,,,,14
+2017,,60 to under 65 years,,,,,,,14
+2019,,60 to under 65 years,,,,,,,9
+2015,,65 years and older,,,,,,,14
+2017,,65 years and older,,,,,,,13
+2019,,65 years and older,,,,,,,11
+2015,,,No migrant background,,,,,,9
+2017,,,No migrant background,,,,,,7
+2019,,,No migrant background,,,,,,8
+2015,,,Migrant background,,,,,,14
+2017,,,Migrant background,,,,,,13
+2019,,,Migrant background,,,,,,15
+2015,,,Not classified,,,,,,14
+2017,,,Not classified,,,,,,7
+2019,,,Not classified,,,,,,17
+2019,,,,Poorest,,,,,17
+2019,,,,Second,,,,,6
+2019,,,,Middle,,,,,6
+2019,,,,Fourth,,,,,5
+2019,,,,Richest,,,,,4
+2019,,,,Not classified,,,,,11
+2015,,,,,Urban,,,,12
+2017,,,,,Urban,,,,10
+2019,,,,,Urban,,,,8
+2015,,,,,Rural areas,,,,13
+2017,,,,,Rural areas,,,,10
+2019,,,,,Rural areas,,,,10
+2019,,,,,Not classified,,,,15
+2015,,,,,,Primary school completed,,,39
+2017,,,,,,Primary school completed,,,16
+2019,,,,,,Primary school completed,,,40
+2015,,,,,,Lower secondary school completed,,,16
+2017,,,,,,Lower secondary school completed,,,12
+2019,,,,,,Lower secondary school completed,,,11
+2015,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,10
+2017,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,9
+2019,,,,,,Upper secondary school completed and post-secondary non-tertiary education,,,5
+2015,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,8
+2017,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,8
+2019,,,,,,Bachelor/equivalent degree completed and masters/equivalent degree or above,,,6
+2015,,,,,,Not classified,,,4
+2017,,,,,,Not classified,,,13
+2019,,,,,,Not classified,,,21
+2015,,,,,,,Germany,,12
+2017,,,,,,,Germany,,10
+2019,,,,,,,Germany,,8
+2015,,,,,,,Other country within the EU,,23
+2017,,,,,,,Other country within the EU,,24
+2019,,,,,,,Other country within the EU,,16
+2015,,,,,,,Other country outside of the EU,,25
+2017,,,,,,,Other country outside of the EU,,13
+2019,,,,,,,Other country outside of the EU,,23
+2015,,,,,,,Multiple citizenships,,23
+2017,,,,,,,Multiple citizenships,,7
+2019,,,,,,,Multiple citizenships,,12
+2015,,,,,,,Not classified,,16
+2017,,,,,,,Not classified,,1
+2019,,,,,,,Not classified,,37
+2015,,,,,,,,Single / Never married,11
+2017,,,,,,,,Single / Never married,7
+2019,,,,,,,,Single / Never married,7
+2015,,,,,,,,Married,11
+2017,,,,,,,,Married,8
+2019,,,,,,,,Married,6
+2015,,,,,,,,Cohabiting,8
+2017,,,,,,,,Cohabiting,8
+2019,,,,,,,,Cohabiting,10
+2015,,,,,,,,Separated,13
+2017,,,,,,,,Separated,12
+2019,,,,,,,,Separated,18
+2015,,,,,,,,Divorced,19
+2017,,,,,,,,Divorced,15
+2019,,,,,,,,Divorced,12
+2015,,,,,,,,Widowed,18
+2017,,,,,,,,Widowed,14
+2019,,,,,,,,Widowed,11
+2015,,,,,,,,Not classified,15
+2017,,,,,,,,Not classified,11
+2019,,,,,,,,Not classified,13

@@ -1,7 +1,117 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Geschlecht,Altersklasse,Migrationsstatus,Einkommensquintil,Verstädterungsgrad,Ausbildungsgrad,Herkunftsland,Familienstand,Value
+2015,,,,,,,,,13
+2017,,,,,,,,,10
+2019,,,,,,,,,9
+2015,Weiblich,,,,,,,,13
+2017,Weiblich,,,,,,,,10
+2019,Weiblich,,,,,,,,8
+2015,Männlich,,,,,,,,13
+2017,Männlich,,,,,,,,10
+2019,Männlich,,,,,,,,9
+2019,Divers,,,,,,,,23
+2015,,15 bis unter 20 Jahre,,,,,,,8
+2017,,15 bis unter 20 Jahre,,,,,,,8
+2019,,15 bis unter 20 Jahre,,,,,,,7
+2015,,20 bis unter 25 Jahre,,,,,,,14
+2017,,20 bis unter 25 Jahre,,,,,,,9
+2019,,20 bis unter 25 Jahre,,,,,,,8
+2015,,25 bis unter 30 Jahre,,,,,,,15
+2017,,25 bis unter 30 Jahre,,,,,,,10
+2019,,25 bis unter 30 Jahre,,,,,,,11
+2015,,30 bis unter 35 Jahre,,,,,,,10
+2017,,30 bis unter 35 Jahre,,,,,,,9
+2019,,30 bis unter 35 Jahre,,,,,,,10
+2015,,35 bis unter 40 Jahre,,,,,,,13
+2017,,35 bis unter 40 Jahre,,,,,,,6
+2019,,35 bis unter 40 Jahre,,,,,,,9
+2015,,40 bis unter 45 Jahre,,,,,,,11
+2017,,40 bis unter 45 Jahre,,,,,,,8
+2019,,40 bis unter 45 Jahre,,,,,,,7
+2015,,45 bis unter 50 Jahre,,,,,,,10
+2017,,45 bis unter 50 Jahre,,,,,,,10
+2019,,45 bis unter 50 Jahre,,,,,,,8
+2015,,50 bis unter 55 Jahre,,,,,,,14
+2017,,50 bis unter 55 Jahre,,,,,,,8
+2019,,50 bis unter 55 Jahre,,,,,,,7
+2015,,55 bis unter 60 Jahre,,,,,,,14
+2017,,55 bis unter 60 Jahre,,,,,,,8
+2019,,55 bis unter 60 Jahre,,,,,,,6
+2015,,60 bis unter 65 Jahre,,,,,,,14
+2017,,60 bis unter 65 Jahre,,,,,,,14
+2019,,60 bis unter 65 Jahre,,,,,,,9
+2015,,65 Jahre und älter,,,,,,,14
+2017,,65 Jahre und älter,,,,,,,13
+2019,,65 Jahre und älter,,,,,,,11
+2015,,,Kein Migrationshintergrund,,,,,,9
+2017,,,Kein Migrationshintergrund,,,,,,7
+2019,,,Kein Migrationshintergrund,,,,,,8
+2015,,,Migrationshintergrund,,,,,,14
+2017,,,Migrationshintergrund,,,,,,13
+2019,,,Migrationshintergrund,,,,,,15
+2015,,,Keine Angabe,,,,,,14
+2017,,,Keine Angabe,,,,,,7
+2019,,,Keine Angabe,,,,,,17
+2019,,,,Ärmstes Quintil,,,,,17
+2019,,,,Zweiteärmstes Quintil,,,,,6
+2019,,,,Mittleres Quintil,,,,,6
+2019,,,,Viertes Quintil,,,,,5
+2019,,,,Reichstes Quintil,,,,,4
+2019,,,,Keine Angabe,,,,,11
+2015,,,,,Städte,,,,12
+2017,,,,,Städte,,,,10
+2019,,,,,Städte,,,,8
+2015,,,,,Ländliche Gebiete,,,,13
+2017,,,,,Ländliche Gebiete,,,,10
+2019,,,,,Ländliche Gebiete,,,,10
+2019,,,,,Keine Angabe,,,,15
+2015,,,,,,Abgeschlossene Grundschulausbildung,,,39
+2017,,,,,,Abgeschlossene Grundschulausbildung,,,16
+2019,,,,,,Abgeschlossene Grundschulausbildung,,,40
+2015,,,,,,Abgeschlossene Sekundarstufe I,,,16
+2017,,,,,,Abgeschlossene Sekundarstufe I,,,12
+2019,,,,,,Abgeschlossene Sekundarstufe I,,,11
+2015,,,,,,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,,,10
+2017,,,,,,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,,,9
+2019,,,,,,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,,,5
+2015,,,,,,Abschluss eines Bachelor- oder gleichwertigen Studiums oder eines Master- oder gleichwertigen Studiums oder höher,,,8
+2017,,,,,,Abschluss eines Bachelor- oder gleichwertigen Studiums oder eines Master- oder gleichwertigen Studiums oder höher,,,8
+2019,,,,,,Abschluss eines Bachelor- oder gleichwertigen Studiums oder eines Master- oder gleichwertigen Studiums oder höher,,,6
+2015,,,,,,Keine Angabe,,,4
+2017,,,,,,Keine Angabe,,,13
+2019,,,,,,Keine Angabe,,,21
+2015,,,,,,,Deutschland,,12
+2017,,,,,,,Deutschland,,10
+2019,,,,,,,Deutschland,,8
+2015,,,,,,,Anderes EU Land,,23
+2017,,,,,,,Anderes EU Land,,24
+2019,,,,,,,Anderes EU Land,,16
+2015,,,,,,,Anderes nicht-EU Land,,25
+2017,,,,,,,Anderes nicht-EU Land,,13
+2019,,,,,,,Anderes nicht-EU Land,,23
+2015,,,,,,,Mehrere Staatsbürgerschaften,,23
+2017,,,,,,,Mehrere Staatsbürgerschaften,,7
+2019,,,,,,,Mehrere Staatsbürgerschaften,,12
+2015,,,,,,,Keine Angabe,,16
+2017,,,,,,,Keine Angabe,,1
+2019,,,,,,,Keine Angabe,,37
+2015,,,,,,,,Alleinstehend,11
+2017,,,,,,,,Alleinstehend,7
+2019,,,,,,,,Alleinstehend,7
+2015,,,,,,,,Verheiratet,11
+2017,,,,,,,,Verheiratet,8
+2019,,,,,,,,Verheiratet,6
+2015,,,,,,,,Lebensgemeinschaft,8
+2017,,,,,,,,Lebensgemeinschaft,8
+2019,,,,,,,,Lebensgemeinschaft,10
+2015,,,,,,,,Getrennt,13
+2017,,,,,,,,Getrennt,12
+2019,,,,,,,,Getrennt,18
+2015,,,,,,,,Geschieden,19
+2017,,,,,,,,Geschieden,15
+2019,,,,,,,,Geschieden,12
+2015,,,,,,,,Verwitwet,18
+2017,,,,,,,,Verwitwet,14
+2019,,,,,,,,Verwitwet,11
+2015,,,,,,,,Keine Angabe,15
+2017,,,,,,,,Keine Angabe,11
+2019,,,,,,,,Keine Angabe,13
