@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "micrograms per qubic meters",
-                "per 1 mn inhabitants",
+                "mn inhabitants",
                 ""
               ]
             }

@@ -1968,7 +1968,7 @@
             "constraints": {
               "enum": [
                 "Ärmstes Quintil",
-                "Zweiteärmstes Quintil",
+                "Zweitärmstes Quintil",
                 "Mittleres Quintil",
                 "Viertes Quintil",
                 "Reichstes Quintil",
@@ -3450,7 +3450,7 @@
             "constraints": {
               "enum": [
                 "Mikrogramm pro Kubikmeter",
-                "Je 1 Million Einwohner/ -innen",
+                "Millionen Einwohner/ -innen",
                 ""
               ]
             },
@@ -3474,7 +3474,7 @@
             "constraints": {
               "enum": [
                 "Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>",
-                "Anteil der Bevölkerung mit erhöhter Feinstaubexposition",
+                "Bevölkerung mit erhöhter Feinstaubexposition",
                 ""
               ]
             },
@@ -7694,7 +7694,7 @@
             "constraints": {
               "enum": [
                 "Ärmstes Quintil",
-                "Zweiteärmstes Quintil",
+                "Zweitärmstes Quintil",
                 "Mittleres Quintil",
                 "Viertes Quintil",
                 "Reichstes Quintil",
