@@ -2020,8 +2020,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "eur",
                 "number",
+                "eur",
                 ""
               ]
             }

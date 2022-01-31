@@ -2197,8 +2197,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR",
                 "Anzahl",
+                "EUR",
                 ""
               ]
             },
