@@ -1,5 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 divers,4,4
-female,62,29
-male,62,29
-unknown,4,2
+female,60,28
+male,60,28
+max,9,1
+min,9,1
+unknown,2,1
