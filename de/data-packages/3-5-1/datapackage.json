@@ -16,18 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Stationäre Behandlung bei Störungen durch Substanzgebrauch",
-                "Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "substance",
             "type": "string",
             "constraints": {
@@ -38,6 +26,18 @@
               ]
             },
             "title": "Substanz"
+          },
+          {
+            "name": "bound",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Untere Grenze",
+                "Obere Grenze",
+                ""
+              ]
+            },
+            "title": "Grenze"
           },
           {
             "name": "sex",
@@ -53,16 +53,16 @@
             "title": "Geschlecht"
           },
           {
-            "name": "border",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "min",
-                "max",
+                "Stationäre Behandlung bei Störungen durch Substanzgebrauch",
+                "Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",
                 ""
               ]
             },
-            "title": "Grenze"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
