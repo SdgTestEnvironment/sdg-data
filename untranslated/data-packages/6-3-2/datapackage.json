@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "water bodies with good quality",
+                "x",
+                ""
+              ]
+            }
+          },
+          {
             "name": "type of water body",
             "type": "string",
             "constraints": {

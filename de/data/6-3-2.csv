@@ -1,10 +1,41 @@
-Year,Art des Gewässers,Value
-2013,,
-2014,,38.99
-2015,,
-2013,Fließgewässer,
-2014,Fließgewässer,35.08
-2015,Fließgewässer,
-2013,Seen und Talsperren,
-2014,Seen und Talsperren,72.41
-2015,Seen und Talsperren,
+Year,Zeitreihe,Art des Gewässers,Value
+2010,Gewässer mit guter Wasserqualität,,
+2011,Gewässer mit guter Wasserqualität,,
+2012,Gewässer mit guter Wasserqualität,,
+2013,Gewässer mit guter Wasserqualität,,
+2014,Gewässer mit guter Wasserqualität,,38.99
+2015,Gewässer mit guter Wasserqualität,,
+2016,Gewässer mit guter Wasserqualität,,
+2017,Gewässer mit guter Wasserqualität,,
+2018,Gewässer mit guter Wasserqualität,,
+2019,Gewässer mit guter Wasserqualität,,
+2010,Gewässer mit guter Wasserqualität,Fließgewässer,
+2011,Gewässer mit guter Wasserqualität,Fließgewässer,
+2012,Gewässer mit guter Wasserqualität,Fließgewässer,
+2013,Gewässer mit guter Wasserqualität,Fließgewässer,
+2014,Gewässer mit guter Wasserqualität,Fließgewässer,35.08
+2015,Gewässer mit guter Wasserqualität,Fließgewässer,
+2016,Gewässer mit guter Wasserqualität,Fließgewässer,
+2017,Gewässer mit guter Wasserqualität,Fließgewässer,
+2018,Gewässer mit guter Wasserqualität,Fließgewässer,
+2019,Gewässer mit guter Wasserqualität,Fließgewässer,
+2010,Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2011,Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2012,Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2013,Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2014,Gewässer mit guter Wasserqualität,Seen und Talsperren,72.41
+2015,Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2016,Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2017,Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2018,Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2019,Gewässer mit guter Wasserqualität,Seen und Talsperren,
+2010,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,32.1
+2011,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,38.2
+2012,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,35.7
+2013,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,36.1
+2014,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,34.8
+2015,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,30.6
+2016,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,37.1
+2017,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,35.5
+2018,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,44.3
+2019,Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,42.8

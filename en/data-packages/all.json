@@ -7183,6 +7183,18 @@
             "title": "Year"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Water bodies with good quality",
+                "Flowing water with good ecological status for total phosphorous",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "type of water body",
             "type": "string",
             "constraints": {

@@ -7183,6 +7183,18 @@
             "title": "Jahr"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gewässer mit guter Wasserqualität",
+                "Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "type of water body",
             "type": "string",
             "constraints": {

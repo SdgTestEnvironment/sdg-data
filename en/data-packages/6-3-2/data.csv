@@ -1,10 +1,41 @@
-Year,Type of water body,Value
-2013,,
-2014,,38.99
-2015,,
-2013,River water bodies,
-2014,River water bodies,35.08
-2015,River water bodies,
-2013,Open water bodies,
-2014,Open water bodies,72.41
-2015,Open water bodies,
+Year,Time series,Type of water body,Value
+2010,Water bodies with good quality,,
+2011,Water bodies with good quality,,
+2012,Water bodies with good quality,,
+2013,Water bodies with good quality,,
+2014,Water bodies with good quality,,38.99
+2015,Water bodies with good quality,,
+2016,Water bodies with good quality,,
+2017,Water bodies with good quality,,
+2018,Water bodies with good quality,,
+2019,Water bodies with good quality,,
+2010,Water bodies with good quality,River water bodies,
+2011,Water bodies with good quality,River water bodies,
+2012,Water bodies with good quality,River water bodies,
+2013,Water bodies with good quality,River water bodies,
+2014,Water bodies with good quality,River water bodies,35.08
+2015,Water bodies with good quality,River water bodies,
+2016,Water bodies with good quality,River water bodies,
+2017,Water bodies with good quality,River water bodies,
+2018,Water bodies with good quality,River water bodies,
+2019,Water bodies with good quality,River water bodies,
+2010,Water bodies with good quality,Open water bodies,
+2011,Water bodies with good quality,Open water bodies,
+2012,Water bodies with good quality,Open water bodies,
+2013,Water bodies with good quality,Open water bodies,
+2014,Water bodies with good quality,Open water bodies,72.41
+2015,Water bodies with good quality,Open water bodies,
+2016,Water bodies with good quality,Open water bodies,
+2017,Water bodies with good quality,Open water bodies,
+2018,Water bodies with good quality,Open water bodies,
+2019,Water bodies with good quality,Open water bodies,
+2010,Flowing water with good ecological status for total phosphorous,,32.1
+2011,Flowing water with good ecological status for total phosphorous,,38.2
+2012,Flowing water with good ecological status for total phosphorous,,35.7
+2013,Flowing water with good ecological status for total phosphorous,,36.1
+2014,Flowing water with good ecological status for total phosphorous,,34.8
+2015,Flowing water with good ecological status for total phosphorous,,30.6
+2016,Flowing water with good ecological status for total phosphorous,,37.1
+2017,Flowing water with good ecological status for total phosphorous,,35.5
+2018,Flowing water with good ecological status for total phosphorous,,44.3
+2019,Flowing water with good ecological status for total phosphorous,,42.8
