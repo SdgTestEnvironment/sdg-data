@@ -2958,7 +2958,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7188,7 +7188,7 @@
             "constraints": {
               "enum": [
                 "Gewässer mit guter Wasserqualität",
-                "Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor",
+                "Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor",
                 ""
               ]
             },

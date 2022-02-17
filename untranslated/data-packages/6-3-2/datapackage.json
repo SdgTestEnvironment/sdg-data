@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "water bodies with good quality",
-                "x",
+                "proportion flowing water with good ecological status for total phosphorous",
                 ""
               ]
             }
