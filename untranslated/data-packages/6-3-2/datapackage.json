@@ -19,19 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "water bodies with good quality",
                 "proportion flowing water with good ecological status for total phosphorous",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "type of water body",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "river water bodies",
-                "open water bodies",
+                "proportion groundwater below threshold for nitrate",
                 ""
               ]
             }

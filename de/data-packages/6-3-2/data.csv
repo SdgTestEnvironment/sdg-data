@@ -1,41 +1,23 @@
-Year,Zeitreihe,Art des Gewässers,Value
-2010,Gewässer mit guter Wasserqualität,,
-2011,Gewässer mit guter Wasserqualität,,
-2012,Gewässer mit guter Wasserqualität,,
-2013,Gewässer mit guter Wasserqualität,,
-2014,Gewässer mit guter Wasserqualität,,38.99
-2015,Gewässer mit guter Wasserqualität,,
-2016,Gewässer mit guter Wasserqualität,,
-2017,Gewässer mit guter Wasserqualität,,
-2018,Gewässer mit guter Wasserqualität,,
-2019,Gewässer mit guter Wasserqualität,,
-2010,Gewässer mit guter Wasserqualität,Fließgewässer,
-2011,Gewässer mit guter Wasserqualität,Fließgewässer,
-2012,Gewässer mit guter Wasserqualität,Fließgewässer,
-2013,Gewässer mit guter Wasserqualität,Fließgewässer,
-2014,Gewässer mit guter Wasserqualität,Fließgewässer,35.08
-2015,Gewässer mit guter Wasserqualität,Fließgewässer,
-2016,Gewässer mit guter Wasserqualität,Fließgewässer,
-2017,Gewässer mit guter Wasserqualität,Fließgewässer,
-2018,Gewässer mit guter Wasserqualität,Fließgewässer,
-2019,Gewässer mit guter Wasserqualität,Fließgewässer,
-2010,Gewässer mit guter Wasserqualität,Seen und Talsperren,
-2011,Gewässer mit guter Wasserqualität,Seen und Talsperren,
-2012,Gewässer mit guter Wasserqualität,Seen und Talsperren,
-2013,Gewässer mit guter Wasserqualität,Seen und Talsperren,
-2014,Gewässer mit guter Wasserqualität,Seen und Talsperren,72.41
-2015,Gewässer mit guter Wasserqualität,Seen und Talsperren,
-2016,Gewässer mit guter Wasserqualität,Seen und Talsperren,
-2017,Gewässer mit guter Wasserqualität,Seen und Talsperren,
-2018,Gewässer mit guter Wasserqualität,Seen und Talsperren,
-2019,Gewässer mit guter Wasserqualität,Seen und Talsperren,
-2010,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,32.1
-2011,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,38.2
-2012,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,35.7
-2013,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,36.1
-2014,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,34.8
-2015,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,30.6
-2016,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,37.1
-2017,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,35.5
-2018,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,44.3
-2019,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,,42.8
+Year,Zeitreihe,Value
+2010,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,32.1
+2011,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,38.2
+2012,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,35.7
+2013,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,36.1
+2014,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,34.8
+2015,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,30.6
+2016,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,37.1
+2017,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,35.5
+2018,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,44.3
+2019,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,42.8
+2020,Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor,
+2010,proportion groundwater below threshold for nitrate,81.7
+2011,proportion groundwater below threshold for nitrate,82.0
+2012,proportion groundwater below threshold for nitrate,81.0
+2013,proportion groundwater below threshold for nitrate,81.4
+2014,proportion groundwater below threshold for nitrate,81.8
+2015,proportion groundwater below threshold for nitrate,81.0
+2016,proportion groundwater below threshold for nitrate,81.8
+2017,proportion groundwater below threshold for nitrate,83.1
+2018,proportion groundwater below threshold for nitrate,82.7
+2019,proportion groundwater below threshold for nitrate,84.2
+2020,proportion groundwater below threshold for nitrate,84.1

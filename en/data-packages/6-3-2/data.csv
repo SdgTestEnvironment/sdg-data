@@ -1,41 +1,23 @@
-Year,Time series,Type of water body,Value
-2010,Water bodies with good quality,,
-2011,Water bodies with good quality,,
-2012,Water bodies with good quality,,
-2013,Water bodies with good quality,,
-2014,Water bodies with good quality,,38.99
-2015,Water bodies with good quality,,
-2016,Water bodies with good quality,,
-2017,Water bodies with good quality,,
-2018,Water bodies with good quality,,
-2019,Water bodies with good quality,,
-2010,Water bodies with good quality,River water bodies,
-2011,Water bodies with good quality,River water bodies,
-2012,Water bodies with good quality,River water bodies,
-2013,Water bodies with good quality,River water bodies,
-2014,Water bodies with good quality,River water bodies,35.08
-2015,Water bodies with good quality,River water bodies,
-2016,Water bodies with good quality,River water bodies,
-2017,Water bodies with good quality,River water bodies,
-2018,Water bodies with good quality,River water bodies,
-2019,Water bodies with good quality,River water bodies,
-2010,Water bodies with good quality,Open water bodies,
-2011,Water bodies with good quality,Open water bodies,
-2012,Water bodies with good quality,Open water bodies,
-2013,Water bodies with good quality,Open water bodies,
-2014,Water bodies with good quality,Open water bodies,72.41
-2015,Water bodies with good quality,Open water bodies,
-2016,Water bodies with good quality,Open water bodies,
-2017,Water bodies with good quality,Open water bodies,
-2018,Water bodies with good quality,Open water bodies,
-2019,Water bodies with good quality,Open water bodies,
-2010,Proportion flowing water with good ecological status for total phosphorous,,32.1
-2011,Proportion flowing water with good ecological status for total phosphorous,,38.2
-2012,Proportion flowing water with good ecological status for total phosphorous,,35.7
-2013,Proportion flowing water with good ecological status for total phosphorous,,36.1
-2014,Proportion flowing water with good ecological status for total phosphorous,,34.8
-2015,Proportion flowing water with good ecological status for total phosphorous,,30.6
-2016,Proportion flowing water with good ecological status for total phosphorous,,37.1
-2017,Proportion flowing water with good ecological status for total phosphorous,,35.5
-2018,Proportion flowing water with good ecological status for total phosphorous,,44.3
-2019,Proportion flowing water with good ecological status for total phosphorous,,42.8
+Year,Time series,Value
+2010,Proportion flowing water with good ecological status for total phosphorous,32.1
+2011,Proportion flowing water with good ecological status for total phosphorous,38.2
+2012,Proportion flowing water with good ecological status for total phosphorous,35.7
+2013,Proportion flowing water with good ecological status for total phosphorous,36.1
+2014,Proportion flowing water with good ecological status for total phosphorous,34.8
+2015,Proportion flowing water with good ecological status for total phosphorous,30.6
+2016,Proportion flowing water with good ecological status for total phosphorous,37.1
+2017,Proportion flowing water with good ecological status for total phosphorous,35.5
+2018,Proportion flowing water with good ecological status for total phosphorous,44.3
+2019,Proportion flowing water with good ecological status for total phosphorous,42.8
+2020,Proportion flowing water with good ecological status for total phosphorous,
+2010,proportion groundwater below threshold for nitrate,81.7
+2011,proportion groundwater below threshold for nitrate,82.0
+2012,proportion groundwater below threshold for nitrate,81.0
+2013,proportion groundwater below threshold for nitrate,81.4
+2014,proportion groundwater below threshold for nitrate,81.8
+2015,proportion groundwater below threshold for nitrate,81.0
+2016,proportion groundwater below threshold for nitrate,81.8
+2017,proportion groundwater below threshold for nitrate,83.1
+2018,proportion groundwater below threshold for nitrate,82.7
+2019,proportion groundwater below threshold for nitrate,84.2
+2020,proportion groundwater below threshold for nitrate,84.1
