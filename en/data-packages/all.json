@@ -2958,7 +2958,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -7188,7 +7188,7 @@
             "constraints": {
               "enum": [
                 "Proportion flowing water with good ecological status for total phosphorous",
-                "proportion groundwater below threshold for nitrate",
+                "Proportion groundwater below threshold for nitrate",
                 ""
               ]
             },
