@@ -58,7 +58,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Baden-Württemberg,code08,24.0
 2019,Percentage,Gender Pay Gap,,Baden-Württemberg,code08,23.0
 2020,Percentage,Gender Pay Gap,,Baden-Württemberg,code08,23.0
-2021,Percentage,Gender Pay Gap,,Baden-Württemberg,code08,
+2021,Percentage,Gender Pay Gap,,Baden-Württemberg,code08,22.0
 2010,Percentage,Gender Pay Gap,,Bavaria,code09,26.0
 2011,Percentage,Gender Pay Gap,,Bavaria,code09,25.0
 2012,Percentage,Gender Pay Gap,,Bavaria,code09,25.0
@@ -70,7 +70,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Bavaria,code09,24.0
 2019,Percentage,Gender Pay Gap,,Bavaria,code09,23.0
 2020,Percentage,Gender Pay Gap,,Bavaria,code09,22.0
-2021,Percentage,Gender Pay Gap,,Bavaria,code09,
+2021,Percentage,Gender Pay Gap,,Bavaria,code09,21.0
 2010,Percentage,Gender Pay Gap,,Berlin,code11,14.0
 2011,Percentage,Gender Pay Gap,,Berlin,code11,15.0
 2012,Percentage,Gender Pay Gap,,Berlin,code11,15.0
@@ -82,7 +82,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Berlin,code11,10.0
 2019,Percentage,Gender Pay Gap,,Berlin,code11,10.0
 2020,Percentage,Gender Pay Gap,,Berlin,code11,10.0
-2021,Percentage,Gender Pay Gap,,Berlin,code11,
+2021,Percentage,Gender Pay Gap,,Berlin,code11,10.0
 2010,Percentage,Gender Pay Gap,,Brandenburg,code12,7.0
 2011,Percentage,Gender Pay Gap,,Brandenburg,code12,6.0
 2012,Percentage,Gender Pay Gap,,Brandenburg,code12,7.0
@@ -94,7 +94,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Brandenburg,code12,6.0
 2019,Percentage,Gender Pay Gap,,Brandenburg,code12,7.0
 2020,Percentage,Gender Pay Gap,,Brandenburg,code12,6.0
-2021,Percentage,Gender Pay Gap,,Brandenburg,code12,
+2021,Percentage,Gender Pay Gap,,Brandenburg,code12,5.0
 2010,Percentage,Gender Pay Gap,,Bremen,code04,24.0
 2011,Percentage,Gender Pay Gap,,Bremen,code04,24.0
 2012,Percentage,Gender Pay Gap,,Bremen,code04,27.0
@@ -106,7 +106,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Bremen,code04,23.0
 2019,Percentage,Gender Pay Gap,,Bremen,code04,25.0
 2020,Percentage,Gender Pay Gap,,Bremen,code04,22.0
-2021,Percentage,Gender Pay Gap,,Bremen,code04,
+2021,Percentage,Gender Pay Gap,,Bremen,code04,22.0
 2010,Percentage,Gender Pay Gap,,Hamburg,code02,23.0
 2011,Percentage,Gender Pay Gap,,Hamburg,code02,22.0
 2012,Percentage,Gender Pay Gap,,Hamburg,code02,24.0
@@ -118,7 +118,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Hamburg,code02,21.0
 2019,Percentage,Gender Pay Gap,,Hamburg,code02,21.0
 2020,Percentage,Gender Pay Gap,,Hamburg,code02,21.0
-2021,Percentage,Gender Pay Gap,,Hamburg,code02,
+2021,Percentage,Gender Pay Gap,,Hamburg,code02,21.0
 2010,Percentage,Gender Pay Gap,,Hesse,code06,25.0
 2011,Percentage,Gender Pay Gap,,Hesse,code06,25.0
 2012,Percentage,Gender Pay Gap,,Hesse,code06,24.0
@@ -130,7 +130,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Hesse,code06,21.0
 2019,Percentage,Gender Pay Gap,,Hesse,code06,19.0
 2020,Percentage,Gender Pay Gap,,Hesse,code06,18.0
-2021,Percentage,Gender Pay Gap,,Hesse,code06,
+2021,Percentage,Gender Pay Gap,,Hesse,code06,18.0
 2010,Percentage,Gender Pay Gap,,Mecklenburg Western Pomerania,code13,4.0
 2011,Percentage,Gender Pay Gap,,Mecklenburg Western Pomerania,code13,6.0
 2012,Percentage,Gender Pay Gap,,Mecklenburg Western Pomerania,code13,7.0
@@ -142,7 +142,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Mecklenburg Western Pomerania,code13,6.0
 2019,Percentage,Gender Pay Gap,,Mecklenburg Western Pomerania,code13,6.0
 2020,Percentage,Gender Pay Gap,,Mecklenburg Western Pomerania,code13,6.0
-2021,Percentage,Gender Pay Gap,,Mecklenburg Western Pomerania,code13,
+2021,Percentage,Gender Pay Gap,,Mecklenburg Western Pomerania,code13,5.0
 2010,Percentage,Gender Pay Gap,,Lower Saxony,code03,22.0
 2011,Percentage,Gender Pay Gap,,Lower Saxony,code03,22.0
 2012,Percentage,Gender Pay Gap,,Lower Saxony,code03,21.0
@@ -154,7 +154,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Lower Saxony,code03,21.0
 2019,Percentage,Gender Pay Gap,,Lower Saxony,code03,21.0
 2020,Percentage,Gender Pay Gap,,Lower Saxony,code03,19.0
-2021,Percentage,Gender Pay Gap,,Lower Saxony,code03,
+2021,Percentage,Gender Pay Gap,,Lower Saxony,code03,19.0
 2010,Percentage,Gender Pay Gap,,North Rhine-Westphalia,code05,23.0
 2011,Percentage,Gender Pay Gap,,North Rhine-Westphalia,code05,23.0
 2012,Percentage,Gender Pay Gap,,North Rhine-Westphalia,code05,24.0
@@ -166,7 +166,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,North Rhine-Westphalia,code05,20.0
 2019,Percentage,Gender Pay Gap,,North Rhine-Westphalia,code05,19.0
 2020,Percentage,Gender Pay Gap,,North Rhine-Westphalia,code05,18.0
-2021,Percentage,Gender Pay Gap,,North Rhine-Westphalia,code05,
+2021,Percentage,Gender Pay Gap,,North Rhine-Westphalia,code05,17.0
 2010,Percentage,Gender Pay Gap,,Rhineland Palatinate,code07,22.0
 2011,Percentage,Gender Pay Gap,,Rhineland Palatinate,code07,22.0
 2012,Percentage,Gender Pay Gap,,Rhineland Palatinate,code07,22.0
@@ -178,7 +178,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Rhineland Palatinate,code07,18.0
 2019,Percentage,Gender Pay Gap,,Rhineland Palatinate,code07,17.0
 2020,Percentage,Gender Pay Gap,,Rhineland Palatinate,code07,15.0
-2021,Percentage,Gender Pay Gap,,Rhineland Palatinate,code07,
+2021,Percentage,Gender Pay Gap,,Rhineland Palatinate,code07,15.0
 2010,Percentage,Gender Pay Gap,,Saarland,code10,25.0
 2011,Percentage,Gender Pay Gap,,Saarland,code10,25.0
 2012,Percentage,Gender Pay Gap,,Saarland,code10,25.0
@@ -190,7 +190,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Saarland,code10,23.0
 2019,Percentage,Gender Pay Gap,,Saarland,code10,22.0
 2020,Percentage,Gender Pay Gap,,Saarland,code10,20.0
-2021,Percentage,Gender Pay Gap,,Saarland,code10,
+2021,Percentage,Gender Pay Gap,,Saarland,code10,20.0
 2010,Percentage,Gender Pay Gap,,Saxony,code14,9.0
 2011,Percentage,Gender Pay Gap,,Saxony,code14,10.0
 2012,Percentage,Gender Pay Gap,,Saxony,code14,11.0
@@ -202,7 +202,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Saxony,code14,8.0
 2019,Percentage,Gender Pay Gap,,Saxony,code14,7.0
 2020,Percentage,Gender Pay Gap,,Saxony,code14,7.0
-2021,Percentage,Gender Pay Gap,,Saxony,code14,
+2021,Percentage,Gender Pay Gap,,Saxony,code14,6.0
 2010,Percentage,Gender Pay Gap,,Saxony-Anhalt,code15,4.0
 2011,Percentage,Gender Pay Gap,,Saxony-Anhalt,code15,5.0
 2012,Percentage,Gender Pay Gap,,Saxony-Anhalt,code15,5.0
@@ -214,7 +214,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Saxony-Anhalt,code15,8.0
 2019,Percentage,Gender Pay Gap,,Saxony-Anhalt,code15,7.0
 2020,Percentage,Gender Pay Gap,,Saxony-Anhalt,code15,8.0
-2021,Percentage,Gender Pay Gap,,Saxony-Anhalt,code15,
+2021,Percentage,Gender Pay Gap,,Saxony-Anhalt,code15,7.0
 2010,Percentage,Gender Pay Gap,,Schleswig-Holstein,code01,18.0
 2011,Percentage,Gender Pay Gap,,Schleswig-Holstein,code01,17.0
 2012,Percentage,Gender Pay Gap,,Schleswig-Holstein,code01,18.0
@@ -226,7 +226,7 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Schleswig-Holstein,code01,14.0
 2019,Percentage,Gender Pay Gap,,Schleswig-Holstein,code01,13.0
 2020,Percentage,Gender Pay Gap,,Schleswig-Holstein,code01,13.0
-2021,Percentage,Gender Pay Gap,,Schleswig-Holstein,code01,
+2021,Percentage,Gender Pay Gap,,Schleswig-Holstein,code01,12.0
 2010,Percentage,Gender Pay Gap,,Thuringia,code16,6.0
 2011,Percentage,Gender Pay Gap,,Thuringia,code16,7.0
 2012,Percentage,Gender Pay Gap,,Thuringia,code16,8.0
@@ -238,4 +238,4 @@ Year,Units,Time series,Sex,Region,GeoCode,Value
 2018,Percentage,Gender Pay Gap,,Thuringia,code16,6.0
 2019,Percentage,Gender Pay Gap,,Thuringia,code16,6.0
 2020,Percentage,Gender Pay Gap,,Thuringia,code16,5.0
-2021,Percentage,Gender Pay Gap,,Thuringia,code16,
+2021,Percentage,Gender Pay Gap,,Thuringia,code16,5.0
