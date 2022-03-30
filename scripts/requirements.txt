@@ -4,3 +4,4 @@ gitpython
 ruamel.yaml>=0.15
 git+https://github.com/dougmet/yamlmd
 git+https://github.com/open-sdg/sdg-build@1.7.0
+click==8.0
