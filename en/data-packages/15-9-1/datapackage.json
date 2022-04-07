@@ -16,8 +16,32 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "COMMENT_TS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "comment a",
+                "comment b",
+                ""
+              ]
+            },
+            "title": "COMMENT_TS"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
