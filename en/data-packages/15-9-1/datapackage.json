@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "comment a",
-                "comment b",
+                "Comm a",
+                "Comm b",
                 ""
               ]
             },
