@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit Krankenversicherungsschutz",
-                "Arbeitslose Leistungsbezieher",
+                "population covered by health insurance",
+                "unemployed persons with unemployment benefits",
                 ""
               ]
             },

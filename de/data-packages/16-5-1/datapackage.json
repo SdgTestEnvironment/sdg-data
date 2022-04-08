@@ -45,7 +45,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
+                "population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
                 "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten",
                 ""
               ]

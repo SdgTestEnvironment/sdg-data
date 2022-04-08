@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Armutsgefährdungsquote",
-                "Staatsausgaben für soziale Sicherung",
+                "at-risk-of-poverty rate",
+                "government expenditure on social protection",
                 ""
               ]
             },

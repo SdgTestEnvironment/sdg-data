@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die körperlicher Gewalt ausgesetzt war",
+                "population who were exposed to physical violence",
                 "Bevölkerung, die Opfer einer Straftat war",
                 "Opfer von Straftaten",
                 ""

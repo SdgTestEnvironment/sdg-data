@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DTP vaccination coverage at school entry",
-                "Measles vaccination coverage at school entry",
-                "Pneumococcal vaccination coverage at school entry",
-                "HPV vaccination coverages among 15 years old girls and boys",
+                "dtp vaccination coverage at school entry",
+                "measles vaccination coverage at school entry",
+                "pneumococcal vaccination coverage at school entry",
+                "hpv vaccination coverages among 15 years old girls and boys",
                 ""
               ]
             },

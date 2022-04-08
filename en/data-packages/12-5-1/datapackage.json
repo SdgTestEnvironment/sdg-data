@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Recycling rate",
-                "Material recovery",
+                "material recovery",
                 ""
               ]
             },

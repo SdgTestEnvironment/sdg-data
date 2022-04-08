@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",
-                "Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",
+                "terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas",
+                "terrestrial and freshwater areas covered by protected areas",
                 ""
               ]
             },

@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aufkommen gefährlicher Abfälle",
-                "Behandelte gefährliche Abfälle",
+                "hazardous waste generated per capita",
+                "hazardous waste treated",
                 ""
               ]
             },

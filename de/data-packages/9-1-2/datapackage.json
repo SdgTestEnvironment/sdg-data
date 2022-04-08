@@ -48,8 +48,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Personenverkehr",
-                "Güterverkehr",
+                "passenger transport",
+                "freight transport",
                 ""
               ]
             },

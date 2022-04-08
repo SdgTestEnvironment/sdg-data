@@ -22,8 +22,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",
-                "Meeresfläche, die unter Schutz steht",
+                "marine key biodiversity areas (kbas) covered by protected areas",
+                "marine areas covered by protected areas",
                 ""
               ]
             },
@@ -302,13 +302,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Eigenkapitalquote",
-                "Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen",
-                "Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital",
-                "Anteil der notleidenden Kredite an den Bruttokrediten insgesamt",
-                "Gesamtkapitalrentabilität",
-                "Verbindlichkeiten",
-                "Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln",
+                "capital to assets ratio",
+                "regulatory tier 1 capital to risk-weighted assets",
+                "nonperforming loans net of provisions to capital",
+                "nonperforming loans net of provisions to gross loans",
+                "return on assets",
+                "liquid assets to short-term liabilities",
+                "net open position in foreign exchange to capital",
                 ""
               ]
             },
@@ -343,9 +343,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben (ODA) für den Forstsektor",
+                "oda (commitments) for biodiversity",
+                "oda (gross disbursements) for biodiversity",
+                "oda (gross disbursements) to the forestry sector",
                 ""
               ]
             },
@@ -380,8 +380,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tödliche Arbeitsunfälle",
-                "Nicht-tödliche Arbeitsunfälle",
+                "fatal occupational accidents",
+                "non-fatal occupational accidents",
                 ""
               ]
             },
@@ -675,8 +675,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit Krankenversicherungsschutz",
-                "Arbeitslose Leistungsbezieher",
+                "population covered by health insurance",
+                "unemployed persons with unemployment benefits",
                 ""
               ]
             },
@@ -1032,7 +1032,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
+                "population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
                 "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten",
                 ""
               ]
@@ -1452,7 +1452,7 @@
                 "Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche",
                 "Feuchtgebiete",
                 "Feuchtgebiete im Verhältnis zur gesamten Landfläche",
-                "Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)",
+                "lakes and rivers permanent water area change (compared to 2015)",
                 ""
               ]
             },
@@ -1474,7 +1474,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -1501,8 +1501,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)",
-                "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
+                "feeling of (in)security of the population in its neighbourhood (at night)",
+                "population not living in an area with crime, violence or vandalism",
                 ""
               ]
             },
@@ -1719,11 +1719,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Basler Übereinkommen",
-                "Montrealer Protokoll",
-                "Rotterdamer Übereinkommen",
-                "Stockholmer Übereinkommen",
-                "Minamata Übereinkommen",
+                "basel convention",
+                "montreal protocol",
+                "rotterdam convention",
+                "stockholm convention",
+                "minamata convention",
                 ""
               ]
             },
@@ -1885,7 +1885,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -1898,8 +1898,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit (eigener) Toilette",
-                "Bevölkerung mit (eigener) Badewanne oder Dusche",
+                "population with (own) toilet",
+                "population with (own) bathtub or shower",
                 ""
               ]
             },
@@ -1946,7 +1946,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",
+                "mountain key biodiversity areas (kbas) covered by protected areas",
                 "Flächen in Gebirgen, die unter Schutz stehen",
                 ""
               ]
@@ -2212,8 +2212,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Staatsausgaben, die durch Steuern finanziert werden",
-                "Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsausgaben finanziert werden",
+                "proportion of domestic expenditures funded by national taxes",
+                "proportion of domestic expenditures funded by national taxes and insurance contributions",
                 ""
               ]
             },
@@ -2358,8 +2358,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>",
-                "Bevölkerung mit erhöhter Feinstaubexposition",
+                "population weighted annual mean levels of pm10",
+                "population with excessive exposure to fine particulate matter",
                 ""
               ]
             },
@@ -2493,7 +2493,7 @@
               "enum": [
                 "Eigene und gepachtete landwirtschaftlich genutzte Flächen",
                 "Weibliche Inhaber landwirtschaftlicher Betriebe der Rechtsform Einzelunternehmen",
-                "Landwirtschaftliche Betriebe der Rechtsform Einzelunternehmen",
+                "agricultural holdings with the legal form of a sole proprietorship",
                 ""
               ]
             },
@@ -2540,8 +2540,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)",
-                "Staatsausgaben für Kultur (COFOG Abteilung 8.2)",
+                "government expenditure on protection of biodiversity and landscape (cofog division 5.4)",
+                "government expenditure on cultural services (cofog division 8.2)",
                 ""
               ]
             },
@@ -2599,7 +2599,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_kr",
       "schema": {
         "fields": [
           {
@@ -2612,8 +2612,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Übergewicht",
-                "Auszehrung",
+                "overweight",
+                "wasting",
                 ""
               ]
             },
@@ -2740,7 +2740,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die körperlicher Gewalt ausgesetzt war",
+                "population who were exposed to physical violence",
                 "Bevölkerung, die Opfer einer Straftat war",
                 "Opfer von Straftaten",
                 ""
@@ -2914,8 +2914,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aufkommen gefährlicher Abfälle",
-                "Behandelte gefährliche Abfälle",
+                "hazardous waste generated per capita",
+                "hazardous waste treated",
                 ""
               ]
             },
@@ -3252,8 +3252,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Opfer körperlicher Belästigung",
-                "Opfer sexueller Belästigung",
+                "victims of physical harassment",
+                "victims of sexual harassment",
                 ""
               ]
             },
@@ -3315,8 +3315,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tiergenetische Ressourcen",
-                "Pflanzengenetische Ressourcen",
+                "animal genetic resources",
+                "plant genetic resources",
                 ""
               ]
             },
@@ -3423,7 +3423,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vertragsparteien des Internationalen Saatgutvertrags",
+                "contracting parties to the international treaty on plant genetic resources for food and agriculture",
                 "Vertragsparteien des Nagoya-Protokolls",
                 "Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden",
                 "Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden",
@@ -3547,7 +3547,7 @@
             "constraints": {
               "enum": [
                 "Entbindungen in Krankenhäusern",
-                "Lebendgeborene insgesamt",
+                "live births in total",
                 ""
               ]
             },
@@ -3658,8 +3658,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Personenverkehr",
-                "Güterverkehr",
+                "passenger transport",
+                "freight transport",
                 ""
               ]
             },
@@ -3841,7 +3841,7 @@
             "constraints": {
               "enum": [
                 "Recyclingquote",
-                "Stoffliche Verwertung",
+                "material recovery",
                 ""
               ]
             },
@@ -3900,9 +3900,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben (ODA) für Biodiversität",
-                "Umweltschutzausgaben",
+                "oda (commitments) for biodiversity",
+                "oda (gross disbursements) for biodiversity",
+                "environmental protection expenditure",
                 ""
               ]
             },
@@ -3973,8 +3973,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CO₂-Emissionen zum realen BIP",
-                "CO₂-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe",
+                "co2 emissions per real gdp",
+                "co2 emissions per gross value added (price adjusted) in manufacturing industries",
                 ""
               ]
             },
@@ -4053,8 +4053,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wachstumsrate des Nettoäquivalenzeinkommens der gesamten Bevölkerung",
-                "Wachstumsrate des Nettoäquivalenzeinkommens der ärmsten 40 Prozent der Bevölkerung",
+                "growth rate of net equivalent income of the total population",
+                "growth rate of net equivalent income of the bottom 40 per cent of the population",
                 ""
               ]
             },
@@ -4089,8 +4089,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)",
-                "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)",
+                "population that has convenient access to public transport (within 500 meters)",
+                "population that has convenient access to public transport (within 10 minutes walking distance)",
                 ""
               ]
             },
@@ -4856,7 +4856,7 @@
             "constraints": {
               "enum": [
                 "Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE",
-                "Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)",
+                "proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)",
                 ""
               ]
             },
@@ -4953,9 +4953,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Staatsausgaben für Bildung",
-                "Staatsausgaben für Gesundheit",
-                "Staatsausgaben für soziale Sicherung",
+                "government expenditure on education",
+                "government expenditure on health",
+                "government expenditure on social protection",
                 ""
               ]
             },
@@ -5079,8 +5079,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen",
-                "MSY-untersuchte an allen bewirtschafteten Beständen",
+                "proportion of sustainable managed stocks in all msy examined stocks",
+                "proportion of msy examined in all managed stocks",
                 ""
               ]
             },
@@ -5227,8 +5227,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung",
-                "Bevölkerung mit Anschluss an die öffentliche Wasserversorgung",
+                "population using safely managed drinking water services",
+                "population connected to the public water supply system",
                 ""
               ]
             },
@@ -5393,8 +5393,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zweigstellen von Zahlungsverkehrsdienstleistern",
-                "Bankautomaten von inländischen Zahlungsdienstleistern",
+                "branches of payment service providers",
+                "atms of national payment service providers",
                 ""
               ]
             },
@@ -5561,8 +5561,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
+                "documents issued for the import and export of protected species",
+                "seizures by authorities concerning the protection of species",
                 ""
               ]
             },
@@ -5857,8 +5857,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzeigequote bei Körperverletzung",
-                "Anzeigequote bei Raub",
+                "reporting rate for physical assault",
+                "reporting rate for robbery",
                 ""
               ]
             },
@@ -6262,8 +6262,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Armutsgefährdungsquote",
-                "Staatsausgaben für soziale Sicherung",
+                "at-risk-of-poverty rate",
+                "government expenditure on social protection",
                 ""
               ]
             },
@@ -6334,10 +6334,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DTP-Impfquote zum Schuleintritt",
-                "Masern-Impfquote zum Schuleintritt",
-                "Pneumokokken-Impfquote zum Schuleintritt",
-                "HPV-Impfquoten bei 15-jährigen Mädchen und Jungen",
+                "dtp vaccination coverage at school entry",
+                "measles vaccination coverage at school entry",
+                "pneumococcal vaccination coverage at school entry",
+                "hpv vaccination coverages among 15 years old girls and boys",
                 ""
               ]
             },
@@ -6384,8 +6384,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis von Frauen im öffentlichen Dienst",
-                "Verhältnis von Frauen in der Justiz",
+                "ratio of female members in the public service",
+                "ratio of female members in the judiciary",
                 ""
               ]
             },
@@ -6604,8 +6604,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF) für Handelshilfe",
-                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe",
+                "oda and oof (commitments) for aid for trade",
+                "oda and oof (gross disbursement) for aid for trade",
                 ""
               ]
             },
@@ -6912,7 +6912,7 @@
                 "Jährliche Wachstumsrate des realen BIP",
                 "Verfügbares Einkommen privater Haushalte",
                 "Konsum privater Haushalte",
-                "Schulden des Öffentlichen Gesamthaushalts",
+                "debts of the total public budget",
                 "Finanzierungssaldo des Staates",
                 "Bruttoanlageinvestitionen",
                 "Geleistete Arbeitsstunden der Arbeitnehmer",
@@ -7352,8 +7352,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",
-                "Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",
+                "terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas",
+                "terrestrial and freshwater areas covered by protected areas",
                 ""
               ]
             },
@@ -7462,7 +7462,7 @@
             "constraints": {
               "enum": [
                 "Penetrationsrate Mobilfunk",
-                "Privathaushalte mit mindestens einem Mobiltelefon",
+                "private households with at least one mobile phone",
                 ""
               ]
             },
@@ -7686,8 +7686,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
-                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
+                "oda and oof (commitments) for capacity building and national planning (without south-south cooperations)",
+                "oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)",
                 ""
               ]
             },
@@ -7894,7 +7894,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung",
+                "ratio of land consumption rate to population growth rate (year-to-year)",
                 "Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung",
                 "Flächenverbrauchsrate",
                 "Bevölkerungsentwicklung",
@@ -8202,7 +8202,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Frauenanteil in Parlamenten",
+                "proportion of women in parliaments",
                 "Frauenanteil in Gemeinden",
                 ""
               ]
@@ -8355,11 +8355,11 @@
             "constraints": {
               "enum": [
                 "Überbelegungsquote",
-                "Quote der Überbelastung durch Wohnkosten",
-                "Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
-                "Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",
-                "Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",
-                "Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+                "housing cost overburden rate",
+                "population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+                "population having neither a bath, nor a shower in their dwelling",
+                "population not having indoor flushing toilet for the sole use of their household",
+                "Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet",
                 ""
               ]
             },
@@ -8512,7 +8512,7 @@
             "constraints": {
               "enum": [
                 "Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden",
-                "Siedlungsabfälle insgesamt",
+                "municipal solid waste in total",
                 ""
               ]
             },
@@ -8909,9 +8909,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden",
-                "(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020",
-                "(2) Online-Umfrage zu politischen Reaktionen, Mandat, rechtlichen Befugnissen und Ressourcen für den Umgang mit der Bedrohung durch invasive gebietsfremde Arten",
+                "(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control",
+                "(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020",
+                "(2) online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species",
                 ""
               ]
             },
@@ -9240,8 +9240,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
+                "documents issued for the import and export of protected species",
+                "seizures by authorities concerning the protection of species",
                 ""
               ]
             },
@@ -9277,7 +9277,7 @@
             "constraints": {
               "enum": [
                 "Zusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten",
-                "Bruttoausgaben (ODA und OOF) zum Ausbau statistischer Kapazitäten",
+                "oda and oof (gross disbursements) to strengthen statistical capacity",
                 ""
               ]
             },
@@ -9433,8 +9433,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tabakkonsum in der Bevölkerung ab 15 Jahren",
-                "Tabakkonsum in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)",
+                "current tobacco use among persons aged 15 years and older",
+                "current tobacco use among persons aged 15 years and older (age-standardised to who standard population)",
                 ""
               ]
             },

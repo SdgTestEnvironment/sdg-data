@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (commitments) for biodiversity",
-                "ODA (gross disbursements) for biodiversity",
-                "Environmental protection expenditure",
+                "oda (commitments) for biodiversity",
+                "oda (gross disbursements) for biodiversity",
+                "environmental protection expenditure",
                 ""
               ]
             },

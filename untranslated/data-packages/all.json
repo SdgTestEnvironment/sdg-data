@@ -21,8 +21,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "marine key biodiversity areas (kbas) covered by protected areas (%)",
-                "protected marine area (%)",
+                "marine key biodiversity areas (kbas) covered by protected areas",
+                "marine areas covered by protected areas",
                 ""
               ]
             }
@@ -278,13 +278,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "capital to assets ratio (%)",
-                "regulatory tier 1 capital to risk-weighted assets (%)",
-                "nonperforming loans net of provisions to capital (%)",
-                "nonperforming loans net of provisions to gross loans (%)",
-                "return on assets (%)",
-                "liquid assets to short-term liabilities (%)",
-                "net open position in foreign exchange to capital (%)",
+                "capital to assets ratio",
+                "regulatory tier 1 capital to risk-weighted assets",
+                "nonperforming loans net of provisions to capital",
+                "nonperforming loans net of provisions to gross loans",
+                "return on assets",
+                "liquid assets to short-term liabilities",
+                "net open position in foreign exchange to capital",
                 ""
               ]
             }
@@ -316,9 +316,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) oda (commitments) for biodiversity",
-                "b) oda (disbursements) for biodiversity",
-                "c) oda (gross disbursements) to the forestry sector",
+                "oda (commitments) for biodiversity",
+                "oda (gross disbursements) for biodiversity",
+                "oda (gross disbursements) to the forestry sector",
                 ""
               ]
             }
@@ -350,8 +350,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fatal occupational accidents (per 100 000 employees)",
-                "non-fatal occupational accidents (per 100 000 employees)",
+                "fatal occupational accidents",
+                "non-fatal occupational accidents",
                 ""
               ]
             }
@@ -621,8 +621,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population covered by health insurance (%)",
-                "unemployed persons with unemployment benefits (%)",
+                "population covered by health insurance",
+                "unemployed persons with unemployment benefits",
                 ""
               ]
             }
@@ -949,7 +949,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population who had the impression that public officials are corruptible",
+                "population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
                 "private persons (donors) suspected in the context of corruption offences",
                 ""
               ]
@@ -1335,7 +1335,7 @@
                 "lakes and rivers permanent water area as a proportion of total land area",
                 "wetlands area",
                 "wetlands area as a proportion of total land area",
-                "lakes and rivers permanent water area change",
+                "lakes and rivers permanent water area change (compared to 2015)",
                 ""
               ]
             }
@@ -1380,8 +1380,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "feelings of insecurity in the neighbourhood",
-                "population not living in an area with crime, violence or vandalism (%)",
+                "feeling of (in)security of the population in its neighbourhood (at night)",
+                "population not living in an area with crime, violence or vandalism",
                 ""
               ]
             }
@@ -1580,11 +1580,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "compliance with the basel convention (%)",
-                "compliance with the montreal protocol (%)",
-                "compliance with the rotterdam convention (%)",
-                "compliance with the stockholm convention (%)",
-                "compliance with the minamata convention (%)",
+                "basel convention",
+                "montreal protocol",
+                "rotterdam convention",
+                "stockholm convention",
+                "minamata convention",
                 ""
               ]
             }
@@ -1744,8 +1744,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "toilet",
-                "bathtub or shower",
+                "population with (own) toilet",
+                "population with (own) bathtub or shower",
                 ""
               ]
             }
@@ -1788,7 +1788,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "key biodiversity areas (kbas) covered by protected areas",
+                "mountain key biodiversity areas (kbas) covered by protected areas",
                 "mountain regions, covered by protected areas",
                 ""
               ]
@@ -2032,8 +2032,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of domestic expenditures funded by national taxes (%)",
-                "proportion of domestic expenditures funded by national taxes and insurance contributions (%)",
+                "proportion of domestic expenditures funded by national taxes",
+                "proportion of domestic expenditures funded by national taxes and insurance contributions",
                 ""
               ]
             }
@@ -2166,8 +2166,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population weighted annual mean levels of pm10 (micrograms per cubic meter)",
-                "share of the population with excessive exposure to fine particulate matter",
+                "population weighted annual mean levels of pm10",
+                "population with excessive exposure to fine particulate matter",
                 ""
               ]
             }
@@ -2290,7 +2290,7 @@
               "enum": [
                 "owned and leased agricultural land",
                 "female owners of agricultural holdings with the legal form of a sole proprietorship",
-                "agricultural holdings with the legal of a form sole proprietorship",
+                "agricultural holdings with the legal form of a sole proprietorship",
                 ""
               ]
             }
@@ -2333,8 +2333,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "goverment expenditure on protection of biodiversity and landscape (cofog division 5.4) (bn eur)",
-                "goverment expenditure on cultural services (cofog division 8.2) (bn eur)",
+                "government expenditure on protection of biodiversity and landscape (cofog division 5.4)",
+                "government expenditure on cultural services (cofog division 8.2)",
                 ""
               ]
             }
@@ -2399,8 +2399,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "overweight among children under the age of 5 years (%)",
-                "wasting among children under the age of 5 years (%)",
+                "overweight",
+                "wasting",
                 ""
               ]
             }
@@ -2516,7 +2516,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population subjected to physical violence",
+                "population who were exposed to physical violence",
                 "population who were victims of criminal offences",
                 "victims of criminal offences",
                 ""
@@ -2676,8 +2676,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) hazardous waste generated per capita",
-                "b) hazardous waste treated",
+                "hazardous waste generated per capita",
+                "hazardous waste treated",
                 ""
               ]
             }
@@ -2986,8 +2986,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "physical harassment",
-                "sexual harassment",
+                "victims of physical harassment",
+                "victims of sexual harassment",
                 ""
               ]
             }
@@ -3044,8 +3044,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "animal genetic resources (number)",
-                "plant genetic resources (number)",
+                "animal genetic resources",
+                "plant genetic resources",
                 ""
               ]
             }
@@ -3143,7 +3143,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "contractingparties to the international treaty on plant genetic resources for food and agriculture",
+                "contracting parties to the international treaty on plant genetic resources for food and agriculture",
                 "parties to the nagoya protocol",
                 "countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture",
                 "countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house",
@@ -3257,7 +3257,7 @@
             "constraints": {
               "enum": [
                 "child deliveries in hospitals",
-                "live births total",
+                "live births in total",
                 ""
               ]
             }
@@ -3359,8 +3359,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "passenger transports",
-                "freight transports",
+                "passenger transport",
+                "freight transport",
                 ""
               ]
             }
@@ -3527,7 +3527,7 @@
             "constraints": {
               "enum": [
                 "recycling rate",
-                "recycled waste",
+                "material recovery",
                 ""
               ]
             }
@@ -3581,9 +3581,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) oda (commitments) for biodiversity",
-                "b) oda (disbursements) for biodiversity",
-                "c) environmental protection expenditure",
+                "oda (commitments) for biodiversity",
+                "oda (gross disbursements) for biodiversity",
+                "environmental protection expenditure",
                 ""
               ]
             }
@@ -3648,8 +3648,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "co2 emission per real gdp",
-                "co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010))",
+                "co2 emissions per real gdp",
+                "co2 emissions per gross value added (price adjusted) in manufacturing industries",
                 ""
               ]
             }
@@ -3721,8 +3721,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "growth rate of income of the total population (%)",
-                "growth rate of income of the bottom 40 per cent of the population (%)",
+                "growth rate of net equivalent income of the total population",
+                "growth rate of net equivalent income of the bottom 40 per cent of the population",
                 ""
               ]
             }
@@ -3754,8 +3754,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population that has convenient access to public transport (within 500 meters) (%)",
-                "population that has convenient access to public transport (within 10 minutes walking distance) (%)",
+                "population that has convenient access to public transport (within 500 meters)",
+                "population that has convenient access to public transport (within 10 minutes walking distance)",
                 ""
               ]
             }
@@ -4458,7 +4458,7 @@
             "constraints": {
               "enum": [
                 "proportion of oda (net disbursements) to gni",
-                "proportion of bilateral and imputed multilateral oda (net disbursements) for lcds to the gross national income (gni)",
+                "proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)",
                 ""
               ]
             }
@@ -4547,9 +4547,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) government expenditure on education (cofog division 9) (%)",
-                "a) government expenditure on health (cofog division 7) (%)",
-                "c) government expenditure on social protection (cofog division 10) (%)",
+                "government expenditure on education",
+                "government expenditure on health",
+                "government expenditure on social protection",
                 ""
               ]
             }
@@ -4663,8 +4663,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fish stocks within biologically sustainable levels (%)",
-                "proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks",
+                "proportion of sustainable managed stocks in all msy examined stocks",
+                "proportion of msy examined in all managed stocks",
                 ""
               ]
             }
@@ -4799,8 +4799,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population using safely managed drinking water services (%)",
-                "population connected to the public water supply system (%)",
+                "population using safely managed drinking water services",
+                "population connected to the public water supply system",
                 ""
               ]
             }
@@ -4951,8 +4951,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) branches of payment service providers (per 100 000 adults)",
-                "b) atms of national payment service providers (per 100 000 adults)",
+                "branches of payment service providers",
+                "atms of national payment service providers",
                 ""
               ]
             }
@@ -5105,8 +5105,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "documents issued for the import and export of protected species (number)",
-                "seizures by authorities concerning the protection of species (number)",
+                "documents issued for the import and export of protected species",
+                "seizures by authorities concerning the protection of species",
                 ""
               ]
             }
@@ -5376,8 +5376,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) police reporting rate for physical assault (%)",
-                "c) police reporting rate for robbery (%)",
+                "reporting rate for physical assault",
+                "reporting rate for robbery",
                 ""
               ]
             }
@@ -5748,8 +5748,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "at-risk-of-poverty rate (according to eurostat definition) (%)",
-                "c) government expenditure on social protection (cofog division 10) (%)",
+                "at-risk-of-poverty rate",
+                "government expenditure on social protection",
                 ""
               ]
             }
@@ -5814,10 +5814,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "dtp vaccination rate at school entrance",
-                "measles vaccination rate at sschool entrance",
-                "pneumococcal vaccination rate at school entrance",
-                "hpv vaccination rate among 15 years old girls",
+                "dtp vaccination coverage at school entry",
+                "measles vaccination coverage at school entry",
+                "pneumococcal vaccination coverage at school entry",
+                "hpv vaccination coverages among 15 years old girls and boys",
                 ""
               ]
             }
@@ -5860,8 +5860,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "proportions of positions of women in the public service compared to the national distribution, by field of work",
-                "ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court",
+                "ratio of female members in the public service",
+                "ratio of female members in the judiciary",
                 ""
               ]
             }
@@ -6062,8 +6062,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aid for trade commitments (oda and oof)",
-                "aid for trade gross disbursements (oda and oof)",
+                "oda and oof (commitments) for aid for trade",
+                "oda and oof (gross disbursement) for aid for trade",
                 ""
               ]
             }
@@ -6345,7 +6345,7 @@
                 "annual growth rate of real gdp",
                 "available income of private households",
                 "consumption by private households",
-                "debt level of the total public budget",
+                "debts of the total public budget",
                 "government fiscal balance",
                 "gross fixed capital formation",
                 "hours worked by employees",
@@ -6749,8 +6749,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "key biodiversity areas (kbas) covered by protected areas (%)",
-                "protected terrestrial areas (%)",
+                "terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas",
+                "terrestrial and freshwater areas covered by protected areas",
                 ""
               ]
             }
@@ -6850,7 +6850,7 @@
             "constraints": {
               "enum": [
                 "mobile penetration rate",
-                "private households with at least one mobile phone (%)",
+                "private households with at least one mobile phone",
                 ""
               ]
             }
@@ -7056,8 +7056,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments) for capacity building and national planning (without south-south cooperation)",
-                "oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperation)",
+                "oda and oof (commitments) for capacity building and national planning (without south-south cooperations)",
+                "oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)",
                 ""
               ]
             }
@@ -7247,7 +7247,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ratio of land consumption rate to population growth rate",
+                "ratio of land consumption rate to population growth rate (year-to-year)",
                 "proportion of settlement and transport areas to population",
                 "land consumption rate",
                 "population growth rate",
@@ -7530,7 +7530,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "seats held by women in national parliament",
+                "proportion of women in parliaments",
                 "proportion of women in local governments",
                 ""
               ]
@@ -7671,11 +7671,11 @@
             "constraints": {
               "enum": [
                 "overcrowding rate",
-                "rate of overburdening by housing costs",
-                "population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor",
-                "population that has neither a bath, nor a shower in their home",
-                "population that does not have a toilet for the sole use of their household",
-                "population that considers their accommodation too dark",
+                "housing cost overburden rate",
+                "population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+                "population having neither a bath, nor a shower in their dwelling",
+                "population not having indoor flushing toilet for the sole use of their household",
+                "population considering their dwelling as too dark",
                 ""
               ]
             }
@@ -7815,7 +7815,7 @@
             "constraints": {
               "enum": [
                 "municipal solid waste regularly collected and treated",
-                "total municipal solid waste generated",
+                "municipal solid waste in total",
                 ""
               ]
             }
@@ -8179,9 +8179,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "national legislation considered relevant to the prevention of introduction of invasive alien species and control",
-                "national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020",
-                "online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species",
+                "(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control",
+                "(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020",
+                "(2) online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species",
                 ""
               ]
             }
@@ -8484,8 +8484,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "documents issued for the import and export of protected species (number)",
-                "seizures by authorities concerning the protection of species (number)",
+                "documents issued for the import and export of protected species",
+                "seizures by authorities concerning the protection of species",
                 ""
               ]
             }
@@ -8518,7 +8518,7 @@
             "constraints": {
               "enum": [
                 "oda and oof (commitments) to strengthen statistical capacity",
-                "oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity",
+                "oda and oof (gross disbursements) to strengthen statistical capacity",
                 ""
               ]
             }
@@ -8661,8 +8661,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "current tobacco use among persons aged 15 years and older (%)",
-                "current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%)",
+                "current tobacco use among persons aged 15 years and older",
+                "current tobacco use among persons aged 15 years and older (age-standardised to who standard population)",
                 ""
               ]
             }

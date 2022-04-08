@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fatal occupational accidents",
-                "Non-fatal occupational accidents",
+                "fatal occupational accidents",
+                "non-fatal occupational accidents",
                 ""
               ]
             },

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of women in parliaments",
+                "proportion of women in parliaments",
                 "Proportion of women in local governments",
                 ""
               ]

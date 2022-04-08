@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Entbindungen in Krankenhäusern",
-                "Lebendgeborene insgesamt",
+                "live births in total",
                 ""
               ]
             },

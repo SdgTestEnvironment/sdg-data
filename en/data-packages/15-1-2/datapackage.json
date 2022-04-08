@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas",
-                "Terrestrial and freshwater areas covered by protected areas",
+                "terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas",
+                "terrestrial and freshwater areas covered by protected areas",
                 ""
               ]
             },

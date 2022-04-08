@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) for aid for trade",
-                "ODA and OOF (gross disbursement) for aid for trade",
+                "oda and oof (commitments) for aid for trade",
+                "oda and oof (gross disbursement) for aid for trade",
                 ""
               ]
             },

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",
-                "Meeresfläche, die unter Schutz steht",
+                "marine key biodiversity areas (kbas) covered by protected areas",
+                "marine areas covered by protected areas",
                 ""
               ]
             },
