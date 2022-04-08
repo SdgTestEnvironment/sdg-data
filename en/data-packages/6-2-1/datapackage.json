@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population with (own) toilet",
-                "population with (own) bathtub or shower",
+                "Population with (own) toilet",
+                "Population with (own) bathtub or shower",
                 ""
               ]
             },

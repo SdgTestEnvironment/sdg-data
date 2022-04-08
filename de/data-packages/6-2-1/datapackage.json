@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population with (own) toilet",
-                "population with (own) bathtub or shower",
+                "Bevölkerung mit (eigener) Toilette",
+                "Bevölkerung mit (eigener) Badewanne oder Dusche",
                 ""
               ]
             },

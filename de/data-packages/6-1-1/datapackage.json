@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population using safely managed drinking water services",
-                "population connected to the public water supply system",
+                "Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung",
+                "Bevölkerung mit Anschluss an die öffentliche Wasserversorgung",
                 ""
               ]
             },

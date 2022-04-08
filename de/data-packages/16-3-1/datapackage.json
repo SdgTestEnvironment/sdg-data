@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "reporting rate for physical assault",
-                "reporting rate for robbery",
+                "Anzeigequote bei Körperverletzung",
+                "Anzeigequote bei Raub",
                 ""
               ]
             },

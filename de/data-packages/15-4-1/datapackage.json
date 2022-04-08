@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mountain key biodiversity areas (kbas) covered by protected areas",
+                "Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",
                 "Flächen in Gebirgen, die unter Schutz stehen",
                 ""
               ]

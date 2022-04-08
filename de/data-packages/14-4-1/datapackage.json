@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of sustainable managed stocks in all msy examined stocks",
-                "proportion of msy examined in all managed stocks",
+                "Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen",
+                "MSY-untersuchte an allen bewirtschafteten Beständen",
                 ""
               ]
             },

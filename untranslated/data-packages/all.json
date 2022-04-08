@@ -4376,7 +4376,7 @@
             "type": "integer"
           },
           {
-            "name": "COMMMENT_TS",
+            "name": "COMMENT_TS",
             "type": "string",
             "constraints": {
               "enum": [

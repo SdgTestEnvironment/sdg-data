@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "co2 emissions per real gdp",
-                "co2 emissions per gross value added (price adjusted) in manufacturing industries",
+                "CO₂ emissions per real GDP",
+                "CO₂ emissions per gross value added (price adjusted) in manufacturing industries",
                 ""
               ]
             },

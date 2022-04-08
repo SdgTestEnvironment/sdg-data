@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ratio of female members in the public service",
-                "ratio of female members in the judiciary",
+                "Verhältnis von Frauen im öffentlichen Dienst",
+                "Verhältnis von Frauen in der Justiz",
                 ""
               ]
             },
