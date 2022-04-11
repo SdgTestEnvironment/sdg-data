@@ -16,18 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_TS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wert 0.0 = Kein nationales Ziel zur Erreichung des Aichi-Biodiversitätsziels 2<br>Wert 0.2 = Nationales Ziel existiert, aber Entfernung von der Zielerreichung<br>Wert 0.4 = Nationales Ziel existiert, aber kein Fortschritt<br>Wert 0.6 = Nationales Ziel existiert und Fortschritt, jedoch in einem ungenügendem Maß<br>Wert 0.8 = Nationales Ziel existiert und der Fortschritt ist auf dem Weg der Zielerreichung<br>Wert 1.0 = Nationales Ziel existiert und der Fortschritt ist auf dem Weg über das Ziel hinauszugehen",
-                "Wert 0 = Keine Erstellung von Konten<br>Wert 1 = Erstellung von Konten<br>Wert 2 = Veröffentlichung von Konten<br>Wert 3 = Regelmäßige Erstellung von Konten und Veröffentlichung",
-                ""
-              ]
-            },
-            "title": "COMMENT_TS"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {

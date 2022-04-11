@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (gross disbursements) for poverty reduction",
                 "ODA (commitments) for poverty reduction",
+                "ODA (gross disbursements) for poverty reduction",
                 ""
               ]
             },
