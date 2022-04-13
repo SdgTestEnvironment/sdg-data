@@ -8254,7 +8254,7 @@
             "title": "Year"
           },
           {
-            "name": "time series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8586,6 +8586,7 @@
                 "Manufacturing gross value added as a proportion of GDP",
                 "Manufacturing gross value added as a proportion of total gross value added",
                 "Manufacturing gross value added per capita",
+                "Manufacturing gross value added",
                 ""
               ]
             },
