@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor",
-                "Anteil Grundwasser unterhalb Schwellenwert für Nitrat",
+                "Anteil der Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor",
+                "Anteil der Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat",
                 ""
               ]
             },

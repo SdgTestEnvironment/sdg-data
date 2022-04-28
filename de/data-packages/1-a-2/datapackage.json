@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Staatsausgaben für Gesundheit",
-                "Staatsausgaben für Bildung",
+                "0",
                 "Staatsausgaben für soziale Sicherung",
                 ""
               ]
