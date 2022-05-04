@@ -1982,7 +1982,7 @@
           }
         ]
       },
-      "title": "Ausländische Direktinvestitionen (FDI), öffentliche Entwicklungszusammenarbeit (ODA) und Süd-Süd-Zusammenarbeit im Verhältnis zum Bruttonationaleinkommen (BNE)"
+      "title": "Mobilisierung zusätzlicher Finanzmittel für Entwicklungsländer aus verschiedenen Quellen"
     },
     {
       "path": "12-c-1/data.csv",
@@ -4742,7 +4742,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten mit einer Migrationspolitik, die eine geordnete, sichere, reguläre und verantwortungs­volle Migration und Mobilität von Menschen ermöglicht"
+      "title": "Anzahl der Staaten mit einer Migrationspolitik, die eine geordnete, sichere, reguläre und verantwortungsvolle Migration und Mobilität von Menschen ermöglicht"
     },
     {
       "path": "17-10-1/data.csv",
@@ -6459,7 +6459,7 @@
             "constraints": {
               "enum": [
                 "Staatsausgaben für Gesundheit",
-                "0",
+                "Staatsausgaben für Bildung",
                 "Staatsausgaben für soziale Sicherung",
                 ""
               ]
@@ -6582,7 +6582,7 @@
             "constraints": {
               "enum": [
                 "Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020",
-                "Anwendung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)",
+                "Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)",
                 ""
               ]
             },
@@ -7181,7 +7181,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der sich nach Einbruch der Dunkelheit in seiner Wohnumgebung alleine sicher fühlt"
+      "title": "Anteil der Bevölkerung, der sich nach Einbruch der Dunkelheit in seiner Wohnumgebung allein sicher fühlt"
     },
     {
       "path": "2-a-2/data.csv",
@@ -9307,7 +9307,7 @@
           }
         ]
       },
-      "title": "Hepatitis-B-Inzidenz je 100&nbsp;000 Einwohner/-innen"
+      "title": "Hepatitis-B-Inzidenz je 100&nbsp;000 Einwohner/ -innen"
     },
     {
       "path": "3-3-5/data.csv",
@@ -9760,7 +9760,7 @@
           }
         ]
       },
-      "title": "a) Katastrophen zugeschriebene Schäden an kritischen Infrastrukturen und b) Zahl der Katastrophen zugeschriebenen Unterbrechungen der Grundversorgung"
+      "title": "Katastrophen zugeschriebene a) Schäden an kritischen Infrastrukturen und b) Zahl der Unterbrechungen der Grundversorgung"
     }
   ]
 }
