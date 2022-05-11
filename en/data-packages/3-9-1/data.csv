@@ -1,118 +1,118 @@
 Year,Units,Type of disease,Series,Value
-2010,Number,,attributable deaths,20837
-2011,Number,,attributable deaths,20385
-2012,Number,,attributable deaths,17303
-2013,Number,,attributable deaths,18494
-2014,Number,,attributable deaths,17011
-2015,Number,,attributable deaths,16298
-2016,Number,,attributable deaths,15277
-2017,Number,,attributable deaths,15467
-2018,Number,,attributable deaths,15652
-2010,Number,chronic obstructive pulmonary disease,attributable deaths,2427
-2011,Number,chronic obstructive pulmonary disease,attributable deaths,2443
-2012,Number,chronic obstructive pulmonary disease,attributable deaths,2083
-2013,Number,chronic obstructive pulmonary disease,attributable deaths,2389
-2014,Number,chronic obstructive pulmonary disease,attributable deaths,2140
-2015,Number,chronic obstructive pulmonary disease,attributable deaths,2219
-2016,Number,chronic obstructive pulmonary disease,attributable deaths,2036
-2017,Number,chronic obstructive pulmonary disease,attributable deaths,2232
-2018,Number,chronic obstructive pulmonary disease,attributable deaths,2241
-2010,Number,lung cancer,attributable deaths,4773
-2011,Number,lung cancer,attributable deaths,4876
-2012,Number,lung cancer,attributable deaths,4144
-2013,Number,lung cancer,attributable deaths,4431
-2014,Number,lung cancer,attributable deaths,4263
-2015,Number,lung cancer,attributable deaths,3910
-2016,Number,lung cancer,attributable deaths,3808
-2017,Number,lung cancer,attributable deaths,3752
-2018,Number,lung cancer,attributable deaths,3785
-2010,Number,stroke,attributable deaths,2516
-2011,Number,stroke,attributable deaths,2480
-2012,Number,stroke,attributable deaths,2088
-2013,Number,stroke,attributable deaths,2204
-2014,Number,stroke,attributable deaths,2056
-2015,Number,stroke,attributable deaths,1933
-2016,Number,stroke,attributable deaths,1878
-2017,Number,stroke,attributable deaths,1831
-2018,Number,stroke,attributable deaths,1871
-2010,Number,ischemic heart disease,attributable deaths,10295
-2011,Number,ischemic heart disease,attributable deaths,9722
-2012,Number,ischemic heart disease,attributable deaths,8236
-2013,Number,ischemic heart disease,attributable deaths,8685
-2014,Number,ischemic heart disease,attributable deaths,7842
-2015,Number,ischemic heart disease,attributable deaths,7491
-2016,Number,ischemic heart disease,attributable deaths,6857
-2017,Number,ischemic heart disease,attributable deaths,6913
-2018,Number,ischemic heart disease,attributable deaths,6977
-2010,Number,diabetes mellitus type 2,attributable deaths,826
-2011,Number,diabetes mellitus type 2,attributable deaths,864
-2012,Number,diabetes mellitus type 2,attributable deaths,752
-2013,Number,diabetes mellitus type 2,attributable deaths,785
-2014,Number,diabetes mellitus type 2,attributable deaths,710
-2015,Number,diabetes mellitus type 2,attributable deaths,745
-2016,Number,diabetes mellitus type 2,attributable deaths,698
-2017,Number,diabetes mellitus type 2,attributable deaths,739
-2018,Number,diabetes mellitus type 2,attributable deaths,778
-2010,Number,other diseases,attributable deaths,10542
-2011,Number,other diseases,attributable deaths,20385
-2012,Number,other diseases,attributable deaths,15215
-2013,Number,other diseases,attributable deaths,16290
-2014,Number,other diseases,attributable deaths,14955
-2015,Number,other diseases,attributable deaths,14365
-2016,Number,other diseases,attributable deaths,13399
-2017,Number,other diseases,attributable deaths,13636
-2018,Number,other diseases,attributable deaths,13781
-2010,years,,daly,388024
-2011,years,,daly,378359
-2012,years,,daly,320267
-2013,years,,daly,341775
-2014,years,,daly,320022
-2015,years,,daly,302225
-2016,years,,daly,286350
-2017,years,,daly,285630
-2018,years,,daly,290702
-2010,years,chronic obstructive pulmonary disease,daly,51415
-2011,years,chronic obstructive pulmonary disease,daly,51215
-2012,years,chronic obstructive pulmonary disease,daly,42652
-2013,years,chronic obstructive pulmonary disease,daly,47602
-2014,years,chronic obstructive pulmonary disease,daly,44219
-2015,years,chronic obstructive pulmonary disease,daly,43673
-2016,years,chronic obstructive pulmonary disease,daly,41143
-2017,years,chronic obstructive pulmonary disease,daly,42790
-2018,years,chronic obstructive pulmonary disease,daly,43778
-2010,years,lung cancer,daly,78163
-2011,years,lung cancer,daly,79777
-2012,years,lung cancer,daly,67652
-2013,years,lung cancer,daly,72690
-2014,years,lung cancer,daly,69466
-2015,years,lung cancer,daly,63881
-2016,years,lung cancer,daly,61593
-2017,years,lung cancer,daly,60268
-2018,years,lung cancer,daly,60842
-2010,years,stroke,daly,52395
-2011,years,stroke,daly,51381
-2012,years,stroke,daly,42603
-2013,years,stroke,daly,45064
-2014,years,stroke,daly,42624
-2015,years,stroke,daly,39719
-2016,years,stroke,daly,38335
-2017,years,stroke,daly,37437
-2018,years,stroke,daly,38418
-2010,years,ischemic heart disease,daly,151264
-2011,years,ischemic heart disease,daly,141532
-2012,years,ischemic heart disease,daly,119840
-2013,years,ischemic heart disease,daly,126023
-2014,years,ischemic heart disease,daly,115213
-2015,years,ischemic heart disease,daly,109005
-2016,years,ischemic heart disease,daly,100854
-2017,years,ischemic heart disease,daly,100345
-2018,years,ischemic heart disease,daly,101776
-2010,years,diabetes mellitus type 2,daly,54787
-2011,years,diabetes mellitus type 2,daly,54453
-2012,years,diabetes mellitus type 2,daly,47520
-2013,years,diabetes mellitus type 2,daly,50397
-2014,years,diabetes mellitus type 2,daly,48500
-2015,years,diabetes mellitus type 2,daly,45947
-2016,years,diabetes mellitus type 2,daly,44423
-2017,years,diabetes mellitus type 2,daly,44790
-2018,years,diabetes mellitus type 2,daly,45888
+2010,Number,,Attributable deaths,20837
+2011,Number,,Attributable deaths,20385
+2012,Number,,Attributable deaths,17303
+2013,Number,,Attributable deaths,18494
+2014,Number,,Attributable deaths,17011
+2015,Number,,Attributable deaths,16298
+2016,Number,,Attributable deaths,15277
+2017,Number,,Attributable deaths,15467
+2018,Number,,Attributable deaths,15652
+2010,Number,Chronic obstructive pulmonary disease (COPD),Attributable deaths,2427
+2011,Number,Chronic obstructive pulmonary disease (COPD),Attributable deaths,2443
+2012,Number,Chronic obstructive pulmonary disease (COPD),Attributable deaths,2083
+2013,Number,Chronic obstructive pulmonary disease (COPD),Attributable deaths,2389
+2014,Number,Chronic obstructive pulmonary disease (COPD),Attributable deaths,2140
+2015,Number,Chronic obstructive pulmonary disease (COPD),Attributable deaths,2219
+2016,Number,Chronic obstructive pulmonary disease (COPD),Attributable deaths,2036
+2017,Number,Chronic obstructive pulmonary disease (COPD),Attributable deaths,2232
+2018,Number,Chronic obstructive pulmonary disease (COPD),Attributable deaths,2241
+2010,Number,Lung cancer,Attributable deaths,4773
+2011,Number,Lung cancer,Attributable deaths,4876
+2012,Number,Lung cancer,Attributable deaths,4144
+2013,Number,Lung cancer,Attributable deaths,4431
+2014,Number,Lung cancer,Attributable deaths,4263
+2015,Number,Lung cancer,Attributable deaths,3910
+2016,Number,Lung cancer,Attributable deaths,3808
+2017,Number,Lung cancer,Attributable deaths,3752
+2018,Number,Lung cancer,Attributable deaths,3785
+2010,Number,Stroke,Attributable deaths,2516
+2011,Number,Stroke,Attributable deaths,2480
+2012,Number,Stroke,Attributable deaths,2088
+2013,Number,Stroke,Attributable deaths,2204
+2014,Number,Stroke,Attributable deaths,2056
+2015,Number,Stroke,Attributable deaths,1933
+2016,Number,Stroke,Attributable deaths,1878
+2017,Number,Stroke,Attributable deaths,1831
+2018,Number,Stroke,Attributable deaths,1871
+2010,Number,Ischemic heart disease,Attributable deaths,10295
+2011,Number,Ischemic heart disease,Attributable deaths,9722
+2012,Number,Ischemic heart disease,Attributable deaths,8236
+2013,Number,Ischemic heart disease,Attributable deaths,8685
+2014,Number,Ischemic heart disease,Attributable deaths,7842
+2015,Number,Ischemic heart disease,Attributable deaths,7491
+2016,Number,Ischemic heart disease,Attributable deaths,6857
+2017,Number,Ischemic heart disease,Attributable deaths,6913
+2018,Number,Ischemic heart disease,Attributable deaths,6977
+2010,Number,Diabetes mellitus type 2,Attributable deaths,826
+2011,Number,Diabetes mellitus type 2,Attributable deaths,864
+2012,Number,Diabetes mellitus type 2,Attributable deaths,752
+2013,Number,Diabetes mellitus type 2,Attributable deaths,785
+2014,Number,Diabetes mellitus type 2,Attributable deaths,710
+2015,Number,Diabetes mellitus type 2,Attributable deaths,745
+2016,Number,Diabetes mellitus type 2,Attributable deaths,698
+2017,Number,Diabetes mellitus type 2,Attributable deaths,739
+2018,Number,Diabetes mellitus type 2,Attributable deaths,778
+2010,Number,Other diseases,Attributable deaths,10542
+2011,Number,Other diseases,Attributable deaths,20385
+2012,Number,Other diseases,Attributable deaths,15215
+2013,Number,Other diseases,Attributable deaths,16290
+2014,Number,Other diseases,Attributable deaths,14955
+2015,Number,Other diseases,Attributable deaths,14365
+2016,Number,Other diseases,Attributable deaths,13399
+2017,Number,Other diseases,Attributable deaths,13636
+2018,Number,Other diseases,Attributable deaths,13781
+2010,Years,,DALY,388024
+2011,Years,,DALY,378359
+2012,Years,,DALY,320267
+2013,Years,,DALY,341775
+2014,Years,,DALY,320022
+2015,Years,,DALY,302225
+2016,Years,,DALY,286350
+2017,Years,,DALY,285630
+2018,Years,,DALY,290702
+2010,Years,Chronic obstructive pulmonary disease (COPD),DALY,51415
+2011,Years,Chronic obstructive pulmonary disease (COPD),DALY,51215
+2012,Years,Chronic obstructive pulmonary disease (COPD),DALY,42652
+2013,Years,Chronic obstructive pulmonary disease (COPD),DALY,47602
+2014,Years,Chronic obstructive pulmonary disease (COPD),DALY,44219
+2015,Years,Chronic obstructive pulmonary disease (COPD),DALY,43673
+2016,Years,Chronic obstructive pulmonary disease (COPD),DALY,41143
+2017,Years,Chronic obstructive pulmonary disease (COPD),DALY,42790
+2018,Years,Chronic obstructive pulmonary disease (COPD),DALY,43778
+2010,Years,Lung cancer,DALY,78163
+2011,Years,Lung cancer,DALY,79777
+2012,Years,Lung cancer,DALY,67652
+2013,Years,Lung cancer,DALY,72690
+2014,Years,Lung cancer,DALY,69466
+2015,Years,Lung cancer,DALY,63881
+2016,Years,Lung cancer,DALY,61593
+2017,Years,Lung cancer,DALY,60268
+2018,Years,Lung cancer,DALY,60842
+2010,Years,Stroke,DALY,52395
+2011,Years,Stroke,DALY,51381
+2012,Years,Stroke,DALY,42603
+2013,Years,Stroke,DALY,45064
+2014,Years,Stroke,DALY,42624
+2015,Years,Stroke,DALY,39719
+2016,Years,Stroke,DALY,38335
+2017,Years,Stroke,DALY,37437
+2018,Years,Stroke,DALY,38418
+2010,Years,Ischemic heart disease,DALY,151264
+2011,Years,Ischemic heart disease,DALY,141532
+2012,Years,Ischemic heart disease,DALY,119840
+2013,Years,Ischemic heart disease,DALY,126023
+2014,Years,Ischemic heart disease,DALY,115213
+2015,Years,Ischemic heart disease,DALY,109005
+2016,Years,Ischemic heart disease,DALY,100854
+2017,Years,Ischemic heart disease,DALY,100345
+2018,Years,Ischemic heart disease,DALY,101776
+2010,Years,Diabetes mellitus type 2,DALY,54787
+2011,Years,Diabetes mellitus type 2,DALY,54453
+2012,Years,Diabetes mellitus type 2,DALY,47520
+2013,Years,Diabetes mellitus type 2,DALY,50397
+2014,Years,Diabetes mellitus type 2,DALY,48500
+2015,Years,Diabetes mellitus type 2,DALY,45947
+2016,Years,Diabetes mellitus type 2,DALY,44423
+2017,Years,Diabetes mellitus type 2,DALY,44790
+2018,Years,Diabetes mellitus type 2,DALY,45888

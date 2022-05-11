@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
-                "years",
+                "Jahre",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "chronic obstructive pulmonary disease",
-                "lung cancer",
-                "stroke",
-                "ischemic heart disease",
-                "diabetes mellitus type 2",
-                "other diseases",
+                "Chronisch obstruktive Lungenerkrankung (COPD)",
+                "Lungenkrebs",
+                "Schlaganfall",
+                "Ischämische Herzerkrankungen",
+                "Diabetes mellitus Typ 2",
+                "Sonstige Erkrankungen",
                 ""
               ]
             },
@@ -48,8 +48,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "attributable deaths",
-                "daly",
+                "Attributable Todesfälle",
+                "DALY",
                 ""
               ]
             },
