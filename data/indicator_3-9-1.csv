@@ -1,19 +1,118 @@
-Year,timeseries,Value
-2010,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2011,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2012,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2013,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2014,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2015,short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years),
-2010,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),38500
-2011,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),38800
-2012,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),34400
-2013,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),35700
-2014,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),33300
-2015,long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years),34300
-2010,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7900
-2011,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),8300
-2012,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7400
-2013,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7800
-2014,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7800
-2015,long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years),7200
+Year,Units,type of disease,Value,Series
+2010,number,,20837,attributable deaths
+2011,number,,20385,attributable deaths
+2012,number,,17303,attributable deaths
+2013,number,,18494,attributable deaths
+2014,number,,17011,attributable deaths
+2015,number,,16298,attributable deaths
+2016,number,,15277,attributable deaths
+2017,number,,15467,attributable deaths
+2018,number,,15652,attributable deaths
+2010,number,chronic obstructive pulmonary disease,2427,attributable deaths
+2011,number,chronic obstructive pulmonary disease,2443,attributable deaths
+2012,number,chronic obstructive pulmonary disease,2083,attributable deaths
+2013,number,chronic obstructive pulmonary disease,2389,attributable deaths
+2014,number,chronic obstructive pulmonary disease,2140,attributable deaths
+2015,number,chronic obstructive pulmonary disease,2219,attributable deaths
+2016,number,chronic obstructive pulmonary disease,2036,attributable deaths
+2017,number,chronic obstructive pulmonary disease,2232,attributable deaths
+2018,number,chronic obstructive pulmonary disease,2241,attributable deaths
+2010,number,lung cancer,4773,attributable deaths
+2011,number,lung cancer,4876,attributable deaths
+2012,number,lung cancer,4144,attributable deaths
+2013,number,lung cancer,4431,attributable deaths
+2014,number,lung cancer,4263,attributable deaths
+2015,number,lung cancer,3910,attributable deaths
+2016,number,lung cancer,3808,attributable deaths
+2017,number,lung cancer,3752,attributable deaths
+2018,number,lung cancer,3785,attributable deaths
+2010,number,stroke,2516,attributable deaths
+2011,number,stroke,2480,attributable deaths
+2012,number,stroke,2088,attributable deaths
+2013,number,stroke,2204,attributable deaths
+2014,number,stroke,2056,attributable deaths
+2015,number,stroke,1933,attributable deaths
+2016,number,stroke,1878,attributable deaths
+2017,number,stroke,1831,attributable deaths
+2018,number,stroke,1871,attributable deaths
+2010,number,ischemic heart disease,10295,attributable deaths
+2011,number,ischemic heart disease,9722,attributable deaths
+2012,number,ischemic heart disease,8236,attributable deaths
+2013,number,ischemic heart disease,8685,attributable deaths
+2014,number,ischemic heart disease,7842,attributable deaths
+2015,number,ischemic heart disease,7491,attributable deaths
+2016,number,ischemic heart disease,6857,attributable deaths
+2017,number,ischemic heart disease,6913,attributable deaths
+2018,number,ischemic heart disease,6977,attributable deaths
+2010,number,diabetes mellitus type 2,826,attributable deaths
+2011,number,diabetes mellitus type 2,864,attributable deaths
+2012,number,diabetes mellitus type 2,752,attributable deaths
+2013,number,diabetes mellitus type 2,785,attributable deaths
+2014,number,diabetes mellitus type 2,710,attributable deaths
+2015,number,diabetes mellitus type 2,745,attributable deaths
+2016,number,diabetes mellitus type 2,698,attributable deaths
+2017,number,diabetes mellitus type 2,739,attributable deaths
+2018,number,diabetes mellitus type 2,778,attributable deaths
+2010,number,other diseases,10542,attributable deaths
+2011,number,other diseases,20385,attributable deaths
+2012,number,other diseases,15215,attributable deaths
+2013,number,other diseases,16290,attributable deaths
+2014,number,other diseases,14955,attributable deaths
+2015,number,other diseases,14365,attributable deaths
+2016,number,other diseases,13399,attributable deaths
+2017,number,other diseases,13636,attributable deaths
+2018,number,other diseases,13781,attributable deaths
+2010,years,,388024,daly
+2011,years,,378359,daly
+2012,years,,320267,daly
+2013,years,,341775,daly
+2014,years,,320022,daly
+2015,years,,302225,daly
+2016,years,,286350,daly
+2017,years,,285630,daly
+2018,years,,290702,daly
+2010,years,chronic obstructive pulmonary disease,51415,daly
+2011,years,chronic obstructive pulmonary disease,51215,daly
+2012,years,chronic obstructive pulmonary disease,42652,daly
+2013,years,chronic obstructive pulmonary disease,47602,daly
+2014,years,chronic obstructive pulmonary disease,44219,daly
+2015,years,chronic obstructive pulmonary disease,43673,daly
+2016,years,chronic obstructive pulmonary disease,41143,daly
+2017,years,chronic obstructive pulmonary disease,42790,daly
+2018,years,chronic obstructive pulmonary disease,43778,daly
+2010,years,lung cancer,78163,daly
+2011,years,lung cancer,79777,daly
+2012,years,lung cancer,67652,daly
+2013,years,lung cancer,72690,daly
+2014,years,lung cancer,69466,daly
+2015,years,lung cancer,63881,daly
+2016,years,lung cancer,61593,daly
+2017,years,lung cancer,60268,daly
+2018,years,lung cancer,60842,daly
+2010,years,stroke,52395,daly
+2011,years,stroke,51381,daly
+2012,years,stroke,42603,daly
+2013,years,stroke,45064,daly
+2014,years,stroke,42624,daly
+2015,years,stroke,39719,daly
+2016,years,stroke,38335,daly
+2017,years,stroke,37437,daly
+2018,years,stroke,38418,daly
+2010,years,ischemic heart disease,151264,daly
+2011,years,ischemic heart disease,141532,daly
+2012,years,ischemic heart disease,119840,daly
+2013,years,ischemic heart disease,126023,daly
+2014,years,ischemic heart disease,115213,daly
+2015,years,ischemic heart disease,109005,daly
+2016,years,ischemic heart disease,100854,daly
+2017,years,ischemic heart disease,100345,daly
+2018,years,ischemic heart disease,101776,daly
+2010,years,diabetes mellitus type 2,54787,daly
+2011,years,diabetes mellitus type 2,54453,daly
+2012,years,diabetes mellitus type 2,47520,daly
+2013,years,diabetes mellitus type 2,50397,daly
+2014,years,diabetes mellitus type 2,48500,daly
+2015,years,diabetes mellitus type 2,45947,daly
+2016,years,diabetes mellitus type 2,44423,daly
+2017,years,diabetes mellitus type 2,44790,daly
+2018,years,diabetes mellitus type 2,45888,daly
