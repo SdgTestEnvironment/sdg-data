@@ -1,1 +1,19 @@
-Year,Value
+Year,Value,Units,Series
+2010,20837,Number,attributable deaths
+2011,20385,Number,attributable deaths
+2012,17303,Number,attributable deaths
+2013,18494,Number,attributable deaths
+2014,17011,Number,attributable deaths
+2015,16298,Number,attributable deaths
+2016,15277,Number,attributable deaths
+2017,15467,Number,attributable deaths
+2018,15652,Number,attributable deaths
+2010,388024,years,daly
+2011,378359,years,daly
+2012,320267,years,daly
+2013,341775,years,daly
+2014,320022,years,daly
+2015,302225,years,daly
+2016,286350,years,daly
+2017,285630,years,daly
+2018,290702,years,daly

@@ -16,13 +16,40 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre)",
-                "Feinstaub Langzeitexposition: Mortalität aufgrund kardiopulmonaler Erkrankungen (Erwachsene > 30 Jahre)",
-                "Feinstaub Langzeitexposition: Mortalität aufgrund von Lungenkrebs (Erwachsene > 30 Jahre)",
+                "Anzahl",
+                "years",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "chronic obstructive pulmonary disease",
+                "lung cancer",
+                "stroke",
+                "ischemic heart disease",
+                "diabetes mellitus type 2",
+                "other diseases",
+                ""
+              ]
+            },
+            "title": "Art der Erkrankung"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "attributable deaths",
+                "daly",
                 ""
               ]
             },
@@ -30,7 +57,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

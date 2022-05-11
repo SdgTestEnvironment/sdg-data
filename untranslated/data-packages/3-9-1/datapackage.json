@@ -15,20 +15,45 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
-                "long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
-                "long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)",
+                "number",
+                "years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "chronic obstructive pulmonary disease",
+                "lung cancer",
+                "stroke",
+                "ischemic heart disease",
+                "diabetes mellitus type 2",
+                "other diseases",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "attributable deaths",
+                "daly",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
