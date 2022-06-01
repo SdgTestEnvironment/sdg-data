@@ -385,7 +385,7 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1799,17 +1799,6 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mn usd, constant prices (2019)",
-                "mn usd, constant prices (2020)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
@@ -2412,7 +2401,7 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3638,17 +3627,6 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "average hourly earnings of employees",
-                "gender pay gap",
-                ""
-              ]
-            }
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -3687,6 +3665,17 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "average hourly earnings of employees",
+                "gender pay gap",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4273,7 +4262,7 @@
             "constraints": {
               "enum": [
                 "proportion of women in parliaments",
-                "proportion of women in local governments",
+                "proportion of women in councils of districts and district-free cities",
                 ""
               ]
             }
@@ -4796,8 +4785,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pm2.5",
                 "pm10",
+                "pm2.5",
                 ""
               ]
             }
@@ -4807,7 +4796,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population weighted annual mean levels of pm10",
+                "population weighted annual mean levels of fine particulate matter",
                 "population with excessive exposure to fine particulate matter",
                 ""
               ]
@@ -4869,7 +4858,7 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5637,6 +5626,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mn usd, constant prices (2020)",
+                "mn usd, constant prices (2019)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
@@ -6034,6 +6034,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "mn usd, constant prices (2020)",
                 "mn usd, constant prices (2019)",
                 "mn eur",
                 ""
@@ -6492,6 +6493,17 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mn usd, constant prices (2019)",
+                "mn usd, constant prices (2020)",
+                ""
+              ]
+            }
           },
           {
             "name": "timeseries",
@@ -8530,7 +8542,7 @@
           }
         ]
       },
-      "title": "Mobilisierung zusätzlicher Finanzmittel für Entwicklungsländer aus verschiedenen Quellen"
+      "title": "Aus verschiedenen Quellen mobilisierte zusätzliche finanzielle Mittel für die Entwicklungsländer"
     },
     {
       "path": "17-18-3/data.csv",

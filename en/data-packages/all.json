@@ -418,7 +418,7 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1960,18 +1960,6 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million USD, constant prices (2019)",
-                "Million USD, constant prices (2020)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
@@ -2628,7 +2616,7 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3964,18 +3952,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Average hourly earnings of employees",
-                "Gender Pay Gap",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -4017,6 +3993,18 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average hourly earnings of employees",
+                "Gender Pay Gap",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -4655,7 +4643,7 @@
             "constraints": {
               "enum": [
                 "Proportion of women in parliaments",
-                "Proportion of women in local governments",
+                "Proportion of women in councils of districts and district-free cities",
                 ""
               ]
             },
@@ -5225,8 +5213,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM2.5",
                 "PM10",
+                "PM2.5",
                 ""
               ]
             },
@@ -5237,7 +5225,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population weighted annual mean levels of PM<sub>10</sub>",
+                "Population weighted annual mean levels of fine particulate matter",
                 "Population with excessive exposure to fine particulate matter",
                 ""
               ]
@@ -5305,7 +5293,7 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6142,6 +6130,18 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million USD, constant prices (2020)",
+                "Million USD, constant prices (2019)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
@@ -6573,6 +6573,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Million USD, constant prices (2020)",
                 "Million USD, constant prices (2019)",
                 "Million EUR",
                 ""
@@ -7073,6 +7074,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million USD, constant prices (2019)",
+                "Million USD, constant prices (2020)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "timeseries",
@@ -9292,7 +9305,7 @@
           }
         ]
       },
-      "title": "Mobilisierung zusätzlicher Finanzmittel für Entwicklungsländer aus verschiedenen Quellen"
+      "title": "Aus verschiedenen Quellen mobilisierte zusätzliche finanzielle Mittel für die Entwicklungsländer"
     },
     {
       "path": "17-18-3/data.csv",
