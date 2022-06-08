@@ -4927,6 +4927,18 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million USD, constant prices (2020)",
+                "Million EUR",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7395,7 +7407,6 @@
               "enum": [
                 "(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control",
                 "(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020",
-                "(2) Online survey on Policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species",
                 ""
               ]
             },
@@ -7423,7 +7434,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -7949,8 +7960,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Attributable deaths",
-                "DALY",
+                "Attributable deaths due to long-term exposure to fine particulate matter (PM2.5)  among the population aged 25 years and older",
+                "Disability-adjusted life years (DALYs) attributable to long-term exposure to particulate matter (PM2.5) among persons aged 25 years and older",
                 ""
               ]
             },

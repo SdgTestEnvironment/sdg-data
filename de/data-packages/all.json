@@ -4927,6 +4927,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millionen USD, konstante Preise (2020)",
+                "Millionen EUR",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7395,7 +7407,6 @@
               "enum": [
                 "(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden",
                 "(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020",
-                "(2) Online-Umfrage zu politischen Reaktionen, Mandat, rechtlichen Befugnissen und Ressourcen für den Umgang mit der Bedrohung durch invasive gebietsfremde Arten",
                 ""
               ]
             },
@@ -7423,7 +7434,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -7949,8 +7960,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Attributable Todesfälle",
-                "DALY",
+                "Attributable Todesfälle zurückzuführen auf eine langfristige Exposition mit Feinstaub (PM2,5) in der Bevölkerung ab 25 Jahren",
+                "Disability-adjusted life years (DALYs) die auf die Langzeitbelastung durch Feinstaub (PM2,5) bei Personen ab 25 Jahren zurückzuführen sind",
                 ""
               ]
             },
