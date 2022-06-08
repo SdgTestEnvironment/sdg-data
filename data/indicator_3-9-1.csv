@@ -1,109 +1,109 @@
 Year,Units,type of disease,Value,Series
-2010,number,,20837,attributable deaths
-2011,number,,20385,attributable deaths
-2012,number,,17303,attributable deaths
-2013,number,,18494,attributable deaths
-2014,number,,17011,attributable deaths
-2015,number,,16298,attributable deaths
-2016,number,,15277,attributable deaths
-2017,number,,15467,attributable deaths
-2018,number,,15652,attributable deaths
-2010,number,chronic obstructive pulmonary disease,2427,attributable deaths
-2011,number,chronic obstructive pulmonary disease,2443,attributable deaths
-2012,number,chronic obstructive pulmonary disease,2083,attributable deaths
-2013,number,chronic obstructive pulmonary disease,2389,attributable deaths
-2014,number,chronic obstructive pulmonary disease,2140,attributable deaths
-2015,number,chronic obstructive pulmonary disease,2219,attributable deaths
-2016,number,chronic obstructive pulmonary disease,2036,attributable deaths
-2017,number,chronic obstructive pulmonary disease,2232,attributable deaths
-2018,number,chronic obstructive pulmonary disease,2241,attributable deaths
-2010,number,lung cancer,4773,attributable deaths
-2011,number,lung cancer,4876,attributable deaths
-2012,number,lung cancer,4144,attributable deaths
-2013,number,lung cancer,4431,attributable deaths
-2014,number,lung cancer,4263,attributable deaths
-2015,number,lung cancer,3910,attributable deaths
-2016,number,lung cancer,3808,attributable deaths
-2017,number,lung cancer,3752,attributable deaths
-2018,number,lung cancer,3785,attributable deaths
-2010,number,stroke,2516,attributable deaths
-2011,number,stroke,2480,attributable deaths
-2012,number,stroke,2088,attributable deaths
-2013,number,stroke,2204,attributable deaths
-2014,number,stroke,2056,attributable deaths
-2015,number,stroke,1933,attributable deaths
-2016,number,stroke,1878,attributable deaths
-2017,number,stroke,1831,attributable deaths
-2018,number,stroke,1871,attributable deaths
-2010,number,ischemic heart disease,10295,attributable deaths
-2011,number,ischemic heart disease,9722,attributable deaths
-2012,number,ischemic heart disease,8236,attributable deaths
-2013,number,ischemic heart disease,8685,attributable deaths
-2014,number,ischemic heart disease,7842,attributable deaths
-2015,number,ischemic heart disease,7491,attributable deaths
-2016,number,ischemic heart disease,6857,attributable deaths
-2017,number,ischemic heart disease,6913,attributable deaths
-2018,number,ischemic heart disease,6977,attributable deaths
-2010,number,diabetes mellitus type 2,826,attributable deaths
-2011,number,diabetes mellitus type 2,864,attributable deaths
-2012,number,diabetes mellitus type 2,752,attributable deaths
-2013,number,diabetes mellitus type 2,785,attributable deaths
-2014,number,diabetes mellitus type 2,710,attributable deaths
-2015,number,diabetes mellitus type 2,745,attributable deaths
-2016,number,diabetes mellitus type 2,698,attributable deaths
-2017,number,diabetes mellitus type 2,739,attributable deaths
-2018,number,diabetes mellitus type 2,778,attributable deaths
-2010,years,,388024,daly
-2011,years,,378359,daly
-2012,years,,320267,daly
-2013,years,,341775,daly
-2014,years,,320022,daly
-2015,years,,302225,daly
-2016,years,,286350,daly
-2017,years,,285630,daly
-2018,years,,290702,daly
-2010,years,chronic obstructive pulmonary disease,51415,daly
-2011,years,chronic obstructive pulmonary disease,51215,daly
-2012,years,chronic obstructive pulmonary disease,42652,daly
-2013,years,chronic obstructive pulmonary disease,47602,daly
-2014,years,chronic obstructive pulmonary disease,44219,daly
-2015,years,chronic obstructive pulmonary disease,43673,daly
-2016,years,chronic obstructive pulmonary disease,41143,daly
-2017,years,chronic obstructive pulmonary disease,42790,daly
-2018,years,chronic obstructive pulmonary disease,43778,daly
-2010,years,lung cancer,78163,daly
-2011,years,lung cancer,79777,daly
-2012,years,lung cancer,67652,daly
-2013,years,lung cancer,72690,daly
-2014,years,lung cancer,69466,daly
-2015,years,lung cancer,63881,daly
-2016,years,lung cancer,61593,daly
-2017,years,lung cancer,60268,daly
-2018,years,lung cancer,60842,daly
-2010,years,stroke,52395,daly
-2011,years,stroke,51381,daly
-2012,years,stroke,42603,daly
-2013,years,stroke,45064,daly
-2014,years,stroke,42624,daly
-2015,years,stroke,39719,daly
-2016,years,stroke,38335,daly
-2017,years,stroke,37437,daly
-2018,years,stroke,38418,daly
-2010,years,ischemic heart disease,151264,daly
-2011,years,ischemic heart disease,141532,daly
-2012,years,ischemic heart disease,119840,daly
-2013,years,ischemic heart disease,126023,daly
-2014,years,ischemic heart disease,115213,daly
-2015,years,ischemic heart disease,109005,daly
-2016,years,ischemic heart disease,100854,daly
-2017,years,ischemic heart disease,100345,daly
-2018,years,ischemic heart disease,101776,daly
-2010,years,diabetes mellitus type 2,54787,daly
-2011,years,diabetes mellitus type 2,54453,daly
-2012,years,diabetes mellitus type 2,47520,daly
-2013,years,diabetes mellitus type 2,50397,daly
-2014,years,diabetes mellitus type 2,48500,daly
-2015,years,diabetes mellitus type 2,45947,daly
-2016,years,diabetes mellitus type 2,44423,daly
-2017,years,diabetes mellitus type 2,44790,daly
-2018,years,diabetes mellitus type 2,45888,daly
+2010,number,,20837,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2011,number,,20385,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2012,number,,17303,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2013,number,,18494,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2014,number,,17011,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2015,number,,16298,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2016,number,,15277,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2017,number,,15467,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2018,number,,15652,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2010,number,chronic obstructive pulmonary disease,2427,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2011,number,chronic obstructive pulmonary disease,2443,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2012,number,chronic obstructive pulmonary disease,2083,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2013,number,chronic obstructive pulmonary disease,2389,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2014,number,chronic obstructive pulmonary disease,2140,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2015,number,chronic obstructive pulmonary disease,2219,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2016,number,chronic obstructive pulmonary disease,2036,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2017,number,chronic obstructive pulmonary disease,2232,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2018,number,chronic obstructive pulmonary disease,2241,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2010,number,lung cancer,4773,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2011,number,lung cancer,4876,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2012,number,lung cancer,4144,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2013,number,lung cancer,4431,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2014,number,lung cancer,4263,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2015,number,lung cancer,3910,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2016,number,lung cancer,3808,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2017,number,lung cancer,3752,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2018,number,lung cancer,3785,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2010,number,stroke,2516,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2011,number,stroke,2480,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2012,number,stroke,2088,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2013,number,stroke,2204,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2014,number,stroke,2056,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2015,number,stroke,1933,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2016,number,stroke,1878,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2017,number,stroke,1831,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2018,number,stroke,1871,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2010,number,ischemic heart disease,10295,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2011,number,ischemic heart disease,9722,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2012,number,ischemic heart disease,8236,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2013,number,ischemic heart disease,8685,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2014,number,ischemic heart disease,7842,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2015,number,ischemic heart disease,7491,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2016,number,ischemic heart disease,6857,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2017,number,ischemic heart disease,6913,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2018,number,ischemic heart disease,6977,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2010,number,diabetes mellitus type 2,826,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2011,number,diabetes mellitus type 2,864,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2012,number,diabetes mellitus type 2,752,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2013,number,diabetes mellitus type 2,785,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2014,number,diabetes mellitus type 2,710,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2015,number,diabetes mellitus type 2,745,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2016,number,diabetes mellitus type 2,698,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2017,number,diabetes mellitus type 2,739,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2018,number,diabetes mellitus type 2,778,attributable deaths due to long-term exposure to fine particulate matter (pm2.5)  among the population aged 25 years and older
+2010,years,,388024,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2011,years,,378359,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2012,years,,320267,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2013,years,,341775,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2014,years,,320022,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2015,years,,302225,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2016,years,,286350,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2017,years,,285630,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2018,years,,290702,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2010,years,chronic obstructive pulmonary disease,51415,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2011,years,chronic obstructive pulmonary disease,51215,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2012,years,chronic obstructive pulmonary disease,42652,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2013,years,chronic obstructive pulmonary disease,47602,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2014,years,chronic obstructive pulmonary disease,44219,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2015,years,chronic obstructive pulmonary disease,43673,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2016,years,chronic obstructive pulmonary disease,41143,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2017,years,chronic obstructive pulmonary disease,42790,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2018,years,chronic obstructive pulmonary disease,43778,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2010,years,lung cancer,78163,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2011,years,lung cancer,79777,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2012,years,lung cancer,67652,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2013,years,lung cancer,72690,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2014,years,lung cancer,69466,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2015,years,lung cancer,63881,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2016,years,lung cancer,61593,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2017,years,lung cancer,60268,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2018,years,lung cancer,60842,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2010,years,stroke,52395,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2011,years,stroke,51381,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2012,years,stroke,42603,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2013,years,stroke,45064,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2014,years,stroke,42624,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2015,years,stroke,39719,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2016,years,stroke,38335,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2017,years,stroke,37437,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2018,years,stroke,38418,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2010,years,ischemic heart disease,151264,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2011,years,ischemic heart disease,141532,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2012,years,ischemic heart disease,119840,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2013,years,ischemic heart disease,126023,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2014,years,ischemic heart disease,115213,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2015,years,ischemic heart disease,109005,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2016,years,ischemic heart disease,100854,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2017,years,ischemic heart disease,100345,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2018,years,ischemic heart disease,101776,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2010,years,diabetes mellitus type 2,54787,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2011,years,diabetes mellitus type 2,54453,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2012,years,diabetes mellitus type 2,47520,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2013,years,diabetes mellitus type 2,50397,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2014,years,diabetes mellitus type 2,48500,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2015,years,diabetes mellitus type 2,45947,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2016,years,diabetes mellitus type 2,44423,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2017,years,diabetes mellitus type 2,44790,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
+2018,years,diabetes mellitus type 2,45888,disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among persons aged 25 years and older
