@@ -47,8 +47,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Attributable Todesfälle zurückzuführen auf eine langfristige Exposition mit Feinstaub (PM2,5) in der Bevölkerung ab 25 Jahren",
-                "Disability-adjusted life years (DALYs) die auf die Langzeitbelastung durch Feinstaub (PM2,5) bei Personen ab 25 Jahren zurückzuführen sind",
+                "Attributable Todesfälle zurückzuführen auf eine langfristige Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
+                "Disability-adjusted life years (DALYs) die auf die Langzeitbelastung durch Feinstaub (PM₂,₅) bei Personen ab 25 Jahren zurückzuführen sind",
                 ""
               ]
             },
