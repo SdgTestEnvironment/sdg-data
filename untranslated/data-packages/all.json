@@ -7307,8 +7307,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) among the population aged 25 years and older",
-                "disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5) among the population aged 25 years and older",
+                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) among persons aged 25 years and older",
+                "disability-adjusted life years (dalys) attributable to long-term exposure to particulate matter (pm2.5)among persons aged 25 years and older",
                 ""
               ]
             }
