@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Number",
-                "dalys",
+                "DALYs",
                 ""
               ]
             },
@@ -47,8 +47,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
-                "dalys attributable to long-term exposure to particulate matter (pm2.5) in the population aged 25 years and older",
+                "Attributable deaths due to long-term exposure to fine particulate matter (PM2.5) in the population aged 25 years and older",
+                "DALYs attributable to long-term exposure to particulate matter (PM2.5) in the population aged 25 years and older",
                 ""
               ]
             },
