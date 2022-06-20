@@ -4016,7 +4016,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
-                "Jahre",
+                "dalys",
                 ""
               ]
             },
@@ -4042,8 +4042,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Attributable Todesfälle zurückzuführen auf eine langfristige Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
-                "Disability-adjusted life years (DALYs) die auf die Langzeitbelastung durch Feinstaub (PM₂,₅) bei Personen ab 25 Jahren zurückzuführen sind",
+                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
+                "dalys attributable to long-term exposure to particulate matter (pm2.5) in the population aged 25 years and older",
                 ""
               ]
             },
