@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Micrograms per cubic meters",
+                "Micrograms per m³",
                 "Million inhabitants",
                 ""
               ]
