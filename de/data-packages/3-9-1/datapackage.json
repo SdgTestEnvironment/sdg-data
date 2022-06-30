@@ -47,10 +47,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₅﮳₂) in der Bevölkerung ab 25 Jahren",
-                "attributable deaths due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older by type of disease",
-                "dalys due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older",
-                "dalys due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older by type of disease",
+                "Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
+                "Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
+                "DALYs infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
+                "DALYs infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
                 ""
               ]
             },
