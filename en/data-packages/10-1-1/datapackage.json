@@ -22,10 +22,23 @@
               "enum": [
                 "Growth rate of net equivalent income of the total population",
                 "Growth rate of net equivalent income of the bottom 40 per cent of the population",
+                "Growth rate of per capita income",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "poverty of the population",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population total",
+                "Poorest 40 per cent of the population",
+                ""
+              ]
+            },
+            "title": "Poverty of the population"
           },
           {
             "name": "Value",

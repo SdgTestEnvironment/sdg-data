@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mn usd, constant prices (2020)",
+                "mn eur",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

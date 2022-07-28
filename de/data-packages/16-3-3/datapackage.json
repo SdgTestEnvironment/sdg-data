@@ -22,6 +22,7 @@
               "enum": [
                 "Eingegangene Anträge",
                 "Abschließend bearbeitete Anträge",
+                "Verbraucherschlichtung",
                 ""
               ]
             },
@@ -41,7 +42,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

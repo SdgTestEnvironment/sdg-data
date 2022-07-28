@@ -22,10 +22,23 @@
               "enum": [
                 "Wachstumsrate des Nettoäquivalenzeinkommens der gesamten Bevölkerung",
                 "Wachstumsrate des Nettoäquivalenzeinkommens der ärmsten 40 Prozent der Bevölkerung",
+                "Wachstumsrate des Pro-Kopf-Einkommens",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "poverty of the population",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gesamtbevölkerung",
+                "Ärmsten 40 Prozent der Bevölkerung",
+                ""
+              ]
+            },
+            "title": "Armut der Bevölkerung"
           },
           {
             "name": "Value",

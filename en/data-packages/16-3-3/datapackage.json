@@ -22,6 +22,7 @@
               "enum": [
                 "Applications received",
                 "Applications finally processed",
+                "Consumer conciliation",
                 ""
               ]
             },
@@ -41,7 +42,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
