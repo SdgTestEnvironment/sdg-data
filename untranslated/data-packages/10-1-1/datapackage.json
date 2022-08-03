@@ -15,19 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "growth rate of net equivalent income of the total population",
-                "growth rate of net equivalent income of the bottom 40 per cent of the population",
-                "growth rate of per capita income",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "poverty of the population",
+            "name": "population",
             "type": "string",
             "constraints": {
               "enum": [

@@ -31,7 +31,7 @@ level of waterstress,1,2
 mode of transport,1,6
 ownership,1,2
 percentiles,1,7
-poverty of the population,1,2
+population,1,2
 profession,1,4
 region,6,17
 sea,1,2
@@ -45,7 +45,7 @@ substance,1,2
 technology sectors,1,2
 technology,1,2
 thematic area,1,4
-timeseries,56,149
+timeseries,55,146
 treatment,1,2
 type of account,1,2
 type of disease,4,21

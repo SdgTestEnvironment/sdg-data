@@ -16,20 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wachstumsrate des Nettoäquivalenzeinkommens der gesamten Bevölkerung",
-                "Wachstumsrate des Nettoäquivalenzeinkommens der ärmsten 40 Prozent der Bevölkerung",
-                "Wachstumsrate des Pro-Kopf-Einkommens",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "poverty of the population",
+            "name": "population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Armut der Bevölkerung"
+            "title": "Bevölkerung"
           },
           {
             "name": "Value",

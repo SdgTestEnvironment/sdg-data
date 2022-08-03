@@ -1942,7 +1942,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl",
+                "Attributable Todesfälle",
                 "DALYs",
                 ""
               ]
@@ -1969,10 +1969,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
-                "Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
-                "DALYs infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
-                "DALYs infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
+                "Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
+                "Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
+                "DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
+                "DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
                 ""
               ]
             },
@@ -4995,20 +4995,7 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wachstumsrate des Nettoäquivalenzeinkommens der gesamten Bevölkerung",
-                "Wachstumsrate des Nettoäquivalenzeinkommens der ärmsten 40 Prozent der Bevölkerung",
-                "Wachstumsrate des Pro-Kopf-Einkommens",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "poverty of the population",
+            "name": "population",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5017,7 +5004,7 @@
                 ""
               ]
             },
-            "title": "Armut der Bevölkerung"
+            "title": "Bevölkerung"
           },
           {
             "name": "Value",
