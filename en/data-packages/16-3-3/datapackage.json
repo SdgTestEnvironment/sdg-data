@@ -22,7 +22,6 @@
               "enum": [
                 "Applications received",
                 "Applications finally processed",
-                "Consumer conciliation",
                 ""
               ]
             },
