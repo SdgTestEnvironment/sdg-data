@@ -1,34 +1,193 @@
-Year,type of disease,Value
-2010,a) diarrhoea,3.68
-2011,a) diarrhoea,5.7
-2012,a) diarrhoea,6.89
-2013,a) diarrhoea,7.1
-2014,a) diarrhoea,6.34
-2015,a) diarrhoea,7.02
-2016,a) diarrhoea,5.75
-2017,a) diarrhoea,5.42
-2018,a) diarrhoea,5.08
-2019,a) diarrhoea,4.25
-2020,a) diarrhoea,3.69
-2010,b) intestinal nematode infections,0.0
-2011,b) intestinal nematode infections,0.0
-2012,b) intestinal nematode infections,0.0
-2013,b) intestinal nematode infections,0.0
-2014,b) intestinal nematode infections,0.0
-2015,b) intestinal nematode infections,0.0
-2016,b) intestinal nematode infections,0.0
-2017,b) intestinal nematode infections,0.0
-2018,b) intestinal nematode infections,0.0
-2019,b) intestinal nematode infections,0.0
-2020,b) intestinal nematode infections,
-2010,c) protein-energy malnutrition,0.3
-2011,c) protein-energy malnutrition,0.29
-2012,c) protein-energy malnutrition,0.26
-2013,c) protein-energy malnutrition,0.33
-2014,c) protein-energy malnutrition,0.33
-2015,c) protein-energy malnutrition,0.55
-2016,c) protein-energy malnutrition,0.5
-2017,c) protein-energy malnutrition,0.71
-2018,c) protein-energy malnutrition,0.75
-2019,c) protein-energy malnutrition,0.82
-2020,c) protein-energy malnutrition,0.91
+Year,type of disease,sex,age,Value
+2010,a) diarrhoea,,,3.68
+2011,a) diarrhoea,,,5.7
+2012,a) diarrhoea,,,6.89
+2013,a) diarrhoea,,,7.1
+2014,a) diarrhoea,,,6.34
+2015,a) diarrhoea,,,7.02
+2016,a) diarrhoea,,,5.75
+2017,a) diarrhoea,,,5.42
+2018,a) diarrhoea,,,5.08
+2019,a) diarrhoea,,,4.25
+2020,a) diarrhoea,,,3.69
+2021,a) diarrhoea,,,
+2010,b) intestinal nematode infections,,,0.0
+2011,b) intestinal nematode infections,,,0.0
+2012,b) intestinal nematode infections,,,0.0
+2013,b) intestinal nematode infections,,,0.0
+2014,b) intestinal nematode infections,,,0.0
+2015,b) intestinal nematode infections,,,0.0
+2016,b) intestinal nematode infections,,,0.0
+2017,b) intestinal nematode infections,,,0.0
+2018,b) intestinal nematode infections,,,0.0
+2019,b) intestinal nematode infections,,,0.0
+2020,b) intestinal nematode infections,,,0.0
+2021,b) intestinal nematode infections,,,
+2010,c) protein-energy malnutrition,,,0.3
+2011,c) protein-energy malnutrition,,,0.29
+2012,c) protein-energy malnutrition,,,0.26
+2013,c) protein-energy malnutrition,,,0.33
+2014,c) protein-energy malnutrition,,,0.33
+2015,c) protein-energy malnutrition,,,0.55
+2016,c) protein-energy malnutrition,,,0.5
+2017,c) protein-energy malnutrition,,,0.71
+2018,c) protein-energy malnutrition,,,0.75
+2019,c) protein-energy malnutrition,,,0.82
+2020,c) protein-energy malnutrition,,,0.91
+2021,c) protein-energy malnutrition,,,
+2010,d) acute respiratory infections,,,25.88
+2011,d) acute respiratory infections,,,25.34
+2012,d) acute respiratory infections,,,24.44
+2013,d) acute respiratory infections,,,26.34
+2014,d) acute respiratory infections,,,21.5
+2015,d) acute respiratory infections,,,26.67
+2016,d) acute respiratory infections,,,23.93
+2017,d) acute respiratory infections,,,26.1
+2018,d) acute respiratory infections,,,29.12
+2019,d) acute respiratory infections,,,25.07
+2020,d) acute respiratory infections,,,21.29
+2021,d) acute respiratory infections,,,
+2010,a) diarrhoea,male,,2.82
+2011,a) diarrhoea,male,,4.25
+2012,a) diarrhoea,male,,5.17
+2013,a) diarrhoea,male,,5.37
+2014,a) diarrhoea,male,,4.75
+2015,a) diarrhoea,male,,5.47
+2016,a) diarrhoea,male,,4.46
+2017,a) diarrhoea,male,,4.26
+2018,a) diarrhoea,male,,3.98
+2019,a) diarrhoea,male,,3.3
+2020,a) diarrhoea,male,,2.91
+2021,a) diarrhoea,male,,
+2010,b) intestinal nematode infections,male,,0.0
+2011,b) intestinal nematode infections,male,,0.0
+2012,b) intestinal nematode infections,male,,0.0
+2013,b) intestinal nematode infections,male,,0.0
+2014,b) intestinal nematode infections,male,,0.0
+2015,b) intestinal nematode infections,male,,0.0
+2016,b) intestinal nematode infections,male,,0.0
+2017,b) intestinal nematode infections,male,,0.0
+2018,b) intestinal nematode infections,male,,0.0
+2019,b) intestinal nematode infections,male,,0.0
+2020,b) intestinal nematode infections,male,,0.0
+2021,b) intestinal nematode infections,male,,
+2010,c) protein-energy malnutrition,male,,0.22
+2011,c) protein-energy malnutrition,male,,0.17
+2012,c) protein-energy malnutrition,male,,0.15
+2013,c) protein-energy malnutrition,male,,0.17
+2014,c) protein-energy malnutrition,male,,0.23
+2015,c) protein-energy malnutrition,male,,0.34
+2016,c) protein-energy malnutrition,male,,0.29
+2017,c) protein-energy malnutrition,male,,0.43
+2018,c) protein-energy malnutrition,male,,0.5
+2019,c) protein-energy malnutrition,male,,0.53
+2020,c) protein-energy malnutrition,male,,0.54
+2021,c) protein-energy malnutrition,male,,
+2010,d) acute respiratory infections,male,,25.33
+2011,d) acute respiratory infections,male,,24.99
+2012,d) acute respiratory infections,male,,24.24
+2013,d) acute respiratory infections,male,,26.26
+2014,d) acute respiratory infections,male,,22.06
+2015,d) acute respiratory infections,male,,27.15
+2016,d) acute respiratory infections,male,,24.68
+2017,d) acute respiratory infections,male,,26.14
+2018,d) acute respiratory infections,male,,29.66
+2019,d) acute respiratory infections,male,,26.14
+2020,d) acute respiratory infections,male,,23.38
+2021,d) acute respiratory infections,male,,
+2010,a) diarrhoea,female,,4.5
+2011,a) diarrhoea,female,,7.09
+2012,a) diarrhoea,female,,8.53
+2013,a) diarrhoea,female,,8.75
+2014,a) diarrhoea,female,,7.87
+2015,a) diarrhoea,female,,8.53
+2016,a) diarrhoea,female,,7.0
+2017,a) diarrhoea,female,,6.55
+2018,a) diarrhoea,female,,6.15
+2019,a) diarrhoea,female,,5.17
+2020,a) diarrhoea,female,,4.45
+2021,a) diarrhoea,female,,
+2010,b) intestinal nematode infections,female,,0.0
+2011,b) intestinal nematode infections,female,,0.0
+2012,b) intestinal nematode infections,female,,0.0
+2013,b) intestinal nematode infections,female,,0.0
+2014,b) intestinal nematode infections,female,,0.0
+2015,b) intestinal nematode infections,female,,0.0
+2016,b) intestinal nematode infections,female,,0.0
+2017,b) intestinal nematode infections,female,,0.0
+2018,b) intestinal nematode infections,female,,0.0
+2019,b) intestinal nematode infections,female,,0.0
+2020,b) intestinal nematode infections,female,,0.0
+2021,b) intestinal nematode infections,female,,0.0
+2010,c) protein-energy malnutrition,female,,0.37
+2011,c) protein-energy malnutrition,female,,0.4
+2012,c) protein-energy malnutrition,female,,0.37
+2013,c) protein-energy malnutrition,female,,0.47
+2014,c) protein-energy malnutrition,female,,0.43
+2015,c) protein-energy malnutrition,female,,0.75
+2016,c) protein-energy malnutrition,female,,0.7
+2017,c) protein-energy malnutrition,female,,0.98
+2018,c) protein-energy malnutrition,female,,0.99
+2019,c) protein-energy malnutrition,female,,1.1
+2020,c) protein-energy malnutrition,female,,1.27
+2021,c) protein-energy malnutrition,female,,
+2010,d) acute respiratory infections,female,,26.41
+2011,d) acute respiratory infections,female,,25.68
+2012,d) acute respiratory infections,female,,24.64
+2013,d) acute respiratory infections,female,,26.43
+2014,d) acute respiratory infections,female,,20.97
+2015,d) acute respiratory infections,female,,26.2
+2016,d) acute respiratory infections,female,,23.2
+2017,d) acute respiratory infections,female,,26.06
+2018,d) acute respiratory infections,female,,28.6
+2019,d) acute respiratory infections,female,,24.03
+2020,d) acute respiratory infections,female,,19.26
+2021,d) acute respiratory infections,female,,
+2010,a) diarrhoea,,under 5 years,0.32
+2011,a) diarrhoea,,under 5 years,0.15
+2012,a) diarrhoea,,under 5 years,0.24
+2013,a) diarrhoea,,under 5 years,0.35
+2014,a) diarrhoea,,under 5 years,0.17
+2015,a) diarrhoea,,under 5 years,0.23
+2016,a) diarrhoea,,under 5 years,0.33
+2017,a) diarrhoea,,under 5 years,0.26
+2018,a) diarrhoea,,under 5 years,0.41
+2019,a) diarrhoea,,under 5 years,0.15
+2020,a) diarrhoea,,under 5 years,0.08
+2021,a) diarrhoea,,under 5 years,
+2010,b) intestinal nematode infections,,under 5 years,0.0
+2011,b) intestinal nematode infections,,under 5 years,0.0
+2012,b) intestinal nematode infections,,under 5 years,0.0
+2013,b) intestinal nematode infections,,under 5 years,0.0
+2014,b) intestinal nematode infections,,under 5 years,0.0
+2015,b) intestinal nematode infections,,under 5 years,0.0
+2016,b) intestinal nematode infections,,under 5 years,0.0
+2017,b) intestinal nematode infections,,under 5 years,0.0
+2018,b) intestinal nematode infections,,under 5 years,0.0
+2019,b) intestinal nematode infections,,under 5 years,0.0
+2020,b) intestinal nematode infections,,under 5 years,0.0
+2021,b) intestinal nematode infections,,under 5 years,
+2010,c) protein-energy malnutrition,,under 5 years,0.03
+2011,c) protein-energy malnutrition,,under 5 years,0.0
+2012,c) protein-energy malnutrition,,under 5 years,0.0
+2013,c) protein-energy malnutrition,,under 5 years,0.0
+2014,c) protein-energy malnutrition,,under 5 years,0.0
+2015,c) protein-energy malnutrition,,under 5 years,0.0
+2016,c) protein-energy malnutrition,,under 5 years,0.0
+2017,c) protein-energy malnutrition,,under 5 years,0.0
+2018,c) protein-energy malnutrition,,under 5 years,0.0
+2019,c) protein-energy malnutrition,,under 5 years,0.0
+2020,c) protein-energy malnutrition,,under 5 years,0.0
+2021,c) protein-energy malnutrition,,under 5 years,0.0
+2010,d) acute respiratory infections,,under 5 years,0.77
+2011,d) acute respiratory infections,,under 5 years,1.15
+2012,d) acute respiratory infections,,under 5 years,0.83
+2013,d) acute respiratory infections,,under 5 years,0.91
+2014,d) acute respiratory infections,,under 5 years,0.9
+2015,d) acute respiratory infections,,under 5 years,1.15
+2016,d) acute respiratory infections,,under 5 years,0.84
+2017,d) acute respiratory infections,,under 5 years,0.47
+2018,d) acute respiratory infections,,under 5 years,0.85
+2019,d) acute respiratory infections,,under 5 years,0.74
+2020,d) acute respiratory infections,,under 5 years,0.58
+2021,d) acute respiratory infections,,under 5 years,

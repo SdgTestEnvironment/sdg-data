@@ -22,6 +22,28 @@
                 "a) diarrhoea",
                 "b) intestinal nematode infections",
                 "c) protein-energy malnutrition",
+                "d) acute respiratory infections",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 5 years",
                 ""
               ]
             }

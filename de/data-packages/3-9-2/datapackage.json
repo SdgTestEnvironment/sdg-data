@@ -23,10 +23,34 @@
                 "a) Durchfallerkrankungen",
                 "b) Intestinale Nematodeninfektionen",
                 "c) Energie- und Eiweißmangelernährung",
+                "d) Akute Atemwegsinfektionen",
                 ""
               ]
             },
             "title": "Art der Erkrankung"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männlich",
+                "Weiblich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4 Jahre und jünger",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
           },
           {
             "name": "Value",
