@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn eur",
                 "mn usd, constant prices (2020)",
+                "mn eur",
                 ""
               ]
             }

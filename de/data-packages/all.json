@@ -8663,8 +8663,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen EUR",
                 "Millionen USD, konstante Preise (2020)",
+                "Millionen EUR",
                 ""
               ]
             },
