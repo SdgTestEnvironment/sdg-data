@@ -20,7 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Frauenanteil in Parlamenten",
+                "proportion of women in federal german parliament",
+                "proportion of women in länder parliaments",
                 "Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten",
                 ""
               ]

@@ -488,7 +488,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Frauenanteil in Parlamenten",
+                "proportion of women in federal german parliament",
+                "proportion of women in länder parliaments",
                 "Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten",
                 ""
               ]
@@ -1864,7 +1865,6 @@
             "constraints": {
               "enum": [
                 "Millionen USD, konstante Preise (2020)",
-                "Millionen USD, konstante Preise (2019)",
                 "Millionen EUR",
                 ""
               ]
@@ -4748,7 +4748,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2019)",
+                "Millionen USD, konstante Preise (2020)",
                 ""
               ]
             },
@@ -5371,7 +5371,6 @@
             "constraints": {
               "enum": [
                 "Millionen USD, konstante Preise (2020)",
-                "Millionen USD, konstante Preise (2019)",
                 "Millionen EUR",
                 ""
               ]

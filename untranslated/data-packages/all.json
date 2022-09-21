@@ -448,7 +448,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of women in parliaments",
+                "proportion of women in federal german parliament",
+                "proportion of women in länder parliaments",
                 "proportion of women in councils of districts and district-free cities",
                 ""
               ]
@@ -1711,7 +1712,6 @@
             "constraints": {
               "enum": [
                 "mn usd, constant prices (2020)",
-                "mn usd, constant prices (2019)",
                 "mn eur",
                 ""
               ]
@@ -4358,7 +4358,7 @@
             "constraints": {
               "enum": [
                 "mn eur",
-                "mn usd, constant prices (2019)",
+                "mn usd, constant prices (2020)",
                 ""
               ]
             }
@@ -4931,7 +4931,6 @@
             "constraints": {
               "enum": [
                 "mn usd, constant prices (2020)",
-                "mn usd, constant prices (2019)",
                 "mn eur",
                 ""
               ]

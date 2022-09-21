@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "mn eur",
-                "mn usd, constant prices (2019)",
+                "mn usd, constant prices (2020)",
                 ""
               ]
             }
