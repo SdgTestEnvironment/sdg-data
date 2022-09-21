@@ -488,8 +488,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of women in federal german parliament",
-                "proportion of women in länder parliaments",
+                "Proportion of women in Federal German Parliament",
+                "Proportion of women in Länder parliaments",
                 "Proportion of women in councils of districts and district-free cities",
                 ""
               ]
