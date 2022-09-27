@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Durchfallerkrankungen",
-                "b) Intestinale Nematodeninfektionen",
-                "c) Energie- und Eiweißmangelernährung",
-                "d) Akute Atemwegsinfektionen",
+                "b) Durchfallerkrankungen",
+                "c) Intestinale Nematodeninfektionen",
+                "d) Energie- und Eiweißmangelernährung",
+                "a) Akute Atemwegsinfektionen",
                 ""
               ]
             },
