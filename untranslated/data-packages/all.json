@@ -94,7 +94,7 @@
             "type": "integer"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -175,8 +175,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "km2",
-                "%",
+                "km²",
+                "percentage",
                 ""
               ]
             }
@@ -359,8 +359,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "micrograms per qubic meters",
-                "mn inhabitants",
+                "micrograms per m³",
+                "million inhabitants",
                 ""
               ]
             }
@@ -370,7 +370,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pm10",
+                "pm₁₀",
                 "pm2.5",
                 ""
               ]
@@ -458,7 +458,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) at the end of lower primary education",
+                "b) at the end of primary education",
                 "c) at the end of lower secondary education",
                 ""
               ]
@@ -601,7 +601,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-wuerttemberg",
+                "baden-württemberg",
                 "bavaria",
                 "berlin",
                 "brandenburg",
@@ -861,8 +861,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
-                "1 000 t",
+                "percentage",
+                "1,000 tonnes",
                 ""
               ]
             }
@@ -956,8 +956,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn eur",
-                "mn usd, constant prices (2020)",
+                "million eur",
+                "million usd, constant prices (2020)",
                 ""
               ]
             }
@@ -1162,7 +1162,7 @@
                 "a) acute respiratory infections",
                 "b) diarrhoea",
                 "c) intestinal nematode infections",
-                "c) protein-energy malnutrition",
+                "d) protein-energy malnutrition",
                 ""
               ]
             }
@@ -1179,11 +1179,11 @@
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 5 years",
+                "4 years and younger",
                 ""
               ]
             }
@@ -1218,7 +1218,7 @@
                 "a) schools with access to electricity",
                 "e) schools with access to basic drinking water",
                 "f) schools with access to single-sex basic sanitation facilities",
-                "g) schools with access to basic handwashing facilities (as per the wash indicator definitions)",
+                "g) schools with access to basic handwashing facilities",
                 ""
               ]
             }
@@ -1465,8 +1465,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn t",
-                "%",
+                "million tonnes",
+                "percentage",
                 ""
               ]
             }
@@ -1617,13 +1617,13 @@
             "type": "integer"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
+                "17 years and younger",
                 "18 to under 65 years",
-                "65 years and over",
+                "65 years and older",
                 ""
               ]
             }
@@ -1832,14 +1832,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "percentage",
                 "number",
                 ""
               ]
             }
           },
           {
-            "name": "country of origin",
+            "name": "country of citizenship",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1968,9 +1968,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "sdg indicator 4-2-2",
-                "sdg indicator 4-3-1 (youth)",
-                "sdg indicator 4-3-1 (adults)",
+                "sdg indicator 4.2.2",
+                "sdg-indicator 4.3.1 (youths)",
+                "sdg-indicator 4.3.1 (adults)",
                 ""
               ]
             }
@@ -2009,13 +2009,13 @@
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
+                "17 years and younger",
                 "18 to under 65 years",
-                "65 years and over",
+                "65 years and older",
                 ""
               ]
             }
@@ -2094,8 +2094,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -2200,8 +2200,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -2277,8 +2277,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -2423,7 +2423,7 @@
             }
           },
           {
-            "name": "declination",
+            "name": "outcome of the application process",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2461,7 +2461,7 @@
             "constraints": {
               "enum": [
                 "number",
-                "%",
+                "percentage",
                 ""
               ]
             }
@@ -2526,8 +2526,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn t",
-                "t per capita",
+                "million tonnes",
+                "tonnes per capita",
                 "2015 = 100",
                 ""
               ]
@@ -2571,22 +2571,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100 000 inhabitants",
+                "per 100,000 inhabitants",
                 "number",
                 ""
               ]
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 14 years",
+                "13 years and younger",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 60 years",
-                "60 years and over",
+                "60 years and older",
                 ""
               ]
             }
@@ -2908,7 +2908,7 @@
             "constraints": {
               "enum": [
                 "germany",
-                "baden-wuerttemberg",
+                "baden-württemberg",
                 "bavaria",
                 "berlin",
                 "brandenburg",
@@ -3046,12 +3046,12 @@
             }
           },
           {
-            "name": "characteristics",
+            "name": "availability",
             "type": "string",
             "constraints": {
               "enum": [
-                "available",
-                "not available",
+                "yes",
+                "no",
                 ""
               ]
             }
@@ -3123,8 +3123,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -3189,8 +3189,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -3256,7 +3256,7 @@
             "constraints": {
               "enum": [
                 "population total",
-                "poorest 40 per cent of the population",
+                "poorest 40 percent of the population",
                 ""
               ]
             }
@@ -3288,7 +3288,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "percentage",
                 "1 000 m³",
                 ""
               ]
@@ -3466,8 +3466,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn t",
-                "t per capita",
+                "million tonnes",
+                "tonnes per capita",
                 "2015 = 100",
                 ""
               ]
@@ -3511,8 +3511,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -3599,8 +3599,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg per capita",
-                "%",
+                "kilogram per capita",
+                "percentage",
                 ""
               ]
             }
@@ -3768,12 +3768,12 @@
             "type": "integer"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 1 year",
-                "under 5 years",
+                "11 months and younger",
+                "4 years and younger",
                 ""
               ]
             }
@@ -3823,7 +3823,7 @@
             "type": "integer"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3906,7 +3906,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-wuerttemberg",
+                "baden-württemberg",
                 "bavaria",
                 "berlin",
                 "brandenburg",
@@ -3931,7 +3931,7 @@
             "type": "string"
           },
           {
-            "name": "disability",
+            "name": "disability status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3941,15 +3941,15 @@
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
+                "17 years and younger",
                 "18 to under 30 years",
                 "30 to under 45 years",
                 "45 to under 65 years",
-                "65 years and over",
+                "65 years and older",
                 ""
               ]
             }
@@ -4054,7 +4054,7 @@
             "type": "integer"
           },
           {
-            "name": "economic sector",
+            "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4551,8 +4551,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -4565,7 +4565,7 @@
                 "oda (net disbursements)",
                 "oof (net disbursements)",
                 "officially supported export credits (net disbursements)",
-                "private sector flows at market terms (net disbursements)",
+                "private sector flows at market terms (net disbursement)",
                 "private concessional flows (net disbursements)",
                 ""
               ]
@@ -4675,7 +4675,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "percentage",
                 "number",
                 ""
               ]
@@ -4698,11 +4698,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) at risk",
-                "a) not at risk",
-                "b) under observation",
-                "c) breeding programs for preservation",
-                "d) rudiments remaining",
+                "at risk",
+                "not at risk",
+                "under observation",
+                "breeding programs for preservation",
+                "rudiments remaining",
                 ""
               ]
             }
@@ -5071,8 +5071,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -5148,22 +5148,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100 000 inhabitants",
+                "per 100,000 inhabitants",
                 "number",
                 ""
               ]
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 14 years",
+                "13 years and younger",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 25 years",
-                "25 years and over",
+                "25 years and older",
                 "unknown age",
                 ""
               ]
@@ -5186,7 +5186,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "exploitation of labour",
+                "labour exploitation",
                 "sexual exploitation",
                 ""
               ]
@@ -5308,7 +5308,7 @@
             "constraints": {
               "enum": [
                 "number",
-                "%",
+                "percentage",
                 ""
               ]
             }
@@ -5352,10 +5352,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "maternity care",
-                "contraceptive and family planning",
-                "comprehensive sexuality education and information",
-                "hiv and hpv",
+                "section 1: maternity care",
+                "section 2: contraception and family planning",
+                "section 3: comprehensive sexuality education and information",
+                "section 4: hiv and hpv",
                 ""
               ]
             }
@@ -5387,10 +5387,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "d) pharmacists",
-                "a) medical doctors",
-                "c) nursing and midwifery personnel",
-                "b) dentists",
+                "pharmacists",
+                "medical doctors",
+                "nursing and midwifery personnel",
+                "dentists",
                 ""
               ]
             }
@@ -5574,15 +5574,15 @@
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 14 years",
+                "13 years and younger",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 60 years",
-                "60 years and over",
+                "60 years and older",
                 ""
               ]
             }
@@ -5702,8 +5702,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -5749,7 +5749,7 @@
               "enum": [
                 "no unit",
                 "2015 = 100",
-                "%",
+                "percentage",
                 ""
               ]
             }
@@ -5838,8 +5838,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn t",
-                "t per capita",
+                "million tonnes",
+                "tonnes per capita",
                 "2015 = 100",
                 ""
               ]
@@ -5883,10 +5883,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "class 3 areas (elevation 2500-3500 meters)",
-                "class 4 areas (elevation 1500-2500 meters)",
-                "class 5 areas (elevation 1000-1500 meters)",
-                "class 6 areas (elevation  300-1000 meters)",
+                "class 3 areas (elavation 2500-3500 meters)",
+                "class 4 areas (elavation 1500-2500 meters)",
+                "class 5 areas (elavation 1000-1500 meters)",
+                "class 6 areas (elavation 300-1000 meters)",
                 ""
               ]
             }
@@ -6192,7 +6192,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "percentage",
                 "number",
                 ""
               ]
@@ -6381,13 +6381,13 @@
             "type": "integer"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
+                "17 years and younger",
                 "18 to under 65 years",
-                "65 years and over",
+                "65 years and older",
                 ""
               ]
             }
@@ -6448,7 +6448,7 @@
             "type": "string"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6524,8 +6524,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn pkm",
-                "mn tkm",
+                "million passenger-kilometre",
+                "million tonne-kilometres",
                 ""
               ]
             }
@@ -6537,10 +6537,10 @@
               "enum": [
                 "road transport",
                 "rail transport",
-                "commercial air transport",
+                "air transport",
                 "motorised private transport",
                 "inland waterway transport",
-                "transport via pipeline crude oil",
+                "pipelines: crude oil",
                 ""
               ]
             }
@@ -6579,13 +6579,13 @@
             "type": "integer"
           },
           {
-            "name": "economic sector",
+            "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) agriculture, forestry and fishing (nace rev 2, section a)",
-                "b) mimec (nace rev 2, sections b, c, d, f)",
-                "c) services (nace rev 2, sections e, g to t)",
+                "agriculture, forestry and fishing",
+                "mimec",
+                "services",
                 ""
               ]
             }
@@ -6617,7 +6617,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "percentage",
                 "eur",
                 ""
               ]
@@ -6662,8 +6662,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn t",
-                "t per capita",
+                "million tonnes",
+                "tonnes per capita",
                 "2015 = 100",
                 ""
               ]
@@ -6758,11 +6758,11 @@
             "type": "integer"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 14 years",
+                "13 years and younger",
                 "14 to under 18 years",
                 ""
               ]
@@ -6835,27 +6835,23 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "topic",
             "type": "string",
             "constraints": {
               "enum": [
-                "overcrowding rate",
-                "housing cost overburden rate",
-                "population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
-                "population having neither a bath, nor a shower in their dwelling",
-                "population not having indoor flushing toilet for the sole use of their household",
-                "population considering their dwelling as too dark",
+                "housing conditions",
+                "housing deprivation",
                 ""
               ]
             }
           },
           {
-            "name": "urbanisation",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
                 "cities",
-                "smaller towns and suburbs",
+                "towns and suburbs",
                 "rural areas",
                 ""
               ]
@@ -6877,8 +6873,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "housing conditions",
-                "housing deprivation",
+                "overcrowding rate",
+                "housing cost overburden rate",
+                "population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+                "population having neither a bath, nor a shower in their dwelling",
+                "population not having indoor flushing toilet for the sole use of their household",
+                "population considering their dwelling as too dark",
                 ""
               ]
             }
@@ -6921,10 +6921,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "chronic obstructive pulmonary disease",
+                "chronic obstructive pulmonary disease (copd)",
                 "lung cancer",
                 "stroke",
-                "ischemic heart disease",
+                "ischemic heart diseases",
                 "diabetes mellitus type 2",
                 ""
               ]
@@ -6970,7 +6970,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "percentage",
                 "1 000",
                 ""
               ]
@@ -7014,10 +7014,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "area 1 overarching legal frameworks and public life",
-                "area 2 violence against women",
-                "area 3 employment and economic benefits",
-                "area 4 marriage and family",
+                "area 1: overarching legal frameworks and public life",
+                "area 2: violence against women",
+                "area 3: employment and economic benefit",
+                "area 4: marriage and family",
                 ""
               ]
             }
@@ -7126,7 +7126,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-wuerttemberg",
+                "baden-württemberg",
                 "bavaria",
                 "berlin",
                 "brandenburg",
@@ -7177,8 +7177,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -7251,7 +7251,7 @@
             "constraints": {
               "enum": [
                 "number",
-                "%",
+                "percentage",
                 ""
               ]
             }
@@ -7283,8 +7283,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -7373,19 +7373,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "percentage",
                 "number",
                 ""
               ]
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 15 years",
-                "under 18 years",
+                "14 years and younger",
+                "17 years and younger",
                 ""
               ]
             }
@@ -7417,8 +7417,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "greater 10 percentage",
-                "greater 25 percentage",
+                "greater 10 %",
+                "greater 25 %",
                 ""
               ]
             }
@@ -7446,7 +7446,7 @@
             "type": "integer"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7549,8 +7549,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
-                "1 000 t",
+                "percentage",
+                "1,000 tonnes",
                 ""
               ]
             }
@@ -7622,7 +7622,7 @@
             "type": "integer"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7630,7 +7630,7 @@
                 "25 to under 45 years",
                 "45 to under 55 years",
                 "55 to under 65 years",
-                "65 years and over",
+                "65 years and older",
                 ""
               ]
             }
@@ -7783,7 +7783,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mj/eur",
+                "megajoule per eur",
                 "2015 = 100",
                 ""
               ]
@@ -7856,12 +7856,12 @@
             "type": "string"
           },
           {
-            "name": "domain",
+            "name": "policy area",
             "type": "string",
             "constraints": {
               "enum": [
                 "domain 1. migrant rights",
-                "domain 2. whole-of-government/evidence-based policies",
+                "domain 2. whole-of-government/ evidence-based policies",
                 "domain 3. cooperation and partnerships",
                 "domain 4. socioeconomic well-being",
                 "domain 5. mobility dimensions of crises",
@@ -7915,7 +7915,7 @@
                 "world organisation for animal health",
                 "convention on international trade in endangered species",
                 "ramsar convention",
-                "convention on the conservation of migratory species of wildanimals",
+                "convention on the conservation of migratory species of wild animals",
                 "world heritage convention",
                 "international convention for the control and management of ship's ballast water and sediments",
                 ""
@@ -8077,7 +8077,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "percentage",
                 "number",
                 ""
               ]
@@ -8096,15 +8096,15 @@
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 14 years",
+                "13 years and younger",
                 "14 to under 18 years",
                 "18 to under 21 years",
                 "21 to under 60 years",
-                "60 years and over",
+                "60 years and older",
                 ""
               ]
             }
@@ -8180,9 +8180,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
-                "bn eur",
-                "mn h",
+                "percentage",
+                "billion eur",
+                "million hours",
                 "2015 = 100",
                 "1 000",
                 ""
@@ -8271,7 +8271,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-wuerttemberg",
+                "baden-württemberg",
                 "bavaria",
                 "berlin",
                 "brandenburg",
@@ -8355,8 +8355,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) drugs",
-                "b) alcohol and other psychoactive substances",
+                "drugs",
+                "alcohol and other psychoactive substances",
                 ""
               ]
             }
@@ -8612,7 +8612,7 @@
             "type": "integer"
           },
           {
-            "name": "level of waterstress",
+            "name": "water use index",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8683,20 +8683,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "copied or moved a file and folder",
+                "copying or moving of files and folders",
                 "using copy or cut and paste tools to duplicate or move information on screen",
-                "written code in a programming language",
+                "writing code in a programming language",
                 "connecting and installing new devices, eg a printer or a modem",
-                "transferred files between computer and other devices",
-                "installed software or applications (apps)",
-                "creating electronic presentations with presentation software (e.g. slides), including e.g. images, sound, video or charts",
-                "used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
+                "transferring files between computer and other devices",
+                "installing software or apps",
+                "creating electronic presentations with presentation software, including e.g. images, sound, video or charts",
+                "using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
                 ""
               ]
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8854,8 +8854,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "eur/h",
-                "%",
+                "eur per hour",
+                "percentage",
                 ""
               ]
             }
@@ -8876,7 +8876,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-wuerttemberg",
+                "baden-württemberg",
                 "bavaria",
                 "berlin",
                 "brandenburg",
@@ -8938,8 +8938,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mn usd, constant prices (2020)",
-                "mn eur",
+                "million usd, constant prices (2020)",
+                "million eur",
                 ""
               ]
             }
@@ -9078,12 +9078,12 @@
             "type": "integer"
           },
           {
-            "name": "antimicrobial-resistant organisms",
+            "name": "pathogens and resistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)",
-                "methicillin-resistant staphylococcus aureus (mrsa)",
+                "escherichia coli, 3gcr",
+                "staphylococcus aureus, mr",
                 ""
               ]
             }

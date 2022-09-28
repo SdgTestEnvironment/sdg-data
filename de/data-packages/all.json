@@ -102,7 +102,7 @@
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -402,7 +402,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM₁₀",
+                "pm₁₀",
                 "PM₂,₅",
                 ""
               ]
@@ -938,7 +938,7 @@
             "constraints": {
               "enum": [
                 "Prozent",
-                "1 000 Tonnen",
+                "1,000 tonnes",
                 ""
               ]
             },
@@ -1285,7 +1285,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1762,7 +1762,7 @@
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2004,7 +2004,7 @@
             "title": "Units"
           },
           {
-            "name": "country of origin",
+            "name": "country of citizenship",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2189,7 +2189,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2641,7 +2641,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "declination",
+            "name": "outcome of the application process",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2810,7 +2810,7 @@
             "title": "Units"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3320,7 +3320,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "characteristics",
+            "name": "availability",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4107,7 +4107,7 @@
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4167,7 +4167,7 @@
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4284,7 +4284,7 @@
             "title": "GeoCode"
           },
           {
-            "name": "disability",
+            "name": "disability status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4295,7 +4295,7 @@
             "title": "Behinderungsstatus"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4418,7 +4418,7 @@
             "title": "Jahr"
           },
           {
-            "name": "economic sector",
+            "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5618,7 +5618,7 @@
             "title": "Units"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6074,7 +6074,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6953,7 +6953,7 @@
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7026,7 +7026,7 @@
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7168,7 +7168,7 @@
             "title": "Jahr"
           },
           {
-            "name": "economic sector",
+            "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7363,7 +7363,7 @@
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7447,23 +7447,19 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "topic",
             "type": "string",
             "constraints": {
               "enum": [
-                "Überbelegungsquote",
-                "Quote der Überbelastung durch Wohnkosten",
-                "Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
-                "Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",
-                "Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",
-                "Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+                "Wohnverhältnisse",
+                "Deprivation der Unterkunft",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Themenbereich"
           },
           {
-            "name": "urbanisation",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7492,8 +7488,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wohnverhältnisse",
-                "Deprivation der Unterkunft",
+                "Überbelegungsquote",
+                "Quote der Überbelastung durch Wohnkosten",
+                "Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
+                "Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",
+                "Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",
+                "Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
                 ""
               ]
             },
@@ -8040,7 +8040,7 @@
             "title": "Units"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8112,7 +8112,7 @@
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8225,7 +8225,7 @@
             "constraints": {
               "enum": [
                 "Prozent",
-                "1 000 Tonnen",
+                "1,000 tonnes",
                 ""
               ]
             },
@@ -8304,7 +8304,7 @@
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8559,7 +8559,7 @@
             "title": "Jahr"
           },
           {
-            "name": "domain",
+            "name": "policy area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8820,7 +8820,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9381,7 +9381,7 @@
             "title": "Jahr"
           },
           {
-            "name": "level of waterstress",
+            "name": "water use index",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9472,7 +9472,7 @@
             "title": "Aktivitäten"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9889,7 +9889,7 @@
             "title": "Jahr"
           },
           {
-            "name": "antimicrobial-resistant organisms",
+            "name": "pathogens and resistance",
             "type": "string",
             "constraints": {
               "enum": [

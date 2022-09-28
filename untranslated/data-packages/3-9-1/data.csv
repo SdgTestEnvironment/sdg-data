@@ -8,15 +8,15 @@ Year,Units,type of disease,Series,Value
 2016,attributable deaths,,attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older,15277
 2017,attributable deaths,,attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older,15467
 2018,attributable deaths,,attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older,15652
-2010,attributable deaths,chronic obstructive pulmonary disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2427
-2011,attributable deaths,chronic obstructive pulmonary disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2443
-2012,attributable deaths,chronic obstructive pulmonary disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2083
-2013,attributable deaths,chronic obstructive pulmonary disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2389
-2014,attributable deaths,chronic obstructive pulmonary disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2140
-2015,attributable deaths,chronic obstructive pulmonary disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2219
-2016,attributable deaths,chronic obstructive pulmonary disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2036
-2017,attributable deaths,chronic obstructive pulmonary disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2232
-2018,attributable deaths,chronic obstructive pulmonary disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2241
+2010,attributable deaths,chronic obstructive pulmonary disease (copd),attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2427
+2011,attributable deaths,chronic obstructive pulmonary disease (copd),attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2443
+2012,attributable deaths,chronic obstructive pulmonary disease (copd),attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2083
+2013,attributable deaths,chronic obstructive pulmonary disease (copd),attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2389
+2014,attributable deaths,chronic obstructive pulmonary disease (copd),attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2140
+2015,attributable deaths,chronic obstructive pulmonary disease (copd),attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2219
+2016,attributable deaths,chronic obstructive pulmonary disease (copd),attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2036
+2017,attributable deaths,chronic obstructive pulmonary disease (copd),attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2232
+2018,attributable deaths,chronic obstructive pulmonary disease (copd),attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,2241
 2010,attributable deaths,lung cancer,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,4773
 2011,attributable deaths,lung cancer,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,4876
 2012,attributable deaths,lung cancer,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,4144
@@ -35,15 +35,15 @@ Year,Units,type of disease,Series,Value
 2016,attributable deaths,stroke,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,1878
 2017,attributable deaths,stroke,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,1831
 2018,attributable deaths,stroke,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,1871
-2010,attributable deaths,ischemic heart disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,10295
-2011,attributable deaths,ischemic heart disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,9722
-2012,attributable deaths,ischemic heart disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,8236
-2013,attributable deaths,ischemic heart disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,8685
-2014,attributable deaths,ischemic heart disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,7842
-2015,attributable deaths,ischemic heart disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,7491
-2016,attributable deaths,ischemic heart disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,6857
-2017,attributable deaths,ischemic heart disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,6913
-2018,attributable deaths,ischemic heart disease,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,6977
+2010,attributable deaths,ischemic heart diseases,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,10295
+2011,attributable deaths,ischemic heart diseases,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,9722
+2012,attributable deaths,ischemic heart diseases,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,8236
+2013,attributable deaths,ischemic heart diseases,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,8685
+2014,attributable deaths,ischemic heart diseases,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,7842
+2015,attributable deaths,ischemic heart diseases,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,7491
+2016,attributable deaths,ischemic heart diseases,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,6857
+2017,attributable deaths,ischemic heart diseases,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,6913
+2018,attributable deaths,ischemic heart diseases,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,6977
 2010,attributable deaths,diabetes mellitus type 2,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,826
 2011,attributable deaths,diabetes mellitus type 2,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,864
 2012,attributable deaths,diabetes mellitus type 2,attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease,752
@@ -62,15 +62,15 @@ Year,Units,type of disease,Series,Value
 2016,dalys,,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older,286350
 2017,dalys,,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older,285630
 2018,dalys,,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older,290702
-2010,dalys,chronic obstructive pulmonary disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,51415
-2011,dalys,chronic obstructive pulmonary disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,51215
-2012,dalys,chronic obstructive pulmonary disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,42652
-2013,dalys,chronic obstructive pulmonary disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,47602
-2014,dalys,chronic obstructive pulmonary disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,44219
-2015,dalys,chronic obstructive pulmonary disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,43673
-2016,dalys,chronic obstructive pulmonary disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,41143
-2017,dalys,chronic obstructive pulmonary disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,42790
-2018,dalys,chronic obstructive pulmonary disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,43778
+2010,dalys,chronic obstructive pulmonary disease (copd),dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,51415
+2011,dalys,chronic obstructive pulmonary disease (copd),dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,51215
+2012,dalys,chronic obstructive pulmonary disease (copd),dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,42652
+2013,dalys,chronic obstructive pulmonary disease (copd),dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,47602
+2014,dalys,chronic obstructive pulmonary disease (copd),dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,44219
+2015,dalys,chronic obstructive pulmonary disease (copd),dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,43673
+2016,dalys,chronic obstructive pulmonary disease (copd),dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,41143
+2017,dalys,chronic obstructive pulmonary disease (copd),dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,42790
+2018,dalys,chronic obstructive pulmonary disease (copd),dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,43778
 2010,dalys,lung cancer,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,78163
 2011,dalys,lung cancer,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,79777
 2012,dalys,lung cancer,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,67652
@@ -89,15 +89,15 @@ Year,Units,type of disease,Series,Value
 2016,dalys,stroke,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,38335
 2017,dalys,stroke,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,37437
 2018,dalys,stroke,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,38418
-2010,dalys,ischemic heart disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,151264
-2011,dalys,ischemic heart disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,141532
-2012,dalys,ischemic heart disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,119840
-2013,dalys,ischemic heart disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,126023
-2014,dalys,ischemic heart disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,115213
-2015,dalys,ischemic heart disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,109005
-2016,dalys,ischemic heart disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,100854
-2017,dalys,ischemic heart disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,100345
-2018,dalys,ischemic heart disease,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,101776
+2010,dalys,ischemic heart diseases,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,151264
+2011,dalys,ischemic heart diseases,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,141532
+2012,dalys,ischemic heart diseases,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,119840
+2013,dalys,ischemic heart diseases,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,126023
+2014,dalys,ischemic heart diseases,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,115213
+2015,dalys,ischemic heart diseases,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,109005
+2016,dalys,ischemic heart diseases,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,100854
+2017,dalys,ischemic heart diseases,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,100345
+2018,dalys,ischemic heart diseases,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,101776
 2010,dalys,diabetes mellitus type 2,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,54787
 2011,dalys,diabetes mellitus type 2,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,54453
 2012,dalys,diabetes mellitus type 2,dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease,47520

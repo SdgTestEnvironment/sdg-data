@@ -42,7 +42,7 @@
             "title": "Sex"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [

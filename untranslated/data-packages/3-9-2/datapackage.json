@@ -22,7 +22,7 @@
                 "a) acute respiratory infections",
                 "b) diarrhoea",
                 "c) intestinal nematode infections",
-                "c) protein-energy malnutrition",
+                "d) protein-energy malnutrition",
                 ""
               ]
             }
@@ -39,11 +39,11 @@
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 5 years",
+                "4 years and younger",
                 ""
               ]
             }

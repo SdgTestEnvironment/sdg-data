@@ -28,7 +28,7 @@
             "title": "Time series"
           },
           {
-            "name": "declination",
+            "name": "outcome of the application process",
             "type": "string",
             "constraints": {
               "enum": [
