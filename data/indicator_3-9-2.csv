@@ -1,4 +1,16 @@
 Year,type of disease,sex,age,Value
+2010,d) acute respiratory infections,,,25.88
+2011,d) acute respiratory infections,,,25.34
+2012,d) acute respiratory infections,,,24.44
+2013,d) acute respiratory infections,,,26.34
+2014,d) acute respiratory infections,,,21.50
+2015,d) acute respiratory infections,,,26.67
+2016,d) acute respiratory infections,,,23.93
+2017,d) acute respiratory infections,,,26.10
+2018,d) acute respiratory infections,,,29.12
+2019,d) acute respiratory infections,,,25.07
+2020,d) acute respiratory infections,,,21.29
+2021,d) acute respiratory infections,,,
 2010,a) diarrhoea,,,3.68
 2011,a) diarrhoea,,,5.70
 2012,a) diarrhoea,,,6.89
@@ -35,18 +47,18 @@ Year,type of disease,sex,age,Value
 2019,c) protein-energy malnutrition,,,0.82
 2020,c) protein-energy malnutrition,,,0.91
 2021,c) protein-energy malnutrition,,,
-2010,d) acute respiratory infections,,,25.88
-2011,d) acute respiratory infections,,,25.34
-2012,d) acute respiratory infections,,,24.44
-2013,d) acute respiratory infections,,,26.34
-2014,d) acute respiratory infections,,,21.50
-2015,d) acute respiratory infections,,,26.67
-2016,d) acute respiratory infections,,,23.93
-2017,d) acute respiratory infections,,,26.10
-2018,d) acute respiratory infections,,,29.12
-2019,d) acute respiratory infections,,,25.07
-2020,d) acute respiratory infections,,,21.29
-2021,d) acute respiratory infections,,,
+2010,d) acute respiratory infections,male,,25.33
+2011,d) acute respiratory infections,male,,24.99
+2012,d) acute respiratory infections,male,,24.24
+2013,d) acute respiratory infections,male,,26.26
+2014,d) acute respiratory infections,male,,22.06
+2015,d) acute respiratory infections,male,,27.15
+2016,d) acute respiratory infections,male,,24.68
+2017,d) acute respiratory infections,male,,26.14
+2018,d) acute respiratory infections,male,,29.66
+2019,d) acute respiratory infections,male,,26.14
+2020,d) acute respiratory infections,male,,23.38
+2021,d) acute respiratory infections,male,,
 2010,a) diarrhoea,male,,2.82
 2011,a) diarrhoea,male,,4.25
 2012,a) diarrhoea,male,,5.17
@@ -83,18 +95,18 @@ Year,type of disease,sex,age,Value
 2019,c) protein-energy malnutrition,male,,0.53
 2020,c) protein-energy malnutrition,male,,0.54
 2021,c) protein-energy malnutrition,male,,
-2010,d) acute respiratory infections,male,,25.33
-2011,d) acute respiratory infections,male,,24.99
-2012,d) acute respiratory infections,male,,24.24
-2013,d) acute respiratory infections,male,,26.26
-2014,d) acute respiratory infections,male,,22.06
-2015,d) acute respiratory infections,male,,27.15
-2016,d) acute respiratory infections,male,,24.68
-2017,d) acute respiratory infections,male,,26.14
-2018,d) acute respiratory infections,male,,29.66
-2019,d) acute respiratory infections,male,,26.14
-2020,d) acute respiratory infections,male,,23.38
-2021,d) acute respiratory infections,male,,
+2010,d) acute respiratory infections,female,,26.41
+2011,d) acute respiratory infections,female,,25.68
+2012,d) acute respiratory infections,female,,24.64
+2013,d) acute respiratory infections,female,,26.43
+2014,d) acute respiratory infections,female,,20.97
+2015,d) acute respiratory infections,female,,26.20
+2016,d) acute respiratory infections,female,,23.20
+2017,d) acute respiratory infections,female,,26.06
+2018,d) acute respiratory infections,female,,28.60
+2019,d) acute respiratory infections,female,,24.03
+2020,d) acute respiratory infections,female,,19.26
+2021,d) acute respiratory infections,female,,
 2010,a) diarrhoea,female,,4.50
 2011,a) diarrhoea,female,,7.09
 2012,a) diarrhoea,female,,8.53
@@ -131,18 +143,18 @@ Year,type of disease,sex,age,Value
 2019,c) protein-energy malnutrition,female,,1.10
 2020,c) protein-energy malnutrition,female,,1.27
 2021,c) protein-energy malnutrition,female,,
-2010,d) acute respiratory infections,female,,26.41
-2011,d) acute respiratory infections,female,,25.68
-2012,d) acute respiratory infections,female,,24.64
-2013,d) acute respiratory infections,female,,26.43
-2014,d) acute respiratory infections,female,,20.97
-2015,d) acute respiratory infections,female,,26.20
-2016,d) acute respiratory infections,female,,23.20
-2017,d) acute respiratory infections,female,,26.06
-2018,d) acute respiratory infections,female,,28.60
-2019,d) acute respiratory infections,female,,24.03
-2020,d) acute respiratory infections,female,,19.26
-2021,d) acute respiratory infections,female,,
+2010,d) acute respiratory infections,,under 5 years,0.77
+2011,d) acute respiratory infections,,under 5 years,1.15
+2012,d) acute respiratory infections,,under 5 years,0.83
+2013,d) acute respiratory infections,,under 5 years,0.91
+2014,d) acute respiratory infections,,under 5 years,0.90
+2015,d) acute respiratory infections,,under 5 years,1.15
+2016,d) acute respiratory infections,,under 5 years,0.84
+2017,d) acute respiratory infections,,under 5 years,0.47
+2018,d) acute respiratory infections,,under 5 years,0.85
+2019,d) acute respiratory infections,,under 5 years,0.74
+2020,d) acute respiratory infections,,under 5 years,0.58
+2021,d) acute respiratory infections,,under 5 years,
 2010,a) diarrhoea,,under 5 years,0.32
 2011,a) diarrhoea,,under 5 years,0.15
 2012,a) diarrhoea,,under 5 years,0.24
@@ -179,15 +191,3 @@ Year,type of disease,sex,age,Value
 2019,c) protein-energy malnutrition,,under 5 years,0.00
 2020,c) protein-energy malnutrition,,under 5 years,0.00
 2021,c) protein-energy malnutrition,,under 5 years,0.00
-2010,d) acute respiratory infections,,under 5 years,0.77
-2011,d) acute respiratory infections,,under 5 years,1.15
-2012,d) acute respiratory infections,,under 5 years,0.83
-2013,d) acute respiratory infections,,under 5 years,0.91
-2014,d) acute respiratory infections,,under 5 years,0.90
-2015,d) acute respiratory infections,,under 5 years,1.15
-2016,d) acute respiratory infections,,under 5 years,0.84
-2017,d) acute respiratory infections,,under 5 years,0.47
-2018,d) acute respiratory infections,,under 5 years,0.85
-2019,d) acute respiratory infections,,under 5 years,0.74
-2020,d) acute respiratory infections,,under 5 years,0.58
-2021,d) acute respiratory infections,,under 5 years,
