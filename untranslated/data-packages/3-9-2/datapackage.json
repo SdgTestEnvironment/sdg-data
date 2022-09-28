@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "d) acute respiratory infections",
                 "a) diarrhoea",
                 "b) intestinal nematode infections",
                 "c) protein-energy malnutrition",
-                "d) acute respiratory infections",
                 ""
               ]
             }

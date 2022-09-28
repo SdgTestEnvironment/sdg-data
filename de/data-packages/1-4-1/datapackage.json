@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung",
-                "Sicher verwaltete Abwasserentsorgung",
+                "population using safely managed drinking water services (%)",
+                "a) population using safely managed sanitation services (%)",
                 "Bevölkerung mit Zugang zu Elektrizität",
                 "Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt",
                 "Haushalte, die mit 3G oder LTE abgedeckt sind",
-                "Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)",
+                "population that has convenient access to public transport (within 500 meters) (%)",
                 "Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden",
                 ""
               ]

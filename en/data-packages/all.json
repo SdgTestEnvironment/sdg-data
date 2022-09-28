@@ -1263,10 +1263,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "a) Acute respiratory infections",
                 "b) Diarrhoea",
                 "c) Intestinal nematode infections",
                 "d) Protein-energy malnutrition",
-                "a) Acute respiratory infections",
                 ""
               ]
             },
@@ -1362,12 +1362,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population using safely managed drinking water services",
-                "Safely managed sanitation services",
+                "population using safely managed drinking water services (%)",
+                "a) population using safely managed sanitation services (%)",
                 "Population with access to electricity",
                 "Proportion of the rural population who live within 2 km of an all-season road",
                 "Households covered by 3G or LTE",
-                "Population that has convenient access to public transport (within 500 meters)",
+                "population that has convenient access to public transport (within 500 meters) (%)",
                 "Municipal solid waste regularly collected and treated",
                 ""
               ]

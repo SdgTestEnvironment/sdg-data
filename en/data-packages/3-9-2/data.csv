@@ -1,4 +1,16 @@
 Year,Type of disease,Sex,Age group,Value
+2010,a) Acute respiratory infections,,,25.88
+2011,a) Acute respiratory infections,,,25.34
+2012,a) Acute respiratory infections,,,24.44
+2013,a) Acute respiratory infections,,,26.34
+2014,a) Acute respiratory infections,,,21.5
+2015,a) Acute respiratory infections,,,26.67
+2016,a) Acute respiratory infections,,,23.93
+2017,a) Acute respiratory infections,,,26.1
+2018,a) Acute respiratory infections,,,29.12
+2019,a) Acute respiratory infections,,,25.07
+2020,a) Acute respiratory infections,,,21.29
+2021,a) Acute respiratory infections,,,
 2010,b) Diarrhoea,,,3.68
 2011,b) Diarrhoea,,,5.7
 2012,b) Diarrhoea,,,6.89
@@ -35,18 +47,18 @@ Year,Type of disease,Sex,Age group,Value
 2019,d) Protein-energy malnutrition,,,0.82
 2020,d) Protein-energy malnutrition,,,0.91
 2021,d) Protein-energy malnutrition,,,
-2010,a) Acute respiratory infections,,,25.88
-2011,a) Acute respiratory infections,,,25.34
-2012,a) Acute respiratory infections,,,24.44
-2013,a) Acute respiratory infections,,,26.34
-2014,a) Acute respiratory infections,,,21.5
-2015,a) Acute respiratory infections,,,26.67
-2016,a) Acute respiratory infections,,,23.93
-2017,a) Acute respiratory infections,,,26.1
-2018,a) Acute respiratory infections,,,29.12
-2019,a) Acute respiratory infections,,,25.07
-2020,a) Acute respiratory infections,,,21.29
-2021,a) Acute respiratory infections,,,
+2010,a) Acute respiratory infections,Male,,25.33
+2011,a) Acute respiratory infections,Male,,24.99
+2012,a) Acute respiratory infections,Male,,24.24
+2013,a) Acute respiratory infections,Male,,26.26
+2014,a) Acute respiratory infections,Male,,22.06
+2015,a) Acute respiratory infections,Male,,27.15
+2016,a) Acute respiratory infections,Male,,24.68
+2017,a) Acute respiratory infections,Male,,26.14
+2018,a) Acute respiratory infections,Male,,29.66
+2019,a) Acute respiratory infections,Male,,26.14
+2020,a) Acute respiratory infections,Male,,23.38
+2021,a) Acute respiratory infections,Male,,
 2010,b) Diarrhoea,Male,,2.82
 2011,b) Diarrhoea,Male,,4.25
 2012,b) Diarrhoea,Male,,5.17
@@ -83,18 +95,18 @@ Year,Type of disease,Sex,Age group,Value
 2019,d) Protein-energy malnutrition,Male,,0.53
 2020,d) Protein-energy malnutrition,Male,,0.54
 2021,d) Protein-energy malnutrition,Male,,
-2010,a) Acute respiratory infections,Male,,25.33
-2011,a) Acute respiratory infections,Male,,24.99
-2012,a) Acute respiratory infections,Male,,24.24
-2013,a) Acute respiratory infections,Male,,26.26
-2014,a) Acute respiratory infections,Male,,22.06
-2015,a) Acute respiratory infections,Male,,27.15
-2016,a) Acute respiratory infections,Male,,24.68
-2017,a) Acute respiratory infections,Male,,26.14
-2018,a) Acute respiratory infections,Male,,29.66
-2019,a) Acute respiratory infections,Male,,26.14
-2020,a) Acute respiratory infections,Male,,23.38
-2021,a) Acute respiratory infections,Male,,
+2010,a) Acute respiratory infections,Female,,26.41
+2011,a) Acute respiratory infections,Female,,25.68
+2012,a) Acute respiratory infections,Female,,24.64
+2013,a) Acute respiratory infections,Female,,26.43
+2014,a) Acute respiratory infections,Female,,20.97
+2015,a) Acute respiratory infections,Female,,26.2
+2016,a) Acute respiratory infections,Female,,23.2
+2017,a) Acute respiratory infections,Female,,26.06
+2018,a) Acute respiratory infections,Female,,28.6
+2019,a) Acute respiratory infections,Female,,24.03
+2020,a) Acute respiratory infections,Female,,19.26
+2021,a) Acute respiratory infections,Female,,
 2010,b) Diarrhoea,Female,,4.5
 2011,b) Diarrhoea,Female,,7.09
 2012,b) Diarrhoea,Female,,8.53
@@ -131,18 +143,18 @@ Year,Type of disease,Sex,Age group,Value
 2019,d) Protein-energy malnutrition,Female,,1.1
 2020,d) Protein-energy malnutrition,Female,,1.27
 2021,d) Protein-energy malnutrition,Female,,
-2010,a) Acute respiratory infections,Female,,26.41
-2011,a) Acute respiratory infections,Female,,25.68
-2012,a) Acute respiratory infections,Female,,24.64
-2013,a) Acute respiratory infections,Female,,26.43
-2014,a) Acute respiratory infections,Female,,20.97
-2015,a) Acute respiratory infections,Female,,26.2
-2016,a) Acute respiratory infections,Female,,23.2
-2017,a) Acute respiratory infections,Female,,26.06
-2018,a) Acute respiratory infections,Female,,28.6
-2019,a) Acute respiratory infections,Female,,24.03
-2020,a) Acute respiratory infections,Female,,19.26
-2021,a) Acute respiratory infections,Female,,
+2010,a) Acute respiratory infections,,4 years and younger,0.77
+2011,a) Acute respiratory infections,,4 years and younger,1.15
+2012,a) Acute respiratory infections,,4 years and younger,0.83
+2013,a) Acute respiratory infections,,4 years and younger,0.91
+2014,a) Acute respiratory infections,,4 years and younger,0.9
+2015,a) Acute respiratory infections,,4 years and younger,1.15
+2016,a) Acute respiratory infections,,4 years and younger,0.84
+2017,a) Acute respiratory infections,,4 years and younger,0.47
+2018,a) Acute respiratory infections,,4 years and younger,0.85
+2019,a) Acute respiratory infections,,4 years and younger,0.74
+2020,a) Acute respiratory infections,,4 years and younger,0.58
+2021,a) Acute respiratory infections,,4 years and younger,
 2010,b) Diarrhoea,,4 years and younger,0.32
 2011,b) Diarrhoea,,4 years and younger,0.15
 2012,b) Diarrhoea,,4 years and younger,0.24
@@ -179,15 +191,3 @@ Year,Type of disease,Sex,Age group,Value
 2019,d) Protein-energy malnutrition,,4 years and younger,0.0
 2020,d) Protein-energy malnutrition,,4 years and younger,0.0
 2021,d) Protein-energy malnutrition,,4 years and younger,0.0
-2010,a) Acute respiratory infections,,4 years and younger,0.77
-2011,a) Acute respiratory infections,,4 years and younger,1.15
-2012,a) Acute respiratory infections,,4 years and younger,0.83
-2013,a) Acute respiratory infections,,4 years and younger,0.91
-2014,a) Acute respiratory infections,,4 years and younger,0.9
-2015,a) Acute respiratory infections,,4 years and younger,1.15
-2016,a) Acute respiratory infections,,4 years and younger,0.84
-2017,a) Acute respiratory infections,,4 years and younger,0.47
-2018,a) Acute respiratory infections,,4 years and younger,0.85
-2019,a) Acute respiratory infections,,4 years and younger,0.74
-2020,a) Acute respiratory infections,,4 years and younger,0.58
-2021,a) Acute respiratory infections,,4 years and younger,

@@ -1,4 +1,16 @@
 Year,Art der Erkrankung,Geschlecht,Altersklasse,Value
+2010,a) Akute Atemwegsinfektionen,,,25.88
+2011,a) Akute Atemwegsinfektionen,,,25.34
+2012,a) Akute Atemwegsinfektionen,,,24.44
+2013,a) Akute Atemwegsinfektionen,,,26.34
+2014,a) Akute Atemwegsinfektionen,,,21.5
+2015,a) Akute Atemwegsinfektionen,,,26.67
+2016,a) Akute Atemwegsinfektionen,,,23.93
+2017,a) Akute Atemwegsinfektionen,,,26.1
+2018,a) Akute Atemwegsinfektionen,,,29.12
+2019,a) Akute Atemwegsinfektionen,,,25.07
+2020,a) Akute Atemwegsinfektionen,,,21.29
+2021,a) Akute Atemwegsinfektionen,,,
 2010,b) Durchfallerkrankungen,,,3.68
 2011,b) Durchfallerkrankungen,,,5.7
 2012,b) Durchfallerkrankungen,,,6.89
@@ -35,18 +47,18 @@ Year,Art der Erkrankung,Geschlecht,Altersklasse,Value
 2019,d) Energie- und Eiweißmangelernährung,,,0.82
 2020,d) Energie- und Eiweißmangelernährung,,,0.91
 2021,d) Energie- und Eiweißmangelernährung,,,
-2010,a) Akute Atemwegsinfektionen,,,25.88
-2011,a) Akute Atemwegsinfektionen,,,25.34
-2012,a) Akute Atemwegsinfektionen,,,24.44
-2013,a) Akute Atemwegsinfektionen,,,26.34
-2014,a) Akute Atemwegsinfektionen,,,21.5
-2015,a) Akute Atemwegsinfektionen,,,26.67
-2016,a) Akute Atemwegsinfektionen,,,23.93
-2017,a) Akute Atemwegsinfektionen,,,26.1
-2018,a) Akute Atemwegsinfektionen,,,29.12
-2019,a) Akute Atemwegsinfektionen,,,25.07
-2020,a) Akute Atemwegsinfektionen,,,21.29
-2021,a) Akute Atemwegsinfektionen,,,
+2010,a) Akute Atemwegsinfektionen,Männlich,,25.33
+2011,a) Akute Atemwegsinfektionen,Männlich,,24.99
+2012,a) Akute Atemwegsinfektionen,Männlich,,24.24
+2013,a) Akute Atemwegsinfektionen,Männlich,,26.26
+2014,a) Akute Atemwegsinfektionen,Männlich,,22.06
+2015,a) Akute Atemwegsinfektionen,Männlich,,27.15
+2016,a) Akute Atemwegsinfektionen,Männlich,,24.68
+2017,a) Akute Atemwegsinfektionen,Männlich,,26.14
+2018,a) Akute Atemwegsinfektionen,Männlich,,29.66
+2019,a) Akute Atemwegsinfektionen,Männlich,,26.14
+2020,a) Akute Atemwegsinfektionen,Männlich,,23.38
+2021,a) Akute Atemwegsinfektionen,Männlich,,
 2010,b) Durchfallerkrankungen,Männlich,,2.82
 2011,b) Durchfallerkrankungen,Männlich,,4.25
 2012,b) Durchfallerkrankungen,Männlich,,5.17
@@ -83,18 +95,18 @@ Year,Art der Erkrankung,Geschlecht,Altersklasse,Value
 2019,d) Energie- und Eiweißmangelernährung,Männlich,,0.53
 2020,d) Energie- und Eiweißmangelernährung,Männlich,,0.54
 2021,d) Energie- und Eiweißmangelernährung,Männlich,,
-2010,a) Akute Atemwegsinfektionen,Männlich,,25.33
-2011,a) Akute Atemwegsinfektionen,Männlich,,24.99
-2012,a) Akute Atemwegsinfektionen,Männlich,,24.24
-2013,a) Akute Atemwegsinfektionen,Männlich,,26.26
-2014,a) Akute Atemwegsinfektionen,Männlich,,22.06
-2015,a) Akute Atemwegsinfektionen,Männlich,,27.15
-2016,a) Akute Atemwegsinfektionen,Männlich,,24.68
-2017,a) Akute Atemwegsinfektionen,Männlich,,26.14
-2018,a) Akute Atemwegsinfektionen,Männlich,,29.66
-2019,a) Akute Atemwegsinfektionen,Männlich,,26.14
-2020,a) Akute Atemwegsinfektionen,Männlich,,23.38
-2021,a) Akute Atemwegsinfektionen,Männlich,,
+2010,a) Akute Atemwegsinfektionen,Weiblich,,26.41
+2011,a) Akute Atemwegsinfektionen,Weiblich,,25.68
+2012,a) Akute Atemwegsinfektionen,Weiblich,,24.64
+2013,a) Akute Atemwegsinfektionen,Weiblich,,26.43
+2014,a) Akute Atemwegsinfektionen,Weiblich,,20.97
+2015,a) Akute Atemwegsinfektionen,Weiblich,,26.2
+2016,a) Akute Atemwegsinfektionen,Weiblich,,23.2
+2017,a) Akute Atemwegsinfektionen,Weiblich,,26.06
+2018,a) Akute Atemwegsinfektionen,Weiblich,,28.6
+2019,a) Akute Atemwegsinfektionen,Weiblich,,24.03
+2020,a) Akute Atemwegsinfektionen,Weiblich,,19.26
+2021,a) Akute Atemwegsinfektionen,Weiblich,,
 2010,b) Durchfallerkrankungen,Weiblich,,4.5
 2011,b) Durchfallerkrankungen,Weiblich,,7.09
 2012,b) Durchfallerkrankungen,Weiblich,,8.53
@@ -131,18 +143,18 @@ Year,Art der Erkrankung,Geschlecht,Altersklasse,Value
 2019,d) Energie- und Eiweißmangelernährung,Weiblich,,1.1
 2020,d) Energie- und Eiweißmangelernährung,Weiblich,,1.27
 2021,d) Energie- und Eiweißmangelernährung,Weiblich,,
-2010,a) Akute Atemwegsinfektionen,Weiblich,,26.41
-2011,a) Akute Atemwegsinfektionen,Weiblich,,25.68
-2012,a) Akute Atemwegsinfektionen,Weiblich,,24.64
-2013,a) Akute Atemwegsinfektionen,Weiblich,,26.43
-2014,a) Akute Atemwegsinfektionen,Weiblich,,20.97
-2015,a) Akute Atemwegsinfektionen,Weiblich,,26.2
-2016,a) Akute Atemwegsinfektionen,Weiblich,,23.2
-2017,a) Akute Atemwegsinfektionen,Weiblich,,26.06
-2018,a) Akute Atemwegsinfektionen,Weiblich,,28.6
-2019,a) Akute Atemwegsinfektionen,Weiblich,,24.03
-2020,a) Akute Atemwegsinfektionen,Weiblich,,19.26
-2021,a) Akute Atemwegsinfektionen,Weiblich,,
+2010,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.77
+2011,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,1.15
+2012,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.83
+2013,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.91
+2014,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.9
+2015,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,1.15
+2016,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.84
+2017,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.47
+2018,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.85
+2019,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.74
+2020,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.58
+2021,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,
 2010,b) Durchfallerkrankungen,,4 Jahre und jünger,0.32
 2011,b) Durchfallerkrankungen,,4 Jahre und jünger,0.15
 2012,b) Durchfallerkrankungen,,4 Jahre und jünger,0.24
@@ -179,15 +191,3 @@ Year,Art der Erkrankung,Geschlecht,Altersklasse,Value
 2019,d) Energie- und Eiweißmangelernährung,,4 Jahre und jünger,0.0
 2020,d) Energie- und Eiweißmangelernährung,,4 Jahre und jünger,0.0
 2021,d) Energie- und Eiweißmangelernährung,,4 Jahre und jünger,0.0
-2010,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.77
-2011,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,1.15
-2012,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.83
-2013,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.91
-2014,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.9
-2015,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,1.15
-2016,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.84
-2017,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.47
-2018,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.85
-2019,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.74
-2020,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,0.58
-2021,a) Akute Atemwegsinfektionen,,4 Jahre und jünger,
