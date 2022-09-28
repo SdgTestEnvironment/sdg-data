@@ -1159,9 +1159,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "d) acute respiratory infections",
-                "a) diarrhoea",
-                "b) intestinal nematode infections",
+                "a) acute respiratory infections",
+                "b) diarrhoea",
+                "c) intestinal nematode infections",
                 "c) protein-energy malnutrition",
                 ""
               ]
