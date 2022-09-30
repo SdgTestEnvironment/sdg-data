@@ -10,7 +10,6 @@ Year,type of disease,sex,age group,Value
 2018,a) acute respiratory infections,,,29.12
 2019,a) acute respiratory infections,,,25.07
 2020,a) acute respiratory infections,,,21.29
-2021,a) acute respiratory infections,,,
 2010,b) diarrhoea,,,3.68
 2011,b) diarrhoea,,,5.70
 2012,b) diarrhoea,,,6.89
@@ -22,7 +21,6 @@ Year,type of disease,sex,age group,Value
 2018,b) diarrhoea,,,5.08
 2019,b) diarrhoea,,,4.25
 2020,b) diarrhoea,,,3.69
-2021,b) diarrhoea,,,
 2010,c) intestinal nematode infections,,,0
 2011,c) intestinal nematode infections,,,0
 2012,c) intestinal nematode infections,,,0
@@ -34,7 +32,6 @@ Year,type of disease,sex,age group,Value
 2018,c) intestinal nematode infections,,,0
 2019,c) intestinal nematode infections,,,0
 2020,c) intestinal nematode infections,,,0
-2021,c) intestinal nematode infections,,,
 2010,d) protein-energy malnutrition,,,0.30
 2011,d) protein-energy malnutrition,,,0.29
 2012,d) protein-energy malnutrition,,,0.26
@@ -46,7 +43,6 @@ Year,type of disease,sex,age group,Value
 2018,d) protein-energy malnutrition,,,0.75
 2019,d) protein-energy malnutrition,,,0.82
 2020,d) protein-energy malnutrition,,,0.91
-2021,d) protein-energy malnutrition,,,
 2010,a) acute respiratory infections,male,,25.33
 2011,a) acute respiratory infections,male,,24.99
 2012,a) acute respiratory infections,male,,24.24
@@ -58,7 +54,6 @@ Year,type of disease,sex,age group,Value
 2018,a) acute respiratory infections,male,,29.66
 2019,a) acute respiratory infections,male,,26.14
 2020,a) acute respiratory infections,male,,23.38
-2021,a) acute respiratory infections,male,,
 2010,b) diarrhoea,male,,2.82
 2011,b) diarrhoea,male,,4.25
 2012,b) diarrhoea,male,,5.17
@@ -70,7 +65,6 @@ Year,type of disease,sex,age group,Value
 2018,b) diarrhoea,male,,3.98
 2019,b) diarrhoea,male,,3.30
 2020,b) diarrhoea,male,,2.91
-2021,b) diarrhoea,male,,
 2010,c) intestinal nematode infections,male,,0
 2011,c) intestinal nematode infections,male,,0
 2012,c) intestinal nematode infections,male,,0
@@ -82,7 +76,6 @@ Year,type of disease,sex,age group,Value
 2018,c) intestinal nematode infections,male,,0
 2019,c) intestinal nematode infections,male,,0
 2020,c) intestinal nematode infections,male,,0
-2021,c) intestinal nematode infections,male,,
 2010,d) protein-energy malnutrition,male,,0.22
 2011,d) protein-energy malnutrition,male,,0.17
 2012,d) protein-energy malnutrition,male,,0.15
@@ -94,7 +87,6 @@ Year,type of disease,sex,age group,Value
 2018,d) protein-energy malnutrition,male,,0.50
 2019,d) protein-energy malnutrition,male,,0.53
 2020,d) protein-energy malnutrition,male,,0.54
-2021,d) protein-energy malnutrition,male,,
 2010,a) acute respiratory infections,female,,26.41
 2011,a) acute respiratory infections,female,,25.68
 2012,a) acute respiratory infections,female,,24.64
@@ -106,7 +98,6 @@ Year,type of disease,sex,age group,Value
 2018,a) acute respiratory infections,female,,28.60
 2019,a) acute respiratory infections,female,,24.03
 2020,a) acute respiratory infections,female,,19.26
-2021,a) acute respiratory infections,female,,
 2010,b) diarrhoea,female,,4.50
 2011,b) diarrhoea,female,,7.09
 2012,b) diarrhoea,female,,8.53
@@ -118,7 +109,6 @@ Year,type of disease,sex,age group,Value
 2018,b) diarrhoea,female,,6.15
 2019,b) diarrhoea,female,,5.17
 2020,b) diarrhoea,female,,4.45
-2021,b) diarrhoea,female,,
 2010,c) intestinal nematode infections,female,,0
 2011,c) intestinal nematode infections,female,,0
 2012,c) intestinal nematode infections,female,,0
@@ -130,7 +120,6 @@ Year,type of disease,sex,age group,Value
 2018,c) intestinal nematode infections,female,,0
 2019,c) intestinal nematode infections,female,,0
 2020,c) intestinal nematode infections,female,,0
-2021,c) intestinal nematode infections,female,,0
 2010,d) protein-energy malnutrition,female,,0.37
 2011,d) protein-energy malnutrition,female,,0.40
 2012,d) protein-energy malnutrition,female,,0.37
@@ -142,7 +131,6 @@ Year,type of disease,sex,age group,Value
 2018,d) protein-energy malnutrition,female,,0.99
 2019,d) protein-energy malnutrition,female,,1.10
 2020,d) protein-energy malnutrition,female,,1.27
-2021,d) protein-energy malnutrition,female,,
 2010,a) acute respiratory infections,,4 years and younger,0.77
 2011,a) acute respiratory infections,,4 years and younger,1.15
 2012,a) acute respiratory infections,,4 years and younger,0.83
@@ -154,7 +142,6 @@ Year,type of disease,sex,age group,Value
 2018,a) acute respiratory infections,,4 years and younger,0.85
 2019,a) acute respiratory infections,,4 years and younger,0.74
 2020,a) acute respiratory infections,,4 years and younger,0.58
-2021,a) acute respiratory infections,,4 years and younger,
 2010,b) diarrhoea,,4 years and younger,0.32
 2011,b) diarrhoea,,4 years and younger,0.15
 2012,b) diarrhoea,,4 years and younger,0.24
@@ -166,7 +153,6 @@ Year,type of disease,sex,age group,Value
 2018,b) diarrhoea,,4 years and younger,0.41
 2019,b) diarrhoea,,4 years and younger,0.15
 2020,b) diarrhoea,,4 years and younger,0.08
-2021,b) diarrhoea,,4 years and younger,
 2010,c) intestinal nematode infections,,4 years and younger,0
 2011,c) intestinal nematode infections,,4 years and younger,0
 2012,c) intestinal nematode infections,,4 years and younger,0
@@ -178,7 +164,6 @@ Year,type of disease,sex,age group,Value
 2018,c) intestinal nematode infections,,4 years and younger,0
 2019,c) intestinal nematode infections,,4 years and younger,0
 2020,c) intestinal nematode infections,,4 years and younger,0
-2021,c) intestinal nematode infections,,4 years and younger,
 2010,d) protein-energy malnutrition,,4 years and younger,0.03
 2011,d) protein-energy malnutrition,,4 years and younger,0.00
 2012,d) protein-energy malnutrition,,4 years and younger,0.00
@@ -190,4 +175,3 @@ Year,type of disease,sex,age group,Value
 2018,d) protein-energy malnutrition,,4 years and younger,0.00
 2019,d) protein-energy malnutrition,,4 years and younger,0.00
 2020,d) protein-energy malnutrition,,4 years and younger,0.00
-2021,d) protein-energy malnutrition,,4 years and younger,0.00
