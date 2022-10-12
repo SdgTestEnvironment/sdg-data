@@ -402,7 +402,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pm₁₀",
+                "PM₁₀",
                 "PM₂.₅",
                 ""
               ]
@@ -3981,12 +3981,31 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "No unit",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio of female members in the public service",
-                "Ratio of female members in the judiciary",
+                "Proportion of women in the working age population",
+                "Proportion of women in the German Bundestag (Lower chamber)",
+                "Proportion of women in the Bundesrat (Upper chamber)",
+                "Proportion of women in the public service",
+                "Proportion of women in the judiciary",
+                "Ratio of women in the German Bundestag (Lower chamber)",
+                "Ratio of women in the Bundesrat (Upper chamber)",
+                "Ratio of women in the public service",
+                "Ratio of women in the judiciary",
                 ""
               ]
             },
@@ -9309,20 +9328,21 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)",
+                "Gini coefficient of equivalised disposable income (post-fiscal)",
+                "Redistributive impact of fiscal policy",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Time series"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

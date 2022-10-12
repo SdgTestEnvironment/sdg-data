@@ -402,7 +402,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pm₁₀",
+                "PM₁₀",
                 "PM₂,₅",
                 ""
               ]
@@ -3981,10 +3981,29 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Keine Einheit",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
+                "Frauenanteil der Bevölkerung im erwerbsfähigen Alter",
+                "Frauenanteil im Deutschen Bundestag",
+                "Frauenanteil im Bundesrat",
+                "Frauenanteil im öffentlichen Dienst",
+                "Frauenanteil in der Justiz",
+                "Verhältnis von Frauen im Deutschen Bundestag",
+                "Verhältnis von Frauen im Bundesrat",
                 "Verhältnis von Frauen im öffentlichen Dienst",
                 "Verhältnis von Frauen in der Justiz",
                 ""
@@ -9309,20 +9328,21 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
+                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens",
+                "Umverteilende Wirkung der Fiskalpolitik",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

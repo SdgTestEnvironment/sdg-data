@@ -370,7 +370,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pm₁₀",
+                "pm10",
                 "pm2.5",
                 ""
               ]
@@ -3652,12 +3652,30 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "no unit",
+                ""
+              ]
+            }
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "ratio of female members in the public service",
-                "ratio of female members in the judiciary",
+                "proportion of women in the working age population",
+                "proportion of women in the german bundestag (lower chamber)",
+                "proportion of women in the bundesrat (upper chamber)",
+                "proportion of women in the public service",
+                "proportion of women in the judiciary",
+                "ratio of women in the german bundestag (lower chamber)",
+                "ratio of women in the bundesrat (upper chamber)",
+                "ratio of women in the public service",
+                "ratio of women in the judiciary",
                 ""
               ]
             }
@@ -8546,19 +8564,20 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "gini coefficient of equivalised disposable income before social transfers (pre-fiscal)",
+                "gini coefficient of equivalised disposable income (post-fiscal)",
+                "redistributive impact of fiscal policy",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

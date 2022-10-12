@@ -27,6 +27,8 @@ female owners of agricultural holdings with the legal form of a sole proprietors
 forest area located within protected areas,1,1
 forest area net change rate,1,1
 forest area under an independently verified forest management certification scheme,1,1
+gini coefficient of equivalised disposable income before social transfers (pre-fiscal),1,1
+gini coefficient of equivalised disposable income (post-fiscal),1,1
 government expenditure on cultural services (cofog division 8.2),1,1
 government expenditure on education,1,1
 government expenditure on health,1,1
@@ -112,11 +114,19 @@ proportion of sustainable managed stocks in all msy examined stocks,3,1
 proportion of women in councils of districts and district-free cities,1,1
 proportion of women in federal german parliament,1,1
 proportion of women in länder parliaments,16,1
-ratio of female members in the judiciary,4,1
-ratio of female members in the public service,5,1
+proportion of women in the bundesrat (upper chamber),1,1
+proportion of women in the german bundestag (lower chamber),1,1
+proportion of women in the judiciary,4,1
+proportion of women in the public service,5,1
+proportion of women in the working age population,1,1
 ratio of land consumption rate to population growth rate (year-to-year),1,1
+ratio of women in the bundesrat (upper chamber),1,1
+ratio of women in the german bundestag (lower chamber),1,1
+ratio of women in the judiciary,4,1
+ratio of women in the public service,5,1
 real gdp per capita,1,1
 recycling rate,2,1
+redistributive impact of fiscal policy,1,1
 regulatory tier 1 capital to risk-weighted assets,1,1
 renewable energy share in gross final energy consumption,1,1
 renewable energy share in total final energy consumption,1,1
