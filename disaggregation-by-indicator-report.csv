@@ -12,7 +12,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-7-2,policy area,1
 #10-7-4,country of citizenship,1
 #10-b-1,type of flow,1
-#11-1-1,"sex, topic, degree of urbanisation",3
+#11-1-1,"sex, degree of urbanisation",2
 #11-2-1,"age group, sex, timeseries, region, disability status",5
 #11-3-1,timeseries,1
 #11-4-1,timeseries,1
@@ -44,7 +44,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-2,sex,1
 #16-3-3,"time series, outcome of the application process",2
 #16-5-1,sex,1
-#16-7-1,"timeseries, field of work, level of court",3
+#16-7-1,"domain, field of work, level of court",3
 #16-7-2,sex,1
 #17-1-2,timeseries,1
 #17-13-1,timeseries,1

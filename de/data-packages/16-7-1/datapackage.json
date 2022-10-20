@@ -28,23 +28,19 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "domain",
             "type": "string",
             "constraints": {
               "enum": [
-                "Frauenanteil der Bevölkerung im erwerbsfähigen Alter",
-                "Frauenanteil im Deutschen Bundestag",
-                "Frauenanteil im Bundesrat",
-                "Frauenanteil im öffentlichen Dienst",
-                "Frauenanteil in der Justiz",
-                "Verhältnis von Frauen im Deutschen Bundestag",
-                "Verhältnis von Frauen im Bundesrat",
-                "Verhältnis von Frauen im öffentlichen Dienst",
-                "Verhältnis von Frauen in der Justiz",
+                "Bevölkerung im erwerbsfähigen Alter",
+                "Deutscher Bundestag",
+                "Bundesrat",
+                "Öffentlichen Dienst",
+                "Justiz",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Bereich"
           },
           {
             "name": "field of work",
@@ -72,6 +68,18 @@
               ]
             },
             "title": "Gerichtsebene"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frauenanteil",
+                "Verhältnis von Frauen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

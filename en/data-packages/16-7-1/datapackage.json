@@ -28,23 +28,19 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "domain",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of women in the working age population",
-                "Proportion of women in the German Bundestag (Lower chamber)",
-                "Proportion of women in the Bundesrat (Upper chamber)",
-                "Proportion of women in the public service",
-                "Proportion of women in the judiciary",
-                "Ratio of women in the German Bundestag (Lower chamber)",
-                "Ratio of women in the Bundesrat (Upper chamber)",
-                "Ratio of women in the public service",
-                "Ratio of women in the judiciary",
+                "Working age population",
+                "Bundestag (Lower chamber)",
+                "Bundesrat (Upper chamber)",
+                "Public service",
+                "Judiciary",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Domain"
           },
           {
             "name": "field of work",
@@ -72,6 +68,18 @@
               ]
             },
             "title": "Level of court"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women",
+                "Ratio of women",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

@@ -3663,19 +3663,15 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "domain",
             "type": "string",
             "constraints": {
               "enum": [
-                "proportion of women in the working age population",
-                "proportion of women in the german bundestag (lower chamber)",
-                "proportion of women in the bundesrat (upper chamber)",
-                "proportion of women in the public service",
-                "proportion of women in the judiciary",
-                "ratio of women in the german bundestag (lower chamber)",
-                "ratio of women in the bundesrat (upper chamber)",
-                "ratio of women in the public service",
-                "ratio of women in the judiciary",
+                "working age population",
+                "bundestag (lower chamber)",
+                "bundesrat (upper chamber)",
+                "public service",
+                "judiciary",
                 ""
               ]
             }
@@ -3701,6 +3697,17 @@
                 "supreme/constitutional courts",
                 "higher-level courts",
                 "lower-level courts",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "proportion of women",
+                "ratio of women",
                 ""
               ]
             }
@@ -6851,17 +6858,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "topic",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "housing conditions",
-                "housing deprivation",
-                ""
-              ]
-            }
           },
           {
             "name": "degree of urbanisation",
