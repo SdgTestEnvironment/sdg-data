@@ -1,15 +1,4 @@
 Year,Units,Zeitreihe,Value
-2010,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,3108.4
-2011,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,2809.1
-2012,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,2537.2
-2013,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,3011.4
-2014,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4102.3
-2015,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4793.5
-2016,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4278.8
-2017,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,3953.8
-2018,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4549.7
-2019,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4745.6
-2020,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4820.8
 2010,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,2311.0
 2011,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,2111.1
 2012,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,1935.2
@@ -21,17 +10,6 @@ Year,Units,Zeitreihe,Value
 2018,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,3850.8
 2019,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4099.2
 2020,Millionen EUR,Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4230.2
-2010,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,2592.2
-2011,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,2407.0
-2012,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,1951.1
-2013,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,2631.5
-2014,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,3684.4
-2015,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,4669.9
-2016,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,4040.7
-2017,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,3673.2
-2018,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,3564.0
-2019,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,3831.0
-2020,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,4139.5
 2010,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Infrastruktur,1927.2
 2011,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Infrastruktur,1808.9
 2012,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Infrastruktur,1488.2
@@ -43,3 +21,25 @@ Year,Units,Zeitreihe,Value
 2018,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Infrastruktur,3016.5
 2019,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Infrastruktur,3309.2
 2020,Millionen EUR,Bruttoentwicklungsausgaben (ODA) für Infrastruktur,3632.4
+2010,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,3108.4
+2011,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,2809.1
+2012,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,2537.2
+2013,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,3011.4
+2014,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4102.3
+2015,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4793.5
+2016,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4278.8
+2017,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,3953.8
+2018,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4549.7
+2019,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4745.6
+2020,"Millionen USD, konstante Preise (2020)",Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur,4820.8
+2010,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,2592.2
+2011,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,2407.0
+2012,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,1951.1
+2013,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,2631.5
+2014,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,3684.4
+2015,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,4669.9
+2016,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,4040.7
+2017,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,3673.2
+2018,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,3564.0
+2019,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,3831.0
+2020,"Millionen USD, konstante Preise (2020)",Bruttoentwicklungsausgaben (ODA) für Infrastruktur,4139.5

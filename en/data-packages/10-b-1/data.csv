@@ -1,70 +1,4 @@
 Year,Units,Type of flow,Value
-2010,"Million USD, constant prices (2020)",,42281.8
-2011,"Million USD, constant prices (2020)",,53785.1
-2012,"Million USD, constant prices (2020)",,35412.5
-2013,"Million USD, constant prices (2020)",,51423.9
-2014,"Million USD, constant prices (2020)",,50425.3
-2015,"Million USD, constant prices (2020)",,53207.4
-2016,"Million USD, constant prices (2020)",,54410.7
-2017,"Million USD, constant prices (2020)",,57435.5
-2018,"Million USD, constant prices (2020)",,52040.5
-2019,"Million USD, constant prices (2020)",,43633.9
-2020,"Million USD, constant prices (2020)",,44700.6
-2010,"Million USD, constant prices (2020)",ODA (net disbursements),13186.6
-2011,"Million USD, constant prices (2020)",ODA (net disbursements),13486.8
-2012,"Million USD, constant prices (2020)",ODA (net disbursements),13198.8
-2013,"Million USD, constant prices (2020)",ODA (net disbursements),13780.2
-2014,"Million USD, constant prices (2020)",ODA (net disbursements),15760.5
-2015,"Million USD, constant prices (2020)",ODA (net disbursements),20042.4
-2016,"Million USD, constant prices (2020)",ODA (net disbursements),27356.2
-2017,"Million USD, constant prices (2020)",ODA (net disbursements),26725.4
-2018,"Million USD, constant prices (2020)",ODA (net disbursements),25698.6
-2019,"Million USD, constant prices (2020)",ODA (net disbursements),24946.1
-2020,"Million USD, constant prices (2020)",ODA (net disbursements),29320.4
-2010,"Million USD, constant prices (2020)",OOF (net disbursements),69.1
-2011,"Million USD, constant prices (2020)",OOF (net disbursements),-138.0
-2012,"Million USD, constant prices (2020)",OOF (net disbursements),-92.9
-2013,"Million USD, constant prices (2020)",OOF (net disbursements),-82.4
-2014,"Million USD, constant prices (2020)",OOF (net disbursements),145.7
-2015,"Million USD, constant prices (2020)",OOF (net disbursements),1479.9
-2016,"Million USD, constant prices (2020)",OOF (net disbursements),-506.6
-2017,"Million USD, constant prices (2020)",OOF (net disbursements),-381.1
-2018,"Million USD, constant prices (2020)",OOF (net disbursements),-117.6
-2019,"Million USD, constant prices (2020)",OOF (net disbursements),14.2
-2020,"Million USD, constant prices (2020)",OOF (net disbursements),422.5
-2010,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),3764.7
-2011,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),9836.5
-2012,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),6397.7
-2013,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),5250.2
-2014,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),-152.7
-2015,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),2084.8
-2016,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),3815.0
-2017,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),6.8
-2018,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),1389.9
-2019,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),-2014.2
-2020,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),-1222.2
-2010,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),23774.9
-2011,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),29070.8
-2012,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),14481.7
-2013,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),31105.0
-2014,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),33222.1
-2015,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),28057.5
-2016,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),22171.7
-2017,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),29491.9
-2018,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),23705.1
-2019,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),19108.0
-2020,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),14665.8
-2010,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1486.6
-2011,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1529.0
-2012,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1427.1
-2013,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1371.0
-2014,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1449.7
-2015,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1542.8
-2016,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1574.5
-2017,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1592.5
-2018,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1364.5
-2019,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1579.9
-2020,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1514.2
 2010,Million EUR,,31435.7
 2011,Million EUR,,40420.7
 2012,Million EUR,,27009.7
@@ -131,3 +65,69 @@ Year,Units,Type of flow,Value
 2018,Million EUR,Private concessional flows (net disbursements),1154.9
 2019,Million EUR,Private concessional flows (net disbursements),1364.7
 2020,Million EUR,Private concessional flows (net disbursements),1328.7
+2010,"Million USD, constant prices (2020)",,42281.8
+2011,"Million USD, constant prices (2020)",,53785.1
+2012,"Million USD, constant prices (2020)",,35412.5
+2013,"Million USD, constant prices (2020)",,51423.9
+2014,"Million USD, constant prices (2020)",,50425.3
+2015,"Million USD, constant prices (2020)",,53207.4
+2016,"Million USD, constant prices (2020)",,54410.7
+2017,"Million USD, constant prices (2020)",,57435.5
+2018,"Million USD, constant prices (2020)",,52040.5
+2019,"Million USD, constant prices (2020)",,43633.9
+2020,"Million USD, constant prices (2020)",,44700.6
+2010,"Million USD, constant prices (2020)",ODA (net disbursements),13186.6
+2011,"Million USD, constant prices (2020)",ODA (net disbursements),13486.8
+2012,"Million USD, constant prices (2020)",ODA (net disbursements),13198.8
+2013,"Million USD, constant prices (2020)",ODA (net disbursements),13780.2
+2014,"Million USD, constant prices (2020)",ODA (net disbursements),15760.5
+2015,"Million USD, constant prices (2020)",ODA (net disbursements),20042.4
+2016,"Million USD, constant prices (2020)",ODA (net disbursements),27356.2
+2017,"Million USD, constant prices (2020)",ODA (net disbursements),26725.4
+2018,"Million USD, constant prices (2020)",ODA (net disbursements),25698.6
+2019,"Million USD, constant prices (2020)",ODA (net disbursements),24946.1
+2020,"Million USD, constant prices (2020)",ODA (net disbursements),29320.4
+2010,"Million USD, constant prices (2020)",OOF (net disbursements),69.1
+2011,"Million USD, constant prices (2020)",OOF (net disbursements),-138.0
+2012,"Million USD, constant prices (2020)",OOF (net disbursements),-92.9
+2013,"Million USD, constant prices (2020)",OOF (net disbursements),-82.4
+2014,"Million USD, constant prices (2020)",OOF (net disbursements),145.7
+2015,"Million USD, constant prices (2020)",OOF (net disbursements),1479.9
+2016,"Million USD, constant prices (2020)",OOF (net disbursements),-506.6
+2017,"Million USD, constant prices (2020)",OOF (net disbursements),-381.1
+2018,"Million USD, constant prices (2020)",OOF (net disbursements),-117.6
+2019,"Million USD, constant prices (2020)",OOF (net disbursements),14.2
+2020,"Million USD, constant prices (2020)",OOF (net disbursements),422.5
+2010,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),3764.7
+2011,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),9836.5
+2012,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),6397.7
+2013,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),5250.2
+2014,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),-152.7
+2015,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),2084.8
+2016,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),3815.0
+2017,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),6.8
+2018,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),1389.9
+2019,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),-2014.2
+2020,"Million USD, constant prices (2020)",Officially supported export credits (net disbursements),-1222.2
+2010,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),23774.9
+2011,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),29070.8
+2012,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),14481.7
+2013,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),31105.0
+2014,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),33222.1
+2015,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),28057.5
+2016,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),22171.7
+2017,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),29491.9
+2018,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),23705.1
+2019,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),19108.0
+2020,"Million USD, constant prices (2020)",Private sector flows at market terms (net disbursement),14665.8
+2010,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1486.6
+2011,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1529.0
+2012,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1427.1
+2013,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1371.0
+2014,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1449.7
+2015,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1542.8
+2016,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1574.5
+2017,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1592.5
+2018,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1364.5
+2019,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1579.9
+2020,"Million USD, constant prices (2020)",Private concessional flows (net disbursements),1514.2
