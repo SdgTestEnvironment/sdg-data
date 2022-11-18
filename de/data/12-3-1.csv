@@ -1,7 +1,17 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Bereich,Value
+2020,tonnes,,1
+2021,tonnes,,2
+2020,tonnes,retail/distribution,2
+2021,tonnes,retail/distribution,3
+2020,tonnes,restaurants and catering services,3
+2021,tonnes,restaurants and catering services,4
+2020,tonnes,private households,4
+2021,tonnes,private households,5
+2020,Kilogramm pro Kopf,,11
+2021,Kilogramm pro Kopf,,22
+2020,Kilogramm pro Kopf,retail/distribution,22
+2021,Kilogramm pro Kopf,retail/distribution,33
+2020,Kilogramm pro Kopf,restaurants and catering services,33
+2021,Kilogramm pro Kopf,restaurants and catering services,44
+2020,Kilogramm pro Kopf,private households,44
+2021,Kilogramm pro Kopf,private households,55

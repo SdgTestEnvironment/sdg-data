@@ -16,16 +16,29 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "tonnes",
+                "Kilogramm pro Kopf",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "domain",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "retail/distribution",
+                "restaurants and catering services",
+                "private households",
+                ""
+              ]
+            },
+            "title": "Bereich"
           },
           {
             "name": "Value",

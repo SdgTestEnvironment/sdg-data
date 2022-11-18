@@ -3744,7 +3744,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -4241,16 +4241,29 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "tonnes",
+                "Kilogram per capita",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "domain",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "retail/distribution",
+                "restaurants and catering services",
+                "private households",
+                ""
+              ]
+            },
+            "title": "Domain"
           },
           {
             "name": "Value",
@@ -8977,7 +8990,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
