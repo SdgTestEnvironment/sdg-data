@@ -4232,7 +4232,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_kr",
       "schema": {
         "fields": [
           {
@@ -4245,7 +4245,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tonnes",
+                "Tonnen",
                 "Kilogramm pro Kopf",
                 ""
               ]
@@ -4257,9 +4257,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "retail/distribution",
-                "restaurants and catering services",
-                "private households",
+                "Einzelhandel/Vertrieb",
+                "Gaststätten und Verpflegungsdienste",
+                "Private Haushalte",
                 ""
               ]
             },

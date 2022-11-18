@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tonnes",
+                "Tonnes",
                 "Kilogram per capita",
                 ""
               ]
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "retail/distribution",
-                "restaurants and catering services",
-                "private households",
+                "Retail/Distribution",
+                "Restaurants and catering services",
+                "Private households",
                 ""
               ]
             },
