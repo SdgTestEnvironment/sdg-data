@@ -1,17 +1,25 @@
 Year,Units,domain,Value
-2020,tonnes,,1
-2021,tonnes,,2
-2020,tonnes,retail/distribution,2
-2021,tonnes,retail/distribution,3
-2020,tonnes,restaurants and catering services,3
-2021,tonnes,restaurants and catering services,4
-2020,tonnes,private households,4
-2021,tonnes,private households,5
-2020,kilogram per capita,,11
-2021,kilogram per capita,,22
-2020,kilogram per capita,retail/distribution,22
-2021,kilogram per capita,retail/distribution,33
-2020,kilogram per capita,restaurants and catering services,33
-2021,kilogram per capita,restaurants and catering services,44
-2020,kilogram per capita,private households,44
-2021,kilogram per capita,private households,55
+2019,"1,000 tonnes",,
+2020,"1,000 tonnes",,9119
+2021,"1,000 tonnes",,
+2019,"1,000 tonnes",retail/distribution,
+2020,"1,000 tonnes",retail/distribution,762
+2021,"1,000 tonnes",retail/distribution,
+2019,"1,000 tonnes",restaurants and catering services,
+2020,"1,000 tonnes",restaurants and catering services,1861
+2021,"1,000 tonnes",restaurants and catering services,
+2019,"1,000 tonnes",private households,
+2020,"1,000 tonnes",private households,6496
+2021,"1,000 tonnes",private households,
+2019,kilogram per capita,,
+2020,kilogram per capita,,109
+2021,kilogram per capita,,
+2019,kilogram per capita,retail/distribution,
+2020,kilogram per capita,retail/distribution,9
+2021,kilogram per capita,retail/distribution,
+2019,kilogram per capita,restaurants and catering services,
+2020,kilogram per capita,restaurants and catering services,22
+2021,kilogram per capita,restaurants and catering services,
+2019,kilogram per capita,private households,
+2020,kilogram per capita,private households,78
+2021,kilogram per capita,private households,

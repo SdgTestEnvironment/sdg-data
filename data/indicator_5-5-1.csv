@@ -12,6 +12,19 @@ Year,timeseries,region,GeoCode,Value
 2020,proportion of women in federal german parliament,germany,,31.30
 2021,proportion of women in federal german parliament,germany,,31.40
 2022,proportion of women in federal german parliament,germany,,34.92
+2010,proportion of women in the bundesrat (upper chamber),germany,,18.8
+2011,proportion of women in the bundesrat (upper chamber),germany,,24.6
+2012,proportion of women in the bundesrat (upper chamber),germany,,27.5
+2013,proportion of women in the bundesrat (upper chamber),germany,,29.0
+2014,proportion of women in the bundesrat (upper chamber),germany,,34.8
+2015,proportion of women in the bundesrat (upper chamber),germany,,40.6
+2016,proportion of women in the bundesrat (upper chamber),germany,,37.7
+2017,proportion of women in the bundesrat (upper chamber),germany,,39.1
+2018,proportion of women in the bundesrat (upper chamber),germany,,39.1
+2019,proportion of women in the bundesrat (upper chamber),germany,,36.2
+2020,proportion of women in the bundesrat (upper chamber),germany,,34.8
+2021,proportion of women in the bundesrat (upper chamber),germany,,33.3
+2022,proportion of women in the bundesrat (upper chamber),germany,,31.9
 2010,proportion of women in länder parliaments,baden-württemberg,code08,
 2011,proportion of women in länder parliaments,baden-württemberg,code08,18.1
 2012,proportion of women in länder parliaments,baden-württemberg,code08,
@@ -128,7 +141,7 @@ Year,timeseries,region,GeoCode,Value
 2019,proportion of women in länder parliaments,lower saxony,code03,
 2020,proportion of women in länder parliaments,lower saxony,code03,
 2021,proportion of women in länder parliaments,lower saxony,code03,
-2022,proportion of women in länder parliaments,lower saxony,code03,
+2022,proportion of women in länder parliaments,lower saxony,code03,34.2
 2010,proportion of women in länder parliaments,north rhine-westphalia,code05,27.1
 2011,proportion of women in länder parliaments,north rhine-westphalia,code05,
 2012,proportion of women in länder parliaments,north rhine-westphalia,code05,30.0
