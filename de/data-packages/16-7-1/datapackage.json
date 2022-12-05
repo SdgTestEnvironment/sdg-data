@@ -28,22 +28,22 @@
             "title": "Units"
           },
           {
-            "name": "domain",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "Bevölkerung im erwerbsfähigen Alter",
                 "Deutscher Bundestag",
                 "Bundesrat",
-                "Öffentlichen Dienst",
+                "Öffentlicher Dienst",
                 "Justiz",
                 ""
               ]
             },
-            "title": "Bereich"
+            "title": "Zeitreihe"
           },
           {
-            "name": "field of work",
+            "name": "fields of work",
             "type": "string",
             "constraints": {
               "enum": [
@@ -68,18 +68,6 @@
               ]
             },
             "title": "Gerichtsebene"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frauenanteil",
-                "Verhältnis des Frauenanteils zur Bevölkerung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "Value",

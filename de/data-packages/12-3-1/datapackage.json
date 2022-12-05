@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tonnen",
+                "1,000 tonnes",
                 "Kilogramm pro Kopf",
                 ""
               ]
@@ -42,7 +42,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -26,12 +26,12 @@
             }
           },
           {
-            "name": "domain",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "working age population",
-                "bundestag (lower chamber)",
+                "german bundestag (lower chamber)",
                 "bundesrat (upper chamber)",
                 "public service",
                 "judiciary",
@@ -40,7 +40,7 @@
             }
           },
           {
-            "name": "field of work",
+            "name": "fields of work",
             "type": "string",
             "constraints": {
               "enum": [
@@ -60,17 +60,6 @@
                 "supreme/constitutional courts",
                 "higher-level courts",
                 "lower-level courts",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "proportion of women",
-                "ratio of share of women to population",
                 ""
               ]
             }

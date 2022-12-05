@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tonnes",
+                "1,000 tonnes",
                 "kilogram per capita",
                 ""
               ]
@@ -39,7 +39,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
