@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of women in Federal German Parliament",
-                "Proportion of women in the Bundesrat (Upper chamber)",
+                "Proportion of women in the German Bundestag (Lower chamber)",
+                "Proportion of women in the Bundesrat (upper chamber)",
                 "Proportion of women in Länder parliaments",
                 "Proportion of women in councils of districts and district-free cities",
                 ""

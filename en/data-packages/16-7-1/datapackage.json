@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Working age population",
+                "Working-age population",
                 "German Bundestag (Lower chamber)",
                 "Bundesrat (Upper chamber)",
                 "Public service",
