@@ -33,8 +33,8 @@
             "constraints": {
               "enum": [
                 "Working-age population",
-                "German Bundestag (Lower chamber)",
-                "Bundesrat (Upper chamber)",
+                "German Bundestag (lower chamber)",
+                "Bundesrat (upper chamber)",
                 "Public service",
                 "Judiciary",
                 ""

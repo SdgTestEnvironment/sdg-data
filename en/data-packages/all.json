@@ -1432,8 +1432,8 @@
             "constraints": {
               "enum": [
                 "Working-age population",
-                "German Bundestag (Lower chamber)",
-                "Bundesrat (Upper chamber)",
+                "German Bundestag (lower chamber)",
+                "Bundesrat (upper chamber)",
                 "Public service",
                 "Judiciary",
                 ""
@@ -2445,7 +2445,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of women in the German Bundestag (Lower chamber)",
+                "Proportion of women in the German Bundestag (lower chamber)",
                 "Proportion of women in the Bundesrat (upper chamber)",
                 "Proportion of women in Länder parliaments",
                 "Proportion of women in councils of districts and district-free cities",
@@ -4813,7 +4813,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

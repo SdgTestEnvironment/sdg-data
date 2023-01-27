@@ -12,32 +12,32 @@ Year,Units,Time series,Fields of work,Level of court,Value
 2020,Percentage,Working-age population,,,49.4
 2021,Percentage,Working-age population,,,49.4
 2022,Percentage,Working-age population,,,
-2010,Percentage,German Bundestag (Lower chamber),,,32.8
-2011,Percentage,German Bundestag (Lower chamber),,,33.1
-2012,Percentage,German Bundestag (Lower chamber),,,32.9
-2013,Percentage,German Bundestag (Lower chamber),,,32.9
-2014,Percentage,German Bundestag (Lower chamber),,,36.5
-2015,Percentage,German Bundestag (Lower chamber),,,36.3
-2016,Percentage,German Bundestag (Lower chamber),,,36.8
-2017,Percentage,German Bundestag (Lower chamber),,,37.1
-2018,Percentage,German Bundestag (Lower chamber),,,30.9
-2019,Percentage,German Bundestag (Lower chamber),,,31.2
-2020,Percentage,German Bundestag (Lower chamber),,,31.3
-2021,Percentage,German Bundestag (Lower chamber),,,31.5
-2022,Percentage,German Bundestag (Lower chamber),,,34.9
-2010,Percentage,Bundesrat (Upper chamber),,,18.8
-2011,Percentage,Bundesrat (Upper chamber),,,24.6
-2012,Percentage,Bundesrat (Upper chamber),,,27.5
-2013,Percentage,Bundesrat (Upper chamber),,,29.0
-2014,Percentage,Bundesrat (Upper chamber),,,34.8
-2015,Percentage,Bundesrat (Upper chamber),,,40.6
-2016,Percentage,Bundesrat (Upper chamber),,,37.7
-2017,Percentage,Bundesrat (Upper chamber),,,39.1
-2018,Percentage,Bundesrat (Upper chamber),,,39.1
-2019,Percentage,Bundesrat (Upper chamber),,,36.2
-2020,Percentage,Bundesrat (Upper chamber),,,34.8
-2021,Percentage,Bundesrat (Upper chamber),,,33.3
-2022,Percentage,Bundesrat (Upper chamber),,,31.9
+2010,Percentage,German Bundestag (lower chamber),,,32.8
+2011,Percentage,German Bundestag (lower chamber),,,33.1
+2012,Percentage,German Bundestag (lower chamber),,,32.9
+2013,Percentage,German Bundestag (lower chamber),,,32.9
+2014,Percentage,German Bundestag (lower chamber),,,36.5
+2015,Percentage,German Bundestag (lower chamber),,,36.3
+2016,Percentage,German Bundestag (lower chamber),,,36.8
+2017,Percentage,German Bundestag (lower chamber),,,37.1
+2018,Percentage,German Bundestag (lower chamber),,,30.9
+2019,Percentage,German Bundestag (lower chamber),,,31.2
+2020,Percentage,German Bundestag (lower chamber),,,31.3
+2021,Percentage,German Bundestag (lower chamber),,,31.5
+2022,Percentage,German Bundestag (lower chamber),,,34.9
+2010,Percentage,Bundesrat (upper chamber),,,18.8
+2011,Percentage,Bundesrat (upper chamber),,,24.6
+2012,Percentage,Bundesrat (upper chamber),,,27.5
+2013,Percentage,Bundesrat (upper chamber),,,29.0
+2014,Percentage,Bundesrat (upper chamber),,,34.8
+2015,Percentage,Bundesrat (upper chamber),,,40.6
+2016,Percentage,Bundesrat (upper chamber),,,37.7
+2017,Percentage,Bundesrat (upper chamber),,,39.1
+2018,Percentage,Bundesrat (upper chamber),,,39.1
+2019,Percentage,Bundesrat (upper chamber),,,36.2
+2020,Percentage,Bundesrat (upper chamber),,,34.8
+2021,Percentage,Bundesrat (upper chamber),,,33.3
+2022,Percentage,Bundesrat (upper chamber),,,31.9
 2010,Percentage,Public service,,,50.5
 2011,Percentage,Public service,,,50.2
 2012,Percentage,Public service,,,50.7
@@ -155,32 +155,32 @@ Year,Units,Time series,Fields of work,Level of court,Value
 2020,Percentage,Judiciary,,Lower-level courts,49.4
 2021,Percentage,Judiciary,,Lower-level courts,
 2022,Percentage,Judiciary,,Lower-level courts,
-2010,No unit,German Bundestag (Lower chamber),,,0.66
-2011,No unit,German Bundestag (Lower chamber),,,0.67
-2012,No unit,German Bundestag (Lower chamber),,,0.66
-2013,No unit,German Bundestag (Lower chamber),,,0.66
-2014,No unit,German Bundestag (Lower chamber),,,0.73
-2015,No unit,German Bundestag (Lower chamber),,,0.73
-2016,No unit,German Bundestag (Lower chamber),,,0.75
-2017,No unit,German Bundestag (Lower chamber),,,0.75
-2018,No unit,German Bundestag (Lower chamber),,,0.63
-2019,No unit,German Bundestag (Lower chamber),,,0.63
-2020,No unit,German Bundestag (Lower chamber),,,0.63
-2021,No unit,German Bundestag (Lower chamber),,,0.64
-2022,No unit,German Bundestag (Lower chamber),,,0.71
-2010,No unit,Bundesrat (Upper chamber),,,0.38
-2011,No unit,Bundesrat (Upper chamber),,,0.5
-2012,No unit,Bundesrat (Upper chamber),,,0.55
-2013,No unit,Bundesrat (Upper chamber),,,0.58
-2014,No unit,Bundesrat (Upper chamber),,,0.7
-2015,No unit,Bundesrat (Upper chamber),,,0.82
-2016,No unit,Bundesrat (Upper chamber),,,0.76
-2017,No unit,Bundesrat (Upper chamber),,,0.79
-2018,No unit,Bundesrat (Upper chamber),,,0.79
-2019,No unit,Bundesrat (Upper chamber),,,0.73
-2020,No unit,Bundesrat (Upper chamber),,,0.7
-2021,No unit,Bundesrat (Upper chamber),,,0.68
-2022,No unit,Bundesrat (Upper chamber),,,0.65
+2010,No unit,German Bundestag (lower chamber),,,0.66
+2011,No unit,German Bundestag (lower chamber),,,0.67
+2012,No unit,German Bundestag (lower chamber),,,0.66
+2013,No unit,German Bundestag (lower chamber),,,0.66
+2014,No unit,German Bundestag (lower chamber),,,0.73
+2015,No unit,German Bundestag (lower chamber),,,0.73
+2016,No unit,German Bundestag (lower chamber),,,0.75
+2017,No unit,German Bundestag (lower chamber),,,0.75
+2018,No unit,German Bundestag (lower chamber),,,0.63
+2019,No unit,German Bundestag (lower chamber),,,0.63
+2020,No unit,German Bundestag (lower chamber),,,0.63
+2021,No unit,German Bundestag (lower chamber),,,0.64
+2022,No unit,German Bundestag (lower chamber),,,0.71
+2010,No unit,Bundesrat (upper chamber),,,0.38
+2011,No unit,Bundesrat (upper chamber),,,0.5
+2012,No unit,Bundesrat (upper chamber),,,0.55
+2013,No unit,Bundesrat (upper chamber),,,0.58
+2014,No unit,Bundesrat (upper chamber),,,0.7
+2015,No unit,Bundesrat (upper chamber),,,0.82
+2016,No unit,Bundesrat (upper chamber),,,0.76
+2017,No unit,Bundesrat (upper chamber),,,0.79
+2018,No unit,Bundesrat (upper chamber),,,0.79
+2019,No unit,Bundesrat (upper chamber),,,0.73
+2020,No unit,Bundesrat (upper chamber),,,0.7
+2021,No unit,Bundesrat (upper chamber),,,0.68
+2022,No unit,Bundesrat (upper chamber),,,0.65
 2010,No unit,Public service,,,1.02
 2011,No unit,Public service,,,1.01
 2012,No unit,Public service,,,1.02
