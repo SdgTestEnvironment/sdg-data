@@ -19,16 +19,16 @@ Year,Units,timeseries,level of risk of extinction,Value
 2017,percentage,level of risk of extinction (according to fao classification),not at risk,
 2018,percentage,level of risk of extinction (according to fao classification),not at risk,
 2019,percentage,level of risk of extinction (according to fao classification),not at risk,12.50
-2010,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,
-2011,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,74
-2012,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,
-2013,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,75
-2014,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,
-2015,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,77
-2016,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,
-2017,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,77
-2018,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,
-2019,number,"local livestock breeds (horses, cows, pigs, sheep and goats)",,80
+2010,number,'local livestock breeds (horses, cows, pigs, sheep and goats)',,
+2011,number,'local livestock breeds (horses, cows, pigs, sheep and goats)',,74
+2012,number,'local livestock breeds (horses, cows, pigs, sheep and goats)',,
+2013,number,'local livestock breeds (horses, cows, pigs, sheep and goats)',,75
+2014,number,'local livestock breeds (horses, cows, pigs, sheep and goats)',,
+2015,number,'local livestock breeds (horses, cows, pigs, sheep and goats)',,77
+2016,number,'local livestock breeds (horses, cows, pigs, sheep and goats)',,
+2017,number,'local livestock breeds (horses, cows, pigs, sheep and goats)',,77
+2018,number,'local livestock breeds (horses, cows, pigs, sheep and goats)',,
+2019,number,'local livestock breeds (horses, cows, pigs, sheep and goats)',,80
 2010,percentage,level of risk of extinction (according to national classification),not at risk,
 2011,percentage,level of risk of extinction (according to national classification),not at risk,29.7
 2012,percentage,level of risk of extinction (according to national classification),not at risk,
