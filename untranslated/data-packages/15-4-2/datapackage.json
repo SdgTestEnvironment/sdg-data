@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "'(a) \"mountain green cover\" index'",
+                "(a) \"mountain green cover\" index",
                 "(b) proportion of degraded mountain area",
                 ""
               ]

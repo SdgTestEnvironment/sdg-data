@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "'(a) \"mountain green cover\" index'",
-                "(b) proportion of degraded mountain area",
+                "(a) \"Mountain Green Cover\" Index",
+                "(b) Anteil der degradierten Bergflächen",
                 ""
               ]
             },
