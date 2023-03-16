@@ -32,7 +32,6 @@ Indicator,Disaggregations,Number of disaggregations
 #15-1-2,timeseries,1
 #15-2-1,type of biomass,1
 #15-4-1,timeseries,1
-#15-4-2,classification,1
 #15-8-1,"timeseries, legislation",2
 #15-a-1,timeseries,1
 #15-b-1,timeseries,1
@@ -112,6 +111,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-8-1,"timeseries, sex",2
 #8-a-1,timeseries,1
 #9-1-2,mode of transport,1
+#9-2-2,"timeseries, sex",2
 #9-4-1,timeseries,1
 #9-5-1,region,1
 #9-a-1,timeseries,1

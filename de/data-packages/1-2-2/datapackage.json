@@ -21,7 +21,9 @@
             "constraints": {
               "enum": [
                 "Unter erheblicher materieller Deprivation leidende Personen",
-                "Von Armut oder sozialer Ausgrenzung bedrohte Personen",
+                "persons at risk of poverty or social exclusion (eu 2020 target)",
+                "severely materially and socially deprived persons",
+                "persons at risk of poverty or social exclusion (eu 2030 target)",
                 ""
               ]
             },
