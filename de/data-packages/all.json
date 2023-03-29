@@ -4935,7 +4935,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden"
+                "(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden",
+                "(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020",
+                "(2) Nationale Zuweisung von Ressourcen für die Prävention oder Kontrolle von IAS."
               ]
             },
             "title": "Zeitreihe"
@@ -4943,6 +4945,12 @@
           {
             "name": "legislation",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Übereinkommen über die biologische Vielfalt",
+                ""
+              ]
+            },
             "title": "Rechtsvorschrift"
           }
         ]
