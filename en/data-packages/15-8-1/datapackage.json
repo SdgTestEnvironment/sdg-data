@@ -36,6 +36,15 @@
             "constraints": {
               "enum": [
                 "Convention on Biological Diversity",
+                "Cartagena Protocol",
+                "International Plant Protection Convention",
+                "Agreement on Sanitary and Phytosanitary Measures of the World Trade Organisation",
+                "World Organisation for Animal Health",
+                "Convention on International Trade in Endangered Species",
+                "Ramsar Convention",
+                "Convention on the Conservation of Migratory Species of Wild Animals",
+                "World Heritage Convention",
+                "International Convention for the Control and Management of Ship's Ballast Water and Sediments",
                 ""
               ]
             },
