@@ -4935,9 +4935,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden",
-                "(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020",
-                "(2) Nationale Zuweisung von Ressourcen für die Prävention oder Kontrolle von IAS."
+                "(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden"
               ]
             },
             "title": "Zeitreihe"
@@ -5285,26 +5283,55 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
-                "long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
-                "long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)"
+                "Attributable Todesfälle",
+                "DALYs",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chronisch obstruktive Lungenerkrankung (COPD)",
+                "Lungenkrebs",
+                "Schlaganfall",
+                "Ischämische Herzerkrankungen",
+                "Diabetes mellitus Typ 2",
+                ""
+              ]
+            },
+            "title": "Art der Erkrankung"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
+                "Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
+                "DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
+                "DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
+                ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Wert"
           }
         ]
       },
@@ -7430,6 +7457,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Deutschland",
                 "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
@@ -7445,8 +7473,7 @@
                 "Sachsen",
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
-                "Thüringen",
-                "Deutschland"
+                "Thüringen"
               ]
             },
             "title": "Region"

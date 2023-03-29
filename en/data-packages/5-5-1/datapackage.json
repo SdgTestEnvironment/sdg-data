@@ -25,6 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Germany",
                 "Baden-Württemberg",
                 "Bavaria",
                 "Berlin",
@@ -40,8 +41,7 @@
                 "Saxony",
                 "Saxony-Anhalt",
                 "Schleswig-Holstein",
-                "Thuringia",
-                "Germany"
+                "Thuringia"
               ]
             },
             "title": "Region"

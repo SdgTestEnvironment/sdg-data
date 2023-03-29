@@ -23,6 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "germany",
                 "baden-wuerttemberg",
                 "bavaria",
                 "berlin",
@@ -38,8 +39,7 @@
                 "saxony",
                 "saxony-anhalt",
                 "schleswig-holstein",
-                "thuringia",
-                "germany"
+                "thuringia"
               ]
             }
           },

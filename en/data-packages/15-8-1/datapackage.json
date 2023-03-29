@@ -25,9 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control",
-                "(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020",
-                "(2) National allocation of resources towards the prevention or control of IAS."
+                "(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control"
               ]
             },
             "title": "Time series"

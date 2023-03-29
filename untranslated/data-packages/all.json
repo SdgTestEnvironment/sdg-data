@@ -4530,9 +4530,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control",
-                "(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020",
-                "(2) national allocation of resources towards the prevention or control of ias."
+                "(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control"
               ]
             }
           },
@@ -4852,23 +4850,50 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
-                "long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
-                "long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)"
+                "attributable deaths",
+                "dalys",
+                ""
               ]
             }
+          },
+          {
+            "name": "type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "chronic obstructive pulmonary disease (copd)",
+                "lung cancer",
+                "stroke",
+                "ischemic heart diseases",
+                "diabetes mellitus type 2",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
+                "attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease",
+                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
+                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
           }
         ]
       },
@@ -6819,6 +6844,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "germany",
                 "baden-wuerttemberg",
                 "bavaria",
                 "berlin",
@@ -6834,8 +6860,7 @@
                 "saxony",
                 "saxony-anhalt",
                 "schleswig-holstein",
-                "thuringia",
-                "germany"
+                "thuringia"
               ]
             }
           },

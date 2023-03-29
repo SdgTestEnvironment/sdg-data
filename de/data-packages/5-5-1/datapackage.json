@@ -25,6 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Deutschland",
                 "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
@@ -40,8 +41,7 @@
                 "Sachsen",
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
-                "Thüringen",
-                "Deutschland"
+                "Thüringen"
               ]
             },
             "title": "Region"

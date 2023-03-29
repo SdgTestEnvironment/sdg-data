@@ -4935,9 +4935,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control",
-                "(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020",
-                "(2) National allocation of resources towards the prevention or control of IAS."
+                "(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control"
               ]
             },
             "title": "Time series"
@@ -5285,26 +5283,55 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
-                "long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
-                "long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)"
+                "Attributable deaths",
+                "DALYs",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chronic obstructive pulmonary disease (COPD)",
+                "Lung cancer",
+                "Stroke",
+                "Ischemic heart diseases",
+                "Diabetes mellitus type 2",
+                ""
+              ]
+            },
+            "title": "Type of disease"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older",
+                "Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease",
+                "DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older",
+                "DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease",
+                ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
           }
         ]
       },
@@ -7430,6 +7457,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Germany",
                 "Baden-Württemberg",
                 "Bavaria",
                 "Berlin",
@@ -7445,8 +7473,7 @@
                 "Saxony",
                 "Saxony-Anhalt",
                 "Schleswig-Holstein",
-                "Thuringia",
-                "Germany"
+                "Thuringia"
               ]
             },
             "title": "Region"
