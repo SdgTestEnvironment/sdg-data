@@ -4921,6 +4921,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -4930,10 +4935,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control",
-                "(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020",
-                "(2) National allocation of resources towards the prevention or control of IAS.",
-                ""
+                "(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control"
               ]
             },
             "title": "Time series"
@@ -4941,27 +4943,7 @@
           {
             "name": "legislation",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Convention on Biological Diversity",
-                "Cartagena Protocol",
-                "International Plant Protection Convention",
-                "Agreement on Sanitary and Phytosanitary Measures of the World Trade Organisation",
-                "World Organisation for Animal Health",
-                "Convention on International Trade in Endangered Species",
-                "Ramsar Convention",
-                "Convention on the Conservation of Migratory Species of Wild Animals",
-                "World Heritage Convention",
-                "International Convention for the Control and Management of Ship's Ballast Water and Sediments",
-                ""
-              ]
-            },
             "title": "Legislation"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       },
@@ -5295,55 +5277,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Attributable deaths",
-                "DALYs",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "type of disease",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Chronic obstructive pulmonary disease (COPD)",
-                "Lung cancer",
-                "Stroke",
-                "Ischemic heart diseases",
-                "Diabetes mellitus type 2",
-                ""
-              ]
-            },
-            "title": "Type of disease"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older",
-                "Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease",
-                "DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older",
-                "DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease",
-                ""
+                "short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
+                "long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
+                "long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)"
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
           }
         ]
       },
@@ -7455,30 +7408,20 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of women in the German Bundestag (lower chamber)",
-                "Proportion of women in the Bundesrat (upper chamber)",
-                "Proportion of women in Länder parliaments",
-                "Proportion of women in councils of districts and district-free cities",
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany",
                 "Baden-Württemberg",
                 "Bavaria",
                 "Berlin",
@@ -7495,7 +7438,7 @@
                 "Saxony-Anhalt",
                 "Schleswig-Holstein",
                 "Thuringia",
-                ""
+                "Germany"
               ]
             },
             "title": "Region"
@@ -7504,11 +7447,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       },
@@ -8757,6 +8695,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -8772,8 +8715,7 @@
                 "P50",
                 "P75",
                 "P90",
-                "P95",
-                ""
+                "P95"
               ]
             },
             "title": "Percentiles"
@@ -8784,16 +8726,10 @@
             "constraints": {
               "enum": [
                 "Female",
-                "Male",
-                ""
+                "Male"
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       },

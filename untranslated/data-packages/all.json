@@ -4518,6 +4518,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -4526,35 +4530,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control",
-                "(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020",
-                "(2) national allocation of resources towards the prevention or control of ias.",
-                ""
+                "(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control"
               ]
             }
           },
           {
             "name": "legislation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "convention on biological diversity",
-                "cartagena protocol",
-                "international plant protection convention",
-                "agreement on sanitary and phytosanitary measures of the world trade organisation",
-                "world organisation for animal health",
-                "convention on international trade in endangered species",
-                "ramsar convention",
-                "convention on the conservation of migratory species of wild animals",
-                "world heritage convention",
-                "international convention for the control and management of ship's ballast water and sediments",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
@@ -4862,50 +4844,23 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "attributable deaths",
-                "dalys",
-                ""
+                "short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)",
+                "long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)",
+                "long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)"
               ]
             }
-          },
-          {
-            "name": "type of disease",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "chronic obstructive pulmonary disease (copd)",
-                "lung cancer",
-                "stroke",
-                "ischemic heart diseases",
-                "diabetes mellitus type 2",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
-                "attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease",
-                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
-                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
           }
         ]
       },
@@ -6844,29 +6799,19 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "proportion of women in the german bundestag (lower chamber)",
-                "proportion of women in the bundesrat (upper chamber)",
-                "proportion of women in länder parliaments",
-                "proportion of women in councils of districts and district-free cities",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
-                "baden-württemberg",
+                "baden-wuerttemberg",
                 "bavaria",
                 "berlin",
                 "brandenburg",
@@ -6882,17 +6827,13 @@
                 "saxony-anhalt",
                 "schleswig-holstein",
                 "thuringia",
-                ""
+                "germany"
               ]
             }
           },
           {
             "name": "GeoCode",
             "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       },
@@ -8039,6 +7980,10 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -8053,8 +7998,7 @@
                 "p50",
                 "p75",
                 "p90",
-                "p95",
-                ""
+                "p95"
               ]
             }
           },
@@ -8064,14 +8008,9 @@
             "constraints": {
               "enum": [
                 "female",
-                "male",
-                ""
+                "male"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       },

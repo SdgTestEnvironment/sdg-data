@@ -11,30 +11,20 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frauenanteil im Deutschen Bundestag",
-                "Frauenanteil im Bundesrat",
-                "Frauenanteil in den Landtagen",
-                "Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Deutschland",
                 "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
@@ -51,7 +41,7 @@
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
                 "Thüringen",
-                ""
+                "Deutschland"
               ]
             },
             "title": "Region"
@@ -60,11 +50,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
           }
         ]
       }

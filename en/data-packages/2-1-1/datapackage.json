@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -26,8 +31,7 @@
                 "P50",
                 "P75",
                 "P90",
-                "P95",
-                ""
+                "P95"
               ]
             },
             "title": "Percentiles"
@@ -38,16 +42,10 @@
             "constraints": {
               "enum": [
                 "Female",
-                "Male",
-                ""
+                "Male"
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
           }
         ]
       }
