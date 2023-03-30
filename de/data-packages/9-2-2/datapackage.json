@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Erwerbstätige im Verarbeitenden Gewerbe (Daten der VGR des Statistischen Bundesamtes)",
-                "Erwerbstätige im Verarbeitenden Gewerbe (Daten der AKE des Statistischen Bundesamtes)",
+                "Daten der VGR des Statistischen Bundesamtes",
+                "Daten der AKE des Statistischen Bundesamtes",
                 ""
               ]
             },

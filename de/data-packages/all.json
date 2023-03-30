@@ -2913,8 +2913,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Erwerbstätige im Verarbeitenden Gewerbe (Daten der VGR des Statistischen Bundesamtes)",
-                "Erwerbstätige im Verarbeitenden Gewerbe (Daten der AKE des Statistischen Bundesamtes)",
+                "Daten der VGR des Statistischen Bundesamtes",
+                "Daten der AKE des Statistischen Bundesamtes",
                 ""
               ]
             },
@@ -4935,7 +4935,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden"
+                "(1a) Nationale Gesetzgebung und Politik in Bezug auf invasive gebietsfremde Arten",
+                "(1b) Zielvorgaben und Ziele innerhalb der nationalen Strategien zur Prävention und Kontrolle invasiver gebietsfremder Arten auf das Aichi-Ziel 9 abgestimmt sind",
+                "(2) Nationale Zuweisung von Ressourcen für die Prävention oder Kontrolle von IAS"
               ]
             },
             "title": "Zeitreihe"

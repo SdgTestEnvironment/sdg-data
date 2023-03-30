@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Manufacturing persons employed (data from NA from Federal Statistical Office)",
-                "Manufacturing persons employed (data from LFS from Federal Statistical Office)",
+                "Data from NA from Federal Statistical Office",
+                "Data from LFS from Federal Statistical Office",
                 ""
               ]
             },
