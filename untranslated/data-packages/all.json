@@ -795,8 +795,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "organically farmed agricultural land (data from destatis)",
-                "organically farmed agricultural land (data from bmel)",
+                "organically farmed agricultural land (data from the federal statistical office)",
+                "organically farmed agricultural land (data from the federal ministry of food and agriculture)",
                 ""
               ]
             }
@@ -2674,8 +2674,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "manufacturing persons employed (data from national accounts)",
-                "manufacturing persons employed (data from labor force survey)",
+                "manufacturing persons employed (data from na from federal statistical office)",
+                "manufacturing persons employed (data from lfs from federal statistical office)",
                 ""
               ]
             }

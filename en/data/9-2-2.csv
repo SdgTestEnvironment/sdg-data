@@ -1,53 +1,53 @@
 Year,Time series,Sex,Value
-2010,Manufacturing persons employed (Data from National Accounts),,17.39
-2011,Manufacturing persons employed (Data from National Accounts),,17.54
-2012,Manufacturing persons employed (Data from National Accounts),,17.64
-2013,Manufacturing persons employed (Data from National Accounts),,17.56
-2014,Manufacturing persons employed (Data from National Accounts),,17.51
-2015,Manufacturing persons employed (Data from National Accounts),,17.41
-2016,Manufacturing persons employed (Data from National Accounts),,17.25
-2017,Manufacturing persons employed (Data from National Accounts),,17.16
-2018,Manufacturing persons employed (Data from National Accounts),,17.21
-2019,Manufacturing persons employed (Data from National Accounts),,17.15
-2020,Manufacturing persons employed (Data from National Accounts),,16.86
-2021,Manufacturing persons employed (Data from National Accounts),,16.61
-2022,Manufacturing persons employed (Data from National Accounts),,16.45
-2010,Manufacturing persons employed (Data from labor force survey),,19.95
-2011,Manufacturing persons employed (Data from labor force survey),,19.84
-2012,Manufacturing persons employed (Data from labor force survey),,19.73
-2013,Manufacturing persons employed (Data from labor force survey),,19.35
-2014,Manufacturing persons employed (Data from labor force survey),,19.58
-2015,Manufacturing persons employed (Data from labor force survey),,19.3
-2016,Manufacturing persons employed (Data from labor force survey),,19.15
-2017,Manufacturing persons employed (Data from labor force survey),,19.04
-2018,Manufacturing persons employed (Data from labor force survey),,19.07
-2019,Manufacturing persons employed (Data from labor force survey),,18.9
-2020,Manufacturing persons employed (Data from labor force survey),,19.92
-2021,Manufacturing persons employed (Data from labor force survey),,19.93
-2022,Manufacturing persons employed (Data from labor force survey),,
-2010,Manufacturing persons employed (Data from labor force survey),Female,11.69
-2011,Manufacturing persons employed (Data from labor force survey),Female,11.64
-2012,Manufacturing persons employed (Data from labor force survey),Female,11.59
-2013,Manufacturing persons employed (Data from labor force survey),Female,11.41
-2014,Manufacturing persons employed (Data from labor force survey),Female,11.51
-2015,Manufacturing persons employed (Data from labor force survey),Female,11.24
-2016,Manufacturing persons employed (Data from labor force survey),Female,11.16
-2017,Manufacturing persons employed (Data from labor force survey),Female,11.09
-2018,Manufacturing persons employed (Data from labor force survey),Female,11.23
-2019,Manufacturing persons employed (Data from labor force survey),Female,11.02
-2020,Manufacturing persons employed (Data from labor force survey),Female,11.17
-2021,Manufacturing persons employed (Data from labor force survey),Female,11.36
-2022,Manufacturing persons employed (Data from labor force survey),Female,
-2010,Manufacturing persons employed (Data from labor force survey),Male,27.06
-2011,Manufacturing persons employed (Data from labor force survey),Male,26.92
-2012,Manufacturing persons employed (Data from labor force survey),Male,26.73
-2013,Manufacturing persons employed (Data from labor force survey),Male,26.25
-2014,Manufacturing persons employed (Data from labor force survey),Male,26.62
-2015,Manufacturing persons employed (Data from labor force survey),Male,26.35
-2016,Manufacturing persons employed (Data from labor force survey),Male,26.11
-2017,Manufacturing persons employed (Data from labor force survey),Male,25.94
-2018,Manufacturing persons employed (Data from labor force survey),Male,25.91
-2019,Manufacturing persons employed (Data from labor force survey),Male,25.79
-2020,Manufacturing persons employed (Data from labor force survey),Male,27.62
-2021,Manufacturing persons employed (Data from labor force survey),Male,27.46
-2022,Manufacturing persons employed (Data from labor force survey),Male,
+2010,Manufacturing persons employed (data from NA from Federal Statistical Office),,17.4
+2011,Manufacturing persons employed (data from NA from Federal Statistical Office),,17.5
+2012,Manufacturing persons employed (data from NA from Federal Statistical Office),,17.6
+2013,Manufacturing persons employed (data from NA from Federal Statistical Office),,17.6
+2014,Manufacturing persons employed (data from NA from Federal Statistical Office),,17.5
+2015,Manufacturing persons employed (data from NA from Federal Statistical Office),,17.4
+2016,Manufacturing persons employed (data from NA from Federal Statistical Office),,17.2
+2017,Manufacturing persons employed (data from NA from Federal Statistical Office),,17.2
+2018,Manufacturing persons employed (data from NA from Federal Statistical Office),,17.2
+2019,Manufacturing persons employed (data from NA from Federal Statistical Office),,17.2
+2020,Manufacturing persons employed (data from NA from Federal Statistical Office),,16.9
+2021,Manufacturing persons employed (data from NA from Federal Statistical Office),,16.6
+2022,Manufacturing persons employed (data from NA from Federal Statistical Office),,16.4
+2010,Manufacturing persons employed (data from LFS from Federal Statistical Office),,20.0
+2011,Manufacturing persons employed (data from LFS from Federal Statistical Office),,19.8
+2012,Manufacturing persons employed (data from LFS from Federal Statistical Office),,19.7
+2013,Manufacturing persons employed (data from LFS from Federal Statistical Office),,19.3
+2014,Manufacturing persons employed (data from LFS from Federal Statistical Office),,19.6
+2015,Manufacturing persons employed (data from LFS from Federal Statistical Office),,19.3
+2016,Manufacturing persons employed (data from LFS from Federal Statistical Office),,19.2
+2017,Manufacturing persons employed (data from LFS from Federal Statistical Office),,19.0
+2018,Manufacturing persons employed (data from LFS from Federal Statistical Office),,19.1
+2019,Manufacturing persons employed (data from LFS from Federal Statistical Office),,18.9
+2020,Manufacturing persons employed (data from LFS from Federal Statistical Office),,19.9
+2021,Manufacturing persons employed (data from LFS from Federal Statistical Office),,19.9
+2022,Manufacturing persons employed (data from LFS from Federal Statistical Office),,
+2010,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.7
+2011,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.6
+2012,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.6
+2013,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.4
+2014,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.5
+2015,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.2
+2016,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.2
+2017,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.1
+2018,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.2
+2019,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.0
+2020,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.2
+2021,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,11.4
+2022,Manufacturing persons employed (data from LFS from Federal Statistical Office),Female,
+2010,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,27.1
+2011,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,26.9
+2012,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,26.7
+2013,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,26.3
+2014,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,26.6
+2015,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,26.3
+2016,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,26.1
+2017,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,25.9
+2018,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,25.9
+2019,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,25.8
+2020,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,27.6
+2021,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,27.5
+2022,Manufacturing persons employed (data from LFS from Federal Statistical Office),Male,

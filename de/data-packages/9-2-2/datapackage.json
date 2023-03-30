@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Erwerbstätige im Verarbeitenden Gewerbe (Daten der Volkswirtschaftlichen Gesamtrechnungen)",
-                "Beschäftigte im Verarbeitenden Gewerbe (Daten der Arbeitskräfteerhebung)",
+                "Erwerbstätige im Verarbeitenden Gewerbe (Daten der VGR des Statistischen Bundesamtes)",
+                "Erwerbstätige im Verarbeitenden Gewerbe (Daten der AKE des Statistischen Bundesamtes)",
                 ""
               ]
             },

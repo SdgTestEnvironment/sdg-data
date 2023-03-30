@@ -1,7 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 (1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control,10,1
 (1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020,1,1
-(2) national allocation of resources towards the prevention or control of ias.,1,1
+(2) national allocation of resources towards the prevention or control of ias,1,1
 agricultural holdings with the legal form of a sole proprietorship,1,1
 annual growth rate of real gdp,1,1
 at least one population and housing census in the last 10 years conducted,1,1
@@ -53,8 +53,8 @@ level of risk of extinction (according to national classification),4,1
 liquid assets to short-term liabilities,1,1
 live births in total,1,1
 "local livestock breeds (horses, cows, pigs, sheep and goats)",1,1
-manufacturing persons employed (data from labor force survey),3,1
-manufacturing persons employed (data from national accounts),1,1
+manufacturing persons employed (data from lfs from federal statistical office),3,1
+manufacturing persons employed (data from na from federal statistical office),1,1
 marine areas covered by protected areas,1,1
 marine key biodiversity areas (kbas) covered by protected areas,1,1
 material recovery,2,1
@@ -85,8 +85,8 @@ oda (gross disbursements) for scholarships,2,1
 oda (gross disbursements) for water and sanitation,2,1
 oda (gross disbursements) to infrastructure,2,1
 oda (gross disbursements) to the forestry sector,1,1
-organically farmed agricultural land (data from bmel),1,1
-organically farmed agricultural land (data from destatis),17,1
+organically farmed agricultural land (data from the federal ministry of food and agriculture),1,1
+organically farmed agricultural land (data from the federal statistical office),17,1
 overweight,3,1
 owned and leased agricultural land,3,1
 people requiring interventions against neglected tropical diseases,5,1
