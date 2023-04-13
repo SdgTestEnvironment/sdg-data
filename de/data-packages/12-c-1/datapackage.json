@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Prozent des BIP",
+                "% of gdb",
                 ""
               ]
             },
