@@ -2360,7 +2360,7 @@
           }
         ]
       },
-      "title": "Anteil der Mädchen und Frauen im Alter von 15-49 Jahren, die Genitalverstümmelung/Beschneidung unterzogen wurden, nach Alter"
+      "title": "Anteil der Mädchen und Frauen im Alter von 15-49 Jahren, die einer Genitalverstümmelung unterzogen wurden, nach Alter"
     },
     {
       "path": "2-2-2/data.csv",
@@ -3723,7 +3723,7 @@
           }
         ]
       },
-      "title": "Umsetzungsgrad der Politikkonzepte und Aktionspläne für eine nachhaltige öffentliche Beschaffung"
+      "title": "Anzahl der Staaten, die Politikkonzepte und Aktionspläne für eine nachhaltige öffentliche Beschaffung umsetzen"
     },
     {
       "path": "9-4-1/data.csv",
@@ -6446,7 +6446,7 @@
           }
         ]
       },
-      "title": "Index der Grünbedeckung in den Bergen"
+      "title": "a) Index der Grünbedeckung in den Bergen und b) Anteil der degradierten Gebirgsfläche"
     },
     {
       "path": "11-b-2/data.csv",
@@ -6985,7 +6985,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -7534,7 +7534,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten mit einer Migrationspolitik, die eine geordnete, sichere, reguläre und verantwortungsvolle Migration und Mobilität von Menschen ermöglicht"
+      "title": "Anteil der Staaten mit einer Migrationspolitik, die eine geordnete, sichere, reguläre und verantwortungsvolle Migration und Mobilität von Menschen ermöglicht"
     },
     {
       "path": "7-b-1/data.csv",
@@ -7716,7 +7716,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
