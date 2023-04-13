@@ -5507,7 +5507,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "% of gdb",
+                "Percent of GDP",
                 ""
               ]
             },
