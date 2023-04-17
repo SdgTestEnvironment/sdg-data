@@ -2765,32 +2765,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -4751,12 +4731,38 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hectare",
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Marine Key Biodiversity Areas (KBAs) covered by protected areas",
-                "Marine areas covered by protected areas",
+                "Marine protected areas",
+                "Effective marine protected areas",
+                "Marine area",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Marine protected areas",
+                "Effective marine protected areas",
+                "Marine area",
                 ""
               ]
             },
@@ -4764,7 +4770,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6581,32 +6587,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

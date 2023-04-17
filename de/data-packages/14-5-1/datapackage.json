@@ -16,12 +16,38 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hektar",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",
-                "Meeresfläche, die unter Schutz steht",
+                "Marine Schutzgebiete",
+                "Effektive marine Schutzgebiete",
+                "Meeresfläche",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Marine Schutzgebiete",
+                "Effektive marine Schutzgebiete",
+                "Meeresfläche",
                 ""
               ]
             },
@@ -29,7 +55,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

@@ -1,27 +1,66 @@
-Year,Zeitreihe,Value
-2010,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2011,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2012,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2013,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2014,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2015,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2016,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2017,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2018,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2019,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2020,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2021,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2022,"Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",89
-2010,"Meeresfläche, die unter Schutz steht",45
-2011,"Meeresfläche, die unter Schutz steht",45
-2012,"Meeresfläche, die unter Schutz steht",45
-2013,"Meeresfläche, die unter Schutz steht",45
-2014,"Meeresfläche, die unter Schutz steht",45
-2015,"Meeresfläche, die unter Schutz steht",45
-2016,"Meeresfläche, die unter Schutz steht",45
-2017,"Meeresfläche, die unter Schutz steht",45
-2018,"Meeresfläche, die unter Schutz steht",45
-2019,"Meeresfläche, die unter Schutz steht",45
-2020,"Meeresfläche, die unter Schutz steht",45
-2021,"Meeresfläche, die unter Schutz steht",45
-2022,"Meeresfläche, die unter Schutz steht",45
+Year,Units,Zeitreihe,Zeitreihe1,Value
+2010,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2573079.952
+2011,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2573084.987
+2012,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2573111.579
+2013,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2576762.745
+2014,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2576762.745
+2015,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2576778.718
+2016,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2576778.718
+2017,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2577709.038
+2018,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2577766.587
+2019,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2581616.907
+2020,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2581616.907
+2021,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2581616.907
+2022,Hektar,Marine Schutzgebiete,Marine Schutzgebiete,2581585.92
+2010,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.26
+2011,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.26
+2012,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.261
+2013,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.325
+2014,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.325
+2015,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.325
+2016,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.325
+2017,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.342
+2018,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.343
+2019,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.41
+2020,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.41
+2021,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.41
+2022,Prozent,Marine Schutzgebiete,Marine Schutzgebiete,45.41
+2010,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,2179802.882
+2011,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,2179803.77
+2012,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,2179803.77
+2013,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,2179803.77
+2014,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,2179803.77
+2015,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,2179804.385
+2016,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,2179804.385
+2017,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,2180865.779
+2018,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,2180878.567
+2019,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,2185090.117
+2020,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,
+2021,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,
+2022,Hektar,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,
+2010,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,38.343
+2011,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,38.343
+2012,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,38.343
+2013,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,38.343
+2014,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,38.343
+2015,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,38.343
+2016,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,38.343
+2017,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,38.361
+2018,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,38.362
+2019,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,38.436
+2020,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,
+2021,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,
+2022,Prozent,Effektive marine Schutzgebiete,Effektive marine Schutzgebiete,
+2010,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2011,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2012,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2013,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2014,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2015,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2016,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2017,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2018,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2019,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2020,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2021,Hektar,Meeresfläche,Meeresfläche,5685070.494
+2022,Hektar,Meeresfläche,Meeresfläche,5685070.494
