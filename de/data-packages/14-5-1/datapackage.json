@@ -28,19 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Marine Schutzgebiete",
-                "Effektive marine Schutzgebiete",
-                "Meeresfläche",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
