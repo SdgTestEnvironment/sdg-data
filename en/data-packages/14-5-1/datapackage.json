@@ -20,21 +20,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hectare",
                 "Percentage",
+                "Hectare",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Marine protected areas",
-                "Effective marine protected areas",
-                "Marine area",
+                "Marine Key Biodiversity Areas (KBAs) covered by protected areas",
+                "Marine areas covered by protected areas",
+                "marine areas covered by effective protected areas",
                 ""
               ]
             },

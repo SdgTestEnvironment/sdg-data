@@ -20,21 +20,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hektar",
                 "Prozent",
+                "Hektar",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Marine Schutzgebiete",
-                "Effektive marine Schutzgebiete",
-                "Meeresfläche",
+                "Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",
+                "Meeresfläche, die unter Schutz steht",
+                "marine areas covered by effective protected areas",
                 ""
               ]
             },

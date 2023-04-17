@@ -4347,20 +4347,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hectare",
                 "percentage",
+                "hectare",
                 ""
               ]
             }
           },
           {
-            "name": "time series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "marine protected areas",
-                "effective marine protected areas",
-                "marine area",
+                "marine key biodiversity areas (kbas) covered by protected areas",
+                "marine areas covered by protected areas",
+                "marine areas covered by effective protected areas",
                 ""
               ]
             }
@@ -6582,6 +6582,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "hectare",
+                ""
+              ]
+            }
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
@@ -6594,7 +6605,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
