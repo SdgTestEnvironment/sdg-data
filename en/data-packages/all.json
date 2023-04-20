@@ -63,9 +63,10 @@
                 "Proportion of settlement and transport areas to population",
                 "Land consumption rate",
                 "Population growth rate",
-                "proportion of settlement and transport areas to population (moving four-year average)",
-                "land consumption rate (moving four-year average)",
-                "population growth rate (moving four-year average)",
+                "Ratio of land consumption rate to population growth rate (year-to-year) (Moving four-year average)",
+                "Proportion of settlement and transport areas to population (Moving four-year average)",
+                "Land consumption rate (Moving four-year average)",
+                "Population growth rate (Moving four-year average)",
                 ""
               ]
             },

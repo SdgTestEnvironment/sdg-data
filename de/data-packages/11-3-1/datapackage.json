@@ -37,9 +37,10 @@
                 "Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung",
                 "Flächenverbrauchsrate",
                 "Bevölkerungsentwicklung",
-                "proportion of settlement and transport areas to population (moving four-year average)",
-                "land consumption rate (moving four-year average)",
-                "population growth rate (moving four-year average)",
+                "Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung (Gleitender Vierjahresdurchschnitt)",
+                "Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung (Gleitender Vierjahresdurchschnitt)",
+                "Flächenverbrauchsrate (Gleitender Vierjahresdurchschnitt)",
+                "Bevölkerungsentwicklung (Gleitender Vierjahresdurchschnitt)",
                 ""
               ]
             },
