@@ -59,6 +59,9 @@
                 "proportion of settlement and transport areas to population",
                 "land consumption rate",
                 "population growth rate",
+                "proportion of settlement and transport areas to population (moving four-year average)",
+                "land consumption rate (moving four-year average)",
+                "population growth rate (moving four-year average)",
                 ""
               ]
             }
@@ -7467,17 +7470,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2015 = 100",
-                "2020 = 100",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
