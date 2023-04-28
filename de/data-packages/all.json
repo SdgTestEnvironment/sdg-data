@@ -1228,14 +1228,22 @@
                 "Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung",
                 "Flächenverbrauchsrate",
                 "Bevölkerungsentwicklung",
-                "Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung (Gleitender Vierjahresdurchschnitt)",
-                "Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung (Gleitender Vierjahresdurchschnitt)",
-                "Flächenverbrauchsrate (Gleitender Vierjahresdurchschnitt)",
-                "Bevölkerungsentwicklung (Gleitender Vierjahresdurchschnitt)",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "presentation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jährliche Werte",
+                "Gleitender Vierjahresdurchschnitt",
+                ""
+              ]
+            },
+            "title": "Darstellung"
           },
           {
             "name": "Value",
