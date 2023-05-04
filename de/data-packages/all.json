@@ -2945,10 +2945,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) nationale Bildungspolitik",
-                "(b) Lehrpläne",
-                "(c) Ausbildung von Lehrkräften",
-                "(d) Leistungsbewertung der Lernenden",
+                "a) nationale Bildungspolitik",
+                "b) Lehrpläne",
+                "c) Ausbildung von Lehrkräften",
+                "d) Leistungsbewertung der Lernenden",
                 ""
               ]
             },
@@ -6130,10 +6130,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) nationale Bildungspolitik",
-                "(b) Lehrpläne",
-                "(c) Ausbildung von Lehrkräften",
-                "(d) Leistungsbewertung der Lernenden",
+                "a) nationale Bildungspolitik",
+                "b) Lehrpläne",
+                "c) Ausbildung von Lehrkräften",
+                "d) Leistungsbewertung der Lernenden",
                 ""
               ]
             },
@@ -7278,10 +7278,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) nationale Bildungspolitik",
-                "(b) Lehrpläne",
-                "(c) Ausbildung von Lehrkräften",
-                "(d) Leistungsbewertung der Lernenden",
+                "a) nationale Bildungspolitik",
+                "b) Lehrpläne",
+                "c) Ausbildung von Lehrkräften",
+                "d) Leistungsbewertung der Lernenden",
                 ""
               ]
             },
