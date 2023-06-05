@@ -20,27 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unter erheblicher materieller Deprivation leidende Personen",
-                "Von Armut oder sozialer Ausgrenzung bedrohte Personen (EU 2020 Ziel)",
+                "Armutsgefährdungsquote",
                 "Unter erheblicher materieller und sozialer Deprivation leidende Personen",
-                "Von Armut oder sozialer Ausgrenzung bedrohte Personen (EU 2030 Ziel)",
+                "Von Armut oder sozialer Ausgrenzung bedrohte Personen",
+                "In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen",
                 ""
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "17 Jahre und jünger",
-                "18 bis unter 65 Jahre",
-                "65 Jahre und älter",
-                ""
-              ]
-            },
-            "title": "Altersklasse"
           },
           {
             "name": "sex",
