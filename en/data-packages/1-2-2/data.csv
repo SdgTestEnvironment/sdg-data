@@ -38,45 +38,6 @@ Year,Time series,Sex,Value
 2020,At-risk-of-poverty rate,Male,15.3
 2021,At-risk-of-poverty rate,Male,15.4
 2022,At-risk-of-poverty rate,Male,13.9
-2010,Severely materially and socially deprived persons,,
-2011,Severely materially and socially deprived persons,,
-2012,Severely materially and socially deprived persons,,
-2013,Severely materially and socially deprived persons,,
-2014,Severely materially and socially deprived persons,,
-2015,Severely materially and socially deprived persons,,5.7
-2016,Severely materially and socially deprived persons,,4.7
-2017,Severely materially and socially deprived persons,,3.7
-2018,Severely materially and socially deprived persons,,3.4
-2019,Severely materially and socially deprived persons,,3.0
-2020,Severely materially and socially deprived persons,,4.4
-2021,Severely materially and socially deprived persons,,4.3
-2022,Severely materially and socially deprived persons,,6.1
-2010,Severely materially and socially deprived persons,Female,
-2011,Severely materially and socially deprived persons,Female,
-2012,Severely materially and socially deprived persons,Female,
-2013,Severely materially and socially deprived persons,Female,
-2014,Severely materially and socially deprived persons,Female,
-2015,Severely materially and socially deprived persons,Female,6.3
-2016,Severely materially and socially deprived persons,Female,5.1
-2017,Severely materially and socially deprived persons,Female,4.0
-2018,Severely materially and socially deprived persons,Female,3.6
-2019,Severely materially and socially deprived persons,Female,3.3
-2020,Severely materially and socially deprived persons,Female,4.4
-2021,Severely materially and socially deprived persons,Female,4.3
-2022,Severely materially and socially deprived persons,Female,6.0
-2010,Severely materially and socially deprived persons,Male,
-2011,Severely materially and socially deprived persons,Male,
-2012,Severely materially and socially deprived persons,Male,
-2013,Severely materially and socially deprived persons,Male,
-2014,Severely materially and socially deprived persons,Male,
-2015,Severely materially and socially deprived persons,Male,5.0
-2016,Severely materially and socially deprived persons,Male,4.3
-2017,Severely materially and socially deprived persons,Male,3.5
-2018,Severely materially and socially deprived persons,Male,3.2
-2019,Severely materially and socially deprived persons,Male,2.6
-2020,Severely materially and socially deprived persons,Male,4.3
-2021,Severely materially and socially deprived persons,Male,4.4
-2022,Severely materially and socially deprived persons,Male,6.2
 2010,Persons at risk of poverty or social exclusion,,
 2011,Persons at risk of poverty or social exclusion,,
 2012,Persons at risk of poverty or social exclusion,,
@@ -155,3 +116,42 @@ Year,Time series,Sex,Value
 2020,Persons living in households with very low work intensity,Male,8.1
 2021,Persons living in households with very low work intensity,Male,9.2
 2022,Persons living in households with very low work intensity,Male,9.6
+2010,Severely materially and socially deprived persons,,
+2011,Severely materially and socially deprived persons,,
+2012,Severely materially and socially deprived persons,,
+2013,Severely materially and socially deprived persons,,
+2014,Severely materially and socially deprived persons,,
+2015,Severely materially and socially deprived persons,,5.7
+2016,Severely materially and socially deprived persons,,4.7
+2017,Severely materially and socially deprived persons,,3.7
+2018,Severely materially and socially deprived persons,,3.4
+2019,Severely materially and socially deprived persons,,3.0
+2020,Severely materially and socially deprived persons,,4.4
+2021,Severely materially and socially deprived persons,,4.3
+2022,Severely materially and socially deprived persons,,6.1
+2010,Severely materially and socially deprived persons,Female,
+2011,Severely materially and socially deprived persons,Female,
+2012,Severely materially and socially deprived persons,Female,
+2013,Severely materially and socially deprived persons,Female,
+2014,Severely materially and socially deprived persons,Female,
+2015,Severely materially and socially deprived persons,Female,6.3
+2016,Severely materially and socially deprived persons,Female,5.1
+2017,Severely materially and socially deprived persons,Female,4.0
+2018,Severely materially and socially deprived persons,Female,3.6
+2019,Severely materially and socially deprived persons,Female,3.3
+2020,Severely materially and socially deprived persons,Female,4.4
+2021,Severely materially and socially deprived persons,Female,4.3
+2022,Severely materially and socially deprived persons,Female,6.0
+2010,Severely materially and socially deprived persons,Male,
+2011,Severely materially and socially deprived persons,Male,
+2012,Severely materially and socially deprived persons,Male,
+2013,Severely materially and socially deprived persons,Male,
+2014,Severely materially and socially deprived persons,Male,
+2015,Severely materially and socially deprived persons,Male,5.0
+2016,Severely materially and socially deprived persons,Male,4.3
+2017,Severely materially and socially deprived persons,Male,3.5
+2018,Severely materially and socially deprived persons,Male,3.2
+2019,Severely materially and socially deprived persons,Male,2.6
+2020,Severely materially and socially deprived persons,Male,4.3
+2021,Severely materially and socially deprived persons,Male,4.4
+2022,Severely materially and socially deprived persons,Male,6.2

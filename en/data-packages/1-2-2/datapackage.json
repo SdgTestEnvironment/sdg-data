@@ -21,9 +21,9 @@
             "constraints": {
               "enum": [
                 "At-risk-of-poverty rate",
-                "Severely materially and socially deprived persons",
                 "Persons at risk of poverty or social exclusion",
                 "Persons living in households with very low work intensity",
+                "Severely materially and socially deprived persons",
                 ""
               ]
             },
