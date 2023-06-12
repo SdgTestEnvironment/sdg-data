@@ -1,43 +1,4 @@
 Year,Time series,Sex,Value
-2010,At-risk-of-poverty rate,,15.6
-2011,At-risk-of-poverty rate,,15.8
-2012,At-risk-of-poverty rate,,16.1
-2013,At-risk-of-poverty rate,,16.1
-2014,At-risk-of-poverty rate,,16.7
-2015,At-risk-of-poverty rate,,16.7
-2016,At-risk-of-poverty rate,,16.5
-2017,At-risk-of-poverty rate,,16.1
-2018,At-risk-of-poverty rate,,16.0
-2019,At-risk-of-poverty rate,,14.8
-2020,At-risk-of-poverty rate,,16.1
-2021,At-risk-of-poverty rate,,16.0
-2022,At-risk-of-poverty rate,,14.7
-2010,At-risk-of-poverty rate,Female,16.4
-2011,At-risk-of-poverty rate,Female,16.8
-2012,At-risk-of-poverty rate,Female,17.2
-2013,At-risk-of-poverty rate,Female,17.2
-2014,At-risk-of-poverty rate,Female,17.4
-2015,At-risk-of-poverty rate,Female,17.4
-2016,At-risk-of-poverty rate,Female,17.8
-2017,At-risk-of-poverty rate,Female,17.1
-2018,At-risk-of-poverty rate,Female,16.8
-2019,At-risk-of-poverty rate,Female,15.7
-2020,At-risk-of-poverty rate,Female,16.8
-2021,At-risk-of-poverty rate,Female,16.6
-2022,At-risk-of-poverty rate,Female,15.4
-2010,At-risk-of-poverty rate,Male,14.9
-2011,At-risk-of-poverty rate,Male,14.9
-2012,At-risk-of-poverty rate,Male,14.9
-2013,At-risk-of-poverty rate,Male,15.0
-2014,At-risk-of-poverty rate,Male,15.9
-2015,At-risk-of-poverty rate,Male,15.9
-2016,At-risk-of-poverty rate,Male,15.2
-2017,At-risk-of-poverty rate,Male,15.0
-2018,At-risk-of-poverty rate,Male,15.2
-2019,At-risk-of-poverty rate,Male,13.9
-2020,At-risk-of-poverty rate,Male,15.3
-2021,At-risk-of-poverty rate,Male,15.4
-2022,At-risk-of-poverty rate,Male,13.9
 2010,Persons at risk of poverty or social exclusion,,
 2011,Persons at risk of poverty or social exclusion,,
 2012,Persons at risk of poverty or social exclusion,,
@@ -77,6 +38,45 @@ Year,Time series,Sex,Value
 2020,Persons at risk of poverty or social exclusion,Male,19.5
 2021,Persons at risk of poverty or social exclusion,Male,20.2
 2022,Persons at risk of poverty or social exclusion,Male,20.1
+2010,At-risk-of-poverty rate,,15.6
+2011,At-risk-of-poverty rate,,15.8
+2012,At-risk-of-poverty rate,,16.1
+2013,At-risk-of-poverty rate,,16.1
+2014,At-risk-of-poverty rate,,16.7
+2015,At-risk-of-poverty rate,,16.7
+2016,At-risk-of-poverty rate,,16.5
+2017,At-risk-of-poverty rate,,16.1
+2018,At-risk-of-poverty rate,,16.0
+2019,At-risk-of-poverty rate,,14.8
+2020,At-risk-of-poverty rate,,16.1
+2021,At-risk-of-poverty rate,,16.0
+2022,At-risk-of-poverty rate,,14.7
+2010,At-risk-of-poverty rate,Female,16.4
+2011,At-risk-of-poverty rate,Female,16.8
+2012,At-risk-of-poverty rate,Female,17.2
+2013,At-risk-of-poverty rate,Female,17.2
+2014,At-risk-of-poverty rate,Female,17.4
+2015,At-risk-of-poverty rate,Female,17.4
+2016,At-risk-of-poverty rate,Female,17.8
+2017,At-risk-of-poverty rate,Female,17.1
+2018,At-risk-of-poverty rate,Female,16.8
+2019,At-risk-of-poverty rate,Female,15.7
+2020,At-risk-of-poverty rate,Female,16.8
+2021,At-risk-of-poverty rate,Female,16.6
+2022,At-risk-of-poverty rate,Female,15.4
+2010,At-risk-of-poverty rate,Male,14.9
+2011,At-risk-of-poverty rate,Male,14.9
+2012,At-risk-of-poverty rate,Male,14.9
+2013,At-risk-of-poverty rate,Male,15.0
+2014,At-risk-of-poverty rate,Male,15.9
+2015,At-risk-of-poverty rate,Male,15.9
+2016,At-risk-of-poverty rate,Male,15.2
+2017,At-risk-of-poverty rate,Male,15.0
+2018,At-risk-of-poverty rate,Male,15.2
+2019,At-risk-of-poverty rate,Male,13.9
+2020,At-risk-of-poverty rate,Male,15.3
+2021,At-risk-of-poverty rate,Male,15.4
+2022,At-risk-of-poverty rate,Male,13.9
 2010,Persons living in households with very low work intensity,,
 2011,Persons living in households with very low work intensity,,
 2012,Persons living in households with very low work intensity,,

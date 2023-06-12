@@ -257,8 +257,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "at-risk-of-poverty rate",
                 "persons at risk of poverty or social exclusion",
+                "at-risk-of-poverty rate",
                 "persons living in households with very low work intensity",
                 "severely materially and socially deprived persons",
                 ""

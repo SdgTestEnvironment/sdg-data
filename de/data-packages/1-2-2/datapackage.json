@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Armutsgefährdungsquote",
                 "Von Armut oder sozialer Ausgrenzung bedrohte Personen",
+                "Armutsgefährdungsquote",
                 "In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen",
                 "Unter erheblicher materieller und sozialer Deprivation leidende Personen",
                 ""
