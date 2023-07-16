@@ -122,9 +122,9 @@ Year,Units,political institutions,region,GeoCode,Value
 2018,percentage,länder parliaments,berlin,code11,33.1
 2019,percentage,länder parliaments,berlin,code11,33.1
 2020,percentage,länder parliaments,berlin,code11,33.1
-2021,percentage,länder parliaments,berlin,code11,35.4
-2022,percentage,länder parliaments,berlin,code11,35.4
-2023,percentage,länder parliaments,berlin,code11,35.4
+2021,percentage,länder parliaments,berlin,code11,37.7
+2022,percentage,länder parliaments,berlin,code11,37.7
+2023,percentage,länder parliaments,berlin,code11,37.7
 2010,number,länder parliaments,berlin,code11,59
 2011,number,länder parliaments,berlin,code11,52
 2012,number,länder parliaments,berlin,code11,52
@@ -223,9 +223,9 @@ Year,Units,political institutions,region,GeoCode,Value
 2021,number,länder parliaments,hamburg,code02,54
 2022,number,länder parliaments,hamburg,code02,54
 2023,number,länder parliaments,hamburg,code02,54
-2010,percentage,länder parliaments,hesse,code06,30.0
-2011,percentage,länder parliaments,hesse,code06,30.0
-2012,percentage,länder parliaments,hesse,code06,30.0
+2010,percentage,länder parliaments,hesse,code06,28.0
+2011,percentage,länder parliaments,hesse,code06,28.0
+2012,percentage,länder parliaments,hesse,code06,28.0
 2013,percentage,länder parliaments,hesse,code06,31.8
 2014,percentage,länder parliaments,hesse,code06,31.8
 2015,percentage,länder parliaments,hesse,code06,31.8
@@ -447,8 +447,8 @@ Year,Units,political institutions,region,GeoCode,Value
 2021,number,länder parliaments,saxony-anhalt,code15,27
 2022,number,länder parliaments,saxony-anhalt,code15,27
 2023,number,länder parliaments,saxony-anhalt,code15,27
-2010,percentage,länder parliaments,schleswig-holstein,code01,36.8
-2011,percentage,länder parliaments,schleswig-holstein,code01,36.8
+2010,percentage,länder parliaments,schleswig-holstein,code01,35.8
+2011,percentage,länder parliaments,schleswig-holstein,code01,35.8
 2012,percentage,länder parliaments,schleswig-holstein,code01,31.9
 2013,percentage,länder parliaments,schleswig-holstein,code01,31.9
 2014,percentage,länder parliaments,schleswig-holstein,code01,31.9
@@ -461,20 +461,20 @@ Year,Units,political institutions,region,GeoCode,Value
 2021,percentage,länder parliaments,schleswig-holstein,code01,30.1
 2022,percentage,länder parliaments,schleswig-holstein,code01,37.7
 2023,percentage,länder parliaments,schleswig-holstein,code01,37.7
-2010,number,länder parliaments,schleswig-holstein,code01,38.6
-2011,number,länder parliaments,schleswig-holstein,code01,38.6
-2012,number,länder parliaments,schleswig-holstein,code01,38.6
-2013,number,länder parliaments,schleswig-holstein,code01,38.6
-2014,number,länder parliaments,schleswig-holstein,code01,22.0
-2015,number,länder parliaments,schleswig-holstein,code01,22.0
-2016,number,länder parliaments,schleswig-holstein,code01,22.0
-2017,number,länder parliaments,schleswig-holstein,code01,22.0
-2018,number,länder parliaments,schleswig-holstein,code01,22.0
-2019,number,länder parliaments,schleswig-holstein,code01,22.0
-2020,number,länder parliaments,schleswig-holstein,code01,22.0
-2021,number,länder parliaments,schleswig-holstein,code01,22.0
-2022,number,länder parliaments,schleswig-holstein,code01,26.0
-2023,number,länder parliaments,schleswig-holstein,code01,26.0
+2010,number,länder parliaments,schleswig-holstein,code01,34
+2011,number,länder parliaments,schleswig-holstein,code01,34
+2012,number,länder parliaments,schleswig-holstein,code01,22
+2013,number,länder parliaments,schleswig-holstein,code01,22
+2014,number,länder parliaments,schleswig-holstein,code01,22
+2015,number,länder parliaments,schleswig-holstein,code01,22
+2016,number,länder parliaments,schleswig-holstein,code01,22
+2017,number,länder parliaments,schleswig-holstein,code01,22
+2018,number,länder parliaments,schleswig-holstein,code01,22
+2019,number,länder parliaments,schleswig-holstein,code01,22
+2020,number,länder parliaments,schleswig-holstein,code01,22
+2021,number,länder parliaments,schleswig-holstein,code01,22
+2022,number,länder parliaments,schleswig-holstein,code01,26
+2023,number,länder parliaments,schleswig-holstein,code01,26
 2010,percentage,länder parliaments,thuringia,code16,26.1
 2011,percentage,länder parliaments,thuringia,code16,26.1
 2012,percentage,länder parliaments,thuringia,code16,26.1
@@ -503,17 +503,17 @@ Year,Units,political institutions,region,GeoCode,Value
 2021,number,länder parliaments,thuringia,code16,28
 2022,number,länder parliaments,thuringia,code16,28
 2023,number,länder parliaments,thuringia,code16,28
-2010,percentage,councils of districts and district-free cities,,,
-2011,percentage,councils of districts and district-free cities,,,26.1
-2012,percentage,councils of districts and district-free cities,,,26.1
-2013,percentage,councils of districts and district-free cities,,,26.1
-2014,percentage,councils of districts and district-free cities,,,26.1
-2015,percentage,councils of districts and district-free cities,,,27.1
-2016,percentage,councils of districts and district-free cities,,,27.1
-2017,percentage,councils of districts and district-free cities,,,27.0
-2018,percentage,councils of districts and district-free cities,,,27.0
-2019,percentage,councils of districts and district-free cities,,,27.8
-2020,percentage,councils of districts and district-free cities,,,27.8
-2021,percentage,councils of districts and district-free cities,,,30.3
-2022,percentage,councils of districts and district-free cities,,,30.3
-2023,percentage,councils of districts and district-free cities,,,30.3
+2010,percentage,länder parliaments,germany,,31.768
+2011,percentage,länder parliaments,germany,,31.651
+2012,percentage,länder parliaments,germany,,31.832
+2013,percentage,länder parliaments,germany,,31.809
+2014,percentage,länder parliaments,germany,,32.364
+2015,percentage,länder parliaments,germany,,31.933
+2016,percentage,länder parliaments,germany,,31.590
+2017,percentage,länder parliaments,germany,,31.027
+2018,percentage,länder parliaments,germany,,30.860
+2019,percentage,länder parliaments,germany,,30.439
+2020,percentage,länder parliaments,germany,,30.782
+2021,percentage,länder parliaments,germany,,31.804
+2022,percentage,länder parliaments,germany,,33.316
+2023,percentage,länder parliaments,germany,,33.316
