@@ -5186,6 +5186,24 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "sring",
+            "title": "Units"
+          },
+          {
+            "name": "political institutions",
+            "type": "sring",
+            "constraints": {
+              "enum": [
+                "Bundestag (Lower chamber)",
+                "Bundesrat (upper chamber)",
+                "Länder parliaments",
+                "Councils of districts and district-free cities"
+              ]
+            },
+            "title": "Political institutions"
+          },
+          {
             "name": "region",
             "type": "string",
             "constraints": {

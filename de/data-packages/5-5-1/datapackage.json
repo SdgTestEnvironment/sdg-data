@@ -21,6 +21,24 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "sring",
+            "title": "Units"
+          },
+          {
+            "name": "political institutions",
+            "type": "sring",
+            "constraints": {
+              "enum": [
+                "Deutscher Bundestag",
+                "Bundesrat",
+                "Landtage",
+                "Kreistage und Stadträte von kreisfreien Städten"
+              ]
+            },
+            "title": "Politische Institutionen"
+          },
+          {
             "name": "region",
             "type": "string",
             "constraints": {
