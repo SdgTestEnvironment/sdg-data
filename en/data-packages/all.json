@@ -2079,7 +2079,7 @@
             "title": "Year"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2102,7 +2102,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -3960,7 +3960,7 @@
             "title": "Sex"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3983,7 +3983,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -6585,7 +6585,7 @@
             "title": "Time series"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6608,7 +6608,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -6926,7 +6926,7 @@
             "title": "Year"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6949,7 +6949,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",
@@ -9516,7 +9516,7 @@
             "title": "Time series"
           },
           {
-            "name": "region",
+            "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9539,7 +9539,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",

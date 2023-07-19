@@ -1,4 +1,4 @@
-Year,Units,Political institutions,Region,GeoCode,Value
+Year,Units,Political institutions,Länder,GeoCode,Value
 2010,Percentage,Bundestag (Lower chamber),,,32.8
 2011,Percentage,Bundestag (Lower chamber),,,33.1
 2012,Percentage,Bundestag (Lower chamber),,,32.9
@@ -503,34 +503,34 @@ Year,Units,Political institutions,Region,GeoCode,Value
 2021,Number,Länder parliaments,Thuringia,code16,28.0
 2022,Number,Länder parliaments,Thuringia,code16,28.0
 2023,Number,Länder parliaments,Thuringia,code16,28.0
-2010,Percentage,Länder parliaments,Germany,,31.768
-2011,Percentage,Länder parliaments,Germany,,31.651
-2012,Percentage,Länder parliaments,Germany,,31.832
-2013,Percentage,Länder parliaments,Germany,,31.809
-2014,Percentage,Länder parliaments,Germany,,32.364
-2015,Percentage,Länder parliaments,Germany,,31.933
-2016,Percentage,Länder parliaments,Germany,,31.59
-2017,Percentage,Länder parliaments,Germany,,31.027
-2018,Percentage,Länder parliaments,Germany,,30.86
-2019,Percentage,Länder parliaments,Germany,,30.439
-2020,Percentage,Länder parliaments,Germany,,30.782
-2021,Percentage,Länder parliaments,Germany,,31.804
-2022,Percentage,Länder parliaments,Germany,,33.316
-2023,Percentage,Länder parliaments,Germany,,33.316
-2010,Number,Länder parliaments,Germany,,602.0
-2011,Number,Länder parliaments,Germany,,602.0
-2012,Number,Länder parliaments,Germany,,615.0
-2013,Number,Länder parliaments,Germany,,605.0
-2014,Number,Länder parliaments,Germany,,601.0
-2015,Number,Länder parliaments,Germany,,593.0
-2016,Number,Länder parliaments,Germany,,586.0
-2017,Number,Länder parliaments,Germany,,565.0
-2018,Number,Länder parliaments,Germany,,578.0
-2019,Number,Länder parliaments,Germany,,568.0
-2020,Number,Länder parliaments,Germany,,575.0
-2021,Number,Länder parliaments,Germany,,603.0
-2022,Number,Länder parliaments,Germany,,632.0
-2023,Number,Länder parliaments,Germany,,632.0
+2010,Percentage,Länder parliaments,,,31.768
+2011,Percentage,Länder parliaments,,,31.651
+2012,Percentage,Länder parliaments,,,31.832
+2013,Percentage,Länder parliaments,,,31.809
+2014,Percentage,Länder parliaments,,,32.364
+2015,Percentage,Länder parliaments,,,31.933
+2016,Percentage,Länder parliaments,,,31.59
+2017,Percentage,Länder parliaments,,,31.027
+2018,Percentage,Länder parliaments,,,30.86
+2019,Percentage,Länder parliaments,,,30.439
+2020,Percentage,Länder parliaments,,,30.782
+2021,Percentage,Länder parliaments,,,31.804
+2022,Percentage,Länder parliaments,,,33.316
+2023,Percentage,Länder parliaments,,,33.316
+2010,Number,Länder parliaments,,,602.0
+2011,Number,Länder parliaments,,,602.0
+2012,Number,Länder parliaments,,,615.0
+2013,Number,Länder parliaments,,,605.0
+2014,Number,Länder parliaments,,,601.0
+2015,Number,Länder parliaments,,,593.0
+2016,Number,Länder parliaments,,,586.0
+2017,Number,Länder parliaments,,,565.0
+2018,Number,Länder parliaments,,,578.0
+2019,Number,Länder parliaments,,,568.0
+2020,Number,Länder parliaments,,,575.0
+2021,Number,Länder parliaments,,,603.0
+2022,Number,Länder parliaments,,,632.0
+2023,Number,Länder parliaments,,,632.0
 2010,Percentage,Councils of districts and district-free cities,,,
 2011,Percentage,Councils of districts and district-free cities,,,26.1
 2012,Percentage,Councils of districts and district-free cities,,,26.1

@@ -1,4 +1,4 @@
-Year,Units,Politische Institutionen,Region,GeoCode,Value
+Year,Units,Politische Institutionen,Bundesland,GeoCode,Value
 2010,Prozent,Deutscher Bundestag,,,32.8
 2011,Prozent,Deutscher Bundestag,,,33.1
 2012,Prozent,Deutscher Bundestag,,,32.9
@@ -503,34 +503,34 @@ Year,Units,Politische Institutionen,Region,GeoCode,Value
 2021,Anzahl,Landtage,Thüringen,code16,28.0
 2022,Anzahl,Landtage,Thüringen,code16,28.0
 2023,Anzahl,Landtage,Thüringen,code16,28.0
-2010,Prozent,Landtage,Deutschland,,31.768
-2011,Prozent,Landtage,Deutschland,,31.651
-2012,Prozent,Landtage,Deutschland,,31.832
-2013,Prozent,Landtage,Deutschland,,31.809
-2014,Prozent,Landtage,Deutschland,,32.364
-2015,Prozent,Landtage,Deutschland,,31.933
-2016,Prozent,Landtage,Deutschland,,31.59
-2017,Prozent,Landtage,Deutschland,,31.027
-2018,Prozent,Landtage,Deutschland,,30.86
-2019,Prozent,Landtage,Deutschland,,30.439
-2020,Prozent,Landtage,Deutschland,,30.782
-2021,Prozent,Landtage,Deutschland,,31.804
-2022,Prozent,Landtage,Deutschland,,33.316
-2023,Prozent,Landtage,Deutschland,,33.316
-2010,Anzahl,Landtage,Deutschland,,602.0
-2011,Anzahl,Landtage,Deutschland,,602.0
-2012,Anzahl,Landtage,Deutschland,,615.0
-2013,Anzahl,Landtage,Deutschland,,605.0
-2014,Anzahl,Landtage,Deutschland,,601.0
-2015,Anzahl,Landtage,Deutschland,,593.0
-2016,Anzahl,Landtage,Deutschland,,586.0
-2017,Anzahl,Landtage,Deutschland,,565.0
-2018,Anzahl,Landtage,Deutschland,,578.0
-2019,Anzahl,Landtage,Deutschland,,568.0
-2020,Anzahl,Landtage,Deutschland,,575.0
-2021,Anzahl,Landtage,Deutschland,,603.0
-2022,Anzahl,Landtage,Deutschland,,632.0
-2023,Anzahl,Landtage,Deutschland,,632.0
+2010,Prozent,Landtage,,,31.768
+2011,Prozent,Landtage,,,31.651
+2012,Prozent,Landtage,,,31.832
+2013,Prozent,Landtage,,,31.809
+2014,Prozent,Landtage,,,32.364
+2015,Prozent,Landtage,,,31.933
+2016,Prozent,Landtage,,,31.59
+2017,Prozent,Landtage,,,31.027
+2018,Prozent,Landtage,,,30.86
+2019,Prozent,Landtage,,,30.439
+2020,Prozent,Landtage,,,30.782
+2021,Prozent,Landtage,,,31.804
+2022,Prozent,Landtage,,,33.316
+2023,Prozent,Landtage,,,33.316
+2010,Anzahl,Landtage,,,602.0
+2011,Anzahl,Landtage,,,602.0
+2012,Anzahl,Landtage,,,615.0
+2013,Anzahl,Landtage,,,605.0
+2014,Anzahl,Landtage,,,601.0
+2015,Anzahl,Landtage,,,593.0
+2016,Anzahl,Landtage,,,586.0
+2017,Anzahl,Landtage,,,565.0
+2018,Anzahl,Landtage,,,578.0
+2019,Anzahl,Landtage,,,568.0
+2020,Anzahl,Landtage,,,575.0
+2021,Anzahl,Landtage,,,603.0
+2022,Anzahl,Landtage,,,632.0
+2023,Anzahl,Landtage,,,632.0
 2010,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,
 2011,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,26.1
 2012,Prozent,Kreistage und Stadträte von kreisfreien Städten,,,26.1
