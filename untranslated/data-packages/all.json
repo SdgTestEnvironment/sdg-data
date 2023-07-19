@@ -1742,6 +1742,17 @@
             "type": "integer"
           },
           {
+            "name": "household expenditures on health",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "greater 10 %",
+                "greater 25 %",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -7389,8 +7400,8 @@
             "constraints": {
               "enum": [
                 "sdg indicator 4.2.2",
-                "sdg-indicator 4.3.1 (youths)",
-                "sdg-indicator 4.3.1 (adults)",
+                "sdg-indicator 4.3.1 (15 to under 25 years)",
+                "sdg-indicator 4.3.1 (15 to under 65 years)",
                 ""
               ]
             }

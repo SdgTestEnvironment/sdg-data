@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "SDG-Indikator 4.2.2",
-                "SDG-Indikator 4.3.1 (Jugendliche)",
-                "SDG-Indikator 4.3.1 (Erwachsene)",
+                "SDG-Indikator 4.3.1 (15 bis unter 25 Jahre)",
+                "SDG-Indikator 4.3.1 (15 bis unter 65 Jahre)",
                 ""
               ]
             },

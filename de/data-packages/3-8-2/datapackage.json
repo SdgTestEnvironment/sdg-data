@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "household expenditures on health",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Größer 10 %",
+                "Größer 25 %",
+                ""
+              ]
+            },
+            "title": "Haushaltsausgaben für Gesundheit"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
