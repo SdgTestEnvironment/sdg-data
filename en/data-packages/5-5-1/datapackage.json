@@ -23,6 +23,12 @@
           {
             "name": "Units",
             "type": "sring",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Number"
+              ]
+            },
             "title": "Units"
           },
           {

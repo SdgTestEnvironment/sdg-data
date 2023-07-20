@@ -4774,7 +4774,13 @@
           },
           {
             "name": "Units",
-            "type": "sring"
+            "type": "sring",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "number"
+              ]
+            }
           },
           {
             "name": "political institutions",
