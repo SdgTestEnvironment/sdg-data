@@ -50,7 +50,7 @@
             "constraints": {
               "enum": [
                 "Germany",
-                "Baden-Württemberg",
+                "baden-wuerttemberg",
                 "Bavaria",
                 "Berlin",
                 "Brandenburg",
@@ -68,7 +68,7 @@
                 "Thuringia"
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",

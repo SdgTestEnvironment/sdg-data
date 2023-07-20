@@ -994,7 +994,7 @@
             "constraints": {
               "enum": [
                 "Anteil der Staatsausgaben, die durch Steuern finanziert werden",
-                "Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsausgaben finanziert werden",
+                "Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsabgaben finanziert werden",
                 ""
               ]
             },
@@ -5199,7 +5199,7 @@
             "constraints": {
               "enum": [
                 "Deutschland",
-                "Baden-Württemberg",
+                "baden-wuerttemberg",
                 "Bayern",
                 "Berlin",
                 "Brandenburg",
@@ -5217,7 +5217,7 @@
                 "Thüringen"
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",
@@ -7559,7 +7559,7 @@
                 "a) population using safely managed sanitation services (%)",
                 "Bevölkerung mit Zugang zu Elektrizität",
                 "Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt",
-                "Haushalte, die mit 3G oder LTE abgedeckt sind",
+                "households covered by 3g or lte",
                 "population that has convenient access to public transport (within 500 meters) (%)",
                 "Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden",
                 ""
