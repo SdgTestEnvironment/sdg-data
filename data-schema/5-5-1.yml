@@ -5,6 +5,10 @@ fields:
     type: integer
   - name: Units
     type: sring
+    constraints:
+      enum:
+        - percentage
+        - number
   - name: political institutions
     type: sring
     constraints:
