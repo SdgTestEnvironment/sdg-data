@@ -4713,6 +4713,38 @@
             "title": "Technologie"
           },
           {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutschland",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                ""
+              ]
+            },
+            "title": "Bundesland"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -8124,8 +8156,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Medium-Hightech",
-                "Hightech",
+                "Medium-High-Tech",
+                "High-Tech",
                 ""
               ]
             },
