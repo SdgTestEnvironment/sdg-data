@@ -24,7 +24,7 @@ Year,technology,länder,GeoCode,Value
 2019,lte,germany,,97.9
 2020,lte,germany,,99.9
 2021,lte,germany,,99.8
-2022,lte,germany,,99.9
+2022,lte,germany,,99.8
 2010,lte,baden-württemberg,code08,
 2011,lte,baden-württemberg,code08,
 2012,lte,baden-württemberg,code08,
@@ -206,7 +206,7 @@ Year,technology,länder,GeoCode,Value
 2019,lte,saxony-anhalt,code15,
 2020,lte,saxony-anhalt,code15,
 2021,lte,saxony-anhalt,code15,99.5
-2022,lte,saxony-anhalt,code15,99.6
+2022,lte,saxony-anhalt,code15,99.8
 2010,lte,schleswig-holstein,code01,
 2011,lte,schleswig-holstein,code01,
 2012,lte,schleswig-holstein,code01,
@@ -220,6 +220,19 @@ Year,technology,länder,GeoCode,Value
 2020,lte,schleswig-holstein,code01,
 2021,lte,schleswig-holstein,code01,100.0
 2022,lte,schleswig-holstein,code01,100.0
+2010,lte,thuringia,code16,
+2011,lte,thuringia,code16,
+2012,lte,thuringia,code16,
+2013,lte,thuringia,code16,
+2014,lte,thuringia,code16,
+2015,lte,thuringia,code16,
+2016,lte,thuringia,code16,
+2017,lte,thuringia,code16,
+2018,lte,thuringia,code16,
+2019,lte,thuringia,code16,
+2020,lte,thuringia,code16,
+2021,lte,thuringia,code16,99.5
+2022,lte,thuringia,code16,99.6
 2010,5g,germany,,
 2011,5g,germany,,
 2012,5g,germany,,
@@ -232,7 +245,7 @@ Year,technology,länder,GeoCode,Value
 2019,5g,germany,,
 2020,5g,germany,,
 2021,5g,germany,,86.3
-2022,5g,germany,,96.9
+2022,5g,germany,,95.1
 2010,5g,baden-württemberg,code08,
 2011,5g,baden-württemberg,code08,
 2012,5g,baden-württemberg,code08,
@@ -413,7 +426,7 @@ Year,technology,länder,GeoCode,Value
 2018,5g,saxony-anhalt,code15,
 2019,5g,saxony-anhalt,code15,
 2020,5g,saxony-anhalt,code15,
-2021,5g,saxony-anhalt,code15,75.3
+2021,5g,saxony-anhalt,code15,75.2
 2022,5g,saxony-anhalt,code15,91.6
 2010,5g,schleswig-holstein,code01,
 2011,5g,schleswig-holstein,code01,
@@ -426,7 +439,7 @@ Year,technology,länder,GeoCode,Value
 2018,5g,schleswig-holstein,code01,
 2019,5g,schleswig-holstein,code01,
 2020,5g,schleswig-holstein,code01,
-2021,5g,schleswig-holstein,code01,85.4
+2021,5g,schleswig-holstein,code01,85.3
 2022,5g,schleswig-holstein,code01,95.3
 2010,5g,thuringia,code16,
 2011,5g,thuringia,code16,
@@ -439,5 +452,5 @@ Year,technology,länder,GeoCode,Value
 2018,5g,thuringia,code16,
 2019,5g,thuringia,code16,
 2020,5g,thuringia,code16,
-2021,5g,thuringia,code16,717.0
+2021,5g,thuringia,code16,71.7
 2022,5g,thuringia,code16,90.4

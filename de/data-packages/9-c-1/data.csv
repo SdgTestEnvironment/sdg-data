@@ -24,7 +24,7 @@ Year,Technologie,Bundesland,GeoCode,Value
 2019,LTE,Deutschland,,97.9
 2020,LTE,Deutschland,,99.9
 2021,LTE,Deutschland,,99.8
-2022,LTE,Deutschland,,99.9
+2022,LTE,Deutschland,,99.8
 2010,LTE,Baden-Württemberg,code08,
 2011,LTE,Baden-Württemberg,code08,
 2012,LTE,Baden-Württemberg,code08,
@@ -206,7 +206,7 @@ Year,Technologie,Bundesland,GeoCode,Value
 2019,LTE,Sachsen-Anhalt,code15,
 2020,LTE,Sachsen-Anhalt,code15,
 2021,LTE,Sachsen-Anhalt,code15,99.5
-2022,LTE,Sachsen-Anhalt,code15,99.6
+2022,LTE,Sachsen-Anhalt,code15,99.8
 2010,LTE,Schleswig-Holstein,code01,
 2011,LTE,Schleswig-Holstein,code01,
 2012,LTE,Schleswig-Holstein,code01,
@@ -220,6 +220,19 @@ Year,Technologie,Bundesland,GeoCode,Value
 2020,LTE,Schleswig-Holstein,code01,
 2021,LTE,Schleswig-Holstein,code01,100.0
 2022,LTE,Schleswig-Holstein,code01,100.0
+2010,LTE,Thüringen,code16,
+2011,LTE,Thüringen,code16,
+2012,LTE,Thüringen,code16,
+2013,LTE,Thüringen,code16,
+2014,LTE,Thüringen,code16,
+2015,LTE,Thüringen,code16,
+2016,LTE,Thüringen,code16,
+2017,LTE,Thüringen,code16,
+2018,LTE,Thüringen,code16,
+2019,LTE,Thüringen,code16,
+2020,LTE,Thüringen,code16,
+2021,LTE,Thüringen,code16,99.5
+2022,LTE,Thüringen,code16,99.6
 2010,5G,Deutschland,,
 2011,5G,Deutschland,,
 2012,5G,Deutschland,,
@@ -232,7 +245,7 @@ Year,Technologie,Bundesland,GeoCode,Value
 2019,5G,Deutschland,,
 2020,5G,Deutschland,,
 2021,5G,Deutschland,,86.3
-2022,5G,Deutschland,,96.9
+2022,5G,Deutschland,,95.1
 2010,5G,Baden-Württemberg,code08,
 2011,5G,Baden-Württemberg,code08,
 2012,5G,Baden-Württemberg,code08,
@@ -413,7 +426,7 @@ Year,Technologie,Bundesland,GeoCode,Value
 2018,5G,Sachsen-Anhalt,code15,
 2019,5G,Sachsen-Anhalt,code15,
 2020,5G,Sachsen-Anhalt,code15,
-2021,5G,Sachsen-Anhalt,code15,75.3
+2021,5G,Sachsen-Anhalt,code15,75.2
 2022,5G,Sachsen-Anhalt,code15,91.6
 2010,5G,Schleswig-Holstein,code01,
 2011,5G,Schleswig-Holstein,code01,
@@ -426,7 +439,7 @@ Year,Technologie,Bundesland,GeoCode,Value
 2018,5G,Schleswig-Holstein,code01,
 2019,5G,Schleswig-Holstein,code01,
 2020,5G,Schleswig-Holstein,code01,
-2021,5G,Schleswig-Holstein,code01,85.4
+2021,5G,Schleswig-Holstein,code01,85.3
 2022,5G,Schleswig-Holstein,code01,95.3
 2010,5G,Thüringen,code16,
 2011,5G,Thüringen,code16,
@@ -439,5 +452,5 @@ Year,Technologie,Bundesland,GeoCode,Value
 2018,5G,Thüringen,code16,
 2019,5G,Thüringen,code16,
 2020,5G,Thüringen,code16,
-2021,5G,Thüringen,code16,717.0
+2021,5G,Thüringen,code16,71.7
 2022,5G,Thüringen,code16,90.4
