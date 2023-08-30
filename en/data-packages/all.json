@@ -30,6 +30,35 @@
             "title": "Time series"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to under 25 years",
+                "25 to under 35 years",
+                "35 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 to under 75 years",
+                "75 years and older",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1178,7 +1207,7 @@
             "constraints": {
               "enum": [
                 "Percentage",
-                "1 000",
+                "number in 1,000",
                 ""
               ]
             },
@@ -1965,25 +1994,11 @@
                 "Population who were exposed to physical violence",
                 "Population who were victims of criminal offences",
                 "Victims of criminal offences",
+                "Population who were exposed to sexual violence",
                 ""
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "13 years and younger",
-                "14 to under 18 years",
-                "18 to under 21 years",
-                "21 to under 60 years",
-                "60 years and older",
-                ""
-              ]
-            },
-            "title": "Age group"
           },
           {
             "name": "sex",
@@ -1996,6 +2011,28 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to under 25 years",
+                "25 to under 35 years",
+                "35 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 to under 75 years",
+                "75 years and older",
+                "13 years and younger",
+                "14 to under 18 years",
+                "18 to under 21 years",
+                "21 to under 60 years",
+                "60 years and older",
+                ""
+              ]
+            },
+            "title": "Age group"
           },
           {
             "name": "Value",
@@ -6136,6 +6173,35 @@
             "title": "Year"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to under 25 years",
+                "25 to under 35 years",
+                "35 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 to under 75 years",
+                "75 years and older",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
             "name": "feelings of insecurity",
             "type": "string",
             "constraints": {
@@ -6154,8 +6220,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Feeling of (in)security of the population in its neighbourhood (after dark)",
                 "Population not living in an area with crime, violence or vandalism",
+                "Feeling of (in)security of the population in its neighbourhood (after dark)",
+                "Feeling of (in)security of the population in its neighbourhood (during the day)",
                 ""
               ]
             },
@@ -6936,17 +7003,17 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "functions",
             "type": "string",
             "constraints": {
               "enum": [
-                "Government expenditure on health",
-                "Government expenditure on education",
-                "Government expenditure on social protection",
+                "Health",
+                "Education",
+                "Social protection",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Functions"
           },
           {
             "name": "Value",
@@ -9426,7 +9493,7 @@
                 "Billion EUR",
                 "Million hours",
                 "2015 = 100",
-                "1 000",
+                "number in 1,000",
                 ""
               ]
             },

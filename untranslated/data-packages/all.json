@@ -28,6 +28,33 @@
             }
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to under 25 years",
+                "25 to under 35 years",
+                "35 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 to under 75 years",
+                "75 years and older",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1082,7 +1109,7 @@
             "constraints": {
               "enum": [
                 "percentage",
-                "1 000",
+                "number in 1,000",
                 ""
               ]
             }
@@ -1805,20 +1832,7 @@
                 "population who were exposed to physical violence",
                 "population who were victims of criminal offences",
                 "victims of criminal offences",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "13 years and younger",
-                "14 to under 18 years",
-                "18 to under 21 years",
-                "21 to under 60 years",
-                "60 years and older",
+                "population who were exposed to sexual violence",
                 ""
               ]
             }
@@ -1830,6 +1844,27 @@
               "enum": [
                 "female",
                 "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to under 25 years",
+                "25 to under 35 years",
+                "35 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 to under 75 years",
+                "75 years and older",
+                "13 years and younger",
+                "14 to under 18 years",
+                "18 to under 21 years",
+                "21 to under 60 years",
+                "60 years and older",
                 ""
               ]
             }
@@ -5631,6 +5666,33 @@
             "type": "integer"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to under 25 years",
+                "25 to under 35 years",
+                "35 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 to under 75 years",
+                "75 years and older",
+                ""
+              ]
+            }
+          },
+          {
             "name": "feelings of insecurity",
             "type": "string",
             "constraints": {
@@ -5648,8 +5710,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "feeling of (in)security of the population in its neighbourhood (after dark)",
                 "population not living in an area with crime, violence or vandalism",
+                "feeling of (in)security of the population in its neighbourhood (after dark)",
+                "feeling of (in)security of the population in its neighbourhood (during the day)",
                 ""
               ]
             }
@@ -6367,13 +6430,13 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "functions",
             "type": "string",
             "constraints": {
               "enum": [
-                "government expenditure on health",
-                "government expenditure on education",
-                "government expenditure on social protection",
+                "health",
+                "education",
+                "social protection",
                 ""
               ]
             }
@@ -8654,7 +8717,7 @@
                 "billion eur",
                 "million hours",
                 "2015 = 100",
-                "1 000",
+                "number in 1,000",
                 ""
               ]
             }

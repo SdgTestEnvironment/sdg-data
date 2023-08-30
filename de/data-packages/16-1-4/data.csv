@@ -1,24 +1,252 @@
-Year,Unsicherheitsgefühl,Series,Value
-2012,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),41.0
-2017,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),36.7
-2020,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.8
-2012,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),41.8
-2017,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),41.9
-2020,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),46.3
-2012,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),12.5
-2017,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),15.2
-2020,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),22.2
-2012,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),4.8
-2017,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),6.3
-2020,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),5.7
-2010,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",88.0
-2011,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",87.1
-2012,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",87.5
-2013,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",86.5
-2014,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",86.9
-2015,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",86.2
-2016,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",85.9
-2017,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",85.8
-2018,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",86.7
-2019,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",86.9
-2020,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",91.8
+Year,Geschlecht,Altersklasse,Unsicherheitsgefühl,Series,Value
+2010,,,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",88.0
+2011,,,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",87.1
+2012,,,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",87.5
+2013,,,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",86.5
+2014,,,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",86.9
+2015,,,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",86.2
+2016,,,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",85.9
+2017,,,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",85.8
+2018,,,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",86.7
+2019,,,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",86.9
+2020,,,,"Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",91.8
+2012,,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),41.0
+2017,,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),36.7
+2020,,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.8
+2012,,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),41.8
+2017,,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),41.9
+2020,,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),46.3
+2012,,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),12.5
+2017,,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),15.2
+2020,,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),22.2
+2012,,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),4.8
+2017,,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),6.3
+2020,,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),5.7
+2019,Weiblich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,Weiblich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,Weiblich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,Weiblich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,Weiblich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,Weiblich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,Weiblich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,Weiblich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,Weiblich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,Weiblich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,Weiblich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,Weiblich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,Männlich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,Männlich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,Männlich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,Männlich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,Männlich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,Männlich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,Männlich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,Männlich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,Männlich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,Männlich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,Männlich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,Männlich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,16 bis unter 25 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,16 bis unter 25 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,16 bis unter 25 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,16 bis unter 25 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,16 bis unter 25 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,16 bis unter 25 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,16 bis unter 25 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,16 bis unter 25 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,16 bis unter 25 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,16 bis unter 25 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,16 bis unter 25 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,16 bis unter 25 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,25 bis unter 35 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,25 bis unter 35 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,25 bis unter 35 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,25 bis unter 35 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,25 bis unter 35 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,25 bis unter 35 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,25 bis unter 35 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,25 bis unter 35 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,25 bis unter 35 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,25 bis unter 35 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,25 bis unter 35 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,25 bis unter 35 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,35 bis unter 45 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,35 bis unter 45 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,35 bis unter 45 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,35 bis unter 45 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,35 bis unter 45 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,35 bis unter 45 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,35 bis unter 45 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,35 bis unter 45 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,35 bis unter 45 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,35 bis unter 45 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,35 bis unter 45 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,35 bis unter 45 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,45 bis unter 55 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,45 bis unter 55 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,45 bis unter 55 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,45 bis unter 55 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,45 bis unter 55 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,45 bis unter 55 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,45 bis unter 55 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,45 bis unter 55 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,45 bis unter 55 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,45 bis unter 55 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,45 bis unter 55 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,45 bis unter 55 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,55 bis unter 65 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,55 bis unter 65 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,55 bis unter 65 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,55 bis unter 65 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,55 bis unter 65 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,55 bis unter 65 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,55 bis unter 65 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,55 bis unter 65 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,55 bis unter 65 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,55 bis unter 65 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,55 bis unter 65 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,55 bis unter 65 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,65 bis unter 75 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,65 bis unter 75 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,65 bis unter 75 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,65 bis unter 75 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,65 bis unter 75 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,65 bis unter 75 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,65 bis unter 75 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,65 bis unter 75 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,65 bis unter 75 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,65 bis unter 75 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,65 bis unter 75 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,65 bis unter 75 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,75 Jahre und älter,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,75 Jahre und älter,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,75 Jahre und älter,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,75 Jahre und älter,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,75 Jahre und älter,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,75 Jahre und älter,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,75 Jahre und älter,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,75 Jahre und älter,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,75 Jahre und älter,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,75 Jahre und älter,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2020,,75 Jahre und älter,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),25.0
+2021,,75 Jahre und älter,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit),
+2019,,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,Weiblich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,Weiblich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,Weiblich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,Weiblich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,Weiblich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,Weiblich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,Weiblich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,Weiblich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,Weiblich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,Weiblich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,Weiblich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,Weiblich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,Männlich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,Männlich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,Männlich,,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,Männlich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,Männlich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,Männlich,,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,Männlich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,Männlich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,Männlich,,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,Männlich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,Männlich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,Männlich,,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,16 bis unter 25 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,16 bis unter 25 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,16 bis unter 25 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,16 bis unter 25 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,16 bis unter 25 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,16 bis unter 25 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,16 bis unter 25 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,16 bis unter 25 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,16 bis unter 25 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,16 bis unter 25 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,16 bis unter 25 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,16 bis unter 25 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,25 bis unter 35 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,25 bis unter 35 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,25 bis unter 35 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,25 bis unter 35 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,25 bis unter 35 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,25 bis unter 35 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,25 bis unter 35 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,25 bis unter 35 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,25 bis unter 35 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,25 bis unter 35 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,25 bis unter 35 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,25 bis unter 35 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,35 bis unter 45 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,35 bis unter 45 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,35 bis unter 45 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,35 bis unter 45 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,35 bis unter 45 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,35 bis unter 45 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,35 bis unter 45 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,35 bis unter 45 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,35 bis unter 45 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,35 bis unter 45 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,35 bis unter 45 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,35 bis unter 45 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,45 bis unter 55 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,45 bis unter 55 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,45 bis unter 55 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,45 bis unter 55 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,45 bis unter 55 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,45 bis unter 55 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,45 bis unter 55 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,45 bis unter 55 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,45 bis unter 55 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,45 bis unter 55 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,45 bis unter 55 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,45 bis unter 55 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,55 bis unter 65 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,55 bis unter 65 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,55 bis unter 65 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,55 bis unter 65 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,55 bis unter 65 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,55 bis unter 65 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,55 bis unter 65 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,55 bis unter 65 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,55 bis unter 65 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,55 bis unter 65 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,55 bis unter 65 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,55 bis unter 65 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,65 bis unter 75 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,65 bis unter 75 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,65 bis unter 75 Jahre,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,65 bis unter 75 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,65 bis unter 75 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,65 bis unter 75 Jahre,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,65 bis unter 75 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,65 bis unter 75 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,65 bis unter 75 Jahre,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,65 bis unter 75 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,65 bis unter 75 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,65 bis unter 75 Jahre,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,75 Jahre und älter,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,75 Jahre und älter,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,75 Jahre und älter,Sehr sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,75 Jahre und älter,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,75 Jahre und älter,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,75 Jahre und älter,Eher sicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,75 Jahre und älter,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,75 Jahre und älter,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,75 Jahre und älter,Eher unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2019,,75 Jahre und älter,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
+2020,,75 Jahre und älter,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),25.0
+2021,,75 Jahre und älter,Sehr unsicher,(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber),
