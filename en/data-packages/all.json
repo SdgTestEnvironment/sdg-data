@@ -8768,6 +8768,18 @@
             "title": "Year"
           },
           {
+            "name": "enterprise definition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Legal entities",
+                "EU enterprise definition",
+                ""
+              ]
+            },
+            "title": "Enterprise definition"
+          },
+          {
             "name": "technology sectors",
             "type": "string",
             "constraints": {
@@ -8781,7 +8793,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

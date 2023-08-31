@@ -8768,6 +8768,18 @@
             "title": "Jahr"
           },
           {
+            "name": "enterprise definition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rechtliche Einheiten",
+                "EU-Unternehmensdefinition",
+                ""
+              ]
+            },
+            "title": "Unternehmensdefinition"
+          },
+          {
             "name": "technology sectors",
             "type": "string",
             "constraints": {
@@ -8781,7 +8793,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
