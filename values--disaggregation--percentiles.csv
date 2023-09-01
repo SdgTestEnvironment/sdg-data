@@ -1,5 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
-divers,2,2
-female,90,33
-male,90,33
-unknown,3,2
+p10,2,1
+p25,2,1
+p5,2,1
+p50,2,1
+p75,2,1
+p90,2,1
+p95,2,1
