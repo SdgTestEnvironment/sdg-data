@@ -840,8 +840,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Commitments",
-                "Gross disbursements",
+                "oda (commitments)",
+                "ODA (gross disbursements)",
                 ""
               ]
             },
@@ -2435,8 +2435,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Commitments",
-                "Gross disbursements",
+                "oda and oof (commitments)",
+                "ODA and OOF (gross disbursements)",
                 ""
               ]
             },
@@ -5516,8 +5516,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Commitments",
-                "Gross disbursements",
+                "oda and oof (commitments)",
+                "ODA and OOF (gross disbursements)",
                 ""
               ]
             },
@@ -5564,8 +5564,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Commitments",
-                "Gross disbursements",
+                "oda and oof (commitments)",
+                "ODA and OOF (gross disbursements)",
                 ""
               ]
             },

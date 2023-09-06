@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen",
-                "Gesamte öffentliche Bruttoausgaben",
+                "oda and oof (commitments)",
+                "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
             },

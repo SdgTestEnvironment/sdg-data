@@ -840,8 +840,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen",
-                "Gesamte öffentliche Bruttoausgaben",
+                "oda (commitments)",
+                "Bruttoentwicklungsausgaben (ODA)",
                 ""
               ]
             },
@@ -2435,8 +2435,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen",
-                "Gesamte öffentliche Bruttoausgaben",
+                "oda and oof (commitments)",
+                "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
             },
@@ -5516,8 +5516,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen",
-                "Gesamte öffentliche Bruttoausgaben",
+                "oda and oof (commitments)",
+                "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
             },
@@ -5564,8 +5564,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen",
-                "Gesamte öffentliche Bruttoausgaben",
+                "oda and oof (commitments)",
+                "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
             },
