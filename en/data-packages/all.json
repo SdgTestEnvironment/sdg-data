@@ -840,8 +840,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (commitments)",
-                "ODA (gross disbursements)",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
@@ -2431,12 +2431,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) for aid for trade",
-                "ODA and OOF (gross disbursement) for aid for trade",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
@@ -3395,8 +3395,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Current tobacco use among persons aged 15 years and older",
-                "Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)",
+                "Current tobacco use",
+                "Current tobacco use (age-standardised to WHO Standard Population)",
                 ""
               ]
             },
@@ -4152,12 +4152,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (gross disbursements) for water and sanitation",
-                "ODA (gross disbursements) for other related purposes",
+                "Water and sanitation",
+                "Other related purposes",
                 ""
               ]
             },
@@ -4534,12 +4534,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (gross disbursements) for scholarships",
-                "ODA (gross disbursements) for imputed student costs",
+                "Scholarships",
+                "Imputed student costs",
                 ""
               ]
             },
@@ -5512,12 +5512,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) to strengthen statistical capacity",
-                "ODA and OOF (gross disbursements) to strengthen statistical capacity",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
@@ -5560,12 +5560,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)",
-                "ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
@@ -8876,12 +8876,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA and OOF (gross disbursements) to infrastructure",
-                "ODA (gross disbursements) to infrastructure",
+                "ODA and OOF (gross disbursements)",
+                "ODA (gross disbursements)",
                 ""
               ]
             },

@@ -48,14 +48,14 @@ Indicator,Disaggregations,Number of disaggregations
 #16-7-2,sex,1
 #17-1-2,timeseries,1
 #17-13-1,timeseries,1
-#17-19-1,timeseries,1
+#17-19-1,time series,1
 #17-19-2,timeseries,1
 #17-2-1,timeseries,1
 #17-6-1,speed,1
 #17-7-1,sector,1
 #17-8-1,"sex, age group",2
-#17-9-1,timeseries,1
-#2-1-1,"sex, percentiles",2
+#17-9-1,time series,1
+#2-1-1,"sex, percentile",2
 #2-2-1,sex,1
 #2-2-2,"timeseries, sex",2
 #2-2-3,age group,1
@@ -85,11 +85,11 @@ Indicator,Disaggregations,Number of disaggregations
 #4-6-1,"skill, level of proficiency",2
 #4-7-1,area2,1
 #4-a-1,facilities,1
-#4-b-1,timeseries,1
+#4-b-1,time series,1
 #5-1-1,area of law,1
 #5-3-1,age group,1
 #5-4-1,"sex, age group",2
-#5-5-1,"länder, political institutions",2
+#5-5-1,"länder, political institution",2
 #5-6-2,thematic area,1
 #5-a-1,"timeseries, ownership",2
 #5-b-1,timeseries,1
@@ -100,7 +100,7 @@ Indicator,Disaggregations,Number of disaggregations
 #6-4-1,economic activity,1
 #6-4-2,water use index,1
 #6-6-1,timeseries,1
-#6-a-1,timeseries,1
+#6-a-1,time series,1
 #7-2-1,timeseries,1
 #8-10-1,timeseries,1
 #8-10-2,type of account,1
@@ -109,11 +109,11 @@ Indicator,Disaggregations,Number of disaggregations
 #8-6-1,sex,1
 #8-7-1,"sex, age group",2
 #8-8-1,"timeseries, sex",2
-#8-a-1,timeseries,1
+#8-a-1,time series,1
 #9-1-2,mode of transport,1
 #9-2-2,"timeseries, sex",2
 #9-4-1,timeseries,1
 #9-5-1,länder,1
-#9-a-1,timeseries,1
+#9-a-1,time series,1
 #9-b-1,"enterprise definition, technology sectors",2
 #9-c-1,"länder, technology",2

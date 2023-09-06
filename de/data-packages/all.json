@@ -840,8 +840,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA)",
-                "Bruttoentwicklungsausgaben",
+                "Zusagen",
+                "Gesamte öffentliche Bruttoausgaben",
                 ""
               ]
             },
@@ -2431,12 +2431,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF) für Handelshilfe",
-                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe",
+                "Zusagen",
+                "Gesamte öffentliche Bruttoausgaben",
                 ""
               ]
             },
@@ -3395,8 +3395,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tabakkonsum in der Bevölkerung ab 15 Jahren",
-                "Tabakkonsum in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)",
+                "Tabakkonsum",
+                "Tabakkonsum (altersstandardisiert auf die WHO-Standardbevölkerung)",
                 ""
               ]
             },
@@ -4152,12 +4152,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär",
-                "Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke",
+                "Wasser und Sanitär",
+                "Verwandte Zwecke",
                 ""
               ]
             },
@@ -4534,12 +4534,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoentwicklungsausgaben (ODA) für Stipendien",
-                "Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten",
+                "Stipendien",
+                "Kalkulatorische Studienplatzkosten",
                 ""
               ]
             },
@@ -5147,7 +5147,7 @@
                 ""
               ]
             },
-            "title": "Art der Finanzströme"
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "Value",
@@ -5512,12 +5512,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten",
-                "Bruttoausgaben (ODA und OOF) zum Ausbau statistischer Kapazitäten",
+                "Zusagen",
+                "Gesamte öffentliche Bruttoausgaben",
                 ""
               ]
             },
@@ -5560,12 +5560,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
-                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)",
+                "Zusagen",
+                "Gesamte öffentliche Bruttoausgaben",
                 ""
               ]
             },
@@ -8876,12 +8876,12 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur",
-                "Bruttoentwicklungsausgaben (ODA) für Infrastruktur",
+                "Bruttoausgaben (ODA und OOF)",
+                "Bruttoentwicklungsausgaben (ODA)",
                 ""
               ]
             },
