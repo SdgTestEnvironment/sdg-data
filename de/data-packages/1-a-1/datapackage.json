@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (commitments)",
+                "Zusagen (ODA)",
                 "Bruttoentwicklungsausgaben (ODA)",
                 ""
               ]

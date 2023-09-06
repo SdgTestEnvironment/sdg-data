@@ -840,7 +840,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (commitments)",
+                "Zusagen (ODA)",
                 "Bruttoentwicklungsausgaben (ODA)",
                 ""
               ]
@@ -2435,7 +2435,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments)",
+                "Zusagen (ODA and OOF)",
                 "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
@@ -5516,7 +5516,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments)",
+                "Zusagen (ODA and OOF)",
                 "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
@@ -5564,7 +5564,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda and oof (commitments)",
+                "Zusagen (ODA and OOF)",
                 "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
