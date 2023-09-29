@@ -28,17 +28,17 @@
             "title": "Units"
           },
           {
-            "name": "domain",
+            "name": "stages of the food chain",
             "type": "string",
             "constraints": {
               "enum": [
-                "Retail/Distribution",
-                "Restaurants and catering services",
+                "Restaurants and food services",
                 "Private households",
+                "Retail and other distribution of food",
                 ""
               ]
             },
-            "title": "Domain"
+            "title": "Stages of the food chain"
           },
           {
             "name": "Value",

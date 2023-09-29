@@ -4785,13 +4785,13 @@
             }
           },
           {
-            "name": "domain",
+            "name": "stages of the food chain",
             "type": "string",
             "constraints": {
               "enum": [
-                "retail/distribution",
-                "restaurants and catering services",
+                "restaurants and food services",
                 "private households",
+                "retail and other distribution of food",
                 ""
               ]
             }

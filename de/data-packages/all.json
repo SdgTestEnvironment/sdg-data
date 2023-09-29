@@ -5212,17 +5212,17 @@
             "title": "Units"
           },
           {
-            "name": "domain",
+            "name": "stages of the food chain",
             "type": "string",
             "constraints": {
               "enum": [
-                "Einzelhandel/Vertrieb",
-                "Gaststätten und Verpflegungsdienste",
+                "Gaststätten und Verpflegungsdienstleistungen",
                 "Private Haushalte",
+                "Einzelhandel und andere Formen des Vertriebs",
                 ""
               ]
             },
-            "title": "Bereich"
+            "title": "Stufen der Lebensmittelkette"
           },
           {
             "name": "Value",
