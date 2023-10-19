@@ -42,7 +42,7 @@
                 "Councils of districts and district-free cities"
               ]
             },
-            "title": "Political institutions"
+            "title": "political institutions"
           },
           {
             "name": "region",
@@ -50,7 +50,7 @@
             "constraints": {
               "enum": [
                 "Germany",
-                "Baden-Württemberg",
+                "baden-wuerttemberg",
                 "Bavaria",
                 "Berlin",
                 "Brandenburg",
@@ -68,7 +68,7 @@
                 "Thuringia"
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",
