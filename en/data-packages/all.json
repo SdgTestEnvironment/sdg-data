@@ -9760,18 +9760,6 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of sustainable managed stocks in all MSY examined stocks",
-                "Proportion of MSY examined in all managed stocks",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "sea",
             "type": "string",
             "constraints": {
@@ -9782,6 +9770,18 @@
               ]
             },
             "title": "Sea"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of sustainable managed stocks in all MSY examined stocks",
+                "MSY examined fish stocks in all managed stocks",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
