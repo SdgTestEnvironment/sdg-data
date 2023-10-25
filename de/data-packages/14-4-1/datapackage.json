@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen",
+                "Nachhaltig befischte Fischbestände in Nord- und Ostsee an allen MSY-untersuchten Beständen",
                 "MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen",
                 ""
               ]
