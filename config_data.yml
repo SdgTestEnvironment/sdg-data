@@ -88,6 +88,17 @@ translations:
 
 hide_empty_metadata: true
 
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - COMMENT_TS
+  observation_attributes:
+    - COMMENT_OBS
+
 
 # Map layers
 # ----------
