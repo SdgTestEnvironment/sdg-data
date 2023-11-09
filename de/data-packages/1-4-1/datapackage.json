@@ -12,37 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "population using safely managed drinking water services (%)",
-                "a) population using safely managed sanitation services (%)",
-                "Bevölkerung mit Zugang zu Elektrizität",
-                "Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt",
-                "households covered by 3g or lte",
-                "population that has convenient access to public transport (within 500 meters) (%)",
-                "Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "technology",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3G",
-                "LTE",
-                ""
-              ]
-            },
-            "title": "Technologie"
           },
           {
             "name": "Value",

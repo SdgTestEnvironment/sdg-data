@@ -26,6 +26,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ""
+              ]
+            }
+          },
+          {
             "name": "type of waste water",
             "type": "string",
             "constraints": {

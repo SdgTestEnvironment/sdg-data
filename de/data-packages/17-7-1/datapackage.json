@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "sector",
             "type": "string",
             "constraints": {

@@ -28,6 +28,18 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "type of biomass",
             "type": "string",
             "constraints": {
