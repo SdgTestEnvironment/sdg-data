@@ -138,6 +138,16 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -305,6 +315,17 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "länder",
@@ -595,6 +616,15 @@
           },
           {
             "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -958,6 +988,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -998,6 +1038,17 @@
               "enum": [
                 "data from na from federal statistical office",
                 "data from lfs from federal statistical office",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
                 ""
               ]
             }
@@ -1206,6 +1257,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1322,6 +1383,16 @@
               "enum": [
                 "megajoule per eur",
                 "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
                 ""
               ]
             }
@@ -1557,6 +1628,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1577,6 +1658,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "education level",
@@ -1840,6 +1931,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "thematic area",
@@ -2448,6 +2549,16 @@
               "enum": [
                 "percentage",
                 "1 000 m³",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
                 ""
               ]
             }
@@ -3069,6 +3180,16 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -3122,6 +3243,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "indicator",
@@ -3836,6 +3967,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -3864,6 +4005,17 @@
               "enum": [
                 "million passenger-kilometre",
                 "million tonne-kilometres",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
                 ""
               ]
             }
@@ -3986,6 +4138,16 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "type of account",
             "type": "string",
             "constraints": {
@@ -4051,6 +4213,15 @@
           },
           {
             "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4548,6 +4719,16 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -4568,6 +4749,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4635,6 +4826,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -4756,6 +4957,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -4885,6 +5096,16 @@
               "enum": [
                 "million eur",
                 "million usd, constant prices (2021)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -5604,6 +5825,15 @@
           },
           {
             "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6581,6 +6811,16 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -6844,6 +7084,15 @@
           },
           {
             "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7323,6 +7572,17 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -7987,6 +8247,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -8150,6 +8420,16 @@
               "enum": [
                 "percentage",
                 "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -9014,6 +9294,17 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -9078,6 +9369,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -9185,6 +9486,16 @@
               "enum": [
                 "branches of payment service providers",
                 "atms of national payment service providers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
