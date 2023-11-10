@@ -1,28 +1,4 @@
-Year,Value,Units,Series,COMMENT_OBS
-2010,1242.0,million tonnes,raw material consumption (rmc),r
-2011,1357.0,million tonnes,raw material consumption (rmc),r
-2012,1279.0,million tonnes,raw material consumption (rmc),r
-2013,1273.0,million tonnes,raw material consumption (rmc),r
-2014,1286.0,million tonnes,raw material consumption (rmc),r
-2015,1238.0,million tonnes,raw material consumption (rmc),r
-2016,1291.0,million tonnes,raw material consumption (rmc),r
-2017,1318.0,million tonnes,raw material consumption (rmc),r
-2018,1319.0,million tonnes,raw material consumption (rmc),
-2010,15.5,tonnes per capita,raw material consumption (rmc),r
-2011,16.9,tonnes per capita,raw material consumption (rmc),r
-2012,15.9,tonnes per capita,raw material consumption (rmc),r
-2013,15.8,tonnes per capita,raw material consumption (rmc),r
-2014,15.9,tonnes per capita,raw material consumption (rmc),r
-2015,15.2,tonnes per capita,raw material consumption (rmc),r
-2016,15.7,tonnes per capita,raw material consumption (rmc),r
-2017,15.9,tonnes per capita,raw material consumption (rmc),r
-2018,15.9,tonnes per capita,raw material consumption (rmc),
-2010,109.1,2015 = 100,raw material consumption per real gdp,r
-2011,114.7,2015 = 100,raw material consumption per real gdp,r
-2012,107.6,2015 = 100,raw material consumption per real gdp,r
-2013,106.7,2015 = 100,raw material consumption per real gdp,r
-2014,105.4,2015 = 100,raw material consumption per real gdp,r
-2015,100.0,2015 = 100,raw material consumption per real gdp,r
-2016,102.0,2015 = 100,raw material consumption per real gdp,r
-2017,101.4,2015 = 100,raw material consumption per real gdp,r
-2018,100.5,2015 = 100,raw material consumption per real gdp,
+Year,Value,Units,Series
+2018,1319.0,million tonnes,raw material consumption (rmc)
+2018,15.9,tonnes per capita,raw material consumption (rmc)
+2018,100.5,2015 = 100,raw material consumption per real gdp

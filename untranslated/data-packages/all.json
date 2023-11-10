@@ -18,7 +18,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -99,7 +105,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "sex",
@@ -147,7 +159,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "sex",
@@ -195,7 +213,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "age group",
@@ -270,7 +294,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "sex",
@@ -328,7 +358,14 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "länder",
@@ -465,7 +502,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "degree of urbanisation",
@@ -632,7 +675,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -786,7 +834,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -933,7 +986,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "time series",
@@ -999,7 +1058,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -1048,7 +1113,14 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "sex",
@@ -1085,7 +1157,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "age group",
@@ -1152,7 +1230,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1263,7 +1346,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -1388,7 +1477,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1439,7 +1534,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "presentation",
@@ -1476,7 +1577,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1513,7 +1620,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ""
+              ]
+            }
           },
           {
             "name": "länder",
@@ -1579,7 +1692,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "fine particulate matter",
@@ -1638,7 +1757,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1664,7 +1789,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "education level",
@@ -1748,7 +1879,14 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1935,7 +2073,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "thematic area",
@@ -2102,7 +2246,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "conversion",
@@ -2216,7 +2366,14 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "type of biomass",
@@ -2487,7 +2644,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2529,7 +2692,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2566,7 +2735,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ""
+              ]
+            }
           },
           {
             "name": "type of waste water",
@@ -2669,7 +2844,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "standard accounting system",
@@ -2718,7 +2899,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2762,7 +2949,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2909,7 +3101,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2935,7 +3133,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2961,7 +3165,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "economic activity",
@@ -3188,7 +3398,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3214,7 +3430,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3273,7 +3495,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "indicator",
@@ -3423,7 +3651,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ""
+              ]
+            }
           },
           {
             "name": "substance",
@@ -3516,7 +3750,14 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "sector",
@@ -3564,7 +3805,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ""
+              ]
+            }
           },
           {
             "name": "sex",
@@ -3653,7 +3900,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3826,7 +4078,14 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3954,7 +4213,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4013,7 +4278,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4050,7 +4321,14 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "mode of transport",
@@ -4171,7 +4449,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "type of account",
@@ -4208,7 +4492,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4252,7 +4542,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4462,7 +4757,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4488,7 +4788,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4532,7 +4838,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4598,7 +4909,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4761,7 +5077,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4787,7 +5109,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4858,7 +5186,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -4928,7 +5262,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -4965,7 +5305,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4991,7 +5337,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -5028,7 +5380,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -5131,7 +5489,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "time series",
@@ -5168,7 +5532,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "sex",
@@ -5250,7 +5620,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "länder",
@@ -5735,7 +6111,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -5761,7 +6142,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "disease",
@@ -5873,7 +6260,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -6212,7 +6604,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -6260,7 +6658,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -6395,7 +6799,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -6609,7 +7019,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -6718,7 +7133,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "function",
@@ -6866,7 +7287,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "age group",
@@ -7123,7 +7550,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -7248,7 +7680,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -7340,7 +7778,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -7410,7 +7854,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "sex",
@@ -7612,7 +8062,14 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -7778,7 +8235,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -7927,7 +8389,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "profession",
@@ -8062,7 +8530,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -8100,7 +8573,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -8148,7 +8627,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -8298,7 +8783,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -8470,7 +8961,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "age group",
@@ -8678,7 +9175,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "disease",
@@ -8883,7 +9386,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "age group",
@@ -8947,7 +9456,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "population",
@@ -9028,7 +9543,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "sea",
@@ -9131,7 +9652,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "sex",
@@ -9320,7 +9847,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -9357,7 +9890,14 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Series",
@@ -9427,7 +9967,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -9541,7 +10087,13 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

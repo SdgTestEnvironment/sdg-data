@@ -34,7 +34,12 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
