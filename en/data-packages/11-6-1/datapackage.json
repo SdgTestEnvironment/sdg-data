@@ -28,17 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "s",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {

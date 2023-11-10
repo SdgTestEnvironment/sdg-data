@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            }
-          },
-          {
             "name": "mode of transport",
             "type": "string",
             "constraints": {

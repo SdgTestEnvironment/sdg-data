@@ -16,17 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "age group",
             "type": "string",
             "constraints": {
