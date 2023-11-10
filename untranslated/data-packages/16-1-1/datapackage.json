@@ -27,13 +27,7 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "age group",

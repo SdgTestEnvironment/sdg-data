@@ -18,12 +18,6 @@
           {
             "name": "COMMENT_OBS",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
             "title": "COMMENT_OBS"
           },
           {

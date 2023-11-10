@@ -16,13 +16,7 @@
           },
           {
             "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "standard accounting system",
