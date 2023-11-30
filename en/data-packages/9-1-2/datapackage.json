@@ -28,18 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "mode of transport",
             "type": "string",
             "constraints": {
