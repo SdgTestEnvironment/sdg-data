@@ -3803,6 +3803,19 @@
             "type": "integer"
           },
           {
+            "name": "section",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "enabling environment",
+                "institutions and participation",
+                "management instruments",
+                "financing",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }

@@ -4143,6 +4143,20 @@
             "title": "Year"
           },
           {
+            "name": "section",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enabling Environment",
+                "Institutions and Participation",
+                "Management Instruments",
+                "Financing",
+                ""
+              ]
+            },
+            "title": "Section"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
