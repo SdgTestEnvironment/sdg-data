@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Enabling Environment",
-                "Institutions and Participation",
+                "Enabling environment",
+                "Institutions and participation",
                 "Management Instruments",
                 "Financing",
                 ""
