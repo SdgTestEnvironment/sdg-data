@@ -4306,7 +4306,7 @@
             "constraints": {
               "enum": [
                 "Bundestag (Lower chamber)",
-                "Bundesrat (upper chamber)",
+                "Bundesrat (Upper chamber)",
                 "Länder parliaments",
                 "Councils of districts and district-free cities"
               ]
@@ -9061,7 +9061,7 @@
               "enum": [
                 "Working-age population",
                 "German Bundestag (lower chamber)",
-                "Bundesrat (upper chamber)",
+                "Bundesrat (Upper chamber)",
                 "Public service",
                 "Judiciary",
                 ""
