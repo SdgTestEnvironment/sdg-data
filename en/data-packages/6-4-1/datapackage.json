@@ -20,24 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2010 = 100",
+                "Percentage",
                 "Euro per m³",
                 ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Change in water-use efficiency",
-                "Water-use efficiency",
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "economic activity",
@@ -51,6 +39,18 @@
               ]
             },
             "title": "Economic activity"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Change in water-use efficiency",
+                "Water-use efficiency",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
