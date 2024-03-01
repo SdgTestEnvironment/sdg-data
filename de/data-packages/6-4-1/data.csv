@@ -1,41 +1,81 @@
-Year,Wirtschaftszweig,Value
-2010,,
-2011,,9.6
-2012,,7.9
-2013,,7.4
-2014,,2.8
-2015,,7.2
-2016,,6.1
-2017,,12.3
-2018,,6.2
-2019,,7.8
-2010,"Land- und Forstwirtschaft, Fischerei",
-2011,"Land- und Forstwirtschaft, Fischerei",23.8
-2012,"Land- und Forstwirtschaft, Fischerei",6.1
-2013,"Land- und Forstwirtschaft, Fischerei",5.9
-2014,"Land- und Forstwirtschaft, Fischerei",6.8
-2015,"Land- und Forstwirtschaft, Fischerei",-10.0
-2016,"Land- und Forstwirtschaft, Fischerei",7.9
-2017,"Land- und Forstwirtschaft, Fischerei",3.4
-2018,"Land- und Forstwirtschaft, Fischerei",-20.2
-2019,"Land- und Forstwirtschaft, Fischerei",-14.5
-2010,MIMEC,
-2011,MIMEC,12.6
-2012,MIMEC,11.5
-2013,MIMEC,8.4
-2014,MIMEC,2.2
-2015,MIMEC,9.2
-2016,MIMEC,8.3
-2017,MIMEC,6.1
-2018,MIMEC,8.6
-2019,MIMEC,8.9
-2010,Dienstleistungen,
-2011,Dienstleistungen,6.7
-2012,Dienstleistungen,2.9
-2013,Dienstleistungen,1.6
-2014,Dienstleistungen,5.9
-2015,Dienstleistungen,5.5
-2016,Dienstleistungen,3.9
-2017,Dienstleistungen,7.5
-2018,Dienstleistungen,4.4
-2019,Dienstleistungen,5.3
+Year,Units,Zeitreihe,Wirtschaftszweig,Value
+2010,2010 = 100,Veränderung der Wassernutzungseffizienz,,
+2011,2010 = 100,Veränderung der Wassernutzungseffizienz,,9.6
+2012,2010 = 100,Veränderung der Wassernutzungseffizienz,,7.9
+2013,2010 = 100,Veränderung der Wassernutzungseffizienz,,7.4
+2014,2010 = 100,Veränderung der Wassernutzungseffizienz,,2.8
+2015,2010 = 100,Veränderung der Wassernutzungseffizienz,,7.2
+2016,2010 = 100,Veränderung der Wassernutzungseffizienz,,6.1
+2017,2010 = 100,Veränderung der Wassernutzungseffizienz,,12.3
+2018,2010 = 100,Veränderung der Wassernutzungseffizienz,,6.2
+2019,2010 = 100,Veränderung der Wassernutzungseffizienz,,7.8
+2010,2010 = 100,Veränderung der Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",
+2011,2010 = 100,Veränderung der Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",23.8
+2012,2010 = 100,Veränderung der Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",6.1
+2013,2010 = 100,Veränderung der Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",5.9
+2014,2010 = 100,Veränderung der Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",6.8
+2015,2010 = 100,Veränderung der Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",-10.0
+2016,2010 = 100,Veränderung der Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",7.9
+2017,2010 = 100,Veränderung der Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",3.4
+2018,2010 = 100,Veränderung der Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",-20.2
+2019,2010 = 100,Veränderung der Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",-14.5
+2010,2010 = 100,Veränderung der Wassernutzungseffizienz,MIMEC,
+2011,2010 = 100,Veränderung der Wassernutzungseffizienz,MIMEC,12.6
+2012,2010 = 100,Veränderung der Wassernutzungseffizienz,MIMEC,11.5
+2013,2010 = 100,Veränderung der Wassernutzungseffizienz,MIMEC,8.4
+2014,2010 = 100,Veränderung der Wassernutzungseffizienz,MIMEC,2.2
+2015,2010 = 100,Veränderung der Wassernutzungseffizienz,MIMEC,9.2
+2016,2010 = 100,Veränderung der Wassernutzungseffizienz,MIMEC,8.3
+2017,2010 = 100,Veränderung der Wassernutzungseffizienz,MIMEC,6.1
+2018,2010 = 100,Veränderung der Wassernutzungseffizienz,MIMEC,8.6
+2019,2010 = 100,Veränderung der Wassernutzungseffizienz,MIMEC,8.9
+2010,2010 = 100,Veränderung der Wassernutzungseffizienz,Dienstleistungen,
+2011,2010 = 100,Veränderung der Wassernutzungseffizienz,Dienstleistungen,6.7
+2012,2010 = 100,Veränderung der Wassernutzungseffizienz,Dienstleistungen,2.9
+2013,2010 = 100,Veränderung der Wassernutzungseffizienz,Dienstleistungen,1.6
+2014,2010 = 100,Veränderung der Wassernutzungseffizienz,Dienstleistungen,5.9
+2015,2010 = 100,Veränderung der Wassernutzungseffizienz,Dienstleistungen,5.5
+2016,2010 = 100,Veränderung der Wassernutzungseffizienz,Dienstleistungen,3.9
+2017,2010 = 100,Veränderung der Wassernutzungseffizienz,Dienstleistungen,7.5
+2018,2010 = 100,Veränderung der Wassernutzungseffizienz,Dienstleistungen,4.4
+2019,2010 = 100,Veränderung der Wassernutzungseffizienz,Dienstleistungen,5.3
+2010,Euro pro m³,Wassernutzungseffizienz,,63.3
+2011,Euro pro m³,Wassernutzungseffizienz,,69.4
+2012,Euro pro m³,Wassernutzungseffizienz,,74.9
+2013,Euro pro m³,Wassernutzungseffizienz,,80.4
+2014,Euro pro m³,Wassernutzungseffizienz,,82.7
+2015,Euro pro m³,Wassernutzungseffizienz,,88.7
+2016,Euro pro m³,Wassernutzungseffizienz,,94.0
+2017,Euro pro m³,Wassernutzungseffizienz,,105.6
+2018,Euro pro m³,Wassernutzungseffizienz,,112.2
+2019,Euro pro m³,Wassernutzungseffizienz,,120.9
+2010,Euro pro m³,Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",3.5
+2011,Euro pro m³,Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",4.3
+2012,Euro pro m³,Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",4.5
+2013,Euro pro m³,Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",4.8
+2014,Euro pro m³,Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",5.1
+2015,Euro pro m³,Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",4.6
+2016,Euro pro m³,Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",5.0
+2017,Euro pro m³,Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",5.2
+2018,Euro pro m³,Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",4.1
+2019,Euro pro m³,Wassernutzungseffizienz,"Land- und Forstwirtschaft, Fischerei",3.5
+2010,Euro pro m³,Wassernutzungseffizienz,MIMEC,26.0
+2011,Euro pro m³,Wassernutzungseffizienz,MIMEC,29.3
+2012,Euro pro m³,Wassernutzungseffizienz,MIMEC,32.6
+2013,Euro pro m³,Wassernutzungseffizienz,MIMEC,35.4
+2014,Euro pro m³,Wassernutzungseffizienz,MIMEC,36.2
+2015,Euro pro m³,Wassernutzungseffizienz,MIMEC,39.5
+2016,Euro pro m³,Wassernutzungseffizienz,MIMEC,42.8
+2017,Euro pro m³,Wassernutzungseffizienz,MIMEC,49.7
+2018,Euro pro m³,Wassernutzungseffizienz,MIMEC,53.9
+2019,Euro pro m³,Wassernutzungseffizienz,MIMEC,58.7
+2010,Euro pro m³,Wassernutzungseffizienz,Dienstleistungen,282.6
+2011,Euro pro m³,Wassernutzungseffizienz,Dienstleistungen,301.5
+2012,Euro pro m³,Wassernutzungseffizienz,Dienstleistungen,310.3
+2013,Euro pro m³,Wassernutzungseffizienz,Dienstleistungen,315.4
+2014,Euro pro m³,Wassernutzungseffizienz,Dienstleistungen,334.1
+2015,Euro pro m³,Wassernutzungseffizienz,Dienstleistungen,352.6
+2016,Euro pro m³,Wassernutzungseffizienz,Dienstleistungen,366.2
+2017,Euro pro m³,Wassernutzungseffizienz,Dienstleistungen,393.7
+2018,Euro pro m³,Wassernutzungseffizienz,Dienstleistungen,411.0
+2019,Euro pro m³,Wassernutzungseffizienz,Dienstleistungen,432.7
