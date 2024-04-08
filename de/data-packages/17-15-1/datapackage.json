@@ -16,6 +16,20 @@
             "title": "Jahr"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ländereigene Ergebnisrahmen und Planungsinstrumente",
+                "Ziele",
+                "Indikatoren",
+                "Daten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
