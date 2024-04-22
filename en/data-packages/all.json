@@ -112,7 +112,7 @@
             "constraints": {
               "enum": [
                 "Germany",
-                "baden-wuerttemberg",
+                "Baden-Württemberg",
                 "Bavaria",
                 "Berlin",
                 "Brandenburg",
@@ -130,7 +130,7 @@
                 "Thuringia"
               ]
             },
-            "title": "region"
+            "title": "Region"
           },
           {
             "name": "GeoCode",
@@ -3724,7 +3724,7 @@
                 "P95"
               ]
             },
-            "title": "percentiles"
+            "title": "Percentiles"
           },
           {
             "name": "sex",

@@ -112,7 +112,7 @@
             "constraints": {
               "enum": [
                 "Deutschland",
-                "baden-wuerttemberg",
+                "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
                 "Brandenburg",
@@ -130,7 +130,7 @@
                 "Thüringen"
               ]
             },
-            "title": "region"
+            "title": "Region"
           },
           {
             "name": "GeoCode",
@@ -3724,7 +3724,7 @@
                 "P95"
               ]
             },
-            "title": "percentiles"
+            "title": "Perzentile"
           },
           {
             "name": "sex",
