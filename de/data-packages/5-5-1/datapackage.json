@@ -50,7 +50,7 @@
             "constraints": {
               "enum": [
                 "Deutschland",
-                "Baden-Württemberg",
+                "baden-wuerttemberg",
                 "Bayern",
                 "Berlin",
                 "Brandenburg",
@@ -68,7 +68,7 @@
                 "Thüringen"
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",

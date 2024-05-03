@@ -112,7 +112,7 @@
             "constraints": {
               "enum": [
                 "Germany",
-                "Baden-Württemberg",
+                "baden-wuerttemberg",
                 "Bavaria",
                 "Berlin",
                 "Brandenburg",
@@ -130,7 +130,7 @@
                 "Thuringia"
               ]
             },
-            "title": "Region"
+            "title": "region"
           },
           {
             "name": "GeoCode",
@@ -909,7 +909,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1688,7 +1688,7 @@
           }
         ]
       },
-      "title": "Anzahl der Festnetz-Breitbandanschlüsse je 100 Einwohner/-innen, nach Geschwindigkeit"
+      "title": "Anzahl der Breitbandanschlüsse je 100 Einwohner/-innen, nach Geschwindigkeit"
     },
     {
       "path": "1-5-3/data.csv",
@@ -1850,11 +1850,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)",
+                "1) Countries that are contracting Parties to the International Treaty on PGRFA",
                 "2) Countries that are parties to the Nagoya Protocol",
-                "3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)",
-                "4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House",
-                "5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to Germany",
+                "3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on PGRFA",
+                "4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House",
+                "Total reported number of SMTAs transferring PGRFA to Germany",
                 ""
               ]
             },
@@ -3038,7 +3038,7 @@
           }
         ]
       },
-      "title": "Indikator der statistischen Kapazitäten für die Überwachung der Nachhaltigkeitsziele"
+      "title": "Indikatoren der statistischen Kapazitäten"
     },
     {
       "path": "17-1-2/data.csv",
@@ -3724,7 +3724,7 @@
                 "P95"
               ]
             },
-            "title": "Percentiles"
+            "title": "percentiles"
           },
           {
             "name": "sex",
@@ -5869,7 +5869,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten a) physischer Gewalt, b) psychischer Gewalt und c) sexueller Gewalt ausgesetzt war"
+      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten a) physischer Gewalt, b) psychischer Gewalt und/oder c) sexueller Gewalt ausgesetzt war"
     },
     {
       "path": "11-a-1/data.csv",
@@ -7300,7 +7300,7 @@
           }
         ]
       },
-      "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten Opfer körperlicher oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Tatort"
+      "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten Opfer nicht-sexueller oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Tatort"
     },
     {
       "path": "9-4-1/data.csv",
@@ -7867,7 +7867,7 @@
           }
         ]
       },
-      "title": "Anteil der Opfer von Gewalttaten in den vorangegangenen 12 Monaten, die den zuständigen Behörden oder anderen offiziell anerkannten Mechanismen zur Konfliktbeilegung diese Gewalt angezeigt haben"
+      "title": "Anteil der Opfer von a) physischer, b) psychischer und/oder c) sexueller Gewalt in den vorangegangenen 12 Monaten, die den zuständigen Behörden oder anderen offiziell anerkannten Mechanismen zur Konfliktbeilegung diese Gewalt angezeigt haben"
     },
     {
       "path": "7-3-1/data.csv",
