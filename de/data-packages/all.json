@@ -6291,20 +6291,27 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "cause of death",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Exposition gegenüber übermäßiger natürlicher Kälte",
+                "Exposition gegenüber Sonnenlicht",
+                "Opfer von Blitzschlag",
+                "Opfer von Erdbeben",
+                "Opfer von Vulkanausbruch",
+                "Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",
+                "Opfer von Sturmkatastrophe",
+                "Opfer von Überschwemmung",
+                "Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Todesursache"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -7559,20 +7566,27 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "cause of death",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Exposition gegenüber übermäßiger natürlicher Kälte",
+                "Exposition gegenüber Sonnenlicht",
+                "Opfer von Blitzschlag",
+                "Opfer von Erdbeben",
+                "Opfer von Vulkanausbruch",
+                "Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",
+                "Opfer von Sturmkatastrophe",
+                "Opfer von Überschwemmung",
+                "Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Todesursache"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -8889,20 +8903,27 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "cause of death",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Exposition gegenüber übermäßiger natürlicher Kälte",
+                "Exposition gegenüber Sonnenlicht",
+                "Opfer von Blitzschlag",
+                "Opfer von Erdbeben",
+                "Opfer von Vulkanausbruch",
+                "Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",
+                "Opfer von Sturmkatastrophe",
+                "Opfer von Überschwemmung",
+                "Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Todesursache"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
