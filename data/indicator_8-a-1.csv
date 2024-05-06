@@ -1,53 +1,53 @@
 Year,Units,time series,Value
-2010,million eur,commitments (oda and oof),3345.1
-2011,million eur,commitments (oda and oof),2681.9
-2012,million eur,commitments (oda and oof),2591.8
-2013,million eur,commitments (oda and oof),3778.8
-2014,million eur,commitments (oda and oof),5803.2
-2015,million eur,commitments (oda and oof),5074.6
-2016,million eur,commitments (oda and oof),5323.7
-2017,million eur,commitments (oda and oof),5053.4
-2018,million eur,commitments (oda and oof),5160.6
-2019,million eur,commitments (oda and oof),6063.6
-2020,million eur,commitments (oda and oof),6911.9
-2021,million eur,commitments (oda and oof),6205.6
-2022,million eur,commitments (oda and oof),7222.2
-2010,million eur,gross disbursements (oda and oof),2280.2
-2011,million eur,gross disbursements (oda and oof),2198.3
-2012,million eur,gross disbursements (oda and oof),1922.8
-2013,million eur,gross disbursements (oda and oof),2589.4
-2014,million eur,gross disbursements (oda and oof),3438.9
-2015,million eur,gross disbursements (oda and oof),4476.5
-2016,million eur,gross disbursements (oda and oof),4030.8
-2017,million eur,gross disbursements (oda and oof),4011.8
-2018,million eur,gross disbursements (oda and oof),3951.5
-2019,million eur,gross disbursements (oda and oof),4389.7
-2020,million eur,gross disbursements (oda and oof),5039.1
-2021,million eur,gross disbursements (oda and oof),4945.3
-2022,million eur,gross disbursements (oda and oof),5907.6
-2010,"million usd, constant prices (2021)",commitments (oda and oof),4826.6
-2011,"million usd, constant prices (2021)",commitments (oda and oof),3828.3
-2012,"million usd, constant prices (2021)",commitments (oda and oof),3645.4
-2013,"million usd, constant prices (2021)",commitments (oda and oof),5212.6
-2014,"million usd, constant prices (2021)",commitments (oda and oof),7858.1
-2015,"million usd, constant prices (2021)",commitments (oda and oof),6746.3
-2016,"million usd, constant prices (2021)",commitments (oda and oof),6984.5
-2017,"million usd, constant prices (2021)",commitments (oda and oof),6531.6
-2018,"million usd, constant prices (2021)",commitments (oda and oof),6539.0
-2019,"million usd, constant prices (2021)",commitments (oda and oof),7523.4
-2020,"million usd, constant prices (2021)",commitments (oda and oof),8423.8
-2021,"million usd, constant prices (2021)",commitments (oda and oof),7338.7
-2022,"million usd, constant prices (2021)",commitments (oda and oof),8080.8
-2010,"million usd, constant prices (2021)",gross disbursements (oda and oof),3290.2
-2011,"million usd, constant prices (2021)",gross disbursements (oda and oof),3137.9
-2012,"million usd, constant prices (2021)",gross disbursements (oda and oof),2704.5
-2013,"million usd, constant prices (2021)",gross disbursements (oda and oof),3571.8
-2014,"million usd, constant prices (2021)",gross disbursements (oda and oof),4656.6
-2015,"million usd, constant prices (2021)",gross disbursements (oda and oof),5951.2
-2016,"million usd, constant prices (2021)",gross disbursements (oda and oof),5288.3
-2017,"million usd, constant prices (2021)",gross disbursements (oda and oof),5185.3
-2018,"million usd, constant prices (2021)",gross disbursements (oda and oof),5007.1
-2019,"million usd, constant prices (2021)",gross disbursements (oda and oof),5446.4
-2020,"million usd, constant prices (2021)",gross disbursements (oda and oof),6141.3
-2021,"million usd, constant prices (2021)",gross disbursements (oda and oof),5848.3
-2022,"million usd, constant prices (2021)",gross disbursements (oda and oof),6609.9
+2010,million eur,commitments (oda),3345.1
+2011,million eur,commitments (oda),2681.9
+2012,million eur,commitments (oda),2591.8
+2013,million eur,commitments (oda),3778.8
+2014,million eur,commitments (oda),5803.2
+2015,million eur,commitments (oda),5074.6
+2016,million eur,commitments (oda),5323.7
+2017,million eur,commitments (oda),5053.4
+2018,million eur,commitments (oda),5160.6
+2019,million eur,commitments (oda),6063.6
+2020,million eur,commitments (oda),6911.9
+2021,million eur,commitments (oda),6205.6
+2022,million eur,commitments (oda),7222.2
+2010,million eur,gross disbursements (oda),2280.2
+2011,million eur,gross disbursements (oda),2198.3
+2012,million eur,gross disbursements (oda),1922.8
+2013,million eur,gross disbursements (oda),2589.4
+2014,million eur,gross disbursements (oda),3438.9
+2015,million eur,gross disbursements (oda),4476.5
+2016,million eur,gross disbursements (oda),4030.8
+2017,million eur,gross disbursements (oda),4011.8
+2018,million eur,gross disbursements (oda),3951.5
+2019,million eur,gross disbursements (oda),4389.7
+2020,million eur,gross disbursements (oda),5039.1
+2021,million eur,gross disbursements (oda),4945.3
+2022,million eur,gross disbursements (oda),5907.6
+2010,"million usd, constant prices (2021)",commitments (oda),4826.6
+2011,"million usd, constant prices (2021)",commitments (oda),3828.3
+2012,"million usd, constant prices (2021)",commitments (oda),3645.4
+2013,"million usd, constant prices (2021)",commitments (oda),5212.6
+2014,"million usd, constant prices (2021)",commitments (oda),7858.1
+2015,"million usd, constant prices (2021)",commitments (oda),6746.3
+2016,"million usd, constant prices (2021)",commitments (oda),6984.5
+2017,"million usd, constant prices (2021)",commitments (oda),6531.6
+2018,"million usd, constant prices (2021)",commitments (oda),6539.0
+2019,"million usd, constant prices (2021)",commitments (oda),7523.4
+2020,"million usd, constant prices (2021)",commitments (oda),8423.8
+2021,"million usd, constant prices (2021)",commitments (oda),7338.7
+2022,"million usd, constant prices (2021)",commitments (oda),8080.8
+2010,"million usd, constant prices (2021)",gross disbursements (oda),3290.2
+2011,"million usd, constant prices (2021)",gross disbursements (oda),3137.9
+2012,"million usd, constant prices (2021)",gross disbursements (oda),2704.5
+2013,"million usd, constant prices (2021)",gross disbursements (oda),3571.8
+2014,"million usd, constant prices (2021)",gross disbursements (oda),4656.6
+2015,"million usd, constant prices (2021)",gross disbursements (oda),5951.2
+2016,"million usd, constant prices (2021)",gross disbursements (oda),5288.3
+2017,"million usd, constant prices (2021)",gross disbursements (oda),5185.3
+2018,"million usd, constant prices (2021)",gross disbursements (oda),5007.1
+2019,"million usd, constant prices (2021)",gross disbursements (oda),5446.4
+2020,"million usd, constant prices (2021)",gross disbursements (oda),6141.3
+2021,"million usd, constant prices (2021)",gross disbursements (oda),5848.3
+2022,"million usd, constant prices (2021)",gross disbursements (oda),6609.9
