@@ -3466,7 +3466,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen Tonnen",
+                "Millionen Tonnen Kohlenstoff",
                 "Prozent",
                 ""
               ]
@@ -4265,6 +4265,17 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
           },
           {
             "name": "Value",
@@ -6152,6 +6163,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Endbewertung",
                 "Rahmenbedingungen",
                 "Institutionen und Beteiligung",
                 "Managementinstrumente",
@@ -6295,6 +6307,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Exposition gegenüber übermäßiger natürlicher Hitze",
                 "Exposition gegenüber übermäßiger natürlicher Kälte",
                 "Exposition gegenüber Sonnenlicht",
                 "Opfer von Blitzschlag",
@@ -7570,6 +7583,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Exposition gegenüber übermäßiger natürlicher Hitze",
                 "Exposition gegenüber übermäßiger natürlicher Kälte",
                 "Exposition gegenüber Sonnenlicht",
                 "Opfer von Blitzschlag",
@@ -8907,6 +8921,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Exposition gegenüber übermäßiger natürlicher Hitze",
                 "Exposition gegenüber übermäßiger natürlicher Kälte",
                 "Exposition gegenüber Sonnenlicht",
                 "Opfer von Blitzschlag",

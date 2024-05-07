@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Exposition gegenüber übermäßiger natürlicher Hitze",
                 "Exposition gegenüber übermäßiger natürlicher Kälte",
                 "Exposition gegenüber Sonnenlicht",
                 "Opfer von Blitzschlag",

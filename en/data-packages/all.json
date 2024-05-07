@@ -3466,7 +3466,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million tonnes",
+                "Million tonnes carbon",
                 "Percentage",
                 ""
               ]
@@ -4265,6 +4265,17 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years and older",
+                ""
+              ]
+            },
+            "title": "Age group"
           },
           {
             "name": "Value",
@@ -6152,6 +6163,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Finale Score",
                 "Enabling environment",
                 "Institutions and participation",
                 "Management Instruments",
@@ -6295,6 +6307,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Exposure to excessive natural heat",
                 "Exposure to excessive natural cold",
                 "Exposure to sunlight",
                 "Victim of lightning",
@@ -7570,6 +7583,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Exposure to excessive natural heat",
                 "Exposure to excessive natural cold",
                 "Exposure to sunlight",
                 "Victim of lightning",
@@ -8907,6 +8921,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Exposure to excessive natural heat",
                 "Exposure to excessive natural cold",
                 "Exposure to sunlight",
                 "Victim of lightning",
