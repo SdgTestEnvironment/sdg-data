@@ -11,6 +11,7 @@ Year,Todesursache,Value
 2019,,0.2
 2020,,0.1
 2021,,0.4
+2022,,0.3
 2010,Exposition gegenüber übermäßiger natürlicher Hitze,0.0
 2011,Exposition gegenüber übermäßiger natürlicher Hitze,0.0
 2012,Exposition gegenüber übermäßiger natürlicher Hitze,0.0
@@ -23,6 +24,7 @@ Year,Todesursache,Value
 2019,Exposition gegenüber übermäßiger natürlicher Hitze,0.0
 2020,Exposition gegenüber übermäßiger natürlicher Hitze,0.0
 2021,Exposition gegenüber übermäßiger natürlicher Hitze,0.0
+2022,Exposition gegenüber übermäßiger natürlicher Hitze,0.0
 2010,Exposition gegenüber übermäßiger natürlicher Kälte,0.2
 2011,Exposition gegenüber übermäßiger natürlicher Kälte,0.1
 2012,Exposition gegenüber übermäßiger natürlicher Kälte,0.2
@@ -35,6 +37,7 @@ Year,Todesursache,Value
 2019,Exposition gegenüber übermäßiger natürlicher Kälte,0.2
 2020,Exposition gegenüber übermäßiger natürlicher Kälte,0.1
 2021,Exposition gegenüber übermäßiger natürlicher Kälte,0.2
+2022,Exposition gegenüber übermäßiger natürlicher Kälte,0.2
 2010,Exposition gegenüber Sonnenlicht,0.0
 2011,Exposition gegenüber Sonnenlicht,
 2012,Exposition gegenüber Sonnenlicht,
@@ -47,6 +50,7 @@ Year,Todesursache,Value
 2019,Exposition gegenüber Sonnenlicht,0.0
 2020,Exposition gegenüber Sonnenlicht,0.0
 2021,Exposition gegenüber Sonnenlicht,0.0
+2022,Exposition gegenüber Sonnenlicht,0.0
 2010,Opfer von Blitzschlag,
 2011,Opfer von Blitzschlag,0.0
 2012,Opfer von Blitzschlag,0.0
@@ -59,6 +63,7 @@ Year,Todesursache,Value
 2019,Opfer von Blitzschlag,
 2020,Opfer von Blitzschlag,0.0
 2021,Opfer von Blitzschlag,0.0
+2022,Opfer von Blitzschlag,0.0
 2010,Opfer von Erdbeben,
 2011,Opfer von Erdbeben,
 2012,Opfer von Erdbeben,
@@ -71,6 +76,7 @@ Year,Todesursache,Value
 2019,Opfer von Erdbeben,
 2020,Opfer von Erdbeben,
 2021,Opfer von Erdbeben,
+2022,Opfer von Erdbeben,
 2010,Opfer von Vulkanausbruch,
 2011,Opfer von Vulkanausbruch,
 2012,Opfer von Vulkanausbruch,
@@ -83,6 +89,7 @@ Year,Todesursache,Value
 2019,Opfer von Vulkanausbruch,
 2020,Opfer von Vulkanausbruch,
 2021,Opfer von Vulkanausbruch,
+2022,Opfer von Vulkanausbruch,
 2010,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",0.0
 2011,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",0.0
 2012,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",0.0
@@ -95,6 +102,7 @@ Year,Todesursache,Value
 2019,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",0.0
 2020,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",
 2021,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",
+2022,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",0.0
 2010,Opfer von Sturmkatastrophe,0.0
 2011,Opfer von Sturmkatastrophe,0.0
 2012,Opfer von Sturmkatastrophe,
@@ -107,6 +115,7 @@ Year,Todesursache,Value
 2019,Opfer von Sturmkatastrophe,0.0
 2020,Opfer von Sturmkatastrophe,0.0
 2021,Opfer von Sturmkatastrophe,
+2022,Opfer von Sturmkatastrophe,0.0
 2010,Opfer von Überschwemmung,
 2011,Opfer von Überschwemmung,
 2012,Opfer von Überschwemmung,
@@ -119,6 +128,7 @@ Year,Todesursache,Value
 2019,Opfer von Überschwemmung,
 2020,Opfer von Überschwemmung,
 2021,Opfer von Überschwemmung,0.2
+2022,Opfer von Überschwemmung,
 2010,Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften,0.0
 2011,Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften,0.0
 2012,Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften,0.0
@@ -131,3 +141,4 @@ Year,Todesursache,Value
 2019,Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften,
 2020,Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften,
 2021,Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften,
+2022,Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften,0.0

@@ -11,6 +11,7 @@ Year,Cause of death,Value
 2019,,0.2
 2020,,0.1
 2021,,0.4
+2022,,0.3
 2010,Exposure to excessive natural heat,0.0
 2011,Exposure to excessive natural heat,0.0
 2012,Exposure to excessive natural heat,0.0
@@ -23,6 +24,7 @@ Year,Cause of death,Value
 2019,Exposure to excessive natural heat,0.0
 2020,Exposure to excessive natural heat,0.0
 2021,Exposure to excessive natural heat,0.0
+2022,Exposure to excessive natural heat,0.0
 2010,Exposure to excessive natural cold,0.2
 2011,Exposure to excessive natural cold,0.1
 2012,Exposure to excessive natural cold,0.2
@@ -35,6 +37,7 @@ Year,Cause of death,Value
 2019,Exposure to excessive natural cold,0.2
 2020,Exposure to excessive natural cold,0.1
 2021,Exposure to excessive natural cold,0.2
+2022,Exposure to excessive natural cold,0.2
 2010,Exposure to sunlight,0.0
 2011,Exposure to sunlight,
 2012,Exposure to sunlight,
@@ -47,6 +50,7 @@ Year,Cause of death,Value
 2019,Exposure to sunlight,0.0
 2020,Exposure to sunlight,0.0
 2021,Exposure to sunlight,0.0
+2022,Exposure to sunlight,0.0
 2010,Victim of lightning,
 2011,Victim of lightning,0.0
 2012,Victim of lightning,0.0
@@ -59,6 +63,7 @@ Year,Cause of death,Value
 2019,Victim of lightning,
 2020,Victim of lightning,0.0
 2021,Victim of lightning,0.0
+2022,Victim of lightning,0.0
 2010,Victim of earthquake,
 2011,Victim of earthquake,
 2012,Victim of earthquake,
@@ -71,6 +76,7 @@ Year,Cause of death,Value
 2019,Victim of earthquake,
 2020,Victim of earthquake,
 2021,Victim of earthquake,
+2022,Victim of earthquake,
 2010,Victim of volcanic eruption,
 2011,Victim of volcanic eruption,
 2012,Victim of volcanic eruption,
@@ -83,6 +89,7 @@ Year,Cause of death,Value
 2019,Victim of volcanic eruption,
 2020,Victim of volcanic eruption,
 2021,Victim of volcanic eruption,
+2022,Victim of volcanic eruption,
 2010,"Victim of avalanche, landslide and other earth movements",0.0
 2011,"Victim of avalanche, landslide and other earth movements",0.0
 2012,"Victim of avalanche, landslide and other earth movements",0.0
@@ -95,6 +102,7 @@ Year,Cause of death,Value
 2019,"Victim of avalanche, landslide and other earth movements",0.0
 2020,"Victim of avalanche, landslide and other earth movements",
 2021,"Victim of avalanche, landslide and other earth movements",
+2022,"Victim of avalanche, landslide and other earth movements",0.0
 2010,Victim of cataclysmic storm,0.0
 2011,Victim of cataclysmic storm,0.0
 2012,Victim of cataclysmic storm,
@@ -107,6 +115,7 @@ Year,Cause of death,Value
 2019,Victim of cataclysmic storm,0.0
 2020,Victim of cataclysmic storm,0.0
 2021,Victim of cataclysmic storm,
+2022,Victim of cataclysmic storm,0.0
 2010,Victim of flood,
 2011,Victim of flood,
 2012,Victim of flood,
@@ -119,6 +128,7 @@ Year,Cause of death,Value
 2019,Victim of flood,
 2020,Victim of flood,
 2021,Victim of flood,0.2
+2022,Victim of flood,
 2010,Exposure to other and unspecified forces of nature,0.0
 2011,Exposure to other and unspecified forces of nature,0.0
 2012,Exposure to other and unspecified forces of nature,0.0
@@ -131,3 +141,4 @@ Year,Cause of death,Value
 2019,Exposure to other and unspecified forces of nature,
 2020,Exposure to other and unspecified forces of nature,
 2021,Exposure to other and unspecified forces of nature,
+2022,Exposure to other and unspecified forces of nature,0.0
