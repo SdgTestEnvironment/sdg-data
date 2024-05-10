@@ -26,6 +26,18 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "s",
+                "e",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
