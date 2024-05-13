@@ -27,9 +27,10 @@
           },
           {
             "name": "test",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Anmerkungstext",
                 ""
               ]
             }
