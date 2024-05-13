@@ -3148,7 +3148,7 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "test",
             "type": "string",
             "constraints": {
               "enum": [

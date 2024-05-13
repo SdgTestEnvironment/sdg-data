@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "test",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "test"
           },
           {
             "name": "Value",
