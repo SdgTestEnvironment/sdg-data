@@ -16,11 +16,23 @@
             "title": "Jahr"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bevölkerung mit Krankenversicherungsschutz",
+                "Arbeitslose Leistungsbezieher",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "test",
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
+                "Anmerkungstext",
                 ""
               ]
             },
