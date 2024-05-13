@@ -28,6 +28,16 @@
             "title": "Time series"
           },
           {
+            "name": "test",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "test"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

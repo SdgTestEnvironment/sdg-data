@@ -28,6 +28,16 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "test",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "test"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
