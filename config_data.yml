@@ -24,7 +24,7 @@ schema_file: _prose.yml
 data_schema:
     class: DataSchemaInputTableSchemaYaml
     source: data-schema/*.yml
-    
+
 observation_attributes:
   - field: COMMENT_OBS
     label:
@@ -43,6 +43,7 @@ indicator_options:
   unit_column: Units
   observation_attributes:
     - COMMENT_OBS
+    - test
 # Source directory
 # ----------------
 # This identifies the directory that holds the 'data' and 'meta' folders.
