@@ -25,6 +25,10 @@ data_schema:
     class: DataSchemaInputTableSchemaYaml
     source: data-schema/*.yml
     
+observation_attributes:
+  - field: COMMENT_OBS
+    label:
+
 indicator_options:
   non_disaggregation_columns:
     - Year
