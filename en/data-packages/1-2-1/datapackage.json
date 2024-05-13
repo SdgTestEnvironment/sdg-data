@@ -16,27 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Population covered by health insurance",
-                "Unemployed persons with unemployment benefits",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Time series"
-          },
-          {
-            "name": "test",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anmerkungstext",
-                ""
-              ]
-            },
-            "title": "test"
+            "title": "Sex"
           },
           {
             "name": "Value",

@@ -3148,22 +3148,12 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "population covered by health insurance",
-                "unemployed persons with unemployment benefits",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "test",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anmerkungstext",
+                "female",
+                "male",
                 ""
               ]
             }
@@ -4400,16 +4390,6 @@
               "enum": [
                 "population covered by health insurance",
                 "unemployed persons with unemployment benefits",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "test",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anmerkungstext",
                 ""
               ]
             }

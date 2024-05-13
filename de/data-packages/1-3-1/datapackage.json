@@ -28,17 +28,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "test",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anmerkungstext",
-                ""
-              ]
-            },
-            "title": "test"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"

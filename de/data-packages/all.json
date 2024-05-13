@@ -3427,27 +3427,16 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit Krankenversicherungsschutz",
-                "Arbeitslose Leistungsbezieher",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "test",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anmerkungstext",
-                ""
-              ]
-            },
-            "title": "test"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -4794,17 +4783,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "test",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anmerkungstext",
-                ""
-              ]
-            },
-            "title": "test"
           },
           {
             "name": "Value",

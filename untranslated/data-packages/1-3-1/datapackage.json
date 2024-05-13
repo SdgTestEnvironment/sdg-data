@@ -26,16 +26,6 @@
             }
           },
           {
-            "name": "test",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anmerkungstext",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
