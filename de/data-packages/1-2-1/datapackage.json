@@ -21,8 +21,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "s",
-                "e",
                 ""
               ]
             },
