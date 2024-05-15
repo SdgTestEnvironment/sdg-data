@@ -3427,7 +3427,7 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3436,7 +3436,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS",
@@ -3444,8 +3444,6 @@
             "constraints": {
               "enum": [
                 "p",
-                "s",
-                "e",
                 ""
               ]
             },

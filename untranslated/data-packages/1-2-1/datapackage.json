@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -31,8 +31,6 @@
             "constraints": {
               "enum": [
                 "p",
-                "s",
-                "e",
                 ""
               ]
             }
