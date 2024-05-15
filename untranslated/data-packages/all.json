@@ -3148,7 +3148,7 @@
             "type": "integer"
           },
           {
-            "name": "sex",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
