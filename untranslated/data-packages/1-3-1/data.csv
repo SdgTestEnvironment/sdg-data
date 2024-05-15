@@ -1,18 +1,18 @@
 Year,timeseries,COMMENT_OBS,Value
-2010,,p,95.3
-2011,,p,94.5
-2012,,p,94.8
-2013,,p,95.1
-2014,,p,95.1
-2015,,p,95.6
-2016,,p,95.1
-2017,,p,94.9
-2018,,p,95.4
-2019,,p,96.1
-2020,,p,96.4
-2021,,p,94.9
-2022,,p,94.7
-2023,,p,95.0
+2010,total,p,95.3
+2011,total,p,94.5
+2012,total,p,94.8
+2013,total,p,95.1
+2014,total,p,95.1
+2015,total,p,95.6
+2016,total,p,95.1
+2017,total,p,94.9
+2018,total,p,95.4
+2019,total,p,96.1
+2020,total,p,96.4
+2021,total,p,94.9
+2022,total,p,94.7
+2023,total,p,95.0
 2010,population covered by health insurance,p,
 2011,population covered by health insurance,p,99.8
 2012,population covered by health insurance,p,

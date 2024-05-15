@@ -4398,6 +4398,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "total",
                 "population covered by health insurance",
                 "unemployed persons with unemployment benefits",
                 ""

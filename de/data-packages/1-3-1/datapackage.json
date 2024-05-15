@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Insgesamt",
                 "Bevölkerung mit Krankenversicherungsschutz",
                 "Arbeitslose Leistungsbezieher",
                 ""
