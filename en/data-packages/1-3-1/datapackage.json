@@ -16,24 +16,26 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Population covered by health insurance",
-                "Unemployed persons with unemployment benefits",
+                "17 and under",
+                "18 to 24",
+                "25 to 49",
+                "50 to 64",
+                "65 and over",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Age"
           },
           {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
-                "s",
+                "estimated",
                 ""
               ]
             },
