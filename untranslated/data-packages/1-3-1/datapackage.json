@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "population covered by health insurance",
-                "unemployed persons with unemployment benefits",
+                "female",
+                "male",
                 ""
               ]
             }
@@ -30,7 +30,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "e",
+                "p",
                 ""
               ]
             }

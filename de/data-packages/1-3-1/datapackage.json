@@ -16,23 +16,23 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit Krankenversicherungsschutz",
-                "Arbeitslose Leistungsbezieher",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Geschlecht"
           },
           {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "e",
+                "p",
                 ""
               ]
             },
