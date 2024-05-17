@@ -6733,8 +6733,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "population covered by health insurance",
+                "unemployed persons with unemployment benefits",
                 ""
               ]
             }
@@ -6751,7 +6751,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
