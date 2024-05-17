@@ -1,42 +1,43 @@
 Year,Sex,COMMENT_OBS,Value
-2010,,p,16.4
-2011,,p,16.8
-2012,,p,17.2
-2013,,p,17.2
-2014,,p,17.4
-2015,,p,17.4
-2016,,p,17.8
-2017,,p,17.1
-2018,,p,16.8
-2019,,p,15.7
-2020,,p,16.8
-2021,,p,16.6
-2022,,p,15.5
-2023,,p,15.0
-2011,Female,p,16.8
-2012,Female,p,17.2
-2013,Female,p,17.2
-2014,Female,p,17.4
-2015,Female,p,17.4
-2016,Female,p,17.8
-2017,Female,p,17.1
-2018,Female,p,16.8
-2019,Female,p,15.7
-2020,Female,p,16.8
-2021,Female,p,16.6
-2022,Female,p,15.5
-2023,Female,p,15.0
-2010,Male,p,14.9
-2011,Male,p,14.9
-2012,Male,p,14.9
-2013,Male,p,15.0
-2014,Male,p,15.9
-2015,Male,p,15.9
-2016,Male,p,15.2
-2017,Male,p,15.0
-2018,Male,p,15.2
-2019,Male,p,13.9
-2020,Male,p,15.3
-2021,Male,p,15.4
-2022,Male,p,14.0
-2023,Male,p,13.6
+2010,,e,16.4
+2011,,e,16.8
+2012,,e,17.2
+2013,,e,17.2
+2014,,e,17.4
+2015,,e,17.4
+2016,,e,17.8
+2017,,e,17.1
+2018,,e,16.8
+2019,,e,15.7
+2020,,e,16.8
+2021,,e,16.6
+2022,,e,15.5
+2023,,e,15.0
+2010,Population covered by health insurance,e,16.8
+2011,Population covered by health insurance,e,16.8
+2012,Population covered by health insurance,e,17.2
+2013,Population covered by health insurance,e,17.2
+2014,Population covered by health insurance,e,17.4
+2015,Population covered by health insurance,e,17.4
+2016,Population covered by health insurance,e,17.8
+2017,Population covered by health insurance,e,17.1
+2018,Population covered by health insurance,e,16.8
+2019,Population covered by health insurance,e,15.7
+2020,Population covered by health insurance,e,16.8
+2021,Population covered by health insurance,e,16.6
+2022,Population covered by health insurance,e,15.5
+2023,Population covered by health insurance,e,15.0
+2010,Unemployed persons with unemployment benefits,e,14.9
+2011,Unemployed persons with unemployment benefits,e,14.9
+2012,Unemployed persons with unemployment benefits,e,14.9
+2013,Unemployed persons with unemployment benefits,e,15.0
+2014,Unemployed persons with unemployment benefits,e,15.9
+2015,Unemployed persons with unemployment benefits,e,15.9
+2016,Unemployed persons with unemployment benefits,e,15.2
+2017,Unemployed persons with unemployment benefits,e,15.0
+2018,Unemployed persons with unemployment benefits,e,15.2
+2019,Unemployed persons with unemployment benefits,e,13.9
+2020,Unemployed persons with unemployment benefits,e,15.3
+2021,Unemployed persons with unemployment benefits,e,15.4
+2022,Unemployed persons with unemployment benefits,e,14.0
+2023,Unemployed persons with unemployment benefits,e,13.6
