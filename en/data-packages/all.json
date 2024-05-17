@@ -7337,7 +7337,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "estimated",
+                "Schatzung",
                 ""
               ]
             },
