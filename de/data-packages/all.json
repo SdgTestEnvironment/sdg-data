@@ -7325,7 +7325,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit Krankenversicherungsschutz",
+                "Weiblich",
                 "Arbeitslose Leistungsbezieher",
                 ""
               ]
