@@ -16,30 +16,57 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Von Armut oder sozialer Ausgrenzung bedrohte Personen",
-                "Armutsgefährdungsquote",
-                "In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen",
-                "Unter erheblicher materieller und sozialer Deprivation leidende Personen",
+                "17 and under",
+                "18 to 24",
+                "25 to 49",
+                "50 to 64",
+                "65 and over",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Age"
           },
           {
-            "name": "sex",
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Geschlecht"
+            "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "estimated",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

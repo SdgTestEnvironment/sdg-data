@@ -15,25 +15,48 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "persons at risk of poverty or social exclusion",
-                "at-risk-of-poverty rate",
-                "persons living in households with very low work intensity",
-                "severely materially and socially deprived persons",
+                "17 and under",
+                "18 to 24",
+                "25 to 49",
+                "50 to 64",
+                "65 and over",
                 ""
               ]
             }
           },
           {
-            "name": "sex",
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "estimated",
                 ""
               ]
             }
@@ -48,5 +71,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-2",
-  "title": "Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen nach der jeweiligen nationalen Definition leben"
+  "title": "global_indicators.1-2-2-title"
 }
