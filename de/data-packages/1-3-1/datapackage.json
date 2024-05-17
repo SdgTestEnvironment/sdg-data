@@ -16,26 +16,24 @@
             "title": "Jahr"
           },
           {
-            "name": "Age",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 and under",
-                "18 to 24",
-                "25 to 49",
-                "50 to 64",
-                "65 and over",
+                "Bevölkerung mit Krankenversicherungsschutz",
+                "Arbeitslose Leistungsbezieher",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Zeitreihe"
           },
           {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "estimated",
+                "p",
+                "s",
                 ""
               ]
             },

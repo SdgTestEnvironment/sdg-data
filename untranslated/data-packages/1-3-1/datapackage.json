@@ -15,15 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 and under",
-                "18 to 24",
-                "25 to 49",
-                "50 to 64",
-                "65 and over",
+                "population covered by health insurance",
+                "unemployed persons with unemployment benefits",
                 ""
               ]
             }
@@ -33,7 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "estimated",
+                "p",
+                "s",
                 ""
               ]
             }
