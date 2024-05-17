@@ -9645,7 +9645,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "estimated",
+                "e",
                 ""
               ]
             },
