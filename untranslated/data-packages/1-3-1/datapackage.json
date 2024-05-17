@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "female",
-                "unemployed persons with unemployment benefits",
+                "male",
                 ""
               ]
             }
