@@ -8857,29 +8857,6 @@
             }
           },
           {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
