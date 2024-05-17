@@ -7337,8 +7337,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
-                "s",
+                "estimated",
                 ""
               ]
             },
