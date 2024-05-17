@@ -1,6 +1,6 @@
 Year,sex,COMMENT_OBS,Value
 2010,,e,1
-2011,,,1
+2011,,e,1
 2012,,e,1
 2013,,e,1
 2014,,e,1
@@ -8,25 +8,25 @@ Year,sex,COMMENT_OBS,Value
 2016,,e,1
 2017,,e,1
 2018,,e,1
-2019,,,1
+2019,,e,1
 2020,,e,1
 2021,,e,1
 2022,,e,1
 2023,,e,1
-2010,population covered by health insurance,,1
-2011,population covered by health insurance,,1
-2012,population covered by health insurance,,1
-2013,population covered by health insurance,,1
-2014,population covered by health insurance,,1
-2015,population covered by health insurance,,1
-2016,population covered by health insurance,,1
-2017,population covered by health insurance,,1
-2018,population covered by health insurance,,1
-2019,population covered by health insurance,,1
-2020,population covered by health insurance,,1
-2021,population covered by health insurance,,1
-2022,population covered by health insurance,,1
-2023,population covered by health insurance,,1
+2010,population covered by health insurance,e,1
+2011,population covered by health insurance,e,1
+2012,population covered by health insurance,e,1
+2013,population covered by health insurance,e,1
+2014,population covered by health insurance,e,1
+2015,population covered by health insurance,e,1
+2016,population covered by health insurance,e,1
+2017,population covered by health insurance,e,1
+2018,population covered by health insurance,e,1
+2019,population covered by health insurance,e,1
+2020,population covered by health insurance,e,1
+2021,population covered by health insurance,e,1
+2022,population covered by health insurance,e,1
+2023,population covered by health insurance,e,1
 2010,unemployed persons with unemployment benefits,e,1
 2011,unemployed persons with unemployment benefits,e,1
 2012,unemployed persons with unemployment benefits,e,1
