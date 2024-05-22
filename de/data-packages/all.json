@@ -252,7 +252,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -1104,7 +1104,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -1399,24 +1399,13 @@
             "title": "Geschlecht"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "e",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der durch sozialen Basisschutz/ Sozialschutzsysteme abgedeckt ist, nach Geschlecht, mit getrennter Ausweisung der Kinder, Arbeitslosen, älteren Menschen, Menschen mit Behinderungen, Schwangeren, Neugeborenen, Opfer von Arbeitsunfällen, Armen und Schwachen"
+      "title": "Anteil der Bevölkerung, der unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
     },
     {
       "path": "11-b-2/data.csv",
@@ -2626,7 +2615,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -2887,7 +2876,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -3162,7 +3151,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -3319,7 +3308,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -5221,7 +5210,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -5512,7 +5501,7 @@
                 "Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital",
                 "Anteil der notleidenden Kredite an den Bruttokrediten insgesamt",
                 "Gesamtkapitalrentabilität",
-                "Verbindlichkeiten",
+                "Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten",
                 "Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln",
                 ""
               ]
@@ -6597,7 +6586,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -6633,7 +6622,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -6759,24 +6748,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "completeness of disaggregation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Vollständigkeit der Disaggregation"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Wert"
           }
         ]
@@ -7321,27 +7328,16 @@
             "title": "Jahr"
           },
           {
-            "name": "sex",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
+                "Bevölkerung mit Krankenversicherungsschutz",
+                "Arbeitslose Leistungsbezieher",
                 ""
               ]
             },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "e",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -7799,7 +7795,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -8488,7 +8484,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -9559,7 +9555,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -9626,57 +9622,30 @@
             "title": "Jahr"
           },
           {
-            "name": "Age",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 and under",
-                "18 to 24",
-                "25 to 49",
-                "50 to 64",
-                "65 and over",
+                "Von Armut oder sozialer Ausgrenzung bedrohte Personen",
+                "Armutsgefährdungsquote",
+                "In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen",
+                "Unter erheblicher materieller und sozialer Deprivation leidende Personen",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Zeitreihe"
           },
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Sex",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "estimated",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -9941,7 +9910,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2021)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },

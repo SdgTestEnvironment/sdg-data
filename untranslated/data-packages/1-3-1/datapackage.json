@@ -15,22 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "sex",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "e",
+                "population covered by health insurance",
+                "unemployed persons with unemployment benefits",
                 ""
               ]
             }

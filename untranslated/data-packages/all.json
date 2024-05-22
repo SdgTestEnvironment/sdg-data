@@ -232,7 +232,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -1015,7 +1015,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -1285,22 +1285,12 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "e",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der durch sozialen Basisschutz/ Sozialschutzsysteme abgedeckt ist, nach Geschlecht, mit getrennter Ausweisung der Kinder, Arbeitslosen, älteren Menschen, Menschen mit Behinderungen, Schwangeren, Neugeborenen, Opfer von Arbeitsunfällen, Armen und Schwachen"
+      "title": "Anteil der Bevölkerung, der unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
     },
     {
       "path": "11-b-2/data.csv",
@@ -2413,7 +2403,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -2653,7 +2643,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -2906,7 +2896,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -3050,7 +3040,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -4799,7 +4789,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -6065,7 +6055,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -6098,7 +6088,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -6214,22 +6204,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "completeness of disaggregation",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -6729,22 +6735,12 @@
             "type": "integer"
           },
           {
-            "name": "sex",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "e",
+                "population covered by health insurance",
+                "unemployed persons with unemployment benefits",
                 ""
               ]
             }
@@ -7167,7 +7163,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -7799,7 +7795,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -8781,7 +8777,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -8842,48 +8838,25 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 and under",
-                "18 to 24",
-                "25 to 49",
-                "50 to 64",
-                "65 and over",
+                "persons at risk of poverty or social exclusion",
+                "at-risk-of-poverty rate",
+                "persons living in households with very low work intensity",
+                "severely materially and socially deprived persons",
                 ""
               ]
             }
           },
           {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "estimated",
+                "female",
+                "male",
                 ""
               ]
             }
@@ -8894,7 +8867,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-2-title"
+      "title": "Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen nach der jeweiligen nationalen Definition leben"
     },
     {
       "path": "17-8-1/data.csv",
@@ -9130,7 +9103,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2021)",
+                "million usd, constant prices (2022)",
                 ""
               ]
             }
