@@ -1,4 +1,4 @@
-Year,Series,Observation status,Unit multiplier,Units,COMMENT_OBS,Value
+Year,Name,Observation status,Unit multiplier,Units,COMMENT_OBS,Value
 2000,Proportion of population below the international poverty line,Estimated value,Units,Percentage (%),Estimated Value,0.2
 2001,Proportion of population below the international poverty line,Estimated value,Units,Percentage (%),Estimated Value,0.2
 2002,Proportion of population below the international poverty line,Estimated value,Units,Percentage (%),Estimated Value,0.2
@@ -20,3 +20,24 @@ Year,Series,Observation status,Unit multiplier,Units,COMMENT_OBS,Value
 2018,Proportion of population below the international poverty line,Estimated value,Units,Percentage (%),Forecasted value,0.5
 2019,Proportion of population below the international poverty line,Estimated value,Units,Percentage (%),Estimated Value,0.5
 2020,Proportion of population below the international poverty line,Estimated value,Units,Percentage (%),Estimated Value,0.5
+2000,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.1
+2001,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.1
+2002,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.1
+2003,Something else,Estimated value,Units,Percentage (%),Forecasted value,0.1
+2004,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.1
+2005,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.1
+2006,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.1
+2007,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.1
+2008,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.1
+2009,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.1
+2010,Something else,Estimated value,Units,Percentage (%),Unvalidated value,0.1
+2011,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.1
+2012,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.2
+2013,Something else,Estimated value,Units,Percentage (%),Unvalidated value,0.2
+2014,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.2
+2015,Something else,Estimated value,Units,Percentage (%),Forecasted value,0.2
+2016,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.2
+2017,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.2
+2018,Something else,Estimated value,Units,Percentage (%),Forecasted value,0.5
+2019,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.5
+2020,Something else,Estimated value,Units,Percentage (%),Estimated Value,0.5
