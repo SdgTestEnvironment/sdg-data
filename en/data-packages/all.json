@@ -9601,25 +9601,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Persons at risk of poverty or social exclusion",
-                "At-risk-of-poverty rate",
-                "Persons living in households with very low work intensity",
-                "Severely materially and socially deprived persons",
+                "17 and under",
+                "18 to 24",
+                "25 to 49",
+                "50 to 64",
+                "65 and over",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Age"
           },
           {
-            "name": "sex",
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9629,6 +9635,27 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "estimated",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
