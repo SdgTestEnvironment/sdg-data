@@ -8893,6 +8893,7 @@
             "constraints": {
               "enum": [
                 "Estimated Value",
+                "Calculated Value",
                 ""
               ]
             }
