@@ -1,6 +1,7 @@
 Disaggregation,Number of indicators,Number of values
 age group,19,38
 age of mother,1,2
+Age,1,5
 area of law,1,4
 area2,3,4
 availability,1,2
@@ -41,7 +42,8 @@ proportion of household expenditures on health,1,2
 sea,1,2
 section,1,5
 sector,1,2
-sex,32,4
+sex,31,4
+Sex,1,2
 skill,1,2
 speed,1,5
 stages of the food chain,1,3
