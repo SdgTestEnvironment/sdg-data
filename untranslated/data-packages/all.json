@@ -1274,48 +1274,12 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 and under",
-                "18 to 24",
-                "25 to 49",
-                "50 to 64",
-                "65 and over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "estimated",
+                "female",
+                "male",
                 ""
               ]
             }
@@ -8859,41 +8823,25 @@
             "type": "integer"
           },
           {
-            "name": "Name",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population below the international poverty line",
-                "Something else",
+                "persons at risk of poverty or social exclusion",
+                "at-risk-of-poverty rate",
+                "persons living in households with very low work intensity",
+                "severely materially and socially deprived persons",
                 ""
               ]
             }
           },
           {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Units",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Estimated Value",
-                "Calculated Value",
+                "female",
+                "male",
                 ""
               ]
             }

@@ -1387,57 +1387,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Age",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 and under",
-                "18 to 24",
-                "25 to 49",
-                "50 to 64",
-                "65 and over",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "Age"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "estimated",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -9646,49 +9605,30 @@
             "title": "Jahr"
           },
           {
-            "name": "Name",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population below the international poverty line",
-                "Something else",
+                "Von Armut oder sozialer Ausgrenzung bedrohte Personen",
+                "Armutsgefährdungsquote",
+                "In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen",
+                "Unter erheblicher materieller und sozialer Deprivation leidende Personen",
                 ""
               ]
             },
-            "title": "Name"
+            "title": "Zeitreihe"
           },
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "Units"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Estimated Value",
-                "Calculated Value",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",

@@ -1,199 +1,43 @@
-Year,Age,Observation status,Sex,Unit measure,Unit multiplier,COMMENT_OBS,Value
-2008,,Normal value,,Percentage (%),Units,estimated,8.5
-2009,,Normal value,,Percentage (%),Units,estimated,8.0
-2010,,Normal value,,Percentage (%),Units,estimated,7.4
-2011,,Normal value,,Percentage (%),Units,estimated,6.9
-2012,,Normal value,,Percentage (%),Units,estimated,8.6
-2013,,Normal value,,Percentage (%),Units,estimated,7.8
-2014,,Normal value,,Percentage (%),Units,estimated,6.5
-2015,,Normal value,,Percentage (%),Units,estimated,7.3
-2016,,Normal value,,Percentage (%),Units,estimated,9.4
-2017,,Normal value,,Percentage (%),Units,estimated,7.8
-2018,,Normal value,,Percentage (%),Units,estimated,8.6
-2008,17 and under,Normal value,,Percentage (%),Units,estimated,12.8
-2009,17 and under,Normal value,,Percentage (%),Units,estimated,10.9
-2010,17 and under,Normal value,,Percentage (%),Units,estimated,7.6
-2011,17 and under,Normal value,,Percentage (%),Units,estimated,7.6
-2012,17 and under,Normal value,,Percentage (%),Units,estimated,6.8
-2013,17 and under,Normal value,,Percentage (%),Units,estimated,6.3
-2014,17 and under,Normal value,,Percentage (%),Units,estimated,9.1
-2015,17 and under,Normal value,,Percentage (%),Units,estimated,7.8
-2016,17 and under,Normal value,,Percentage (%),Units,estimated,12.6
-2017,17 and under,Normal value,,Percentage (%),Units,estimated,7.4
-2018,17 and under,Normal value,,Percentage (%),Units,estimated,11.4
-2008,18 to 24,Normal value,,Percentage (%),Units,estimated,5.1
-2009,18 to 24,Normal value,,Percentage (%),Units,estimated,7.0
-2010,18 to 24,Normal value,,Percentage (%),Units,estimated,12.5
-2011,18 to 24,Normal value,,Percentage (%),Units,estimated,9.7
-2012,18 to 24,Normal value,,Percentage (%),Units,estimated,14.9
-2013,18 to 24,Normal value,,Percentage (%),Units,estimated,13.4
-2014,18 to 24,Normal value,,Percentage (%),Units,estimated,5.8
-2015,18 to 24,Normal value,,Percentage (%),Units,estimated,10.6
-2016,18 to 24,Normal value,,Percentage (%),Units,estimated,21.3
-2017,18 to 24,Normal value,,Percentage (%),Units,estimated,13.8
-2018,18 to 24,Normal value,,Percentage (%),Units,estimated,12.0
-2008,25 to 49,Normal value,,Percentage (%),Units,estimated,5.2
-2009,25 to 49,Normal value,,Percentage (%),Units,estimated,5.9
-2010,25 to 49,Normal value,,Percentage (%),Units,estimated,5.1
-2011,25 to 49,Normal value,,Percentage (%),Units,estimated,4.1
-2012,25 to 49,Normal value,,Percentage (%),Units,estimated,7.1
-2013,25 to 49,Normal value,,Percentage (%),Units,estimated,5.5
-2014,25 to 49,Normal value,,Percentage (%),Units,estimated,5.1
-2015,25 to 49,Normal value,,Percentage (%),Units,estimated,4.5
-2016,25 to 49,Normal value,,Percentage (%),Units,estimated,7.3
-2017,25 to 49,Normal value,,Percentage (%),Units,estimated,5.3
-2018,25 to 49,Normal value,,Percentage (%),Units,estimated,7.3
-2008,50 to 64,Normal value,,Percentage (%),Units,estimated,6.0
-2009,50 to 64,Normal value,,Percentage (%),Units,estimated,6.6
-2010,50 to 64,Normal value,,Percentage (%),Units,estimated,4.8
-2011,50 to 64,Normal value,,Percentage (%),Units,estimated,5.4
-2012,50 to 64,Normal value,,Percentage (%),Units,estimated,8.0
-2013,50 to 64,Normal value,,Percentage (%),Units,estimated,8.6
-2014,50 to 64,Normal value,,Percentage (%),Units,estimated,3.7
-2015,50 to 64,Normal value,,Percentage (%),Units,estimated,7.7
-2016,50 to 64,Normal value,,Percentage (%),Units,estimated,6.7
-2017,50 to 64,Normal value,,Percentage (%),Units,estimated,8.0
-2018,50 to 64,Normal value,,Percentage (%),Units,estimated,7.5
-2008,65 and over,Normal value,,Percentage (%),Units,estimated,14.4
-2009,65 and over,Normal value,,Percentage (%),Units,estimated,11.3
-2010,65 and over,Normal value,,Percentage (%),Units,estimated,11.9
-2011,65 and over,Normal value,,Percentage (%),Units,estimated,11.6
-2012,65 and over,Normal value,,Percentage (%),Units,estimated,10.9
-2013,65 and over,Normal value,,Percentage (%),Units,estimated,10.1
-2014,65 and over,Normal value,,Percentage (%),Units,estimated,9.1
-2015,65 and over,Normal value,,Percentage (%),Units,estimated,9.8
-2016,65 and over,Normal value,,Percentage (%),Units,estimated,8.7
-2017,65 and over,Normal value,,Percentage (%),Units,estimated,9.5
-2018,65 and over,Normal value,,Percentage (%),Units,estimated,8.1
-2008,,Normal value,Female,Percentage (%),Units,estimated,9.2
-2009,,Normal value,Female,Percentage (%),Units,estimated,8.3
-2010,,Normal value,Female,Percentage (%),Units,estimated,7.7
-2011,,Normal value,Female,Percentage (%),Units,estimated,7.8
-2012,,Normal value,Female,Percentage (%),Units,estimated,9.1
-2013,,Normal value,Female,Percentage (%),Units,estimated,8.6
-2014,,Normal value,Female,Percentage (%),Units,estimated,7.2
-2015,,Normal value,Female,Percentage (%),Units,estimated,8.2
-2016,,Normal value,Female,Percentage (%),Units,estimated,9.9
-2017,,Normal value,Female,Percentage (%),Units,estimated,8.8
-2018,,Normal value,Female,Percentage (%),Units,estimated,9.1
-2008,17 and under,Normal value,Female,Percentage (%),Units,estimated,12.2
-2009,17 and under,Normal value,Female,Percentage (%),Units,estimated,10.9
-2010,17 and under,Normal value,Female,Percentage (%),Units,estimated,7.5
-2011,17 and under,Normal value,Female,Percentage (%),Units,estimated,8.3
-2012,17 and under,Normal value,Female,Percentage (%),Units,estimated,5.1
-2013,17 and under,Normal value,Female,Percentage (%),Units,estimated,7.8
-2014,17 and under,Normal value,Female,Percentage (%),Units,estimated,9.6
-2015,17 and under,Normal value,Female,Percentage (%),Units,estimated,9.5
-2016,17 and under,Normal value,Female,Percentage (%),Units,estimated,16.1
-2017,17 and under,Normal value,Female,Percentage (%),Units,estimated,8.6
-2018,17 and under,Normal value,Female,Percentage (%),Units,estimated,11.8
-2008,18 to 24,Normal value,Female,Percentage (%),Units,estimated,4.6
-2009,18 to 24,Normal value,Female,Percentage (%),Units,estimated,7.1
-2010,18 to 24,Normal value,Female,Percentage (%),Units,estimated,10.5
-2011,18 to 24,Normal value,Female,Percentage (%),Units,estimated,5.3
-2012,18 to 24,Normal value,Female,Percentage (%),Units,estimated,10.8
-2013,18 to 24,Normal value,Female,Percentage (%),Units,estimated,14.5
-2014,18 to 24,Normal value,Female,Percentage (%),Units,estimated,9.4
-2015,18 to 24,Normal value,Female,Percentage (%),Units,estimated,9.9
-2016,18 to 24,Normal value,Female,Percentage (%),Units,estimated,14.8
-2017,18 to 24,Normal value,Female,Percentage (%),Units,estimated,12.9
-2018,18 to 24,Normal value,Female,Percentage (%),Units,estimated,12.4
-2008,25 to 49,Normal value,Female,Percentage (%),Units,estimated,5.9
-2009,25 to 49,Normal value,Female,Percentage (%),Units,estimated,6.5
-2010,25 to 49,Normal value,Female,Percentage (%),Units,estimated,4.9
-2011,25 to 49,Normal value,Female,Percentage (%),Units,estimated,5.4
-2012,25 to 49,Normal value,Female,Percentage (%),Units,estimated,7.7
-2013,25 to 49,Normal value,Female,Percentage (%),Units,estimated,5.9
-2014,25 to 49,Normal value,Female,Percentage (%),Units,estimated,5.8
-2015,25 to 49,Normal value,Female,Percentage (%),Units,estimated,5.8
-2016,25 to 49,Normal value,Female,Percentage (%),Units,estimated,7.5
-2017,25 to 49,Normal value,Female,Percentage (%),Units,estimated,6.7
-2018,25 to 49,Normal value,Female,Percentage (%),Units,estimated,8.2
-2008,50 to 64,Normal value,Female,Percentage (%),Units,estimated,6.5
-2009,50 to 64,Normal value,Female,Percentage (%),Units,estimated,6.1
-2010,50 to 64,Normal value,Female,Percentage (%),Units,estimated,5.5
-2011,50 to 64,Normal value,Female,Percentage (%),Units,estimated,5.4
-2012,50 to 64,Normal value,Female,Percentage (%),Units,estimated,9.2
-2013,50 to 64,Normal value,Female,Percentage (%),Units,estimated,7.0
-2014,50 to 64,Normal value,Female,Percentage (%),Units,estimated,3.9
-2015,50 to 64,Normal value,Female,Percentage (%),Units,estimated,6.8
-2016,50 to 64,Normal value,Female,Percentage (%),Units,estimated,7.3
-2017,50 to 64,Normal value,Female,Percentage (%),Units,estimated,7.9
-2018,50 to 64,Normal value,Female,Percentage (%),Units,estimated,7.3
-2008,65 and over,Normal value,Female,Percentage (%),Units,estimated,16.6
-2009,65 and over,Normal value,Female,Percentage (%),Units,estimated,12.4
-2010,65 and over,Normal value,Female,Percentage (%),Units,estimated,13.6
-2011,65 and over,Normal value,Female,Percentage (%),Units,estimated,13.9
-2012,65 and over,Normal value,Female,Percentage (%),Units,estimated,13.1
-2013,65 and over,Normal value,Female,Percentage (%),Units,estimated,12.7
-2014,65 and over,Normal value,Female,Percentage (%),Units,estimated,9.8
-2015,65 and over,Normal value,Female,Percentage (%),Units,estimated,11.8
-2016,65 and over,Normal value,Female,Percentage (%),Units,estimated,10.1
-2017,65 and over,Normal value,Female,Percentage (%),Units,estimated,12.0
-2018,65 and over,Normal value,Female,Percentage (%),Units,estimated,9.3
-2008,,Normal value,Male,Percentage (%),Units,estimated,7.7
-2009,,Normal value,Male,Percentage (%),Units,estimated,7.6
-2010,,Normal value,Male,Percentage (%),Units,estimated,7.0
-2011,,Normal value,Male,Percentage (%),Units,estimated,6.1
-2012,,Normal value,Male,Percentage (%),Units,estimated,8.1
-2013,,Normal value,Male,Percentage (%),Units,estimated,7.0
-2014,,Normal value,Male,Percentage (%),Units,estimated,5.7
-2015,,Normal value,Male,Percentage (%),Units,estimated,6.3
-2016,,Normal value,Male,Percentage (%),Units,estimated,8.9
-2017,,Normal value,Male,Percentage (%),Units,estimated,6.7
-2018,,Normal value,Male,Percentage (%),Units,estimated,8.0
-2008,17 and under,Normal value,Male,Percentage (%),Units,estimated,13.3
-2009,17 and under,Normal value,Male,Percentage (%),Units,estimated,11.0
-2010,17 and under,Normal value,Male,Percentage (%),Units,estimated,7.6
-2011,17 and under,Normal value,Male,Percentage (%),Units,estimated,6.9
-2012,17 and under,Normal value,Male,Percentage (%),Units,estimated,8.3
-2013,17 and under,Normal value,Male,Percentage (%),Units,estimated,4.8
-2014,17 and under,Normal value,Male,Percentage (%),Units,estimated,8.7
-2015,17 and under,Normal value,Male,Percentage (%),Units,estimated,6.2
-2016,17 and under,Normal value,Male,Percentage (%),Units,estimated,9.8
-2017,17 and under,Normal value,Male,Percentage (%),Units,estimated,6.3
-2018,17 and under,Normal value,Male,Percentage (%),Units,estimated,11.0
-2008,18 to 24,Normal value,Male,Percentage (%),Units,estimated,5.7
-2009,18 to 24,Normal value,Male,Percentage (%),Units,estimated,6.8
-2010,18 to 24,Normal value,Male,Percentage (%),Units,estimated,14.5
-2011,18 to 24,Normal value,Male,Percentage (%),Units,estimated,12.7
-2012,18 to 24,Normal value,Male,Percentage (%),Units,estimated,18.2
-2013,18 to 24,Normal value,Male,Percentage (%),Units,estimated,12.5
-2014,18 to 24,Normal value,Male,Percentage (%),Units,estimated,2.6
-2015,18 to 24,Normal value,Male,Percentage (%),Units,estimated,11.0
-2016,18 to 24,Normal value,Male,Percentage (%),Units,estimated,27.3
-2017,18 to 24,Normal value,Male,Percentage (%),Units,estimated,14.4
-2018,18 to 24,Normal value,Male,Percentage (%),Units,estimated,11.7
-2008,25 to 49,Normal value,Male,Percentage (%),Units,estimated,4.4
-2009,25 to 49,Normal value,Male,Percentage (%),Units,estimated,5.2
-2010,25 to 49,Normal value,Male,Percentage (%),Units,estimated,5.4
-2011,25 to 49,Normal value,Male,Percentage (%),Units,estimated,2.6
-2012,25 to 49,Normal value,Male,Percentage (%),Units,estimated,6.4
-2013,25 to 49,Normal value,Male,Percentage (%),Units,estimated,5.1
-2014,25 to 49,Normal value,Male,Percentage (%),Units,estimated,4.4
-2015,25 to 49,Normal value,Male,Percentage (%),Units,estimated,3.1
-2016,25 to 49,Normal value,Male,Percentage (%),Units,estimated,7.1
-2017,25 to 49,Normal value,Male,Percentage (%),Units,estimated,3.7
-2018,25 to 49,Normal value,Male,Percentage (%),Units,estimated,6.3
-2008,50 to 64,Normal value,Male,Percentage (%),Units,estimated,5.5
-2009,50 to 64,Normal value,Male,Percentage (%),Units,estimated,7.2
-2010,50 to 64,Normal value,Male,Percentage (%),Units,estimated,4.1
-2011,50 to 64,Normal value,Male,Percentage (%),Units,estimated,5.3
-2012,50 to 64,Normal value,Male,Percentage (%),Units,estimated,6.7
-2013,50 to 64,Normal value,Male,Percentage (%),Units,estimated,10.2
-2014,50 to 64,Normal value,Male,Percentage (%),Units,estimated,3.5
-2015,50 to 64,Normal value,Male,Percentage (%),Units,estimated,8.5
-2016,50 to 64,Normal value,Male,Percentage (%),Units,estimated,6.0
-2017,50 to 64,Normal value,Male,Percentage (%),Units,estimated,8.2
-2018,50 to 64,Normal value,Male,Percentage (%),Units,estimated,7.6
-2008,65 and over,Normal value,Male,Percentage (%),Units,estimated,11.5
-2009,65 and over,Normal value,Male,Percentage (%),Units,estimated,10.0
-2010,65 and over,Normal value,Male,Percentage (%),Units,estimated,9.8
-2011,65 and over,Normal value,Male,Percentage (%),Units,estimated,8.8
-2012,65 and over,Normal value,Male,Percentage (%),Units,estimated,8.2
-2013,65 and over,Normal value,Male,Percentage (%),Units,estimated,7.0
-2014,65 and over,Normal value,Male,Percentage (%),Units,estimated,8.2
-2015,65 and over,Normal value,Male,Percentage (%),Units,estimated,7.3
-2016,65 and over,Normal value,Male,Percentage (%),Units,estimated,7.1
-2017,65 and over,Normal value,Male,Percentage (%),Units,estimated,6.9
-2018,65 and over,Normal value,Male,Percentage (%),Units,estimated,6.7
+Year,sex,Value
+2010,,15.6
+2011,,15.8
+2012,,16.1
+2013,,16.1
+2014,,16.7
+2015,,16.7
+2016,,16.5
+2017,,16.1
+2018,,16.0
+2019,,14.8
+2020,,16.1
+2021,,16.0
+2022,,14.8
+2023,,14.3
+2010,female,16.4
+2011,female,16.8
+2012,female,17.2
+2013,female,17.2
+2014,female,17.4
+2015,female,17.4
+2016,female,17.8
+2017,female,17.1
+2018,female,16.8
+2019,female,15.7
+2020,female,16.8
+2021,female,16.6
+2022,female,15.5
+2023,female,15.0
+2010,male,14.9
+2011,male,14.9
+2012,male,14.9
+2013,male,15.0
+2014,male,15.9
+2015,male,15.9
+2016,male,15.2
+2017,male,15.0
+2018,male,15.2
+2019,male,13.9
+2020,male,15.3
+2021,male,15.4
+2022,male,14.0
+2023,male,13.6

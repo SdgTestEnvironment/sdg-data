@@ -16,49 +16,30 @@
             "title": "Year"
           },
           {
-            "name": "Name",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population below the international poverty line",
-                "Something else",
+                "Persons at risk of poverty or social exclusion",
+                "At-risk-of-poverty rate",
+                "Persons living in households with very low work intensity",
+                "Severely materially and socially deprived persons",
                 ""
               ]
             },
-            "title": "Name"
+            "title": "Time series"
           },
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%)",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Units"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Estimated Value",
-                "Calculated Value",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
+            "title": "Sex"
           },
           {
             "name": "Value",
