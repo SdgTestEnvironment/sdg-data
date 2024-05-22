@@ -9605,15 +9605,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Series",
+            "name": "Name",
             "type": "string",
             "constraints": {
               "enum": [
                 "Proportion of population below the international poverty line",
+                "Something else",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Name"
           },
           {
             "name": "Observation status",
