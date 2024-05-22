@@ -9642,6 +9642,8 @@
             "constraints": {
               "enum": [
                 "Estimated Value",
+                "Forecasted value",
+                "Unvalidated value",
                 ""
               ]
             },
