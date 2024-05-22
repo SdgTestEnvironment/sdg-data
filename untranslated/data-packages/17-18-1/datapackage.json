@@ -12,38 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
+            "type": "integer"
           },
           {
             "name": "completeness of disaggregation",
             "type": "string",
             "constraints": {
               "enum": [
+                "fully disaggregated",
+                "partially disaggregated",
+                "not disaggregated",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
