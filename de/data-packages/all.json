@@ -1403,7 +1403,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
+                "vorläufig",
                 ""
               ]
             },
