@@ -8833,7 +8833,7 @@
             "type": "integer"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
