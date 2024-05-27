@@ -9634,7 +9634,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p,s",
+                "p,s,r",
                 "Female",
                 "Male",
                 ""
