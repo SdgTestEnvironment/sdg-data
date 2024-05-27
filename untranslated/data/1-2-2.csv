@@ -1,4 +1,4 @@
-Year,timeseries,COMMENT_OBS,sex,Value
+Year,Series,COMMENT_OBS,sex,Value
 2010,persons at risk of poverty or social exclusion,,,
 2011,persons at risk of poverty or social exclusion,,,
 2012,persons at risk of poverty or social exclusion,,,
@@ -96,7 +96,7 @@ Year,timeseries,COMMENT_OBS,sex,Value
 2020,persons living in households with very low work intensity,,,8.3
 2021,persons living in households with very low work intensity,,,9.5
 2022,persons living in households with very low work intensity,,,9.8
-2023,persons living in households with very low work intensity,,,9.8
+2023,persons living in households with very low work intensity,,,
 2010,persons living in households with very low work intensity,,female,
 2011,persons living in households with very low work intensity,,female,
 2012,persons living in households with very low work intensity,,female,

@@ -9616,7 +9616,7 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
