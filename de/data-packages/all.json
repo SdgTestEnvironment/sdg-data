@@ -1030,13 +1030,24 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_kr",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -1158,6 +1169,17 @@
               ]
             },
             "title": "Aufgabenbereich"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -2158,6 +2180,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Series",
@@ -3414,6 +3447,17 @@
             "title": "Geschlecht"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "korrigiert",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -3940,13 +3984,24 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_kr",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -4645,7 +4700,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_kr",
       "schema": {
         "fields": [
           {
@@ -4664,6 +4719,17 @@
               ]
             },
             "title": "Wirtschaftszweig"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -4799,6 +4865,18 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vorläufig",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -4939,6 +5017,17 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -5941,6 +6030,17 @@
             "title": "Jahr"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -6566,6 +6666,18 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "geschätzt",
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -7522,18 +7634,17 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "part",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ländereigene Ergebnisrahmen und Planungsinstrumente",
                 "Ziele",
                 "Indikatoren",
                 "Daten",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Teil"
           },
           {
             "name": "Value",
@@ -7594,6 +7705,17 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -8611,13 +8733,24 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_kr",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -8664,7 +8797,7 @@
                 "2) Länder, die Vertragsparteien des Nagoya-Protokolls sind",
                 "3) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet wurden",
                 "4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden",
-                "Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
+                "5 )Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
                 ""
               ]
             },
@@ -9173,13 +9306,24 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_kr",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -9616,7 +9760,7 @@
             "title": "Jahr"
           },
           {
-            "name": "time series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9628,17 +9772,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p,s,r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "sex",
@@ -9826,6 +9959,17 @@
             "title": "Geschlecht"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -9877,13 +10021,24 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_kr",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

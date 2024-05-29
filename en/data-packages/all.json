@@ -1039,6 +1039,17 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1158,6 +1169,17 @@
               ]
             },
             "title": "Function"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -1403,7 +1425,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "preliminary",
+                "p",
                 ""
               ]
             },
@@ -2158,6 +2180,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Series",
@@ -3414,6 +3447,17 @@
             "title": "Sex"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3947,6 +3991,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -4666,6 +4721,17 @@
             "title": "Economic activity"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4754,7 +4820,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -4799,6 +4865,18 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -4939,6 +5017,17 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -5941,6 +6030,17 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -6566,6 +6666,18 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -7522,18 +7634,17 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "part",
             "type": "string",
             "constraints": {
               "enum": [
-                "Country-owned results frameworks and planning tools",
                 "Objectives",
                 "Indicators",
                 "Data",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Part"
           },
           {
             "name": "Value",
@@ -7594,6 +7705,17 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
@@ -8620,6 +8742,17 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -8664,7 +8797,7 @@
                 "2) Countries that are parties to the Nagoya Protocol",
                 "3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on PGRFA",
                 "4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House",
-                "Total reported number of SMTAs transferring PGRFA to Germany",
+                "5) Total reported number of SMTAs transferring PGRFA to Germany",
                 ""
               ]
             },
@@ -9182,6 +9315,17 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -9616,7 +9760,7 @@
             "title": "Year"
           },
           {
-            "name": "time series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9628,17 +9772,6 @@
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p,s,r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "sex",
@@ -9826,6 +9959,17 @@
             "title": "Sex"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -9884,6 +10028,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

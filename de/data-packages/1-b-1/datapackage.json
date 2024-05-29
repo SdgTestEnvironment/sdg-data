@@ -28,6 +28,18 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "geschätzt",
+                "vorläufig",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"

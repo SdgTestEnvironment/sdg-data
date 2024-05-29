@@ -26,6 +26,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

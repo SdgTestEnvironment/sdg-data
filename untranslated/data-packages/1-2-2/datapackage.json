@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "time series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
@@ -23,16 +23,6 @@
                 "at-risk-of-poverty rate",
                 "persons living in households with very low work intensity",
                 "severely materially and socially deprived persons",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p,s,r",
                 ""
               ]
             }
