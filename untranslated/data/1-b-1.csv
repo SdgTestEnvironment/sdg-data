@@ -8,7 +8,7 @@ Year,timeseries,COMMENT_OBS,Value
 2016,at-risk-of-poverty rate,,16.5
 2017,at-risk-of-poverty rate,,16.1
 2018,at-risk-of-poverty rate,,16.0
-2019,at-risk-of-poverty rate,s,14.8
+2019,at-risk-of-poverty rate,,14.8
 2020,at-risk-of-poverty rate,,16.1
 2021,at-risk-of-poverty rate,,16.0
 2022,at-risk-of-poverty rate,,14.8
@@ -26,4 +26,4 @@ Year,timeseries,COMMENT_OBS,Value
 2020,government expenditure on social protection,p,43.05
 2021,government expenditure on social protection,p,40.95
 2022,government expenditure on social protection,p,40.52
-2023,government expenditure on social protection,p,40.89
+2023,government expenditure on social protection,p,41.0

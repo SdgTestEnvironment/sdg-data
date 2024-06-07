@@ -16,16 +16,15 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "p",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

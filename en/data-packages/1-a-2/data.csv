@@ -12,7 +12,7 @@ Year,Function,COMMENT_OBS,Value
 2020,Health,p,16.81
 2021,Health,p,17.12
 2022,Health,p,17.28
-2023,Health,p,15.63
+2023,Health,p,15.68
 2010,Education,,9.1
 2011,Education,,9.49
 2012,Education,,9.5
@@ -26,7 +26,7 @@ Year,Function,COMMENT_OBS,Value
 2020,Education,p,9.29
 2021,Education,p,9.06
 2022,Education,p,9.18
-2023,Education,p,9.33
+2023,Education,p,9.35
 2010,Social protection,,41.67
 2011,Social protection,,41.73
 2012,Social protection,,42.08
@@ -40,4 +40,4 @@ Year,Function,COMMENT_OBS,Value
 2020,Social protection,p,43.05
 2021,Social protection,p,40.95
 2022,Social protection,p,40.52
-2023,Social protection,p,40.89
+2023,Social protection,p,41.0

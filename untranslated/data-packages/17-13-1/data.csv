@@ -78,7 +78,7 @@ Year,Units,timeseries,COMMENT_OBS,Value
 2016,billion eur,gross fixed capital formation,,636.3
 2017,billion eur,gross fixed capital formation,,666.9
 2018,billion eur,gross fixed capital formation,,708.9
-2019,billion eur,gross fixed capital formation,p,740.5
+2019,billion eur,gross fixed capital formation,,740.5
 2020,billion eur,gross fixed capital formation,p,733.2
 2021,billion eur,gross fixed capital formation,p,770.5
 2022,billion eur,gross fixed capital formation,p,856.2
@@ -92,9 +92,9 @@ Year,Units,timeseries,COMMENT_OBS,Value
 2016,million hours,hours worked by employees,,52451.0
 2017,million hours,hours worked by employees,,53219.0
 2018,million hours,hours worked by employees,,53876.0
-2019,million hours,hours worked by employees,,54304.1
-2020,million hours,hours worked by employees,p,52000.3
-2021,million hours,hours worked by employees,p,53517.7
+2019,million hours,hours worked by employees,,54304.0
+2020,million hours,hours worked by employees,p,52000.0
+2021,million hours,hours worked by employees,p,53518.0
 2022,million hours,hours worked by employees,p,54317.0
 2023,million hours,hours worked by employees,p,54716.0
 2010,million hours,hours worked by persons employed,,58524.0
@@ -176,7 +176,7 @@ Year,Units,timeseries,COMMENT_OBS,Value
 2016,billion eur,trade balance,,231.2
 2017,billion eur,trade balance,,231.6
 2018,billion eur,trade balance,,205.2
-2019,billion eur,trade balance,p,206.3
+2019,billion eur,trade balance,,206.3
 2020,billion eur,trade balance,p,197.6
 2021,billion eur,trade balance,p,195.3
 2022,billion eur,trade balance,p,76.3

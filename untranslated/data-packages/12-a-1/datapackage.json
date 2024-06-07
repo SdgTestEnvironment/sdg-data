@@ -15,12 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "p",
                 ""
               ]
             }

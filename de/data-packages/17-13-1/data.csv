@@ -78,7 +78,7 @@ Year,Units,Zeitreihe,COMMENT_OBS,Value
 2016,Milliarden EUR,Bruttoanlageinvestitionen,,636.3
 2017,Milliarden EUR,Bruttoanlageinvestitionen,,666.9
 2018,Milliarden EUR,Bruttoanlageinvestitionen,,708.9
-2019,Milliarden EUR,Bruttoanlageinvestitionen,vorläufig,740.5
+2019,Milliarden EUR,Bruttoanlageinvestitionen,,740.5
 2020,Milliarden EUR,Bruttoanlageinvestitionen,vorläufig,733.2
 2021,Milliarden EUR,Bruttoanlageinvestitionen,vorläufig,770.5
 2022,Milliarden EUR,Bruttoanlageinvestitionen,vorläufig,856.2
@@ -92,9 +92,9 @@ Year,Units,Zeitreihe,COMMENT_OBS,Value
 2016,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,52451.0
 2017,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,53219.0
 2018,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,53876.0
-2019,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,54304.1
-2020,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,vorläufig,52000.3
-2021,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,vorläufig,53517.7
+2019,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,,54304.0
+2020,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,vorläufig,52000.0
+2021,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,vorläufig,53518.0
 2022,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,vorläufig,54317.0
 2023,Millionen Stunden,Geleistete Arbeitsstunden der Arbeitnehmer,vorläufig,54716.0
 2010,Millionen Stunden,Geleistete Arbeitsstunden der Erwerbstätigen,,58524.0
@@ -176,7 +176,7 @@ Year,Units,Zeitreihe,COMMENT_OBS,Value
 2016,Milliarden EUR,Außenbeitrag,,231.2
 2017,Milliarden EUR,Außenbeitrag,,231.6
 2018,Milliarden EUR,Außenbeitrag,,205.2
-2019,Milliarden EUR,Außenbeitrag,vorläufig,206.3
+2019,Milliarden EUR,Außenbeitrag,,206.3
 2020,Milliarden EUR,Außenbeitrag,vorläufig,197.6
 2021,Milliarden EUR,Außenbeitrag,vorläufig,195.3
 2022,Milliarden EUR,Außenbeitrag,vorläufig,76.3

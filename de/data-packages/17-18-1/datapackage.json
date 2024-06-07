@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -27,6 +27,41 @@
               ]
             },
             "title": "Vollständigkeit der Disaggregation"
+          },
+          {
+            "name": "goal",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 - no poverty",
+                "2 - zero hunger",
+                "3 - good health and well-being",
+                "4 - quality education",
+                "5 - gender equality",
+                "8 - decent work and economic growth",
+                "9 - industry, innovation and infrastructure",
+                "10 - reduced inequalities",
+                "11 - sustainable cities and communities",
+                "12 - responsible consumption and production",
+                "15 - life on land",
+                "16 - peace and justice",
+                "17 - partnerships for the goals",
+                ""
+              ]
+            },
+            "title": "goal"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

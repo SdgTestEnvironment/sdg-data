@@ -95,6 +95,18 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "r",
+                "-",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -327,6 +339,65 @@
             "type": "string"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2010 1Q",
+                "2010 3Q",
+                "2011 1Q",
+                "2011 3Q",
+                "2012 1Q",
+                "2012 3Q",
+                "2013 1Q",
+                "2013 2Q",
+                "2013 3Q",
+                "2013 4Q",
+                "2014 1Q",
+                "2014 2Q",
+                "2014 3Q",
+                "2014 4Q",
+                "2015 1Q",
+                "2015 2Q",
+                "2015 3Q",
+                "2015 4Q",
+                "2016 1Q",
+                "2016 2Q",
+                "2016 3Q",
+                "2016 4Q",
+                "2017 1Q",
+                "2017 2Q",
+                "2017 3Q",
+                "2017 4Q",
+                "2018 1Q",
+                "2018 2Q",
+                "2018 3Q",
+                "2018 4Q",
+                "2019 1Q",
+                "2019 2Q",
+                "2019 3Q",
+                "2019 4Q",
+                "2020 1Q",
+                "2020 2Q",
+                "2020 3Q",
+                "2020 4Q",
+                "2021 1Q",
+                "2021 2Q",
+                "2021 3Q",
+                "2021 4Q",
+                "2022 1Q",
+                "2022 2Q",
+                "2022 3Q",
+                "2022 4Q",
+                "2023 1Q",
+                "2023 2Q",
+                "2023 3Q",
+                "2023 4Q",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -507,6 +578,16 @@
                 "supreme/constitutional courts",
                 "higher-level courts",
                 "lower-level courts",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }
@@ -2048,12 +2129,11 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "p",
                 ""
               ]
             }
@@ -3553,6 +3633,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -5713,8 +5803,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "animal genetic resources",
                 "plant genetic resources",
+                "animal genetic resources",
                 ""
               ]
             }
@@ -6019,8 +6109,18 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "-",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -6133,7 +6233,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "s",
                 "p",
                 ""
               ]
@@ -6326,6 +6425,39 @@
                 "fully disaggregated",
                 "partially disaggregated",
                 "not disaggregated",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "goal",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 - no poverty",
+                "2 - zero hunger",
+                "3 - good health and well-being",
+                "4 - quality education",
+                "5 - gender equality",
+                "8 - decent work and economic growth",
+                "9 - industry, innovation and infrastructure",
+                "10 - reduced inequalities",
+                "11 - sustainable cities and communities",
+                "12 - responsible consumption and production",
+                "15 - life on land",
+                "16 - peace and justice",
+                "17 - partnerships for the goals",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "0",
                 ""
               ]
             }
