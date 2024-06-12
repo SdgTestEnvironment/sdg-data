@@ -32,6 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "p;s;r",
                 "p",
                 ""
               ]
