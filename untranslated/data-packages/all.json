@@ -4610,6 +4610,16 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "-",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -7088,7 +7098,7 @@
             "type": "integer"
           },
           {
-            "name": "part",
+            "name": "level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8017,7 +8027,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "victims of physical harassment",
+                "victims of non-sexual harassment",
                 "victims of sexual harassment",
                 ""
               ]
@@ -8367,29 +8377,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
+            "type": "integer"
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
@@ -8494,8 +8486,18 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

@@ -5017,6 +5017,17 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "-",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7713,7 +7724,7 @@
             "title": "Year"
           },
           {
-            "name": "part",
+            "name": "level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7723,7 +7734,7 @@
                 ""
               ]
             },
-            "title": "Part"
+            "title": "Level"
           },
           {
             "name": "Value",
@@ -8726,7 +8737,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Victims of physical harassment",
+                "Victims of non-sexual harassment",
                 "Victims of sexual harassment",
                 ""
               ]
@@ -9107,32 +9118,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -9247,8 +9238,19 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

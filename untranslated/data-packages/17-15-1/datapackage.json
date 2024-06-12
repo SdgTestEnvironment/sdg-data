@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "part",
+            "name": "level",
             "type": "string",
             "constraints": {
               "enum": [

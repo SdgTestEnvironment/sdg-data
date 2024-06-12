@@ -108,7 +108,7 @@
             "constraints": {
               "enum": [
                 ".",
-                "korrigiert",
+                "r",
                 "-",
                 ""
               ]
@@ -1054,7 +1054,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1067,7 +1067,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -1199,7 +1199,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -1449,7 +1449,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -2210,7 +2210,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -2258,7 +2258,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -3474,7 +3474,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "korrigiert",
+                "r",
                 ""
               ]
             },
@@ -3897,7 +3897,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -4018,7 +4018,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4031,7 +4031,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -4734,7 +4734,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4759,7 +4759,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -4905,7 +4905,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 "…",
                 ""
               ]
@@ -5017,6 +5017,17 @@
             "title": "Jahr"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "-",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -5057,7 +5068,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -6717,7 +6728,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -6937,14 +6948,14 @@
             "constraints": {
               "enum": [
                 "1 - Keine Armut",
-                "2 - Kein Huner",
+                "2 - Kein Hunger",
                 "3 - Gesundheit und Wohlergehen",
                 "4 - Hochwertige Bildung",
                 "5 - Geschlechtergleichheit",
                 "8 - Menschenwürdige Arbeit und Wirtschaftswachstum",
                 "9 - Industrie, Innovation und Infrastruktur",
                 "10 - Weniger Ungleichheiten",
-                "11 -Nachhaltige Städte und Gemeinden",
+                "11 - Nachhaltige Städte und Gemeinden",
                 "12 - Nachhaltige/r Konsum und Produktion",
                 "15 - Leben an Land",
                 "16 - Frieden, Gerechtigkeit und starke Institutionen",
@@ -6960,7 +6971,7 @@
             "constraints": {
               "enum": [
                 ".",
-                "weniger als die Hälfte von 1 in der letzten besetzten Stelle, aber mehr als nichts.",
+                "0",
                 ""
               ]
             },
@@ -7713,7 +7724,7 @@
             "title": "Jahr"
           },
           {
-            "name": "part",
+            "name": "level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7723,7 +7734,7 @@
                 ""
               ]
             },
-            "title": "Teil"
+            "title": "Ebene"
           },
           {
             "name": "Value",
@@ -7790,7 +7801,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -8726,7 +8737,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Opfer körperlicher Belästigung",
+                "Opfer nicht-sexueller Belästigung",
                 "Opfer sexueller Belästigung",
                 ""
               ]
@@ -8812,7 +8823,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -8825,7 +8836,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -9107,32 +9118,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -9247,8 +9238,19 @@
             "title": "Jahr"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -9385,7 +9387,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -9398,7 +9400,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },
@@ -10100,7 +10102,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -10113,7 +10115,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "vorläufig",
+                "p",
                 ""
               ]
             },

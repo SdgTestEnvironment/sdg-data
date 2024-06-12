@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "part",
+            "name": "level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Teil"
+            "title": "Ebene"
           },
           {
             "name": "Value",
