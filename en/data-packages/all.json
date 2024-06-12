@@ -2210,9 +2210,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p;s;r",
                 "p",
-                "s",
+                "p;s;r",
                 ""
               ]
             },
