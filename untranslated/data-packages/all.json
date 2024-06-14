@@ -2031,6 +2031,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "p;s;r",
                 ""
               ]
             }
