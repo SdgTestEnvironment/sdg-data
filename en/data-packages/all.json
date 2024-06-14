@@ -702,18 +702,18 @@
             "title": "Year"
           },
           {
-            "name": "facilities",
+            "name": "type of service",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Schools with access to electricity",
-                "e) Schools with access to basic drinking water",
-                "f) Schools with access to single-sex basic sanitation facilities",
-                "g) Schools with access to basic handwashing facilities",
+                "schools with access to electricity",
+                "schools with access to basic drinking water",
+                "schools with access to single-sex basic sanitation facilities",
+                "schools with access to basic handwashing facilities",
                 ""
               ]
             },
-            "title": "Facilities"
+            "title": "type of service"
           },
           {
             "name": "Value",
@@ -2211,7 +2211,6 @@
             "constraints": {
               "enum": [
                 "p",
-                "p;s;r",
                 ""
               ]
             },
@@ -2428,17 +2427,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 years and older",
-                ""
-              ]
-            },
-            "title": "Age group"
           },
           {
             "name": "Value",
