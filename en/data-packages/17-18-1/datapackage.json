@@ -52,7 +52,7 @@
             "title": "Goal"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
@@ -61,7 +61,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",

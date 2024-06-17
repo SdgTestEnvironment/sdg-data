@@ -1,13 +1,14 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-2-1,sex,1
+#1-2-1,"COMMENT_OBS_0, sex",2
 #1-2-2,"sex, timeseries",2
 #1-3-1,timeseries,1
 #1-5-1,cause of death,1
 #1-a-1,time series,1
-#1-a-2,function,1
-#1-b-1,timeseries,1
+#1-a-2,"COMMENT_OBS_0, function",2
+#1-b-1,"COMMENT_OBS_0, timeseries",2
 #10-1-1,population,1
 #10-2-1,"sex, age group",2
+#10-4-1,COMMENT_OBS_0,1
 #10-4-2,timeseries,1
 #10-5-1,timeseries,1
 #10-7-2,policy area,1
@@ -15,7 +16,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-1-1,"sex, degree of urbanisation",2
 #11-2-1,"time series, sex, age group, länder, disability status",5
 #11-3-1,"timeseries, presentation",2
-#11-4-1,timeseries,1
+#11-4-1,"COMMENT_OBS_0, timeseries",2
 #11-5-1,cause of death,1
 #11-6-2,fine particulate matter,1
 #11-7-2,"sex, timeseries, age group",3
@@ -25,8 +26,9 @@ Indicator,Disaggregations,Number of disaggregations
 #12-5-1,type of waste,1
 #12-6-1,länder,1
 #12-8-1,area2,1
+#12-a-1,COMMENT_OBS_0,1
 #12-b-1,standard accounting system,1
-#12-c-1,time series,1
+#12-c-1,"time series, COMMENT_OBS_0",2
 #13-1-1,cause of death,1
 #13-2-2,länder,1
 #13-3-1,area2,1
@@ -41,19 +43,22 @@ Indicator,Disaggregations,Number of disaggregations
 #16-1-1,"sex, age group",2
 #16-1-3,"sex, timeseries, age group",3
 #16-1-4,"sex, age group, feelings of insecurity",3
+#16-10-2,COMMENT_OBS_0,1
 #16-2-1,"sex, form of abuse",2
 #16-2-2,"sex, age group, form of exploitation",3
 #16-3-1,"sex, timeseries, age group",3
-#16-3-2,sex,1
+#16-3-2,"COMMENT_OBS_0, sex",2
 #16-3-3,"time series, outcome of the application process",2
 #16-5-1,sex,1
-#16-7-1,"timeseries, fields of work, level of court",3
+#16-7-1,"COMMENT_OBS_0, timeseries, fields of work, level of court",4
 #16-7-2,sex,1
-#17-1-2,timeseries,1
-#17-13-1,timeseries,1
+#17-1-1,COMMENT_OBS_0,1
+#17-1-2,"COMMENT_OBS_0, timeseries",2
+#17-13-1,"COMMENT_OBS_0, timeseries",2
 #17-15-1,level,1
 #17-17-1,time series,1
-#17-18-1,"completeness of disaggregation, goal",2
+#17-18-1,"COMMENT_OBS_0, completeness of disaggregation, goal",3
+#17-18-2,COMMENT_OBS_0,1
 #17-19-1,time series,1
 #17-19-2,timeseries,1
 #17-2-1,timeseries,1
@@ -65,9 +70,11 @@ Indicator,Disaggregations,Number of disaggregations
 #2-2-1,sex,1
 #2-2-2,"sex, timeseries",2
 #2-2-3,age group,1
-#2-3-1,economic activity,1
+#2-3-1,"COMMENT_OBS_0, economic activity",2
 #2-4-1,"timeseries, länder",2
 #2-5-2,"timeseries, level of risk of extinction",2
+#2-a-1,COMMENT_OBS_0,1
+#2-b-1,COMMENT_OBS_0,1
 #3-1-2,timeseries,1
 #3-2-1,age group,1
 #3-3-1,sex,1
@@ -80,7 +87,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-9-1,disease,1
 #3-9-2,"sex, disease, age group",3
 #3-a-1,"sex, timeseries",2
-#3-b-1,"sex, timeseries",2
+#3-b-1,"COMMENT_OBS_0, sex, timeseries",3
 #3-c-1,profession,1
 #3-d-2,pathogens and resistance,1
 #4-1-1,"education level, subject",2
@@ -96,19 +103,23 @@ Indicator,Disaggregations,Number of disaggregations
 #5-3-1,age group,1
 #5-4-1,"sex, age group",2
 #5-5-1,"länder, political institution",2
+#5-5-2,COMMENT_OBS_0,1
 #5-6-2,thematic area,1
 #5-a-1,"timeseries, ownership",2
 #6-1-1,timeseries,1
 #6-2-1,"timeseries, availability",2
 #6-3-1,"type of waste water, treatment",2
-#6-3-2,timeseries,1
+#6-3-2,"COMMENT_OBS_0, timeseries",2
 #6-4-1,economic activity,1
 #6-4-2,water use index,1
 #6-5-1,section,1
 #6-6-1,timeseries,1
 #6-a-1,time series,1
+#7-b-1,COMMENT_OBS_0,1
+#8-1-1,COMMENT_OBS_0,1
 #8-10-1,timeseries,1
 #8-10-2,type of account,1
+#8-2-1,COMMENT_OBS_0,1
 #8-5-1,"sex, länder",2
 #8-5-2,"sex, age group",2
 #8-6-1,sex,1
@@ -116,7 +127,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-8-1,"sex, timeseries",2
 #8-a-1,time series,1
 #9-1-2,mode of transport,1
-#9-2-1,"COMMENT_OBS_1, COMMENT_OBS_2",2
+#9-2-1,"COMMENT_OBS_0, COMMENT_OBS_1, COMMENT_OBS_2",3
 #9-2-2,"sex, timeseries",2
 #9-5-1,länder,1
 #9-a-1,time series,1
