@@ -267,6 +267,16 @@
             "type": "integer"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "organisations with emas registration",
+                ""
+              ]
+            }
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {
@@ -2647,6 +2657,16 @@
             "type": "integer"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "households covered by a mobile network",
+                ""
+              ]
+            }
+          },
+          {
             "name": "technology",
             "type": "string",
             "constraints": {
@@ -2941,6 +2961,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "proportion of r&d expenditures to gdp",
+                ""
+              ]
+            }
           },
           {
             "name": "länder",

@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "proportion of r&d expenditures to gdp",
+                ""
+              ]
+            }
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {

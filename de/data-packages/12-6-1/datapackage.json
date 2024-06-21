@@ -16,6 +16,17 @@
             "title": "Jahr"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Organisationen mit EMAS-Registrierung",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {
