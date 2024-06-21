@@ -290,17 +290,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Organisationen mit EMAS-Registrierung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "länder",
             "type": "string",
             "constraints": {
@@ -2894,17 +2883,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Haushalte, die durch ein Mobilfunknetz abgedeckt sind",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "technology",
             "type": "string",
             "constraints": {
@@ -3225,17 +3203,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Verhältnis der F&E-Ausgaben zum BIP",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "länder",

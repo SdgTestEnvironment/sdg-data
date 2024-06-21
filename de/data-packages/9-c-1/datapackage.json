@@ -16,17 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Haushalte, die durch ein Mobilfunknetz abgedeckt sind",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "technology",
             "type": "string",
             "constraints": {

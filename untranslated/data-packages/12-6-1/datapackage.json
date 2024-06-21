@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "organisations with emas registration",
-                ""
-              ]
-            }
-          },
-          {
             "name": "länder",
             "type": "string",
             "constraints": {

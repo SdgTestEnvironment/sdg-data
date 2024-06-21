@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Organisations with EMAS registration",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "länder",
             "type": "string",
             "constraints": {

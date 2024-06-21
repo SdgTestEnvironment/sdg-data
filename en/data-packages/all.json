@@ -290,17 +290,6 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Organisations with EMAS registration",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "länder",
             "type": "string",
             "constraints": {
@@ -2894,17 +2883,6 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Households covered by a mobile network",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "technology",
             "type": "string",
             "constraints": {
@@ -3225,17 +3203,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of R&D expenditures to GDP",
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "länder",
