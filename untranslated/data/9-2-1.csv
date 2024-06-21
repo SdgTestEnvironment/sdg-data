@@ -3,9 +3,9 @@ Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2011,percentage,,,,manufacturing gross value added as a proportion of gdp,20.2
 2012,percentage,.,,,manufacturing gross value added as a proportion of gdp,
 2013,percentage,.,,,manufacturing gross value added as a proportion of gdp,
-2014,percentage,.,,,manufacturing gross value added as a proportion of gdp,
-2015,percentage,.,,,manufacturing gross value added as a proportion of gdp,
-2016,percentage,.,,,manufacturing gross value added as a proportion of gdp,
+2014,percentage,,,,manufacturing gross value added as a proportion of gdp,0.0
+2015,percentage,-,,,manufacturing gross value added as a proportion of gdp,0.0
+2016,percentage,0,,,manufacturing gross value added as a proportion of gdp,0.0
 2017,percentage,.,,,manufacturing gross value added as a proportion of gdp,
 2018,percentage,,,,manufacturing gross value added as a proportion of gdp,20.0
 2019,percentage,-,,,manufacturing gross value added as a proportion of gdp,
