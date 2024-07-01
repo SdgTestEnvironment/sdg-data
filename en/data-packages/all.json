@@ -4119,15 +4119,37 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "ecosystem",
             "type": "string",
             "constraints": {
               "enum": [
-                "Lakes and Rivers permanent water area",
-                "Lakes and rivers permanent water area as a proportion of total land area",
+                "Lakes and rivers permanent water area",
                 "Wetlands area",
-                "Wetlands area as a proportion of total land area",
-                "Lakes and Rivers permanent water area change (compared to 2015)",
+                ""
+              ]
+            },
+            "title": "Ecosystem"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area",
+                "Area as a proportion of total land area",
+                "Area change in comparison to 2015",
                 ""
               ]
             },
@@ -5928,6 +5950,17 @@
               ]
             },
             "title": "Type of waste"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",

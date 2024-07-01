@@ -4119,15 +4119,37 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "ecosystem",
             "type": "string",
             "constraints": {
               "enum": [
                 "Permanente Wasserfläche der Seen und Flüsse",
-                "Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche",
                 "Feuchtgebiete",
-                "Feuchtgebiete im Verhältnis zur gesamten Landfläche",
-                "Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)",
+                ""
+              ]
+            },
+            "title": "Ökosystem"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fläche",
+                "Fläche im Verhältnis zur gesamten Landfläche",
+                "Veränderung der Fläche im Vergleich zu 2015",
                 ""
               ]
             },
@@ -5928,6 +5950,17 @@
               ]
             },
             "title": "Abfallart"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",
