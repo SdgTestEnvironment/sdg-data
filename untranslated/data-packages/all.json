@@ -3789,6 +3789,7 @@
               "enum": [
                 "lakes and rivers permanent water area",
                 "wetlands area",
+                "large artificial or heavily modified lakes",
                 ""
               ]
             }
