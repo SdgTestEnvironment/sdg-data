@@ -57,9 +57,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gebiet",
-                "area as a proportion of total land area",
-                "area change in comparison to 2015",
+                "Fläche",
+                "Fläche im Verhältnis zur gesamten Landfläche",
+                "Veränderung der Fläche im Vergleich zu 2015",
                 ""
               ]
             },

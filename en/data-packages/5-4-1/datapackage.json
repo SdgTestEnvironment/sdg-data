@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "Time spent on unpaid domestic and care work",
-                "time spent on unpaid domestic work",
-                "time spent on unpaid care work",
+                "Time spent on unpaid domestic work",
+                "Time spent on unpaid care work",
                 ""
               ]
             },

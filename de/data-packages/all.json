@@ -1134,13 +1134,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "capital to assets ratio",
-                "regulatory tier 1 capital to risk-weighted assets",
-                "nonperforming loans net of provisions to capital",
-                "nonperforming loans net of provisions to gross loans",
-                "return on assets",
-                "liquid assets to short-term liabilities",
-                "net open position in foreign exchange to capital",
+                "Eigenkapitalquote",
+                "Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen",
+                "Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital",
+                "Anteil der notleidenden Kredite an den Bruttokrediten insgesamt",
+                "Gesamtkapitalrentabilität",
+                "Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten",
+                "Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln",
                 ""
               ]
             },
@@ -3639,8 +3639,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "renewable energy in total final energy consumption",
-                "renewable energy in gross final energy consumption",
+                "Erneuerbare Energien am gesamten Endenergieverbrauch",
+                "Erneuerbare Energien am Bruttoendenergieverbrauch",
                 ""
               ]
             },
@@ -4148,9 +4148,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gebiet",
-                "area as a proportion of total land area",
-                "area change in comparison to 2015",
+                "Fläche",
+                "Fläche im Verhältnis zur gesamten Landfläche",
+                "Veränderung der Fläche im Vergleich zu 2015",
                 ""
               ]
             },
@@ -4352,7 +4352,7 @@
                 "Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
                 "Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",
                 "Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",
-                "Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet",
+                "Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
                 ""
               ]
             },
@@ -5545,8 +5545,8 @@
             "constraints": {
               "enum": [
                 "Zeitaufwand für unbezahlte Haus- und Pflegearbeit",
-                "time spent on unpaid domestic work",
-                "time spent on unpaid care work",
+                "Zeitaufwand für unbezahlte Hausarbeit",
+                "Zeitaufwand für unbezahlte Pflegearbeit",
                 ""
               ]
             },
@@ -7054,11 +7054,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) countries that are contracting parties to the international treaty on pgrfa",
-                "2) countries that are parties to the nagoya protocol",
-                "3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa",
-                "4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house",
-                "5) total reported number of smtas transferring pgrfa to germany",
+                "1) Länder, die Vertragsparteien des Internationalen Vertrags über PGRFA sind",
+                "2) Länder, die Vertragsparteien des Nagoya-Protokolls sind",
+                "3) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet wurden",
+                "4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden",
+                "5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
                 ""
               ]
             },
