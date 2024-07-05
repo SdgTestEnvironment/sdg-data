@@ -37,7 +37,7 @@
             "constraints": {
               "enum": [
                 "Bundestag (Lower chamber)",
-                "Bundesrat (upper chamber)",
+                "Bundesrat (Upper chamber)",
                 "Länder parliaments",
                 "Councils of districts and district-free cities"
               ]

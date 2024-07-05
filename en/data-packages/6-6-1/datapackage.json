@@ -58,8 +58,8 @@
             "constraints": {
               "enum": [
                 "Area",
-                "Area as a proportion of total land area",
-                "Area change in comparison to 2015",
+                "area as a proportion of total land area",
+                "area change in comparison to 2015",
                 ""
               ]
             },

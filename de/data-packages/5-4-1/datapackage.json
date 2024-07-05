@@ -16,6 +16,59 @@
             "title": "Jahr"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zeitaufwand für unbezahlte Haus- und Pflegearbeit",
+                "time spent on unpaid domestic work",
+                "time spent on unpaid care work",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Städte",
+                "Ländliche Gebiete",
+                ""
+              ]
+            },
+            "title": "Verstädterungsgrad"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 Jahre und älter",
+                "15 bis unter 25 Jahre",
+                "25 bis unter 45 Jahre",
+                "45 bis unter 55 Jahre",
+                "55 bis unter 65 Jahre",
+                "65 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"

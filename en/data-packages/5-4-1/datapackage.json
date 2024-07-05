@@ -16,6 +16,59 @@
             "title": "Year"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Time spent on unpaid domestic and care work",
+                "time spent on unpaid domestic work",
+                "time spent on unpaid care work",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural areas",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years and older",
+                "15 to under 25 years",
+                "25 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 years and older",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

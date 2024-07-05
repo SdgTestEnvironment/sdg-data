@@ -4063,6 +4063,16 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -5075,6 +5085,55 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "time spent on unpaid domestic and care work",
+                "time spent on unpaid domestic work",
+                "time spent on unpaid care work",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural areas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years and older",
+                "15 to under 25 years",
+                "25 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 years and older",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -9371,6 +9430,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

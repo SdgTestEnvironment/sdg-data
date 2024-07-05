@@ -1134,13 +1134,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Capital to assets ratio",
-                "Regulatory Tier 1 capital to risk-weighted assets",
-                "Nonperforming loans net of provisions to capital",
-                "Nonperforming loans net of provisions to gross loans",
-                "Return on assets",
-                "Liquid assets to short-term liabilities",
-                "Net open position in foreign exchange to capital",
+                "capital to assets ratio",
+                "regulatory tier 1 capital to risk-weighted assets",
+                "nonperforming loans net of provisions to capital",
+                "nonperforming loans net of provisions to gross loans",
+                "return on assets",
+                "liquid assets to short-term liabilities",
+                "net open position in foreign exchange to capital",
                 ""
               ]
             },
@@ -3291,7 +3291,7 @@
               "enum": [
                 "Working-age population",
                 "German Bundestag (lower chamber)",
-                "Bundesrat (upper chamber)",
+                "Bundesrat (Upper chamber)",
                 "Public service",
                 "Judiciary",
                 ""
@@ -3639,8 +3639,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Renewable energy in total final energy consumption",
-                "Renewable energy in gross final energy consumption",
+                "renewable energy in total final energy consumption",
+                "renewable energy in gross final energy consumption",
                 ""
               ]
             },
@@ -4149,8 +4149,8 @@
             "constraints": {
               "enum": [
                 "Area",
-                "Area as a proportion of total land area",
-                "Area change in comparison to 2015",
+                "area as a proportion of total land area",
+                "area change in comparison to 2015",
                 ""
               ]
             },
@@ -4421,6 +4421,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -5527,6 +5538,59 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Time spent on unpaid domestic and care work",
+                "time spent on unpaid domestic work",
+                "time spent on unpaid care work",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural areas",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years and older",
+                "15 to under 25 years",
+                "25 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 years and older",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -6990,11 +7054,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Countries that are contracting Parties to the International Treaty on PGRFA",
-                "2) Countries that are parties to the Nagoya Protocol",
-                "3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on PGRFA",
-                "4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House",
-                "5) Total reported number of SMTAs transferring PGRFA to Germany",
+                "1) countries that are contracting parties to the international treaty on pgrfa",
+                "2) countries that are parties to the nagoya protocol",
+                "3) countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance of the international treaty on pgrfa",
+                "4) countries that have legislative, administrative and policy framework or measures reported to the abs clearing-house",
+                "5) total reported number of smtas transferring pgrfa to germany",
                 ""
               ]
             },
@@ -10206,6 +10270,17 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -10251,7 +10326,7 @@
             "constraints": {
               "enum": [
                 "Bundestag (Lower chamber)",
-                "Bundesrat (upper chamber)",
+                "Bundesrat (Upper chamber)",
                 "Länder parliaments",
                 "Councils of districts and district-free cities"
               ]
