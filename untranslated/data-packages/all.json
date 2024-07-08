@@ -3776,8 +3776,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "km²",
                 "percentage",
+                "km²",
                 ""
               ]
             }
@@ -3801,6 +3801,7 @@
               "enum": [
                 ".",
                 "…",
+                "x",
                 ""
               ]
             }
@@ -3810,9 +3811,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "area change in comparison to 2015",
                 "area",
                 "area as a proportion of total land area",
-                "area change in comparison to 2015",
                 ""
               ]
             }
@@ -9134,7 +9135,7 @@
             "constraints": {
               "enum": [
                 ".",
-                "0",
+                "-",
                 ""
               ]
             }

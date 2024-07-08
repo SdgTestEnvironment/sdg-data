@@ -4111,8 +4111,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "km²",
                 "Prozent",
+                "km²",
                 ""
               ]
             },
@@ -4138,6 +4138,7 @@
               "enum": [
                 ".",
                 "…",
+                "x",
                 ""
               ]
             },
@@ -4148,9 +4149,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Veränderung der Fläche im Vergleich zu 2015",
                 "Fläche",
                 "Fläche im Verhältnis zur gesamten Landfläche",
-                "Veränderung der Fläche im Vergleich zu 2015",
                 ""
               ]
             },
@@ -9945,7 +9946,7 @@
             "constraints": {
               "enum": [
                 ".",
-                "0",
+                "-",
                 ""
               ]
             },
