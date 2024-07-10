@@ -7670,6 +7670,25 @@
             "title": "Jahr"
           },
           {
+            "name": "sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Allgemeine Dienste",
+                "Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",
+                "Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",
+                "Ernährung, Landwirtschaft und Forsten",
+                "Finanzwirtschaft",
+                "Gesundheit, Umwelt, Sport und Erholung",
+                "Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",
+                "Verkehrs- und Nachrichtenwesen",
+                "Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",
+                ""
+              ]
+            },
+            "title": "Sektor"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"

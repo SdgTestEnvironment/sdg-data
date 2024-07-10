@@ -15,6 +15,24 @@
             "type": "integer"
           },
           {
+            "name": "sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "general services",
+                "education, science, research, cultural affairs",
+                "energy and water industry, trade, services",
+                "food, agriculture and forestry",
+                "financial economy",
+                "health, environment, sport and recreation",
+                "social security, family and youth, labour market policy",
+                "transport and communications",
+                "housing, urban development, spatial planning and municipal community services",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

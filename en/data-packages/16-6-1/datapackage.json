@@ -16,6 +16,25 @@
             "title": "Year"
           },
           {
+            "name": "sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "General services",
+                "Education, science, research, cultural affairs",
+                "Energy and water industry, trade, services",
+                "Food, Agriculture and Forestry",
+                "Financial economy",
+                "Health, environment, sport and recreation",
+                "Social security, family and youth, labour market policy",
+                "Transport and communications",
+                "Housing, urban development, spatial planning and municipal community services",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
