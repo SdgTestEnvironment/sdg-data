@@ -929,6 +929,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1266,6 +1276,18 @@
                 "rabies",
                 "yaws",
                 "dracunculiasis",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "-",
+                ".",
                 ""
               ]
             }
@@ -1824,6 +1846,17 @@
               "enum": [
                 "female",
                 "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "0",
                 ""
               ]
             }
@@ -4700,6 +4733,17 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -6151,6 +6195,18 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ".",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -6202,6 +6258,16 @@
               "enum": [
                 "water and sanitation",
                 "other related purposes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -7851,6 +7917,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -8815,6 +8891,19 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "s",
+                "…",
+                "r",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

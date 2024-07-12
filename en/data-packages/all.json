@@ -1011,6 +1011,17 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1382,6 +1393,19 @@
               ]
             },
             "title": "Disease"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "-",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -1989,6 +2013,18 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "0",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",
@@ -5115,6 +5151,18 @@
             "title": "Profession"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -6695,6 +6743,19 @@
             "title": "Feelings of insecurity"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ".",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -6754,6 +6815,17 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -8547,6 +8619,17 @@
             "title": "Sex"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -9597,6 +9680,20 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "s",
+                "…",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
