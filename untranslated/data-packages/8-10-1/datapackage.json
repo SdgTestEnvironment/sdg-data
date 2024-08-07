@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -19,8 +19,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "branches of payment service providers",
-                "atms of national payment service providers",
+                "a) branches of payment service providers",
+                "b) atms of national payment service providers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
                 ""
               ]
             }

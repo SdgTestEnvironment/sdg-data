@@ -16,20 +16,32 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Anzahl",
+                "Prozent",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Plastikmüll an Stränden der deutschen Nordseeküste",
+                "Eissturmvogel-Totfunde an der deutschen Nordsee-Küste mit mehr als 0,1 Gramm Kunststoff im Magen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

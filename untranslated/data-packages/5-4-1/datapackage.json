@@ -15,13 +15,24 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "time spent on unpaid domestic and care work",
-                "time spent on unpaid domestic work",
-                "time spent on unpaid care work",
+                "percentage",
+                "houres per day",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of unpaid work",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "domestic and care work",
+                "domestic work",
+                "care work",
                 ""
               ]
             }

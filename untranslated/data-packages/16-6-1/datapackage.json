@@ -21,13 +21,23 @@
               "enum": [
                 "general services",
                 "education, science, research, cultural affairs",
-                "energy and water industry, trade, services",
+                "energy and water management, trade, services",
                 "food, agriculture and forestry",
-                "financial economy",
+                "financial services",
                 "health, environment, sport and recreation",
                 "social security, family and youth, labour market policy",
                 "transport and communications",
-                "housing, urban development, spatial planning and municipal community services",
+                "housing, urban development, regional planning and municipal community services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
                 ""
               ]
             }

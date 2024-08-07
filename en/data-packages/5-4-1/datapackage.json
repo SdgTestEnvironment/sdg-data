@@ -16,17 +16,29 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Time spent on unpaid domestic and care work",
-                "Time spent on unpaid domestic work",
-                "Time spent on unpaid care work",
+                "Percentage",
+                "Houres per day",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Units"
+          },
+          {
+            "name": "type of unpaid work",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic and care work",
+                "Domestic work",
+                "Care work",
+                ""
+              ]
+            },
+            "title": "Type of unpaid work"
           },
           {
             "name": "degree of urbanisation",

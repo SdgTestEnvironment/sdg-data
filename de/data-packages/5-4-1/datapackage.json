@@ -16,17 +16,29 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitaufwand für unbezahlte Haus- und Pflegearbeit",
-                "Zeitaufwand für unbezahlte Hausarbeit",
-                "Zeitaufwand für unbezahlte Pflegearbeit",
+                "Prozent",
+                "Stunden pro Tag",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Units"
+          },
+          {
+            "name": "type of unpaid work",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Haus- und Pflegearbeit",
+                "Hausarbeit",
+                "Pflegearbeit",
+                ""
+              ]
+            },
+            "title": "Art der unbezahlten Arbeit"
           },
           {
             "name": "degree of urbanisation",
