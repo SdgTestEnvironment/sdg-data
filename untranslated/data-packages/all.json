@@ -1048,6 +1048,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1997,6 +2007,17 @@
               "enum": [
                 "population using safely managed drinking water services",
                 "population connected to the public water supply system",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ".",
                 ""
               ]
             }
@@ -5301,7 +5322,6 @@
               "enum": [
                 ".",
                 "s",
-                "…",
                 "r",
                 ""
               ]
@@ -6100,7 +6120,7 @@
             "constraints": {
               "enum": [
                 "plastic waste on the beaches of the german north sea coast",
-                "fulmar deaths on the german north sea coast with more than 0.1 grams of plastic in the stomach",
+                "plastic particles in fulmar stomachs",
                 ""
               ]
             }

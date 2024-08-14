@@ -1141,6 +1141,17 @@
             "title": "Sex"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2177,6 +2188,18 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -5771,7 +5794,6 @@
               "enum": [
                 ".",
                 "s",
-                "…",
                 "r",
                 ""
               ]
@@ -6641,7 +6663,7 @@
             "constraints": {
               "enum": [
                 "Plastic waste on the beaches of the German North Sea coast",
-                "Fulmar deaths on the German North Sea coast with more than 0.1 grams of plastic in the stomach",
+                "Plastic particles in fulmar stomachs",
                 ""
               ]
             },

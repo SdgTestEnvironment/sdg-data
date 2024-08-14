@@ -111,7 +111,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-6-2,thematic area,1
 #5-a-1,"timeseries, ownership",2
 #5-b-1,COMMENT_OBS_0,1
-#6-1-1,timeseries,1
+#6-1-1,"timeseries, COMMENT_OBS_0",2
 #6-2-1,"timeseries, availability",2
 #6-3-1,"type of waste water, treatment",2
 #6-3-2,"timeseries, COMMENT_OBS_0",2
@@ -134,7 +134,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-a-1,time series,1
 #9-1-2,"COMMENT_OBS_0, mode of transport",2
 #9-2-1,COMMENT_OBS_0,1
-#9-2-2,"timeseries, sex",2
+#9-2-2,"timeseries, COMMENT_OBS_0, sex",3
 #9-5-1,länder,1
 #9-a-1,time series,1
 #9-b-1,"COMMENT_OBS_0, enterprise definition, technology sectors",3
