@@ -224,7 +224,7 @@ prose:
         field:
             element: text
             label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url
+            translation_key: metadata_fields.data_last_update
             scope: national
 
        ######### Data Info #########
