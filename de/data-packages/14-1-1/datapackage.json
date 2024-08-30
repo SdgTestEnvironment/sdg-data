@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl",
+                "Anzahl der Müllteile aus Plastik pro 100 m Küstenlinie",
                 "Prozent",
                 ""
               ]

@@ -328,6 +328,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -900,6 +910,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1113,17 +1133,6 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "hazardous waste generated per capita",
-                "hazardous waste treated",
-                ""
-              ]
-            }
-          },
-          {
             "name": "type of waste treatment",
             "type": "string",
             "constraints": {
@@ -1132,6 +1141,27 @@
                 "incineration",
                 "recovery other than energy recovery",
                 "deposit onto or into land and land treatment and release into water bodies",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) hazardous waste generated per capita",
+                "b) hazardous waste treated",
                 ""
               ]
             }
@@ -1470,6 +1500,16 @@
               "enum": [
                 "female",
                 "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
                 ""
               ]
             }
@@ -2608,6 +2648,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -3231,7 +3281,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -3250,8 +3300,18 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -3957,6 +4017,17 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -4593,12 +4664,12 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "government expenditure on protection of biodiversity and landscape (cofog division 5.4)",
-                "government expenditure on cultural services (cofog division 8.2)",
+                "protection of biodiversity and landscape (cofog 5.4)",
+                "cultural services (cofog 8.2)",
                 ""
               ]
             }
@@ -5424,7 +5495,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5438,16 +5509,6 @@
               "enum": [
                 "a) branches of payment service providers",
                 "b) atms of national payment service providers",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
                 ""
               ]
             }
@@ -6108,7 +6169,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
+                "number of pieces of platic waste per 100 meters of beach length",
                 "percentage",
                 ""
               ]
@@ -8111,6 +8172,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -8833,6 +8904,16 @@
                 "million tonnes",
                 "tonnes per capita",
                 "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }

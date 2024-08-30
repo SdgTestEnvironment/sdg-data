@@ -357,6 +357,17 @@
             "title": "Standard Gesamtrechnungssystem"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Wert"
@@ -980,6 +991,17 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1212,18 +1234,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Aufkommen gefährlicher Abfälle",
-                "Behandelte gefährliche Abfälle",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "type of waste treatment",
             "type": "string",
             "constraints": {
@@ -1236,6 +1246,29 @@
               ]
             },
             "title": "Art der Abfallbehandlung"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Aufkommen gefährlicher Abfälle",
+                "b) Behandelte gefährliche Abfälle",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -1604,6 +1637,17 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -2839,6 +2883,17 @@
             "title": "Indikator"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -3539,8 +3594,19 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -4308,6 +4374,18 @@
             "title": "Jahr"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -5000,12 +5078,12 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)",
-                "Staatsausgaben für Kultur (COFOG Abteilung 8.2)",
+                "Arten- und Landschaftsschutz (COFOG 5.4)",
+                "Kultur (COFOG 8.2)",
                 ""
               ]
             },
@@ -5926,17 +6004,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -6650,7 +6717,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl",
+                "Anzahl der Müllteile aus Plastik pro 100 m Küstenlinie",
                 "Prozent",
                 ""
               ]
@@ -8833,6 +8900,17 @@
             "title": "Geschlecht"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -9623,6 +9701,17 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",

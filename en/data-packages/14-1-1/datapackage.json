@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "Number of pieces of platic waste per 100 meters of beach length",
                 "Percentage",
                 ""
               ]

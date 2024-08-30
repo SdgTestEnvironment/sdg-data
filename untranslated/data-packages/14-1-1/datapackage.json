@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
+                "number of pieces of platic waste per 100 meters of beach length",
                 "percentage",
                 ""
               ]
