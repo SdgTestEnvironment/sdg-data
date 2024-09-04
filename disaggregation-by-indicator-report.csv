@@ -40,7 +40,7 @@ Indicator,Disaggregations,Number of disaggregations
 #14-5-1,timeseries,1
 #14-c-1,"timeseries, COMMENT_OBS_0",2
 #15-1-2,timeseries,1
-#15-2-1,type of biomass,1
+#15-2-1,"COMMENT_OBS_0, type of biomass, COMMENT_OBS_1, COMMENT_OBS_2",4
 #15-4-1,timeseries,1
 #15-a-1,timeseries,1
 #15-b-1,timeseries,1
