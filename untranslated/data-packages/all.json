@@ -5125,7 +5125,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "-",
+                ".",
                 ""
               ]
             }
@@ -6509,7 +6509,7 @@
             "constraints": {
               "enum": [
                 ".",
-                "x",
+                "X",
                 "r",
                 "p",
                 ""
