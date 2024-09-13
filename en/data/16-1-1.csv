@@ -125,8 +125,8 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,Value
 2021,Number,,Male,,358.0
 2022,Number,,Male,,337.0
 2023,Number,,Male,,396.0
-2010,Number,13 years and younger,Female,,
-2011,Number,13 years and younger,Female,,
+2010,Number,13 years and younger,Female,.,
+2011,Number,13 years and younger,Female,.,
 2012,Number,13 years and younger,Female,,39.0
 2013,Number,13 years and younger,Female,,37.0
 2014,Number,13 years and younger,Female,,24.0
@@ -139,8 +139,8 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,Value
 2021,Number,13 years and younger,Female,,43.0
 2022,Number,13 years and younger,Female,,27.0
 2023,Number,13 years and younger,Female,,39.0
-2010,Number,13 years and younger,Male,,
-2011,Number,13 years and younger,Male,,
+2010,Number,13 years and younger,Male,.,
+2011,Number,13 years and younger,Male,.,
 2012,Number,13 years and younger,Male,,51.0
 2013,Number,13 years and younger,Male,,29.0
 2014,Number,13 years and younger,Male,,39.0
@@ -153,8 +153,8 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,Value
 2021,Number,13 years and younger,Male,,40.0
 2022,Number,13 years and younger,Male,,24.0
 2023,Number,13 years and younger,Male,,33.0
-2010,Number,14 to under 18 years,Female,,
-2011,Number,14 to under 18 years,Female,,
+2010,Number,14 to under 18 years,Female,.,
+2011,Number,14 to under 18 years,Female,.,
 2012,Number,14 to under 18 years,Female,,0.0
 2013,Number,14 to under 18 years,Female,,4.0
 2014,Number,14 to under 18 years,Female,,5.0
@@ -167,8 +167,8 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,Value
 2021,Number,14 to under 18 years,Female,,7.0
 2022,Number,14 to under 18 years,Female,,12.0
 2023,Number,14 to under 18 years,Female,,8.0
-2010,Number,14 to under 18 years,Male,,
-2011,Number,14 to under 18 years,Male,,
+2010,Number,14 to under 18 years,Male,.,
+2011,Number,14 to under 18 years,Male,.,
 2012,Number,14 to under 18 years,Male,,6.0
 2013,Number,14 to under 18 years,Male,,8.0
 2014,Number,14 to under 18 years,Male,,10.0
@@ -181,8 +181,8 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,Value
 2021,Number,14 to under 18 years,Male,,7.0
 2022,Number,14 to under 18 years,Male,,2.0
 2023,Number,14 to under 18 years,Male,,9.0
-2010,Number,18 to under 21 years,Female,,
-2011,Number,18 to under 21 years,Female,,
+2010,Number,18 to under 21 years,Female,.,
+2011,Number,18 to under 21 years,Female,.,
 2012,Number,18 to under 21 years,Female,,10.0
 2013,Number,18 to under 21 years,Female,,6.0
 2014,Number,18 to under 21 years,Female,,9.0
@@ -195,8 +195,8 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,Value
 2021,Number,18 to under 21 years,Female,,4.0
 2022,Number,18 to under 21 years,Female,,8.0
 2023,Number,18 to under 21 years,Female,,9.0
-2010,Number,18 to under 21 years,Male,,
-2011,Number,18 to under 21 years,Male,,
+2010,Number,18 to under 21 years,Male,.,
+2011,Number,18 to under 21 years,Male,.,
 2012,Number,18 to under 21 years,Male,,13.0
 2013,Number,18 to under 21 years,Male,,9.0
 2014,Number,18 to under 21 years,Male,,11.0
@@ -209,8 +209,8 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,Value
 2021,Number,18 to under 21 years,Male,,15.0
 2022,Number,18 to under 21 years,Male,,15.0
 2023,Number,18 to under 21 years,Male,,9.0
-2010,Number,21 to under 60 years,Female,,
-2011,Number,21 to under 60 years,Female,,
+2010,Number,21 to under 60 years,Female,.,
+2011,Number,21 to under 60 years,Female,.,
 2012,Number,21 to under 60 years,Female,,139.0
 2013,Number,21 to under 60 years,Female,,159.0
 2014,Number,21 to under 60 years,Female,,180.0
@@ -223,8 +223,8 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,Value
 2021,Number,21 to under 60 years,Female,,140.0
 2022,Number,21 to under 60 years,Female,,136.0
 2023,Number,21 to under 60 years,Female,,184.0
-2010,Number,21 to under 60 years,Male,,
-2011,Number,21 to under 60 years,Male,,
+2010,Number,21 to under 60 years,Male,.,
+2011,Number,21 to under 60 years,Male,.,
 2012,Number,21 to under 60 years,Male,,220.0
 2013,Number,21 to under 60 years,Male,,218.0
 2014,Number,21 to under 60 years,Male,,225.0
@@ -237,8 +237,8 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,Value
 2021,Number,21 to under 60 years,Male,,196.0
 2022,Number,21 to under 60 years,Male,,198.0
 2023,Number,21 to under 60 years,Male,,246.0
-2010,Number,60 years and older,Female,,
-2011,Number,60 years and older,Female,,
+2010,Number,60 years and older,Female,.,
+2011,Number,60 years and older,Female,.,
 2012,Number,60 years and older,Female,,108.0
 2013,Number,60 years and older,Female,,122.0
 2014,Number,60 years and older,Female,,121.0
@@ -251,8 +251,8 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,Value
 2021,Number,60 years and older,Female,,143.0
 2022,Number,60 years and older,Female,,166.0
 2023,Number,60 years and older,Female,,134.0
-2010,Number,60 years and older,Male,,
-2011,Number,60 years and older,Male,,
+2010,Number,60 years and older,Male,.,
+2011,Number,60 years and older,Male,.,
 2012,Number,60 years and older,Male,,73.0
 2013,Number,60 years and older,Male,,90.0
 2014,Number,60 years and older,Male,,92.0
