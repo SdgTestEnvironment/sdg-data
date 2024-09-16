@@ -15,19 +15,42 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "lower secondary school completed",
+                "upper secondary school completed and post-secondary non-tertiary education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "p",
+                "…",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

@@ -2312,20 +2312,45 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Abgeschlossene Sekundarstufe I",
+                "Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Ausbildungsgrad"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

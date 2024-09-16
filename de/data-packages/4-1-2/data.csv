@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Ausbildungsgrad,Geschlecht,COMMENT_OBS_0,Value
+2022,Abgeschlossene Sekundarstufe I,,.,
+2023,Abgeschlossene Sekundarstufe I,,p,91.3
+2024,Abgeschlossene Sekundarstufe I,,…,
+2022,Abgeschlossene Sekundarstufe I,Weiblich,.,
+2023,Abgeschlossene Sekundarstufe I,Weiblich,p,92.6
+2024,Abgeschlossene Sekundarstufe I,Weiblich,…,
+2022,Abgeschlossene Sekundarstufe I,Männlich,.,
+2023,Abgeschlossene Sekundarstufe I,Männlich,p,90.0
+2024,Abgeschlossene Sekundarstufe I,Männlich,…,
+2022,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,,.,
+2023,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,,p,77.1
+2024,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,,…,
+2022,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,Weiblich,.,
+2023,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,Weiblich,p,80.6
+2024,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,Weiblich,…,
+2022,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,Männlich,.,
+2023,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,Männlich,p,73.9
+2024,Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung,Männlich,…,
