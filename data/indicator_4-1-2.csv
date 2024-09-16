@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,education level,sex,Value,COMMENT_OBS_0
+2022,lower secondary school completed,,,.
+2023,lower secondary school completed,,91.3,p
+2024,lower secondary school completed,,,…
+2022,lower secondary school completed,female,,.
+2023,lower secondary school completed,female,92.6,p
+2024,lower secondary school completed,female,,…
+2022,lower secondary school completed,male,,.
+2023,lower secondary school completed,male,90,p
+2024,lower secondary school completed,male,,…
+2022,upper secondary school completed and post-secondary non-tertiary education,,,.
+2023,upper secondary school completed and post-secondary non-tertiary education,,77.1,p
+2024,upper secondary school completed and post-secondary non-tertiary education,,,…
+2022,upper secondary school completed and post-secondary non-tertiary education,female,,.
+2023,upper secondary school completed and post-secondary non-tertiary education,female,80.6,p
+2024,upper secondary school completed and post-secondary non-tertiary education,female,,…
+2022,upper secondary school completed and post-secondary non-tertiary education,male,,.
+2023,upper secondary school completed and post-secondary non-tertiary education,male,73.9,p
+2024,upper secondary school completed and post-secondary non-tertiary education,male,,…
