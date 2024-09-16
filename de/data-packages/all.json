@@ -2317,7 +2317,7 @@
             "constraints": {
               "enum": [
                 "Abgeschlossene Sekundarstufe I",
-                "Abschluss der Sekundarstufe II oder postsekundärer nicht-tertiärer Bildung",
+                "Abgeschlossene Sekundarstufe II",
                 ""
               ]
             },
