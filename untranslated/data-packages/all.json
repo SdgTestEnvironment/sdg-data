@@ -6852,17 +6852,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "renewable energy in total final energy consumption",
-                "renewable energy in gross final energy consumption",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
