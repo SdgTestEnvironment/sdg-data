@@ -1,29 +1,155 @@
-Year,Value,Series
-2010,1,a) national legislation and policy relevant to ias
-2011,1,a) national legislation and policy relevant to ias
-2012,1,a) national legislation and policy relevant to ias
-2013,1,a) national legislation and policy relevant to ias
-2014,1,a) national legislation and policy relevant to ias
-2015,1,a) national legislation and policy relevant to ias
-2016,1,a) national legislation and policy relevant to ias
-2017,1,a) national legislation and policy relevant to ias
-2018,1,a) national legislation and policy relevant to ias
-2019,1,a) national legislation and policy relevant to ias
-2020,1,a) national legislation and policy relevant to ias
-2021,1,a) national legislation and policy relevant to ias
-2022,1,a) national legislation and policy relevant to ias
-2023,1,a) national legislation and policy relevant to ias
-2010,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2011,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2012,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2013,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2014,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2015,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2016,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2017,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2018,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2019,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2020,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2021,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2022,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
-2023,1,b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity
+Year,timeseries,legislation,Value
+2010,national legislation and policy relevant to ias,convention on biological diversity,1
+2011,national legislation and policy relevant to ias,convention on biological diversity,1
+2012,national legislation and policy relevant to ias,convention on biological diversity,1
+2013,national legislation and policy relevant to ias,convention on biological diversity,1
+2014,national legislation and policy relevant to ias,convention on biological diversity,1
+2015,national legislation and policy relevant to ias,convention on biological diversity,1
+2016,national legislation and policy relevant to ias,convention on biological diversity,1
+2017,national legislation and policy relevant to ias,convention on biological diversity,1
+2018,national legislation and policy relevant to ias,convention on biological diversity,1
+2019,national legislation and policy relevant to ias,convention on biological diversity,1
+2020,national legislation and policy relevant to ias,convention on biological diversity,1
+2021,national legislation and policy relevant to ias,convention on biological diversity,1
+2022,national legislation and policy relevant to ias,convention on biological diversity,1
+2023,national legislation and policy relevant to ias,convention on biological diversity,1
+2010,national legislation and policy relevant to ias,cartagena protocol,1
+2011,national legislation and policy relevant to ias,cartagena protocol,1
+2012,national legislation and policy relevant to ias,cartagena protocol,1
+2013,national legislation and policy relevant to ias,cartagena protocol,1
+2014,national legislation and policy relevant to ias,cartagena protocol,1
+2015,national legislation and policy relevant to ias,cartagena protocol,1
+2016,national legislation and policy relevant to ias,cartagena protocol,1
+2017,national legislation and policy relevant to ias,cartagena protocol,1
+2018,national legislation and policy relevant to ias,cartagena protocol,1
+2019,national legislation and policy relevant to ias,cartagena protocol,1
+2020,national legislation and policy relevant to ias,cartagena protocol,1
+2021,national legislation and policy relevant to ias,cartagena protocol,1
+2022,national legislation and policy relevant to ias,cartagena protocol,1
+2023,national legislation and policy relevant to ias,cartagena protocol,1
+2010,national legislation and policy relevant to ias,international plant protection convention,1
+2011,national legislation and policy relevant to ias,international plant protection convention,1
+2012,national legislation and policy relevant to ias,international plant protection convention,1
+2013,national legislation and policy relevant to ias,international plant protection convention,1
+2014,national legislation and policy relevant to ias,international plant protection convention,1
+2015,national legislation and policy relevant to ias,international plant protection convention,1
+2016,national legislation and policy relevant to ias,international plant protection convention,1
+2017,national legislation and policy relevant to ias,international plant protection convention,1
+2018,national legislation and policy relevant to ias,international plant protection convention,1
+2019,national legislation and policy relevant to ias,international plant protection convention,1
+2020,national legislation and policy relevant to ias,international plant protection convention,1
+2021,national legislation and policy relevant to ias,international plant protection convention,1
+2022,national legislation and policy relevant to ias,international plant protection convention,1
+2023,national legislation and policy relevant to ias,international plant protection convention,1
+2010,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2011,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2012,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2013,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2014,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2015,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2016,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2017,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2018,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2019,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2020,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2021,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2022,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2023,national legislation and policy relevant to ias,agreement on sanitary and phytosanitary measures of the world trade organisation,1
+2010,national legislation and policy relevant to ias,world organisation for animal health,1
+2011,national legislation and policy relevant to ias,world organisation for animal health,1
+2012,national legislation and policy relevant to ias,world organisation for animal health,1
+2013,national legislation and policy relevant to ias,world organisation for animal health,1
+2014,national legislation and policy relevant to ias,world organisation for animal health,1
+2015,national legislation and policy relevant to ias,world organisation for animal health,1
+2016,national legislation and policy relevant to ias,world organisation for animal health,1
+2017,national legislation and policy relevant to ias,world organisation for animal health,1
+2018,national legislation and policy relevant to ias,world organisation for animal health,1
+2019,national legislation and policy relevant to ias,world organisation for animal health,1
+2020,national legislation and policy relevant to ias,world organisation for animal health,1
+2021,national legislation and policy relevant to ias,world organisation for animal health,1
+2022,national legislation and policy relevant to ias,world organisation for animal health,1
+2023,national legislation and policy relevant to ias,world organisation for animal health,1
+2010,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2011,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2012,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2013,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2014,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2015,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2016,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2017,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2018,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2019,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2020,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2021,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2022,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2023,national legislation and policy relevant to ias,convention on international trade in endangered species,1
+2010,national legislation and policy relevant to ias,ramsar convention,1
+2011,national legislation and policy relevant to ias,ramsar convention,1
+2012,national legislation and policy relevant to ias,ramsar convention,1
+2013,national legislation and policy relevant to ias,ramsar convention,1
+2014,national legislation and policy relevant to ias,ramsar convention,1
+2015,national legislation and policy relevant to ias,ramsar convention,1
+2016,national legislation and policy relevant to ias,ramsar convention,1
+2017,national legislation and policy relevant to ias,ramsar convention,1
+2018,national legislation and policy relevant to ias,ramsar convention,1
+2019,national legislation and policy relevant to ias,ramsar convention,1
+2020,national legislation and policy relevant to ias,ramsar convention,1
+2021,national legislation and policy relevant to ias,ramsar convention,1
+2022,national legislation and policy relevant to ias,ramsar convention,1
+2023,national legislation and policy relevant to ias,ramsar convention,1
+2010,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2011,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2012,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2013,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2014,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2015,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2016,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2017,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2018,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2019,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2020,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2021,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2022,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2023,national legislation and policy relevant to ias,convention on the conservation of migratory species of wild animals,1
+2010,national legislation and policy relevant to ias,world heritage convention,1
+2011,national legislation and policy relevant to ias,world heritage convention,1
+2012,national legislation and policy relevant to ias,world heritage convention,1
+2013,national legislation and policy relevant to ias,world heritage convention,1
+2014,national legislation and policy relevant to ias,world heritage convention,1
+2015,national legislation and policy relevant to ias,world heritage convention,1
+2016,national legislation and policy relevant to ias,world heritage convention,1
+2017,national legislation and policy relevant to ias,world heritage convention,1
+2018,national legislation and policy relevant to ias,world heritage convention,1
+2019,national legislation and policy relevant to ias,world heritage convention,1
+2020,national legislation and policy relevant to ias,world heritage convention,1
+2021,national legislation and policy relevant to ias,world heritage convention,1
+2022,national legislation and policy relevant to ias,world heritage convention,1
+2023,national legislation and policy relevant to ias,world heritage convention,1
+2010,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2011,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2012,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2013,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2014,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2015,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2016,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2017,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2018,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2019,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2020,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2021,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2022,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2023,national legislation and policy relevant to ias,international convention for the control and management of ship's ballast water and sediments,1
+2010,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2011,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2012,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2013,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2014,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2015,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2016,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2017,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2018,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2019,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2020,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2021,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2022,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
+2023,align the nbsap targets with aichi target 9 of the strategic plan for biodiversity,,1
