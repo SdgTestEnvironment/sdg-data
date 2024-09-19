@@ -28,6 +28,18 @@
             "title": "Units"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hazardous waste generated per capita",
+                "Hazardous waste treated",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "type of waste treatment",
             "type": "string",
             "constraints": {
@@ -40,29 +52,6 @@
               ]
             },
             "title": "Type of waste treatment"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) Hazardous waste generated per capita",
-                "b) Hazardous waste treated",
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "Value",

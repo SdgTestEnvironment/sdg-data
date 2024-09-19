@@ -24,7 +24,7 @@ Year,Zeitreihe,Value
 2018,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,16.62
 2019,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,16.54
 2020,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,17.15
-2021,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,16.84
+2021,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,16.77
 2022,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,16.99
 2023,Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen,17.48
 2010,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,34.22
@@ -36,9 +36,9 @@ Year,Zeitreihe,Value
 2016,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,14.68
 2017,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,11.89
 2018,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,9.06
-2019,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,7.43
+2019,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,6.78
 2020,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,7.85
-2021,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,6.93
+2021,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,7.01
 2022,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,7.87
 2023,Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital,8.19
 2010,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,3.2
@@ -50,9 +50,9 @@ Year,Zeitreihe,Value
 2016,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.71
 2017,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.5
 2018,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.24
-2019,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.38
+2019,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.05
 2020,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.68
-2021,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.34
+2021,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.5
 2022,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.36
 2023,Anteil der notleidenden Kredite an den Bruttokrediten insgesamt,1.52
 2010,Gesamtkapitalrentabilität,0.37
@@ -64,25 +64,25 @@ Year,Zeitreihe,Value
 2016,Gesamtkapitalrentabilität,0.37
 2017,Gesamtkapitalrentabilität,0.37
 2018,Gesamtkapitalrentabilität,0.32
-2019,Gesamtkapitalrentabilität,0.24
-2020,Gesamtkapitalrentabilität,0.16
-2021,Gesamtkapitalrentabilität,0.34
+2019,Gesamtkapitalrentabilität,0.26
+2020,Gesamtkapitalrentabilität,0.22
+2021,Gesamtkapitalrentabilität,0.4
 2022,Gesamtkapitalrentabilität,0.4
 2023,Gesamtkapitalrentabilität,0.6
-2010,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,136.99
-2011,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,137.86
-2012,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,144.17
-2013,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,140.5
-2014,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,145.48
-2015,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,146.5
-2016,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,146.62
-2017,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,151.25
-2018,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,151.7
-2019,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,161.25
-2020,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,169.64
-2021,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,33.72
-2022,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,34.14
-2023,Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten,34.84
+2010,Verbindlichkeiten,136.99
+2011,Verbindlichkeiten,137.86
+2012,Verbindlichkeiten,144.17
+2013,Verbindlichkeiten,140.5
+2014,Verbindlichkeiten,145.48
+2015,Verbindlichkeiten,146.5
+2016,Verbindlichkeiten,146.62
+2017,Verbindlichkeiten,151.25
+2018,Verbindlichkeiten,151.7
+2019,Verbindlichkeiten,161.25
+2020,Verbindlichkeiten,169.64
+2021,Verbindlichkeiten,170.88
+2022,Verbindlichkeiten,34.14
+2023,Verbindlichkeiten,34.84
 2010,Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln,4.4
 2011,Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln,4.48
 2012,Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln,3.93

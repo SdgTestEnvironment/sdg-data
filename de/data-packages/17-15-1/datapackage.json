@@ -16,17 +16,18 @@
             "title": "Jahr"
           },
           {
-            "name": "level",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
+                "Ländereigene Ergebnisrahmen und Planungsinstrumente",
                 "Ziele",
                 "Indikatoren",
                 "Daten",
                 ""
               ]
             },
-            "title": "Ebene"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

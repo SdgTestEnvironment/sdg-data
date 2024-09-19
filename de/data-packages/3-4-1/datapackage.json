@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Herz-Kreislauferkrankungen",
+                "a) Herz-Kreislauferkrankung",
                 "b) Bösartige Neubildungen",
                 "c) Diabetes mellitus",
                 "d) Chronische Atemwegserkrankungen",

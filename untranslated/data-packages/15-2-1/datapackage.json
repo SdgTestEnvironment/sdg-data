@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million tonnes carbon",
+                "million tonnes",
                 "percentage",
                 ""
               ]
@@ -33,19 +33,6 @@
                 "standig wood",
                 "other woody biomass",
                 "other biomass in forests",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "X",
-                "0",
-                "r",
-                "p",
                 ""
               ]
             }

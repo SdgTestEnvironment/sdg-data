@@ -16,17 +16,18 @@
             "title": "Year"
           },
           {
-            "name": "level",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
+                "Country-owned results frameworks and planning tools",
                 "Objectives",
                 "Indicators",
                 "Data",
                 ""
               ]
             },
-            "title": "Level"
+            "title": "Time series"
           },
           {
             "name": "Value",

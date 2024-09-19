@@ -28,6 +28,18 @@
             "title": "Units"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aufkommen gefährlicher Abfälle",
+                "Behandelte gefährliche Abfälle",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "type of waste treatment",
             "type": "string",
             "constraints": {
@@ -40,29 +52,6 @@
               ]
             },
             "title": "Art der Abfallbehandlung"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) Aufkommen gefährlicher Abfälle",
-                "b) Behandelte gefährliche Abfälle",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "Value",

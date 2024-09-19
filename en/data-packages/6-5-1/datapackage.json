@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Finale Score",
                 "Enabling environment",
                 "Institutions and participation",
                 "Management Instruments",

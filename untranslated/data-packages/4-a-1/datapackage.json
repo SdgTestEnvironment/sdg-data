@@ -15,14 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "type of service",
+            "name": "facilities",
             "type": "string",
             "constraints": {
               "enum": [
-                "schools with access to electricity",
-                "schools with access to basic drinking water",
-                "schools with access to single-sex basic sanitation facilities",
-                "schools with access to basic handwashing facilities",
+                "a) schools with access to electricity",
+                "e) schools with access to basic drinking water",
+                "f) schools with access to single-sex basic sanitation facilities",
+                "g) schools with access to basic handwashing facilities",
                 ""
               ]
             }
