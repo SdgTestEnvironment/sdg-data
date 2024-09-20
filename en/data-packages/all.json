@@ -18,6 +18,36 @@
             "title": "Year"
           },
           {
+            "name": "sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "General services",
+                "Education, science, research, cultural affairs",
+                "Energy and water management, trade, services",
+                "Food, agriculture and forestry",
+                "Financial services",
+                "Health, environment, sport and recreation",
+                "Social security, family and youth, labour market policy",
+                "Transport and communications",
+                "Housing, urban development, regional planning and municipal community services",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -72,6 +102,20 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                "…",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -242,6 +286,17 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -606,7 +661,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -617,8 +672,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Commitments (ODA and OOF)",
-                "Gross disbursements (ODA and OOF)",
+                "Commitments (ODA)",
+                "Gross disbursements (ODA)",
                 ""
               ]
             },
@@ -701,8 +756,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lower bound",
                 "Upper bound",
+                "Lower bound",
                 ""
               ]
             },
@@ -933,7 +988,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -1047,6 +1102,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -1257,7 +1323,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million tonnes",
+                "Million tonnes carbon",
                 "Percentage",
                 ""
               ]
@@ -1276,6 +1342,20 @@
               ]
             },
             "title": "Type of biomass"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "X",
+                "0",
+                "r",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",
@@ -1365,8 +1445,19 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1471,6 +1562,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -1811,7 +1913,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -1828,6 +1930,17 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -1963,6 +2076,17 @@
             "title": "Time series"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1998,6 +2122,17 @@
               ]
             },
             "title": "Function"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -2126,7 +2261,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -2174,20 +2309,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "exposure to excessive natural heat",
-                "exposure to excessive natural cold",
-                "exposure to sunlight",
-                "victim of lightning",
-                "victim of earthquake",
-                "victim of volcanic eruption",
-                "victim of avalanche, landslide and other earth movements",
-                "victim of cataclysmic storm",
-                "victim of flood",
-                "exposure to other and unspecified forces of nature",
+                "Exposure to excessive natural heat",
+                "Exposure to excessive natural cold",
+                "Exposure to sunlight",
+                "Victim of lightning",
+                "Victim of earthquake",
+                "Victim of volcanic eruption",
+                "Victim of avalanche, landslide and other earth movements",
+                "Victim of cataclysmic storm",
+                "Victim of flood",
+                "Exposure to other and unspecified forces of nature",
                 ""
               ]
             },
-            "title": "cause of death"
+            "title": "Cause of death"
           },
           {
             "name": "Value",
@@ -2272,6 +2407,17 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -2499,7 +2645,7 @@
           }
         ]
       },
-      "title": "Installierte Kapazitäten zur Erzeugung erneuerbarer Energie in Entwicklungs- und Industrieländern (in Watt pro Kopf)"
+      "title": "Installierte Kapazitäten zur Erzeugung erneuerbarer Energie in Entwicklungsländern und entwickelten Ländern (in Watt pro Kopf)"
     },
     {
       "path": "8-5-1/data.csv",
@@ -2666,6 +2812,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -2845,7 +3002,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -3078,6 +3235,19 @@
             "title": "Time series"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "r",
+                "-",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3219,6 +3389,17 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -3265,6 +3446,17 @@
               ]
             },
             "title": "Economic activity"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -3363,6 +3555,17 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "-",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3411,6 +3614,17 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -3475,6 +3689,17 @@
             "title": "Sex"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3524,7 +3749,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -3638,7 +3863,7 @@
           }
         ]
       },
-      "title": "Anteil der Opfer von Gewalttaten in den vorangegangenen 12 Monaten, die den zuständigen Behörden oder anderen offiziell anerkannten Mechanismen zur Konfliktbeilegung diese Gewalt angezeigt haben"
+      "title": "Anteil der Opfer von a) physischer, b) psychischer und/oder c) sexueller Gewalt in den vorangegangenen 12 Monaten, die den zuständigen Behörden oder anderen offiziell anerkannten Mechanismen zur Konfliktbeilegung diese Gewalt angezeigt haben"
     },
     {
       "path": "4-1-2/data.csv",
@@ -3661,7 +3886,7 @@
             "constraints": {
               "enum": [
                 "Lower secondary school completed",
-                "upper secondary school completed",
+                "Upper secondary school completed",
                 ""
               ]
             },
@@ -3923,6 +4148,17 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4042,13 +4278,24 @@
             "title": "Speed"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Anzahl der Festnetz-Breitbandanschlüsse je 100 Einwohner/-innen, nach Geschwindigkeit"
+      "title": "Anzahl der Breitbandanschlüsse je 100 Einwohner/-innen, nach Geschwindigkeit"
     },
     {
       "path": "1-1-1/data.csv",
@@ -4163,18 +4410,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Renewable energy in total final energy consumption",
-                "Renewable energy in gross final energy consumption",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4239,20 +4474,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "exposure to excessive natural heat",
-                "exposure to excessive natural cold",
-                "exposure to sunlight",
-                "victim of lightning",
-                "victim of earthquake",
-                "victim of volcanic eruption",
-                "victim of avalanche, landslide and other earth movements",
-                "victim of cataclysmic storm",
-                "victim of flood",
-                "exposure to other and unspecified forces of nature",
+                "Exposure to excessive natural heat",
+                "Exposure to excessive natural cold",
+                "Exposure to sunlight",
+                "Victim of lightning",
+                "Victim of earthquake",
+                "Victim of volcanic eruption",
+                "Victim of avalanche, landslide and other earth movements",
+                "Victim of cataclysmic storm",
+                "Victim of flood",
+                "Exposure to other and unspecified forces of nature",
                 ""
               ]
             },
-            "title": "cause of death"
+            "title": "Cause of death"
           },
           {
             "name": "Value",
@@ -4354,7 +4589,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -4399,6 +4634,18 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -4521,6 +4768,18 @@
             "title": "Mode of transport"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4624,6 +4883,20 @@
             "title": "Feelings of insecurity"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "|",
+                ".",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4683,6 +4956,17 @@
               ]
             },
             "title": "Type of waste"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",
@@ -4812,6 +5096,19 @@
             "title": "Disease"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "-",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4834,18 +5131,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Hectare",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Series",
@@ -4970,7 +5255,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -4999,6 +5284,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "‒",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -5104,6 +5401,19 @@
             "title": "GeoCode"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "s",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5203,6 +5513,18 @@
             "title": "Sex"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5271,16 +5593,27 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)",
-                "Government expenditure on cultural services (COFOG division 8.2)",
+                "Protection of biodiversity and landscape (COFOG 5.4)",
+                "Cultural services (COFOG 8.2)",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -5385,7 +5718,7 @@
                 ""
               ]
             },
-            "title": "Legislation"
+            "title": "legislation"
           }
         ]
       },
@@ -5447,7 +5780,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number of pieces of platic waste per 100 meters of beach length",
+                "Number of pieces of platic waste per 100 meters of beach length",
                 "Percentage",
                 ""
               ]
@@ -5459,8 +5792,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "plastic waste on the beaches of the german north sea coast",
-                "plastic particles in fulmar stomachs",
+                "Plastic waste on the beaches of the German North Sea coast",
+                "Plastic particles in fulmar stomachs",
                 ""
               ]
             },
@@ -5557,6 +5890,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",
@@ -5723,6 +6067,17 @@
             "title": "Indicator"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -5795,18 +6150,17 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Country-owned results frameworks and planning tools",
                 "Objectives",
                 "Indicators",
                 "Data",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Level"
           },
           {
             "name": "Value",
@@ -5889,6 +6243,17 @@
             "title": "Standard accounting system"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -5949,6 +6314,18 @@
               ]
             },
             "title": "Profession"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -6062,7 +6439,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -6083,8 +6460,19 @@
             "title": "Time series"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6111,36 +6499,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fully disaggregated",
-                "partially disaggregated",
-                "not disaggregated",
+                "Fully disaggregated",
+                "Partially disaggregated",
+                "Not disaggregated",
                 ""
               ]
             },
-            "title": "completeness of disaggregation"
+            "title": "Completeness of disaggregation"
           },
           {
             "name": "goal",
             "type": "string",
             "constraints": {
               "enum": [
-                "1 - no poverty",
-                "2 - zero hunger",
-                "3 - good health and well-being",
-                "4 - quality education",
-                "5 - gender equality",
-                "8 - decent work and economic growth",
-                "9 - industry, innovation and infrastructure",
-                "10 - reduced inequalities",
-                "11 - sustainable cities and communities",
-                "12 - responsible consumption and production",
-                "15 - life on land",
-                "16 - peace and justice",
-                "17 - partnerships for the goals",
+                "1 - No poverty",
+                "2 - Zero hunger",
+                "3 - Good health and well-being",
+                "4 - Quality education",
+                "5 - Gender equality",
+                "8 - Decent work and economic Growth",
+                "9 - Industry, innovation and infrastructure",
+                "10 - Reduced inequalities",
+                "11 - Sustainable cities and communities",
+                "12 - Responsible consumption and production",
+                "15 - Life on land",
+                "16 - Peace and justice",
+                "17 - Partnerships for the goals",
                 ""
               ]
             },
-            "title": "goal"
+            "title": "Goal"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -6161,7 +6549,7 @@
           }
         ]
       },
-      "title": "Indikator der statistischen Kapazitäten für die Überwachung der Nachhaltigkeitsziele"
+      "title": "Indikatoren der statistischen Kapazitäten"
     },
     {
       "path": "7-a-1/data.csv",
@@ -6244,7 +6632,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -6292,7 +6680,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -6470,18 +6858,18 @@
             "title": "Year"
           },
           {
-            "name": "facilities",
+            "name": "type of service",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Schools with access to electricity",
-                "e) Schools with access to basic drinking water",
-                "f) Schools with access to single-sex basic sanitation facilities",
-                "g) Schools with access to basic handwashing facilities",
+                "Schools with access to electricity",
+                "Schools with access to basic drinking water",
+                "Schools with access to single-sex basic sanitation facilities",
+                "Schools with access to basic handwashing facilities",
                 ""
               ]
             },
-            "title": "Facilities"
+            "title": "Type of service"
           },
           {
             "name": "Value",
@@ -6561,7 +6949,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -6682,6 +7070,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Finale Score",
                 "Enabling environment",
                 "Institutions and participation",
                 "Management Instruments",
@@ -6918,6 +7307,17 @@
             "title": "Sex"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7015,6 +7415,17 @@
             "title": "Sex"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7051,18 +7462,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hazardous waste generated per capita",
-                "Hazardous waste treated",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "type of waste treatment",
             "type": "string",
             "constraints": {
@@ -7075,6 +7474,29 @@
               ]
             },
             "title": "Type of waste treatment"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Hazardous waste generated per capita",
+                "b) Hazardous waste treated",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -7141,23 +7563,47 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "km²",
                 "Percentage",
+                "km²",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "ecosystem",
             "type": "string",
             "constraints": {
               "enum": [
-                "Lakes and Rivers permanent water area",
-                "Lakes and rivers permanent water area as a proportion of total land area",
+                "Lakes and rivers permanent water area",
                 "Wetlands area",
-                "Wetlands area as a proportion of total land area",
-                "Lakes and Rivers permanent water area change (compared to 2015)",
+                "Large artificial or heavily modified lakes",
+                ""
+              ]
+            },
+            "title": "Ecosystem"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                "x",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area change in comparison to 2015",
+                "Area",
+                "Area as a proportion of total land area",
                 ""
               ]
             },
@@ -7186,6 +7632,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -7256,6 +7714,7 @@
               "enum": [
                 "Documents issued for the import and export of protected species",
                 "Seizures by authorities concerning the protection of species",
+                "Authorized imports and exports of protected species",
                 ""
               ]
             },
@@ -7498,6 +7957,17 @@
             "title": "Technology sectors"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7527,7 +7997,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -7687,32 +8157,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -7733,6 +8183,17 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -7787,8 +8248,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Animal genetic resources",
                 "Plant genetic resources",
+                "Animal genetic resources",
                 ""
               ]
             },
@@ -7819,8 +8280,19 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7859,11 +8331,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)",
+                "1) Countries that are contracting Parties to the International Treaty on PGRFA",
                 "2) Countries that are parties to the Nagoya Protocol",
-                "3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA)",
-                "4) Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House",
-                "5) Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to Germany",
+                "3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on PGRFA",
+                "4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House",
+                "5) Total reported number of SMTAs transferring PGRFA to Germany",
                 ""
               ]
             },
@@ -7898,8 +8370,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
-                "Implementation of the System of Environmental-Economic Accounting (SEEA)",
+                "(a) Implementation of national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
+                "(b) Implementation of the principles of biodiversity in the SEEA",
                 ""
               ]
             },
@@ -7986,6 +8458,17 @@
             "title": "Sex"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -8070,6 +8553,17 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -8124,6 +8618,7 @@
               "enum": [
                 "Documents issued for the import and export of protected species",
                 "Seizures by authorities concerning the protection of species",
+                "Authorized imports and exports of protected species",
                 ""
               ]
             },
@@ -8166,6 +8661,17 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -8203,6 +8709,18 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -8225,6 +8743,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -8275,10 +8805,48 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Houres per day",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of unpaid work",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic and care work",
+                "Domestic work",
+                "Care work",
+                ""
+              ]
+            },
+            "title": "Type of unpaid work"
+          },
+          {
+            "name": "degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural areas",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
+                "15 years and older",
                 "15 to under 25 years",
                 "25 to under 45 years",
                 "45 to under 55 years",
@@ -8374,7 +8942,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Victims of physical harassment",
+                "Victims of non-sexual harassment",
                 "Victims of sexual harassment",
                 ""
               ]
@@ -8415,7 +8983,7 @@
           }
         ]
       },
-      "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten Opfer körperlicher oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Tatort"
+      "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten Opfer nicht-sexueller oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Tatort"
     },
     {
       "path": "16-8-1/data.csv",
@@ -8469,13 +9037,24 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
       },
-      "title": "Installierte Kapazitäten zur Erzeugung erneuerbarer Energie in Entwicklungs- und Industrieländern (in Watt pro Kopf)"
+      "title": "Installierte Kapazitäten zur Erzeugung erneuerbarer Energie in Entwicklungsländern und entwickelten Ländern (in Watt pro Kopf)"
     },
     {
       "path": "3-9-2/data.csv",
@@ -8582,20 +9161,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "exposure to excessive natural heat",
-                "exposure to excessive natural cold",
-                "exposure to sunlight",
-                "victim of lightning",
-                "victim of earthquake",
-                "victim of volcanic eruption",
-                "victim of avalanche, landslide and other earth movements",
-                "victim of cataclysmic storm",
-                "victim of flood",
-                "exposure to other and unspecified forces of nature",
+                "Exposure to excessive natural heat",
+                "Exposure to excessive natural cold",
+                "Exposure to sunlight",
+                "Victim of lightning",
+                "Victim of earthquake",
+                "Victim of volcanic eruption",
+                "Victim of avalanche, landslide and other earth movements",
+                "Victim of cataclysmic storm",
+                "Victim of flood",
+                "Exposure to other and unspecified forces of nature",
                 ""
               ]
             },
-            "title": "cause of death"
+            "title": "Cause of death"
           },
           {
             "name": "Value",
@@ -8632,6 +9211,17 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -8830,6 +9420,18 @@
             "title": "Sex"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "0",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -8880,6 +9482,17 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -8937,7 +9550,7 @@
           }
         ]
       },
-      "title": "a) Index der Lebensmittelverluste und b) Index der Lebensmittelverschwendung"
+      "title": "a) Index der Lebensmittelverluste und b) Index der Lebensmittelabfälle"
     },
     {
       "path": "6-3-2/data.csv",
@@ -8965,6 +9578,17 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -9001,6 +9625,18 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -9118,7 +9754,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -9162,6 +9798,17 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -9191,7 +9838,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -9306,6 +9953,17 @@
             "title": "Time series"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -9386,7 +10044,7 @@
             "constraints": {
               "enum": [
                 "Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older",
-                "Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease",
+                "Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease",
                 "DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older",
                 "DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease",
                 ""
@@ -9471,6 +10129,17 @@
               ]
             },
             "title": "Level of court"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -9667,6 +10336,17 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -9757,7 +10437,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten a) physischer Gewalt, b) psychischer Gewalt und c) sexueller Gewalt ausgesetzt war"
+      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten a) physischer Gewalt, b) psychischer Gewalt und/oder c) sexueller Gewalt ausgesetzt war"
     },
     {
       "path": "16-5-2/data.csv",
@@ -9887,8 +10567,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Branches of payment service providers",
-                "ATMs of national payment service providers",
+                "a) Branches of payment service providers",
+                "b) ATMs of national payment service providers",
                 ""
               ]
             },
@@ -10020,6 +10700,17 @@
             "title": "Units"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -10105,7 +10796,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2021)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
