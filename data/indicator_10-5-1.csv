@@ -24,7 +24,7 @@ Year,timeseries,Value
 2018,regulatory tier 1 capital to risk-weighted assets,16.62
 2019,regulatory tier 1 capital to risk-weighted assets,16.54
 2020,regulatory tier 1 capital to risk-weighted assets,17.15
-2021,regulatory tier 1 capital to risk-weighted assets,16.77
+2021,regulatory tier 1 capital to risk-weighted assets,16.84
 2022,regulatory tier 1 capital to risk-weighted assets,16.99
 2023,regulatory tier 1 capital to risk-weighted assets,17.48
 2010,nonperforming loans net of provisions to capital,34.22
@@ -36,9 +36,9 @@ Year,timeseries,Value
 2016,nonperforming loans net of provisions to capital,14.68
 2017,nonperforming loans net of provisions to capital,11.89
 2018,nonperforming loans net of provisions to capital,9.06
-2019,nonperforming loans net of provisions to capital,6.78
+2019,nonperforming loans net of provisions to capital,7.43
 2020,nonperforming loans net of provisions to capital,7.85
-2021,nonperforming loans net of provisions to capital,7.01
+2021,nonperforming loans net of provisions to capital,6.93
 2022,nonperforming loans net of provisions to capital,7.87
 2023,nonperforming loans net of provisions to capital,8.19
 2010,nonperforming loans net of provisions to gross loans,3.20
@@ -50,9 +50,9 @@ Year,timeseries,Value
 2016,nonperforming loans net of provisions to gross loans,1.71
 2017,nonperforming loans net of provisions to gross loans,1.50
 2018,nonperforming loans net of provisions to gross loans,1.24
-2019,nonperforming loans net of provisions to gross loans,1.05
+2019,nonperforming loans net of provisions to gross loans,1.38
 2020,nonperforming loans net of provisions to gross loans,1.68
-2021,nonperforming loans net of provisions to gross loans,1.50
+2021,nonperforming loans net of provisions to gross loans,1.34
 2022,nonperforming loans net of provisions to gross loans,1.36
 2023,nonperforming loans net of provisions to gross loans,1.52
 2010,return on assets,0.37
@@ -64,9 +64,9 @@ Year,timeseries,Value
 2016,return on assets,0.37
 2017,return on assets,0.37
 2018,return on assets,0.32
-2019,return on assets,0.26
-2020,return on assets,0.22
-2021,return on assets,0.40
+2019,return on assets,0.24
+2020,return on assets,0.16
+2021,return on assets,0.34
 2022,return on assets,0.40
 2023,return on assets,0.60
 2010,liquid assets to short-term liabilities,136.99
@@ -80,7 +80,7 @@ Year,timeseries,Value
 2018,liquid assets to short-term liabilities,151.70
 2019,liquid assets to short-term liabilities,161.25
 2020,liquid assets to short-term liabilities,169.64
-2021,liquid assets to short-term liabilities,170.88
+2021,liquid assets to short-term liabilities,33.72
 2022,liquid assets to short-term liabilities,34.14
 2023,liquid assets to short-term liabilities,34.84
 2010,net open position in foreign exchange to capital,4.40
