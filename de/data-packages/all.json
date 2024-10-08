@@ -18,36 +18,6 @@
             "title": "Jahr"
           },
           {
-            "name": "sector",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Allgemeine Dienste",
-                "Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",
-                "Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",
-                "Ernährung, Landwirtschaft und Forsten",
-                "Finanzwirtschaft",
-                "Gesundheit, Umwelt, Sport und Erholung",
-                "Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",
-                "Verkehrs- und Nachrichtenwesen",
-                "Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",
-                ""
-              ]
-            },
-            "title": "Sektor"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -102,20 +72,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                "…",
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -286,17 +242,6 @@
               ]
             },
             "title": "Geschlecht"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -622,7 +567,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Herz-Kreislauferkrankungen",
+                "a) Herz-Kreislauferkrankung",
                 "b) Bösartige Neubildungen",
                 "c) Diabetes mellitus",
                 "d) Chronische Atemwegserkrankungen",
@@ -661,7 +606,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -672,8 +617,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA)",
-                "Bruttoentwicklungsausgaben (ODA)",
+                "Zusagen (ODA and OOF)",
+                "Bruttoausgaben (ODA und OOF)",
                 ""
               ]
             },
@@ -756,8 +701,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Obere Grenze",
                 "Untere Grenze",
+                "Obere Grenze",
                 ""
               ]
             },
@@ -988,7 +933,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -1102,17 +1047,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -1323,7 +1257,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen Tonnen Kohlenstoff",
+                "Millionen Tonnen",
                 "Prozent",
                 ""
               ]
@@ -1342,20 +1276,6 @@
               ]
             },
             "title": "Art der Biomasse"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "X",
-                "0",
-                "r",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",
@@ -1445,19 +1365,8 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -1562,17 +1471,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -1913,7 +1811,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -1930,17 +1828,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -2076,17 +1963,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -2122,17 +1998,6 @@
               ]
             },
             "title": "Aufgabenbereich"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -2261,7 +2126,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -2309,20 +2174,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Exposition gegenüber übermäßiger natürlicher Hitze",
-                "Exposition gegenüber übermäßiger natürlicher Kälte",
-                "Exposition gegenüber Sonnenlicht",
-                "Opfer von Blitzschlag",
-                "Opfer von Erdbeben",
-                "Opfer von Vulkanausbruch",
-                "Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",
-                "Opfer von Sturmkatastrophe",
-                "Opfer von Überschwemmung",
-                "Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften",
+                "exposure to excessive natural heat",
+                "exposure to excessive natural cold",
+                "exposure to sunlight",
+                "victim of lightning",
+                "victim of earthquake",
+                "victim of volcanic eruption",
+                "victim of avalanche, landslide and other earth movements",
+                "victim of cataclysmic storm",
+                "victim of flood",
+                "exposure to other and unspecified forces of nature",
                 ""
               ]
             },
-            "title": "Todesursache"
+            "title": "cause of death"
           },
           {
             "name": "Value",
@@ -2407,17 +2272,6 @@
               ]
             },
             "title": "Geschlecht"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -2645,7 +2499,7 @@
           }
         ]
       },
-      "title": "Installierte Kapazitäten zur Erzeugung erneuerbarer Energie in Entwicklungsländern und entwickelten Ländern (in Watt pro Kopf)"
+      "title": "Installierte Kapazitäten zur Erzeugung erneuerbarer Energie in Entwicklungs- und Industrieländern (in Watt pro Kopf)"
     },
     {
       "path": "8-5-1/data.csv",
@@ -2722,7 +2576,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Durchschnittlicher Stundenverdienst Beschäftigter",
+                "Durchschnittlicher Stundenlohn Beschäftigter",
                 "Verdienstabstand",
                 ""
               ]
@@ -2812,17 +2666,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -3002,7 +2845,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -3235,19 +3078,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "r",
-                "-",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -3389,17 +3219,6 @@
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -3446,17 +3265,6 @@
               ]
             },
             "title": "Wirtschaftszweig"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -3555,17 +3363,6 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "-",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -3614,17 +3411,6 @@
               ]
             },
             "title": "Geschlecht"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -3689,17 +3475,6 @@
             "title": "Geschlecht"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -3749,7 +3524,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -3863,7 +3638,7 @@
           }
         ]
       },
-      "title": "Anteil der Opfer von a) physischer, b) psychischer und/oder c) sexueller Gewalt in den vorangegangenen 12 Monaten, die den zuständigen Behörden oder anderen offiziell anerkannten Mechanismen zur Konfliktbeilegung diese Gewalt angezeigt haben"
+      "title": "Anteil der Opfer von Gewalttaten in den vorangegangenen 12 Monaten, die den zuständigen Behörden oder anderen offiziell anerkannten Mechanismen zur Konfliktbeilegung diese Gewalt angezeigt haben"
     },
     {
       "path": "4-1-2/data.csv",
@@ -3886,7 +3661,7 @@
             "constraints": {
               "enum": [
                 "Abgeschlossene Sekundarstufe I",
-                "Abgeschlossene Sekundarstufe II",
+                "upper secondary school completed",
                 ""
               ]
             },
@@ -4148,17 +3923,6 @@
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -4278,24 +4042,13 @@
             "title": "Geschwindigkeit"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
           }
         ]
       },
-      "title": "Anzahl der Breitbandanschlüsse je 100 Einwohner/-innen, nach Geschwindigkeit"
+      "title": "Anzahl der Festnetz-Breitbandanschlüsse je 100 Einwohner/-innen, nach Geschwindigkeit"
     },
     {
       "path": "1-1-1/data.csv",
@@ -4410,6 +4163,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Erneuerbare Energien am gesamten Endenergieverbrauch",
+                "Erneuerbare Energien am Bruttoendenergieverbrauch",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -4474,20 +4239,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Exposition gegenüber übermäßiger natürlicher Hitze",
-                "Exposition gegenüber übermäßiger natürlicher Kälte",
-                "Exposition gegenüber Sonnenlicht",
-                "Opfer von Blitzschlag",
-                "Opfer von Erdbeben",
-                "Opfer von Vulkanausbruch",
-                "Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",
-                "Opfer von Sturmkatastrophe",
-                "Opfer von Überschwemmung",
-                "Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften",
+                "exposure to excessive natural heat",
+                "exposure to excessive natural cold",
+                "exposure to sunlight",
+                "victim of lightning",
+                "victim of earthquake",
+                "victim of volcanic eruption",
+                "victim of avalanche, landslide and other earth movements",
+                "victim of cataclysmic storm",
+                "victim of flood",
+                "exposure to other and unspecified forces of nature",
                 ""
               ]
             },
-            "title": "Todesursache"
+            "title": "cause of death"
           },
           {
             "name": "Value",
@@ -4636,18 +4401,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -4768,18 +4521,6 @@
             "title": "Verkehrsträger"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4883,20 +4624,6 @@
             "title": "Unsicherheitsgefühl"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "|",
-                ".",
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4956,17 +4683,6 @@
               ]
             },
             "title": "Abfallart"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",
@@ -5096,19 +4812,6 @@
             "title": "Erkrankung"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "-",
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -5131,6 +4834,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Hektar",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Series",
@@ -5255,7 +4970,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -5284,18 +4999,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "‒",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -5401,19 +5104,6 @@
             "title": "GeoCode"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "s",
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -5513,18 +5203,6 @@
             "title": "Geschlecht"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -5593,27 +5271,16 @@
             "title": "Jahr"
           },
           {
-            "name": "time series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Arten- und Landschaftsschutz (COFOG 5.4)",
-                "Kultur (COFOG 8.2)",
+                "Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)",
+                "Staatsausgaben für Kultur (COFOG Abteilung 8.2)",
                 ""
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -5718,7 +5385,7 @@
                 ""
               ]
             },
-            "title": "legislation"
+            "title": "Rechtsvorschrift"
           }
         ]
       },
@@ -5780,7 +5447,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl der Müllteile aus Plastik pro 100 m Küstenlinie",
+                "number of pieces of platic waste per 100 meters of beach length",
                 "Prozent",
                 ""
               ]
@@ -5792,8 +5459,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Plastikmüll an Stränden der deutschen Nordsee-Küste",
-                "Plastikmüll in Mägen von Eissturmvögeln",
+                "plastic waste on the beaches of the german north sea coast",
+                "plastic particles in fulmar stomachs",
                 ""
               ]
             },
@@ -5892,17 +5559,6 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5948,7 +5604,7 @@
                 "Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital",
                 "Anteil der notleidenden Kredite an den Bruttokrediten insgesamt",
                 "Gesamtkapitalrentabilität",
-                "Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten",
+                "Verbindlichkeiten",
                 "Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln",
                 ""
               ]
@@ -6067,17 +5723,6 @@
             "title": "Indikator"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -6150,17 +5795,18 @@
             "title": "Jahr"
           },
           {
-            "name": "level",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
+                "Ländereigene Ergebnisrahmen und Planungsinstrumente",
                 "Ziele",
                 "Indikatoren",
                 "Daten",
                 ""
               ]
             },
-            "title": "Ebene"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -6243,17 +5889,6 @@
             "title": "Standard Gesamtrechnungssystem"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Wert"
@@ -6314,18 +5949,6 @@
               ]
             },
             "title": "Beruf"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -6460,19 +6083,8 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -6499,36 +6111,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Vollständig disaggregiert",
-                "Teilweise disaggregiert",
-                "Nicht disaggregiert",
+                "fully disaggregated",
+                "partially disaggregated",
+                "not disaggregated",
                 ""
               ]
             },
-            "title": "Vollständigkeit der Disaggregation"
+            "title": "completeness of disaggregation"
           },
           {
             "name": "goal",
             "type": "string",
             "constraints": {
               "enum": [
-                "1 - Keine Armut",
-                "2 - Kein Hunger",
-                "3 - Gesundheit und Wohlergehen",
-                "4 - Hochwertige Bildung",
-                "5 - Geschlechtergleichheit",
-                "8 - Menschenwürdige Arbeit und Wirtschaftswachstum",
-                "9 - Industrie, Innovation und Infrastruktur",
-                "10 - Weniger Ungleichheiten",
-                "11 - Nachhaltige Städte und Gemeinden",
-                "12 - Nachhaltige/r Konsum und Produktion",
-                "15 - Leben an Land",
-                "16 - Frieden, Gerechtigkeit und starke Institutionen",
-                "17 - Partnerschaften zur Erreichung der Ziele",
+                "1 - no poverty",
+                "2 - zero hunger",
+                "3 - good health and well-being",
+                "4 - quality education",
+                "5 - gender equality",
+                "8 - decent work and economic growth",
+                "9 - industry, innovation and infrastructure",
+                "10 - reduced inequalities",
+                "11 - sustainable cities and communities",
+                "12 - responsible consumption and production",
+                "15 - life on land",
+                "16 - peace and justice",
+                "17 - partnerships for the goals",
                 ""
               ]
             },
-            "title": "Ziel"
+            "title": "goal"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -6549,7 +6161,7 @@
           }
         ]
       },
-      "title": "Indikatoren der statistischen Kapazitäten"
+      "title": "Indikator der statistischen Kapazitäten für die Überwachung der Nachhaltigkeitsziele"
     },
     {
       "path": "7-a-1/data.csv",
@@ -6632,7 +6244,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -6680,7 +6292,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -6858,18 +6470,18 @@
             "title": "Jahr"
           },
           {
-            "name": "type of service",
+            "name": "facilities",
             "type": "string",
             "constraints": {
               "enum": [
-                "Schulen mit Zugang zu Elektrizität",
-                "Schulen mit Zugang zu Trinkwasser",
-                "Schulen mit Zugang zu geschlechterspezifischen, grundlegenden sanitären Anlagen",
-                "Schulen mit Zugang zu grundlegenden Einrichtungen zum Händewaschen",
+                "a) Schulen mit Zugang zu Elektrizität",
+                "e) Schulen mit Zugang zu Trinkwasser",
+                "f) Schulen mit Zugang zu geschlechterspezifische, grundlegende sanitäre Anlagen",
+                "g) Schulen mit Zugang zu grundlegende Einrichtungen zum Händewaschen",
                 ""
               ]
             },
-            "title": "Versorgungsleistung"
+            "title": "Ausstattung"
           },
           {
             "name": "Value",
@@ -6949,7 +6561,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -7070,7 +6682,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Endbewertung",
                 "Rahmenbedingungen",
                 "Institutionen und Beteiligung",
                 "Managementinstrumente",
@@ -7307,17 +6918,6 @@
             "title": "Geschlecht"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -7415,17 +7015,6 @@
             "title": "Geschlecht"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -7462,6 +7051,18 @@
             "title": "Units"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aufkommen gefährlicher Abfälle",
+                "Behandelte gefährliche Abfälle",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "type of waste treatment",
             "type": "string",
             "constraints": {
@@ -7474,29 +7075,6 @@
               ]
             },
             "title": "Art der Abfallbehandlung"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) Aufkommen gefährlicher Abfälle",
-                "b) Behandelte gefährliche Abfälle",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -7563,47 +7141,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
                 "km²",
+                "Prozent",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "ecosystem",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "Permanente Wasserfläche der Seen und Flüsse",
+                "Permanente Wasserfläche der Seen und Flüsse im Verhältnis zur gesamten Landfläche",
                 "Feuchtgebiete",
-                "Künstliche oder erheblich veränderte große Seen",
-                ""
-              ]
-            },
-            "title": "Ökosystem"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "…",
-                "x",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Veränderung der Fläche im Vergleich zu 2015",
-                "Fläche",
-                "Fläche im Verhältnis zur gesamten Landfläche",
+                "Feuchtgebiete im Verhältnis zur gesamten Landfläche",
+                "Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)",
                 ""
               ]
             },
@@ -7632,18 +7186,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -7714,7 +7256,6 @@
               "enum": [
                 "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
                 "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
-                "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 ""
               ]
             },
@@ -7957,17 +7498,6 @@
             "title": "Technologiesektoren"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -7997,7 +7527,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -8157,12 +7687,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Wert"
           }
         ]
@@ -8183,17 +7733,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -8248,8 +7787,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pflanzengenetische Ressourcen",
                 "Tiergenetische Ressourcen",
+                "Pflanzengenetische Ressourcen",
                 ""
               ]
             },
@@ -8280,19 +7819,8 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -8331,11 +7859,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Länder, die Vertragsparteien des Internationalen Vertrags über PGRFA sind",
-                "2) Länder, die Vertragsparteien des Nagoya-Protokolls sind",
-                "3) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet wurden",
-                "4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden",
-                "5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
+                "1) Länder, die Vertragsparteien des Internationalen Vertrags über pflanzengenetische Ressourcen für Ernährung und Landwirtschaft (PGRFA) sind",
+                "2) Länder, die dem Nagoya-Protokoll beigetreten sind",
+                "3) Länder, die über legislative, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über pflanzengenetische Ressourcen für Ernährung und Landwirtschaft (PGRFA) gemeldet wurden",
+                "4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden",
+                "5) Gesamtzahl der gemeldeten Standard-Materialtransfervereinbarungen (SMTAs), durch die pflanzengenetische Ressourcen für Ernährung und Landwirtschaft nach Deutschland übertragen werden",
                 ""
               ]
             },
@@ -8370,8 +7898,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Umsetzung nationaler Ziele gemäß dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020",
-                "b) Umsetzung der Werte der biologischen Vielfalt in die UGR",
+                "Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020",
+                "Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)",
                 ""
               ]
             },
@@ -8458,17 +7986,6 @@
             "title": "Geschlecht"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -8553,17 +8070,6 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -8618,7 +8124,6 @@
               "enum": [
                 "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
                 "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
-                "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 ""
               ]
             },
@@ -8661,17 +8166,6 @@
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -8709,18 +8203,6 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -8743,18 +8225,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -8805,48 +8275,10 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Stunden pro Tag",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "type of unpaid work",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Haus- und Pflegearbeit",
-                "Hausarbeit",
-                "Pflegearbeit",
-                ""
-              ]
-            },
-            "title": "Art der unbezahlten Arbeit"
-          },
-          {
-            "name": "degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Städte",
-                "Ländliche Gebiete",
-                ""
-              ]
-            },
-            "title": "Verstädterungsgrad"
-          },
-          {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 Jahre und älter",
                 "15 bis unter 25 Jahre",
                 "25 bis unter 45 Jahre",
                 "45 bis unter 55 Jahre",
@@ -8942,7 +8374,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Opfer nicht-sexueller Belästigung",
+                "Opfer körperlicher Belästigung",
                 "Opfer sexueller Belästigung",
                 ""
               ]
@@ -8983,7 +8415,7 @@
           }
         ]
       },
-      "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten Opfer nicht-sexueller oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Tatort"
+      "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten Opfer körperlicher oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Tatort"
     },
     {
       "path": "16-8-1/data.csv",
@@ -9037,24 +8469,13 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
       },
-      "title": "Installierte Kapazitäten zur Erzeugung erneuerbarer Energie in Entwicklungsländern und entwickelten Ländern (in Watt pro Kopf)"
+      "title": "Installierte Kapazitäten zur Erzeugung erneuerbarer Energie in Entwicklungs- und Industrieländern (in Watt pro Kopf)"
     },
     {
       "path": "3-9-2/data.csv",
@@ -9161,20 +8582,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Exposition gegenüber übermäßiger natürlicher Hitze",
-                "Exposition gegenüber übermäßiger natürlicher Kälte",
-                "Exposition gegenüber Sonnenlicht",
-                "Opfer von Blitzschlag",
-                "Opfer von Erdbeben",
-                "Opfer von Vulkanausbruch",
-                "Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",
-                "Opfer von Sturmkatastrophe",
-                "Opfer von Überschwemmung",
-                "Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften",
+                "exposure to excessive natural heat",
+                "exposure to excessive natural cold",
+                "exposure to sunlight",
+                "victim of lightning",
+                "victim of earthquake",
+                "victim of volcanic eruption",
+                "victim of avalanche, landslide and other earth movements",
+                "victim of cataclysmic storm",
+                "victim of flood",
+                "exposure to other and unspecified forces of nature",
                 ""
               ]
             },
-            "title": "Todesursache"
+            "title": "cause of death"
           },
           {
             "name": "Value",
@@ -9211,17 +8632,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -9420,18 +8830,6 @@
             "title": "Geschlecht"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "0",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -9482,17 +8880,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -9550,7 +8937,7 @@
           }
         ]
       },
-      "title": "a) Index der Lebensmittelverluste und b) Index der Lebensmittelabfälle"
+      "title": "a) Index der Lebensmittelverluste und b) Index der Lebensmittelverschwendung"
     },
     {
       "path": "6-3-2/data.csv",
@@ -9578,17 +8965,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -9625,18 +9001,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "s",
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -9754,7 +9118,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -9798,17 +9162,6 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -9838,7 +9191,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },
@@ -9951,17 +9304,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -10131,17 +9473,6 @@
             "title": "Gerichtsebene"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Wert"
@@ -10256,8 +9587,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Entnahme an den erneuerbaren Wasserressourcen",
-                "Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser)",
+                "Anteil der Gewinnung an den erneuerbaren Wasserressourcen",
+                "Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)",
                 ""
               ]
             },
@@ -10334,17 +9665,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Value",
@@ -10437,7 +9757,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten a) physischer Gewalt, b) psychischer Gewalt und/oder c) sexueller Gewalt ausgesetzt war"
+      "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten a) physischer Gewalt, b) psychischer Gewalt und c) sexueller Gewalt ausgesetzt war"
     },
     {
       "path": "16-5-2/data.csv",
@@ -10567,8 +9887,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Zweigstellen von Zahlungsverkehrsdienstleistern",
-                "b) Bankautomaten von inländischen Zahlungsdienstleistern",
+                "Zweigstellen von Zahlungsverkehrsdienstleistern",
+                "Bankautomaten von inländischen Zahlungsdienstleistern",
                 ""
               ]
             },
@@ -10700,17 +10020,6 @@
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -10796,7 +10105,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2021)",
                 ""
               ]
             },

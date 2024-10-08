@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Erneuerbare Energien am gesamten Endenergieverbrauch",
+                "Erneuerbare Energien am Bruttoendenergieverbrauch",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Wert"

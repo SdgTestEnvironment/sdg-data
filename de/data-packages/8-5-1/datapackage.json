@@ -75,7 +75,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Durchschnittlicher Stundenverdienst Beschäftigter",
+                "Durchschnittlicher Stundenlohn Beschäftigter",
                 "Verdienstabstand",
                 ""
               ]

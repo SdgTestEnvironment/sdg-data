@@ -15,10 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "level",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
+                "country-owned results frameworks and planning tools",
                 "objectives",
                 "indicators",
                 "data",

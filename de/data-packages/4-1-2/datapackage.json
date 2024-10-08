@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Abgeschlossene Sekundarstufe I",
-                "Abgeschlossene Sekundarstufe II",
+                "upper secondary school completed",
                 ""
               ]
             },

@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Lower secondary school completed",
-                "Upper secondary school completed",
+                "upper secondary school completed",
                 ""
               ]
             },
