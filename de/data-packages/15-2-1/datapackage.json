@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen Tonnen",
+                "Millionen Tonnen Kohlenstoff",
                 "Prozent",
                 ""
               ]
@@ -39,6 +39,20 @@
               ]
             },
             "title": "Art der Biomasse"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "X",
+                "0",
+                "r",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
           },
           {
             "name": "Series",
