@@ -51,6 +51,20 @@
             }
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "x",
+                "|",
+                "…",
+                "r",
+                ".",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

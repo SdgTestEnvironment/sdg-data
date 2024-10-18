@@ -9,7 +9,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,15 to under 25 years,,,79.603
 2018,percentage,15 to under 25 years,,,79.605
 2019,percentage,15 to under 25 years,,,79.357
-2020,percentage,15 to under 25 years,,,79.956
+2020,percentage,15 to under 25 years,,|,79.956
 2021,percentage,15 to under 25 years,,,77.436
 2022,percentage,15 to under 25 years,,,77.592
 2023,percentage,15 to under 25 years,,p,77.174
@@ -23,7 +23,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,15 to under 25 years,,,6758.986
 2018,number,15 to under 25 years,,,6710.186
 2019,number,15 to under 25 years,,,6673.422
-2020,number,15 to under 25 years,,,6710.363
+2020,number,15 to under 25 years,,|,6710.363
 2021,number,15 to under 25 years,,,6418.767
 2022,number,15 to under 25 years,,,6468.963
 2023,number,15 to under 25 years,,p,6500.254
@@ -37,7 +37,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,15 to under 25 years,female,,80.218
 2018,percentage,15 to under 25 years,female,,80.649
 2019,percentage,15 to under 25 years,female,,80.717
-2020,percentage,15 to under 25 years,female,,80.894
+2020,percentage,15 to under 25 years,female,|,80.894
 2021,percentage,15 to under 25 years,female,,79.171
 2022,percentage,15 to under 25 years,female,,79.291
 2023,percentage,15 to under 25 years,female,p,79.218
@@ -51,7 +51,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,15 to under 25 years,female,,3234.974
 2018,number,15 to under 25 years,female,,3246.372
 2019,number,15 to under 25 years,female,,3255.38
-2020,number,15 to under 25 years,female,,3274.041
+2020,number,15 to under 25 years,female,|,3274.041
 2021,number,15 to under 25 years,female,,3166.343
 2022,number,15 to under 25 years,female,,3194.861
 2023,number,15 to under 25 years,female,p,3220.818
@@ -65,7 +65,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,15 to under 25 years,male,,79.046
 2018,percentage,15 to under 25 years,male,,78.651
 2019,percentage,15 to under 25 years,male,,78.103
-2020,percentage,15 to under 25 years,male,,79.082
+2020,percentage,15 to under 25 years,male,|,79.082
 2021,percentage,15 to under 25 years,male,,75.818
 2022,percentage,15 to under 25 years,male,,76.003
 2023,percentage,15 to under 25 years,male,p,75.266
@@ -79,7 +79,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,15 to under 25 years,male,,3524.012
 2018,number,15 to under 25 years,male,,3463.814
 2019,number,15 to under 25 years,male,,3418.042
-2020,number,15 to under 25 years,male,,3436.322
+2020,number,15 to under 25 years,male,|,3436.322
 2021,number,15 to under 25 years,male,,3252.423
 2022,number,15 to under 25 years,male,,3274.103
 2023,number,15 to under 25 years,male,p,3279.436
@@ -93,7 +93,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,15 to under 65 years,,,29.18
 2018,percentage,15 to under 65 years,,,28.855
 2019,percentage,15 to under 65 years,,,29.156
-2020,percentage,15 to under 65 years,,,27.809
+2020,percentage,15 to under 65 years,,|,27.809
 2021,percentage,15 to under 65 years,,,25.117
 2022,percentage,15 to under 65 years,,,26.456
 2023,percentage,15 to under 65 years,,p,26.879
@@ -107,7 +107,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,15 to under 65 years,,,15690.778
 2018,number,15 to under 65 years,,,15436.899
 2019,number,15 to under 65 years,,,15604.334
-2020,number,15 to under 65 years,,,14803.204
+2020,number,15 to under 65 years,,|,14803.204
 2021,number,15 to under 65 years,,,13305.257
 2022,number,15 to under 65 years,,,14106.271
 2023,number,15 to under 65 years,,p,14400.79
@@ -121,7 +121,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,15 to under 65 years,female,,28.47
 2018,percentage,15 to under 65 years,female,,28.314
 2019,percentage,15 to under 65 years,female,,28.859
-2020,percentage,15 to under 65 years,female,,27.693
+2020,percentage,15 to under 65 years,female,|,27.693
 2021,percentage,15 to under 65 years,female,,25.238
 2022,percentage,15 to under 65 years,female,,26.847
 2023,percentage,15 to under 65 years,female,p,27.336
@@ -135,7 +135,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,15 to under 65 years,female,,7535.23
 2018,number,15 to under 65 years,female,,7472.145
 2019,number,15 to under 65 years,female,,7631.708
-2020,number,15 to under 65 years,female,,7274.901
+2020,number,15 to under 65 years,female,|,7274.901
 2021,number,15 to under 65 years,female,,6596.327
 2022,number,15 to under 65 years,female,,7076.107
 2023,number,15 to under 65 years,female,p,7236.027
@@ -149,7 +149,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,15 to under 65 years,male,,29.868
 2018,percentage,15 to under 65 years,male,,29.383
 2019,percentage,15 to under 65 years,male,,29.445
-2020,percentage,15 to under 65 years,male,,27.923
+2020,percentage,15 to under 65 years,male,|,27.923
 2021,percentage,15 to under 65 years,male,,24.999
 2022,percentage,15 to under 65 years,male,,26.074
 2023,percentage,15 to under 65 years,male,p,26.432
@@ -163,7 +163,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,15 to under 65 years,male,,8155.546
 2018,number,15 to under 65 years,male,,7964.755
 2019,number,15 to under 65 years,male,,7972.625
-2020,number,15 to under 65 years,male,,7528.302
+2020,number,15 to under 65 years,male,|,7528.302
 2021,number,15 to under 65 years,male,,6708.93
 2022,number,15 to under 65 years,male,,7030.164
 2023,number,15 to under 65 years,male,p,7164.763
@@ -177,7 +177,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,25 to under 55 years,,,22.651
 2018,percentage,25 to under 55 years,,,22.363
 2019,percentage,25 to under 55 years,,,22.85
-2020,percentage,25 to under 55 years,,,21.078
+2020,percentage,25 to under 55 years,,|,21.078
 2021,percentage,25 to under 55 years,,,18.246
 2022,percentage,25 to under 55 years,,,19.839
 2023,percentage,25 to under 55 years,,p,20.382
@@ -191,7 +191,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,25 to under 55 years,,,7637.577
 2018,number,25 to under 55 years,,,7406.939
 2019,number,25 to under 55 years,,,7507.174
-2020,number,25 to under 55 years,,,6793.113
+2020,number,25 to under 55 years,,|,6793.113
 2021,number,25 to under 55 years,,,5816.606
 2022,number,25 to under 55 years,,,6342.829
 2023,number,25 to under 55 years,,p,6523.281
@@ -205,7 +205,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,25 to under 55 years,female,,21.988
 2018,percentage,25 to under 55 years,female,,21.743
 2019,percentage,25 to under 55 years,female,,22.475
-2020,percentage,25 to under 55 years,female,,20.892
+2020,percentage,25 to under 55 years,female,|,20.892
 2021,percentage,25 to under 55 years,female,,18.307
 2022,percentage,25 to under 55 years,female,,20.26
 2023,percentage,25 to under 55 years,female,p,20.746
@@ -219,7 +219,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,25 to under 55 years,female,,3646.93
 2018,number,25 to under 55 years,female,,3549.924
 2019,number,25 to under 55 years,female,,3645.427
-2020,number,25 to under 55 years,female,,3317.206
+2020,number,25 to under 55 years,female,|,3317.206
 2021,number,25 to under 55 years,female,,2873.067
 2022,number,25 to under 55 years,female,,3196.314
 2023,number,25 to under 55 years,female,p,3272.943
@@ -233,7 +233,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,25 to under 55 years,male,,23.293
 2018,percentage,25 to under 55 years,male,,22.965
 2019,percentage,25 to under 55 years,male,,23.216
-2020,percentage,25 to under 55 years,male,,21.259
+2020,percentage,25 to under 55 years,male,|,21.259
 2021,percentage,25 to under 55 years,male,,18.188
 2022,percentage,25 to under 55 years,male,,19.428
 2023,percentage,25 to under 55 years,male,p,20.029
@@ -247,7 +247,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,25 to under 55 years,male,,3990.645
 2018,number,25 to under 55 years,male,,3857.016
 2019,number,25 to under 55 years,male,,3861.746
-2020,number,25 to under 55 years,male,,3475.906
+2020,number,25 to under 55 years,male,|,3475.906
 2021,number,25 to under 55 years,male,,2943.539
 2022,number,25 to under 55 years,male,,3146.515
 2023,number,25 to under 55 years,male,p,3250.339
@@ -261,7 +261,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,55 to under 65 years,,,11.193
 2018,percentage,55 to under 65 years,,,11.048
 2019,percentage,55 to under 65 years,,,11.615
-2020,percentage,55 to under 65 years,,,10.307
+2020,percentage,55 to under 65 years,,|,10.307
 2021,percentage,55 to under 65 years,,,8.355
 2022,percentage,55 to under 65 years,,,9.949
 2023,percentage,55 to under 65 years,,p,10.474
@@ -275,7 +275,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,55 to under 65 years,,,1294.215
 2018,number,55 to under 65 years,,,1319.774
 2019,number,55 to under 65 years,,,1423.738
-2020,number,55 to under 65 years,,,1299.728
+2020,number,55 to under 65 years,,|,1299.728
 2021,number,55 to under 65 years,,,1069.884
 2022,number,55 to under 65 years,,,1294.479
 2023,number,55 to under 65 years,,p,1377.254
@@ -289,7 +289,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,55 to under 65 years,female,,11.171
 2018,percentage,55 to under 65 years,female,,11.192
 2019,percentage,55 to under 65 years,female,,11.805
-2020,percentage,55 to under 65 years,female,,10.775
+2020,percentage,55 to under 65 years,female,|,10.775
 2021,percentage,55 to under 65 years,female,,8.643
 2022,percentage,55 to under 65 years,female,,10.454
 2023,percentage,55 to under 65 years,female,p,11.198
@@ -303,7 +303,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,55 to under 65 years,female,,653.326
 2018,number,55 to under 65 years,female,,675.849
 2019,number,55 to under 65 years,female,,730.901
-2020,number,55 to under 65 years,female,,683.654
+2020,number,55 to under 65 years,female,|,683.654
 2021,number,55 to under 65 years,female,,556.916
 2022,number,55 to under 65 years,female,,684.933
 2023,number,55 to under 65 years,female,p,742.266
@@ -317,7 +317,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,percentage,55 to under 65 years,male,,11.216
 2018,percentage,55 to under 65 years,male,,10.9
 2019,percentage,55 to under 65 years,male,,11.422
-2020,percentage,55 to under 65 years,male,,9.833
+2020,percentage,55 to under 65 years,male,|,9.833
 2021,percentage,55 to under 65 years,male,,8.062
 2022,percentage,55 to under 65 years,male,,9.437
 2023,percentage,55 to under 65 years,male,p,9.737
@@ -331,7 +331,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,Value
 2017,number,55 to under 65 years,male,,640.889
 2018,number,55 to under 65 years,male,,643.925
 2019,number,55 to under 65 years,male,,692.837
-2020,number,55 to under 65 years,male,,616.074
+2020,number,55 to under 65 years,male,|,616.074
 2021,number,55 to under 65 years,male,,512.968
 2022,number,55 to under 65 years,male,,609.546
 2023,number,55 to under 65 years,male,p,634.988

@@ -83,7 +83,7 @@ Year,Units,Age group,Sex,Form of exploitation,COMMENT_OBS_0,Value
 2021,Number,,,Sexual exploitation,,417.0
 2022,Number,,,Sexual exploitation,,476.0
 2023,Number,,,Sexual exploitation,,406.0
-2010,Number,13 years and younger,,Sexual exploitation,r,13.0
+2010,Number,13 years and younger,,Sexual exploitation,,13.0
 2011,Number,13 years and younger,,Sexual exploitation,,13.0
 2012,Number,13 years and younger,,Sexual exploitation,,12.0
 2013,Number,13 years and younger,,Sexual exploitation,,9.0
@@ -96,7 +96,7 @@ Year,Units,Age group,Sex,Form of exploitation,COMMENT_OBS_0,Value
 2020,Number,13 years and younger,,Sexual exploitation,,13.0
 2021,Number,13 years and younger,,Sexual exploitation,,1.0
 2022,Number,13 years and younger,,Sexual exploitation,,7.0
-2023,Number,13 years and younger,,Sexual exploitation,…,
+2023,Number,13 years and younger,,Sexual exploitation,,1.0
 2010,Number,14 to under 18 years,,Sexual exploitation,,79.0
 2011,Number,14 to under 18 years,,Sexual exploitation,,77.0
 2012,Number,14 to under 18 years,,Sexual exploitation,,88.0
@@ -110,7 +110,7 @@ Year,Units,Age group,Sex,Form of exploitation,COMMENT_OBS_0,Value
 2020,Number,14 to under 18 years,,Sexual exploitation,,66.0
 2021,Number,14 to under 18 years,,Sexual exploitation,,53.0
 2022,Number,14 to under 18 years,,Sexual exploitation,,49.0
-2023,Number,14 to under 18 years,,Sexual exploitation,…,
+2023,Number,14 to under 18 years,,Sexual exploitation,,60.0
 2010,Number,18 to under 21 years,,Sexual exploitation,,254.0
 2011,Number,18 to under 21 years,,Sexual exploitation,,268.0
 2012,Number,18 to under 21 years,,Sexual exploitation,,223.0
@@ -124,7 +124,7 @@ Year,Units,Age group,Sex,Form of exploitation,COMMENT_OBS_0,Value
 2020,Number,18 to under 21 years,,Sexual exploitation,,88.0
 2021,Number,18 to under 21 years,,Sexual exploitation,,77.0
 2022,Number,18 to under 21 years,,Sexual exploitation,,96.0
-2023,Number,18 to under 21 years,,Sexual exploitation,…,
+2023,Number,18 to under 21 years,,Sexual exploitation,,66.0
 2010,Number,21 to under 25 years,,Sexual exploitation,,127.0
 2011,Number,21 to under 25 years,,Sexual exploitation,,135.0
 2012,Number,21 to under 25 years,,Sexual exploitation,,123.0
@@ -138,7 +138,7 @@ Year,Units,Age group,Sex,Form of exploitation,COMMENT_OBS_0,Value
 2020,Number,21 to under 25 years,,Sexual exploitation,,78.0
 2021,Number,21 to under 25 years,,Sexual exploitation,,83.0
 2022,Number,21 to under 25 years,,Sexual exploitation,,91.0
-2023,Number,21 to under 25 years,,Sexual exploitation,…,
+2023,Number,21 to under 25 years,,Sexual exploitation,,72.0
 2010,Number,25 years and older,,Sexual exploitation,,129.0
 2011,Number,25 years and older,,Sexual exploitation,,133.0
 2012,Number,25 years and older,,Sexual exploitation,,156.0
@@ -152,7 +152,7 @@ Year,Units,Age group,Sex,Form of exploitation,COMMENT_OBS_0,Value
 2020,Number,25 years and older,,Sexual exploitation,,146.0
 2021,Number,25 years and older,,Sexual exploitation,,181.0
 2022,Number,25 years and older,,Sexual exploitation,,223.0
-2023,Number,25 years and older,,Sexual exploitation,…,
+2023,Number,25 years and older,,Sexual exploitation,,187.0
 2010,Number,Unknown age,,Sexual exploitation,,8.0
 2011,Number,Unknown age,,Sexual exploitation,,13.0
 2012,Number,Unknown age,,Sexual exploitation,,10.0
@@ -166,7 +166,7 @@ Year,Units,Age group,Sex,Form of exploitation,COMMENT_OBS_0,Value
 2020,Number,Unknown age,,Sexual exploitation,,15.0
 2021,Number,Unknown age,,Sexual exploitation,,22.0
 2022,Number,Unknown age,,Sexual exploitation,,10.0
-2023,Number,Unknown age,,Sexual exploitation,…,
+2023,Number,Unknown age,,Sexual exploitation,,20.0
 2010,Number,,Female,Labour exploitation,.,
 2011,Number,,Female,Labour exploitation,.,
 2012,Number,,Female,Labour exploitation,,7.0
@@ -180,7 +180,7 @@ Year,Units,Age group,Sex,Form of exploitation,COMMENT_OBS_0,Value
 2020,Number,,Female,Labour exploitation,,18.0
 2021,Number,,Female,Labour exploitation,,72.0
 2022,Number,,Female,Labour exploitation,,266.0
-2023,Number,,Female,Labour exploitation,…,
+2023,Number,,Female,Labour exploitation,,53.0
 2010,Number,,Male,Labour exploitation,.,
 2011,Number,,Male,Labour exploitation,.,
 2012,Number,,Male,Labour exploitation,,5.0
@@ -194,7 +194,7 @@ Year,Units,Age group,Sex,Form of exploitation,COMMENT_OBS_0,Value
 2020,Number,,Male,Labour exploitation,,55.0
 2021,Number,,Male,Labour exploitation,,74.0
 2022,Number,,Male,Labour exploitation,,747.0
-2023,Number,,Male,Labour exploitation,…,
+2023,Number,,Male,Labour exploitation,,129.0
 2010,Number,,Unknown,Labour exploitation,.,
 2011,Number,,Unknown,Labour exploitation,.,
 2012,Number,,Unknown,Labour exploitation,,2.0
@@ -208,7 +208,7 @@ Year,Units,Age group,Sex,Form of exploitation,COMMENT_OBS_0,Value
 2020,Number,,Unknown,Labour exploitation,,0.0
 2021,Number,,Unknown,Labour exploitation,,1.0
 2022,Number,,Unknown,Labour exploitation,,6.0
-2023,Number,,Unknown,Labour exploitation,…,
+2023,Number,,Unknown,Labour exploitation,,1.0
 2010,Number,,Female,Sexual exploitation,,588.0
 2011,Number,,Female,Sexual exploitation,,599.0
 2012,Number,,Female,Sexual exploitation,,590.0

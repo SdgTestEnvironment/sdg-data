@@ -52,6 +52,16 @@
             }
           },
           {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "|",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
