@@ -287,7 +287,7 @@
             "title": "Jahr"
           },
           {
-            "name": "education level",
+            "name": "educational level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -296,7 +296,7 @@
                 ""
               ]
             },
-            "title": "Ausbildungsgrad"
+            "title": "Bildungsstand"
           },
           {
             "name": "subject",
@@ -3728,16 +3728,16 @@
             "title": "Jahr"
           },
           {
-            "name": "education level",
+            "name": "educational level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Abgeschlossene Sekundarstufe I",
-                "Abgeschlossene Sekundarstufe II",
+                "Sekundarstufe I (ISCED-Stufe 2)",
+                "Sekundarstufe II (ISCED-Stufe 3)",
                 ""
               ]
             },
-            "title": "Ausbildungsgrad"
+            "title": "Bildungsstand"
           },
           {
             "name": "sex",

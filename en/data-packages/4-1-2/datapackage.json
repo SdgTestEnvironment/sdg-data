@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "education level",
+            "name": "educational level",
             "type": "string",
             "constraints": {
               "enum": [
-                "Lower secondary school completed",
-                "Upper secondary school completed",
+                "Lower secondary education (ISCED level 2)",
+                "Upper secondary education (ISCED level 3)",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Educational level"
           },
           {
             "name": "sex",
