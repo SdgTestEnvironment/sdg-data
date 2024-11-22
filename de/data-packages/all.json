@@ -1222,12 +1222,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "…",
-                "x",
                 ""
               ]
             },
@@ -6357,8 +6354,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
-                "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten",
+                "Bevölkerung, die den Eindruck hatte, das Beschäftigte des öffentlichen Dienstes bestechlich waren",
                 ""
               ]
             },
@@ -13663,6 +13659,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ""
               ]
             },
@@ -13694,7 +13691,7 @@
             "constraints": {
               "enum": [
                 "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
                 "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 ""
               ]
@@ -14503,6 +14500,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ""
               ]
             },
@@ -14534,7 +14532,7 @@
             "constraints": {
               "enum": [
                 "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
                 "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 ""
               ]

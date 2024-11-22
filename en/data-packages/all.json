@@ -1222,12 +1222,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "…",
-                "x",
                 ""
               ]
             },
@@ -6357,8 +6354,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
-                "Private persons (donors) suspected in the context of corruption offences",
+                "Population who had the impression that public officials are corruptible",
                 ""
               ]
             },
@@ -13663,6 +13659,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ""
               ]
             },
@@ -13694,7 +13691,7 @@
             "constraints": {
               "enum": [
                 "Documents issued for the import and export of protected species",
-                "Seizures by authorities concerning the protection of species",
+                "Seizures by customs authorities concerning the protection of species",
                 "Authorized imports and exports of protected species",
                 ""
               ]
@@ -14503,6 +14500,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "|",
                 ""
               ]
             },
@@ -14534,7 +14532,7 @@
             "constraints": {
               "enum": [
                 "Documents issued for the import and export of protected species",
-                "Seizures by authorities concerning the protection of species",
+                "Seizures by customs authorities concerning the protection of species",
                 "Authorized imports and exports of protected species",
                 ""
               ]
