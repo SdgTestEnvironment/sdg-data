@@ -712,23 +712,10 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung",
-                "Bevölkerung mit Anschluss an die öffentliche Wasserversorgung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "s",
                 ".",
                 ""
               ]
@@ -5290,6 +5277,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "-",
                 ".",
                 ""
               ]
@@ -7916,7 +7904,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -7954,7 +7942,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             },
@@ -9609,6 +9596,7 @@
             "constraints": {
               "enum": [
                 "…",
+                ".",
                 ""
               ]
             },

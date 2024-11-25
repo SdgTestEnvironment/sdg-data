@@ -712,23 +712,10 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population using safely managed drinking water services",
-                "Population connected to the public water supply system",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "s",
                 ".",
                 ""
               ]
@@ -5290,6 +5277,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "-",
                 ".",
                 ""
               ]
@@ -7954,7 +7942,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             },
@@ -9609,6 +9596,7 @@
             "constraints": {
               "enum": [
                 "…",
+                ".",
                 ""
               ]
             },

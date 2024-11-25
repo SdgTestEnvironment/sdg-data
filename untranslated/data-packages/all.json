@@ -650,22 +650,10 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "population using safely managed drinking water services",
-                "population connected to the public water supply system",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "s",
                 ".",
                 ""
               ]
@@ -4835,6 +4823,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "-",
                 ".",
                 ""
               ]
@@ -7269,7 +7258,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             }
@@ -8778,6 +8766,7 @@
             "constraints": {
               "enum": [
                 "…",
+                ".",
                 ""
               ]
             }
