@@ -6134,7 +6134,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Wert"
           }
         ]
