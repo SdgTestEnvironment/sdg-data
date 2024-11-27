@@ -45,7 +45,7 @@
               "enum": [
                 "‒",
                 "0",
-                "…",
+                "...",
                 ""
               ]
             }
@@ -9559,7 +9559,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "‒",
                 "s",
                 ""
               ]
@@ -10010,17 +10009,6 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "at-risk-of-poverty rate",
-                "government expenditure on social protection",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -10046,6 +10034,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "at-risk-of-poverty rate",
+                "government expenditure on social protection",
                 ""
               ]
             }

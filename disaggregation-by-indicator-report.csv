@@ -5,7 +5,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-5-1,"COMMENT_OBS_0, cause of death",2
 #1-a-1,time series,1
 #1-a-2,"COMMENT_OBS_0, function",2
-#1-b-1,"COMMENT_OBS_0, timeseries",2
+#1-b-1,COMMENT_OBS_0,1
 #10-1-1,"COMMENT_OBS_0, population",2
 #10-2-1,"age group, COMMENT_OBS_0, sex",3
 #10-3-1,COMMENT_OBS_0,1

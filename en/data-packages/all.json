@@ -48,7 +48,7 @@
               "enum": [
                 "‒",
                 "0",
-                "…",
+                "...",
                 ""
               ]
             },
@@ -9877,8 +9877,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "national taxes",
-                "national taxes and insurance contributions",
+                "National taxes",
+                "National taxes and insurance contributions",
                 ""
               ]
             },
@@ -10463,7 +10463,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "‒",
                 "s",
                 ""
               ]
@@ -10959,18 +10958,6 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At-risk-of-poverty rate",
-                "Government expenditure on social protection",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -11002,6 +10989,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "At-risk-of-poverty rate",
+                "Government expenditure on social protection",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -13938,7 +13937,7 @@
                 ""
               ]
             },
-            "title": "legislation"
+            "title": "Legislation"
           }
         ]
       },
