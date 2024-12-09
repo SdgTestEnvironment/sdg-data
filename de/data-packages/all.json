@@ -1678,6 +1678,7 @@
             "constraints": {
               "enum": [
                 "-",
+                "‒",
                 "s",
                 ""
               ]
@@ -1990,8 +1991,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "X",
-                "0",
                 "r",
                 "p",
                 ""
@@ -2001,9 +2000,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -5860,6 +5860,8 @@
             "constraints": {
               "enum": [
                 "…",
+                "r",
+                "p",
                 ""
               ]
             },
@@ -8715,9 +8717,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -9459,7 +9462,6 @@
               "enum": [
                 "x",
                 "|",
-                "…",
                 "r",
                 ".",
                 ""
@@ -9821,8 +9823,8 @@
               "enum": [
                 "r",
                 "-",
-                "…",
                 ".",
+                "‒",
                 ""
               ]
             },
@@ -9850,7 +9852,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -10438,7 +10440,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl",
+                "ja=1, nein=0",
                 "Prozent",
                 ""
               ]
@@ -14554,12 +14556,25 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Keine Einheit",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "Daten des Statistischen Bundesamtes",
                 "Daten des BMEL",
+                "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]
             },
@@ -14597,6 +14612,18 @@
             "title": "GeoCode"
           },
           {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Trend",
+                "Aktueller Satus",
+                ""
+              ]
+            },
+            "title": "Punktzahl"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -14604,6 +14631,7 @@
                 ".",
                 "s",
                 "r",
+                "…",
                 ""
               ]
             },
@@ -14954,7 +14982,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus und geografischem Standort (städtisch/ ländlich)"
+      "title": "International Monetary Fund (IMF)"
     },
     {
       "path": "8-6-1/data.csv",

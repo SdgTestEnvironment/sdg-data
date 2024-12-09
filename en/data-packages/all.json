@@ -1627,7 +1627,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1678,6 +1678,7 @@
             "constraints": {
               "enum": [
                 "-",
+                "‒",
                 "s",
                 ""
               ]
@@ -1990,8 +1991,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "X",
-                "0",
                 "r",
                 "p",
                 ""
@@ -2001,9 +2000,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -5860,6 +5860,8 @@
             "constraints": {
               "enum": [
                 "…",
+                "r",
+                "p",
                 ""
               ]
             },
@@ -8715,9 +8717,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -9459,7 +9462,6 @@
               "enum": [
                 "x",
                 "|",
-                "…",
                 "r",
                 ".",
                 ""
@@ -9775,7 +9777,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -9821,8 +9823,8 @@
               "enum": [
                 "r",
                 "-",
-                "…",
                 ".",
+                "‒",
                 ""
               ]
             },
@@ -9850,7 +9852,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -10438,7 +10440,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "yes=1, no=0",
                 "Percentage",
                 ""
               ]
@@ -14554,12 +14556,25 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "No unit",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "Data from the Federal Statistical Office",
                 "Data from the Federal Ministry of Food and Agriculture",
+                "Progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
             },
@@ -14597,6 +14612,18 @@
             "title": "GeoCode"
           },
           {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Trend",
+                "Currend status",
+                ""
+              ]
+            },
+            "title": "Score"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -14604,6 +14631,7 @@
                 ".",
                 "s",
                 "r",
+                "…",
                 ""
               ]
             },
@@ -14954,7 +14982,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus und geografischem Standort (städtisch/ ländlich)"
+      "title": "International Monetary Fund (IMF)"
     },
     {
       "path": "8-6-1/data.csv",

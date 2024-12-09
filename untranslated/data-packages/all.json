@@ -1485,7 +1485,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1532,6 +1532,7 @@
             "constraints": {
               "enum": [
                 "-",
+                "‒",
                 "s",
                 ""
               ]
@@ -1818,8 +1819,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "X",
-                "0",
                 "r",
                 "p",
                 ""
@@ -1828,9 +1827,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -5356,6 +5356,8 @@
             "constraints": {
               "enum": [
                 "…",
+                "r",
+                "p",
                 ""
               ]
             }
@@ -7963,9 +7965,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -8641,7 +8644,6 @@
               "enum": [
                 "x",
                 "|",
-                "…",
                 "r",
                 ".",
                 ""
@@ -8929,7 +8931,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -8972,8 +8974,8 @@
               "enum": [
                 "r",
                 "-",
-                "…",
                 ".",
+                "‒",
                 ""
               ]
             }
@@ -8998,7 +9000,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -9536,7 +9538,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
+                "yes=1, no=0",
                 "percentage",
                 ""
               ]
@@ -13289,12 +13291,24 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "no unit",
+                ""
+              ]
+            }
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "data from the federal statistical office",
                 "data from the federal ministry of food and agriculture",
+                "progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
             }
@@ -13329,6 +13343,17 @@
             "type": "string"
           },
           {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "trend",
+                "currend status",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -13336,6 +13361,7 @@
                 ".",
                 "s",
                 "r",
+                "…",
                 ""
               ]
             }
@@ -13654,7 +13680,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus und geografischem Standort (städtisch/ ländlich)"
+      "title": "International Monetary Fund (IMF)"
     },
     {
       "path": "8-6-1/data.csv",

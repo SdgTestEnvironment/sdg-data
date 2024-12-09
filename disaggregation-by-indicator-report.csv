@@ -44,10 +44,11 @@ Indicator,Disaggregations,Number of disaggregations
 #14-4-1,sea,1
 #14-5-1,timeseries,1
 #14-7-1,COMMENT_OBS_0,1
+#14-a-1,COMMENT_OBS_0,1
 #14-c-1,"COMMENT_OBS_0, timeseries",2
 #15-1-1,COMMENT_OBS_0,1
 #15-1-2,timeseries,1
-#15-2-1,"COMMENT_OBS_0, type of biomass",2
+#15-2-1,"COMMENT_OBS_0, COMMENT_OBS_1, type of biomass",3
 #15-4-1,timeseries,1
 #15-4-2,COMMENT_OBS_0,1
 #15-7-1,COMMENT_OBS_0,1
@@ -95,7 +96,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-2-2,"COMMENT_OBS_0, sex, timeseries",3
 #2-2-3,age group,1
 #2-3-1,"COMMENT_OBS_0, economic activity",2
-#2-4-1,"COMMENT_OBS_0, länder, timeseries",3
+#2-4-1,"COMMENT_OBS_0, länder, timeseries, score",4
 #2-5-1,COMMENT_OBS_0,1
 #2-5-2,"COMMENT_OBS_0, timeseries, level of risk of extinction",3
 #2-a-1,COMMENT_OBS_0,1

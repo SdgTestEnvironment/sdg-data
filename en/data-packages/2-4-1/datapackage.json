@@ -16,12 +16,25 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "No unit",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "Data from the Federal Statistical Office",
                 "Data from the Federal Ministry of Food and Agriculture",
+                "Progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
             },
@@ -59,6 +72,18 @@
             "title": "GeoCode"
           },
           {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Trend",
+                "Currend status",
+                ""
+              ]
+            },
+            "title": "Score"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -66,6 +91,7 @@
                 ".",
                 "s",
                 "r",
+                "…",
                 ""
               ]
             },
