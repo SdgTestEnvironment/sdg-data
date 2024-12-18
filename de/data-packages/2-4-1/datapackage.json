@@ -34,7 +34,7 @@
               "enum": [
                 "Daten des Statistischen Bundesamtes",
                 "Daten des BMEL",
-                "progress toward productive and sustainable agriculture (proxy)",
+                "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]
             },
@@ -76,12 +76,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "trend",
-                "currend status",
+                "Trend",
+                "Aktueller Status",
                 ""
               ]
             },
-            "title": "score"
+            "title": "Punktzahl"
           },
           {
             "name": "COMMENT_OBS_0",

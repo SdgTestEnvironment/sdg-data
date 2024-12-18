@@ -1648,7 +1648,7 @@
             "constraints": {
               "enum": [
                 "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "seizures by customs authorities concerning the protection of species",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
                 "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 ""
               ]
@@ -7119,8 +7119,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "national taxes",
-                "national taxes and insurance contributions",
+                "Steuern",
+                "Steuern und Sozialversicherungsausgaben",
                 ""
               ]
             },
@@ -7281,7 +7281,7 @@
               "enum": [
                 "Daten des Statistischen Bundesamtes",
                 "Daten des BMEL",
-                "progress toward productive and sustainable agriculture (proxy)",
+                "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]
             },
@@ -7323,12 +7323,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "trend",
-                "currend status",
+                "Trend",
+                "Aktueller Status",
                 ""
               ]
             },
-            "title": "score"
+            "title": "Punktzahl"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -10465,7 +10465,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Durchschnittlicher Stundenverdienst Beschäftigter",
+                "Durchschnittlicher Stundenverdienst von Beschäftigten",
                 "Verdienstabstand",
                 ""
               ]
@@ -16123,7 +16123,7 @@
             "constraints": {
               "enum": [
                 "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "seizures by customs authorities concerning the protection of species",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
                 "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 ""
               ]

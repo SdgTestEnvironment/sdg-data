@@ -34,7 +34,7 @@
               "enum": [
                 "Data from the Federal Statistical Office",
                 "Data from the Federal Ministry of Food and Agriculture",
-                "progress toward productive and sustainable agriculture (proxy)",
+                "Progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
             },
@@ -76,12 +76,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "trend",
-                "currend status",
+                "Trend",
+                "Currend status",
                 ""
               ]
             },
-            "title": "score"
+            "title": "Score"
           },
           {
             "name": "COMMENT_OBS_0",

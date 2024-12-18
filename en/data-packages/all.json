@@ -1648,7 +1648,7 @@
             "constraints": {
               "enum": [
                 "Documents issued for the import and export of protected species",
-                "seizures by customs authorities concerning the protection of species",
+                "Seizures by customs authorities concerning the protection of species",
                 "Authorized imports and exports of protected species",
                 ""
               ]
@@ -7119,8 +7119,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "national taxes",
-                "national taxes and insurance contributions",
+                "National taxes",
+                "National taxes and insurance contributions",
                 ""
               ]
             },
@@ -7281,7 +7281,7 @@
               "enum": [
                 "Data from the Federal Statistical Office",
                 "Data from the Federal Ministry of Food and Agriculture",
-                "progress toward productive and sustainable agriculture (proxy)",
+                "Progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
             },
@@ -7323,12 +7323,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "trend",
-                "currend status",
+                "Trend",
+                "Currend status",
                 ""
               ]
             },
-            "title": "score"
+            "title": "Score"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -16123,7 +16123,7 @@
             "constraints": {
               "enum": [
                 "Documents issued for the import and export of protected species",
-                "seizures by customs authorities concerning the protection of species",
+                "Seizures by customs authorities concerning the protection of species",
                 "Authorized imports and exports of protected species",
                 ""
               ]
