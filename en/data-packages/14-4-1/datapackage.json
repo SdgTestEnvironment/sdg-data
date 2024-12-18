@@ -16,8 +16,62 @@
             "title": "Year"
           },
           {
+            "name": "sea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Greater North Sea",
+                "Baltic sea",
+                ""
+              ]
+            },
+            "title": "Sea"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sustainably managed fish stocks in the North and Baltic Seas on all MSY examined stocks",
+                "MSY examined fish stocks in all managed stocks",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

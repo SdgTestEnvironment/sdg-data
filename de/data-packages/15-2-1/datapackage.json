@@ -16,8 +16,81 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millionen Tonnen Kohlenstoff",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of biomass",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stehendes Holz",
+                "Sonstige Holzbiomasse",
+                "Sonstige Biomasse in Wäldern",
+                ""
+              ]
+            },
+            "title": "Art der Biomasse"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "|",
+                "r",
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gesamtbestand der obererdigen Biomasse in Wäldern",
+                "Waldfläche in Schutzgebieten",
+                "Jährliche Veränderung der Waldfläche",
+                "Waldflächen mit einem unabhängig geprüften Wald-Management-System",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

@@ -16,8 +16,63 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 000 Tonnen",
+                "Kilogramm pro Kopf",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "stages of the food chain",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gaststätten und Verpflegungsdienstleistungen",
+                "Private Haushalte",
+                "Einzelhandel und andere Formen des Vertriebs",
+                ""
+              ]
+            },
+            "title": "Stufen der Lebensmittelkette"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

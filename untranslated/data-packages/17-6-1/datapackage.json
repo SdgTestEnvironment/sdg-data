@@ -15,8 +15,50 @@
             "type": "integer"
           },
           {
+            "name": "speed",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) over 144 kbps to under 2 mbps",
+                "b) 2 mbps to under 10 mbps",
+                "c) 10 mbps to under 30 mbps",
+                "d) 30 mbps to under 100 mbps",
+                "e) 100 mbps and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

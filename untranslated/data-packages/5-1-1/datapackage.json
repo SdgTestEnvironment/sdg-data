@@ -15,6 +15,47 @@
             "type": "integer"
           },
           {
+            "name": "area of law",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "area 1: overarching legal frameworks and public life",
+                "area 2: violence against women",
+                "area 3: employment and economic benefit",
+                "area 4: marriage and family",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "|",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }

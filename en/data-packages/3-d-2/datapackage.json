@@ -16,8 +16,51 @@
             "title": "Year"
           },
           {
+            "name": "pathogens and resistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Escherichia coli, 3GCR",
+                "Staphylococcus aureus, MR",
+                ""
+              ]
+            },
+            "title": "Pathogens and resistance"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

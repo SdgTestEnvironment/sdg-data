@@ -16,6 +16,73 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "1 000 Tonnen",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of waste",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Siedlungsabfälle insgesamt",
+                "Abfallaufkommen insgesamt",
+                ""
+              ]
+            },
+            "title": "Abfallart"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nationale Recyclingquote",
+                "Stoffliche Verwertung",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Wert"

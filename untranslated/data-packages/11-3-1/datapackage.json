@@ -15,8 +15,75 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "no unit",
+                "2015 = 100",
+                "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ratio of land consumption rate to population growth rate",
+                "proportion of settlement and transport areas to population",
+                "land consumption rate",
+                "population growth rate",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "presentation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "annual values",
+                "moving four-year average",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "x",
+                "|",
+                "r",
+                ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

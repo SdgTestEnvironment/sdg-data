@@ -16,6 +16,51 @@
             "title": "Year"
           },
           {
+            "name": "thematic area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Section 1: Maternity care",
+                "Section 2: Contraception and family planning",
+                "Section 3: Comprehensive sexuality education and information",
+                "Section 4: HIV and HPV",
+                ""
+              ]
+            },
+            "title": "Thematic area"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

@@ -16,8 +16,37 @@
             "title": "Jahr"
           },
           {
+            "name": "percentile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "P5",
+                "P10",
+                "P25",
+                "P50",
+                "P75",
+                "P90",
+                "P95",
+                ""
+              ]
+            },
+            "title": "Perzentil"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

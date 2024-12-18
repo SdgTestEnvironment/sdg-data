@@ -16,6 +16,88 @@
             "title": "Jahr"
           },
           {
+            "name": "substance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Drogen",
+                "Alkohol und andere psychoaktive Substanzen",
+                ""
+              ]
+            },
+            "title": "Substanz"
+          },
+          {
+            "name": "bound",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Obere Grenze",
+                "Untere Grenze",
+                ""
+              ]
+            },
+            "title": "Grenze"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                "Unbekannt",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "-",
+                "‒",
+                "s",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stationäre Behandlung bei Störungen durch Substanzgebrauch",
+                "Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Wert"

@@ -16,8 +16,54 @@
             "title": "Year"
           },
           {
+            "name": "speed",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Over 144 kbps to under 2 mbps",
+                "b) 2 mbps to under 10 mbps",
+                "c) 10 mbps to under 30 mbps",
+                "d) 30 mbps to under 100 mbps",
+                "e) 100 mbps and over",
+                ""
+              ]
+            },
+            "title": "Speed"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

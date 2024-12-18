@@ -16,8 +16,88 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "1 000 m³",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of waste water",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung",
+                "Kühlwasser",
+                ""
+              ]
+            },
+            "title": "Art des Abwassers"
+          },
+          {
+            "name": "treatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unbehandeltes Abwasser",
+                "Behandeltes Abwasser",
+                ""
+              ]
+            },
+            "title": "Behandlung"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",
+                "Abwasser und Kühlwasser",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

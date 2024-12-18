@@ -16,8 +16,64 @@
             "title": "Jahr"
           },
           {
+            "name": "educational level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "b) Am Ende der Grundschule",
+                "c) Am Ende der Sekundarstufe I",
+                ""
+              ]
+            },
+            "title": "Bildungsstand"
+          },
+          {
+            "name": "subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lesen",
+                "Mathematik",
+                ""
+              ]
+            },
+            "title": "Schulfach"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

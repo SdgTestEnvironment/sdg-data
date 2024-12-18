@@ -16,6 +16,71 @@
             "title": "Jahr"
           },
           {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Personen mit Behandlungsbedarf",
+                "Stationäre Behandlung",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dengue",
+                "Echinokokkose",
+                "Lepra",
+                "Buruli-Ulkus",
+                "Afrikanische Trypanosomiasis",
+                "Leishmaniose",
+                "Tollwut",
+                "Frambösie",
+                "Drakunkulose",
+                ""
+              ]
+            },
+            "title": "Erkrankung"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "-",
+                ".",
+                "‒",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Wert"
