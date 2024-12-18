@@ -16,63 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "skill",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) Literacy skills",
-                "b) Numeracy skills",
-                ""
-              ]
-            },
-            "title": "Skill"
-          },
-          {
-            "name": "level of proficiency",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Minimum requirement level I",
-                "Minimum requirement level II",
-                ""
-              ]
-            },
-            "title": "Level of proficiency"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -81,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "4-6-1",
-  "title": "Anteil der Bevölkerung einer bestimmten Altersgruppe, der ein festgelegtes Mindestniveau an funktionalen a) Lese-, Schreib- und b) Rechenkompetenzen besitzt, nach Geschlecht"
+  "title": "4-6-1"
 }

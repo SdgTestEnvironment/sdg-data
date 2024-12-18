@@ -16,50 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "sector",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "General government",
-                "Corporations",
-                ""
-              ]
-            },
-            "title": "Sector"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -70,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-7-1",
-  "title": "Gesamtbetrag der Finanzmittel für Entwicklungsländer zur Förderung der Entwicklung, des Transfers, der Bereitstellung und der Verbreitung von umweltverträglichen Technologien"
+  "title": "17-7-1"
 }

@@ -16,86 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "technology",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3G",
-                "LTE",
-                "5G",
-                ""
-              ]
-            },
-            "title": "Technologie"
-          },
-          {
-            "name": "länder",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland",
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
-                ""
-              ]
-            },
-            "title": "Bundesland"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                "-",
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -104,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-c-1",
-  "title": "Anteil der Bevölkerung, der durch ein Mobilfunknetz abgedeckt ist, nach Technologie"
+  "title": "9-c-1"
 }

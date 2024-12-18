@@ -16,63 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Hektar",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",
-                "Meeresfläche, die unter Schutz steht",
-                "Meeresfläche, die unter effektivem Schutz steht",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -81,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "14-5-1",
-  "title": "Ausdehnung von Schutzgebieten im Verhältnis zu den gesamten Meeresgebieten"
+  "title": "14-5-1"
 }

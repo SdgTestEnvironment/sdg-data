@@ -15,52 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "capital to assets ratio",
-                "regulatory tier 1 capital to risk-weighted assets",
-                "nonperforming loans net of provisions to capital",
-                "nonperforming loans net of provisions to gross loans",
-                "return on assets",
-                "liquid assets to short-term liabilities",
-                "net open position in foreign exchange to capital",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -68,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "10-5-1",
-  "title": "Indikatoren zur Finanzstabilität"
+  "title": "10-5-1"
 }

@@ -16,65 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DTP-Impfquote zum Schuleintritt",
-                "Masern-Impfquote zum Schuleintritt",
-                "Pneumokokken-Impfquote zum Schuleintritt",
-                "HPV-Impfquoten bei 15-jährigen Mädchen und Jungen",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -83,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-b-1",
-  "title": "Anteil der Zielbevölkerung, der alle im jeweiligen nationalen Programm vorgesehenen Impfungen erhalten hat"
+  "title": "3-b-1"
 }

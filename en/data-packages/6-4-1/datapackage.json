@@ -16,77 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Euro per m³",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "economic activity",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Agriculture, forestry and fishing",
-                "MIMEC",
-                "Services",
-                ""
-              ]
-            },
-            "title": "Economic activity"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "s",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Change in water-use efficiency",
-                "Water-use efficiency",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -95,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-4-1",
-  "title": "Veränderung der Wassernutzungseffizienz im Zeitverlauf"
+  "title": "6-4-1"
 }

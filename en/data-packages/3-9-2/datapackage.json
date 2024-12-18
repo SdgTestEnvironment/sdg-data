@@ -16,78 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "disease",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) Acute respiratory infections",
-                "b) Diarrhoea",
-                "c) Intestinal nematode infections",
-                "d) Protein-energy malnutrition",
-                ""
-              ]
-            },
-            "title": "Disease"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "4 years and younger",
-                ""
-              ]
-            },
-            "title": "Age group"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "‒",
-                "0",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -96,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-9-2",
-  "title": "Sterblichkeitsrate infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene (Gefährdung durch unzureichende Leistungen im Bereich „Wasser, Sanitärversorgung und Hygiene (WASH)“ für alle)"
+  "title": "3-9-2"
 }

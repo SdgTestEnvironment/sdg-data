@@ -16,95 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "No unit",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Working-age population",
-                "German Bundestag (lower chamber)",
-                "Bundesrat (upper chamber)",
-                "Public service",
-                "Judiciary",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "fields of work",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Political leadership and central administration, foreign affairs",
-                "Police",
-                "Education, science, research, cultural affairs",
-                "Health, environment, sports and recreation",
-                ""
-              ]
-            },
-            "title": "Fields of work"
-          },
-          {
-            "name": "level of court",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Supreme/Constitutional courts",
-                "Higher-level courts",
-                "Lower-level courts",
-                ""
-              ]
-            },
-            "title": "Level of court"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                "r",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -113,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-7-1",
-  "title": "Anteil der Stellen in nationalen und lokalen Institutionen, einschließlich a) Gesetzgebungsorganen, b) des öffentlichen Dienstes und c) Rechtsprechungsorganen, im Vergleich zur nationalen Stellenverteilung, nach Geschlecht, Alter, Menschen mit Behinderungen und Bevölkerungsgruppen"
+  "title": "16-7-1"
 }

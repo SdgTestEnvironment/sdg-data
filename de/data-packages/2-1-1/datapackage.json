@@ -11,41 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "percentiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "P5",
-                "P10",
-                "P25",
-                "P50",
-                "P75",
-                "P90",
-                "P95"
-              ]
-            },
-            "title": "percentiles"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich"
-              ]
-            },
-            "title": "Geschlecht"
+            "name": "Value",
+            "type": "integer",
+            "title": "Wert"
           }
         ]
       }
@@ -53,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-1",
-  "title": "Prävalenz von Unterernährung"
+  "title": "2-1-1"
 }

@@ -16,60 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "cause of death",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Exposition gegenüber übermäßiger natürlicher Hitze",
-                "Exposition gegenüber übermäßiger natürlicher Kälte",
-                "Exposition gegenüber Sonnenlicht",
-                "Opfer von Blitzschlag",
-                "Opfer von Erdbeben",
-                "Opfer von Vulkanausbruch",
-                "Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",
-                "Opfer von Sturmkatastrophe",
-                "Opfer von Überschwemmung",
-                "Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften",
-                ""
-              ]
-            },
-            "title": "Todesursache"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                "‒",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -78,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-5-1",
-  "title": "Anzahl der Katastrophen zugeschriebenen Todesopfer, vermissten Personen und direkt betroffenen Personen je 100&nbsp;000 Einwohner/-innen"
+  "title": "11-5-1"
 }

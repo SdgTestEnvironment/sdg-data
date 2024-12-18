@@ -12,32 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -46,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "1-5-4",
-  "title": "Anteil der Gemeinden, die lokale Strategien zur Katastrophenvorsorge im Einklang mit nationalen Strategien zur Katastrophenvorsorge beschließen und umsetzen"
+  "title": "1-5-4"
 }

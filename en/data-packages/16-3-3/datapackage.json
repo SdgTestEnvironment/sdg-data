@@ -16,63 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Applications received",
-                "Applications finally processed",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "outcome of the application process",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Admissible applications",
-                "Rejected applications",
-                ""
-              ]
-            },
-            "title": "Outcome of the application process"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -81,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-3-3",
-  "title": "Anteil der Bevölkerung, der in den vorangegangenen zwei Jahren eine Streitigkeit durchlebt und einen formellen oder informellen Streitbeilegungsmechanismus in Anspruch genommen hat, nach Art des Mechanismus"
+  "title": "16-3-3"
 }

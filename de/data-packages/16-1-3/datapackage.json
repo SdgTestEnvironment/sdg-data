@@ -16,102 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Anzahl",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bevölkerung, die körperlicher Gewalt ausgesetzt war",
-                "Bevölkerung, die Opfer einer Straftat war",
-                "Opfer von Straftaten",
-                "Bevölkerung, die sexueller Gewalt ausgesetzt war",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 bis unter 25 Jahre",
-                "25 bis unter 35 Jahre",
-                "35 bis unter 45 Jahre",
-                "45 bis unter 55 Jahre",
-                "55 bis unter 65 Jahre",
-                "65 bis unter 75 Jahre",
-                "75 Jahre und älter",
-                "13 Jahre und jünger",
-                "14 bis unter 18 Jahre",
-                "18 bis unter 21 Jahre",
-                "21 bis unter 60 Jahre",
-                "60 Jahre und älter",
-                ""
-              ]
-            },
-            "title": "Altersklasse"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "|",
-                "…",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -120,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-1-3",
-  "title": "Anteil der Bevölkerung, der in den vorangegangenen 12 Monaten a) physischer Gewalt, b) psychischer Gewalt und/oder c) sexueller Gewalt ausgesetzt war"
+  "title": "16-1-3"
 }

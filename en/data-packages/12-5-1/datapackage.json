@@ -16,73 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "1,000 tonnes",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "type of waste",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Municipal waste",
-                "Total waste",
-                ""
-              ]
-            },
-            "title": "Type of waste"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National recycling rate",
-                "Material recovery",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -93,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-5-1",
-  "title": "Nationale Recyclingquote, Tonnen an recyceltem Material"
+  "title": "12-5-1"
 }

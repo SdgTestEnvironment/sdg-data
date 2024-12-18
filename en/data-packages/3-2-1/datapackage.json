@@ -16,50 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "11 months and younger",
-                "4 years and younger",
-                ""
-              ]
-            },
-            "title": "Age group"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -68,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-1",
-  "title": "Sterblichkeitsrate von Kindern unter 5 Jahren"
+  "title": "3-2-1"
 }

@@ -16,41 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "r",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -59,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "14-7-1",
-  "title": "Anteil der nachhaltigen Fischerei am BIP der kleinen Inselentwicklungsländer, der am wenigsten entwickelten Länder und aller Länder"
+  "title": "14-7-1"
 }

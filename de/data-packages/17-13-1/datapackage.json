@@ -16,78 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Milliarden EUR",
-                "Millionen Stunden",
-                "2020 = 100",
-                "Anzahl in 1 000",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Jährliche Wachstumsrate des realen BIP",
-                "Verfügbares Einkommen privater Haushalte",
-                "Konsum privater Haushalte",
-                "Schulden des Öffentlichen Gesamthaushalts",
-                "Finanzierungssaldo des Staates",
-                "Bruttoanlageinvestitionen",
-                "Geleistete Arbeitsstunden der Arbeitnehmer",
-                "Geleistete Arbeitsstunden der Erwerbstätigen",
-                "Arbeitsproduktivität je geleisteter Arbeitnehmerstunde",
-                "Arbeitsproduktivität je geleisteter Erwerbstätigenstunde",
-                "Erwerbstätige",
-                "Reales BIP pro Kopf",
-                "Außenbeitrag",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -96,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-13-1",
-  "title": "Makroökonomisches Dashboard"
+  "title": "17-13-1"
 }

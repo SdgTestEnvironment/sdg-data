@@ -12,32 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -46,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-a-1",
-  "title": "Anzahl der Staaten, die über eine nationale Städtepolitik oder regionale Entwicklungsplanung verfügen, welche a) auf die Bevölkerungsdynamik reagiert, b) eine ausgewogene Raumentwicklung gewährleistet und c) den lokalen Haushaltsspielraum vergrößert"
+  "title": "11-a-1"
 }

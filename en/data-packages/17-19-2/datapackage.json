@@ -16,62 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "yes=1, no=0",
-                "Percentage",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At least one population and housing census in the last 10 years conducted",
-                "Birth registration",
-                "Death registration",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "s",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -82,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-19-2",
-  "title": "Anteil der Staaten, die a) in den vorangegangenen 10 Jahren mindestens eine Bevölkerungs- und Wohnungszählung durchgeführt haben und b) bei der Geburtenregistrierung 100 Prozent und bei der Registrierung von Todesfällen 80 Prozent erreicht haben"
+  "title": "17-19-2"
 }

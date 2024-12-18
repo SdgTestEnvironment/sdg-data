@@ -16,50 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million EUR",
-                "Million USD, constant prices (2022)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -68,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-a-2",
-  "title": "Summe der öffentlichen Leistungen (öffentliche Entwicklungszusammenarbeit (ODA) plus sonstige öffentliche Ausgaben) für den Landwirtschaftssektor"
+  "title": "2-a-2"
 }

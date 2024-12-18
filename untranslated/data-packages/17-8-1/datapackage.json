@@ -15,58 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 to under 75 years",
-                "16 to under 25 years",
-                "25 to under 65 years",
-                "65 to under 75 years",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
@@ -76,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "17-8-1",
-  "title": "Anteil der Internetnutzerinnen und -nutzer"
+  "title": "17-8-1"
 }

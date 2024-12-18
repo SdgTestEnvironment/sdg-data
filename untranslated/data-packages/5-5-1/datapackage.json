@@ -11,63 +11,12 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number"
-          },
-          {
             "name": "Year",
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "sring",
-            "constraints": {
-              "enum": [
-                "percentage",
-                "number"
-              ]
-            }
-          },
-          {
-            "name": "political institutions",
-            "type": "sring",
-            "constraints": {
-              "enum": [
-                "bundestag (lower chamber)",
-                "bundesrat (upper chamber)",
-                "länder parliaments",
-                "councils of districts and district-free cities"
-              ]
-            }
-          },
-          {
-            "name": "region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "germany",
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia"
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
+            "name": "Value",
+            "type": "integer"
           }
         ]
       }
@@ -75,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-1",
-  "title": "Anteil der Sitze von Frauen in a) nationalen Parlamenten und b) Gemeinden"
+  "title": "5-5-1"
 }

@@ -15,58 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data from na from federal statistical office",
-                "data from lfs from federal statistical office",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -74,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "9-2-2",
-  "title": "Erwerbstätigkeit im Verarbeitenden Gewerbe im Verhältnis zur Erwerbstätigkeit insgesamt"
+  "title": "9-2-2"
 }

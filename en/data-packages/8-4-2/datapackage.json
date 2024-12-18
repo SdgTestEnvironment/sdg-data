@@ -16,64 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million tonnes",
-                "Tonnes per capita",
-                "2020 = 100",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Domestic material consumption (DMC)",
-                "Domestic material consumption per real GDP",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -82,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-4-2",
-  "title": "Inländische Materialnutzung, inländische Materialnutzung pro Kopf und inländische Materialnutzung im Verhältnis zum BIP"
+  "title": "8-4-2"
 }

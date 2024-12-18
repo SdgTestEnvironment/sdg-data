@@ -16,60 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "13 Jahre und jünger",
-                "14 bis unter 18 Jahre",
-                ""
-              ]
-            },
-            "title": "Altersklasse"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Wert"
@@ -80,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-7-1",
-  "title": "Anteil und Anzahl der Kinder im Alter von 5-17 Jahren, die Kinderarbeit leisten, nach Geschlecht und Alter"
+  "title": "8-7-1"
 }

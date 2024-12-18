@@ -15,61 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "million eur",
-                "percent of gdp",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total",
-                "tax breaks",
-                "direct transfers of funds",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "r",
-                "-",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -77,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "12-c-1",
-  "title": "Höhe der Subventionen für fossile Brennstoffe je BIP-Einheit (Produktion und Konsum)"
+  "title": "12-c-1"
 }

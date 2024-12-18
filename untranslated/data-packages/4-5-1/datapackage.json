@@ -15,51 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "sdg indicator 4.2.2 (5 years)",
-                "sdg-indicator 4.3.1 (15 to under 25 years)",
-                "sdg-indicator 4.3.1 (15 to under 65 years)",
-                "sdg-indicator 4.3.1 (25 to under 55 years)",
-                "sdg-indicator 4.3.1 (55 to under 65 years)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                "p",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -67,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1",
-  "title": "Paritätsindizes (weiblich/ männlich, ländlich/ städtisch, unterstes/ oberstes Vermögensquintil und sonstige, wie Behinderungsstatus, Zugehörigkeit zu einer indigenen Bevölkerungsgruppe und Beeinträchtigung durch Konflikte, je nach Datenverfügbarkeit) für alle genannten Bildungsindikatoren, die sich aufschlüsseln lassen"
+  "title": "4-5-1"
 }

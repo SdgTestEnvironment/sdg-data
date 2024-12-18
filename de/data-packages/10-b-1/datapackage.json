@@ -16,66 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "type of flow",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Öffentliche Nettoentwicklungsausgaben (ODA)",
-                "Sonstige öffentliche Nettoausgaben (OOF)",
-                "Öffentlich unterstützte Exportkredite (Nettoausgaben)",
-                "Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)",
-                "Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)",
-                ""
-              ]
-            },
-            "title": "Art des Finanzstroms"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -84,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-b-1",
-  "title": "Gesamte Finanzströme für Entwicklung, nach Nehmer- und Geberländern und Art des Zahlungsstroms (z. B. öffentliche Entwicklungszusammenarbeit (ODA), ausländische Direktinvestitionen und sonstige Finanzströme)"
+  "title": "10-b-1"
 }

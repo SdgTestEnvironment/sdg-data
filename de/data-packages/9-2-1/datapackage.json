@@ -16,65 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "EUR",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP",
-                "Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt",
-                "Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -83,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-2-1",
-  "title": "Wertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP und pro Kopf"
+  "title": "9-2-1"
 }

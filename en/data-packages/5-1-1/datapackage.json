@@ -16,51 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "area of law",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Area 1: Overarching legal frameworks and public life",
-                "Area 2: Violence against women",
-                "Area 3: Employment and economic benefit",
-                "Area 4: Marriage and family",
-                ""
-              ]
-            },
-            "title": "Area of law"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -71,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-1",
-  "title": "Vorhandensein gesetzlicher Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung und der Nichtdiskriminierung aufgrund des Geschlechts"
+  "title": "5-1-1"
 }

@@ -12,32 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -46,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "1-5-3",
-  "title": "Anzahl der Staaten, die nationale Strategien zur Katastrophenvorsorge im Einklang mit dem Sendai-Rahmen für Katastrophenvorsorge 2015-2030 beschließen und umsetzen"
+  "title": "1-5-3"
 }

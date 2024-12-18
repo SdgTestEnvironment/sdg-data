@@ -16,39 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -57,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-b-1",
-  "title": "Anteil der Bevölkerung, der sich in den vorangegangenen 12 Monaten wegen eines nach den internationalen Menschenrechtsnormen verbotenen Diskriminierungsgrunds persönlich diskriminiert oder belästigt gefühlt hat"
+  "title": "16-b-1"
 }

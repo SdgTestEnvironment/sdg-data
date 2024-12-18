@@ -16,83 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Städte",
-                "Kleinere Städte und Vororte",
-                "Ländliche Gebiete",
-                ""
-              ]
-            },
-            "title": "Verstädterungsgrad"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                ".",
-                "0",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Überbelegungsquote",
-                "Quote der Überbelastung durch Wohnkosten",
-                "Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
-                "Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",
-                "Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",
-                "Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -101,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-1-1",
-  "title": "Anteil der städtischen Bevölkerung, der in Slums, informellen Siedlungen oder unzureichendem Wohnraum lebt"
+  "title": "11-1-1"
 }

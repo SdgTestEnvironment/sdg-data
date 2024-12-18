@@ -15,47 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "pathogens and resistance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "escherichia coli, 3gcr",
-                "staphylococcus aureus, mr",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -63,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "3-d-2",
-  "title": "Anteil der Blutvergiftungen, die von bestimmten gegen antimikrobielle Wirkstoffe resistenten Organismen verursacht werden"
+  "title": "3-d-2"
 }

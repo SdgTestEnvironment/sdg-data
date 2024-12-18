@@ -15,36 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -52,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "16-5-2",
-  "title": "Anteil der Unternehmen, die in den vorangegangenen 12 Monaten mindestens einen Kontakt mit einem/ einer öffentlichen Bediensteten hatten und eine Bestechungszahlung an diese Person geleistet haben oder von ihr dazu aufgefordert wurden"
+  "title": "16-5-2"
 }

@@ -16,51 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Score for the implementation of UNCLOS and ist two implementing agreements",
-                "Score for the ratification of and accession to UNCLOS and ist two implementing agreements",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -69,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "14-c-1",
-  "title": "Anzahl der Staaten, die bei der Ratifizierung, Annahme und Durchführung von ozeanbezogenen Übereinkünften zur Umsetzung des Völkerrechts, wie es im Seerechtsübereinkommen der Vereinten Nationen niedergelegt ist, durch rechtliche, politische und institutionelle Rahmenbedingungen Fortschritte zugunsten der Erhaltung und nachhaltigen Nutzung der Ozeane und ihrer Ressourcen machen"
+  "title": "14-c-1"
 }

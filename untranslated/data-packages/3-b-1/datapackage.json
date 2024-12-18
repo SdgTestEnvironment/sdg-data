@@ -15,60 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "dtp vaccination coverage at school entry",
-                "measles vaccination coverage at school entry",
-                "pneumococcal vaccination coverage at school entry",
-                "hpv vaccination coverages among 15 years old girls and boys",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -76,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "3-b-1",
-  "title": "Anteil der Zielbevölkerung, der alle im jeweiligen nationalen Programm vorgesehenen Impfungen erhalten hat"
+  "title": "3-b-1"
 }

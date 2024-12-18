@@ -16,64 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Owned and leased agricultural land",
-                "Female owners of agricultural holdings with the legal form of a sole proprietorship",
-                "Agricultural holdings with the legal form of a sole proprietorship",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "ownership",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Property",
-                "Leasehold",
-                ""
-              ]
-            },
-            "title": "Ownership"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -82,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-a-1",
-  "title": "a) Anteil der Agrarbevölkerung mit Eigentum oder sicheren Rechten an landwirtschaftlichen Flächen, nach Geschlecht, und b) Frauenanteil unter den Eigentümern oder Rechteinhabern landwirtschaftlicher Flächen, nach Art der Nutzungs- und Besitzrechte"
+  "title": "5-a-1"
 }

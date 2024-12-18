@@ -16,64 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "enterprise definition",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Legal entities",
-                "EU enterprise definition",
-                ""
-              ]
-            },
-            "title": "Enterprise definition"
-          },
-          {
-            "name": "technology sectors",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Medium-high-tech",
-                "High-tech",
-                ""
-              ]
-            },
-            "title": "Technology sectors"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -82,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-b-1",
-  "title": "Anteil der Wertschöpfung der Medium- und High-Tech-Industrien an der Gesamtwertschöpfung"
+  "title": "9-b-1"
 }

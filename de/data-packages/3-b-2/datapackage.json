@@ -16,50 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -68,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-b-2",
-  "title": "Gesamte öffentliche Netto-Entwicklungszusammenarbeit (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung"
+  "title": "3-b-2"
 }

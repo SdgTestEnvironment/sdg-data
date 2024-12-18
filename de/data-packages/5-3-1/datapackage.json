@@ -16,65 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Anzahl",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "14 Jahre und jünger",
-                "17 Jahre und jünger",
-                ""
-              ]
-            },
-            "title": "Altersklasse"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "‒",
-                "0",
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -83,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-3-1",
-  "title": "Anteil der Frauen im Alter von 20-24 Jahren, die vor dem vollendeten 15. bzw. 18. Lebensjahr verheiratet waren oder in einer vergleichbaren Verbindung lebten"
+  "title": "5-3-1"
 }

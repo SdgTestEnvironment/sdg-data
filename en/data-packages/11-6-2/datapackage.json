@@ -16,75 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Micrograms per m³",
-                "Million inhabitants",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "fine particulate matter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PM₁₀",
-                "PM₂.₅",
-                ""
-              ]
-            },
-            "title": "Fine particulate matter"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population weighted annual mean levels of fine particulate matter",
-                "Population with excessive exposure to fine particulate matter",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -93,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-6-2",
-  "title": "Bevölkerungsgewichtete Jahresmittelwerte der Feinstaubkonzentration (z. B. PM₂,₅ und PM₁₀) in Städten"
+  "title": "11-6-2"
 }

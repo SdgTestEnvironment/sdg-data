@@ -16,78 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kilogramm pro Kopf",
-                "Prozent",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "type of waste treatment",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Energierückgewinnung",
-                "Verbrennung",
-                "Verwertung anderer als die der Energierückgewinnung",
-                "Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern",
-                ""
-              ]
-            },
-            "title": "Art der Abfallbehandlung"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) Aufkommen gefährlicher Abfälle",
-                "b) Behandelte gefährliche Abfälle",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -96,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-4-2",
-  "title": "a) Aufkommen gefährlicher Abfälle pro Kopf und b) Anteil der gefährlichen Abfälle, der behandelt wird, nach Art der Behandlung"
+  "title": "12-4-2"
 }

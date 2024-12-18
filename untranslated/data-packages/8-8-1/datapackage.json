@@ -15,58 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "fatal occupational accidents",
-                "non-fatal occupational accidents",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -74,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "8-8-1",
-  "title": "Anzahl tödlicher und nicht tödlicher Arbeitsunfälle je 100&nbsp;000 Erwerbstätige, nach Geschlecht und Migrationsstatus"
+  "title": "8-8-1"
 }

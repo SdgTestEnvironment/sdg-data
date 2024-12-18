@@ -16,62 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million EUR",
-                "Million USD, constant prices (2022)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Gross disbursements (ODA and OOF)",
-                "Gross disbursements (ODA)",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -80,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-a-1",
-  "title": "Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Leistungen) für Infrastruktur"
+  "title": "9-a-1"
 }

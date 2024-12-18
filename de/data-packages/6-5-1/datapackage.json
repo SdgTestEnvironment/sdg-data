@@ -16,51 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "section",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Endbewertung",
-                "Rahmenbedingungen",
-                "Institutionen und Beteiligung",
-                "Managementinstrumente",
-                "Finanzierung",
-                ""
-              ]
-            },
-            "title": "Abschnitt"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Wert"
@@ -71,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-5-1",
-  "title": "Grad der integrierten Wasserbewirtschaftung"
+  "title": "6-5-1"
 }

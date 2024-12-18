@@ -15,47 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "type of service",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "schools with access to electricity",
-                "schools with access to basic drinking water",
-                "schools with access to single-sex basic sanitation facilities",
-                "schools with access to basic handwashing facilities",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "s",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
@@ -65,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "4-a-1",
-  "title": "Anteil der Schulen mit Basisversorgung, nach Art der Versorgungsleistung"
+  "title": "4-a-1"
 }

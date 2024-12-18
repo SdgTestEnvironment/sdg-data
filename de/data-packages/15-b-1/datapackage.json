@@ -16,63 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zusagen (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben (ODA) für den Forstsektor",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -81,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-b-1",
-  "title": "a) Öffentliche Entwicklungszusammenarbeit (ODA) für die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt und b) Einnahmen und Finanzmittel, die über die für die biologische Vielfalt maßgeblichen Wirtschaftsinstrumente generiert wurden"
+  "title": "15-b-1"
 }

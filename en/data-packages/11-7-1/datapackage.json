@@ -16,38 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -56,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-7-1",
-  "title": "Durchschnittlicher Anteil der bebauten Fläche in Städten, der für alle Personen nach Geschlecht, Alter und Menschen mit Behinderungen als Freifläche öffentlich zugänglich ist"
+  "title": "11-7-1"
 }

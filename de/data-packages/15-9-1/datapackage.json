@@ -16,51 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) Umsetzung nationaler Ziele gemäß dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020",
-                "b) Umsetzung der Werte der biologischen Vielfalt in die UGR",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -69,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-9-1",
-  "title": "a) Anzahl der Staaten, die nationale Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020 in ihre nationalen Strategien und Aktionspläne zugunsten der biologischen Vielfalt aufgenommen haben, und die bei der Umsetzung dieser Zielvorgaben gemeldeten Fortschritte und b) Aufnahme der biologischen Vielfalt in die nationalen Rechnungslegungs- und Berichterstattungssysteme, definiert als die Anwendung des Systems der Umweltökonomischen Gesamtrechnungen"
+  "title": "15-9-1"
 }

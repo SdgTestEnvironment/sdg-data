@@ -12,56 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "area2",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) Nationale Bildungspolitik",
-                "b) Lehrpläne",
-                "c) Ausbildung von Lehrkräften",
-                "d) Leistungsbewertung der Lernenden",
-                ""
-              ]
-            },
-            "title": "Bereich"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -70,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "13-3-1",
-  "title": "Umfang, in dem i) Bildung zur Weltbürgerschaft (Global Citizenship Education) und ii) Bildung für nachhaltige Entwicklung in a) nationale Bildungspolitik, b) Lehrpläne, c) Ausbildung von Lehrkräften und d) Leistungsbewertung der Lernenden integriert sind"
+  "title": "13-3-1"
 }

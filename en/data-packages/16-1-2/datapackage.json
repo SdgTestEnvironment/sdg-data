@@ -16,39 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "‒",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -57,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-1-2",
-  "title": "Konfliktbezogene Todesfälle je 100&nbsp;000 Einwohner/-innen, nach Geschlecht, Alter und Todesursache"
+  "title": "16-1-2"
 }

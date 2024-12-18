@@ -15,72 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "disease",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) acute respiratory infections",
-                "b) diarrhoea",
-                "c) intestinal nematode infections",
-                "d) protein-energy malnutrition",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "male",
-                "female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "4 years and younger",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "‒",
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -88,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "3-9-2",
-  "title": "Sterblichkeitsrate infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene (Gefährdung durch unzureichende Leistungen im Bereich „Wasser, Sanitärversorgung und Hygiene (WASH)“ für alle)"
+  "title": "3-9-2"
 }

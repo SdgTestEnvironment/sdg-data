@@ -16,79 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Number",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Level of risk of extinction (according to FAO classification)",
-                "Local livestock breeds (horses, cows, pigs, sheep and goats)",
-                "Level of risk of extinction (according to national classification)",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "level of risk of extinction",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At risk",
-                "Not at risk",
-                "Under observation",
-                "Breeding programs for preservation",
-                "Rudiments remaining",
-                ""
-              ]
-            },
-            "title": "Level of risk of extinction"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -97,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-5-2",
-  "title": "Anteil heimischer Rassen, die als vom Aussterben bedroht eingestuft sind"
+  "title": "2-5-2"
 }

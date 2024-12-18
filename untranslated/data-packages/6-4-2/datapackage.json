@@ -15,48 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "water use index",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "share of withdrawal in renewable water resources",
-                "share of withdrawal in renewable water resources (excluding cooling water)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ".",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -64,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "6-4-2",
-  "title": "Grad an Wasserstress: Süßwasserentnahme im Verhältnis zu den vorhandenen Süßwasserressourcen"
+  "title": "6-4-2"
 }

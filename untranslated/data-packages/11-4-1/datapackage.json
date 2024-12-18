@@ -15,48 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "protection of biodiversity and landscape (cofog 5.4)",
-                "cultural services (cofog 8.2)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -64,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "11-4-1",
-  "title": "Gesamtausgaben pro Kopf für die Erhaltung und den Schutz des gesamten Kultur- und Naturerbes, nach Finanzierungsquelle (öffentlich, privat), Art des Erbes (Kulturerbe, Naturerbe) und Verwaltungsebene (national, regional, lokal/ kommunal)"
+  "title": "11-4-1"
 }

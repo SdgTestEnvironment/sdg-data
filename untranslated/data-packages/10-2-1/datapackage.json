@@ -15,59 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "17 years and younger",
-                "18 to under 65 years",
-                "65 years and older",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -75,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "10-2-1",
-  "title": "Anteil der Bevölkerung, dessen Einkommen weniger als 50 Prozent des Medians beträgt, nach Geschlecht, Alter und Menschen mit Behinderungen"
+  "title": "10-2-1"
 }

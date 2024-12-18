@@ -15,46 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) branches of payment service providers",
-                "b) atms of national payment service providers",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -62,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "8-10-1",
-  "title": "a) Anzahl der Bankfilialen je 100&nbsp;000 Erwachsene und b) Anzahl der Geldautomaten je 100&nbsp;000 Erwachsene"
+  "title": "8-10-1"
 }

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,39 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -57,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-4-2",
-  "title": "Anteil der beschlagnahmten, aufgefundenen oder abgegebenen Waffen, deren illegaler Ursprung oder Kontext im Einklang mit internationalen Übereinkünften von einer zuständigen Behörde rückverfolgt oder nachgewiesen wurde"
+  "title": "16-4-2"
 }

@@ -15,36 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -52,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "10-7-3",
-  "title": "Anzahl der Menschen, die im Laufe ihrer Migration zu einem internationalen Zielort gestorben oder verschwunden sind"
+  "title": "10-7-3"
 }

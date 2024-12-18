@@ -16,51 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Plant genetic resources",
-                "Animal genetic resources",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -69,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-5-1",
-  "title": "Anzahl der für Ernährung und Landwirtschaft nutzbaren a) pflanzen- und b) tiergenetischen Ressourcen, die mittel- oder langfristig in Konservierungseinrichtungen sicher aufbewahrt werden"
+  "title": "2-5-1"
 }

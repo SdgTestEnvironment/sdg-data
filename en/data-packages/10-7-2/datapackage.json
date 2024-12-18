@@ -12,54 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "policy area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Domain 1. Migrant rights",
-                "Domain 2. Whole-of-government/ Evidence-based policies",
-                "Domain 3. Cooperation and partnerships",
-                "Domain 4. Socioeconomic well-being",
-                "Domain 5. Mobility dimensions of crises",
-                "Domain 6. Safe, orderly and regular migration",
-                ""
-              ]
-            },
-            "title": "Policy area"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -72,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-7-2",
-  "title": "Anteil der Staaten mit einer Migrationspolitik, die eine geordnete, sichere, reguläre und verantwortungsvolle Migration und Mobilität von Menschen ermöglicht"
+  "title": "10-7-2"
 }

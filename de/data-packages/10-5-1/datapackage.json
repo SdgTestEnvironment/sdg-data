@@ -16,56 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Eigenkapitalquote",
-                "Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen",
-                "Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital",
-                "Anteil der notleidenden Kredite an den Bruttokrediten insgesamt",
-                "Gesamtkapitalrentabilität",
-                "Relation zwischen liquiden Aktiva und kurzfristigen Verbindlichkeiten",
-                "Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -74,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-5-1",
-  "title": "Indikatoren zur Finanzstabilität"
+  "title": "10-5-1"
 }

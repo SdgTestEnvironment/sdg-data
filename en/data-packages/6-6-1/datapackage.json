@@ -16,76 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "km²",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "ecosystem",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lakes and rivers permanent water area",
-                "Wetlands area",
-                "Large artificial or heavily modified lakes",
-                ""
-              ]
-            },
-            "title": "Ecosystem"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Area change in comparison to 2015",
-                "Area",
-                "Area as a proportion of total land area",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -94,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-6-1",
-  "title": "Veränderung des Umfangs wasserbezogener Ökosysteme im Zeitverlauf"
+  "title": "6-6-1"
 }

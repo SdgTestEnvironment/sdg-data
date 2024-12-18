@@ -15,34 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "s",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
@@ -52,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "7-1-2",
-  "title": "Anteil der Bevölkerung, der vorwiegend saubere Energieträger und Technologien nutzt"
+  "title": "7-1-2"
 }

@@ -16,51 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ziele",
-                "Indikatoren",
-                "Daten",
-                ""
-              ]
-            },
-            "title": "Ebene"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -69,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-15-1",
-  "title": "Umfang der Nutzung ländereigener Ergebnisrahmen und Planungsinstrumente durch Geber von Entwicklungszusammenarbeit"
+  "title": "17-15-1"
 }

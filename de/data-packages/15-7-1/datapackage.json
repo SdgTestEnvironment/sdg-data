@@ -16,51 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "|",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
-                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
-                "Genehmigte Ein- und Ausfuhren geschützter Arten",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Wert"
@@ -71,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-7-1",
-  "title": "Anteil der gehandelten wildlebenden Tiere und Pflanzen, die aus Wilderei oder illegalem Handel stammen"
+  "title": "15-7-1"
 }

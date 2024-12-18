@@ -12,26 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 years",
-                "15.5 years",
-                "16 years",
-                "16.5 years",
-                "17 years",
-                "17.5 years",
-                ""
-              ]
-            }
+            "type": "integer"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -39,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-3",
-  "title": "Prävalenz von Anämie bei Frauen im Alter von 15-49 Jahren, nach Schwangerschaftsstatus (in Prozent)"
+  "title": "2-2-3"
 }

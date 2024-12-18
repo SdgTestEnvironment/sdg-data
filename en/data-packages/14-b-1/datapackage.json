@@ -16,36 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -56,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "14-b-1",
-  "title": "Umsetzungsgrad eines rechtlichen/ regulatorischen/ politischen/ institutionellen Rahmens, der die Zugangsrechte für Kleinfischerei anerkennt und schützt"
+  "title": "14-b-1"
 }

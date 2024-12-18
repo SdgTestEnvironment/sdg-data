@@ -7,87 +7,12 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "substance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "drugs",
-                "alcohol and other psychoactive substances",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "bound",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "upper bound",
-                "lower bound",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                "unknown",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "-",
-                "‒",
-                "s",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "inpatient treatment of substance use disorders",
-                "estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
@@ -99,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "3-5-1",
-  "title": "Behandlungsumfang (pharmakologische, psychosoziale sowie Rehabilitations- und Nachsorgeleistungen) bei Störungen durch Substanzgebrauch"
+  "title": "3-5-1"
 }

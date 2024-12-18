@@ -15,37 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "‒",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -53,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "5-3-2",
-  "title": "Anteil der Mädchen und Frauen im Alter von 15-49 Jahren, die einer Genitalverstümmelung unterzogen wurden, nach Alter"
+  "title": "5-3-2"
 }

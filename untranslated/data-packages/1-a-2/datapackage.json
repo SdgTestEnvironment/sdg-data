@@ -15,49 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "function",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "health",
-                "education",
-                "social protection",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -65,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "1-a-2",
-  "title": "Anteil der Gesamtausgaben des Staates für Grundleistungen (Bildung, Gesundheit und soziale Sicherung)"
+  "title": "1-a-2"
 }

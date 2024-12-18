@@ -11,69 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "sring",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Number"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "political institutions",
-            "type": "sring",
-            "constraints": {
-              "enum": [
-                "Bundestag (Lower chamber)",
-                "Bundesrat (upper chamber)",
-                "Länder parliaments",
-                "Councils of districts and district-free cities"
-              ]
-            },
-            "title": "political institutions"
-          },
-          {
-            "name": "region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Germany",
-                "baden-wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia"
-              ]
-            },
-            "title": "region"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
           }
         ]
       }
@@ -81,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-1",
-  "title": "Anteil der Sitze von Frauen in a) nationalen Parlamenten und b) Gemeinden"
+  "title": "5-5-1"
 }

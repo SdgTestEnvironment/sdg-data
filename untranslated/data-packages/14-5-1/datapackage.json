@@ -15,58 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage",
-                "hectare",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "marine key biodiversity areas (kbas) covered by protected areas",
-                "marine areas covered by protected areas",
-                "marine areas covered by effective protected areas",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -74,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "14-5-1",
-  "title": "Ausdehnung von Schutzgebieten im Verhältnis zu den gesamten Meeresgebieten"
+  "title": "14-5-1"
 }

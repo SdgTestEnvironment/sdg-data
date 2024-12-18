@@ -16,52 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "water use index",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anteil der Entnahme an den erneuerbaren Wasserressourcen",
-                "Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser)",
-                ""
-              ]
-            },
-            "title": "Wassernutzungsindex"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -70,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-4-2",
-  "title": "Grad an Wasserstress: Süßwasserentnahme im Verhältnis zu den vorhandenen Süßwasserressourcen"
+  "title": "6-4-2"
 }

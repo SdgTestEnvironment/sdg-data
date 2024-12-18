@@ -16,65 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ja=1, nein=0",
-                "Anzahl",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1) Länder, die Vertragsparteien des Internationalen Vertrags über PGRFA sind",
-                "2) Länder, die Vertragsparteien des Nagoya-Protokolls sind",
-                "3) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet wurden",
-                "4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden",
-                "5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -83,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-6-1",
-  "title": "Anzahl der Staaten, die rechtliche, administrative und politische Rahmenbedingungen geschaffen haben, um Vorteile gerecht und gleichmäßig zu verteilen"
+  "title": "15-6-1"
 }

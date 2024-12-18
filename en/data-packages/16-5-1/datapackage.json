@@ -16,76 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Number",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                "Divers",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "s",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population who had the impression that public officials are corruptible",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -94,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-5-1",
-  "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten mindestens einen Kontakt mit einem/ einer öffentlichen Bediensteten hatten und eine Bestechungszahlung an diese Person geleistet haben oder von ihr dazu aufgefordert wurden"
+  "title": "16-5-1"
 }

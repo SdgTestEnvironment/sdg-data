@@ -16,63 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1,000 tonnes",
-                "Kilogram per capita",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "stages of the food chain",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Restaurants and food services",
-                "Private households",
-                "Retail and other distribution of food",
-                ""
-              ]
-            },
-            "title": "Stages of the food chain"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -81,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-3-1",
-  "title": "a) Index der Lebensmittelverluste und b) Index der Lebensmittelabfälle"
+  "title": "12-3-1"
 }

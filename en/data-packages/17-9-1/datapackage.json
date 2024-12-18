@@ -16,62 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million EUR",
-                "Million USD, constant prices (2022)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Commitments (ODA and OOF)",
-                "Gross disbursements (ODA and OOF)",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -80,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-9-1",
-  "title": "Wert der finanziellen und technischen Hilfe für Entwicklungsländer (einschließlich durch Nord-Süd-, Süd-Süd- und Dreieckskooperationen), in US-Dollar"
+  "title": "17-9-1"
 }

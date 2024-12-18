@@ -11,69 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "sring",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Anzahl"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "political institutions",
-            "type": "sring",
-            "constraints": {
-              "enum": [
-                "Deutscher Bundestag",
-                "Bundesrat",
-                "Landtage",
-                "Kreistage und Stadträte von kreisfreien Städten"
-              ]
-            },
-            "title": "political institutions"
-          },
-          {
-            "name": "region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland",
-                "baden-wuerttemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen"
-              ]
-            },
-            "title": "region"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "name": "Value",
+            "type": "integer",
+            "title": "Wert"
           }
         ]
       }
@@ -81,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-1",
-  "title": "Anteil der Sitze von Frauen in a) nationalen Parlamenten und b) Gemeinden"
+  "title": "5-5-1"
 }

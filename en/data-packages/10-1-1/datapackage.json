@@ -16,51 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "population",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population total",
-                "Poorest 40 percent of the population",
-                ""
-              ]
-            },
-            "title": "Population"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -69,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-1-1",
-  "title": "Wachstumsraten der Haushaltsausgaben oder des Pro-Kopf-Einkommens bei den ärmsten 40 Prozent der Bevölkerung und der Gesamtbevölkerung"
+  "title": "10-1-1"
 }

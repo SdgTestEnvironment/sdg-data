@@ -15,36 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -52,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-2",
-  "title": "Prävalenz von mittlerer oder schwerer Ernährungsunsicherheit in der Bevölkerung gemäß der Erfahrungsskala für Ernährungsunsicherheit (FIES)"
+  "title": "2-1-2"
 }

@@ -16,49 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "standard accounting system",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SEEA tables",
-                "TSA tables",
-                ""
-              ]
-            },
-            "title": "Standard accounting system"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -69,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-b-1",
-  "title": "Anwendung von standardisierten Gesamtrechnungssystemen zur Beobachtung der wirtschaftlichen und ökologischen Aspekte der Nachhaltigkeit des Tourismus"
+  "title": "12-b-1"
 }

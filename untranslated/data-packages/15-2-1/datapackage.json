@@ -15,75 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "million tonnes carbon",
-                "percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "type of biomass",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "standig wood",
-                "other woody biomass",
-                "other biomass in forests",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                "r",
-                "p",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "above-ground biomass stock in forest",
-                "forest area located within protected areas",
-                "forest area net change rate",
-                "forest area under an independently verified forest management certification scheme",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -91,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "15-2-1",
-  "title": "Fortschritt bei der nachhaltigen Waldbewirtschaftung"
+  "title": "15-2-1"
 }

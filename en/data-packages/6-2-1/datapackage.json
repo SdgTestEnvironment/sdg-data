@@ -16,65 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population with (own) toilet",
-                "Population with (own) bathtub or shower",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "availability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Yes",
-                "No",
-                ""
-              ]
-            },
-            "title": "Availability"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                "0",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0.0",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -83,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-1",
-  "title": "Anteil der Bevölkerung, der a) eine sicher verwaltete Sanitärversorgung und b) eine Gelegenheit zum Händewaschen mit Wasser und Seife nutzt"
+  "title": "6-2-1"
 }

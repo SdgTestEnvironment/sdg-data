@@ -15,71 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "attributable deaths",
-                "dalys",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "disease",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "chronic obstructive pulmonary disease (copd)",
-                "lung cancer",
-                "stroke",
-                "ischemic heart diseases",
-                "diabetes mellitus type 2",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
-                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease",
-                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
-                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
@@ -89,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "3-9-1",
-  "title": "Sterblichkeitsrate infolge von Verschmutzung der Raum- bzw. Außenluft"
+  "title": "3-9-1"
 }

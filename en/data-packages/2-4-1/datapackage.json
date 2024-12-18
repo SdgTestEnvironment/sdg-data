@@ -16,110 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "No unit",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data from the Federal Statistical Office",
-                "Data from the Federal Ministry of Food and Agriculture",
-                "Progress toward productive and sustainable agriculture (proxy)",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "länder",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Württemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Länder"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "score",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Trend",
-                "Currend status",
-                ""
-              ]
-            },
-            "title": "Score"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "s",
-                "r",
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -128,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-4-1",
-  "title": "Anteil der landwirtschaftlichen Fläche unter produktiver und nachhaltiger landwirtschaftlicher Bewirtschaftung"
+  "title": "2-4-1"
 }

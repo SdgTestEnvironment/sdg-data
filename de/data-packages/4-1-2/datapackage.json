@@ -16,65 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "educational level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sekundarstufe I (ISCED-Stufe 2)",
-                "Sekundarstufe II (ISCED-Stufe 3)",
-                ""
-              ]
-            },
-            "title": "Bildungsstand"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "|",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -83,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-2",
-  "title": "Schulabschlussquote (Grundschule, Sekundarstufe I und Sekundarstufe II)"
+  "title": "4-1-2"
 }

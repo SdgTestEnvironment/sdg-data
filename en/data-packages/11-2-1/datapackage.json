@@ -16,121 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Accessibility within 500 m",
-                "Accessibility within 10 minutes on foot",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "länder",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Württemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Länder"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mobility impaired people",
-                ""
-              ]
-            },
-            "title": "Disability status"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "17 years and younger",
-                "18 to under 30 years",
-                "30 to under 45 years",
-                "45 to under 65 years",
-                "65 years and older",
-                ""
-              ]
-            },
-            "title": "Age group"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -139,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-2-1",
-  "title": "Anteil der Bevölkerung mit bequemem Zugang zu öffentlichen Verkehrsmitteln, nach Geschlecht, Alter und Menschen mit Behinderungen"
+  "title": "11-2-1"
 }

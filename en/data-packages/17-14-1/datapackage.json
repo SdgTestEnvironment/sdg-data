@@ -12,32 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -46,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-14-1",
-  "title": "Anzahl der Staaten mit Mechanismen zur Verbesserung der Politikkohärenz bezogen auf nachhaltige Entwicklung"
+  "title": "17-14-1"
 }

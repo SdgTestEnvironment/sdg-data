@@ -15,46 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "age of mother",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10 to under 15 years",
-                "15 to under 20 years",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -62,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "3-7-2",
-  "title": "Geburtenrate bei Jugendlichen (im Alter von 10-14 Jahren und 15-19 Jahren) je 1&nbsp;000 Frauen in dieser Altersgruppe"
+  "title": "3-7-2"
 }

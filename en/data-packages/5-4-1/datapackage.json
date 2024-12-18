@@ -16,103 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Houres per day",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "type of unpaid work",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Domestic and care work",
-                "Domestic work",
-                "Care work",
-                ""
-              ]
-            },
-            "title": "Type of unpaid work"
-          },
-          {
-            "name": "degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural areas",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 years and older",
-                "15 to under 25 years",
-                "25 to under 45 years",
-                "45 to under 55 years",
-                "55 to under 65 years",
-                "65 years and older",
-                ""
-              ]
-            },
-            "title": "Age group"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -121,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-4-1",
-  "title": "Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit, nach Geschlecht, Alter und Ort"
+  "title": "5-4-1"
 }

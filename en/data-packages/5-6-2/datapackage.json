@@ -16,51 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "thematic area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Section 1: Maternity care",
-                "Section 2: Contraception and family planning",
-                "Section 3: Comprehensive sexuality education and information",
-                "Section 4: HIV and HPV",
-                ""
-              ]
-            },
-            "title": "Thematic area"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -71,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-6-2",
-  "title": "Anzahl der Staaten mit Gesetzen und Vorschriften, die Frauen und Männern im Alter von 15 Jahren und älter den uneingeschränkten und gleichberechtigten Zugang zu sexuellen und reproduktiven Gesundheitsleistungen, Informationen und Bildung garantieren"
+  "title": "5-6-2"
 }
