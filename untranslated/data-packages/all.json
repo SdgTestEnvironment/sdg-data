@@ -5025,7 +5025,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -10558,7 +10558,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -10567,12 +10567,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                ".",
-                "…",
                 ""
               ]
             }
