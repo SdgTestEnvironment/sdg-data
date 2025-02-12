@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Je 100 000 Einwohner/-innen",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
@@ -59,7 +71,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "|",
+                ".",
+                "‒",
                 ""
               ]
             },
@@ -67,9 +82,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -87,7 +103,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

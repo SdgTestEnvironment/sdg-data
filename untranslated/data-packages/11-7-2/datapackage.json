@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number",
+                "per 100,000 inhabitants",
+                ""
+              ]
+            }
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
@@ -55,16 +66,20 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "|",
+                ".",
+                "‒",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -80,7 +95,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

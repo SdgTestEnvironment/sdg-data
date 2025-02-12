@@ -22,6 +22,8 @@
               "enum": [
                 "Anzeigequote bei Körperverletzung",
                 "Anzeigequote bei Raub",
+                "Anzeigequote bei psychischer Gewalt",
+                "Anzeigequote bei sexueller Gewalt",
                 ""
               ]
             },

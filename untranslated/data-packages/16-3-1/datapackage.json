@@ -21,6 +21,8 @@
               "enum": [
                 "reporting rate for physical assault",
                 "reporting rate for robbery",
+                "reporting rate for psychological violence",
+                "reporting rate for sexual violence",
                 ""
               ]
             }

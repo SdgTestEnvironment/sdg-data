@@ -2,9 +2,6 @@ Year,Time series,Sex,Age group,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2012,Reporting rate for physical assault,,,,,,32.9
 2017,Reporting rate for physical assault,,,,,,36.6
 2020,Reporting rate for physical assault,,,|,,,33.5
-2012,Reporting rate for robbery,,,,,,33.6
-2017,Reporting rate for robbery,,,,,,32.0
-2020,Reporting rate for robbery,,,|,,,24.0
 2012,Reporting rate for physical assault,Female,,,,,34.1
 2017,Reporting rate for physical assault,Female,,,,,40.0
 2020,Reporting rate for physical assault,Female,,|,,,21.3
@@ -30,6 +27,9 @@ Year,Time series,Sex,Age group,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,Reporting rate for physical assault,,65 to under 75 years,,,,46.6
 2020,Reporting rate for physical assault,,65 to under 75 years,|,,,77.0
 2020,Reporting rate for physical assault,,75 years and older,|,,,52.6
+2012,Reporting rate for robbery,,,,,,33.6
+2017,Reporting rate for robbery,,,,,,32.0
+2020,Reporting rate for robbery,,,|,,,24.0
 2012,Reporting rate for robbery,Female,,,,,42.8
 2017,Reporting rate for robbery,Female,,,,,38.8
 2020,Reporting rate for robbery,Female,,|,,,13.1
@@ -52,3 +52,9 @@ Year,Time series,Sex,Age group,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,Reporting rate for robbery,,55 to under 65 years,,,,31.1
 2020,Reporting rate for robbery,,55 to under 65 years,|,,,19.3
 2020,Reporting rate for robbery,,65 to under 75 years,|,,,90.9
+2020,Reporting rate for psychological violence,,,|,,,3.6
+2020,Reporting rate for psychological violence,Female,,|,,,5.2
+2020,Reporting rate for psychological violence,Male,,|,,,2.8
+2020,Reporting rate for sexual violence,,,|,,,2.4
+2020,Reporting rate for sexual violence,Female,,|,,,2.1
+2020,Reporting rate for sexual violence,Male,,|,,,12.6
