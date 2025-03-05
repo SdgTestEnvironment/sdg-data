@@ -16,27 +16,13 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Number",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Population who were exposed to physical violence",
-                "Population who were victims of criminal offences",
-                "Victims of criminal offences",
-                "Population who were exposed to sexual violence",
-                "Population who were exposed to psychological violence",
+                "a) Population who were exposed to physical violence",
+                "c) Population who were exposed to sexual violence",
+                "b) Population who were exposed to psychological violence",
                 ""
               ]
             },
@@ -66,11 +52,6 @@
                 "55 to under 65 years",
                 "65 to under 75 years",
                 "75 years and older",
-                "13 years and younger",
-                "14 to under 18 years",
-                "18 to under 21 years",
-                "21 to under 60 years",
-                "60 years and older",
                 ""
               ]
             },
@@ -81,10 +62,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "|",
-                "…",
-                "p",
                 ""
               ]
             },

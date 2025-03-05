@@ -16,27 +16,13 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Anzahl",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die körperlicher Gewalt ausgesetzt war",
-                "Bevölkerung, die Opfer einer Straftat war",
-                "Opfer von Straftaten",
-                "Bevölkerung, die sexueller Gewalt ausgesetzt war",
-                "Bevölkerung, die psychischer Gewalt ausgesetzt war",
+                "a) Bevölkerung, die körperlicher Gewalt ausgesetzt war",
+                "c) Bevölkerung, die sexueller Gewalt ausgesetzt war",
+                "b) Bevölkerung, die psychischer Gewalt ausgesetzt war",
                 ""
               ]
             },
@@ -66,11 +52,6 @@
                 "55 bis unter 65 Jahre",
                 "65 bis unter 75 Jahre",
                 "75 Jahre und älter",
-                "13 Jahre und jünger",
-                "14 bis unter 18 Jahre",
-                "18 bis unter 21 Jahre",
-                "21 bis unter 60 Jahre",
-                "60 Jahre und älter",
                 ""
               ]
             },
@@ -81,10 +62,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "|",
-                "…",
-                "p",
                 ""
               ]
             },

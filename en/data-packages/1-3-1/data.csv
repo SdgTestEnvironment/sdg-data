@@ -1,29 +1,631 @@
-Year,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Population covered by health insurance,.,,,
-2011,Population covered by health insurance,,,,99.8
-2012,Population covered by health insurance,.,,,
-2013,Population covered by health insurance,.,,,
-2014,Population covered by health insurance,.,,,
-2015,Population covered by health insurance,,,,99.9
-2016,Population covered by health insurance,.,,,
-2017,Population covered by health insurance,.,,,
-2018,Population covered by health insurance,.,,,
-2019,Population covered by health insurance,,,,99.9
-2020,Population covered by health insurance,…,,,
-2021,Population covered by health insurance,…,,,
-2022,Population covered by health insurance,…,,,
-2023,Population covered by health insurance,…,,,
-2010,Unemployed persons with unemployment benefits,,,,95.3
-2011,Unemployed persons with unemployment benefits,,,,94.5
-2012,Unemployed persons with unemployment benefits,,,,94.8
-2013,Unemployed persons with unemployment benefits,,,,95.1
-2014,Unemployed persons with unemployment benefits,,,,95.1
-2015,Unemployed persons with unemployment benefits,,,,95.6
-2016,Unemployed persons with unemployment benefits,,,,95.1
-2017,Unemployed persons with unemployment benefits,,,,94.9
-2018,Unemployed persons with unemployment benefits,,,,95.4
-2019,Unemployed persons with unemployment benefits,,,,96.1
-2020,Unemployed persons with unemployment benefits,,,,96.4
-2021,Unemployed persons with unemployment benefits,,,,94.9
-2022,Unemployed persons with unemployment benefits,,,,94.7
-2023,Unemployed persons with unemployment benefits,,,,95.0
+Year,Units,Time series,Age group,Länder,GeoCode,Type of assistance,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Percentage,Population covered by health insurance,,,,,.,,,
+2011,Percentage,Population covered by health insurance,,,,,,,,99.8
+2012,Percentage,Population covered by health insurance,,,,,.,,,
+2013,Percentage,Population covered by health insurance,,,,,.,,,
+2014,Percentage,Population covered by health insurance,,,,,.,,,
+2015,Percentage,Population covered by health insurance,,,,,,,,99.9
+2016,Percentage,Population covered by health insurance,,,,,.,,,
+2017,Percentage,Population covered by health insurance,,,,,.,,,
+2018,Percentage,Population covered by health insurance,,,,,.,,,
+2019,Percentage,Population covered by health insurance,,,,,,,,99.9
+2020,Percentage,Population covered by health insurance,,,,,…,,,
+2021,Percentage,Population covered by health insurance,,,,,…,,,
+2022,Percentage,Population covered by health insurance,,,,,…,,,
+2023,Percentage,Population covered by health insurance,,,,,…,,,
+2010,Percentage,Unemployed persons with unemployment benefits,,,,,,,,95.3
+2011,Percentage,Unemployed persons with unemployment benefits,,,,,,,,94.5
+2012,Percentage,Unemployed persons with unemployment benefits,,,,,,,,94.8
+2013,Percentage,Unemployed persons with unemployment benefits,,,,,,,,95.1
+2014,Percentage,Unemployed persons with unemployment benefits,,,,,,,,95.1
+2015,Percentage,Unemployed persons with unemployment benefits,,,,,,,,95.6
+2016,Percentage,Unemployed persons with unemployment benefits,,,,,,,,95.1
+2017,Percentage,Unemployed persons with unemployment benefits,,,,,,,,94.9
+2018,Percentage,Unemployed persons with unemployment benefits,,,,,,,,95.4
+2019,Percentage,Unemployed persons with unemployment benefits,,,,,,,,96.1
+2020,Percentage,Unemployed persons with unemployment benefits,,,,,,,,96.4
+2021,Percentage,Unemployed persons with unemployment benefits,,,,,,,,94.9
+2022,Percentage,Unemployed persons with unemployment benefits,,,,,,,,94.7
+2023,Percentage,Unemployed persons with unemployment benefits,,,,,,,,95.0
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,8.8
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,8.7
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,8.7
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,8.9
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,9.1
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,9.7
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,9.5
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,9.2
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,8.7
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,8.3
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,8.3
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,8.0
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,8.5
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,,,,,,,8.6
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,8.7
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,8.6
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,8.7
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,8.8
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,8.9
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,9.3
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,9.1
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,8.8
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,8.4
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,8.0
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,8.0
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,7.7
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,8.5
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,Female,,,,,,,8.5
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,8.8
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,8.7
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,8.7
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,8.9
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,9.2
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,10.1
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,10.0
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,9.5
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,8.9
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,8.5
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,8.6
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,8.2
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,8.6
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,Male,,,,,,,8.8
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,5.0
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,4.8
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,4.8
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,5.0
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,5.2
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,6.0
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,5.9
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,5.6
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,5.3
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,5.1
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,5.3
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,5.1
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,5.8
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Baden-Württemberg,code08,,,,,6.0
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,4.3
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,4.2
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,4.2
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,4.3
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,4.6
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,5.2
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,5.1
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,4.9
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,4.6
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,4.3
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,4.5
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,4.3
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,4.9
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bavaria,code09,,,,,5.1
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,18.9
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,19.6
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,19.2
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,19.2
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,19.0
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,19.4
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,18.8
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,17.7
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,16.8
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,16.0
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,16.3
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,15.6
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,15.4
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Berlin,code11,,,,,15.3
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,11.5
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,11.3
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,11.1
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,11.1
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,10.8
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,11.0
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,10.2
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,9.4
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,8.7
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,7.9
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,7.7
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,7.1
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,7.5
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Brandenburg,code12,,,,,7.5
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,16.4
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,16.4
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,16.4
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,16.8
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,17.2
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,18.5
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,18.0
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,18.0
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,17.4
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,17.3
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,17.7
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,17.1
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,17.6
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Bremen,code04,,,,,17.6
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,12.8
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,13.0
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,12.9
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,13.0
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,13.2
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,13.9
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,13.7
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,13.4
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,13.0
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,12.6
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,13.3
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,12.7
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,13.3
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hamburg,code02,,,,,13.5
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,8.1
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,8.0
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,8.1
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,8.4
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,8.7
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,9.3
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,9.4
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,9.1
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,8.7
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,8.2
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,8.4
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,8.2
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,8.7
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Hesse,code06,,,,,8.8
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,13.3
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,13.1
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,13.1
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,13.2
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,13.0
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,13.1
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,11.8
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,11.1
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,10.1
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,9.2
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,8.8
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,8.2
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,8.8
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Mecklenburg Western Pomerania,code13,,,,,8.8
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,8.8
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,8.6
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,8.6
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,8.8
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,9.0
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,9.8
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,9.7
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,9.4
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,8.9
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,8.5
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,8.6
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,8.2
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,8.9
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Lower Saxony,code03,,,,,8.9
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,10.2
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,10.2
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,10.4
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,10.8
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,11.1
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,12.0
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,12.0
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,11.7
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,11.3
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,10.9
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,10.9
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,10.5
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,11.0
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,North Rhine-Westphalia,code05,,,,,11.0
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,6.5
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,6.3
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,6.4
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,6.6
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,6.9
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,7.8
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,7.6
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,7.4
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,7.0
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,6.7
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,6.8
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,6.5
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,7.0
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Rhineland Palatinate,code07,,,,,7.2
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,8.7
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,8.6
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,8.8
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,9.2
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,9.5
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,10.7
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,10.8
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,10.7
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,10.3
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,9.9
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,10.0
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,9.6
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,10.3
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saarland,code10,,,,,10.5
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,11.2
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,10.8
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,10.6
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,10.5
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,10.2
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,10.3
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,9.4
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,8.7
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,8.0
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,7.3
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,7.2
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,6.8
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,7.5
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony,code14,,,,,7.9
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,13.6
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,13.4
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,13.4
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,13.4
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,13.3
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,13.4
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,12.5
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,11.8
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,10.8
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,10.0
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,9.5
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,8.9
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,9.7
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Saxony-Anhalt,code15,,,,,9.6
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,8.9
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,9.0
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,9.1
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,9.3
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,9.5
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,10.3
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,10.3
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,10.0
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,9.5
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,9.0
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,9.1
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,8.5
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,8.8
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Schleswig-Holstein,code01,,,,,9.0
+2010,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,9.5
+2011,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,9.2
+2012,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,9.1
+2013,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,9.0
+2014,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,8.9
+2015,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,9.4
+2016,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,8.5
+2017,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,8.0
+2018,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,7.4
+2019,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,6.8
+2020,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,6.7
+2021,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,6.2
+2022,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,7.0
+2023,Percentage,Proportion of population covered by at least one social protection cash benefit,,Thuringia,code16,,,,,7.1
+2010,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,629839.0
+2011,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,650978.0
+2012,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,679711.0
+2013,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,694038.0
+2014,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,710665.0
+2015,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,733449.0
+2016,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,739087.0
+2017,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,761262.0
+2018,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,776293.0
+2019,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,765079.0
+2020,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,804630.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,842550.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,848985.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,,,,,,,855215.0
+2010,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,255899.0
+2011,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,265474.0
+2012,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,277932.0
+2013,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,284541.0
+2014,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,292801.0
+2015,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,302880.0
+2016,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,305138.0
+2017,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,313520.0
+2018,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,318850.0
+2019,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,314528.0
+2020,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,330755.0
+2021,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,345830.0
+2022,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,349255.0
+2023,Number,Proportion of persons with disabilities receiving benefits,Female,,,,,,,351975.0
+2010,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,373940.0
+2011,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,385504.0
+2012,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,401779.0
+2013,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,409497.0
+2014,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,417864.0
+2015,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,430569.0
+2016,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,433949.0
+2017,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,447742.0
+2018,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,457443.0
+2019,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,450551.0
+2020,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,473875.0
+2021,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,496720.0
+2022,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,499730.0
+2023,Number,Proportion of persons with disabilities receiving benefits,Male,,,,,,,503240.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,72100.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,76120.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,77620.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Baden-Württemberg,code08,,,,,77055.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,123855.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,127015.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,124690.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Bavaria,code09,,,,,127165.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,30615.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,31405.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,31090.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Berlin,code11,,,,,31130.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,25875.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,26625.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,26940.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Brandenburg,code12,,,,,27660.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,6170.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,6490.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,6490.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Bremen,code04,,,,,6580.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,15570.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,18495.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,20025.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Hamburg,code02,,,,,19420.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,53160.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,58435.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,64495.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Hesse,code06,,,,,65635.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,21110.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,21350.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,21640.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Mecklenburg Western Pomerania,code13,,,,,21590.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,85035.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,89105.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,89380.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Lower Saxony,code03,,,,,93060.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,208470.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,220515.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,220315.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,North Rhine-Westphalia,code05,,,,,219525.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,31505.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,33335.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,32300.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Rhineland Palatinate,code07,,,,,33245.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,9710.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,9900.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,9975.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Saarland,code10,,,,,10415.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,42790.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,45045.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,45450.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Saxony,code14,,,,,45815.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,26365.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,25775.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,26125.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Saxony-Anhalt,code15,,,,,24270.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,31675.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,31600.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,30990.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Schleswig-Holstein,code01,,,,,30175.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,20630.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,21340.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,21455.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,Thuringia,code16,,,,,22480.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,11875.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,19160.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,22065.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,,,Medical rehabilitation,,,,21430.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,269910.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,273575.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,270295.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in working life,,,,264700.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,71190.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,73445.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,77845.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,,,Participation in education,,,,80330.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,579530.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,611170.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,622440.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,,,Sozial participation,,,,621570.0
+2010,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,
+2011,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,
+2012,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,
+2013,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,
+2014,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,
+2015,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,
+2016,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,
+2017,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,
+2018,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,
+2019,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,
+2020,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,17440.0
+2021,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,21515.0
+2022,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,17235.0
+2023,Number,Proportion of persons with disabilities receiving benefits,,,,Other,,,,16265.0

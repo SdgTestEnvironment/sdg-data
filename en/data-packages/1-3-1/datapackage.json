@@ -16,16 +16,88 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "Population covered by health insurance",
                 "Unemployed persons with unemployment benefits",
+                "Proportion of population covered by at least one social protection cash benefit",
+                "Proportion of persons with disabilities receiving benefits",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Württemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
+                ""
+              ]
+            },
+            "title": "Länder"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "type of assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medical rehabilitation",
+                "Participation in working life",
+                "Participation in education",
+                "Sozial participation",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Type of assistance"
           },
           {
             "name": "COMMENT_OBS_0",

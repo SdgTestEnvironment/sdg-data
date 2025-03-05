@@ -1,14 +1,17 @@
 Value,Disaggregation combinations using this value,Number of indicators
 a) branches of payment service providers,1,1
+a) population who were exposed to physical violence,20,1
 agricultural holdings with the legal form of a sole proprietorship,2,1
 annual growth rate of real gdp,2,1
 at least one population and housing census in the last 10 years conducted,1,1
 at-risk-of-poverty rate,9,1
 available income of private households,2,1
 b) atms of national payment service providers,1,1
+b) population who were exposed to psychological violence,3,1
 basel convention,1,1
 birth registration,1,1
 bundesrat (upper chamber),3,1
+c) population who were exposed to sexual violence,10,1
 capital to assets ratio,2,1
 child deliveries in hospitals,1,1
 consumption by private households,2,1
@@ -21,7 +24,7 @@ data from the federal statistical office,43,1
 death registration,1,1
 debts of the total public budget,2,1
 dtp vaccination coverage at school entry,4,1
-environmental protection expenditure,4,1
+environmental protection expenditure,3,1
 fatal occupational accidents,2,1
 female owners of agricultural holdings with the legal form of a sole proprietorship,2,1
 flowing water with good ecological status for total phosphorous,3,1
@@ -57,7 +60,7 @@ non-fatal occupational accidents,6,1
 nonperforming loans net of provisions to capital,2,1
 nonperforming loans net of provisions to gross loans,2,1
 oda (commitments) for biodiversity,4,2
-oda (gross disbursements) for biodiversity,4,2
+oda (gross disbursements) for biodiversity,8,2
 oda (gross disbursements) to the forestry sector,2,1
 overweight,4,1
 owned and leased agricultural land,6,1
@@ -67,15 +70,13 @@ persons living in households with very low work intensity,11,1
 pneumococcal vaccination coverage at school entry,3,1
 population covered by health insurance,3,1
 population growth rate,5,1
-population who were exposed to physical violence,40,1
-population who were exposed to psychological violence,30,1
-population who were exposed to sexual violence,30,1
-population who were victims of criminal offences,2,1
 population with (own) bathtub or shower,5,1
 population with (own) toilet,5,1
 progress toward productive and sustainable agriculture (proxy),6,1
-proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),2,1
+proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),3,1
 proportion of oda (net disbursements) to gni,2,1
+proportion of persons with disabilities receiving benefits,24,1
+proportion of population covered by at least one social protection cash benefit,19,1
 proportion of settlement and transport areas to population,4,1
 public service,26,1
 ratio of land consumption rate to population growth rate,5,1
@@ -97,7 +98,6 @@ terrestrial and freshwater areas covered by protected areas,2,1
 terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas,2,1
 trade balance,2,1
 unemployed persons with unemployment benefits,1,1
-victims of criminal offences,8,1
 victims of non-sexual harassment,54,1
 victims of sexual harassment,111,1
 wasting,4,1
