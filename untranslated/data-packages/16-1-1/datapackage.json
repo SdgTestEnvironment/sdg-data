@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -51,12 +51,26 @@
             }
           },
           {
+            "name": "victim-suspect relationship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "intimate partner or family member",
+                "intimate partner",
+                "family member",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
                 "r",
+                "…",
                 ".",
+                "‒",
                 ""
               ]
             }

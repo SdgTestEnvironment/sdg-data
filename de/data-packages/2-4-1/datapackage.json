@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Daten des Statistischen Bundesamtes",
                 "Daten des BMEL",
+                "Daten des Statistischen Bundesamtes",
                 "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]
@@ -77,7 +77,7 @@
             "constraints": {
               "enum": [
                 "Trend",
-                "Aktueller Status",
+                "Aktueller Stand",
                 ""
               ]
             },
@@ -89,7 +89,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "s",
                 "r",
                 "…",
                 ""

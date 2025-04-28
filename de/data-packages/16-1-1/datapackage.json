@@ -55,12 +55,27 @@
             "title": "Geschlecht"
           },
           {
+            "name": "victim-suspect relationship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Intimpartner oder Familienmitglied",
+                "Intimpartner",
+                "Familienmitglied",
+                ""
+              ]
+            },
+            "title": "Opfer-Tatverdächtigen-Beziehung"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
                 "r",
+                "…",
                 ".",
+                "‒",
                 ""
               ]
             },
