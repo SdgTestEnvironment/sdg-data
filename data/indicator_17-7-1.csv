@@ -1,43 +1,37 @@
-Year,sector,Value,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2
-2010,,1.22,,,
-2011,,1.22,,,
-2012,,1.23,,,
-2013,,1.24,,,
-2014,,1.25,,,
-2015,,1.26,,,
-2016,,1.27,,,
-2017,,1.27,,,
-2018,,1.27,,,
-2019,,1.28,,,
-2020,,1.28,,,
-2021,,1.28,,,
-2022,,1.27,,,
-2023,,1.28,p,,
-2010,general government,1.15,,,
-2011,general government,1.15,,,
-2012,general government,1.15,,,
-2013,general government,1.15,,,
-2014,general government,1.17,,,
-2015,general government,1.18,,,
-2016,general government,1.19,,,
-2017,general government,1.09,,,
-2018,general government,1.16,,,
-2019,general government,1.17,,,
-2020,general government,1.19,,,
-2021,general government,1.20,,,
-2022,general government,1.20,,,
-2023,general government,1.20,p,,
-2010,corporations,0.78,,,
-2011,corporations,0.79,,,
-2012,corporations,0.81,,,
-2013,corporations,0.83,,,
-2014,corporations,0.83,,,
-2015,corporations,0.88,,,
-2016,corporations,0.90,,,
-2017,corporations,0.92,,,
-2018,corporations,0.93,,,
-2019,corporations,0.94,,,
-2020,corporations,0.96,,,
-2021,corporations,0.98,,,
-2022,corporations,0.99,,,
-2023,corporations,1.01,,,
+Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,,,,,10279
+2011,,,,,11415
+2012,,,,,11701
+2013,,,,,11331
+2014,,,,,12080
+2015,,,,,12117
+2016,,,,,12824
+2017,,,,,13263
+2018,,,,,14747
+2019,,r,,,15577
+2020,,,,,16070
+2021,,p,,,15153
+2010,general government,,,,2726
+2011,general government,,,,3434
+2012,general government,,,,3716
+2013,general government,,,,3708
+2014,general government,,,,3692
+2015,general government,,,,4051
+2016,general government,,,,4594
+2017,general government,,,,4245
+2018,general government,,,,4625
+2019,general government,r,,,4979
+2020,general government,,,,5028
+2021,general government,p,,,3500
+2010,corporations,,,,7553
+2011,corporations,,,,7981
+2012,corporations,,,,7985
+2013,corporations,,,,7623
+2014,corporations,,,,8388
+2015,corporations,,,,8066
+2016,corporations,,,,8230
+2017,corporations,,,,9018
+2018,corporations,,,,10123
+2019,corporations,r,,,10598
+2020,corporations,,,,11042
+2021,corporations,p,,,11653
