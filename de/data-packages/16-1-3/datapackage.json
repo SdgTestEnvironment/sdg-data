@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Bevölkerung, die körperlicher Gewalt ausgesetzt war",
+                "a) Bevölkerung, die physischer Gewalt ausgesetzt war",
                 "c) Bevölkerung, die sexueller Gewalt ausgesetzt war",
                 "b) Bevölkerung, die psychischer Gewalt ausgesetzt war",
                 ""
