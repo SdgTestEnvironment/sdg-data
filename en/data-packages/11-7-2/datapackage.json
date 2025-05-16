@@ -34,6 +34,8 @@
               "enum": [
                 "Victims of non-sexual harassment",
                 "Victims of sexual harassment",
+                "At-risk-of-victimisation rate of non-sexual harassment",
+                "At-risk-of-victimisation rate of sexual harassment",
                 ""
               ]
             },

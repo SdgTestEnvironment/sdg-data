@@ -77,7 +77,7 @@ Year,Units,Age group,Sex,Victim-Suspect Relationship,COMMENT_OBS_0,COMMENT_OBS_1
 2010,"Per 100,000 inhabitants",60 years and older,,,.,,,
 2011,"Per 100,000 inhabitants",60 years and older,,,,,,0.87
 2012,"Per 100,000 inhabitants",60 years and older,,,,,,0.84
-2013,"Per 100,000 inhabitants",60 years and older,,,,,,1.02
+2013,"Per 100,000 inhabitants",60 years and older,,,,,,0.97
 2014,"Per 100,000 inhabitants",60 years and older,,,,,,0.96
 2015,"Per 100,000 inhabitants",60 years and older,,,,,,1.1
 2016,"Per 100,000 inhabitants",60 years and older,,,,,,1.28
@@ -115,7 +115,7 @@ Year,Units,Age group,Sex,Victim-Suspect Relationship,COMMENT_OBS_0,COMMENT_OBS_1
 2018,"Per 100,000 inhabitants",,Male,,,,,1.03
 2019,"Per 100,000 inhabitants",,Male,,,,,0.85
 2020,"Per 100,000 inhabitants",,Male,,,,,1.04
-2021,"Per 100,000 inhabitants",,Male,,,,,0.88
+2021,"Per 100,000 inhabitants",,Male,,,,,0.87
 2022,"Per 100,000 inhabitants",,Male,,,,,0.83
 2023,"Per 100,000 inhabitants",,Male,,,,,0.96
 2024,"Per 100,000 inhabitants",,Male,,…,,,
@@ -180,19 +180,19 @@ Year,Units,Age group,Sex,Victim-Suspect Relationship,COMMENT_OBS_0,COMMENT_OBS_1
 2023,"Per 100,000 inhabitants",14 to under 18 years,Male,,,,,0.56
 2024,"Per 100,000 inhabitants",14 to under 18 years,Male,,…,,,
 2010,"Per 100,000 inhabitants",18 to under 21 years,Female,,.,,,
-2011,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.84
-2012,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.65
-2013,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.74
-2014,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.84
-2015,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.66
-2016,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,1.1
-2017,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.82
-2018,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.86
-2019,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.68
-2020,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.67
-2021,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.67
-2022,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.66
-2023,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.89
+2011,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.79
+2012,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.82
+2013,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.5
+2014,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.75
+2015,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.74
+2016,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,1.45
+2017,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.56
+2018,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.97
+2019,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.41
+2020,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.5
+2021,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.34
+2022,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.7
+2023,"Per 100,000 inhabitants",18 to under 21 years,Female,,,,,0.78
 2024,"Per 100,000 inhabitants",18 to under 21 years,Female,,…,,,
 2010,"Per 100,000 inhabitants",18 to under 21 years,Male,,.,,,
 2011,"Per 100,000 inhabitants",18 to under 21 years,Male,,,,,1.43
@@ -203,7 +203,7 @@ Year,Units,Age group,Sex,Victim-Suspect Relationship,COMMENT_OBS_0,COMMENT_OBS_1
 2016,"Per 100,000 inhabitants",18 to under 21 years,Male,,,,,1.81
 2017,"Per 100,000 inhabitants",18 to under 21 years,Male,,,,,0.65
 2018,"Per 100,000 inhabitants",18 to under 21 years,Male,,,,,1.02
-2019,"Per 100,000 inhabitants",18 to under 21 years,Male,,,,,0.75
+2019,"Per 100,000 inhabitants",18 to under 21 years,Male,,,,,0.82
 2020,"Per 100,000 inhabitants",18 to under 21 years,Male,,,,,1.15
 2021,"Per 100,000 inhabitants",18 to under 21 years,Male,,,,,1.19
 2022,"Per 100,000 inhabitants",18 to under 21 years,Male,,,,,1.24
@@ -231,7 +231,7 @@ Year,Units,Age group,Sex,Victim-Suspect Relationship,COMMENT_OBS_0,COMMENT_OBS_1
 2014,"Per 100,000 inhabitants",21 to under 60 years,Male,,,,,1.03
 2015,"Per 100,000 inhabitants",21 to under 60 years,Male,,,,,0.91
 2016,"Per 100,000 inhabitants",21 to under 60 years,Male,,,,,1.31
-2017,"Per 100,000 inhabitants",21 to under 60 years,Male,,,,,1.35
+2017,"Per 100,000 inhabitants",21 to under 60 years,Male,,,,,1.07
 2018,"Per 100,000 inhabitants",21 to under 60 years,Male,,,,,1.18
 2019,"Per 100,000 inhabitants",21 to under 60 years,Male,,,,,0.93
 2020,"Per 100,000 inhabitants",21 to under 60 years,Male,,,,,1.08
@@ -593,7 +593,7 @@ Year,Units,Age group,Sex,Victim-Suspect Relationship,COMMENT_OBS_0,COMMENT_OBS_1
 2016,Number,,,Intimate partner,,,,181.0
 2017,Number,,,Intimate partner,,,,189.0
 2018,Number,,,Intimate partner,,,,155.0
-2019,Number,,,Intimate partner,,,,199.0
+2019,Number,,,Intimate partner,,,,156.0
 2020,Number,,,Intimate partner,,,,177.0
 2021,Number,,,Intimate partner,,,,135.0
 2022,Number,,,Intimate partner,,,,158.0
@@ -608,7 +608,7 @@ Year,Units,Age group,Sex,Victim-Suspect Relationship,COMMENT_OBS_0,COMMENT_OBS_1
 2016,Number,,Female,Intimate partner,,,,164.0
 2017,Number,,Female,Intimate partner,,,,153.0
 2018,Number,,Female,Intimate partner,,,,127.0
-2019,Number,,Female,Intimate partner,,,,148.0
+2019,Number,,Female,Intimate partner,,,,123.0
 2020,Number,,Female,Intimate partner,,,,146.0
 2021,Number,,Female,Intimate partner,,,,121.0
 2022,Number,,Female,Intimate partner,,,,137.0
@@ -623,7 +623,7 @@ Year,Units,Age group,Sex,Victim-Suspect Relationship,COMMENT_OBS_0,COMMENT_OBS_1
 2016,Number,,Male,Intimate partner,,,,17.0
 2017,Number,,Male,Intimate partner,,,,36.0
 2018,Number,,Male,Intimate partner,,,,28.0
-2019,Number,,Male,Intimate partner,,,,51.0
+2019,Number,,Male,Intimate partner,,,,33.0
 2020,Number,,Male,Intimate partner,,,,31.0
 2021,Number,,Male,Intimate partner,,,,14.0
 2022,Number,,Male,Intimate partner,,,,21.0

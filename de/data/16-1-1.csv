@@ -77,7 +77,7 @@ Year,Units,Altersklasse,Geschlecht,Opfer-Tatverdächtigen-Beziehung,COMMENT_OBS_
 2010,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,.,,,
 2011,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,0.87
 2012,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,0.84
-2013,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,1.02
+2013,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,0.97
 2014,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,0.96
 2015,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,1.1
 2016,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,1.28
@@ -115,7 +115,7 @@ Year,Units,Altersklasse,Geschlecht,Opfer-Tatverdächtigen-Beziehung,COMMENT_OBS_
 2018,Je 100 000 Einwohner/-innen,,Männlich,,,,,1.03
 2019,Je 100 000 Einwohner/-innen,,Männlich,,,,,0.85
 2020,Je 100 000 Einwohner/-innen,,Männlich,,,,,1.04
-2021,Je 100 000 Einwohner/-innen,,Männlich,,,,,0.88
+2021,Je 100 000 Einwohner/-innen,,Männlich,,,,,0.87
 2022,Je 100 000 Einwohner/-innen,,Männlich,,,,,0.83
 2023,Je 100 000 Einwohner/-innen,,Männlich,,,,,0.96
 2024,Je 100 000 Einwohner/-innen,,Männlich,,…,,,
@@ -180,19 +180,19 @@ Year,Units,Altersklasse,Geschlecht,Opfer-Tatverdächtigen-Beziehung,COMMENT_OBS_
 2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,0.56
 2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,…,,,
 2010,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,.,,,
-2011,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.84
-2012,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.65
-2013,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.74
-2014,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.84
-2015,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.66
-2016,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,1.1
-2017,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.82
-2018,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.86
-2019,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.68
-2020,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.67
-2021,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.67
-2022,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.66
-2023,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.89
+2011,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.79
+2012,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.82
+2013,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.5
+2014,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.75
+2015,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.74
+2016,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,1.45
+2017,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.56
+2018,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.97
+2019,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.41
+2020,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.5
+2021,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.34
+2022,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.7
+2023,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,0.78
 2024,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,…,,,
 2010,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,.,,,
 2011,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,1.43
@@ -203,7 +203,7 @@ Year,Units,Altersklasse,Geschlecht,Opfer-Tatverdächtigen-Beziehung,COMMENT_OBS_
 2016,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,1.81
 2017,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,0.65
 2018,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,1.02
-2019,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,0.75
+2019,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,0.82
 2020,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,1.15
 2021,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,1.19
 2022,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,1.24
@@ -231,7 +231,7 @@ Year,Units,Altersklasse,Geschlecht,Opfer-Tatverdächtigen-Beziehung,COMMENT_OBS_
 2014,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,1.03
 2015,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,0.91
 2016,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,1.31
-2017,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,1.35
+2017,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,1.07
 2018,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,1.18
 2019,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,0.93
 2020,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,1.08
@@ -593,7 +593,7 @@ Year,Units,Altersklasse,Geschlecht,Opfer-Tatverdächtigen-Beziehung,COMMENT_OBS_
 2016,Anzahl,,,Intimpartner,,,,181.0
 2017,Anzahl,,,Intimpartner,,,,189.0
 2018,Anzahl,,,Intimpartner,,,,155.0
-2019,Anzahl,,,Intimpartner,,,,199.0
+2019,Anzahl,,,Intimpartner,,,,156.0
 2020,Anzahl,,,Intimpartner,,,,177.0
 2021,Anzahl,,,Intimpartner,,,,135.0
 2022,Anzahl,,,Intimpartner,,,,158.0
@@ -608,7 +608,7 @@ Year,Units,Altersklasse,Geschlecht,Opfer-Tatverdächtigen-Beziehung,COMMENT_OBS_
 2016,Anzahl,,Weiblich,Intimpartner,,,,164.0
 2017,Anzahl,,Weiblich,Intimpartner,,,,153.0
 2018,Anzahl,,Weiblich,Intimpartner,,,,127.0
-2019,Anzahl,,Weiblich,Intimpartner,,,,148.0
+2019,Anzahl,,Weiblich,Intimpartner,,,,123.0
 2020,Anzahl,,Weiblich,Intimpartner,,,,146.0
 2021,Anzahl,,Weiblich,Intimpartner,,,,121.0
 2022,Anzahl,,Weiblich,Intimpartner,,,,137.0
@@ -623,7 +623,7 @@ Year,Units,Altersklasse,Geschlecht,Opfer-Tatverdächtigen-Beziehung,COMMENT_OBS_
 2016,Anzahl,,Männlich,Intimpartner,,,,17.0
 2017,Anzahl,,Männlich,Intimpartner,,,,36.0
 2018,Anzahl,,Männlich,Intimpartner,,,,28.0
-2019,Anzahl,,Männlich,Intimpartner,,,,51.0
+2019,Anzahl,,Männlich,Intimpartner,,,,33.0
 2020,Anzahl,,Männlich,Intimpartner,,,,31.0
 2021,Anzahl,,Männlich,Intimpartner,,,,14.0
 2022,Anzahl,,Männlich,Intimpartner,,,,21.0

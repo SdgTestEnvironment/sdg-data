@@ -34,6 +34,8 @@
               "enum": [
                 "Opfer nicht-sexueller Belästigung",
                 "Opfer sexueller Belästigung",
+                "Opfergefährdungszahl nicht-sexueller Belästigung",
+                "Opfergefährdungszahl sexueller Belästigung",
                 ""
               ]
             },
