@@ -5840,7 +5840,7 @@
           }
         ]
       },
-      "title": "11-c-1"
+      "title": "Gesamte öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Leistungen zur Unterstützung städtischer<br>Infrastruktur oder städtischer Infrastrukturprojekte, nach Sektor"
     },
     {
       "path": "4-2-1/data.csv",
@@ -10356,10 +10356,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzeigequote bei Körperverletzung",
-                "Anzeigequote bei Raub",
-                "Anzeigequote bei psychischer Gewalt",
-                "Anzeigequote bei sexueller Gewalt",
+                "a) Anzeigequote bei physischer Gewalt",
+                "b) Anzeigequote bei psychischer Gewalt",
+                "c) Anzeigequote bei sexueller Gewalt",
                 ""
               ]
             },
@@ -10393,6 +10392,29 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "tpype of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Körperverletzung",
+                "Raub",
+                ""
+              ]
+            },
+            "title": "Art der physischen Gewalt"
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Körperliche sexuelle Belästigung",
+                ""
+              ]
+            },
+            "title": "Art der sexuellen Gewalt"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -16418,9 +16440,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Bevölkerung, die physischer Gewalt ausgesetzt war",
-                "c) Bevölkerung, die sexueller Gewalt ausgesetzt war",
-                "b) Bevölkerung, die psychischer Gewalt ausgesetzt war",
+                "a) Physische Gewalt",
+                "c) Sexuelle Gewalt",
+                "b) Psychische Gewalt",
                 ""
               ]
             },
@@ -16456,6 +16478,28 @@
             "title": "Geschlecht"
           },
           {
+            "name": "tpype of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Körperverletzung",
+                ""
+              ]
+            },
+            "title": "Art der physischen Gewalt"
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Körperliche sexuelle Belästigung",
+                ""
+              ]
+            },
+            "title": "Art der sexuellen Gewalt"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -16468,9 +16512,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -16520,6 +16565,30 @@
       "title": "Anteil der Bevölkerung, der in Haushalten mit Zugang zu grundlegenden Diensten lebt"
     },
     {
+      "path": "8-9-2/data.csv",
+      "name": "8-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Beschäftigte in der Tourismuswirtschaft"
+    },
+    {
       "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
@@ -16542,6 +16611,30 @@
         ]
       },
       "title": "Anteil der gesamten erwachsenen Bevölkerung, der sichere Landnutzungs- und -besitzrechte hat, a) über gesetzlich anerkannte Dokumente verfügt und b) seine Landrechte als sicher ansieht, nach Geschlecht und Art der Nutzungs- bzw. Besitzrechte"
+    },
+    {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Prävalenz von minimaler Ernährungsvielfalt, nach Bevölkerungsgruppen (Kinder im Alter von 6 bis 23,9 Monaten und<br>nicht schwangere Frauen im Alter von 15 bis 49 Jahren)"
     },
     {
       "path": "11-5-3/data.csv",

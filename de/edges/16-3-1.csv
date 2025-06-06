@@ -1,4 +1,6 @@
 From,To
 Zeitreihe,Altersklasse
 Zeitreihe,Geschlecht
-Zeitreihe,COMMENT_OBS_0
+Zeitreihe,Art der physischen Gewalt
+Zeitreihe,Art der sexuellen Gewalt
+Art der physischen Gewalt,COMMENT_OBS_0

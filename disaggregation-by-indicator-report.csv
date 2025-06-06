@@ -59,12 +59,12 @@ Indicator,Disaggregations,Number of disaggregations
 #15-c-1,COMMENT_OBS_0,1
 #16-1-1,"COMMENT_OBS_0, sex, age group, victim-suspect relationship",4
 #16-1-2,COMMENT_OBS_0,1
-#16-1-3,"COMMENT_OBS_0, sex, age group, timeseries",4
+#16-1-3,"COMMENT_OBS_0, COMMENT_OBS_1, sex, age group, timeseries, tpype of physical violence, type of sexual violence",7
 #16-1-4,"COMMENT_OBS_0, sex, age group, feelings of insecurity",4
 #16-10-2,COMMENT_OBS_0,1
 #16-2-1,"COMMENT_OBS_0, sex, form of abuse",3
 #16-2-2,"COMMENT_OBS_0, sex, age group, form of exploitation",4
-#16-3-1,"COMMENT_OBS_0, sex, age group, timeseries",4
+#16-3-1,"COMMENT_OBS_0, sex, age group, timeseries, tpype of physical violence, type of sexual violence",6
 #16-3-2,"COMMENT_OBS_0, sex",2
 #16-3-3,"COMMENT_OBS_0, time series, outcome of the application process",3
 #16-4-2,COMMENT_OBS_0,1

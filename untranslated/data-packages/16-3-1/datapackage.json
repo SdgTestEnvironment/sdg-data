@@ -19,10 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "reporting rate for physical assault",
-                "reporting rate for robbery",
-                "reporting rate for psychological violence",
-                "reporting rate for sexual violence",
+                "b) reporting rate for physical violence",
+                "b) reporting rate for psychological violence",
+                "c) reporting rate for sexual violence",
                 ""
               ]
             }
@@ -50,6 +49,27 @@
               "enum": [
                 "female",
                 "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "tpype of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical assault",
+                "robbery",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical sexual assault",
                 ""
               ]
             }

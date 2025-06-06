@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) population who were exposed to physical violence",
-                "c) population who were exposed to sexual violence",
-                "b) population who were exposed to psychological violence",
+                "a) physical violence",
+                "c) sexual violence",
+                "b) psychological violence",
                 ""
               ]
             }
@@ -54,6 +54,26 @@
             }
           },
           {
+            "name": "tpype of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical assault",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical sexual assault",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -65,9 +85,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }

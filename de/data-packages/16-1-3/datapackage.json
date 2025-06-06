@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Bevölkerung, die physischer Gewalt ausgesetzt war",
-                "c) Bevölkerung, die sexueller Gewalt ausgesetzt war",
-                "b) Bevölkerung, die psychischer Gewalt ausgesetzt war",
+                "a) Physische Gewalt",
+                "c) Sexuelle Gewalt",
+                "b) Psychische Gewalt",
                 ""
               ]
             },
@@ -58,6 +58,28 @@
             "title": "Geschlecht"
           },
           {
+            "name": "tpype of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Körperverletzung",
+                ""
+              ]
+            },
+            "title": "Art der physischen Gewalt"
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Körperliche sexuelle Belästigung",
+                ""
+              ]
+            },
+            "title": "Art der sexuellen Gewalt"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -70,9 +92,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },

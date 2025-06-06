@@ -5331,7 +5331,7 @@
           }
         ]
       },
-      "title": "11-c-1"
+      "title": "Gesamte öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Leistungen zur Unterstützung städtischer<br>Infrastruktur oder städtischer Infrastrukturprojekte, nach Sektor"
     },
     {
       "path": "4-2-1/data.csv",
@@ -9454,10 +9454,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "reporting rate for physical assault",
-                "reporting rate for robbery",
-                "reporting rate for psychological violence",
-                "reporting rate for sexual violence",
+                "b) reporting rate for physical violence",
+                "b) reporting rate for psychological violence",
+                "c) reporting rate for sexual violence",
                 ""
               ]
             }
@@ -9485,6 +9484,27 @@
               "enum": [
                 "female",
                 "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "tpype of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical assault",
+                "robbery",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical sexual assault",
                 ""
               ]
             }
@@ -14992,9 +15012,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) population who were exposed to physical violence",
-                "c) population who were exposed to sexual violence",
-                "b) population who were exposed to psychological violence",
+                "a) physical violence",
+                "c) sexual violence",
+                "b) psychological violence",
                 ""
               ]
             }
@@ -15027,6 +15047,26 @@
             }
           },
           {
+            "name": "tpype of physical violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical assault",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical sexual assault",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -15038,9 +15078,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -15085,6 +15126,28 @@
       "title": "Anteil der Bevölkerung, der in Haushalten mit Zugang zu grundlegenden Diensten lebt"
     },
     {
+      "path": "8-9-2/data.csv",
+      "name": "8-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Beschäftigte in der Tourismuswirtschaft"
+    },
+    {
       "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
@@ -15105,6 +15168,28 @@
         ]
       },
       "title": "Anteil der gesamten erwachsenen Bevölkerung, der sichere Landnutzungs- und -besitzrechte hat, a) über gesetzlich anerkannte Dokumente verfügt und b) seine Landrechte als sicher ansieht, nach Geschlecht und Art der Nutzungs- bzw. Besitzrechte"
+    },
+    {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Prävalenz von minimaler Ernährungsvielfalt, nach Bevölkerungsgruppen (Kinder im Alter von 6 bis 23,9 Monaten und<br>nicht schwangere Frauen im Alter von 15 bis 49 Jahren)"
     },
     {
       "path": "11-5-3/data.csv",

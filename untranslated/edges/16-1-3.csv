@@ -1,4 +1,7 @@
 From,To
 timeseries,age group
 timeseries,sex
+timeseries,tpype of physical violence
+timeseries,type of sexual violence
 timeseries,COMMENT_OBS_0
+COMMENT_OBS_0,COMMENT_OBS_1
