@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Daten des BMEL",
+                "Daten des BMELH",
                 "Daten des Statistischen Bundesamtes",
                 "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""

@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Data from the Federal Ministry of Food and Agriculture",
+                "Data from the Federal Ministry of Agriculture, Food and Community",
                 "Data from the Federal Statistical Office",
                 "Progress toward productive and sustainable agriculture (proxy)",
                 ""

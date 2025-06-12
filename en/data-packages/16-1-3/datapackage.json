@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "a) Physical violence",
-                "c) Sexual violence",
                 "b) Psychological violence",
+                "c) Sexual violence",
                 ""
               ]
             },
@@ -63,6 +63,7 @@
             "constraints": {
               "enum": [
                 "Physical assault",
+                "Robbery",
                 ""
               ]
             },
