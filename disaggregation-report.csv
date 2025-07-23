@@ -6,8 +6,8 @@ area2,3,4
 availability,1,2
 bound,1,2
 cause of death,3,10
-COMMENT_OBS_0,148,11
-COMMENT_OBS_1,8,4
+COMMENT_OBS_0,148,10
+COMMENT_OBS_1,8,5
 completeness of disaggregation,1,3
 conversion,1,2
 degree of urbanisation,2,4
@@ -57,13 +57,13 @@ technology,1,3
 thematic area,1,4
 time series,14,21
 timeseries,31,104
-tpype of physical violence,2,2
 treatment,1,2
 type of account,1,2
 type of assistance,1,5
 type of biomass,1,3
 type of flow,1,5
 type of ict competence,1,8
+type of physical violence,2,2
 type of service,1,4
 type of sexual violence,2,1
 type of unpaid work,1,3

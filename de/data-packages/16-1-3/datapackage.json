@@ -58,7 +58,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "tpype of physical violence",
+            "name": "type of physical violence",
             "type": "string",
             "constraints": {
               "enum": [

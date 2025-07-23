@@ -58,7 +58,7 @@
             "title": "Sex"
           },
           {
-            "name": "tpype of physical violence",
+            "name": "type of physical violence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -67,7 +67,7 @@
                 ""
               ]
             },
-            "title": "Tpype of physical violence"
+            "title": "Type of physical violence"
           },
           {
             "name": "type of sexual violence",
