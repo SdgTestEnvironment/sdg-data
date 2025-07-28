@@ -1766,7 +1766,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2023)",
                 ""
               ]
             },
@@ -1934,6 +1934,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
+                "Million USD, constant prices (2023)",
                 "Million USD, constant prices (2022)",
                 ""
               ]
@@ -4402,7 +4403,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2023)",
                 ""
               ]
             },
@@ -4961,7 +4962,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2023)",
                 ""
               ]
             },
@@ -5548,6 +5549,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
+                "Million USD, constant prices (2023)",
                 "Million USD, constant prices (2022)",
                 ""
               ]
@@ -7481,7 +7483,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2023)",
                 ""
               ]
             },
@@ -7915,7 +7917,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2023)",
                 ""
               ]
             },
@@ -8227,7 +8229,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2023)",
                 ""
               ]
             },
@@ -11671,6 +11673,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
+                "Million USD, constant prices (2023)",
                 "Million USD, constant prices (2022)",
                 ""
               ]
@@ -12188,7 +12191,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2023)",
                 ""
               ]
             },
@@ -13077,7 +13080,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2023)",
                 ""
               ]
             },
@@ -16257,7 +16260,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2022)",
+                "Million USD, constant prices (2023)",
                 ""
               ]
             },
