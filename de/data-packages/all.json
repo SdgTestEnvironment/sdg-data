@@ -1935,7 +1935,6 @@
               "enum": [
                 "Millionen EUR",
                 "Millionen USD, konstante Preise (2023)",
-                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -8386,8 +8385,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Daten des BMELH",
                 "Daten des Statistischen Bundesamtes",
+                "Daten des BMELH",
                 "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]
@@ -8430,8 +8429,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Trend",
                 "Aktueller Stand",
+                "Trend",
                 ""
               ]
             },
@@ -8443,6 +8442,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "s",
                 "r",
                 "…",
                 ""

@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data from the federal ministry of agriculture, food and community",
                 "data from the federal statistical office",
+                "data from the federal ministry of agriculture, food and community",
                 "progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
@@ -71,8 +71,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "current status",
                 "trend",
-                "currend status",
                 ""
               ]
             }
@@ -83,6 +83,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "s",
                 "r",
                 "…",
                 ""

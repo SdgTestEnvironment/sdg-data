@@ -1769,7 +1769,6 @@
               "enum": [
                 "million eur",
                 "million usd, constant prices (2023)",
-                "million usd, constant prices (2022)",
                 ""
               ]
             }
@@ -7658,8 +7657,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data from the federal ministry of agriculture, food and community",
                 "data from the federal statistical office",
+                "data from the federal ministry of agriculture, food and community",
                 "progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
@@ -7699,8 +7698,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "current status",
                 "trend",
-                "currend status",
                 ""
               ]
             }
@@ -7711,6 +7710,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "s",
                 "r",
                 "…",
                 ""
@@ -13450,7 +13450,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) reporting rate for physical violence",
+                "a) reporting rate for physical violence",
                 "b) reporting rate for psychological violence",
                 "c) reporting rate for sexual violence",
                 ""
@@ -13982,8 +13982,8 @@
               "enum": [
                 "victims of non-sexual harassment",
                 "victims of sexual harassment",
-                "at-risk-of-victimisation rate of non-sexual harassment",
-                "at-risk-of-victimisation rate of sexual harassment",
+                "number of victims per 100,000 of non-sexual harassment",
+                "number of victims per 100,000 of sexual harassment",
                 ""
               ]
             }

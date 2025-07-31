@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) reporting rate for physical violence",
+                "a) reporting rate for physical violence",
                 "b) reporting rate for psychological violence",
                 "c) reporting rate for sexual violence",
                 ""

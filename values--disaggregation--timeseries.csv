@@ -1,16 +1,14 @@
 Value,Disaggregation combinations using this value,Number of indicators
 a) branches of payment service providers,1,1
 a) physical violence,30,1
+a) reporting rate for physical violence,46,1
 agricultural holdings with the legal form of a sole proprietorship,2,1
 annual growth rate of real gdp,2,1
 at least one population and housing census in the last 10 years conducted,1,1
 at-risk-of-poverty rate,6,1
-at-risk-of-victimisation rate of non-sexual harassment,36,1
-at-risk-of-victimisation rate of sexual harassment,57,1
 available income of private households,2,1
 b) atms of national payment service providers,1,1
 b) psychological violence,10,1
-b) reporting rate for physical violence,46,1
 b) reporting rate for psychological violence,10,1
 basel convention,1,1
 birth registration,1,1
@@ -24,7 +22,7 @@ current tobacco use,3,1
 data from lfs from federal statistical office,6,1
 data from na from federal statistical office,2,1
 "data from the federal ministry of agriculture, food and community",1,1
-data from the federal statistical office,40,1
+data from the federal statistical office,43,1
 death registration,1,1
 debts of the total public budget,2,1
 dtp vaccination coverage at school entry,4,1
@@ -60,6 +58,8 @@ mountain key biodiversity areas (kbas) covered by protected areas,2,1
 "mountain regions, covered by protected areas",2,1
 non-fatal occupational accidents,6,1
 non-performing loans to total gross loans,2,1
+"number of victims per 100,000 of non-sexual harassment",36,1
+"number of victims per 100,000 of sexual harassment",57,1
 oda (commitments) for biodiversity,4,2
 oda (gross disbursements) for biodiversity,8,2
 oda (gross disbursements) to the forestry sector,2,1

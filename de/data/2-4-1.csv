@@ -1,4 +1,18 @@
 Year,Units,Zeitreihe,Bundesland,GeoCode,Punktzahl,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Prozent,Daten des Statistischen Bundesamtes,,,,,,,5.6
+2011,Prozent,Daten des Statistischen Bundesamtes,,,,.,,,
+2012,Prozent,Daten des Statistischen Bundesamtes,,,,s,,,5.8
+2013,Prozent,Daten des Statistischen Bundesamtes,,,,,,,6.0
+2014,Prozent,Daten des Statistischen Bundesamtes,,,,s,,,6.2
+2015,Prozent,Daten des Statistischen Bundesamtes,,,,s,,,6.3
+2016,Prozent,Daten des Statistischen Bundesamtes,,,,,,,6.8
+2017,Prozent,Daten des Statistischen Bundesamtes,,,,s,,,6.8
+2018,Prozent,Daten des Statistischen Bundesamtes,,,,s,,,7.3
+2019,Prozent,Daten des Statistischen Bundesamtes,,,,,,,7.8
+2020,Prozent,Daten des Statistischen Bundesamtes,,,,,,,9.6
+2021,Prozent,Daten des Statistischen Bundesamtes,,,,s,,,9.7
+2022,Prozent,Daten des Statistischen Bundesamtes,,,,s,,,9.8
+2023,Prozent,Daten des Statistischen Bundesamtes,,,,,,,11.2
 2010,Prozent,Daten des BMELH,,,,,,,5.9
 2011,Prozent,Daten des BMELH,,,,,,,6.1
 2012,Prozent,Daten des BMELH,,,,,,,6.2
@@ -237,20 +251,6 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Punktzahl,COMMENT_OBS_0,COMMENT_OBS_1,CO
 2021,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,,.,,,
 2022,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,,.,,,
 2023,Prozent,Daten des Statistischen Bundesamtes,Thüringen,code16,,,,,8.2
-2010,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,.,,,
-2011,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,.,,,
-2012,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,.,,,
-2013,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,.,,,
-2014,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,.,,,
-2015,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,3.57
-2016,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,3.57
-2017,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,3.57
-2018,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,2.86
-2019,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,3.0
-2020,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,3.71
-2021,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,4.0
-2022,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,…,,,
-2023,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,…,,,
 2010,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Aktueller Stand,.,,,
 2011,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Aktueller Stand,.,,,
 2012,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Aktueller Stand,.,,,
@@ -265,3 +265,17 @@ Year,Units,Zeitreihe,Bundesland,GeoCode,Punktzahl,COMMENT_OBS_0,COMMENT_OBS_1,CO
 2021,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Aktueller Stand,,,,4.57
 2022,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Aktueller Stand,…,,,
 2023,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Aktueller Stand,…,,,
+2010,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,.,,,
+2011,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,.,,,
+2012,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,.,,,
+2013,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,.,,,
+2014,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,.,,,
+2015,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,3.57
+2016,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,3.57
+2017,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,3.57
+2018,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,2.86
+2019,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,3.0
+2020,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,3.71
+2021,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,,,,4.0
+2022,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,…,,,
+2023,Keine Einheit,Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy),,,Trend,…,,,
