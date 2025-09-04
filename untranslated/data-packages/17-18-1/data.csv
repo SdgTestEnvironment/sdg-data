@@ -1,127 +1,631 @@
 Year,completeness of disaggregation,goal,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2023,fully disaggregated,,.,,,
-2024,fully disaggregated,,,,,23.0
-2025,fully disaggregated,,,,,
-2023,partially disaggregated,,.,,,
-2024,partially disaggregated,,,,,23.0
-2025,partially disaggregated,,,,,
-2023,not disaggregated,,.,,,
-2024,not disaggregated,,,,,54.0
-2025,not disaggregated,,,,,
-2023,fully disaggregated,1 - no poverty,.,,,
-2024,fully disaggregated,1 - no poverty,-,,,0.0
-2025,fully disaggregated,1 - no poverty,,,,
-2023,partially disaggregated,1 - no poverty,.,,,
-2024,partially disaggregated,1 - no poverty,,,,25.0
-2025,partially disaggregated,1 - no poverty,,,,
-2023,not disaggregated,1 - no poverty,.,,,
-2024,not disaggregated,1 - no poverty,,,,75.0
-2025,not disaggregated,1 - no poverty,,,,
-2023,fully disaggregated,2 - zero hunger,.,,,
-2024,fully disaggregated,2 - zero hunger,,,,25.0
-2025,fully disaggregated,2 - zero hunger,,,,
-2023,partially disaggregated,2 - zero hunger,.,,,
-2024,partially disaggregated,2 - zero hunger,-,,,0.0
-2025,partially disaggregated,2 - zero hunger,,,,
-2023,not disaggregated,2 - zero hunger,.,,,
-2024,not disaggregated,2 - zero hunger,,,,75.0
-2025,not disaggregated,2 - zero hunger,,,,
-2023,fully disaggregated,3 - good health and well-being,.,,,
-2024,fully disaggregated,3 - good health and well-being,-,,,0.0
-2025,fully disaggregated,3 - good health and well-being,,,,
-2023,partially disaggregated,3 - good health and well-being,.,,,
-2024,partially disaggregated,3 - good health and well-being,,,,100.0
-2025,partially disaggregated,3 - good health and well-being,,,,
-2023,not disaggregated,3 - good health and well-being,.,,,
-2024,not disaggregated,3 - good health and well-being,-,,,0.0
-2025,not disaggregated,3 - good health and well-being,,,,
-2023,fully disaggregated,4 - quality education,.,,,
-2024,fully disaggregated,4 - quality education,,,,33.0
-2025,fully disaggregated,4 - quality education,,,,
-2023,partially disaggregated,4 - quality education,.,,,
-2024,partially disaggregated,4 - quality education,-,,,0.0
-2025,partially disaggregated,4 - quality education,,,,
-2023,not disaggregated,4 - quality education,.,,,
-2024,not disaggregated,4 - quality education,,,,67.0
-2025,not disaggregated,4 - quality education,,,,
-2023,fully disaggregated,5 - gender equality,.,,,
-2024,fully disaggregated,5 - gender equality,-,,,0.0
-2025,fully disaggregated,5 - gender equality,,,,
-2023,partially disaggregated,5 - gender equality,.,,,
-2024,partially disaggregated,5 - gender equality,,,,17.0
-2025,partially disaggregated,5 - gender equality,,,,
-2023,not disaggregated,5 - gender equality,.,,,
-2024,not disaggregated,5 - gender equality,,,,83.0
-2025,not disaggregated,5 - gender equality,,,,
-2023,fully disaggregated,8 - decent work and economic growth,.,,,
-2024,fully disaggregated,8 - decent work and economic growth,,,,17.0
-2025,fully disaggregated,8 - decent work and economic growth,,,,
-2023,partially disaggregated,8 - decent work and economic growth,.,,,
-2024,partially disaggregated,8 - decent work and economic growth,,,,50.0
-2025,partially disaggregated,8 - decent work and economic growth,,,,
-2023,not disaggregated,8 - decent work and economic growth,.,,,
-2024,not disaggregated,8 - decent work and economic growth,,,,33.0
-2025,not disaggregated,8 - decent work and economic growth,,,,
-2023,fully disaggregated,"9 - industry, innovation and infrastructure",.,,,
-2024,fully disaggregated,"9 - industry, innovation and infrastructure",,,,100.0
-2025,fully disaggregated,"9 - industry, innovation and infrastructure",,,,
-2023,partially disaggregated,"9 - industry, innovation and infrastructure",.,,,
-2024,partially disaggregated,"9 - industry, innovation and infrastructure",-,,,0.0
-2025,partially disaggregated,"9 - industry, innovation and infrastructure",,,,
-2023,not disaggregated,"9 - industry, innovation and infrastructure",.,,,
-2024,not disaggregated,"9 - industry, innovation and infrastructure",-,,,0.0
-2025,not disaggregated,"9 - industry, innovation and infrastructure",,,,
-2023,fully disaggregated,10 - reduced inequalities,.,,,
-2024,fully disaggregated,10 - reduced inequalities,,,,33.0
-2025,fully disaggregated,10 - reduced inequalities,,,,
-2023,partially disaggregated,10 - reduced inequalities,.,,,
-2024,partially disaggregated,10 - reduced inequalities,,,,67.0
-2025,partially disaggregated,10 - reduced inequalities,,,,
-2023,not disaggregated,10 - reduced inequalities,.,,,
-2024,not disaggregated,10 - reduced inequalities,-,,,0.0
-2025,not disaggregated,10 - reduced inequalities,,,,
-2023,fully disaggregated,11 - sustainable cities and communities,.,,,
-2024,fully disaggregated,11 - sustainable cities and communities,-,,,0.0
-2025,fully disaggregated,11 - sustainable cities and communities,,,,
-2023,partially disaggregated,11 - sustainable cities and communities,.,,,
-2024,partially disaggregated,11 - sustainable cities and communities,,,,40.0
-2025,partially disaggregated,11 - sustainable cities and communities,,,,
-2023,not disaggregated,11 - sustainable cities and communities,.,,,
-2024,not disaggregated,11 - sustainable cities and communities,,,,60.0
-2025,not disaggregated,11 - sustainable cities and communities,,,,
-2023,fully disaggregated,12 - responsible consumption and production,.,,,
-2024,fully disaggregated,12 - responsible consumption and production,,,,100.0
-2025,fully disaggregated,12 - responsible consumption and production,,,,
-2023,partially disaggregated,12 - responsible consumption and production,.,,,
-2024,partially disaggregated,12 - responsible consumption and production,-,,,0.0
-2025,partially disaggregated,12 - responsible consumption and production,,,,
-2023,not disaggregated,12 - responsible consumption and production,.,,,
-2024,not disaggregated,12 - responsible consumption and production,-,,,0.0
-2025,not disaggregated,12 - responsible consumption and production,,,,
+2010,fully disaggregated,,,,,80.0
+2011,fully disaggregated,,,,,81.0
+2012,fully disaggregated,,,,,82.0
+2013,fully disaggregated,,,,,84.0
+2014,fully disaggregated,,,,,86.0
+2015,fully disaggregated,,,,,88.0
+2016,fully disaggregated,,,,,90.0
+2017,fully disaggregated,,,,,90.0
+2018,fully disaggregated,,,,,92.0
+2019,fully disaggregated,,,,,93.0
+2020,fully disaggregated,,,,,94.0
+2021,fully disaggregated,,|,,,91.0
+2022,fully disaggregated,,,,,92.0
+2023,fully disaggregated,,,,,92.0
+2024,fully disaggregated,,,,,94.0
+2010,partially disaggregated,,,,,76.0
+2011,partially disaggregated,,,,,78.0
+2012,partially disaggregated,,,,,79.0
+2013,partially disaggregated,,,,,81.0
+2014,partially disaggregated,,,,,84.0
+2015,partially disaggregated,,,,,85.0
+2016,partially disaggregated,,,,,88.0
+2017,partially disaggregated,,,,,89.0
+2018,partially disaggregated,,,,,91.0
+2019,partially disaggregated,,,,,92.0
+2020,partially disaggregated,,,,,93.0
+2021,partially disaggregated,,|,,,91.0
+2022,partially disaggregated,,,,,90.0
+2023,partially disaggregated,,,,,91.0
+2024,partially disaggregated,,,,,93.0
+2010,not disaggregated,,,,,84.0
+2011,not disaggregated,,,,,84.0
+2012,not disaggregated,,,,,85.0
+2013,not disaggregated,,,,,87.0
+2014,not disaggregated,,,,,89.0
+2015,not disaggregated,,,,,90.0
+2016,not disaggregated,,,,,91.0
+2017,not disaggregated,,,,,92.0
+2018,not disaggregated,,,,,94.0
+2019,not disaggregated,,,,,94.0
+2020,not disaggregated,,,,,95.0
+2021,not disaggregated,,|,,,92.0
+2022,not disaggregated,,,,,93.0
+2023,not disaggregated,,,,,93.0
+2024,not disaggregated,,,,,94.0
+2010,fully disaggregated,1 - no poverty,,,,98.0
+2011,fully disaggregated,1 - no poverty,,,,99.0
+2012,fully disaggregated,1 - no poverty,,,,98.0
+2013,fully disaggregated,1 - no poverty,,,,98.0
+2014,fully disaggregated,1 - no poverty,,,,99.0
+2015,fully disaggregated,1 - no poverty,,,,99.0
+2016,fully disaggregated,1 - no poverty,,,,99.0
+2017,fully disaggregated,1 - no poverty,,,,99.0
+2018,fully disaggregated,1 - no poverty,,,,99.0
+2019,fully disaggregated,1 - no poverty,,,,99.0
+2020,fully disaggregated,1 - no poverty,,,,99.0
+2021,fully disaggregated,1 - no poverty,|,,,98.0
+2022,fully disaggregated,1 - no poverty,,,,96.0
+2023,fully disaggregated,1 - no poverty,,,,97.0
+2024,fully disaggregated,1 - no poverty,,,,97.0
+2010,partially disaggregated,1 - no poverty,,,,85.0
+2011,partially disaggregated,1 - no poverty,,,,87.0
+2012,partially disaggregated,1 - no poverty,,,,88.0
+2013,partially disaggregated,1 - no poverty,,,,89.0
+2014,partially disaggregated,1 - no poverty,,,,91.0
+2015,partially disaggregated,1 - no poverty,,,,92.0
+2016,partially disaggregated,1 - no poverty,,,,93.0
+2017,partially disaggregated,1 - no poverty,,,,93.0
+2018,partially disaggregated,1 - no poverty,,,,95.0
+2019,partially disaggregated,1 - no poverty,,,,96.0
+2020,partially disaggregated,1 - no poverty,,,,97.0
+2021,partially disaggregated,1 - no poverty,|,,,94.0
+2022,partially disaggregated,1 - no poverty,,,,94.0
+2023,partially disaggregated,1 - no poverty,,,,95.0
+2024,partially disaggregated,1 - no poverty,,,,95.0
+2010,not disaggregated,1 - no poverty,,,,41.0
+2011,not disaggregated,1 - no poverty,,,,41.0
+2012,not disaggregated,1 - no poverty,,,,43.0
+2013,not disaggregated,1 - no poverty,,,,50.0
+2014,not disaggregated,1 - no poverty,,,,53.0
+2015,not disaggregated,1 - no poverty,,,,56.0
+2016,not disaggregated,1 - no poverty,,,,62.0
+2017,not disaggregated,1 - no poverty,,,,64.0
+2018,not disaggregated,1 - no poverty,,,,71.0
+2019,not disaggregated,1 - no poverty,,,,72.0
+2020,not disaggregated,1 - no poverty,,,,76.0
+2021,not disaggregated,1 - no poverty,|,,,74.0
+2022,not disaggregated,1 - no poverty,,,,77.0
+2023,not disaggregated,1 - no poverty,,,,79.0
+2024,not disaggregated,1 - no poverty,,,,83.0
+2010,fully disaggregated,2 - zero hunger,,,,916.0
+2011,fully disaggregated,2 - zero hunger,,,,809.2
+2012,fully disaggregated,2 - zero hunger,,,,740.5
+2013,fully disaggregated,2 - zero hunger,,,,835.9
+2014,fully disaggregated,2 - zero hunger,,,,1115.5
+2015,fully disaggregated,2 - zero hunger,,,,1578.0
+2016,fully disaggregated,2 - zero hunger,,,,1278.4
+2017,fully disaggregated,2 - zero hunger,,,,2141.1
+2018,fully disaggregated,2 - zero hunger,,,,2107.3
+2019,fully disaggregated,2 - zero hunger,,,,2029.1
+2020,fully disaggregated,2 - zero hunger,,,,3225.6
+2021,fully disaggregated,2 - zero hunger,,,,2941.9
+2022,fully disaggregated,2 - zero hunger,,,,2972.9
+2023,fully disaggregated,2 - zero hunger,,,,3486.6
+2024,fully disaggregated,2 - zero hunger,…,,,
+2010,partially disaggregated,2 - zero hunger,,,,675.0
+2011,partially disaggregated,2 - zero hunger,,,,703.8
+2012,partially disaggregated,2 - zero hunger,,,,743.5
+2013,partially disaggregated,2 - zero hunger,,,,819.9
+2014,partially disaggregated,2 - zero hunger,,,,929.0
+2015,partially disaggregated,2 - zero hunger,,,,1302.0
+2016,partially disaggregated,2 - zero hunger,,,,1210.4
+2017,partially disaggregated,2 - zero hunger,,,,1536.8
+2018,partially disaggregated,2 - zero hunger,,,,2150.9
+2019,partially disaggregated,2 - zero hunger,,,,1727.2
+2020,partially disaggregated,2 - zero hunger,,,,2395.3
+2021,partially disaggregated,2 - zero hunger,,,,2415.8
+2022,partially disaggregated,2 - zero hunger,,,,2801.3
+2023,partially disaggregated,2 - zero hunger,,,,2322.6
+2024,partially disaggregated,2 - zero hunger,…,,,
+2010,not disaggregated,2 - zero hunger,,,,1351.9
+2011,not disaggregated,2 - zero hunger,,,,1179.9
+2012,not disaggregated,2 - zero hunger,,,,1064.4
+2013,not disaggregated,2 - zero hunger,,,,1178.1
+2014,not disaggregated,2 - zero hunger,,,,1542.7
+2015,not disaggregated,2 - zero hunger,,,,2146.4
+2016,not disaggregated,2 - zero hunger,,,,1717.2
+2017,not disaggregated,2 - zero hunger,,,,2834.2
+2018,not disaggregated,2 - zero hunger,,,,2738.4
+2019,not disaggregated,2 - zero hunger,,,,2584.8
+2020,not disaggregated,2 - zero hunger,,,,4038.0
+2021,not disaggregated,2 - zero hunger,,,,3582.4
+2022,not disaggregated,2 - zero hunger,,,,3412.0
+2023,not disaggregated,2 - zero hunger,,,,3770.1
+2024,not disaggregated,2 - zero hunger,…,,,
+2010,fully disaggregated,3 - good health and well-being,,,,996.3
+2011,fully disaggregated,3 - good health and well-being,,,,1026.2
+2012,fully disaggregated,3 - good health and well-being,,,,1068.7
+2013,fully disaggregated,3 - good health and well-being,,,,1155.5
+2014,fully disaggregated,3 - good health and well-being,,,,1284.9
+2015,fully disaggregated,3 - good health and well-being,,,,1770.9
+2016,fully disaggregated,3 - good health and well-being,,,,1625.8
+2017,fully disaggregated,3 - good health and well-being,,,,2034.2
+2018,fully disaggregated,3 - good health and well-being,,,,2795.0
+2019,fully disaggregated,3 - good health and well-being,,,,2200.2
+2020,fully disaggregated,3 - good health and well-being,,,,2998.5
+2021,fully disaggregated,3 - good health and well-being,,,,2941.8
+2022,fully disaggregated,3 - good health and well-being,,,,3215.1
+2023,fully disaggregated,3 - good health and well-being,,,,2511.5
+2024,fully disaggregated,3 - good health and well-being,…,,,
+2010,partially disaggregated,3 - good health and well-being,,,,4.1
+2011,partially disaggregated,3 - good health and well-being,,,,3.8
+2012,partially disaggregated,3 - good health and well-being,,,,0.5
+2013,partially disaggregated,3 - good health and well-being,,,,0.4
+2014,partially disaggregated,3 - good health and well-being,,,,2.2
+2015,partially disaggregated,3 - good health and well-being,,,,1.7
+2016,partially disaggregated,3 - good health and well-being,,,,2.3
+2017,partially disaggregated,3 - good health and well-being,,,,2.7
+2018,partially disaggregated,3 - good health and well-being,,,,1.1
+2019,partially disaggregated,3 - good health and well-being,,,,1.0
+2020,partially disaggregated,3 - good health and well-being,,,,-4.1
+2021,partially disaggregated,3 - good health and well-being,p,,,3.7
+2022,partially disaggregated,3 - good health and well-being,p,,,1.4
+2023,partially disaggregated,3 - good health and well-being,p,,,-0.3
+2024,partially disaggregated,3 - good health and well-being,p,,,-0.2
+2010,not disaggregated,3 - good health and well-being,r,,,1578.1
+2011,not disaggregated,3 - good health and well-being,r,,,1626.7
+2012,not disaggregated,3 - good health and well-being,r,,,1660.8
+2013,not disaggregated,3 - good health and well-being,r,,,1682.0
+2014,not disaggregated,3 - good health and well-being,r,,,1726.7
+2015,not disaggregated,3 - good health and well-being,r,,,1779.3
+2016,not disaggregated,3 - good health and well-being,r,,,1834.4
+2017,not disaggregated,3 - good health and well-being,r,,,1897.4
+2018,not disaggregated,3 - good health and well-being,r,,,1973.8
+2019,not disaggregated,3 - good health and well-being,r,,,2022.1
+2020,not disaggregated,3 - good health and well-being,r,,,2025.4
+2021,not disaggregated,3 - good health and well-being,p,,,2085.2
+2022,not disaggregated,3 - good health and well-being,p,,,2249.8
+2023,not disaggregated,3 - good health and well-being,p,,,2404.6
+2024,not disaggregated,3 - good health and well-being,p,,,2501.7
+2010,fully disaggregated,4 - quality education,,,,1417.1
+2011,fully disaggregated,4 - quality education,,,,1463.0
+2012,fully disaggregated,4 - quality education,,,,1503.4
+2013,fully disaggregated,4 - quality education,,,,1528.8
+2014,fully disaggregated,4 - quality education,,,,1560.4
+2015,fully disaggregated,4 - quality education,,,,1604.9
+2016,fully disaggregated,4 - quality education,,,,1651.7
+2017,fully disaggregated,4 - quality education,,,,1704.0
+2018,fully disaggregated,4 - quality education,,,,1757.5
+2019,fully disaggregated,4 - quality education,,,,1813.7
+2020,fully disaggregated,4 - quality education,,,,1695.6
+2021,fully disaggregated,4 - quality education,p,,,1786.7
+2022,fully disaggregated,4 - quality education,p,,,2018.0
+2023,fully disaggregated,4 - quality education,p,,,2145.4
+2024,fully disaggregated,4 - quality education,p,,,2207.1
+2010,partially disaggregated,4 - quality education,,,,2011.7
+2011,partially disaggregated,4 - quality education,,,,2025.4
+2012,partially disaggregated,4 - quality education,,,,2068.3
+2013,partially disaggregated,4 - quality education,,,,2043.3
+2014,partially disaggregated,4 - quality education,,,,2043.9
+2015,partially disaggregated,4 - quality education,,,,2020.7
+2016,partially disaggregated,4 - quality education,,,,2009.3
+2017,partially disaggregated,4 - quality education,,,,1969.1
+2018,partially disaggregated,4 - quality education,,,,1915.8
+2019,partially disaggregated,4 - quality education,,,,1899.1
+2020,partially disaggregated,4 - quality education,,,,2172.9
+2021,partially disaggregated,4 - quality education,,,,2321.0
+2022,partially disaggregated,4 - quality education,,,,2368.0
+2023,partially disaggregated,4 - quality education,,,,2445.1
+2024,partially disaggregated,4 - quality education,…,,,
+2010,not disaggregated,4 - quality education,,,,-115.6
+2011,not disaggregated,4 - quality education,,,,-23.1
+2012,not disaggregated,4 - quality education,,,,-1.5
+2013,not disaggregated,4 - quality education,,,,3.5
+2014,not disaggregated,4 - quality education,,,,21.8
+2015,not disaggregated,4 - quality education,,,,28.2
+2016,not disaggregated,4 - quality education,,,,36.2
+2017,not disaggregated,4 - quality education,,,,44.6
+2018,not disaggregated,4 - quality education,r,,,64.7
+2019,not disaggregated,4 - quality education,,,,47.0
+2020,not disaggregated,4 - quality education,,,,-151.1
+2021,not disaggregated,4 - quality education,p,,,-116.4
+2022,not disaggregated,4 - quality education,p,,,-84.9
+2023,not disaggregated,4 - quality education,p,,,-103.8
+2024,not disaggregated,4 - quality education,p,,,-115.6
+2010,fully disaggregated,5 - gender equality,,,,501.8
+2011,fully disaggregated,5 - gender equality,,,,549.6
+2012,fully disaggregated,5 - gender equality,,,,558.9
+2013,fully disaggregated,5 - gender equality,,,,561.2
+2014,fully disaggregated,5 - gender equality,,,,590.4
+2015,fully disaggregated,5 - gender equality,,,,609.6
+2016,fully disaggregated,5 - gender equality,,,,640.4
+2017,fully disaggregated,5 - gender equality,,,,671.1
+2018,fully disaggregated,5 - gender equality,,,,714.9
+2019,fully disaggregated,5 - gender equality,,,,748.2
+2020,fully disaggregated,5 - gender equality,,,,736.5
+2021,fully disaggregated,5 - gender equality,p,,,779.2
+2022,fully disaggregated,5 - gender equality,p,,,858.3
+2023,fully disaggregated,5 - gender equality,p,,,899.9
+2024,fully disaggregated,5 - gender equality,p,,,898.5
+2010,partially disaggregated,5 - gender equality,,,,49385.0
+2011,partially disaggregated,5 - gender equality,,,,50163.0
+2012,partially disaggregated,5 - gender equality,,,,50098.0
+2013,partially disaggregated,5 - gender equality,,,,50243.0
+2014,partially disaggregated,5 - gender equality,,,,51075.0
+2015,partially disaggregated,5 - gender equality,,,,51811.0
+2016,partially disaggregated,5 - gender equality,,,,52493.0
+2017,partially disaggregated,5 - gender equality,,,,53225.0
+2018,partially disaggregated,5 - gender equality,,,,53913.0
+2019,partially disaggregated,5 - gender equality,,,,54333.0
+2020,partially disaggregated,5 - gender equality,,,,52028.0
+2021,partially disaggregated,5 - gender equality,p,,,53392.0
+2022,partially disaggregated,5 - gender equality,p,,,54177.0
+2023,partially disaggregated,5 - gender equality,p,,,54592.0
+2024,partially disaggregated,5 - gender equality,p,,,54728.0
+2010,not disaggregated,5 - gender equality,,,,58581.0
+2011,not disaggregated,5 - gender equality,,,,59328.0
+2012,not disaggregated,5 - gender equality,,,,59143.0
+2013,not disaggregated,5 - gender equality,,,,59148.0
+2014,not disaggregated,5 - gender equality,,,,59859.0
+2015,not disaggregated,5 - gender equality,,,,60460.0
+2016,not disaggregated,5 - gender equality,,,,60978.0
+2017,not disaggregated,5 - gender equality,,,,61484.0
+2018,not disaggregated,5 - gender equality,,,,61964.0
+2019,not disaggregated,5 - gender equality,,,,62141.0
+2020,not disaggregated,5 - gender equality,,,,59066.0
+2021,not disaggregated,5 - gender equality,p,,,60456.0
+2022,not disaggregated,5 - gender equality,p,,,61211.0
+2023,not disaggregated,5 - gender equality,p,,,61437.0
+2024,not disaggregated,5 - gender equality,p,,,61355.0
+2010,fully disaggregated,8 - decent work and economic growth,,,,94.2
+2011,fully disaggregated,8 - decent work and economic growth,,,,96.2
+2012,fully disaggregated,8 - decent work and economic growth,,,,96.8
+2013,fully disaggregated,8 - decent work and economic growth,,,,96.9
+2014,fully disaggregated,8 - decent work and economic growth,,,,97.4
+2015,fully disaggregated,8 - decent work and economic growth,,,,97.6
+2016,fully disaggregated,8 - decent work and economic growth,,,,98.1
+2017,fully disaggregated,8 - decent work and economic growth,,,,99.8
+2018,fully disaggregated,8 - decent work and economic growth,,,,99.2
+2019,fully disaggregated,8 - decent work and economic growth,,,,99.8
+2020,fully disaggregated,8 - decent work and economic growth,,,,100.0
+2021,fully disaggregated,8 - decent work and economic growth,p,,,101.0
+2022,fully disaggregated,8 - decent work and economic growth,p,,,103.6
+2023,fully disaggregated,8 - decent work and economic growth,p,,,99.9
+2024,fully disaggregated,8 - decent work and economic growth,p,,,99.4
+2010,partially disaggregated,8 - decent work and economic growth,,,,90.2
+2011,partially disaggregated,8 - decent work and economic growth,,,,92.4
+2012,partially disaggregated,8 - decent work and economic growth,,,,93.1
+2013,partially disaggregated,8 - decent work and economic growth,,,,93.4
+2014,partially disaggregated,8 - decent work and economic growth,,,,94.3
+2015,partially disaggregated,8 - decent work and economic growth,,,,94.9
+2016,partially disaggregated,8 - decent work and economic growth,,,,96.3
+2017,partially disaggregated,8 - decent work and economic growth,,,,98.1
+2018,partially disaggregated,8 - decent work and economic growth,,,,98.4
+2019,partially disaggregated,8 - decent work and economic growth,,,,99.1
+2020,partially disaggregated,8 - decent work and economic growth,,,,100.0
+2021,partially disaggregated,8 - decent work and economic growth,p,,,101.3
+2022,partially disaggregated,8 - decent work and economic growth,p,,,101.4
+2023,partially disaggregated,8 - decent work and economic growth,p,,,100.8
+2024,partially disaggregated,8 - decent work and economic growth,p,,,100.7
+2010,not disaggregated,8 - decent work and economic growth,,,,41099.0
+2011,not disaggregated,8 - decent work and economic growth,,,,41570.0
+2012,not disaggregated,8 - decent work and economic growth,,,,42065.0
+2013,not disaggregated,8 - decent work and economic growth,,,,42378.0
+2014,not disaggregated,8 - decent work and economic growth,,,,42756.0
+2015,not disaggregated,8 - decent work and economic growth,,,,43137.0
+2016,not disaggregated,8 - decent work and economic growth,,,,43686.0
+2017,not disaggregated,8 - decent work and economic growth,,,,44290.0
+2018,not disaggregated,8 - decent work and economic growth,,,,44878.0
+2019,not disaggregated,8 - decent work and economic growth,,,,45291.0
+2020,not disaggregated,8 - decent work and economic growth,,,,44966.0
+2021,not disaggregated,8 - decent work and economic growth,p,,,45053.0
+2022,not disaggregated,8 - decent work and economic growth,p,,,45675.0
+2023,not disaggregated,8 - decent work and economic growth,p,,,46011.0
+2024,not disaggregated,8 - decent work and economic growth,p,,,46081.0
+2010,fully disaggregated,"9 - industry, innovation and infrastructure",,,,92.6
+2011,fully disaggregated,"9 - industry, innovation and infrastructure",,,,96.1
+2012,fully disaggregated,"9 - industry, innovation and infrastructure",,,,96.4
+2013,fully disaggregated,"9 - industry, innovation and infrastructure",,,,96.5
+2014,fully disaggregated,"9 - industry, innovation and infrastructure",,,,98.2
+2015,fully disaggregated,"9 - industry, innovation and infrastructure",,,,98.9
+2016,fully disaggregated,"9 - industry, innovation and infrastructure",,,,100.4
+2017,fully disaggregated,"9 - industry, innovation and infrastructure",,,,102.7
+2018,fully disaggregated,"9 - industry, innovation and infrastructure",,,,103.6
+2019,fully disaggregated,"9 - industry, innovation and infrastructure",,,,104.4
+2020,fully disaggregated,"9 - industry, innovation and infrastructure",,,,100.0
+2021,fully disaggregated,"9 - industry, innovation and infrastructure",p,,,103.6
+2022,fully disaggregated,"9 - industry, innovation and infrastructure",p,,,104.3
+2023,fully disaggregated,"9 - industry, innovation and infrastructure",p,,,103.1
+2024,fully disaggregated,"9 - industry, innovation and infrastructure",p,,,102.7
+2010,partially disaggregated,"9 - industry, innovation and infrastructure",,,,133.5
+2011,partially disaggregated,"9 - industry, innovation and infrastructure",,,,133.3
+2012,partially disaggregated,"9 - industry, innovation and infrastructure",,,,169.1
+2013,partially disaggregated,"9 - industry, innovation and infrastructure",,,,165.5
+2014,partially disaggregated,"9 - industry, innovation and infrastructure",,,,195.2
+2015,partially disaggregated,"9 - industry, innovation and infrastructure",,,,228.9
+2016,partially disaggregated,"9 - industry, innovation and infrastructure",,,,232.1
+2017,partially disaggregated,"9 - industry, innovation and infrastructure",,,,236.0
+2018,partially disaggregated,"9 - industry, innovation and infrastructure",,,,205.4
+2019,partially disaggregated,"9 - industry, innovation and infrastructure",,,,199.3
+2020,partially disaggregated,"9 - industry, innovation and infrastructure",,,,184.4
+2021,partially disaggregated,"9 - industry, innovation and infrastructure",p,,,189.7
+2022,partially disaggregated,"9 - industry, innovation and infrastructure",p,,,98.7
+2023,partially disaggregated,"9 - industry, innovation and infrastructure",p,,,167.7
+2024,partially disaggregated,"9 - industry, innovation and infrastructure",p,,,169.0
+2010,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2011,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2012,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2013,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2014,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2015,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2016,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2017,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2018,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2019,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2020,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2021,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2022,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2023,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2024,not disaggregated,"9 - industry, innovation and infrastructure",,,,
+2010,fully disaggregated,10 - reduced inequalities,.,,,
+2011,fully disaggregated,10 - reduced inequalities,.,,,
+2012,fully disaggregated,10 - reduced inequalities,.,,,
+2013,fully disaggregated,10 - reduced inequalities,.,,,
+2014,fully disaggregated,10 - reduced inequalities,.,,,
+2015,fully disaggregated,10 - reduced inequalities,.,,,
+2016,fully disaggregated,10 - reduced inequalities,,,,62.8
+2017,fully disaggregated,10 - reduced inequalities,.,,,
+2018,fully disaggregated,10 - reduced inequalities,,,,65.7
+2019,fully disaggregated,10 - reduced inequalities,…,,,
+2020,fully disaggregated,10 - reduced inequalities,…,,,
+2021,fully disaggregated,10 - reduced inequalities,…,,,
+2022,fully disaggregated,10 - reduced inequalities,,,,
+2023,fully disaggregated,10 - reduced inequalities,,,,
+2024,fully disaggregated,10 - reduced inequalities,,,,
+2010,partially disaggregated,10 - reduced inequalities,.,,,
+2011,partially disaggregated,10 - reduced inequalities,.,,,
+2012,partially disaggregated,10 - reduced inequalities,.,,,
+2013,partially disaggregated,10 - reduced inequalities,.,,,
+2014,partially disaggregated,10 - reduced inequalities,.,,,
+2015,partially disaggregated,10 - reduced inequalities,.,,,
+2016,partially disaggregated,10 - reduced inequalities,,,,82.7
+2017,partially disaggregated,10 - reduced inequalities,.,,,
+2018,partially disaggregated,10 - reduced inequalities,,,,92.4
+2019,partially disaggregated,10 - reduced inequalities,…,,,
+2020,partially disaggregated,10 - reduced inequalities,…,,,
+2021,partially disaggregated,10 - reduced inequalities,…,,,
+2022,partially disaggregated,10 - reduced inequalities,…,,,
+2023,partially disaggregated,10 - reduced inequalities,…,,,
+2024,partially disaggregated,10 - reduced inequalities,…,,,
+2010,not disaggregated,10 - reduced inequalities,.,,,
+2011,not disaggregated,10 - reduced inequalities,.,,,
+2012,not disaggregated,10 - reduced inequalities,.,,,
+2013,not disaggregated,10 - reduced inequalities,.,,,
+2014,not disaggregated,10 - reduced inequalities,.,,,
+2015,not disaggregated,10 - reduced inequalities,.,,,
+2016,not disaggregated,10 - reduced inequalities,,,,54.7
+2017,not disaggregated,10 - reduced inequalities,.,,,
+2018,not disaggregated,10 - reduced inequalities,,,,64.3
+2019,not disaggregated,10 - reduced inequalities,…,,,
+2020,not disaggregated,10 - reduced inequalities,…,,,
+2021,not disaggregated,10 - reduced inequalities,…,,,
+2022,not disaggregated,10 - reduced inequalities,…,,,
+2023,not disaggregated,10 - reduced inequalities,…,,,
+2024,not disaggregated,10 - reduced inequalities,…,,,
+2010,fully disaggregated,11 - sustainable cities and communities,.,,,
+2011,fully disaggregated,11 - sustainable cities and communities,.,,,
+2012,fully disaggregated,11 - sustainable cities and communities,.,,,
+2013,fully disaggregated,11 - sustainable cities and communities,.,,,
+2014,fully disaggregated,11 - sustainable cities and communities,.,,,
+2015,fully disaggregated,11 - sustainable cities and communities,.,,,
+2016,fully disaggregated,11 - sustainable cities and communities,,,,50.9
+2017,fully disaggregated,11 - sustainable cities and communities,.,,,
+2018,fully disaggregated,11 - sustainable cities and communities,,,,40.4
+2019,fully disaggregated,11 - sustainable cities and communities,…,,,
+2020,fully disaggregated,11 - sustainable cities and communities,…,,,
+2021,fully disaggregated,11 - sustainable cities and communities,…,,,
+2022,fully disaggregated,11 - sustainable cities and communities,…,,,
+2023,fully disaggregated,11 - sustainable cities and communities,…,,,
+2024,fully disaggregated,11 - sustainable cities and communities,…,,,
+2010,partially disaggregated,11 - sustainable cities and communities,,,,
+2011,partially disaggregated,11 - sustainable cities and communities,,,,
+2012,partially disaggregated,11 - sustainable cities and communities,,,,
+2013,partially disaggregated,11 - sustainable cities and communities,,,,
+2014,partially disaggregated,11 - sustainable cities and communities,,,,
+2015,partially disaggregated,11 - sustainable cities and communities,,,,
+2016,partially disaggregated,11 - sustainable cities and communities,,,,
+2017,partially disaggregated,11 - sustainable cities and communities,,,,
+2018,partially disaggregated,11 - sustainable cities and communities,,,,1.0
+2019,partially disaggregated,11 - sustainable cities and communities,,,,
+2020,partially disaggregated,11 - sustainable cities and communities,,,,
+2021,partially disaggregated,11 - sustainable cities and communities,,,,
+2022,partially disaggregated,11 - sustainable cities and communities,,,,
+2023,partially disaggregated,11 - sustainable cities and communities,,,,
+2024,partially disaggregated,11 - sustainable cities and communities,,,,
+2010,not disaggregated,11 - sustainable cities and communities,‒,,,0.0
+2011,not disaggregated,11 - sustainable cities and communities,‒,,,0.0
+2012,not disaggregated,11 - sustainable cities and communities,‒,,,0.0
+2013,not disaggregated,11 - sustainable cities and communities,‒,,,0.0
+2014,not disaggregated,11 - sustainable cities and communities,‒,,,0.0
+2015,not disaggregated,11 - sustainable cities and communities,‒,,,0.0
+2016,not disaggregated,11 - sustainable cities and communities,,,,9.0
+2017,not disaggregated,11 - sustainable cities and communities,‒,,,0.0
+2018,not disaggregated,11 - sustainable cities and communities,‒,,,0.0
+2019,not disaggregated,11 - sustainable cities and communities,,,,3.3
+2020,not disaggregated,11 - sustainable cities and communities,,,,26.5
+2021,not disaggregated,11 - sustainable cities and communities,r,,,25.0
+2022,not disaggregated,11 - sustainable cities and communities,,,,30.0
+2023,not disaggregated,11 - sustainable cities and communities,,,,
+2024,not disaggregated,11 - sustainable cities and communities,,,,
+2010,fully disaggregated,12 - responsible consumption and production,‒,,,0.0
+2011,fully disaggregated,12 - responsible consumption and production,‒,,,0.0
+2012,fully disaggregated,12 - responsible consumption and production,‒,,,0.0
+2013,fully disaggregated,12 - responsible consumption and production,‒,,,0.0
+2014,fully disaggregated,12 - responsible consumption and production,‒,,,0.0
+2015,fully disaggregated,12 - responsible consumption and production,‒,,,0.0
+2016,fully disaggregated,12 - responsible consumption and production,,,,11.06
+2017,fully disaggregated,12 - responsible consumption and production,‒,,,0.0
+2018,fully disaggregated,12 - responsible consumption and production,‒,,,0.0
+2019,fully disaggregated,12 - responsible consumption and production,,,,3.83
+2020,fully disaggregated,12 - responsible consumption and production,,,,30.22
+2021,fully disaggregated,12 - responsible consumption and production,,,,27.68
+2022,fully disaggregated,12 - responsible consumption and production,,,,31.55
+2023,fully disaggregated,12 - responsible consumption and production,,,,
+2024,fully disaggregated,12 - responsible consumption and production,,,,
+2010,partially disaggregated,12 - responsible consumption and production,‒,,,0.0
+2011,partially disaggregated,12 - responsible consumption and production,‒,,,0.0
+2012,partially disaggregated,12 - responsible consumption and production,‒,,,0.0
+2013,partially disaggregated,12 - responsible consumption and production,‒,,,0.0
+2014,partially disaggregated,12 - responsible consumption and production,‒,,,0.0
+2015,partially disaggregated,12 - responsible consumption and production,‒,,,0.0
+2016,partially disaggregated,12 - responsible consumption and production,,,,9.0
+2017,partially disaggregated,12 - responsible consumption and production,‒,,,0.0
+2018,partially disaggregated,12 - responsible consumption and production,‒,,,0.0
+2019,partially disaggregated,12 - responsible consumption and production,,,,0.03
+2020,partially disaggregated,12 - responsible consumption and production,,,,24.75
+2021,partially disaggregated,12 - responsible consumption and production,r,,,25.46
+2022,partially disaggregated,12 - responsible consumption and production,,,,30.24
+2023,partially disaggregated,12 - responsible consumption and production,,,,
+2024,partially disaggregated,12 - responsible consumption and production,,,,
+2010,not disaggregated,12 - responsible consumption and production,‒,,,0.0
+2011,not disaggregated,12 - responsible consumption and production,‒,,,0.0
+2012,not disaggregated,12 - responsible consumption and production,‒,,,0.0
+2013,not disaggregated,12 - responsible consumption and production,‒,,,0.0
+2014,not disaggregated,12 - responsible consumption and production,‒,,,0.0
+2015,not disaggregated,12 - responsible consumption and production,‒,,,0.0
+2016,not disaggregated,12 - responsible consumption and production,,,,11.06
+2017,not disaggregated,12 - responsible consumption and production,‒,,,0.0
+2018,not disaggregated,12 - responsible consumption and production,‒,,,0.0
+2019,not disaggregated,12 - responsible consumption and production,,,,0.03
+2020,not disaggregated,12 - responsible consumption and production,,,,28.23
+2021,not disaggregated,12 - responsible consumption and production,,,,28.19
+2022,not disaggregated,12 - responsible consumption and production,,,,31.8
+2023,not disaggregated,12 - responsible consumption and production,…,,,
+2024,not disaggregated,12 - responsible consumption and production,…,,,
+2010,fully disaggregated,15 - life on land,.,,,
+2011,fully disaggregated,15 - life on land,.,,,
+2012,fully disaggregated,15 - life on land,.,,,
+2013,fully disaggregated,15 - life on land,.,,,
+2014,fully disaggregated,15 - life on land,.,,,
+2015,fully disaggregated,15 - life on land,.,,,
+2016,fully disaggregated,15 - life on land,.,,,
+2017,fully disaggregated,15 - life on land,.,,,
+2018,fully disaggregated,15 - life on land,.,,,
+2019,fully disaggregated,15 - life on land,.,,,
+2020,fully disaggregated,15 - life on land,.,,,
+2021,fully disaggregated,15 - life on land,.,,,
+2022,fully disaggregated,15 - life on land,.,,,
 2023,fully disaggregated,15 - life on land,.,,,
-2024,fully disaggregated,15 - life on land,-,,,0.0
-2025,fully disaggregated,15 - life on land,,,,
+2024,fully disaggregated,15 - life on land,,,,23.0
+2010,partially disaggregated,15 - life on land,.,,,
+2011,partially disaggregated,15 - life on land,.,,,
+2012,partially disaggregated,15 - life on land,.,,,
+2013,partially disaggregated,15 - life on land,.,,,
+2014,partially disaggregated,15 - life on land,.,,,
+2015,partially disaggregated,15 - life on land,.,,,
+2016,partially disaggregated,15 - life on land,.,,,
+2017,partially disaggregated,15 - life on land,.,,,
+2018,partially disaggregated,15 - life on land,.,,,
+2019,partially disaggregated,15 - life on land,.,,,
+2020,partially disaggregated,15 - life on land,.,,,
+2021,partially disaggregated,15 - life on land,.,,,
+2022,partially disaggregated,15 - life on land,.,,,
 2023,partially disaggregated,15 - life on land,.,,,
-2024,partially disaggregated,15 - life on land,-,,,0.0
-2025,partially disaggregated,15 - life on land,,,,
+2024,partially disaggregated,15 - life on land,,,,23.0
+2010,not disaggregated,15 - life on land,.,,,
+2011,not disaggregated,15 - life on land,.,,,
+2012,not disaggregated,15 - life on land,.,,,
+2013,not disaggregated,15 - life on land,.,,,
+2014,not disaggregated,15 - life on land,.,,,
+2015,not disaggregated,15 - life on land,.,,,
+2016,not disaggregated,15 - life on land,.,,,
+2017,not disaggregated,15 - life on land,.,,,
+2018,not disaggregated,15 - life on land,.,,,
+2019,not disaggregated,15 - life on land,.,,,
+2020,not disaggregated,15 - life on land,.,,,
+2021,not disaggregated,15 - life on land,.,,,
+2022,not disaggregated,15 - life on land,.,,,
 2023,not disaggregated,15 - life on land,.,,,
-2024,not disaggregated,15 - life on land,,,,100.0
-2025,not disaggregated,15 - life on land,,,,
+2024,not disaggregated,15 - life on land,,,,54.0
+2010,fully disaggregated,16 - peace and justice,.,,,
+2011,fully disaggregated,16 - peace and justice,.,,,
+2012,fully disaggregated,16 - peace and justice,.,,,
+2013,fully disaggregated,16 - peace and justice,.,,,
+2014,fully disaggregated,16 - peace and justice,.,,,
+2015,fully disaggregated,16 - peace and justice,.,,,
+2016,fully disaggregated,16 - peace and justice,.,,,
+2017,fully disaggregated,16 - peace and justice,.,,,
+2018,fully disaggregated,16 - peace and justice,.,,,
+2019,fully disaggregated,16 - peace and justice,.,,,
+2020,fully disaggregated,16 - peace and justice,.,,,
+2021,fully disaggregated,16 - peace and justice,.,,,
+2022,fully disaggregated,16 - peace and justice,.,,,
 2023,fully disaggregated,16 - peace and justice,.,,,
-2024,fully disaggregated,16 - peace and justice,,,,25.0
-2025,fully disaggregated,16 - peace and justice,,,,
+2024,fully disaggregated,16 - peace and justice,-,,,0.0
+2010,partially disaggregated,16 - peace and justice,.,,,
+2011,partially disaggregated,16 - peace and justice,.,,,
+2012,partially disaggregated,16 - peace and justice,.,,,
+2013,partially disaggregated,16 - peace and justice,.,,,
+2014,partially disaggregated,16 - peace and justice,.,,,
+2015,partially disaggregated,16 - peace and justice,.,,,
+2016,partially disaggregated,16 - peace and justice,.,,,
+2017,partially disaggregated,16 - peace and justice,.,,,
+2018,partially disaggregated,16 - peace and justice,.,,,
+2019,partially disaggregated,16 - peace and justice,.,,,
+2020,partially disaggregated,16 - peace and justice,.,,,
+2021,partially disaggregated,16 - peace and justice,.,,,
+2022,partially disaggregated,16 - peace and justice,.,,,
 2023,partially disaggregated,16 - peace and justice,.,,,
 2024,partially disaggregated,16 - peace and justice,,,,25.0
-2025,partially disaggregated,16 - peace and justice,,,,
+2010,not disaggregated,16 - peace and justice,.,,,
+2011,not disaggregated,16 - peace and justice,.,,,
+2012,not disaggregated,16 - peace and justice,.,,,
+2013,not disaggregated,16 - peace and justice,.,,,
+2014,not disaggregated,16 - peace and justice,.,,,
+2015,not disaggregated,16 - peace and justice,.,,,
+2016,not disaggregated,16 - peace and justice,.,,,
+2017,not disaggregated,16 - peace and justice,.,,,
+2018,not disaggregated,16 - peace and justice,.,,,
+2019,not disaggregated,16 - peace and justice,.,,,
+2020,not disaggregated,16 - peace and justice,.,,,
+2021,not disaggregated,16 - peace and justice,.,,,
+2022,not disaggregated,16 - peace and justice,.,,,
 2023,not disaggregated,16 - peace and justice,.,,,
-2024,not disaggregated,16 - peace and justice,,,,50.0
-2025,not disaggregated,16 - peace and justice,,,,
+2024,not disaggregated,16 - peace and justice,,,,75.0
+2010,fully disaggregated,17 - partnerships for the goals,.,,,
+2011,fully disaggregated,17 - partnerships for the goals,.,,,
+2012,fully disaggregated,17 - partnerships for the goals,.,,,
+2013,fully disaggregated,17 - partnerships for the goals,.,,,
+2014,fully disaggregated,17 - partnerships for the goals,.,,,
+2015,fully disaggregated,17 - partnerships for the goals,.,,,
+2016,fully disaggregated,17 - partnerships for the goals,.,,,
+2017,fully disaggregated,17 - partnerships for the goals,.,,,
+2018,fully disaggregated,17 - partnerships for the goals,.,,,
+2019,fully disaggregated,17 - partnerships for the goals,.,,,
+2020,fully disaggregated,17 - partnerships for the goals,.,,,
+2021,fully disaggregated,17 - partnerships for the goals,.,,,
+2022,fully disaggregated,17 - partnerships for the goals,.,,,
 2023,fully disaggregated,17 - partnerships for the goals,.,,,
-2024,fully disaggregated,17 - partnerships for the goals,,,,50.0
-2025,fully disaggregated,17 - partnerships for the goals,,,,
+2024,fully disaggregated,17 - partnerships for the goals,,,,25.0
+2010,partially disaggregated,17 - partnerships for the goals,.,,,
+2011,partially disaggregated,17 - partnerships for the goals,.,,,
+2012,partially disaggregated,17 - partnerships for the goals,.,,,
+2013,partially disaggregated,17 - partnerships for the goals,.,,,
+2014,partially disaggregated,17 - partnerships for the goals,.,,,
+2015,partially disaggregated,17 - partnerships for the goals,.,,,
+2016,partially disaggregated,17 - partnerships for the goals,.,,,
+2017,partially disaggregated,17 - partnerships for the goals,.,,,
+2018,partially disaggregated,17 - partnerships for the goals,.,,,
+2019,partially disaggregated,17 - partnerships for the goals,.,,,
+2020,partially disaggregated,17 - partnerships for the goals,.,,,
+2021,partially disaggregated,17 - partnerships for the goals,.,,,
+2022,partially disaggregated,17 - partnerships for the goals,.,,,
 2023,partially disaggregated,17 - partnerships for the goals,.,,,
 2024,partially disaggregated,17 - partnerships for the goals,-,,,0.0
-2025,partially disaggregated,17 - partnerships for the goals,,,,
+2010,not disaggregated,17 - partnerships for the goals,.,,,
+2011,not disaggregated,17 - partnerships for the goals,.,,,
+2012,not disaggregated,17 - partnerships for the goals,.,,,
+2013,not disaggregated,17 - partnerships for the goals,.,,,
+2014,not disaggregated,17 - partnerships for the goals,.,,,
+2015,not disaggregated,17 - partnerships for the goals,.,,,
+2016,not disaggregated,17 - partnerships for the goals,.,,,
+2017,not disaggregated,17 - partnerships for the goals,.,,,
+2018,not disaggregated,17 - partnerships for the goals,.,,,
+2019,not disaggregated,17 - partnerships for the goals,.,,,
+2020,not disaggregated,17 - partnerships for the goals,.,,,
+2021,not disaggregated,17 - partnerships for the goals,.,,,
+2022,not disaggregated,17 - partnerships for the goals,.,,,
 2023,not disaggregated,17 - partnerships for the goals,.,,,
-2024,not disaggregated,17 - partnerships for the goals,,,,50.0
-2025,not disaggregated,17 - partnerships for the goals,,,,
+2024,not disaggregated,17 - partnerships for the goals,,,,75.0

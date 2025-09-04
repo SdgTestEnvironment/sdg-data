@@ -1,57 +1,61 @@
 Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Million EUR,Gross disbursements (ODA and OOF),,,,2626.5
-2011,Million EUR,Gross disbursements (ODA and OOF),,,,2524.3
-2012,Million EUR,Gross disbursements (ODA and OOF),,,,2254.5
-2013,Million EUR,Gross disbursements (ODA and OOF),,,,2648.3
-2014,Million EUR,Gross disbursements (ODA and OOF),,,,3458.8
-2015,Million EUR,Gross disbursements (ODA and OOF),,,,4346.0
-2016,Million EUR,Gross disbursements (ODA and OOF),,,,3736.1
-2017,Million EUR,Gross disbursements (ODA and OOF),,,,3736.6
-2018,Million EUR,Gross disbursements (ODA and OOF),,,,3850.8
-2019,Million EUR,Gross disbursements (ODA and OOF),,,,4099.2
-2020,Million EUR,Gross disbursements (ODA and OOF),,,,4230.2
-2021,Million EUR,Gross disbursements (ODA and OOF),,,,4040.7
-2022,Million EUR,Gross disbursements (ODA and OOF),,,,4862.6
-2023,Million EUR,Gross disbursements (ODA and OOF),,,,4012.5
-2010,Million EUR,Gross disbursements (ODA),,,,1927.2
-2011,Million EUR,Gross disbursements (ODA),,,,1808.9
-2012,Million EUR,Gross disbursements (ODA),,,,1488.2
-2013,Million EUR,Gross disbursements (ODA),,,,2046.5
-2014,Million EUR,Gross disbursements (ODA),,,,2918.9
-2015,Million EUR,Gross disbursements (ODA),,,,3768.4
-2016,Million EUR,Gross disbursements (ODA),,,,3304.0
-2017,Million EUR,Gross disbursements (ODA),,,,3048.7
-2018,Million EUR,Gross disbursements (ODA),,,,3016.5
-2019,Million EUR,Gross disbursements (ODA),,,,3309.2
-2020,Million EUR,Gross disbursements (ODA),,,,3632.4
-2021,Million EUR,Gross disbursements (ODA),,,,3403.5
-2022,Million EUR,Gross disbursements (ODA),,,,4217.9
-2023,Million EUR,Gross disbursements (ODA),,,,3936.8
-2010,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,3876.5
-2011,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,3680.6
-2012,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,3240.5
-2013,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,3732.2
-2014,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,4783.7
-2015,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,5911.3
-2016,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,5018.2
-2017,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,4946.1
-2018,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,5004.0
-2019,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,5221.9
-2020,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,5295.6
-2021,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,4920.6
-2022,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,5580.9
-2023,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,4338.8
-2010,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,2844.5
-2011,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,2637.4
-2012,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,2139.0
-2013,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,2884.1
-2014,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,4036.9
-2015,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,5125.6
-2016,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,4437.9
-2017,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,4035.6
-2018,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,3919.8
-2019,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,4215.5
-2020,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,4547.2
-2021,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,4144.6
-2022,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,4841.1
-2023,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,4256.9
+2010,Million EUR,Gross disbursements (ODA and OOF),,,,62278.0
+2011,Million EUR,Gross disbursements (ODA and OOF),,,,55027.0
+2012,Million EUR,Gross disbursements (ODA and OOF),,,,58488.0
+2013,Million EUR,Gross disbursements (ODA and OOF),,,,60070.0
+2014,Million EUR,Gross disbursements (ODA and OOF),,,,59093.0
+2015,Million EUR,Gross disbursements (ODA and OOF),,,,55315.0
+2016,Million EUR,Gross disbursements (ODA and OOF),,,,54347.0
+2017,Million EUR,Gross disbursements (ODA and OOF),,,,55518.0
+2018,Million EUR,Gross disbursements (ODA and OOF),,,,46901.0
+2019,Million EUR,Gross disbursements (ODA and OOF),r,,,50919.0
+2020,Million EUR,Gross disbursements (ODA and OOF),,,,46338.0
+2021,Million EUR,Gross disbursements (ODA and OOF),,,,48182.0
+2022,Million EUR,Gross disbursements (ODA and OOF),,,,44117.0
+2023,Million EUR,Gross disbursements (ODA and OOF),,,,41507.0
+2024,Million EUR,Gross disbursements (ODA and OOF),…,,,
+2010,Million EUR,Gross disbursements (ODA),,,,1428.0
+2011,Million EUR,Gross disbursements (ODA),,,,1480.0
+2012,Million EUR,Gross disbursements (ODA),,,,1421.0
+2013,Million EUR,Gross disbursements (ODA),,,,1410.0
+2014,Million EUR,Gross disbursements (ODA),,,,1441.0
+2015,Million EUR,Gross disbursements (ODA),,,,1447.0
+2016,Million EUR,Gross disbursements (ODA),,,,1519.0
+2017,Million EUR,Gross disbursements (ODA),,,,1617.0
+2018,Million EUR,Gross disbursements (ODA),,,,1637.0
+2019,Million EUR,Gross disbursements (ODA),,,,1587.0
+2020,Million EUR,Gross disbursements (ODA),,,,1546.0
+2021,Million EUR,Gross disbursements (ODA),,,,1790.0
+2022,Million EUR,Gross disbursements (ODA),,,,1635.0
+2023,Million EUR,Gross disbursements (ODA),,,,1516.0
+2024,Million EUR,Gross disbursements (ODA),…,,,
+2010,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,16259.0
+2011,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,15623.0
+2012,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,16207.0
+2013,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,18180.0
+2014,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,17541.0
+2015,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,17714.0
+2016,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,18761.0
+2017,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,18239.0
+2018,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,17234.0
+2019,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,17649.0
+2020,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,16686.0
+2021,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,15738.0
+2022,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,17723.0
+2023,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),,,,17317.0
+2024,"Million USD, constant prices (2023)",Gross disbursements (ODA and OOF),…,,,
+2010,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,19.4
+2011,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,20.1
+2012,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,20.1
+2013,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,19.8
+2014,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,20.1
+2015,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,20.2
+2016,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,20.4
+2017,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,20.2
+2018,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,19.9
+2019,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,19.4
+2020,"Million USD, constant prices (2023)",Gross disbursements (ODA),,,,18.6
+2021,"Million USD, constant prices (2023)",Gross disbursements (ODA),p,,,18.7
+2022,"Million USD, constant prices (2023)",Gross disbursements (ODA),p,,,18.3
+2023,"Million USD, constant prices (2023)",Gross disbursements (ODA),p,,,18.5
+2024,"Million USD, constant prices (2023)",Gross disbursements (ODA),p,,,17.8

@@ -1,127 +1,631 @@
 Year,Vollständigkeit der Disaggregation,Ziel,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2023,Vollständig disaggregiert,,.,,,
-2024,Vollständig disaggregiert,,,,,23.0
-2025,Vollständig disaggregiert,,,,,
-2023,Teilweise disaggregiert,,.,,,
-2024,Teilweise disaggregiert,,,,,23.0
-2025,Teilweise disaggregiert,,,,,
-2023,Nicht disaggregiert,,.,,,
-2024,Nicht disaggregiert,,,,,54.0
-2025,Nicht disaggregiert,,,,,
-2023,Vollständig disaggregiert,1 - Keine Armut,.,,,
-2024,Vollständig disaggregiert,1 - Keine Armut,-,,,0.0
-2025,Vollständig disaggregiert,1 - Keine Armut,,,,
-2023,Teilweise disaggregiert,1 - Keine Armut,.,,,
-2024,Teilweise disaggregiert,1 - Keine Armut,,,,25.0
-2025,Teilweise disaggregiert,1 - Keine Armut,,,,
-2023,Nicht disaggregiert,1 - Keine Armut,.,,,
-2024,Nicht disaggregiert,1 - Keine Armut,,,,75.0
-2025,Nicht disaggregiert,1 - Keine Armut,,,,
-2023,Vollständig disaggregiert,2 - Kein Hunger,.,,,
-2024,Vollständig disaggregiert,2 - Kein Hunger,,,,25.0
-2025,Vollständig disaggregiert,2 - Kein Hunger,,,,
-2023,Teilweise disaggregiert,2 - Kein Hunger,.,,,
-2024,Teilweise disaggregiert,2 - Kein Hunger,-,,,0.0
-2025,Teilweise disaggregiert,2 - Kein Hunger,,,,
-2023,Nicht disaggregiert,2 - Kein Hunger,.,,,
-2024,Nicht disaggregiert,2 - Kein Hunger,,,,75.0
-2025,Nicht disaggregiert,2 - Kein Hunger,,,,
-2023,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,.,,,
-2024,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,-,,,0.0
-2025,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,
-2023,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,.,,,
-2024,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,100.0
-2025,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,
-2023,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,.,,,
-2024,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,-,,,0.0
-2025,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,,,,
-2023,Vollständig disaggregiert,4 - Hochwertige Bildung,.,,,
-2024,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,33.0
-2025,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,
-2023,Teilweise disaggregiert,4 - Hochwertige Bildung,.,,,
-2024,Teilweise disaggregiert,4 - Hochwertige Bildung,-,,,0.0
-2025,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,
-2023,Nicht disaggregiert,4 - Hochwertige Bildung,.,,,
-2024,Nicht disaggregiert,4 - Hochwertige Bildung,,,,67.0
-2025,Nicht disaggregiert,4 - Hochwertige Bildung,,,,
-2023,Vollständig disaggregiert,5 - Geschlechtergleichheit,.,,,
-2024,Vollständig disaggregiert,5 - Geschlechtergleichheit,-,,,0.0
-2025,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,
-2023,Teilweise disaggregiert,5 - Geschlechtergleichheit,.,,,
-2024,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,17.0
-2025,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,
-2023,Nicht disaggregiert,5 - Geschlechtergleichheit,.,,,
-2024,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,83.0
-2025,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,
-2023,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,.,,,
-2024,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,17.0
-2025,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,
-2023,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,.,,,
-2024,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,50.0
-2025,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,
-2023,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,.,,,
-2024,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,33.0
-2025,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,
-2023,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",.,,,
-2024,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,100.0
-2025,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
-2023,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",.,,,
-2024,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",-,,,0.0
-2025,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
-2023,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",.,,,
-2024,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",-,,,0.0
-2025,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
-2023,Vollständig disaggregiert,10 - Weniger Ungleichheiten,.,,,
-2024,Vollständig disaggregiert,10 - Weniger Ungleichheiten,,,,33.0
-2025,Vollständig disaggregiert,10 - Weniger Ungleichheiten,,,,
-2023,Teilweise disaggregiert,10 - Weniger Ungleichheiten,.,,,
-2024,Teilweise disaggregiert,10 - Weniger Ungleichheiten,,,,67.0
-2025,Teilweise disaggregiert,10 - Weniger Ungleichheiten,,,,
-2023,Nicht disaggregiert,10 - Weniger Ungleichheiten,.,,,
-2024,Nicht disaggregiert,10 - Weniger Ungleichheiten,-,,,0.0
-2025,Nicht disaggregiert,10 - Weniger Ungleichheiten,,,,
-2023,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,.,,,
-2024,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,-,,,0.0
-2025,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
-2023,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,.,,,
-2024,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,40.0
-2025,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
-2023,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,.,,,
-2024,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,60.0
-2025,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
-2023,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,.,,,
-2024,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,100.0
-2025,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,
-2023,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,.,,,
-2024,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,-,,,0.0
-2025,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,
-2023,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,.,,,
-2024,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,-,,,0.0
-2025,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,
+2010,Vollständig disaggregiert,,,,,80.0
+2011,Vollständig disaggregiert,,,,,81.0
+2012,Vollständig disaggregiert,,,,,82.0
+2013,Vollständig disaggregiert,,,,,84.0
+2014,Vollständig disaggregiert,,,,,86.0
+2015,Vollständig disaggregiert,,,,,88.0
+2016,Vollständig disaggregiert,,,,,90.0
+2017,Vollständig disaggregiert,,,,,90.0
+2018,Vollständig disaggregiert,,,,,92.0
+2019,Vollständig disaggregiert,,,,,93.0
+2020,Vollständig disaggregiert,,,,,94.0
+2021,Vollständig disaggregiert,,|,,,91.0
+2022,Vollständig disaggregiert,,,,,92.0
+2023,Vollständig disaggregiert,,,,,92.0
+2024,Vollständig disaggregiert,,,,,94.0
+2010,Teilweise disaggregiert,,,,,76.0
+2011,Teilweise disaggregiert,,,,,78.0
+2012,Teilweise disaggregiert,,,,,79.0
+2013,Teilweise disaggregiert,,,,,81.0
+2014,Teilweise disaggregiert,,,,,84.0
+2015,Teilweise disaggregiert,,,,,85.0
+2016,Teilweise disaggregiert,,,,,88.0
+2017,Teilweise disaggregiert,,,,,89.0
+2018,Teilweise disaggregiert,,,,,91.0
+2019,Teilweise disaggregiert,,,,,92.0
+2020,Teilweise disaggregiert,,,,,93.0
+2021,Teilweise disaggregiert,,|,,,91.0
+2022,Teilweise disaggregiert,,,,,90.0
+2023,Teilweise disaggregiert,,,,,91.0
+2024,Teilweise disaggregiert,,,,,93.0
+2010,Nicht disaggregiert,,,,,84.0
+2011,Nicht disaggregiert,,,,,84.0
+2012,Nicht disaggregiert,,,,,85.0
+2013,Nicht disaggregiert,,,,,87.0
+2014,Nicht disaggregiert,,,,,89.0
+2015,Nicht disaggregiert,,,,,90.0
+2016,Nicht disaggregiert,,,,,91.0
+2017,Nicht disaggregiert,,,,,92.0
+2018,Nicht disaggregiert,,,,,94.0
+2019,Nicht disaggregiert,,,,,94.0
+2020,Nicht disaggregiert,,,,,95.0
+2021,Nicht disaggregiert,,|,,,92.0
+2022,Nicht disaggregiert,,,,,93.0
+2023,Nicht disaggregiert,,,,,93.0
+2024,Nicht disaggregiert,,,,,94.0
+2010,Vollständig disaggregiert,1 - Keine Armut,,,,98.0
+2011,Vollständig disaggregiert,1 - Keine Armut,,,,99.0
+2012,Vollständig disaggregiert,1 - Keine Armut,,,,98.0
+2013,Vollständig disaggregiert,1 - Keine Armut,,,,98.0
+2014,Vollständig disaggregiert,1 - Keine Armut,,,,99.0
+2015,Vollständig disaggregiert,1 - Keine Armut,,,,99.0
+2016,Vollständig disaggregiert,1 - Keine Armut,,,,99.0
+2017,Vollständig disaggregiert,1 - Keine Armut,,,,99.0
+2018,Vollständig disaggregiert,1 - Keine Armut,,,,99.0
+2019,Vollständig disaggregiert,1 - Keine Armut,,,,99.0
+2020,Vollständig disaggregiert,1 - Keine Armut,,,,99.0
+2021,Vollständig disaggregiert,1 - Keine Armut,|,,,98.0
+2022,Vollständig disaggregiert,1 - Keine Armut,,,,96.0
+2023,Vollständig disaggregiert,1 - Keine Armut,,,,97.0
+2024,Vollständig disaggregiert,1 - Keine Armut,,,,97.0
+2010,Teilweise disaggregiert,1 - Keine Armut,,,,85.0
+2011,Teilweise disaggregiert,1 - Keine Armut,,,,87.0
+2012,Teilweise disaggregiert,1 - Keine Armut,,,,88.0
+2013,Teilweise disaggregiert,1 - Keine Armut,,,,89.0
+2014,Teilweise disaggregiert,1 - Keine Armut,,,,91.0
+2015,Teilweise disaggregiert,1 - Keine Armut,,,,92.0
+2016,Teilweise disaggregiert,1 - Keine Armut,,,,93.0
+2017,Teilweise disaggregiert,1 - Keine Armut,,,,93.0
+2018,Teilweise disaggregiert,1 - Keine Armut,,,,95.0
+2019,Teilweise disaggregiert,1 - Keine Armut,,,,96.0
+2020,Teilweise disaggregiert,1 - Keine Armut,,,,97.0
+2021,Teilweise disaggregiert,1 - Keine Armut,|,,,94.0
+2022,Teilweise disaggregiert,1 - Keine Armut,,,,94.0
+2023,Teilweise disaggregiert,1 - Keine Armut,,,,95.0
+2024,Teilweise disaggregiert,1 - Keine Armut,,,,95.0
+2010,Nicht disaggregiert,1 - Keine Armut,,,,41.0
+2011,Nicht disaggregiert,1 - Keine Armut,,,,41.0
+2012,Nicht disaggregiert,1 - Keine Armut,,,,43.0
+2013,Nicht disaggregiert,1 - Keine Armut,,,,50.0
+2014,Nicht disaggregiert,1 - Keine Armut,,,,53.0
+2015,Nicht disaggregiert,1 - Keine Armut,,,,56.0
+2016,Nicht disaggregiert,1 - Keine Armut,,,,62.0
+2017,Nicht disaggregiert,1 - Keine Armut,,,,64.0
+2018,Nicht disaggregiert,1 - Keine Armut,,,,71.0
+2019,Nicht disaggregiert,1 - Keine Armut,,,,72.0
+2020,Nicht disaggregiert,1 - Keine Armut,,,,76.0
+2021,Nicht disaggregiert,1 - Keine Armut,|,,,74.0
+2022,Nicht disaggregiert,1 - Keine Armut,,,,77.0
+2023,Nicht disaggregiert,1 - Keine Armut,,,,79.0
+2024,Nicht disaggregiert,1 - Keine Armut,,,,83.0
+2010,Vollständig disaggregiert,2 - Kein Hunger,,,,916.0
+2011,Vollständig disaggregiert,2 - Kein Hunger,,,,809.2
+2012,Vollständig disaggregiert,2 - Kein Hunger,,,,740.5
+2013,Vollständig disaggregiert,2 - Kein Hunger,,,,835.9
+2014,Vollständig disaggregiert,2 - Kein Hunger,,,,1115.5
+2015,Vollständig disaggregiert,2 - Kein Hunger,,,,1578.0
+2016,Vollständig disaggregiert,2 - Kein Hunger,,,,1278.4
+2017,Vollständig disaggregiert,2 - Kein Hunger,,,,2141.1
+2018,Vollständig disaggregiert,2 - Kein Hunger,,,,2107.3
+2019,Vollständig disaggregiert,2 - Kein Hunger,,,,2029.1
+2020,Vollständig disaggregiert,2 - Kein Hunger,,,,3225.6
+2021,Vollständig disaggregiert,2 - Kein Hunger,,,,2941.9
+2022,Vollständig disaggregiert,2 - Kein Hunger,,,,2972.9
+2023,Vollständig disaggregiert,2 - Kein Hunger,,,,3486.6
+2024,Vollständig disaggregiert,2 - Kein Hunger,…,,,
+2010,Teilweise disaggregiert,2 - Kein Hunger,,,,675.0
+2011,Teilweise disaggregiert,2 - Kein Hunger,,,,703.8
+2012,Teilweise disaggregiert,2 - Kein Hunger,,,,743.5
+2013,Teilweise disaggregiert,2 - Kein Hunger,,,,819.9
+2014,Teilweise disaggregiert,2 - Kein Hunger,,,,929.0
+2015,Teilweise disaggregiert,2 - Kein Hunger,,,,1302.0
+2016,Teilweise disaggregiert,2 - Kein Hunger,,,,1210.4
+2017,Teilweise disaggregiert,2 - Kein Hunger,,,,1536.8
+2018,Teilweise disaggregiert,2 - Kein Hunger,,,,2150.9
+2019,Teilweise disaggregiert,2 - Kein Hunger,,,,1727.2
+2020,Teilweise disaggregiert,2 - Kein Hunger,,,,2395.3
+2021,Teilweise disaggregiert,2 - Kein Hunger,,,,2415.8
+2022,Teilweise disaggregiert,2 - Kein Hunger,,,,2801.3
+2023,Teilweise disaggregiert,2 - Kein Hunger,,,,2322.6
+2024,Teilweise disaggregiert,2 - Kein Hunger,…,,,
+2010,Nicht disaggregiert,2 - Kein Hunger,,,,1351.9
+2011,Nicht disaggregiert,2 - Kein Hunger,,,,1179.9
+2012,Nicht disaggregiert,2 - Kein Hunger,,,,1064.4
+2013,Nicht disaggregiert,2 - Kein Hunger,,,,1178.1
+2014,Nicht disaggregiert,2 - Kein Hunger,,,,1542.7
+2015,Nicht disaggregiert,2 - Kein Hunger,,,,2146.4
+2016,Nicht disaggregiert,2 - Kein Hunger,,,,1717.2
+2017,Nicht disaggregiert,2 - Kein Hunger,,,,2834.2
+2018,Nicht disaggregiert,2 - Kein Hunger,,,,2738.4
+2019,Nicht disaggregiert,2 - Kein Hunger,,,,2584.8
+2020,Nicht disaggregiert,2 - Kein Hunger,,,,4038.0
+2021,Nicht disaggregiert,2 - Kein Hunger,,,,3582.4
+2022,Nicht disaggregiert,2 - Kein Hunger,,,,3412.0
+2023,Nicht disaggregiert,2 - Kein Hunger,,,,3770.1
+2024,Nicht disaggregiert,2 - Kein Hunger,…,,,
+2010,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,996.3
+2011,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,1026.2
+2012,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,1068.7
+2013,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,1155.5
+2014,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,1284.9
+2015,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,1770.9
+2016,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,1625.8
+2017,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,2034.2
+2018,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,2795.0
+2019,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,2200.2
+2020,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,2998.5
+2021,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,2941.8
+2022,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,3215.1
+2023,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,,,,2511.5
+2024,Vollständig disaggregiert,3 - Gesundheit und Wohlergehen,…,,,
+2010,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,4.1
+2011,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,3.8
+2012,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,0.5
+2013,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,0.4
+2014,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,2.2
+2015,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,1.7
+2016,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,2.3
+2017,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,2.7
+2018,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,1.1
+2019,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,1.0
+2020,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,,,,-4.1
+2021,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,p,,,3.7
+2022,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,p,,,1.4
+2023,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,p,,,-0.3
+2024,Teilweise disaggregiert,3 - Gesundheit und Wohlergehen,p,,,-0.2
+2010,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,r,,,1578.1
+2011,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,r,,,1626.7
+2012,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,r,,,1660.8
+2013,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,r,,,1682.0
+2014,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,r,,,1726.7
+2015,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,r,,,1779.3
+2016,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,r,,,1834.4
+2017,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,r,,,1897.4
+2018,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,r,,,1973.8
+2019,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,r,,,2022.1
+2020,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,r,,,2025.4
+2021,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,p,,,2085.2
+2022,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,p,,,2249.8
+2023,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,p,,,2404.6
+2024,Nicht disaggregiert,3 - Gesundheit und Wohlergehen,p,,,2501.7
+2010,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,1417.1
+2011,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,1463.0
+2012,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,1503.4
+2013,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,1528.8
+2014,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,1560.4
+2015,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,1604.9
+2016,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,1651.7
+2017,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,1704.0
+2018,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,1757.5
+2019,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,1813.7
+2020,Vollständig disaggregiert,4 - Hochwertige Bildung,,,,1695.6
+2021,Vollständig disaggregiert,4 - Hochwertige Bildung,p,,,1786.7
+2022,Vollständig disaggregiert,4 - Hochwertige Bildung,p,,,2018.0
+2023,Vollständig disaggregiert,4 - Hochwertige Bildung,p,,,2145.4
+2024,Vollständig disaggregiert,4 - Hochwertige Bildung,p,,,2207.1
+2010,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,2011.7
+2011,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,2025.4
+2012,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,2068.3
+2013,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,2043.3
+2014,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,2043.9
+2015,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,2020.7
+2016,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,2009.3
+2017,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,1969.1
+2018,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,1915.8
+2019,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,1899.1
+2020,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,2172.9
+2021,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,2321.0
+2022,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,2368.0
+2023,Teilweise disaggregiert,4 - Hochwertige Bildung,,,,2445.1
+2024,Teilweise disaggregiert,4 - Hochwertige Bildung,…,,,
+2010,Nicht disaggregiert,4 - Hochwertige Bildung,,,,-115.6
+2011,Nicht disaggregiert,4 - Hochwertige Bildung,,,,-23.1
+2012,Nicht disaggregiert,4 - Hochwertige Bildung,,,,-1.5
+2013,Nicht disaggregiert,4 - Hochwertige Bildung,,,,3.5
+2014,Nicht disaggregiert,4 - Hochwertige Bildung,,,,21.8
+2015,Nicht disaggregiert,4 - Hochwertige Bildung,,,,28.2
+2016,Nicht disaggregiert,4 - Hochwertige Bildung,,,,36.2
+2017,Nicht disaggregiert,4 - Hochwertige Bildung,,,,44.6
+2018,Nicht disaggregiert,4 - Hochwertige Bildung,r,,,64.7
+2019,Nicht disaggregiert,4 - Hochwertige Bildung,,,,47.0
+2020,Nicht disaggregiert,4 - Hochwertige Bildung,,,,-151.1
+2021,Nicht disaggregiert,4 - Hochwertige Bildung,p,,,-116.4
+2022,Nicht disaggregiert,4 - Hochwertige Bildung,p,,,-84.9
+2023,Nicht disaggregiert,4 - Hochwertige Bildung,p,,,-103.8
+2024,Nicht disaggregiert,4 - Hochwertige Bildung,p,,,-115.6
+2010,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,501.8
+2011,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,549.6
+2012,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,558.9
+2013,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,561.2
+2014,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,590.4
+2015,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,609.6
+2016,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,640.4
+2017,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,671.1
+2018,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,714.9
+2019,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,748.2
+2020,Vollständig disaggregiert,5 - Geschlechtergleichheit,,,,736.5
+2021,Vollständig disaggregiert,5 - Geschlechtergleichheit,p,,,779.2
+2022,Vollständig disaggregiert,5 - Geschlechtergleichheit,p,,,858.3
+2023,Vollständig disaggregiert,5 - Geschlechtergleichheit,p,,,899.9
+2024,Vollständig disaggregiert,5 - Geschlechtergleichheit,p,,,898.5
+2010,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,49385.0
+2011,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,50163.0
+2012,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,50098.0
+2013,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,50243.0
+2014,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,51075.0
+2015,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,51811.0
+2016,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,52493.0
+2017,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,53225.0
+2018,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,53913.0
+2019,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,54333.0
+2020,Teilweise disaggregiert,5 - Geschlechtergleichheit,,,,52028.0
+2021,Teilweise disaggregiert,5 - Geschlechtergleichheit,p,,,53392.0
+2022,Teilweise disaggregiert,5 - Geschlechtergleichheit,p,,,54177.0
+2023,Teilweise disaggregiert,5 - Geschlechtergleichheit,p,,,54592.0
+2024,Teilweise disaggregiert,5 - Geschlechtergleichheit,p,,,54728.0
+2010,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,58581.0
+2011,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,59328.0
+2012,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,59143.0
+2013,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,59148.0
+2014,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,59859.0
+2015,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,60460.0
+2016,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,60978.0
+2017,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,61484.0
+2018,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,61964.0
+2019,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,62141.0
+2020,Nicht disaggregiert,5 - Geschlechtergleichheit,,,,59066.0
+2021,Nicht disaggregiert,5 - Geschlechtergleichheit,p,,,60456.0
+2022,Nicht disaggregiert,5 - Geschlechtergleichheit,p,,,61211.0
+2023,Nicht disaggregiert,5 - Geschlechtergleichheit,p,,,61437.0
+2024,Nicht disaggregiert,5 - Geschlechtergleichheit,p,,,61355.0
+2010,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,94.2
+2011,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,96.2
+2012,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,96.8
+2013,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,96.9
+2014,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,97.4
+2015,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,97.6
+2016,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,98.1
+2017,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,99.8
+2018,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,99.2
+2019,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,99.8
+2020,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,100.0
+2021,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,101.0
+2022,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,103.6
+2023,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,99.9
+2024,Vollständig disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,99.4
+2010,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,90.2
+2011,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,92.4
+2012,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,93.1
+2013,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,93.4
+2014,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,94.3
+2015,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,94.9
+2016,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,96.3
+2017,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,98.1
+2018,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,98.4
+2019,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,99.1
+2020,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,100.0
+2021,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,101.3
+2022,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,101.4
+2023,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,100.8
+2024,Teilweise disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,100.7
+2010,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,41099.0
+2011,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,41570.0
+2012,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,42065.0
+2013,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,42378.0
+2014,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,42756.0
+2015,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,43137.0
+2016,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,43686.0
+2017,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,44290.0
+2018,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,44878.0
+2019,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,45291.0
+2020,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,,,,44966.0
+2021,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,45053.0
+2022,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,45675.0
+2023,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,46011.0
+2024,Nicht disaggregiert,8 - Menschenwürdige Arbeit und Wirtschaftswachstum,p,,,46081.0
+2010,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,92.6
+2011,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,96.1
+2012,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,96.4
+2013,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,96.5
+2014,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,98.2
+2015,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,98.9
+2016,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,100.4
+2017,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,102.7
+2018,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,103.6
+2019,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,104.4
+2020,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,100.0
+2021,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",p,,,103.6
+2022,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",p,,,104.3
+2023,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",p,,,103.1
+2024,Vollständig disaggregiert,"9 - Industrie, Innovation und Infrastruktur",p,,,102.7
+2010,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,133.5
+2011,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,133.3
+2012,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,169.1
+2013,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,165.5
+2014,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,195.2
+2015,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,228.9
+2016,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,232.1
+2017,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,236.0
+2018,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,205.4
+2019,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,199.3
+2020,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,184.4
+2021,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",p,,,189.7
+2022,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",p,,,98.7
+2023,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",p,,,167.7
+2024,Teilweise disaggregiert,"9 - Industrie, Innovation und Infrastruktur",p,,,169.0
+2010,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2011,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2012,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2013,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2014,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2015,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2016,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2017,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2018,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2019,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2020,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2021,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2022,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2023,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2024,Nicht disaggregiert,"9 - Industrie, Innovation und Infrastruktur",,,,
+2010,Vollständig disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2011,Vollständig disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2012,Vollständig disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2013,Vollständig disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2014,Vollständig disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2015,Vollständig disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2016,Vollständig disaggregiert,10 - Weniger Ungleichheiten,,,,62.8
+2017,Vollständig disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2018,Vollständig disaggregiert,10 - Weniger Ungleichheiten,,,,65.7
+2019,Vollständig disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2020,Vollständig disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2021,Vollständig disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2022,Vollständig disaggregiert,10 - Weniger Ungleichheiten,,,,
+2023,Vollständig disaggregiert,10 - Weniger Ungleichheiten,,,,
+2024,Vollständig disaggregiert,10 - Weniger Ungleichheiten,,,,
+2010,Teilweise disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2011,Teilweise disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2012,Teilweise disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2013,Teilweise disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2014,Teilweise disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2015,Teilweise disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2016,Teilweise disaggregiert,10 - Weniger Ungleichheiten,,,,82.7
+2017,Teilweise disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2018,Teilweise disaggregiert,10 - Weniger Ungleichheiten,,,,92.4
+2019,Teilweise disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2020,Teilweise disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2021,Teilweise disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2022,Teilweise disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2023,Teilweise disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2024,Teilweise disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2010,Nicht disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2011,Nicht disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2012,Nicht disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2013,Nicht disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2014,Nicht disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2015,Nicht disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2016,Nicht disaggregiert,10 - Weniger Ungleichheiten,,,,54.7
+2017,Nicht disaggregiert,10 - Weniger Ungleichheiten,.,,,
+2018,Nicht disaggregiert,10 - Weniger Ungleichheiten,,,,64.3
+2019,Nicht disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2020,Nicht disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2021,Nicht disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2022,Nicht disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2023,Nicht disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2024,Nicht disaggregiert,10 - Weniger Ungleichheiten,…,,,
+2010,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,.,,,
+2011,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,.,,,
+2012,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,.,,,
+2013,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,.,,,
+2014,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,.,,,
+2015,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,.,,,
+2016,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,50.9
+2017,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,.,,,
+2018,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,40.4
+2019,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,…,,,
+2020,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,…,,,
+2021,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,…,,,
+2022,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,…,,,
+2023,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,…,,,
+2024,Vollständig disaggregiert,11 - Nachhaltige Städte und Gemeinden,…,,,
+2010,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2011,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2012,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2013,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2014,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2015,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2016,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2017,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2018,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,1.0
+2019,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2020,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2021,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2022,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2023,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2024,Teilweise disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2010,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,‒,,,0.0
+2011,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,‒,,,0.0
+2012,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,‒,,,0.0
+2013,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,‒,,,0.0
+2014,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,‒,,,0.0
+2015,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,‒,,,0.0
+2016,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,9.0
+2017,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,‒,,,0.0
+2018,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,‒,,,0.0
+2019,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,3.3
+2020,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,26.5
+2021,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,r,,,25.0
+2022,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,30.0
+2023,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2024,Nicht disaggregiert,11 - Nachhaltige Städte und Gemeinden,,,,
+2010,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2011,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2012,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2013,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2014,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2015,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2016,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,11.06
+2017,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2018,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2019,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,3.83
+2020,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,30.22
+2021,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,27.68
+2022,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,31.55
+2023,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,
+2024,Vollständig disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,
+2010,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2011,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2012,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2013,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2014,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2015,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2016,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,9.0
+2017,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2018,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2019,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,0.03
+2020,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,24.75
+2021,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,r,,,25.46
+2022,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,30.24
+2023,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,
+2024,Teilweise disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,
+2010,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2011,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2012,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2013,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2014,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2015,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2016,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,11.06
+2017,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2018,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,‒,,,0.0
+2019,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,0.03
+2020,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,28.23
+2021,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,28.19
+2022,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,,,,31.8
+2023,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,…,,,
+2024,Nicht disaggregiert,12 - Nachhaltige/r Konsum und Produktion,…,,,
+2010,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2011,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2012,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2013,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2014,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2015,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2016,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2017,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2018,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2019,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2020,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2021,Vollständig disaggregiert,15 - Leben an Land,.,,,
+2022,Vollständig disaggregiert,15 - Leben an Land,.,,,
 2023,Vollständig disaggregiert,15 - Leben an Land,.,,,
-2024,Vollständig disaggregiert,15 - Leben an Land,-,,,0.0
-2025,Vollständig disaggregiert,15 - Leben an Land,,,,
+2024,Vollständig disaggregiert,15 - Leben an Land,,,,23.0
+2010,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2011,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2012,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2013,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2014,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2015,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2016,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2017,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2018,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2019,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2020,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2021,Teilweise disaggregiert,15 - Leben an Land,.,,,
+2022,Teilweise disaggregiert,15 - Leben an Land,.,,,
 2023,Teilweise disaggregiert,15 - Leben an Land,.,,,
-2024,Teilweise disaggregiert,15 - Leben an Land,-,,,0.0
-2025,Teilweise disaggregiert,15 - Leben an Land,,,,
+2024,Teilweise disaggregiert,15 - Leben an Land,,,,23.0
+2010,Nicht disaggregiert,15 - Leben an Land,.,,,
+2011,Nicht disaggregiert,15 - Leben an Land,.,,,
+2012,Nicht disaggregiert,15 - Leben an Land,.,,,
+2013,Nicht disaggregiert,15 - Leben an Land,.,,,
+2014,Nicht disaggregiert,15 - Leben an Land,.,,,
+2015,Nicht disaggregiert,15 - Leben an Land,.,,,
+2016,Nicht disaggregiert,15 - Leben an Land,.,,,
+2017,Nicht disaggregiert,15 - Leben an Land,.,,,
+2018,Nicht disaggregiert,15 - Leben an Land,.,,,
+2019,Nicht disaggregiert,15 - Leben an Land,.,,,
+2020,Nicht disaggregiert,15 - Leben an Land,.,,,
+2021,Nicht disaggregiert,15 - Leben an Land,.,,,
+2022,Nicht disaggregiert,15 - Leben an Land,.,,,
 2023,Nicht disaggregiert,15 - Leben an Land,.,,,
-2024,Nicht disaggregiert,15 - Leben an Land,,,,100.0
-2025,Nicht disaggregiert,15 - Leben an Land,,,,
+2024,Nicht disaggregiert,15 - Leben an Land,,,,54.0
+2010,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2011,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2012,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2013,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2014,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2015,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2016,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2017,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2018,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2019,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2020,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2021,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2022,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
 2023,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
-2024,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",,,,25.0
-2025,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",,,,
+2024,Vollständig disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",-,,,0.0
+2010,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2011,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2012,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2013,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2014,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2015,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2016,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2017,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2018,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2019,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2020,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2021,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2022,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
 2023,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
 2024,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",,,,25.0
-2025,Teilweise disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",,,,
+2010,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2011,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2012,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2013,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2014,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2015,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2016,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2017,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2018,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2019,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2020,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2021,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
+2022,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
 2023,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",.,,,
-2024,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",,,,50.0
-2025,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",,,,
+2024,Nicht disaggregiert,"16 - Frieden, Gerechtigkeit und starke Institutionen",,,,75.0
+2010,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2011,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2012,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2013,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2014,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2015,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2016,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2017,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2018,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2019,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2020,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2021,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2022,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
 2023,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
-2024,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,,,,50.0
-2025,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,,,,
+2024,Vollständig disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,,,,25.0
+2010,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2011,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2012,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2013,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2014,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2015,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2016,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2017,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2018,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2019,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2020,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2021,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2022,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
 2023,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
 2024,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,-,,,0.0
-2025,Teilweise disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,,,,
+2010,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2011,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2012,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2013,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2014,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2015,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2016,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2017,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2018,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2019,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2020,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2021,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
+2022,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
 2023,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,.,,,
-2024,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,,,,50.0
-2025,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,,,,
+2024,Nicht disaggregiert,17 - Partnerschaften zur Erreichung der Ziele,,,,75.0

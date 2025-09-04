@@ -1,84 +1,901 @@
 Year,timeseries,age group,sex,type of physical violence,type of sexual violence,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2020,a) physical violence,,,,,|,r,,2.3
-2020,a) physical violence,16 to under 25 years,,,,|,r,,5.7
-2020,a) physical violence,25 to under 35 years,,,,|,r,,3.7
-2020,a) physical violence,35 to under 45 years,,,,|,r,,2.2
-2020,a) physical violence,45 to under 55 years,,,,|,r,,1.5
-2020,a) physical violence,55 to under 65 years,,,,|,r,,1.3
-2020,a) physical violence,65 to under 75 years,,,,|,r,,1.2
-2020,a) physical violence,75 years and older,,,,|,r,,1.0
-2020,a) physical violence,,female,,,|,r,,1.6
-2020,a) physical violence,,male,,,|,r,,3.0
-2012,a) physical violence,,,physical assault,,,,,2.7
-2017,a) physical violence,,,physical assault,,,,,3.0
-2020,a) physical violence,,,physical assault,,,,,2.0
-2012,a) physical violence,16 to under 25 years,,physical assault,,,,,10.1
-2017,a) physical violence,16 to under 25 years,,physical assault,,,,,10.4
-2020,a) physical violence,16 to under 25 years,,physical assault,,,,,4.6
-2012,a) physical violence,25 to under 35 years,,physical assault,,,,,0.4
-2017,a) physical violence,25 to under 35 years,,physical assault,,,,,4.6
-2020,a) physical violence,25 to under 35 years,,physical assault,,,,,3.5
-2012,a) physical violence,35 to under 45 years,,physical assault,,,,,2.4
-2017,a) physical violence,35 to under 45 years,,physical assault,,,,,2.8
-2020,a) physical violence,35 to under 45 years,,physical assault,,,,,2.0
-2012,a) physical violence,45 to under 55 years,,physical assault,,,,,1.9
-2017,a) physical violence,45 to under 55 years,,physical assault,,,,,2.3
-2020,a) physical violence,45 to under 55 years,,physical assault,,,,,1.4
-2012,a) physical violence,55 to under 65 years,,physical assault,,,,,0.6
-2017,a) physical violence,55 to under 65 years,,physical assault,,,,,1.4
-2020,a) physical violence,55 to under 65 years,,physical assault,,,,,1.2
-2017,a) physical violence,65 to under 75 years,,physical assault,,,,,0.6
-2020,a) physical violence,65 to under 75 years,,physical assault,,,,,1.0
-2017,a) physical violence,75 years and older,,physical assault,,,,,0.2
-2020,a) physical violence,75 years and older,,physical assault,,,,,0.9
-2012,a) physical violence,,female,physical assault,,,,,1.5
-2017,a) physical violence,,female,physical assault,,,,,2.0
-2020,a) physical violence,,female,physical assault,,,,,1.3
-2012,a) physical violence,,male,physical assault,,,,,4.0
-2017,a) physical violence,,male,physical assault,,,,,4.0
-2020,a) physical violence,,male,physical assault,,,,,2.8
-2012,a) physical violence,,,robbery,,,,,0.7
-2017,a) physical violence,,,robbery,,,,,1.0
-2020,a) physical violence,,,robbery,,,,,0.6
-2017,a) physical violence,16 to under 25 years,,robbery,,,,,3.5
-2017,a) physical violence,25 to under 35 years,,robbery,,,,,1.2
-2020,a) physical violence,25 to under 35 years,,robbery,,,,,0.5
-2017,a) physical violence,35 to under 45 years,,robbery,,,,,1.0
-2020,a) physical violence,35 to under 45 years,,robbery,,,,,0.6
-2017,a) physical violence,45 to under 55 years,,robbery,,,,,0.8
-2020,a) physical violence,45 to under 55 years,,robbery,,,,,0.2
-2017,a) physical violence,55 to under 65 years,,robbery,,,,,0.5
-2020,a) physical violence,55 to under 65 years,,robbery,,,,,0.4
-2017,a) physical violence,65 to under 75 years,,robbery,,,,,0.4
-2020,a) physical violence,65 to under 75 years,,robbery,,,,,0.4
-2017,a) physical violence,75 years and older,,robbery,,,,,0.4
-2017,a) physical violence,,female,robbery,,,,,0.8
-2020,a) physical violence,,female,robbery,,,,,0.5
-2017,a) physical violence,,male,robbery,,,,,1.3
-2020,a) physical violence,,male,robbery,,,,,0.7
-2020,b) psychological violence,,,,,,,,6.8
-2020,b) psychological violence,16 to under 25 years,,,,,,,15.4
-2020,b) psychological violence,25 to under 35 years,,,,,,,10.7
-2020,b) psychological violence,35 to under 45 years,,,,,,,7.4
-2020,b) psychological violence,45 to under 55 years,,,,,,,5.9
-2020,b) psychological violence,55 to under 65 years,,,,,,,3.7
-2020,b) psychological violence,65 to under 75 years,,,,,,,2.6
-2020,b) psychological violence,75 years and older,,,,,,,2.7
-2020,b) psychological violence,,female,,,,,,6.0
-2020,b) psychological violence,,male,,,,,,7.6
-2020,c) sexual violence,,,,,,,,2.1
-2020,c) sexual violence,16 to under 25 years,,,,,,,8.7
-2020,c) sexual violence,25 to under 35 years,,,,,,,3.9
-2020,c) sexual violence,35 to under 45 years,,,,,,,1.6
-2020,c) sexual violence,45 to under 55 years,,,,,,,0.4
-2020,c) sexual violence,55 to under 65 years,,,,,,,0.3
-2020,c) sexual violence,,female,,,,,,3.6
-2020,c) sexual violence,,male,,,,,,0.3
-2020,c) sexual violence,,,,physical sexual assault,,,,2.1
-2020,c) sexual violence,16 to under 25 years,,,physical sexual assault,,,,8.7
-2020,c) sexual violence,25 to under 35 years,,,physical sexual assault,,,,3.9
-2020,c) sexual violence,35 to under 45 years,,,physical sexual assault,,,,1.6
-2020,c) sexual violence,45 to under 55 years,,,physical sexual assault,,,,0.4
-2020,c) sexual violence,55 to under 65 years,,,physical sexual assault,,,,0.3
-2020,c) sexual violence,,female,,physical sexual assault,,,,3.6
-2020,c) sexual violence,,male,,physical sexual assault,,,,0.3
+2010,a) physical violence,,,,,.,,,
+2011,a) physical violence,,,,,,,,1.43
+2012,a) physical violence,,,,,,,,1.01
+2013,a) physical violence,,,,,,,,0.71
+2014,a) physical violence,,,,,,,,0.86
+2015,a) physical violence,,,,,,,,0.68
+2016,a) physical violence,,,,,,,,1.81
+2017,a) physical violence,,,,,,,,0.65
+2018,a) physical violence,,,,,,,,1.02
+2019,a) physical violence,,,,,,,,0.82
+2020,a) physical violence,,,,,,,,1.15
+2021,a) physical violence,,,,,,,,1.19
+2022,a) physical violence,,,,,,,,1.24
+2023,a) physical violence,,,,,,,,0.72
+2024,a) physical violence,,,,,…,,,
+2010,a) physical violence,16 to under 25 years,,,,.,,,
+2011,a) physical violence,16 to under 25 years,,,,,,,0.84
+2012,a) physical violence,16 to under 25 years,,,,,,,0.65
+2013,a) physical violence,16 to under 25 years,,,,,,,0.74
+2014,a) physical violence,16 to under 25 years,,,,,,,0.84
+2015,a) physical violence,16 to under 25 years,,,,,,,0.66
+2016,a) physical violence,16 to under 25 years,,,,,,,1.1
+2017,a) physical violence,16 to under 25 years,,,,,,,0.82
+2018,a) physical violence,16 to under 25 years,,,,,,,0.86
+2019,a) physical violence,16 to under 25 years,,,,,,,0.68
+2020,a) physical violence,16 to under 25 years,,,,,,,0.67
+2021,a) physical violence,16 to under 25 years,,,,,,,0.67
+2022,a) physical violence,16 to under 25 years,,,,,,,0.66
+2023,a) physical violence,16 to under 25 years,,,,,,,0.89
+2024,a) physical violence,16 to under 25 years,,,,…,,,
+2010,a) physical violence,25 to under 35 years,,,,.,,,
+2011,a) physical violence,25 to under 35 years,,,,,,,1.12
+2012,a) physical violence,25 to under 35 years,,,,,,,1.01
+2013,a) physical violence,25 to under 35 years,,,,,,,1.0
+2014,a) physical violence,25 to under 35 years,,,,,,,1.03
+2015,a) physical violence,25 to under 35 years,,,,,,,0.91
+2016,a) physical violence,25 to under 35 years,,,,,,,1.31
+2017,a) physical violence,25 to under 35 years,,,,,,,1.07
+2018,a) physical violence,25 to under 35 years,,,,,,,1.18
+2019,a) physical violence,25 to under 35 years,,,,,,,0.93
+2020,a) physical violence,25 to under 35 years,,,,,,,1.08
+2021,a) physical violence,25 to under 35 years,,,,,,,0.9
+2022,a) physical violence,25 to under 35 years,,,,,,,0.93
+2023,a) physical violence,25 to under 35 years,,,,,,,1.15
+2024,a) physical violence,25 to under 35 years,,,,…,,,
+2010,a) physical violence,35 to under 45 years,,,,.,,,
+2011,a) physical violence,35 to under 45 years,,,,,,,0.94
+2012,a) physical violence,35 to under 45 years,,,,,,,0.9
+2013,a) physical violence,35 to under 45 years,,,,,,,1.0
+2014,a) physical violence,35 to under 45 years,,,,,,,0.98
+2015,a) physical violence,35 to under 45 years,,,,,,,1.15
+2016,a) physical violence,35 to under 45 years,,,,,,,1.3
+2017,a) physical violence,35 to under 45 years,,,,,,,1.33
+2018,a) physical violence,35 to under 45 years,,,,,,,1.04
+2019,a) physical violence,35 to under 45 years,,,,,,,0.82
+2020,a) physical violence,35 to under 45 years,,,,,,,1.24
+2021,a) physical violence,35 to under 45 years,,,,,,,1.08
+2022,a) physical violence,35 to under 45 years,,,,,,,1.24
+2023,a) physical violence,35 to under 45 years,,,,,,,0.99
+2024,a) physical violence,35 to under 45 years,,,,…,,,
+2010,a) physical violence,45 to under 55 years,,,,.,,,
+2011,a) physical violence,45 to under 55 years,,,,,,,0.78
+2012,a) physical violence,45 to under 55 years,,,,,,,0.77
+2013,a) physical violence,45 to under 55 years,,,,,,,0.93
+2014,a) physical violence,45 to under 55 years,,,,,,,0.94
+2015,a) physical violence,45 to under 55 years,,,,,,,1.02
+2016,a) physical violence,45 to under 55 years,,,,,,,1.26
+2017,a) physical violence,45 to under 55 years,,,,,,,1.4
+2018,a) physical violence,45 to under 55 years,,,,,,,0.96
+2019,a) physical violence,45 to under 55 years,,,,,,,0.9
+2020,a) physical violence,45 to under 55 years,,,,,,,1.2
+2021,a) physical violence,45 to under 55 years,,,,,,,0.91
+2022,a) physical violence,45 to under 55 years,,,,,,,0.89
+2023,a) physical violence,45 to under 55 years,,,,,,,0.88
+2024,a) physical violence,45 to under 55 years,,,,…,,,
+2010,a) physical violence,55 to under 65 years,,,,,,,793.0
+2011,a) physical violence,55 to under 65 years,,,,,,,738.0
+2012,a) physical violence,55 to under 65 years,,,,,,,659.0
+2013,a) physical violence,55 to under 65 years,,,,,,,682.0
+2014,a) physical violence,55 to under 65 years,,,,,,,716.0
+2015,a) physical violence,55 to under 65 years,,,,,,,682.0
+2016,a) physical violence,55 to under 65 years,,,,,,,963.0
+2017,a) physical violence,55 to under 65 years,,,,,,,813.0
+2018,a) physical violence,55 to under 65 years,,,,,,,788.0
+2019,a) physical violence,55 to under 65 years,,,,,,,623.0
+2020,a) physical violence,55 to under 65 years,,,,,,,782.0
+2021,a) physical violence,55 to under 65 years,,,,,,,695.0
+2022,a) physical violence,55 to under 65 years,,,,,,,686.0
+2023,a) physical violence,55 to under 65 years,,,,,,,770.0
+2024,a) physical violence,55 to under 65 years,,,,,,,779.0
+2010,a) physical violence,65 to under 75 years,,,,,,,77.0
+2011,a) physical violence,65 to under 75 years,,,,,,,73.0
+2012,a) physical violence,65 to under 75 years,,,,,,,90.0
+2013,a) physical violence,65 to under 75 years,,,,,,,66.0
+2014,a) physical violence,65 to under 75 years,,,,,,,63.0
+2015,a) physical violence,65 to under 75 years,,,,,,,62.0
+2016,a) physical violence,65 to under 75 years,,,,,,,68.0
+2017,a) physical violence,65 to under 75 years,,,,,,,67.0
+2018,a) physical violence,65 to under 75 years,,,,,,,70.0
+2019,a) physical violence,65 to under 75 years,,,,,,,46.0
+2020,a) physical violence,65 to under 75 years,,,,,,,79.0
+2021,a) physical violence,65 to under 75 years,,,,,,,83.0
+2022,a) physical violence,65 to under 75 years,,,,,,,51.0
+2023,a) physical violence,65 to under 75 years,,,,,,,72.0
+2024,a) physical violence,65 to under 75 years,,,,,,,56.0
+2010,a) physical violence,75 years and older,,,,,,,22.0
+2011,a) physical violence,75 years and older,,,,,,,27.0
+2012,a) physical violence,75 years and older,,,,,,,6.0
+2013,a) physical violence,75 years and older,,,,,,,12.0
+2014,a) physical violence,75 years and older,,,,,,,15.0
+2015,a) physical violence,75 years and older,,,,,,,14.0
+2016,a) physical violence,75 years and older,,,,,,,35.0
+2017,a) physical violence,75 years and older,,,,,,,4.0
+2018,a) physical violence,75 years and older,,,,,,,14.0
+2019,a) physical violence,75 years and older,,,,,,,11.0
+2020,a) physical violence,75 years and older,,,,,,,12.0
+2021,a) physical violence,75 years and older,,,,,,,14.0
+2022,a) physical violence,75 years and older,,,,,,,14.0
+2023,a) physical violence,75 years and older,,,,,,,17.0
+2024,a) physical violence,75 years and older,,,,,,,15.0
+2010,a) physical violence,,female,,,,,,38.0
+2011,a) physical violence,,female,,,,,,29.0
+2012,a) physical violence,,female,,,,,,23.0
+2013,a) physical violence,,female,,,,,,15.0
+2014,a) physical violence,,female,,,,,,20.0
+2015,a) physical violence,,female,,,,,,18.0
+2016,a) physical violence,,female,,,,,,43.0
+2017,a) physical violence,,female,,,,,,16.0
+2018,a) physical violence,,female,,,,,,26.0
+2019,a) physical violence,,female,,,,,,16.0
+2020,a) physical violence,,female,,,,,,21.0
+2021,a) physical violence,,female,,,,,,19.0
+2022,a) physical violence,,female,,,,,,23.0
+2023,a) physical violence,,female,,,,,,18.0
+2024,a) physical violence,,female,,,,,,27.0
+2010,a) physical violence,,male,,,,,,448.0
+2011,a) physical violence,,male,,,,,,424.0
+2012,a) physical violence,,male,,,,,,359.0
+2013,a) physical violence,,male,,,,,,377.0
+2014,a) physical violence,,male,,,,,,405.0
+2015,a) physical violence,,male,,,,,,343.0
+2016,a) physical violence,,male,,,,,,527.0
+2017,a) physical violence,,male,,,,,,414.0
+2018,a) physical violence,,male,,,,,,445.0
+2019,a) physical violence,,male,,,,,,349.0
+2020,a) physical violence,,male,,,,,,378.0
+2021,a) physical violence,,male,,,,,,336.0
+2022,a) physical violence,,male,,,,,,334.0
+2023,a) physical violence,,male,,,,,,430.0
+2024,a) physical violence,,male,,,,,,412.0
+2010,a) physical violence,,,physical assault,,,,,208.0
+2011,a) physical violence,,,physical assault,,,,,185.0
+2012,a) physical violence,,,physical assault,,,,,181.0
+2013,a) physical violence,,,physical assault,,,,,212.0
+2014,a) physical violence,,,physical assault,,,,,213.0
+2015,a) physical violence,,,physical assault,,,,,245.0
+2016,a) physical violence,,,physical assault,,,,,290.0
+2017,a) physical violence,,,physical assault,,,,,312.0
+2018,a) physical violence,,,physical assault,,,,,233.0
+2019,a) physical violence,,,physical assault,,,,,201.0
+2020,a) physical violence,,,physical assault,,,,,292.0
+2021,a) physical violence,,,physical assault,,,,,243.0
+2022,a) physical violence,,,physical assault,,,,,264.0
+2023,a) physical violence,,,physical assault,,,,,233.0
+2024,a) physical violence,,,physical assault,,,,,269.0
+2010,a) physical violence,16 to under 25 years,,physical assault,,,,,393.0
+2011,a) physical violence,16 to under 25 years,,physical assault,,,,,338.0
+2012,a) physical violence,16 to under 25 years,,physical assault,,,,,296.0
+2013,a) physical violence,16 to under 25 years,,physical assault,,,,,328.0
+2014,a) physical violence,16 to under 25 years,,physical assault,,,,,339.0
+2015,a) physical violence,16 to under 25 years,,physical assault,,,,,327.0
+2016,a) physical violence,16 to under 25 years,,physical assault,,,,,469.0
+2017,a) physical violence,16 to under 25 years,,physical assault,,,,,380.0
+2018,a) physical violence,16 to under 25 years,,physical assault,,,,,367.0
+2019,a) physical violence,16 to under 25 years,,physical assault,,,,,276.0
+2020,a) physical violence,16 to under 25 years,,physical assault,,,,,357.0
+2021,a) physical violence,16 to under 25 years,,physical assault,,,,,337.0
+2022,a) physical violence,16 to under 25 years,,physical assault,,,,,349.0
+2023,a) physical violence,16 to under 25 years,,physical assault,,,,,374.0
+2024,a) physical violence,16 to under 25 years,,physical assault,,,,,338.0
+2010,a) physical violence,25 to under 35 years,,physical assault,,,,,400.0
+2011,a) physical violence,25 to under 35 years,,physical assault,,,,,400.0
+2012,a) physical violence,25 to under 35 years,,physical assault,,,,,363.0
+2013,a) physical violence,25 to under 35 years,,physical assault,,,,,354.0
+2014,a) physical violence,25 to under 35 years,,physical assault,,,,,377.0
+2015,a) physical violence,25 to under 35 years,,physical assault,,,,,355.0
+2016,a) physical violence,25 to under 35 years,,physical assault,,,,,494.0
+2017,a) physical violence,25 to under 35 years,,physical assault,,,,,433.0
+2018,a) physical violence,25 to under 35 years,,physical assault,,,,,421.0
+2019,a) physical violence,25 to under 35 years,,physical assault,,,,,347.0
+2020,a) physical violence,25 to under 35 years,,physical assault,,,,,425.0
+2021,a) physical violence,25 to under 35 years,,physical assault,,,,,358.0
+2022,a) physical violence,25 to under 35 years,,physical assault,,,,,337.0
+2023,a) physical violence,25 to under 35 years,,physical assault,,,,,396.0
+2024,a) physical violence,25 to under 35 years,,physical assault,,,,,441.0
+2010,a) physical violence,35 to under 45 years,,physical assault,,,,,37.0
+2011,a) physical violence,35 to under 45 years,,physical assault,,,,,24.0
+2012,a) physical violence,35 to under 45 years,,physical assault,,,,,39.0
+2013,a) physical violence,35 to under 45 years,,physical assault,,,,,37.0
+2014,a) physical violence,35 to under 45 years,,physical assault,,,,,24.0
+2015,a) physical violence,35 to under 45 years,,physical assault,,,,,25.0
+2016,a) physical violence,35 to under 45 years,,physical assault,,,,,30.0
+2017,a) physical violence,35 to under 45 years,,physical assault,,,,,28.0
+2018,a) physical violence,35 to under 45 years,,physical assault,,,,,30.0
+2019,a) physical violence,35 to under 45 years,,physical assault,,,,,17.0
+2020,a) physical violence,35 to under 45 years,,physical assault,,,,,43.0
+2021,a) physical violence,35 to under 45 years,,physical assault,,,,,43.0
+2022,a) physical violence,35 to under 45 years,,physical assault,,,,,27.0
+2023,a) physical violence,35 to under 45 years,,physical assault,,,,,39.0
+2024,a) physical violence,35 to under 45 years,,physical assault,,,,,20.0
+2010,a) physical violence,45 to under 55 years,,physical assault,,,,,40.0
+2011,a) physical violence,45 to under 55 years,,physical assault,,,,,49.0
+2012,a) physical violence,45 to under 55 years,,physical assault,,,,,51.0
+2013,a) physical violence,45 to under 55 years,,physical assault,,,,,29.0
+2014,a) physical violence,45 to under 55 years,,physical assault,,,,,39.0
+2015,a) physical violence,45 to under 55 years,,physical assault,,,,,37.0
+2016,a) physical violence,45 to under 55 years,,physical assault,,,,,38.0
+2017,a) physical violence,45 to under 55 years,,physical assault,,,,,39.0
+2018,a) physical violence,45 to under 55 years,,physical assault,,,,,40.0
+2019,a) physical violence,45 to under 55 years,,physical assault,,,,,29.0
+2020,a) physical violence,45 to under 55 years,,physical assault,,,,,36.0
+2021,a) physical violence,45 to under 55 years,,physical assault,,,,,40.0
+2022,a) physical violence,45 to under 55 years,,physical assault,,,,,24.0
+2023,a) physical violence,45 to under 55 years,,physical assault,,,,,33.0
+2024,a) physical violence,45 to under 55 years,,physical assault,,,,,36.0
+2010,a) physical violence,55 to under 65 years,,physical assault,,,,,14.0
+2011,a) physical violence,55 to under 65 years,,physical assault,,,,,12.0
+2012,a) physical violence,55 to under 65 years,,physical assault,,‒,,,0.0
+2013,a) physical violence,55 to under 65 years,,physical assault,,,,,4.0
+2014,a) physical violence,55 to under 65 years,,physical assault,,,,,5.0
+2015,a) physical violence,55 to under 65 years,,physical assault,,,,,9.0
+2016,a) physical violence,55 to under 65 years,,physical assault,,,,,22.0
+2017,a) physical violence,55 to under 65 years,,physical assault,,,,,1.0
+2018,a) physical violence,55 to under 65 years,,physical assault,,,,,8.0
+2019,a) physical violence,55 to under 65 years,,physical assault,,,,,4.0
+2020,a) physical violence,55 to under 65 years,,physical assault,,,,,4.0
+2021,a) physical violence,55 to under 65 years,,physical assault,,,,,7.0
+2022,a) physical violence,55 to under 65 years,,physical assault,,,,,12.0
+2023,a) physical violence,55 to under 65 years,,physical assault,,,,,8.0
+2024,a) physical violence,55 to under 65 years,,physical assault,,,,,7.0
+2010,a) physical violence,65 to under 75 years,,physical assault,,,,,8.0
+2011,a) physical violence,65 to under 75 years,,physical assault,,,,,15.0
+2012,a) physical violence,65 to under 75 years,,physical assault,,,,,6.0
+2013,a) physical violence,65 to under 75 years,,physical assault,,,,,8.0
+2014,a) physical violence,65 to under 75 years,,physical assault,,,,,10.0
+2015,a) physical violence,65 to under 75 years,,physical assault,,,,,5.0
+2016,a) physical violence,65 to under 75 years,,physical assault,,,,,13.0
+2017,a) physical violence,65 to under 75 years,,physical assault,,,,,3.0
+2018,a) physical violence,65 to under 75 years,,physical assault,,,,,6.0
+2019,a) physical violence,65 to under 75 years,,physical assault,,,,,7.0
+2020,a) physical violence,65 to under 75 years,,physical assault,,,,,8.0
+2021,a) physical violence,65 to under 75 years,,physical assault,,,,,7.0
+2022,a) physical violence,65 to under 75 years,,physical assault,,,,,2.0
+2023,a) physical violence,65 to under 75 years,,physical assault,,,,,9.0
+2024,a) physical violence,65 to under 75 years,,physical assault,,,,,8.0
+2010,a) physical violence,75 years and older,,physical assault,,,,,19.0
+2011,a) physical violence,75 years and older,,physical assault,,,,,10.0
+2012,a) physical violence,75 years and older,,physical assault,,,,,10.0
+2013,a) physical violence,75 years and older,,physical assault,,,,,6.0
+2014,a) physical violence,75 years and older,,physical assault,,,,,9.0
+2015,a) physical violence,75 years and older,,physical assault,,,,,9.0
+2016,a) physical violence,75 years and older,,physical assault,,,,,18.0
+2017,a) physical violence,75 years and older,,physical assault,,,,,7.0
+2018,a) physical violence,75 years and older,,physical assault,,,,,12.0
+2019,a) physical violence,75 years and older,,physical assault,,,,,5.0
+2020,a) physical violence,75 years and older,,physical assault,,,,,6.0
+2021,a) physical violence,75 years and older,,physical assault,,,,,4.0
+2022,a) physical violence,75 years and older,,physical assault,,,,,8.0
+2023,a) physical violence,75 years and older,,physical assault,,,,,9.0
+2024,a) physical violence,75 years and older,,physical assault,,,,,13.0
+2010,a) physical violence,,female,physical assault,,,,,19.0
+2011,a) physical violence,,female,physical assault,,,,,19.0
+2012,a) physical violence,,female,physical assault,,,,,13.0
+2013,a) physical violence,,female,physical assault,,,,,9.0
+2014,a) physical violence,,female,physical assault,,,,,11.0
+2015,a) physical violence,,female,physical assault,,,,,9.0
+2016,a) physical violence,,female,physical assault,,,,,25.0
+2017,a) physical violence,,female,physical assault,,,,,9.0
+2018,a) physical violence,,female,physical assault,,,,,14.0
+2019,a) physical violence,,female,physical assault,,,,,11.0
+2020,a) physical violence,,female,physical assault,,,,,15.0
+2021,a) physical violence,,female,physical assault,,,,,15.0
+2022,a) physical violence,,female,physical assault,,,,,15.0
+2023,a) physical violence,,female,physical assault,,,,,9.0
+2024,a) physical violence,,female,physical assault,,,,,14.0
+2010,a) physical violence,,male,physical assault,,,,,202.0
+2011,a) physical violence,,male,physical assault,,,,,180.0
+2012,a) physical violence,,male,physical assault,,,,,139.0
+2013,a) physical violence,,male,physical assault,,,,,159.0
+2014,a) physical violence,,male,physical assault,,,,,180.0
+2015,a) physical violence,,male,physical assault,,,,,141.0
+2016,a) physical violence,,male,physical assault,,,,,236.0
+2017,a) physical violence,,male,physical assault,,,,,176.0
+2018,a) physical violence,,male,physical assault,,,,,184.0
+2019,a) physical violence,,male,physical assault,,,,,144.0
+2020,a) physical violence,,male,physical assault,,,,,142.0
+2021,a) physical violence,,male,physical assault,,,,,140.0
+2022,a) physical violence,,male,physical assault,,,,,136.0
+2023,a) physical violence,,male,physical assault,,,,,184.0
+2024,a) physical violence,,male,physical assault,,,,,150.0
+2010,a) physical violence,,,robbery,,,,,246.0
+2011,a) physical violence,,,robbery,,,,,244.0
+2012,a) physical violence,,,robbery,,,,,220.0
+2013,a) physical violence,,,robbery,,,,,218.0
+2014,a) physical violence,,,robbery,,,,,225.0
+2015,a) physical violence,,,robbery,,,,,202.0
+2016,a) physical violence,,,robbery,,,,,291.0
+2017,a) physical violence,,,robbery,,,,,238.0
+2018,a) physical violence,,,robbery,,,,,261.0
+2019,a) physical violence,,,robbery,,,,,205.0
+2020,a) physical violence,,,robbery,,,,,236.0
+2021,a) physical violence,,,robbery,,,,,196.0
+2022,a) physical violence,,,robbery,,,,,198.0
+2023,a) physical violence,,,robbery,,,,,246.0
+2024,a) physical violence,,,robbery,,,,,262.0
+2010,a) physical violence,16 to under 25 years,,robbery,,,,,121.0
+2011,a) physical violence,16 to under 25 years,,robbery,,,,,112.0
+2012,a) physical violence,16 to under 25 years,,robbery,,,,,108.0
+2013,a) physical violence,16 to under 25 years,,robbery,,,,,122.0
+2014,a) physical violence,16 to under 25 years,,robbery,,,,,121.0
+2015,a) physical violence,16 to under 25 years,,robbery,,,,,143.0
+2016,a) physical violence,16 to under 25 years,,robbery,,,,,163.0
+2017,a) physical violence,16 to under 25 years,,robbery,,,,,168.0
+2018,a) physical violence,16 to under 25 years,,robbery,,,,,133.0
+2019,a) physical violence,16 to under 25 years,,robbery,,,,,106.0
+2020,a) physical violence,16 to under 25 years,,robbery,,,,,162.0
+2021,a) physical violence,16 to under 25 years,,robbery,,,,,143.0
+2022,a) physical violence,16 to under 25 years,,robbery,,,,,166.0
+2023,a) physical violence,16 to under 25 years,,robbery,,,,,134.0
+2024,a) physical violence,16 to under 25 years,,robbery,,,,,148.0
+2010,a) physical violence,25 to under 35 years,,robbery,,,,,87.0
+2011,a) physical violence,25 to under 35 years,,robbery,,,,,73.0
+2012,a) physical violence,25 to under 35 years,,robbery,,,,,73.0
+2013,a) physical violence,25 to under 35 years,,robbery,,,,,90.0
+2014,a) physical violence,25 to under 35 years,,robbery,,,,,92.0
+2015,a) physical violence,25 to under 35 years,,robbery,,,,,102.0
+2016,a) physical violence,25 to under 35 years,,robbery,,,,,127.0
+2017,a) physical violence,25 to under 35 years,,robbery,,,,,144.0
+2018,a) physical violence,25 to under 35 years,,robbery,,,,,100.0
+2019,a) physical violence,25 to under 35 years,,robbery,,,,,95.0
+2020,a) physical violence,25 to under 35 years,,robbery,,,,,130.0
+2021,a) physical violence,25 to under 35 years,,robbery,,,,,100.0
+2022,a) physical violence,25 to under 35 years,,robbery,,,,,98.0
+2023,a) physical violence,25 to under 35 years,,robbery,,,,,99.0
+2024,a) physical violence,25 to under 35 years,,robbery,,,,,121.0
+2010,a) physical violence,35 to under 45 years,,robbery,,,,,343.0
+2011,a) physical violence,35 to under 45 years,,robbery,,,,,318.0
+2012,a) physical violence,35 to under 45 years,,robbery,,,,,287.0
+2013,a) physical violence,35 to under 45 years,,robbery,,,,,308.0
+2014,a) physical violence,35 to under 45 years,,robbery,,,,,340.0
+2015,a) physical violence,35 to under 45 years,,robbery,,,,,293.0
+2016,a) physical violence,35 to under 45 years,,robbery,,,,,325.0
+2017,a) physical violence,35 to under 45 years,,robbery,,,,,336.0
+2018,a) physical violence,35 to under 45 years,,robbery,,,,,310.0
+2019,a) physical violence,35 to under 45 years,,robbery,,,,,282.0
+2020,a) physical violence,35 to under 45 years,,robbery,,,,,332.0
+2021,a) physical violence,35 to under 45 years,,robbery,,,,,286.0
+2022,a) physical violence,35 to under 45 years,,robbery,,,,,271.0
+2023,a) physical violence,35 to under 45 years,,robbery,,,,,341.0
+2024,a) physical violence,35 to under 45 years,,robbery,,,,,304.0
+2010,a) physical violence,45 to under 55 years,,robbery,,,,,232.0
+2011,a) physical violence,45 to under 55 years,,robbery,,,,,228.0
+2012,a) physical violence,45 to under 55 years,,robbery,,,,,182.0
+2013,a) physical violence,45 to under 55 years,,robbery,,,,,224.0
+2014,a) physical violence,45 to under 55 years,,robbery,,,,,241.0
+2015,a) physical violence,45 to under 55 years,,robbery,,,,,210.0
+2016,a) physical violence,45 to under 55 years,,robbery,,,,,238.0
+2017,a) physical violence,45 to under 55 years,,robbery,,,,,231.0
+2018,a) physical violence,45 to under 55 years,,robbery,,,,,204.0
+2019,a) physical violence,45 to under 55 years,,robbery,,,,,187.0
+2020,a) physical violence,45 to under 55 years,,robbery,,,,,225.0
+2021,a) physical violence,45 to under 55 years,,robbery,,,,,207.0
+2022,a) physical violence,45 to under 55 years,,robbery,,,,,198.0
+2023,a) physical violence,45 to under 55 years,,robbery,,,,,253.0
+2024,a) physical violence,45 to under 55 years,,robbery,,,,,203.0
+2010,a) physical violence,55 to under 65 years,,robbery,,,,,111.0
+2011,a) physical violence,55 to under 65 years,,robbery,,,,,90.0
+2012,a) physical violence,55 to under 65 years,,robbery,,,,,105.0
+2013,a) physical violence,55 to under 65 years,,robbery,,,,,84.0
+2014,a) physical violence,55 to under 65 years,,robbery,,,,,99.0
+2015,a) physical violence,55 to under 65 years,,robbery,,,,,83.0
+2016,a) physical violence,55 to under 65 years,,robbery,,,,,87.0
+2017,a) physical violence,55 to under 65 years,,robbery,,,,,105.0
+2018,a) physical violence,55 to under 65 years,,robbery,,,,,106.0
+2019,a) physical violence,55 to under 65 years,,robbery,,,,,95.0
+2020,a) physical violence,55 to under 65 years,,robbery,,,,,107.0
+2021,a) physical violence,55 to under 65 years,,robbery,,,,,79.0
+2022,a) physical violence,55 to under 65 years,,robbery,,,,,73.0
+2023,a) physical violence,55 to under 65 years,,robbery,,,,,88.0
+2024,a) physical violence,55 to under 65 years,,robbery,,,,,101.0
+2010,a) physical violence,65 to under 75 years,,robbery,,.,,,
+2011,a) physical violence,65 to under 75 years,,robbery,,.,,,
+2012,a) physical violence,65 to under 75 years,,robbery,,,,,133.0
+2013,a) physical violence,65 to under 75 years,,robbery,,,,,175.0
+2014,a) physical violence,65 to under 75 years,,robbery,,,,,197.0
+2015,a) physical violence,65 to under 75 years,,robbery,,,,,163.0
+2016,a) physical violence,65 to under 75 years,,robbery,,,,,181.0
+2017,a) physical violence,65 to under 75 years,,robbery,,,,,189.0
+2018,a) physical violence,65 to under 75 years,,robbery,,,,,155.0
+2019,a) physical violence,65 to under 75 years,,robbery,,,,,156.0
+2020,a) physical violence,65 to under 75 years,,robbery,,,,,177.0
+2021,a) physical violence,65 to under 75 years,,robbery,,,,,135.0
+2022,a) physical violence,65 to under 75 years,,robbery,,,,,158.0
+2023,a) physical violence,65 to under 75 years,,robbery,,,,,183.0
+2024,a) physical violence,65 to under 75 years,,robbery,,,,,164.0
+2010,a) physical violence,75 years and older,,robbery,,.,,,
+2011,a) physical violence,75 years and older,,robbery,,.,,,
+2012,a) physical violence,75 years and older,,robbery,,,,,113.0
+2013,a) physical violence,75 years and older,,robbery,,,,,146.0
+2014,a) physical violence,75 years and older,,robbery,,,,,167.0
+2015,a) physical violence,75 years and older,,robbery,,,,,139.0
+2016,a) physical violence,75 years and older,,robbery,,,,,164.0
+2017,a) physical violence,75 years and older,,robbery,,,,,153.0
+2018,a) physical violence,75 years and older,,robbery,,,,,127.0
+2019,a) physical violence,75 years and older,,robbery,,,,,123.0
+2020,a) physical violence,75 years and older,,robbery,,,,,146.0
+2021,a) physical violence,75 years and older,,robbery,,,,,121.0
+2022,a) physical violence,75 years and older,,robbery,,,,,137.0
+2023,a) physical violence,75 years and older,,robbery,,,,,159.0
+2024,a) physical violence,75 years and older,,robbery,,,,,138.0
+2010,a) physical violence,,female,robbery,,.,,,
+2011,a) physical violence,,female,robbery,,.,,,
+2012,a) physical violence,,female,robbery,,,,,20.0
+2013,a) physical violence,,female,robbery,,,,,29.0
+2014,a) physical violence,,female,robbery,,,,,30.0
+2015,a) physical violence,,female,robbery,,,,,24.0
+2016,a) physical violence,,female,robbery,,,,,17.0
+2017,a) physical violence,,female,robbery,,,,,36.0
+2018,a) physical violence,,female,robbery,,,,,28.0
+2019,a) physical violence,,female,robbery,,,,,33.0
+2020,a) physical violence,,female,robbery,,,,,31.0
+2021,a) physical violence,,female,robbery,,,,,14.0
+2022,a) physical violence,,female,robbery,,,,,21.0
+2023,a) physical violence,,female,robbery,,,,,24.0
+2024,a) physical violence,,female,robbery,,,,,26.0
+2010,a) physical violence,,male,robbery,,.,,,
+2011,a) physical violence,,male,robbery,,.,,,
+2012,a) physical violence,,male,robbery,,,,,154.0
+2013,a) physical violence,,male,robbery,,,,,133.0
+2014,a) physical violence,,male,robbery,,,,,143.0
+2015,a) physical violence,,male,robbery,,,,,130.0
+2016,a) physical violence,,male,robbery,,,,,144.0
+2017,a) physical violence,,male,robbery,,,,,147.0
+2018,a) physical violence,,male,robbery,,,,,155.0
+2019,a) physical violence,,male,robbery,,,,,126.0
+2020,a) physical violence,,male,robbery,,,,,155.0
+2021,a) physical violence,,male,robbery,,,,,151.0
+2022,a) physical violence,,male,robbery,,,,,113.0
+2023,a) physical violence,,male,robbery,,,,,158.0
+2024,a) physical violence,,male,robbery,,,,,140.0
+2010,b) psychological violence,,,,,.,,,
+2011,b) psychological violence,,,,,.,,,
+2012,b) psychological violence,,,,,,,,69.0
+2013,b) psychological violence,,,,,,,,78.0
+2014,b) psychological violence,,,,,,,,74.0
+2015,b) psychological violence,,,,,,,,71.0
+2016,b) psychological violence,,,,,,,,74.0
+2017,b) psychological violence,,,,,,,,78.0
+2018,b) psychological violence,,,,,,,,77.0
+2019,b) psychological violence,,,,,,,,64.0
+2020,b) psychological violence,,,,,,,,79.0
+2021,b) psychological violence,,,,,,,,86.0
+2022,b) psychological violence,,,,,,,,61.0
+2023,b) psychological violence,,,,,,,,94.0
+2024,b) psychological violence,,,,,,,,65.0
+2010,b) psychological violence,16 to under 25 years,,,,.,,,
+2011,b) psychological violence,16 to under 25 years,,,,.,,,
+2012,b) psychological violence,16 to under 25 years,,,,,,,85.0
+2013,b) psychological violence,16 to under 25 years,,,,,,,55.0
+2014,b) psychological violence,16 to under 25 years,,,,,,,69.0
+2015,b) psychological violence,16 to under 25 years,,,,,,,59.0
+2016,b) psychological violence,16 to under 25 years,,,,,,,70.0
+2017,b) psychological violence,16 to under 25 years,,,,,,,69.0
+2018,b) psychological violence,16 to under 25 years,,,,,,,78.0
+2019,b) psychological violence,16 to under 25 years,,,,,,,62.0
+2020,b) psychological violence,16 to under 25 years,,,,,,,76.0
+2021,b) psychological violence,16 to under 25 years,,,,,,,65.0
+2022,b) psychological violence,16 to under 25 years,,,,,,,52.0
+2023,b) psychological violence,16 to under 25 years,,,,,,,64.0
+2024,b) psychological violence,16 to under 25 years,,,,,,,75.0
+2010,b) psychological violence,25 to under 35 years,,,,,,,0.01
+2011,b) psychological violence,25 to under 35 years,,,,,,,0.009
+2012,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2013,b) psychological violence,25 to under 35 years,,,,,,,0.001
+2014,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2015,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2016,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2017,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2018,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2019,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2020,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2021,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2022,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2023,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2024,b) psychological violence,25 to under 35 years,,,,‒,,,0.0
+2010,b) psychological violence,35 to under 45 years,,,,.,,,
+2011,b) psychological violence,35 to under 45 years,,,,.,,,
+2012,b) psychological violence,35 to under 45 years,,,,r,,,
+2013,b) psychological violence,35 to under 45 years,,,,.,,,
+2014,b) psychological violence,35 to under 45 years,,,,.,,,
+2015,b) psychological violence,35 to under 45 years,,,,.,,,
+2016,b) psychological violence,35 to under 45 years,,,,.,,,
+2017,b) psychological violence,35 to under 45 years,,,,r,,,
+2018,b) psychological violence,35 to under 45 years,,,,.,,,
+2019,b) psychological violence,35 to under 45 years,,,,.,,,
+2020,b) psychological violence,35 to under 45 years,,,,|,r,,2.3
+2021,b) psychological violence,35 to under 45 years,,,,…,,,
+2022,b) psychological violence,35 to under 45 years,,,,…,,,
+2023,b) psychological violence,35 to under 45 years,,,,…,,,
+2024,b) psychological violence,35 to under 45 years,,,,…,,,
+2010,b) psychological violence,45 to under 55 years,,,,.,,,
+2011,b) psychological violence,45 to under 55 years,,,,.,,,
+2012,b) psychological violence,45 to under 55 years,,,,r,,,
+2013,b) psychological violence,45 to under 55 years,,,,.,,,
+2014,b) psychological violence,45 to under 55 years,,,,.,,,
+2015,b) psychological violence,45 to under 55 years,,,,.,,,
+2016,b) psychological violence,45 to under 55 years,,,,.,,,
+2017,b) psychological violence,45 to under 55 years,,,,r,,,
+2018,b) psychological violence,45 to under 55 years,,,,.,,,
+2019,b) psychological violence,45 to under 55 years,,,,.,,,
+2020,b) psychological violence,45 to under 55 years,,,,|,r,,5.7
+2021,b) psychological violence,45 to under 55 years,,,,…,,,
+2022,b) psychological violence,45 to under 55 years,,,,…,,,
+2023,b) psychological violence,45 to under 55 years,,,,…,,,
+2024,b) psychological violence,45 to under 55 years,,,,…,,,
+2010,b) psychological violence,55 to under 65 years,,,,.,,,
+2011,b) psychological violence,55 to under 65 years,,,,.,,,
+2012,b) psychological violence,55 to under 65 years,,,,r,,,
+2013,b) psychological violence,55 to under 65 years,,,,.,,,
+2014,b) psychological violence,55 to under 65 years,,,,.,,,
+2015,b) psychological violence,55 to under 65 years,,,,.,,,
+2016,b) psychological violence,55 to under 65 years,,,,.,,,
+2017,b) psychological violence,55 to under 65 years,,,,r,,,
+2018,b) psychological violence,55 to under 65 years,,,,.,,,
+2019,b) psychological violence,55 to under 65 years,,,,.,,,
+2020,b) psychological violence,55 to under 65 years,,,,|,r,,3.7
+2021,b) psychological violence,55 to under 65 years,,,,…,,,
+2022,b) psychological violence,55 to under 65 years,,,,…,,,
+2023,b) psychological violence,55 to under 65 years,,,,…,,,
+2024,b) psychological violence,55 to under 65 years,,,,…,,,
+2010,b) psychological violence,65 to under 75 years,,,,.,,,
+2011,b) psychological violence,65 to under 75 years,,,,.,,,
+2012,b) psychological violence,65 to under 75 years,,,,r,,,
+2013,b) psychological violence,65 to under 75 years,,,,.,,,
+2014,b) psychological violence,65 to under 75 years,,,,.,,,
+2015,b) psychological violence,65 to under 75 years,,,,.,,,
+2016,b) psychological violence,65 to under 75 years,,,,.,,,
+2017,b) psychological violence,65 to under 75 years,,,,r,,,
+2018,b) psychological violence,65 to under 75 years,,,,.,,,
+2019,b) psychological violence,65 to under 75 years,,,,.,,,
+2020,b) psychological violence,65 to under 75 years,,,,|,r,,2.2
+2021,b) psychological violence,65 to under 75 years,,,,…,,,
+2022,b) psychological violence,65 to under 75 years,,,,…,,,
+2023,b) psychological violence,65 to under 75 years,,,,…,,,
+2024,b) psychological violence,65 to under 75 years,,,,…,,,
+2010,b) psychological violence,75 years and older,,,,.,,,
+2011,b) psychological violence,75 years and older,,,,.,,,
+2012,b) psychological violence,75 years and older,,,,r,,,
+2013,b) psychological violence,75 years and older,,,,.,,,
+2014,b) psychological violence,75 years and older,,,,.,,,
+2015,b) psychological violence,75 years and older,,,,.,,,
+2016,b) psychological violence,75 years and older,,,,.,,,
+2017,b) psychological violence,75 years and older,,,,r,,,
+2018,b) psychological violence,75 years and older,,,,.,,,
+2019,b) psychological violence,75 years and older,,,,.,,,
+2020,b) psychological violence,75 years and older,,,,|,r,,1.5
+2021,b) psychological violence,75 years and older,,,,…,,,
+2022,b) psychological violence,75 years and older,,,,…,,,
+2023,b) psychological violence,75 years and older,,,,…,,,
+2024,b) psychological violence,75 years and older,,,,…,,,
+2010,b) psychological violence,,female,,,.,,,
+2011,b) psychological violence,,female,,,.,,,
+2012,b) psychological violence,,female,,,r,,,
+2013,b) psychological violence,,female,,,.,,,
+2014,b) psychological violence,,female,,,.,,,
+2015,b) psychological violence,,female,,,.,,,
+2016,b) psychological violence,,female,,,.,,,
+2017,b) psychological violence,,female,,,r,,,
+2018,b) psychological violence,,female,,,.,,,
+2019,b) psychological violence,,female,,,.,,,
+2020,b) psychological violence,,female,,,|,r,,1.3
+2021,b) psychological violence,,female,,,…,,,
+2022,b) psychological violence,,female,,,…,,,
+2023,b) psychological violence,,female,,,…,,,
+2024,b) psychological violence,,female,,,…,,,
+2010,b) psychological violence,,male,,,.,,,
+2011,b) psychological violence,,male,,,.,,,
+2012,b) psychological violence,,male,,,.,,,
+2013,b) psychological violence,,male,,,.,,,
+2014,b) psychological violence,,male,,,.,,,
+2015,b) psychological violence,,male,,,.,,,
+2016,b) psychological violence,,male,,,.,,,
+2017,b) psychological violence,,male,,,r,,,
+2018,b) psychological violence,,male,,,.,,,
+2019,b) psychological violence,,male,,,.,,,
+2020,b) psychological violence,,male,,,|,r,,1.2
+2021,b) psychological violence,,male,,,…,,,
+2022,b) psychological violence,,male,,,…,,,
+2023,b) psychological violence,,male,,,…,,,
+2024,b) psychological violence,,male,,,…,,,
+2010,c) sexual violence,,,,,.,,,
+2011,c) sexual violence,,,,,.,,,
+2012,c) sexual violence,,,,,.,,,
+2013,c) sexual violence,,,,,.,,,
+2014,c) sexual violence,,,,,.,,,
+2015,c) sexual violence,,,,,.,,,
+2016,c) sexual violence,,,,,.,,,
+2017,c) sexual violence,,,,,r,,,
+2018,c) sexual violence,,,,,.,,,
+2019,c) sexual violence,,,,,.,,,
+2020,c) sexual violence,,,,,|,r,,1.0
+2021,c) sexual violence,,,,,…,,,
+2022,c) sexual violence,,,,,…,,,
+2023,c) sexual violence,,,,,…,,,
+2024,c) sexual violence,,,,,…,,,
+2010,c) sexual violence,16 to under 25 years,,,,.,,,
+2011,c) sexual violence,16 to under 25 years,,,,.,,,
+2012,c) sexual violence,16 to under 25 years,,,,r,,,
+2013,c) sexual violence,16 to under 25 years,,,,.,,,
+2014,c) sexual violence,16 to under 25 years,,,,.,,,
+2015,c) sexual violence,16 to under 25 years,,,,.,,,
+2016,c) sexual violence,16 to under 25 years,,,,.,,,
+2017,c) sexual violence,16 to under 25 years,,,,r,,,
+2018,c) sexual violence,16 to under 25 years,,,,.,,,
+2019,c) sexual violence,16 to under 25 years,,,,.,,,
+2020,c) sexual violence,16 to under 25 years,,,,|,r,,1.6
+2021,c) sexual violence,16 to under 25 years,,,,…,,,
+2022,c) sexual violence,16 to under 25 years,,,,…,,,
+2023,c) sexual violence,16 to under 25 years,,,,…,,,
+2024,c) sexual violence,16 to under 25 years,,,,…,,,
+2010,c) sexual violence,25 to under 35 years,,,,.,,,
+2011,c) sexual violence,25 to under 35 years,,,,.,,,
+2012,c) sexual violence,25 to under 35 years,,,,r,,,
+2013,c) sexual violence,25 to under 35 years,,,,.,,,
+2014,c) sexual violence,25 to under 35 years,,,,.,,,
+2015,c) sexual violence,25 to under 35 years,,,,.,,,
+2016,c) sexual violence,25 to under 35 years,,,,.,,,
+2017,c) sexual violence,25 to under 35 years,,,,r,,,
+2018,c) sexual violence,25 to under 35 years,,,,.,,,
+2019,c) sexual violence,25 to under 35 years,,,,.,,,
+2020,c) sexual violence,25 to under 35 years,,,,|,r,,3.0
+2021,c) sexual violence,25 to under 35 years,,,,…,,,
+2022,c) sexual violence,25 to under 35 years,,,,…,,,
+2023,c) sexual violence,25 to under 35 years,,,,…,,,
+2024,c) sexual violence,25 to under 35 years,,,,…,,,
+2010,c) sexual violence,35 to under 45 years,,,,.,,,
+2011,c) sexual violence,35 to under 45 years,,,,.,,,
+2012,c) sexual violence,35 to under 45 years,,,,,,,2.7
+2013,c) sexual violence,35 to under 45 years,,,,.,,,
+2014,c) sexual violence,35 to under 45 years,,,,.,,,
+2015,c) sexual violence,35 to under 45 years,,,,.,,,
+2016,c) sexual violence,35 to under 45 years,,,,.,,,
+2017,c) sexual violence,35 to under 45 years,,,,,,,3.0
+2018,c) sexual violence,35 to under 45 years,,,,.,,,
+2019,c) sexual violence,35 to under 45 years,,,,.,,,
+2020,c) sexual violence,35 to under 45 years,,,,,,,2.0
+2021,c) sexual violence,35 to under 45 years,,,,…,,,
+2022,c) sexual violence,35 to under 45 years,,,,…,,,
+2023,c) sexual violence,35 to under 45 years,,,,…,,,
+2024,c) sexual violence,35 to under 45 years,,,,…,,,
+2010,c) sexual violence,45 to under 55 years,,,,.,,,
+2011,c) sexual violence,45 to under 55 years,,,,.,,,
+2012,c) sexual violence,45 to under 55 years,,,,,,,10.1
+2013,c) sexual violence,45 to under 55 years,,,,.,,,
+2014,c) sexual violence,45 to under 55 years,,,,.,,,
+2015,c) sexual violence,45 to under 55 years,,,,.,,,
+2016,c) sexual violence,45 to under 55 years,,,,.,,,
+2017,c) sexual violence,45 to under 55 years,,,,,,,10.4
+2018,c) sexual violence,45 to under 55 years,,,,.,,,
+2019,c) sexual violence,45 to under 55 years,,,,.,,,
+2020,c) sexual violence,45 to under 55 years,,,,,,,4.6
+2021,c) sexual violence,45 to under 55 years,,,,…,,,
+2022,c) sexual violence,45 to under 55 years,,,,…,,,
+2023,c) sexual violence,45 to under 55 years,,,,…,,,
+2024,c) sexual violence,45 to under 55 years,,,,…,,,
+2010,c) sexual violence,55 to under 65 years,,,,.,,,
+2011,c) sexual violence,55 to under 65 years,,,,.,,,
+2012,c) sexual violence,55 to under 65 years,,,,,,,0.4
+2013,c) sexual violence,55 to under 65 years,,,,.,,,
+2014,c) sexual violence,55 to under 65 years,,,,.,,,
+2015,c) sexual violence,55 to under 65 years,,,,.,,,
+2016,c) sexual violence,55 to under 65 years,,,,.,,,
+2017,c) sexual violence,55 to under 65 years,,,,,,,4.6
+2018,c) sexual violence,55 to under 65 years,,,,.,,,
+2019,c) sexual violence,55 to under 65 years,,,,.,,,
+2020,c) sexual violence,55 to under 65 years,,,,,,,3.5
+2021,c) sexual violence,55 to under 65 years,,,,…,,,
+2022,c) sexual violence,55 to under 65 years,,,,…,,,
+2023,c) sexual violence,55 to under 65 years,,,,…,,,
+2024,c) sexual violence,55 to under 65 years,,,,…,,,
+2010,c) sexual violence,65 to under 75 years,,,,.,,,
+2011,c) sexual violence,65 to under 75 years,,,,.,,,
+2012,c) sexual violence,65 to under 75 years,,,,,,,2.4
+2013,c) sexual violence,65 to under 75 years,,,,.,,,
+2014,c) sexual violence,65 to under 75 years,,,,.,,,
+2015,c) sexual violence,65 to under 75 years,,,,.,,,
+2016,c) sexual violence,65 to under 75 years,,,,.,,,
+2017,c) sexual violence,65 to under 75 years,,,,,,,2.8
+2018,c) sexual violence,65 to under 75 years,,,,.,,,
+2019,c) sexual violence,65 to under 75 years,,,,.,,,
+2020,c) sexual violence,65 to under 75 years,,,,,,,2.0
+2021,c) sexual violence,65 to under 75 years,,,,…,,,
+2022,c) sexual violence,65 to under 75 years,,,,…,,,
+2023,c) sexual violence,65 to under 75 years,,,,…,,,
+2024,c) sexual violence,65 to under 75 years,,,,…,,,
+2010,c) sexual violence,75 years and older,,,,.,,,
+2011,c) sexual violence,75 years and older,,,,.,,,
+2012,c) sexual violence,75 years and older,,,,,,,1.9
+2013,c) sexual violence,75 years and older,,,,.,,,
+2014,c) sexual violence,75 years and older,,,,.,,,
+2015,c) sexual violence,75 years and older,,,,.,,,
+2016,c) sexual violence,75 years and older,,,,.,,,
+2017,c) sexual violence,75 years and older,,,,,,,2.3
+2018,c) sexual violence,75 years and older,,,,.,,,
+2019,c) sexual violence,75 years and older,,,,.,,,
+2020,c) sexual violence,75 years and older,,,,,,,1.4
+2021,c) sexual violence,75 years and older,,,,…,,,
+2022,c) sexual violence,75 years and older,,,,…,,,
+2023,c) sexual violence,75 years and older,,,,…,,,
+2024,c) sexual violence,75 years and older,,,,…,,,
+2010,c) sexual violence,,female,,,.,,,
+2011,c) sexual violence,,female,,,.,,,
+2012,c) sexual violence,,female,,,,,,0.6
+2013,c) sexual violence,,female,,,.,,,
+2014,c) sexual violence,,female,,,.,,,
+2015,c) sexual violence,,female,,,.,,,
+2016,c) sexual violence,,female,,,.,,,
+2017,c) sexual violence,,female,,,,,,1.4
+2018,c) sexual violence,,female,,,.,,,
+2019,c) sexual violence,,female,,,.,,,
+2020,c) sexual violence,,female,,,,,,1.2
+2021,c) sexual violence,,female,,,…,,,
+2022,c) sexual violence,,female,,,…,,,
+2023,c) sexual violence,,female,,,…,,,
+2024,c) sexual violence,,female,,,…,,,
+2010,c) sexual violence,,male,,,.,,,
+2011,c) sexual violence,,male,,,.,,,
+2012,c) sexual violence,,male,,,.,,,
+2013,c) sexual violence,,male,,,.,,,
+2014,c) sexual violence,,male,,,.,,,
+2015,c) sexual violence,,male,,,.,,,
+2016,c) sexual violence,,male,,,.,,,
+2017,c) sexual violence,,male,,,,,,0.6
+2018,c) sexual violence,,male,,,.,,,
+2019,c) sexual violence,,male,,,.,,,
+2020,c) sexual violence,,male,,,,,,1.0
+2021,c) sexual violence,,male,,,…,,,
+2022,c) sexual violence,,male,,,…,,,
+2023,c) sexual violence,,male,,,…,,,
+2024,c) sexual violence,,male,,,…,,,
+2010,c) sexual violence,,,,physical sexual assault,.,,,
+2011,c) sexual violence,,,,physical sexual assault,.,,,
+2012,c) sexual violence,,,,physical sexual assault,.,,,
+2013,c) sexual violence,,,,physical sexual assault,.,,,
+2014,c) sexual violence,,,,physical sexual assault,.,,,
+2015,c) sexual violence,,,,physical sexual assault,.,,,
+2016,c) sexual violence,,,,physical sexual assault,.,,,
+2017,c) sexual violence,,,,physical sexual assault,,,,0.2
+2018,c) sexual violence,,,,physical sexual assault,.,,,
+2019,c) sexual violence,,,,physical sexual assault,.,,,
+2020,c) sexual violence,,,,physical sexual assault,,,,0.9
+2021,c) sexual violence,,,,physical sexual assault,…,,,
+2022,c) sexual violence,,,,physical sexual assault,…,,,
+2023,c) sexual violence,,,,physical sexual assault,…,,,
+2024,c) sexual violence,,,,physical sexual assault,…,,,
+2010,c) sexual violence,16 to under 25 years,,,physical sexual assault,.,,,
+2011,c) sexual violence,16 to under 25 years,,,physical sexual assault,.,,,
+2012,c) sexual violence,16 to under 25 years,,,physical sexual assault,,,,1.5
+2013,c) sexual violence,16 to under 25 years,,,physical sexual assault,.,,,
+2014,c) sexual violence,16 to under 25 years,,,physical sexual assault,.,,,
+2015,c) sexual violence,16 to under 25 years,,,physical sexual assault,.,,,
+2016,c) sexual violence,16 to under 25 years,,,physical sexual assault,.,,,
+2017,c) sexual violence,16 to under 25 years,,,physical sexual assault,,,,2.0
+2018,c) sexual violence,16 to under 25 years,,,physical sexual assault,.,,,
+2019,c) sexual violence,16 to under 25 years,,,physical sexual assault,.,,,
+2020,c) sexual violence,16 to under 25 years,,,physical sexual assault,,,,1.3
+2021,c) sexual violence,16 to under 25 years,,,physical sexual assault,…,,,
+2022,c) sexual violence,16 to under 25 years,,,physical sexual assault,…,,,
+2023,c) sexual violence,16 to under 25 years,,,physical sexual assault,…,,,
+2024,c) sexual violence,16 to under 25 years,,,physical sexual assault,…,,,
+2010,c) sexual violence,25 to under 35 years,,,physical sexual assault,.,,,
+2011,c) sexual violence,25 to under 35 years,,,physical sexual assault,.,,,
+2012,c) sexual violence,25 to under 35 years,,,physical sexual assault,,,,4.0
+2013,c) sexual violence,25 to under 35 years,,,physical sexual assault,.,,,
+2014,c) sexual violence,25 to under 35 years,,,physical sexual assault,.,,,
+2015,c) sexual violence,25 to under 35 years,,,physical sexual assault,.,,,
+2016,c) sexual violence,25 to under 35 years,,,physical sexual assault,.,,,
+2017,c) sexual violence,25 to under 35 years,,,physical sexual assault,,,,4.0
+2018,c) sexual violence,25 to under 35 years,,,physical sexual assault,.,,,
+2019,c) sexual violence,25 to under 35 years,,,physical sexual assault,.,,,
+2020,c) sexual violence,25 to under 35 years,,,physical sexual assault,,,,2.8
+2021,c) sexual violence,25 to under 35 years,,,physical sexual assault,…,,,
+2022,c) sexual violence,25 to under 35 years,,,physical sexual assault,…,,,
+2023,c) sexual violence,25 to under 35 years,,,physical sexual assault,…,,,
+2024,c) sexual violence,25 to under 35 years,,,physical sexual assault,…,,,
+2010,c) sexual violence,35 to under 45 years,,,physical sexual assault,.,,,
+2011,c) sexual violence,35 to under 45 years,,,physical sexual assault,.,,,
+2012,c) sexual violence,35 to under 45 years,,,physical sexual assault,,,,0.7
+2013,c) sexual violence,35 to under 45 years,,,physical sexual assault,.,,,
+2014,c) sexual violence,35 to under 45 years,,,physical sexual assault,.,,,
+2015,c) sexual violence,35 to under 45 years,,,physical sexual assault,.,,,
+2016,c) sexual violence,35 to under 45 years,,,physical sexual assault,.,,,
+2017,c) sexual violence,35 to under 45 years,,,physical sexual assault,,,,1.0
+2018,c) sexual violence,35 to under 45 years,,,physical sexual assault,.,,,
+2019,c) sexual violence,35 to under 45 years,,,physical sexual assault,.,,,
+2020,c) sexual violence,35 to under 45 years,,,physical sexual assault,,,,0.6
+2021,c) sexual violence,35 to under 45 years,,,physical sexual assault,…,,,
+2022,c) sexual violence,35 to under 45 years,,,physical sexual assault,…,,,
+2023,c) sexual violence,35 to under 45 years,,,physical sexual assault,…,,,
+2024,c) sexual violence,35 to under 45 years,,,physical sexual assault,…,,,
+2010,c) sexual violence,45 to under 55 years,,,physical sexual assault,.,,,
+2011,c) sexual violence,45 to under 55 years,,,physical sexual assault,.,,,
+2012,c) sexual violence,45 to under 55 years,,,physical sexual assault,.,,,
+2013,c) sexual violence,45 to under 55 years,,,physical sexual assault,.,,,
+2014,c) sexual violence,45 to under 55 years,,,physical sexual assault,.,,,
+2015,c) sexual violence,45 to under 55 years,,,physical sexual assault,.,,,
+2016,c) sexual violence,45 to under 55 years,,,physical sexual assault,.,,,
+2017,c) sexual violence,45 to under 55 years,,,physical sexual assault,,,,3.5
+2018,c) sexual violence,45 to under 55 years,,,physical sexual assault,.,,,
+2019,c) sexual violence,45 to under 55 years,,,physical sexual assault,.,,,
+2020,c) sexual violence,45 to under 55 years,,,physical sexual assault,,,,
+2021,c) sexual violence,45 to under 55 years,,,physical sexual assault,…,,,
+2022,c) sexual violence,45 to under 55 years,,,physical sexual assault,…,,,
+2023,c) sexual violence,45 to under 55 years,,,physical sexual assault,…,,,
+2024,c) sexual violence,45 to under 55 years,,,physical sexual assault,…,,,
+2010,c) sexual violence,55 to under 65 years,,,physical sexual assault,.,,,
+2011,c) sexual violence,55 to under 65 years,,,physical sexual assault,.,,,
+2012,c) sexual violence,55 to under 65 years,,,physical sexual assault,.,,,
+2013,c) sexual violence,55 to under 65 years,,,physical sexual assault,.,,,
+2014,c) sexual violence,55 to under 65 years,,,physical sexual assault,.,,,
+2015,c) sexual violence,55 to under 65 years,,,physical sexual assault,.,,,
+2016,c) sexual violence,55 to under 65 years,,,physical sexual assault,.,,,
+2017,c) sexual violence,55 to under 65 years,,,physical sexual assault,,,,1.2
+2018,c) sexual violence,55 to under 65 years,,,physical sexual assault,.,,,
+2019,c) sexual violence,55 to under 65 years,,,physical sexual assault,.,,,
+2020,c) sexual violence,55 to under 65 years,,,physical sexual assault,,,,0.5
+2021,c) sexual violence,55 to under 65 years,,,physical sexual assault,…,,,
+2022,c) sexual violence,55 to under 65 years,,,physical sexual assault,…,,,
+2023,c) sexual violence,55 to under 65 years,,,physical sexual assault,…,,,
+2024,c) sexual violence,55 to under 65 years,,,physical sexual assault,…,,,
+2010,c) sexual violence,65 to under 75 years,,,physical sexual assault,.,,,
+2011,c) sexual violence,65 to under 75 years,,,physical sexual assault,.,,,
+2012,c) sexual violence,65 to under 75 years,,,physical sexual assault,.,,,
+2013,c) sexual violence,65 to under 75 years,,,physical sexual assault,.,,,
+2014,c) sexual violence,65 to under 75 years,,,physical sexual assault,.,,,
+2015,c) sexual violence,65 to under 75 years,,,physical sexual assault,.,,,
+2016,c) sexual violence,65 to under 75 years,,,physical sexual assault,.,,,
+2017,c) sexual violence,65 to under 75 years,,,physical sexual assault,,,,1.0
+2018,c) sexual violence,65 to under 75 years,,,physical sexual assault,.,,,
+2019,c) sexual violence,65 to under 75 years,,,physical sexual assault,.,,,
+2020,c) sexual violence,65 to under 75 years,,,physical sexual assault,,,,0.6
+2021,c) sexual violence,65 to under 75 years,,,physical sexual assault,…,,,
+2022,c) sexual violence,65 to under 75 years,,,physical sexual assault,…,,,
+2023,c) sexual violence,65 to under 75 years,,,physical sexual assault,…,,,
+2024,c) sexual violence,65 to under 75 years,,,physical sexual assault,…,,,
+2010,c) sexual violence,75 years and older,,,physical sexual assault,.,,,
+2011,c) sexual violence,75 years and older,,,physical sexual assault,.,,,
+2012,c) sexual violence,75 years and older,,,physical sexual assault,.,,,
+2013,c) sexual violence,75 years and older,,,physical sexual assault,.,,,
+2014,c) sexual violence,75 years and older,,,physical sexual assault,.,,,
+2015,c) sexual violence,75 years and older,,,physical sexual assault,.,,,
+2016,c) sexual violence,75 years and older,,,physical sexual assault,.,,,
+2017,c) sexual violence,75 years and older,,,physical sexual assault,,,,0.8
+2018,c) sexual violence,75 years and older,,,physical sexual assault,.,,,
+2019,c) sexual violence,75 years and older,,,physical sexual assault,.,,,
+2020,c) sexual violence,75 years and older,,,physical sexual assault,,,,0.2
+2021,c) sexual violence,75 years and older,,,physical sexual assault,…,,,
+2022,c) sexual violence,75 years and older,,,physical sexual assault,…,,,
+2023,c) sexual violence,75 years and older,,,physical sexual assault,…,,,
+2024,c) sexual violence,75 years and older,,,physical sexual assault,…,,,
+2010,c) sexual violence,,female,,physical sexual assault,.,,,
+2011,c) sexual violence,,female,,physical sexual assault,.,,,
+2012,c) sexual violence,,female,,physical sexual assault,.,,,
+2013,c) sexual violence,,female,,physical sexual assault,.,,,
+2014,c) sexual violence,,female,,physical sexual assault,.,,,
+2015,c) sexual violence,,female,,physical sexual assault,.,,,
+2016,c) sexual violence,,female,,physical sexual assault,.,,,
+2017,c) sexual violence,,female,,physical sexual assault,,,,0.5
+2018,c) sexual violence,,female,,physical sexual assault,.,,,
+2019,c) sexual violence,,female,,physical sexual assault,.,,,
+2020,c) sexual violence,,female,,physical sexual assault,,,,0.4
+2021,c) sexual violence,,female,,physical sexual assault,…,,,
+2022,c) sexual violence,,female,,physical sexual assault,…,,,
+2023,c) sexual violence,,female,,physical sexual assault,…,,,
+2024,c) sexual violence,,female,,physical sexual assault,…,,,
+2010,c) sexual violence,,male,,physical sexual assault,.,,,
+2011,c) sexual violence,,male,,physical sexual assault,.,,,
+2012,c) sexual violence,,male,,physical sexual assault,.,,,
+2013,c) sexual violence,,male,,physical sexual assault,.,,,
+2014,c) sexual violence,,male,,physical sexual assault,.,,,
+2015,c) sexual violence,,male,,physical sexual assault,.,,,
+2016,c) sexual violence,,male,,physical sexual assault,.,,,
+2017,c) sexual violence,,male,,physical sexual assault,,,,0.4
+2018,c) sexual violence,,male,,physical sexual assault,.,,,
+2019,c) sexual violence,,male,,physical sexual assault,.,,,
+2020,c) sexual violence,,male,,physical sexual assault,,,,0.4
+2021,c) sexual violence,,male,,physical sexual assault,…,,,
+2022,c) sexual violence,,male,,physical sexual assault,…,,,
+2023,c) sexual violence,,male,,physical sexual assault,…,,,
+2024,c) sexual violence,,male,,physical sexual assault,…,,,

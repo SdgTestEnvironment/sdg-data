@@ -42,9 +42,12 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "p",
+                "…",
                 ""
               ]
             },

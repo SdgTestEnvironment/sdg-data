@@ -58,9 +58,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
-                "r",
+                ".",
                 "…",
+                "s",
+                "p",
+                "‒",
                 ""
               ]
             },

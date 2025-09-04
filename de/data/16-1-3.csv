@@ -1,84 +1,901 @@
 Year,Zeitreihe,Altersklasse,Geschlecht,Art der physischen Gewalt,Art der sexuellen Gewalt,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2020,a) Physische Gewalt,,,,,|,r,,2.3
-2020,a) Physische Gewalt,16 bis unter 25 Jahre,,,,|,r,,5.7
-2020,a) Physische Gewalt,25 bis unter 35 Jahre,,,,|,r,,3.7
-2020,a) Physische Gewalt,35 bis unter 45 Jahre,,,,|,r,,2.2
-2020,a) Physische Gewalt,45 bis unter 55 Jahre,,,,|,r,,1.5
-2020,a) Physische Gewalt,55 bis unter 65 Jahre,,,,|,r,,1.3
-2020,a) Physische Gewalt,65 bis unter 75 Jahre,,,,|,r,,1.2
-2020,a) Physische Gewalt,75 Jahre und älter,,,,|,r,,1.0
-2020,a) Physische Gewalt,,Weiblich,,,|,r,,1.6
-2020,a) Physische Gewalt,,Männlich,,,|,r,,3.0
-2012,a) Physische Gewalt,,,Körperverletzung,,,,,2.7
-2017,a) Physische Gewalt,,,Körperverletzung,,,,,3.0
-2020,a) Physische Gewalt,,,Körperverletzung,,,,,2.0
-2012,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,10.1
-2017,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,10.4
-2020,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,4.6
-2012,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,0.4
-2017,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,4.6
-2020,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,3.5
-2012,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,2.4
-2017,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,2.8
-2020,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,2.0
-2012,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,1.9
-2017,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,2.3
-2020,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,1.4
-2012,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,0.6
-2017,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,1.4
-2020,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,1.2
-2017,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,0.6
-2020,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,1.0
-2017,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,0.2
-2020,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,0.9
-2012,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,1.5
-2017,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,2.0
-2020,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,1.3
-2012,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,4.0
-2017,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,4.0
-2020,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,2.8
-2012,a) Physische Gewalt,,,Raub,,,,,0.7
-2017,a) Physische Gewalt,,,Raub,,,,,1.0
-2020,a) Physische Gewalt,,,Raub,,,,,0.6
-2017,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,3.5
-2017,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,1.2
-2020,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,0.5
-2017,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,1.0
-2020,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,0.6
-2017,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,0.8
-2020,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,0.2
-2017,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,0.5
-2020,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,0.4
-2017,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,0.4
-2020,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,0.4
-2017,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,0.4
-2017,a) Physische Gewalt,,Weiblich,Raub,,,,,0.8
-2020,a) Physische Gewalt,,Weiblich,Raub,,,,,0.5
-2017,a) Physische Gewalt,,Männlich,Raub,,,,,1.3
-2020,a) Physische Gewalt,,Männlich,Raub,,,,,0.7
-2020,b) Psychische Gewalt,,,,,,,,6.8
-2020,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,15.4
-2020,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,,,,10.7
-2020,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,,,,7.4
-2020,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,,,,5.9
-2020,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,,,,3.7
-2020,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,,,,2.6
-2020,b) Psychische Gewalt,75 Jahre und älter,,,,,,,2.7
-2020,b) Psychische Gewalt,,Weiblich,,,,,,6.0
-2020,b) Psychische Gewalt,,Männlich,,,,,,7.6
-2020,c) Sexuelle Gewalt,,,,,,,,2.1
-2020,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,,,,8.7
-2020,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,,,,3.9
-2020,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,,,,1.6
-2020,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,,,,0.4
-2020,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,,,,0.3
-2020,c) Sexuelle Gewalt,,Weiblich,,,,,,3.6
-2020,c) Sexuelle Gewalt,,Männlich,,,,,,0.3
-2020,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,,,,2.1
-2020,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,,,,8.7
-2020,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,,,,3.9
-2020,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,,,,1.6
-2020,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,,,,0.4
-2020,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,,,,0.3
-2020,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,,,,3.6
-2020,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,,,,0.3
+2010,a) Physische Gewalt,,,,,.,,,
+2011,a) Physische Gewalt,,,,,,,,1.43
+2012,a) Physische Gewalt,,,,,,,,1.01
+2013,a) Physische Gewalt,,,,,,,,0.71
+2014,a) Physische Gewalt,,,,,,,,0.86
+2015,a) Physische Gewalt,,,,,,,,0.68
+2016,a) Physische Gewalt,,,,,,,,1.81
+2017,a) Physische Gewalt,,,,,,,,0.65
+2018,a) Physische Gewalt,,,,,,,,1.02
+2019,a) Physische Gewalt,,,,,,,,0.82
+2020,a) Physische Gewalt,,,,,,,,1.15
+2021,a) Physische Gewalt,,,,,,,,1.19
+2022,a) Physische Gewalt,,,,,,,,1.24
+2023,a) Physische Gewalt,,,,,,,,0.72
+2024,a) Physische Gewalt,,,,,…,,,
+2010,a) Physische Gewalt,16 bis unter 25 Jahre,,,,.,,,
+2011,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.84
+2012,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.65
+2013,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.74
+2014,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.84
+2015,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.66
+2016,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,1.1
+2017,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.82
+2018,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.86
+2019,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.68
+2020,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.67
+2021,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.67
+2022,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.66
+2023,a) Physische Gewalt,16 bis unter 25 Jahre,,,,,,,0.89
+2024,a) Physische Gewalt,16 bis unter 25 Jahre,,,,…,,,
+2010,a) Physische Gewalt,25 bis unter 35 Jahre,,,,.,,,
+2011,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,1.12
+2012,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,1.01
+2013,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,1.0
+2014,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,1.03
+2015,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,0.91
+2016,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,1.31
+2017,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,1.07
+2018,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,1.18
+2019,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,0.93
+2020,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,1.08
+2021,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,0.9
+2022,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,0.93
+2023,a) Physische Gewalt,25 bis unter 35 Jahre,,,,,,,1.15
+2024,a) Physische Gewalt,25 bis unter 35 Jahre,,,,…,,,
+2010,a) Physische Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2011,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,0.94
+2012,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,0.9
+2013,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,1.0
+2014,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,0.98
+2015,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,1.15
+2016,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,1.3
+2017,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,1.33
+2018,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,1.04
+2019,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,0.82
+2020,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,1.24
+2021,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,1.08
+2022,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,1.24
+2023,a) Physische Gewalt,35 bis unter 45 Jahre,,,,,,,0.99
+2024,a) Physische Gewalt,35 bis unter 45 Jahre,,,,…,,,
+2010,a) Physische Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2011,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,0.78
+2012,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,0.77
+2013,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,0.93
+2014,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,0.94
+2015,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,1.02
+2016,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,1.26
+2017,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,1.4
+2018,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,0.96
+2019,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,0.9
+2020,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,1.2
+2021,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,0.91
+2022,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,0.89
+2023,a) Physische Gewalt,45 bis unter 55 Jahre,,,,,,,0.88
+2024,a) Physische Gewalt,45 bis unter 55 Jahre,,,,…,,,
+2010,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,793.0
+2011,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,738.0
+2012,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,659.0
+2013,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,682.0
+2014,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,716.0
+2015,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,682.0
+2016,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,963.0
+2017,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,813.0
+2018,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,788.0
+2019,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,623.0
+2020,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,782.0
+2021,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,695.0
+2022,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,686.0
+2023,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,770.0
+2024,a) Physische Gewalt,55 bis unter 65 Jahre,,,,,,,779.0
+2010,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,77.0
+2011,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,73.0
+2012,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,90.0
+2013,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,66.0
+2014,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,63.0
+2015,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,62.0
+2016,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,68.0
+2017,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,67.0
+2018,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,70.0
+2019,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,46.0
+2020,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,79.0
+2021,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,83.0
+2022,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,51.0
+2023,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,72.0
+2024,a) Physische Gewalt,65 bis unter 75 Jahre,,,,,,,56.0
+2010,a) Physische Gewalt,75 Jahre und älter,,,,,,,22.0
+2011,a) Physische Gewalt,75 Jahre und älter,,,,,,,27.0
+2012,a) Physische Gewalt,75 Jahre und älter,,,,,,,6.0
+2013,a) Physische Gewalt,75 Jahre und älter,,,,,,,12.0
+2014,a) Physische Gewalt,75 Jahre und älter,,,,,,,15.0
+2015,a) Physische Gewalt,75 Jahre und älter,,,,,,,14.0
+2016,a) Physische Gewalt,75 Jahre und älter,,,,,,,35.0
+2017,a) Physische Gewalt,75 Jahre und älter,,,,,,,4.0
+2018,a) Physische Gewalt,75 Jahre und älter,,,,,,,14.0
+2019,a) Physische Gewalt,75 Jahre und älter,,,,,,,11.0
+2020,a) Physische Gewalt,75 Jahre und älter,,,,,,,12.0
+2021,a) Physische Gewalt,75 Jahre und älter,,,,,,,14.0
+2022,a) Physische Gewalt,75 Jahre und älter,,,,,,,14.0
+2023,a) Physische Gewalt,75 Jahre und älter,,,,,,,17.0
+2024,a) Physische Gewalt,75 Jahre und älter,,,,,,,15.0
+2010,a) Physische Gewalt,,Weiblich,,,,,,38.0
+2011,a) Physische Gewalt,,Weiblich,,,,,,29.0
+2012,a) Physische Gewalt,,Weiblich,,,,,,23.0
+2013,a) Physische Gewalt,,Weiblich,,,,,,15.0
+2014,a) Physische Gewalt,,Weiblich,,,,,,20.0
+2015,a) Physische Gewalt,,Weiblich,,,,,,18.0
+2016,a) Physische Gewalt,,Weiblich,,,,,,43.0
+2017,a) Physische Gewalt,,Weiblich,,,,,,16.0
+2018,a) Physische Gewalt,,Weiblich,,,,,,26.0
+2019,a) Physische Gewalt,,Weiblich,,,,,,16.0
+2020,a) Physische Gewalt,,Weiblich,,,,,,21.0
+2021,a) Physische Gewalt,,Weiblich,,,,,,19.0
+2022,a) Physische Gewalt,,Weiblich,,,,,,23.0
+2023,a) Physische Gewalt,,Weiblich,,,,,,18.0
+2024,a) Physische Gewalt,,Weiblich,,,,,,27.0
+2010,a) Physische Gewalt,,Männlich,,,,,,448.0
+2011,a) Physische Gewalt,,Männlich,,,,,,424.0
+2012,a) Physische Gewalt,,Männlich,,,,,,359.0
+2013,a) Physische Gewalt,,Männlich,,,,,,377.0
+2014,a) Physische Gewalt,,Männlich,,,,,,405.0
+2015,a) Physische Gewalt,,Männlich,,,,,,343.0
+2016,a) Physische Gewalt,,Männlich,,,,,,527.0
+2017,a) Physische Gewalt,,Männlich,,,,,,414.0
+2018,a) Physische Gewalt,,Männlich,,,,,,445.0
+2019,a) Physische Gewalt,,Männlich,,,,,,349.0
+2020,a) Physische Gewalt,,Männlich,,,,,,378.0
+2021,a) Physische Gewalt,,Männlich,,,,,,336.0
+2022,a) Physische Gewalt,,Männlich,,,,,,334.0
+2023,a) Physische Gewalt,,Männlich,,,,,,430.0
+2024,a) Physische Gewalt,,Männlich,,,,,,412.0
+2010,a) Physische Gewalt,,,Körperverletzung,,,,,208.0
+2011,a) Physische Gewalt,,,Körperverletzung,,,,,185.0
+2012,a) Physische Gewalt,,,Körperverletzung,,,,,181.0
+2013,a) Physische Gewalt,,,Körperverletzung,,,,,212.0
+2014,a) Physische Gewalt,,,Körperverletzung,,,,,213.0
+2015,a) Physische Gewalt,,,Körperverletzung,,,,,245.0
+2016,a) Physische Gewalt,,,Körperverletzung,,,,,290.0
+2017,a) Physische Gewalt,,,Körperverletzung,,,,,312.0
+2018,a) Physische Gewalt,,,Körperverletzung,,,,,233.0
+2019,a) Physische Gewalt,,,Körperverletzung,,,,,201.0
+2020,a) Physische Gewalt,,,Körperverletzung,,,,,292.0
+2021,a) Physische Gewalt,,,Körperverletzung,,,,,243.0
+2022,a) Physische Gewalt,,,Körperverletzung,,,,,264.0
+2023,a) Physische Gewalt,,,Körperverletzung,,,,,233.0
+2024,a) Physische Gewalt,,,Körperverletzung,,,,,269.0
+2010,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,393.0
+2011,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,338.0
+2012,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,296.0
+2013,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,328.0
+2014,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,339.0
+2015,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,327.0
+2016,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,469.0
+2017,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,380.0
+2018,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,367.0
+2019,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,276.0
+2020,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,357.0
+2021,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,337.0
+2022,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,349.0
+2023,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,374.0
+2024,a) Physische Gewalt,16 bis unter 25 Jahre,,Körperverletzung,,,,,338.0
+2010,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,400.0
+2011,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,400.0
+2012,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,363.0
+2013,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,354.0
+2014,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,377.0
+2015,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,355.0
+2016,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,494.0
+2017,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,433.0
+2018,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,421.0
+2019,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,347.0
+2020,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,425.0
+2021,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,358.0
+2022,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,337.0
+2023,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,396.0
+2024,a) Physische Gewalt,25 bis unter 35 Jahre,,Körperverletzung,,,,,441.0
+2010,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,37.0
+2011,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,24.0
+2012,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,39.0
+2013,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,37.0
+2014,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,24.0
+2015,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,25.0
+2016,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,30.0
+2017,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,28.0
+2018,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,30.0
+2019,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,17.0
+2020,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,43.0
+2021,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,43.0
+2022,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,27.0
+2023,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,39.0
+2024,a) Physische Gewalt,35 bis unter 45 Jahre,,Körperverletzung,,,,,20.0
+2010,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,40.0
+2011,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,49.0
+2012,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,51.0
+2013,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,29.0
+2014,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,39.0
+2015,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,37.0
+2016,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,38.0
+2017,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,39.0
+2018,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,40.0
+2019,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,29.0
+2020,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,36.0
+2021,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,40.0
+2022,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,24.0
+2023,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,33.0
+2024,a) Physische Gewalt,45 bis unter 55 Jahre,,Körperverletzung,,,,,36.0
+2010,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,14.0
+2011,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,12.0
+2012,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,‒,,,0.0
+2013,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,4.0
+2014,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,5.0
+2015,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,9.0
+2016,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,22.0
+2017,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,1.0
+2018,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,8.0
+2019,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,4.0
+2020,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,4.0
+2021,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,7.0
+2022,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,12.0
+2023,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,8.0
+2024,a) Physische Gewalt,55 bis unter 65 Jahre,,Körperverletzung,,,,,7.0
+2010,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,8.0
+2011,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,15.0
+2012,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,6.0
+2013,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,8.0
+2014,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,10.0
+2015,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,5.0
+2016,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,13.0
+2017,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,3.0
+2018,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,6.0
+2019,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,7.0
+2020,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,8.0
+2021,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,7.0
+2022,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,2.0
+2023,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,9.0
+2024,a) Physische Gewalt,65 bis unter 75 Jahre,,Körperverletzung,,,,,8.0
+2010,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,19.0
+2011,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,10.0
+2012,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,10.0
+2013,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,6.0
+2014,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,9.0
+2015,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,9.0
+2016,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,18.0
+2017,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,7.0
+2018,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,12.0
+2019,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,5.0
+2020,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,6.0
+2021,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,4.0
+2022,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,8.0
+2023,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,9.0
+2024,a) Physische Gewalt,75 Jahre und älter,,Körperverletzung,,,,,13.0
+2010,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,19.0
+2011,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,19.0
+2012,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,13.0
+2013,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,9.0
+2014,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,11.0
+2015,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,9.0
+2016,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,25.0
+2017,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,9.0
+2018,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,14.0
+2019,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,11.0
+2020,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,15.0
+2021,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,15.0
+2022,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,15.0
+2023,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,9.0
+2024,a) Physische Gewalt,,Weiblich,Körperverletzung,,,,,14.0
+2010,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,202.0
+2011,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,180.0
+2012,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,139.0
+2013,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,159.0
+2014,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,180.0
+2015,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,141.0
+2016,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,236.0
+2017,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,176.0
+2018,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,184.0
+2019,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,144.0
+2020,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,142.0
+2021,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,140.0
+2022,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,136.0
+2023,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,184.0
+2024,a) Physische Gewalt,,Männlich,Körperverletzung,,,,,150.0
+2010,a) Physische Gewalt,,,Raub,,,,,246.0
+2011,a) Physische Gewalt,,,Raub,,,,,244.0
+2012,a) Physische Gewalt,,,Raub,,,,,220.0
+2013,a) Physische Gewalt,,,Raub,,,,,218.0
+2014,a) Physische Gewalt,,,Raub,,,,,225.0
+2015,a) Physische Gewalt,,,Raub,,,,,202.0
+2016,a) Physische Gewalt,,,Raub,,,,,291.0
+2017,a) Physische Gewalt,,,Raub,,,,,238.0
+2018,a) Physische Gewalt,,,Raub,,,,,261.0
+2019,a) Physische Gewalt,,,Raub,,,,,205.0
+2020,a) Physische Gewalt,,,Raub,,,,,236.0
+2021,a) Physische Gewalt,,,Raub,,,,,196.0
+2022,a) Physische Gewalt,,,Raub,,,,,198.0
+2023,a) Physische Gewalt,,,Raub,,,,,246.0
+2024,a) Physische Gewalt,,,Raub,,,,,262.0
+2010,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,121.0
+2011,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,112.0
+2012,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,108.0
+2013,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,122.0
+2014,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,121.0
+2015,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,143.0
+2016,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,163.0
+2017,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,168.0
+2018,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,133.0
+2019,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,106.0
+2020,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,162.0
+2021,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,143.0
+2022,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,166.0
+2023,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,134.0
+2024,a) Physische Gewalt,16 bis unter 25 Jahre,,Raub,,,,,148.0
+2010,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,87.0
+2011,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,73.0
+2012,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,73.0
+2013,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,90.0
+2014,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,92.0
+2015,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,102.0
+2016,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,127.0
+2017,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,144.0
+2018,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,100.0
+2019,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,95.0
+2020,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,130.0
+2021,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,100.0
+2022,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,98.0
+2023,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,99.0
+2024,a) Physische Gewalt,25 bis unter 35 Jahre,,Raub,,,,,121.0
+2010,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,343.0
+2011,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,318.0
+2012,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,287.0
+2013,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,308.0
+2014,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,340.0
+2015,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,293.0
+2016,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,325.0
+2017,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,336.0
+2018,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,310.0
+2019,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,282.0
+2020,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,332.0
+2021,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,286.0
+2022,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,271.0
+2023,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,341.0
+2024,a) Physische Gewalt,35 bis unter 45 Jahre,,Raub,,,,,304.0
+2010,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,232.0
+2011,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,228.0
+2012,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,182.0
+2013,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,224.0
+2014,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,241.0
+2015,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,210.0
+2016,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,238.0
+2017,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,231.0
+2018,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,204.0
+2019,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,187.0
+2020,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,225.0
+2021,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,207.0
+2022,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,198.0
+2023,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,253.0
+2024,a) Physische Gewalt,45 bis unter 55 Jahre,,Raub,,,,,203.0
+2010,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,111.0
+2011,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,90.0
+2012,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,105.0
+2013,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,84.0
+2014,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,99.0
+2015,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,83.0
+2016,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,87.0
+2017,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,105.0
+2018,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,106.0
+2019,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,95.0
+2020,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,107.0
+2021,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,79.0
+2022,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,73.0
+2023,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,88.0
+2024,a) Physische Gewalt,55 bis unter 65 Jahre,,Raub,,,,,101.0
+2010,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,.,,,
+2011,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,.,,,
+2012,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,133.0
+2013,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,175.0
+2014,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,197.0
+2015,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,163.0
+2016,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,181.0
+2017,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,189.0
+2018,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,155.0
+2019,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,156.0
+2020,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,177.0
+2021,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,135.0
+2022,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,158.0
+2023,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,183.0
+2024,a) Physische Gewalt,65 bis unter 75 Jahre,,Raub,,,,,164.0
+2010,a) Physische Gewalt,75 Jahre und älter,,Raub,,.,,,
+2011,a) Physische Gewalt,75 Jahre und älter,,Raub,,.,,,
+2012,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,113.0
+2013,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,146.0
+2014,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,167.0
+2015,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,139.0
+2016,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,164.0
+2017,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,153.0
+2018,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,127.0
+2019,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,123.0
+2020,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,146.0
+2021,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,121.0
+2022,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,137.0
+2023,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,159.0
+2024,a) Physische Gewalt,75 Jahre und älter,,Raub,,,,,138.0
+2010,a) Physische Gewalt,,Weiblich,Raub,,.,,,
+2011,a) Physische Gewalt,,Weiblich,Raub,,.,,,
+2012,a) Physische Gewalt,,Weiblich,Raub,,,,,20.0
+2013,a) Physische Gewalt,,Weiblich,Raub,,,,,29.0
+2014,a) Physische Gewalt,,Weiblich,Raub,,,,,30.0
+2015,a) Physische Gewalt,,Weiblich,Raub,,,,,24.0
+2016,a) Physische Gewalt,,Weiblich,Raub,,,,,17.0
+2017,a) Physische Gewalt,,Weiblich,Raub,,,,,36.0
+2018,a) Physische Gewalt,,Weiblich,Raub,,,,,28.0
+2019,a) Physische Gewalt,,Weiblich,Raub,,,,,33.0
+2020,a) Physische Gewalt,,Weiblich,Raub,,,,,31.0
+2021,a) Physische Gewalt,,Weiblich,Raub,,,,,14.0
+2022,a) Physische Gewalt,,Weiblich,Raub,,,,,21.0
+2023,a) Physische Gewalt,,Weiblich,Raub,,,,,24.0
+2024,a) Physische Gewalt,,Weiblich,Raub,,,,,26.0
+2010,a) Physische Gewalt,,Männlich,Raub,,.,,,
+2011,a) Physische Gewalt,,Männlich,Raub,,.,,,
+2012,a) Physische Gewalt,,Männlich,Raub,,,,,154.0
+2013,a) Physische Gewalt,,Männlich,Raub,,,,,133.0
+2014,a) Physische Gewalt,,Männlich,Raub,,,,,143.0
+2015,a) Physische Gewalt,,Männlich,Raub,,,,,130.0
+2016,a) Physische Gewalt,,Männlich,Raub,,,,,144.0
+2017,a) Physische Gewalt,,Männlich,Raub,,,,,147.0
+2018,a) Physische Gewalt,,Männlich,Raub,,,,,155.0
+2019,a) Physische Gewalt,,Männlich,Raub,,,,,126.0
+2020,a) Physische Gewalt,,Männlich,Raub,,,,,155.0
+2021,a) Physische Gewalt,,Männlich,Raub,,,,,151.0
+2022,a) Physische Gewalt,,Männlich,Raub,,,,,113.0
+2023,a) Physische Gewalt,,Männlich,Raub,,,,,158.0
+2024,a) Physische Gewalt,,Männlich,Raub,,,,,140.0
+2010,b) Psychische Gewalt,,,,,.,,,
+2011,b) Psychische Gewalt,,,,,.,,,
+2012,b) Psychische Gewalt,,,,,,,,69.0
+2013,b) Psychische Gewalt,,,,,,,,78.0
+2014,b) Psychische Gewalt,,,,,,,,74.0
+2015,b) Psychische Gewalt,,,,,,,,71.0
+2016,b) Psychische Gewalt,,,,,,,,74.0
+2017,b) Psychische Gewalt,,,,,,,,78.0
+2018,b) Psychische Gewalt,,,,,,,,77.0
+2019,b) Psychische Gewalt,,,,,,,,64.0
+2020,b) Psychische Gewalt,,,,,,,,79.0
+2021,b) Psychische Gewalt,,,,,,,,86.0
+2022,b) Psychische Gewalt,,,,,,,,61.0
+2023,b) Psychische Gewalt,,,,,,,,94.0
+2024,b) Psychische Gewalt,,,,,,,,65.0
+2010,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,.,,,
+2011,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,.,,,
+2012,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,85.0
+2013,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,55.0
+2014,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,69.0
+2015,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,59.0
+2016,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,70.0
+2017,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,69.0
+2018,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,78.0
+2019,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,62.0
+2020,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,76.0
+2021,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,65.0
+2022,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,52.0
+2023,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,64.0
+2024,b) Psychische Gewalt,16 bis unter 25 Jahre,,,,,,,75.0
+2010,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,,,,0.01
+2011,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,,,,0.009
+2012,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2013,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,,,,0.001
+2014,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2015,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2016,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2017,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2018,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2019,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2020,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2021,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2022,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2023,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2024,b) Psychische Gewalt,25 bis unter 35 Jahre,,,,‒,,,0.0
+2010,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2011,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2012,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,r,,,
+2013,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2014,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2015,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2016,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2017,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,r,,,
+2018,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2019,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2020,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,|,r,,2.3
+2021,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,…,,,
+2022,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,…,,,
+2023,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,…,,,
+2024,b) Psychische Gewalt,35 bis unter 45 Jahre,,,,…,,,
+2010,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2011,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2012,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,r,,,
+2013,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2014,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2015,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2016,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2017,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,r,,,
+2018,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2019,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2020,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,|,r,,5.7
+2021,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,…,,,
+2022,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,…,,,
+2023,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,…,,,
+2024,b) Psychische Gewalt,45 bis unter 55 Jahre,,,,…,,,
+2010,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2011,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2012,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,r,,,
+2013,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2014,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2015,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2016,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2017,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,r,,,
+2018,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2019,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2020,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,|,r,,3.7
+2021,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,…,,,
+2022,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,…,,,
+2023,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,…,,,
+2024,b) Psychische Gewalt,55 bis unter 65 Jahre,,,,…,,,
+2010,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2011,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2012,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,r,,,
+2013,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2014,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2015,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2016,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2017,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,r,,,
+2018,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2019,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2020,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,|,r,,2.2
+2021,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,…,,,
+2022,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,…,,,
+2023,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,…,,,
+2024,b) Psychische Gewalt,65 bis unter 75 Jahre,,,,…,,,
+2010,b) Psychische Gewalt,75 Jahre und älter,,,,.,,,
+2011,b) Psychische Gewalt,75 Jahre und älter,,,,.,,,
+2012,b) Psychische Gewalt,75 Jahre und älter,,,,r,,,
+2013,b) Psychische Gewalt,75 Jahre und älter,,,,.,,,
+2014,b) Psychische Gewalt,75 Jahre und älter,,,,.,,,
+2015,b) Psychische Gewalt,75 Jahre und älter,,,,.,,,
+2016,b) Psychische Gewalt,75 Jahre und älter,,,,.,,,
+2017,b) Psychische Gewalt,75 Jahre und älter,,,,r,,,
+2018,b) Psychische Gewalt,75 Jahre und älter,,,,.,,,
+2019,b) Psychische Gewalt,75 Jahre und älter,,,,.,,,
+2020,b) Psychische Gewalt,75 Jahre und älter,,,,|,r,,1.5
+2021,b) Psychische Gewalt,75 Jahre und älter,,,,…,,,
+2022,b) Psychische Gewalt,75 Jahre und älter,,,,…,,,
+2023,b) Psychische Gewalt,75 Jahre und älter,,,,…,,,
+2024,b) Psychische Gewalt,75 Jahre und älter,,,,…,,,
+2010,b) Psychische Gewalt,,Weiblich,,,.,,,
+2011,b) Psychische Gewalt,,Weiblich,,,.,,,
+2012,b) Psychische Gewalt,,Weiblich,,,r,,,
+2013,b) Psychische Gewalt,,Weiblich,,,.,,,
+2014,b) Psychische Gewalt,,Weiblich,,,.,,,
+2015,b) Psychische Gewalt,,Weiblich,,,.,,,
+2016,b) Psychische Gewalt,,Weiblich,,,.,,,
+2017,b) Psychische Gewalt,,Weiblich,,,r,,,
+2018,b) Psychische Gewalt,,Weiblich,,,.,,,
+2019,b) Psychische Gewalt,,Weiblich,,,.,,,
+2020,b) Psychische Gewalt,,Weiblich,,,|,r,,1.3
+2021,b) Psychische Gewalt,,Weiblich,,,…,,,
+2022,b) Psychische Gewalt,,Weiblich,,,…,,,
+2023,b) Psychische Gewalt,,Weiblich,,,…,,,
+2024,b) Psychische Gewalt,,Weiblich,,,…,,,
+2010,b) Psychische Gewalt,,Männlich,,,.,,,
+2011,b) Psychische Gewalt,,Männlich,,,.,,,
+2012,b) Psychische Gewalt,,Männlich,,,.,,,
+2013,b) Psychische Gewalt,,Männlich,,,.,,,
+2014,b) Psychische Gewalt,,Männlich,,,.,,,
+2015,b) Psychische Gewalt,,Männlich,,,.,,,
+2016,b) Psychische Gewalt,,Männlich,,,.,,,
+2017,b) Psychische Gewalt,,Männlich,,,r,,,
+2018,b) Psychische Gewalt,,Männlich,,,.,,,
+2019,b) Psychische Gewalt,,Männlich,,,.,,,
+2020,b) Psychische Gewalt,,Männlich,,,|,r,,1.2
+2021,b) Psychische Gewalt,,Männlich,,,…,,,
+2022,b) Psychische Gewalt,,Männlich,,,…,,,
+2023,b) Psychische Gewalt,,Männlich,,,…,,,
+2024,b) Psychische Gewalt,,Männlich,,,…,,,
+2010,c) Sexuelle Gewalt,,,,,.,,,
+2011,c) Sexuelle Gewalt,,,,,.,,,
+2012,c) Sexuelle Gewalt,,,,,.,,,
+2013,c) Sexuelle Gewalt,,,,,.,,,
+2014,c) Sexuelle Gewalt,,,,,.,,,
+2015,c) Sexuelle Gewalt,,,,,.,,,
+2016,c) Sexuelle Gewalt,,,,,.,,,
+2017,c) Sexuelle Gewalt,,,,,r,,,
+2018,c) Sexuelle Gewalt,,,,,.,,,
+2019,c) Sexuelle Gewalt,,,,,.,,,
+2020,c) Sexuelle Gewalt,,,,,|,r,,1.0
+2021,c) Sexuelle Gewalt,,,,,…,,,
+2022,c) Sexuelle Gewalt,,,,,…,,,
+2023,c) Sexuelle Gewalt,,,,,…,,,
+2024,c) Sexuelle Gewalt,,,,,…,,,
+2010,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,.,,,
+2011,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,.,,,
+2012,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,r,,,
+2013,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,.,,,
+2014,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,.,,,
+2015,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,.,,,
+2016,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,.,,,
+2017,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,r,,,
+2018,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,.,,,
+2019,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,.,,,
+2020,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,|,r,,1.6
+2021,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,…,,,
+2022,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,…,,,
+2023,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,…,,,
+2024,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,,…,,,
+2010,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,.,,,
+2011,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,.,,,
+2012,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,r,,,
+2013,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,.,,,
+2014,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,.,,,
+2015,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,.,,,
+2016,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,.,,,
+2017,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,r,,,
+2018,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,.,,,
+2019,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,.,,,
+2020,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,|,r,,3.0
+2021,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,…,,,
+2022,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,…,,,
+2023,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,…,,,
+2024,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,,…,,,
+2010,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2011,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2012,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,,,,2.7
+2013,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2014,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2015,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2016,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2017,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,,,,3.0
+2018,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2019,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,.,,,
+2020,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,,,,2.0
+2021,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,…,,,
+2022,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,…,,,
+2023,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,…,,,
+2024,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,,…,,,
+2010,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2011,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2012,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,,,,10.1
+2013,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2014,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2015,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2016,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2017,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,,,,10.4
+2018,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2019,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,.,,,
+2020,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,,,,4.6
+2021,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,…,,,
+2022,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,…,,,
+2023,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,…,,,
+2024,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,,…,,,
+2010,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2011,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2012,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,,,,0.4
+2013,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2014,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2015,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2016,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2017,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,,,,4.6
+2018,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2019,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,.,,,
+2020,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,,,,3.5
+2021,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,…,,,
+2022,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,…,,,
+2023,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,…,,,
+2024,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,,…,,,
+2010,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2011,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2012,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,,,,2.4
+2013,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2014,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2015,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2016,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2017,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,,,,2.8
+2018,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2019,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,.,,,
+2020,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,,,,2.0
+2021,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,…,,,
+2022,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,…,,,
+2023,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,…,,,
+2024,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,,…,,,
+2010,c) Sexuelle Gewalt,75 Jahre und älter,,,,.,,,
+2011,c) Sexuelle Gewalt,75 Jahre und älter,,,,.,,,
+2012,c) Sexuelle Gewalt,75 Jahre und älter,,,,,,,1.9
+2013,c) Sexuelle Gewalt,75 Jahre und älter,,,,.,,,
+2014,c) Sexuelle Gewalt,75 Jahre und älter,,,,.,,,
+2015,c) Sexuelle Gewalt,75 Jahre und älter,,,,.,,,
+2016,c) Sexuelle Gewalt,75 Jahre und älter,,,,.,,,
+2017,c) Sexuelle Gewalt,75 Jahre und älter,,,,,,,2.3
+2018,c) Sexuelle Gewalt,75 Jahre und älter,,,,.,,,
+2019,c) Sexuelle Gewalt,75 Jahre und älter,,,,.,,,
+2020,c) Sexuelle Gewalt,75 Jahre und älter,,,,,,,1.4
+2021,c) Sexuelle Gewalt,75 Jahre und älter,,,,…,,,
+2022,c) Sexuelle Gewalt,75 Jahre und älter,,,,…,,,
+2023,c) Sexuelle Gewalt,75 Jahre und älter,,,,…,,,
+2024,c) Sexuelle Gewalt,75 Jahre und älter,,,,…,,,
+2010,c) Sexuelle Gewalt,,Weiblich,,,.,,,
+2011,c) Sexuelle Gewalt,,Weiblich,,,.,,,
+2012,c) Sexuelle Gewalt,,Weiblich,,,,,,0.6
+2013,c) Sexuelle Gewalt,,Weiblich,,,.,,,
+2014,c) Sexuelle Gewalt,,Weiblich,,,.,,,
+2015,c) Sexuelle Gewalt,,Weiblich,,,.,,,
+2016,c) Sexuelle Gewalt,,Weiblich,,,.,,,
+2017,c) Sexuelle Gewalt,,Weiblich,,,,,,1.4
+2018,c) Sexuelle Gewalt,,Weiblich,,,.,,,
+2019,c) Sexuelle Gewalt,,Weiblich,,,.,,,
+2020,c) Sexuelle Gewalt,,Weiblich,,,,,,1.2
+2021,c) Sexuelle Gewalt,,Weiblich,,,…,,,
+2022,c) Sexuelle Gewalt,,Weiblich,,,…,,,
+2023,c) Sexuelle Gewalt,,Weiblich,,,…,,,
+2024,c) Sexuelle Gewalt,,Weiblich,,,…,,,
+2010,c) Sexuelle Gewalt,,Männlich,,,.,,,
+2011,c) Sexuelle Gewalt,,Männlich,,,.,,,
+2012,c) Sexuelle Gewalt,,Männlich,,,.,,,
+2013,c) Sexuelle Gewalt,,Männlich,,,.,,,
+2014,c) Sexuelle Gewalt,,Männlich,,,.,,,
+2015,c) Sexuelle Gewalt,,Männlich,,,.,,,
+2016,c) Sexuelle Gewalt,,Männlich,,,.,,,
+2017,c) Sexuelle Gewalt,,Männlich,,,,,,0.6
+2018,c) Sexuelle Gewalt,,Männlich,,,.,,,
+2019,c) Sexuelle Gewalt,,Männlich,,,.,,,
+2020,c) Sexuelle Gewalt,,Männlich,,,,,,1.0
+2021,c) Sexuelle Gewalt,,Männlich,,,…,,,
+2022,c) Sexuelle Gewalt,,Männlich,,,…,,,
+2023,c) Sexuelle Gewalt,,Männlich,,,…,,,
+2024,c) Sexuelle Gewalt,,Männlich,,,…,,,
+2010,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,.,,,
+2011,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,.,,,
+2012,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,.,,,
+2013,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,.,,,
+2014,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,.,,,
+2015,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,.,,,
+2016,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,.,,,
+2017,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,,,,0.2
+2018,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,.,,,
+2019,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,.,,,
+2020,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,,,,0.9
+2021,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,…,,,
+2022,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,…,,,
+2023,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,…,,,
+2024,c) Sexuelle Gewalt,,,,Körperliche sexuelle Belästigung,…,,,
+2010,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2011,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2012,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,,,,1.5
+2013,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2014,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2015,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2016,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2017,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,,,,2.0
+2018,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2019,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2020,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,,,,1.3
+2021,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2022,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2023,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2024,c) Sexuelle Gewalt,16 bis unter 25 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2010,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2011,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2012,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,,,,4.0
+2013,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2014,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2015,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2016,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2017,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,,,,4.0
+2018,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2019,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2020,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,,,,2.8
+2021,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2022,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2023,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2024,c) Sexuelle Gewalt,25 bis unter 35 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2010,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2011,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2012,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,,,,0.7
+2013,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2014,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2015,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2016,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2017,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,,,,1.0
+2018,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2019,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2020,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,,,,0.6
+2021,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2022,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2023,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2024,c) Sexuelle Gewalt,35 bis unter 45 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2010,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2011,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2012,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2013,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2014,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2015,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2016,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2017,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,,,,3.5
+2018,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2019,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2020,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,,,,
+2021,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2022,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2023,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2024,c) Sexuelle Gewalt,45 bis unter 55 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2010,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2011,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2012,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2013,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2014,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2015,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2016,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2017,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,,,,1.2
+2018,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2019,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2020,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,,,,0.5
+2021,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2022,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2023,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2024,c) Sexuelle Gewalt,55 bis unter 65 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2010,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2011,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2012,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2013,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2014,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2015,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2016,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2017,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,,,,1.0
+2018,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2019,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,.,,,
+2020,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,,,,0.6
+2021,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2022,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2023,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2024,c) Sexuelle Gewalt,65 bis unter 75 Jahre,,,Körperliche sexuelle Belästigung,…,,,
+2010,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,.,,,
+2011,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,.,,,
+2012,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,.,,,
+2013,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,.,,,
+2014,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,.,,,
+2015,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,.,,,
+2016,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,.,,,
+2017,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,,,,0.8
+2018,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,.,,,
+2019,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,.,,,
+2020,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,,,,0.2
+2021,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,…,,,
+2022,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,…,,,
+2023,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,…,,,
+2024,c) Sexuelle Gewalt,75 Jahre und älter,,,Körperliche sexuelle Belästigung,…,,,
+2010,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,.,,,
+2011,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,.,,,
+2012,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,.,,,
+2013,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,.,,,
+2014,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,.,,,
+2015,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,.,,,
+2016,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,.,,,
+2017,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,,,,0.5
+2018,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,.,,,
+2019,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,.,,,
+2020,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,,,,0.4
+2021,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,…,,,
+2022,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,…,,,
+2023,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,…,,,
+2024,c) Sexuelle Gewalt,,Weiblich,,Körperliche sexuelle Belästigung,…,,,
+2010,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,.,,,
+2011,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,.,,,
+2012,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,.,,,
+2013,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,.,,,
+2014,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,.,,,
+2015,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,.,,,
+2016,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,.,,,
+2017,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,,,,0.4
+2018,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,.,,,
+2019,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,.,,,
+2020,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,,,,0.4
+2021,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,…,,,
+2022,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,…,,,
+2023,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,…,,,
+2024,c) Sexuelle Gewalt,,Männlich,,Körperliche sexuelle Belästigung,…,,,

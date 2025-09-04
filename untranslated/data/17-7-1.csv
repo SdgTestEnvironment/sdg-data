@@ -1,40 +1,49 @@
 Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,,,,10279
-2011,,,,,11415
-2012,,,,,11701
-2013,,,,,11331
-2014,,,,,12080
-2015,,,,,12117
-2016,,,,,12824
-2017,,,,,13263
-2018,,,,,14747
-2019,,,,,15577
-2020,,,,,16070
-2021,,,,,14209
-2022,,p,,,15929
-2010,general government,,,,2726
-2011,general government,,,,3434
-2012,general government,,,,3716
-2013,general government,,,,3708
-2014,general government,,,,3692
-2015,general government,,,,4051
-2016,general government,,,,4594
-2017,general government,,,,4245
-2018,general government,,,,4625
-2019,general government,,,,4979
-2020,general government,,,,5028
-2021,general government,,,,3589
-2022,general government,p,,,3902
-2010,corporations,,,,7553
-2011,corporations,,,,7981
-2012,corporations,,,,7985
-2013,corporations,,,,7623
-2014,corporations,,,,8388
-2015,corporations,,,,8066
-2016,corporations,,,,8230
-2017,corporations,,,,9018
-2018,corporations,,,,10123
-2019,corporations,,,,10598
-2020,corporations,,,,11042
-2021,corporations,,,,10620
-2022,corporations,p,,,12026
+2010,,,,,29.3
+2011,,,,,30.5
+2012,,,,,31.1
+2013,,,,,31.7
+2014,,,,,32.5
+2015,,,,,34.1
+2016,,,,,35.3
+2017,,,,,36.6
+2018,,,,,37.1
+2019,,,,,37.8
+2020,,,,,39.0
+2021,,,,,40.2
+2022,,,,,41.1
+2023,,,,,42.4
+2024,,,,,
+2025,,,,,
+2010,general government,,,,40.7
+2011,general government,,,,41.5
+2012,general government,,,,42.4
+2013,general government,,,,43.5
+2014,general government,,,,43.6
+2015,general government,,,,45.7
+2016,general government,,,,46.7
+2017,general government,,,,47.5
+2018,general government,,,,47.7
+2019,general government,,,,48.5
+2020,general government,,,,49.4
+2021,general government,,,,50.3
+2022,general government,,,,51.0
+2023,general government,,,,51.7
+2024,general government,…,,,
+2025,general government,…,,,
+2010,corporations,,,,0.66
+2011,corporations,,,,0.67
+2012,corporations,,,,0.66
+2013,corporations,,,,0.66
+2014,corporations,,,,0.73
+2015,corporations,,,,0.73
+2016,corporations,,,,0.75
+2017,corporations,,,,0.75
+2018,corporations,,,,0.63
+2019,corporations,,,,0.63
+2020,corporations,,,,0.63
+2021,corporations,,,,0.64
+2022,corporations,,,,0.71
+2023,corporations,,,,0.71
+2024,corporations,,,,0.71
+2025,corporations,,,,0.72

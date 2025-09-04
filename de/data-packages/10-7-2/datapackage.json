@@ -16,16 +16,30 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "policy area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bereich 1. Rechte von Migranten",
-                "Bereich 2. Gesamtheitliche/ Evidenzbasierte Politik",
-                "Bereich 3. Zusammenarbeit und Partnerschaften",
-                "Bereich 4. Sozioökonomisches Wohlbefinden",
-                "Bereich 5. Mobilitätsdimensionen von Krisen",
-                "Bereich 6. Sichere, geordnete und reguläre Migration",
                 ""
               ]
             },
@@ -33,7 +47,7 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
                 ""
@@ -43,7 +57,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
                 ""
@@ -53,7 +67,7 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
                 ""
@@ -63,7 +77,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Wert"
           }
         ]

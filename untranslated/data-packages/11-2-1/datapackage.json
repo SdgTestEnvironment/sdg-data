@@ -95,16 +95,20 @@
             "constraints": {
               "enum": [
                 ".",
+                "r",
                 "…",
+                "|",
+                "0",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ""
               ]
             }
