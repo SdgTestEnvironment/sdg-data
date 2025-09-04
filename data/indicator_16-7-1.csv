@@ -1,369 +1,346 @@
 Year,Units,timeseries,fields of work,level of court,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,percentage,working-age population,,,,,,49.5
-2011,percentage,working-age population,,,,,,49.8
-2012,percentage,working-age population,,,,,,49.8
-2013,percentage,working-age population,,,,,,49.7
-2014,percentage,working-age population,,,,,,49.6
-2015,percentage,working-age population,,,,,,49.4
-2016,percentage,working-age population,,,,,,49.4
-2017,percentage,working-age population,,,,,,49.4
-2018,percentage,working-age population,,,,,,49.4
-2019,percentage,working-age population,,,,,,49.4
-2020,percentage,working-age population,,,,,,49.4
-2021,percentage,working-age population,,,,,,49.4
-2022,percentage,working-age population,,,,,,49.5
-2023,percentage,working-age population,,,,,,49.4
-2024,percentage,working-age population,,,,,,49.4
-2025,percentage,working-age population,,,…,,,
-2010,percentage,german bundestag (lower chamber),,,,,,32.8
-2011,percentage,german bundestag (lower chamber),,,,,,33.1
-2012,percentage,german bundestag (lower chamber),,,,,,32.9
-2013,percentage,german bundestag (lower chamber),,,,,,32.9
-2014,percentage,german bundestag (lower chamber),,,,,,36.5
-2015,percentage,german bundestag (lower chamber),,,,,,36.3
-2016,percentage,german bundestag (lower chamber),,,,,,36.8
-2017,percentage,german bundestag (lower chamber),,,,,,37.1
-2018,percentage,german bundestag (lower chamber),,,,,,30.9
-2019,percentage,german bundestag (lower chamber),,,,,,31.2
-2020,percentage,german bundestag (lower chamber),,,,,,31.3
-2021,percentage,german bundestag (lower chamber),,,,,,31.5
-2022,percentage,german bundestag (lower chamber),,,,,,34.9
-2023,percentage,german bundestag (lower chamber),,,,,,35.1
-2024,percentage,german bundestag (lower chamber),,,,,,35.3
-2025,percentage,german bundestag (lower chamber),,,,,,35.6
-2010,percentage,bundesrat (upper chamber),,,,,,18.8
-2011,percentage,bundesrat (upper chamber),,,,,,24.6
-2012,percentage,bundesrat (upper chamber),,,,,,27.5
-2013,percentage,bundesrat (upper chamber),,,,,,29.0
-2014,percentage,bundesrat (upper chamber),,,,,,34.8
-2015,percentage,bundesrat (upper chamber),,,,,,40.6
-2016,percentage,bundesrat (upper chamber),,,,,,37.7
-2017,percentage,bundesrat (upper chamber),,,,,,39.1
-2018,percentage,bundesrat (upper chamber),,,,,,39.1
-2019,percentage,bundesrat (upper chamber),,,,,,36.2
-2020,percentage,bundesrat (upper chamber),,,,,,34.8
-2021,percentage,bundesrat (upper chamber),,,,,,33.3
-2022,percentage,bundesrat (upper chamber),,,,,,31.9
-2023,percentage,bundesrat (upper chamber),,,,,,37.7
-2024,percentage,bundesrat (upper chamber),,,,,,37.7
-2025,percentage,bundesrat (upper chamber),,,,,,34.8
-2010,percentage,public service,,,,,,50.5
-2011,percentage,public service,,,,,,50.2
-2012,percentage,public service,,,,,,50.7
-2013,percentage,public service,,,,,,51.1
-2014,percentage,public service,,,,,,51.5
-2015,percentage,public service,,,,,,51.9
-2016,percentage,public service,,,,,,52.3
-2017,percentage,public service,,,,,,52.6
-2018,percentage,public service,,,,,,52.9
-2019,percentage,public service,,,,,,53.3
-2020,percentage,public service,,,,,,53.6
-2021,percentage,public service,,,,,,54.0
-2022,percentage,public service,,,,,,54.4
-2023,percentage,public service,,,,,,51.7
+2010,percentage,working-age population,,,.,,,
+2011,percentage,working-age population,,,.,,,
+2012,percentage,working-age population,,,.,,,
+2013,percentage,working-age population,,,.,,,
+2014,percentage,working-age population,,,.,,,
+2015,percentage,working-age population,,,.,,,
+2016,percentage,working-age population,,,.,,,
+2017,percentage,working-age population,,,.,,,
+2018,percentage,working-age population,,,.,,,
+2019,percentage,working-age population,,,.,,,
+2020,percentage,working-age population,,,,,,1.1
+2021,percentage,working-age population,,,…,,,
+2022,percentage,working-age population,,,…,,,
+2023,percentage,working-age population,,,…,,,
+2024,percentage,working-age population,,,…,,,
+2010,percentage,german bundestag (lower chamber),,,.,,,
+2011,percentage,german bundestag (lower chamber),,,.,,,
+2012,percentage,german bundestag (lower chamber),,,.,,,
+2013,percentage,german bundestag (lower chamber),,,.,,,
+2014,percentage,german bundestag (lower chamber),,,.,,,
+2015,percentage,german bundestag (lower chamber),,,.,,,
+2016,percentage,german bundestag (lower chamber),,,.,,,
+2017,percentage,german bundestag (lower chamber),,,.,,,
+2018,percentage,german bundestag (lower chamber),,,.,,,
+2019,percentage,german bundestag (lower chamber),,,.,,,
+2020,percentage,german bundestag (lower chamber),,,,,,4.6
+2021,percentage,german bundestag (lower chamber),,,…,,,
+2022,percentage,german bundestag (lower chamber),,,…,,,
+2023,percentage,german bundestag (lower chamber),,,…,,,
+2024,percentage,german bundestag (lower chamber),,,…,,,
+2010,percentage,bundesrat (upper chamber),,,.,,,
+2011,percentage,bundesrat (upper chamber),,,.,,,
+2012,percentage,bundesrat (upper chamber),,,.,,,
+2013,percentage,bundesrat (upper chamber),,,.,,,
+2014,percentage,bundesrat (upper chamber),,,.,,,
+2015,percentage,bundesrat (upper chamber),,,.,,,
+2016,percentage,bundesrat (upper chamber),,,.,,,
+2017,percentage,bundesrat (upper chamber),,,.,,,
+2018,percentage,bundesrat (upper chamber),,,.,,,
+2019,percentage,bundesrat (upper chamber),,,.,,,
+2020,percentage,bundesrat (upper chamber),,,,,,2.1
+2021,percentage,bundesrat (upper chamber),,,…,,,
+2022,percentage,bundesrat (upper chamber),,,…,,,
+2023,percentage,bundesrat (upper chamber),,,…,,,
+2024,percentage,bundesrat (upper chamber),,,…,,,
+2010,percentage,public service,,,.,,,
+2011,percentage,public service,,,.,,,
+2012,percentage,public service,,,.,,,
+2013,percentage,public service,,,.,,,
+2014,percentage,public service,,,.,,,
+2015,percentage,public service,,,.,,,
+2016,percentage,public service,,,.,,,
+2017,percentage,public service,,,.,,,
+2018,percentage,public service,,,.,,,
+2019,percentage,public service,,,.,,,
+2020,percentage,public service,,,,,,0.3
+2021,percentage,public service,,,…,,,
+2022,percentage,public service,,,…,,,
+2023,percentage,public service,,,…,,,
 2024,percentage,public service,,,…,,,
-2025,percentage,public service,,,…,,,
-2010,percentage,public service,"political leadership and central administration, foreign affairs",,,,,48.8
-2011,percentage,public service,"political leadership and central administration, foreign affairs",,,,,49.2
-2012,percentage,public service,"political leadership and central administration, foreign affairs",,,,,49.7
-2013,percentage,public service,"political leadership and central administration, foreign affairs",,,,,50.2
-2014,percentage,public service,"political leadership and central administration, foreign affairs",,,,,50.5
-2015,percentage,public service,"political leadership and central administration, foreign affairs",,,,,50.9
-2016,percentage,public service,"political leadership and central administration, foreign affairs",,,,,51.6
-2017,percentage,public service,"political leadership and central administration, foreign affairs",,,,,52.1
-2018,percentage,public service,"political leadership and central administration, foreign affairs",,,,,52.4
-2019,percentage,public service,"political leadership and central administration, foreign affairs",,,,,52.6
-2020,percentage,public service,"political leadership and central administration, foreign affairs",,,,,52.9
-2021,percentage,public service,"political leadership and central administration, foreign affairs",,,,,53.6
-2022,percentage,public service,"political leadership and central administration, foreign affairs",,,,,53.6
-2023,percentage,public service,"political leadership and central administration, foreign affairs",,,,,53.4
+2010,percentage,public service,"political leadership and central administration, foreign affairs",,.,,,
+2011,percentage,public service,"political leadership and central administration, foreign affairs",,.,,,
+2012,percentage,public service,"political leadership and central administration, foreign affairs",,.,,,
+2013,percentage,public service,"political leadership and central administration, foreign affairs",,.,,,
+2014,percentage,public service,"political leadership and central administration, foreign affairs",,.,,,
+2015,percentage,public service,"political leadership and central administration, foreign affairs",,.,,,
+2016,percentage,public service,"political leadership and central administration, foreign affairs",,.,,,
+2017,percentage,public service,"political leadership and central administration, foreign affairs",,.,,,
+2018,percentage,public service,"political leadership and central administration, foreign affairs",,.,,,
+2019,percentage,public service,"political leadership and central administration, foreign affairs",,.,,,
+2020,percentage,public service,"political leadership and central administration, foreign affairs",,.,,,
+2021,percentage,public service,"political leadership and central administration, foreign affairs",,…,,,
+2022,percentage,public service,"political leadership and central administration, foreign affairs",,…,,,
+2023,percentage,public service,"political leadership and central administration, foreign affairs",,…,,,
 2024,percentage,public service,"political leadership and central administration, foreign affairs",,…,,,
-2025,percentage,public service,"political leadership and central administration, foreign affairs",,…,,,
-2010,percentage,public service,police,,,,,22.7
-2011,percentage,public service,police,,,,,22.4
-2012,percentage,public service,police,,,,,22.9
-2013,percentage,public service,police,,,,,23.3
-2014,percentage,public service,police,,,,,23.7
-2015,percentage,public service,police,,,,,24.2
-2016,percentage,public service,police,,,,,24.8
-2017,percentage,public service,police,,,,,25.6
-2018,percentage,public service,police,,,,,26.5
-2019,percentage,public service,police,,,,,27.4
-2020,percentage,public service,police,,,,,28.4
-2021,percentage,public service,police,,,,,29.4
-2022,percentage,public service,police,,r,,,30.2
-2023,percentage,public service,police,,,,,31.2
+2010,percentage,public service,police,,.,,,
+2011,percentage,public service,police,,.,,,
+2012,percentage,public service,police,,.,,,
+2013,percentage,public service,police,,.,,,
+2014,percentage,public service,police,,.,,,
+2015,percentage,public service,police,,.,,,
+2016,percentage,public service,police,,.,,,
+2017,percentage,public service,police,,.,,,
+2018,percentage,public service,police,,.,,,
+2019,percentage,public service,police,,.,,,
+2020,percentage,public service,police,,.,,,
+2021,percentage,public service,police,,…,,,
+2022,percentage,public service,police,,…,,,
+2023,percentage,public service,police,,…,,,
 2024,percentage,public service,police,,…,,,
-2025,percentage,public service,police,,…,,,
-2010,percentage,public service,"education, science, research, cultural affairs",,,,,60.6
-2011,percentage,public service,"education, science, research, cultural affairs",,,,,61.0
-2012,percentage,public service,"education, science, research, cultural affairs",,,,,61.4
-2013,percentage,public service,"education, science, research, cultural affairs",,,,,61.7
-2014,percentage,public service,"education, science, research, cultural affairs",,,,,61.9
-2015,percentage,public service,"education, science, research, cultural affairs",,,,,62.2
-2016,percentage,public service,"education, science, research, cultural affairs",,,,,62.5
-2017,percentage,public service,"education, science, research, cultural affairs",,,,,62.7
-2018,percentage,public service,"education, science, research, cultural affairs",,,,,62.8
-2019,percentage,public service,"education, science, research, cultural affairs",,,,,63.0
-2020,percentage,public service,"education, science, research, cultural affairs",,,,,63.1
-2021,percentage,public service,"education, science, research, cultural affairs",,,,,63.2
-2022,percentage,public service,"education, science, research, cultural affairs",,,,,63.1
-2023,percentage,public service,"education, science, research, cultural affairs",,,,,63.3
+2010,percentage,public service,"education, science, research, cultural affairs",,.,,,
+2011,percentage,public service,"education, science, research, cultural affairs",,.,,,
+2012,percentage,public service,"education, science, research, cultural affairs",,.,,,
+2013,percentage,public service,"education, science, research, cultural affairs",,.,,,
+2014,percentage,public service,"education, science, research, cultural affairs",,.,,,
+2015,percentage,public service,"education, science, research, cultural affairs",,.,,,
+2016,percentage,public service,"education, science, research, cultural affairs",,.,,,
+2017,percentage,public service,"education, science, research, cultural affairs",,.,,,
+2018,percentage,public service,"education, science, research, cultural affairs",,.,,,
+2019,percentage,public service,"education, science, research, cultural affairs",,.,,,
+2020,percentage,public service,"education, science, research, cultural affairs",,,,,1.8
+2021,percentage,public service,"education, science, research, cultural affairs",,…,,,
+2022,percentage,public service,"education, science, research, cultural affairs",,…,,,
+2023,percentage,public service,"education, science, research, cultural affairs",,…,,,
 2024,percentage,public service,"education, science, research, cultural affairs",,…,,,
-2025,percentage,public service,"education, science, research, cultural affairs",,…,,,
-2010,percentage,public service,"health, environment, sports and recreation",,,,,57.0
-2011,percentage,public service,"health, environment, sports and recreation",,,,,57.4
-2012,percentage,public service,"health, environment, sports and recreation",,,,,57.0
-2013,percentage,public service,"health, environment, sports and recreation",,,,,56.9
-2014,percentage,public service,"health, environment, sports and recreation",,,,,58.1
-2015,percentage,public service,"health, environment, sports and recreation",,,,,58.4
-2016,percentage,public service,"health, environment, sports and recreation",,,,,58.6
-2017,percentage,public service,"health, environment, sports and recreation",,,,,57.9
-2018,percentage,public service,"health, environment, sports and recreation",,,,,57.3
-2019,percentage,public service,"health, environment, sports and recreation",,,,,57.9
-2020,percentage,public service,"health, environment, sports and recreation",,,,,58.6
-2021,percentage,public service,"health, environment, sports and recreation",,,,,59.4
-2022,percentage,public service,"health, environment, sports and recreation",,,,,59.4
-2023,percentage,public service,"health, environment, sports and recreation",,,,,59.3
-2024,percentage,public service,"health, environment, sports and recreation",,,,,
-2025,percentage,public service,"health, environment, sports and recreation",,,,,
-2010,percentage,judiciary,,,,,,38.5
-2011,percentage,judiciary,,,,,,39.3
-2012,percentage,judiciary,,,,,,40.2
-2013,percentage,judiciary,,,,,,41.1
-2014,percentage,judiciary,,,,,,41.4
-2015,percentage,judiciary,,,,,,43.4
-2016,percentage,judiciary,,,,,,44.5
-2017,percentage,judiciary,,,,,,45.4
-2018,percentage,judiciary,,,,,,45.7
-2019,percentage,judiciary,,,,,,46.5
-2020,percentage,judiciary,,,,,,47.5
-2021,percentage,judiciary,,,,,,48.4
-2022,percentage,judiciary,,,,,,49.1
-2023,percentage,judiciary,,,,,,49.9
-2024,percentage,judiciary,,,,,,
-2025,percentage,judiciary,,,,,,
-2010,percentage,judiciary,,supreme/constitutional courts,,,,23.0
-2011,percentage,judiciary,,supreme/constitutional courts,,,,23.0
-2012,percentage,judiciary,,supreme/constitutional courts,,,,25.5
-2013,percentage,judiciary,,supreme/constitutional courts,,,,24.3
-2014,percentage,judiciary,,supreme/constitutional courts,,,,27.2
-2015,percentage,judiciary,,supreme/constitutional courts,,,,27.2
-2016,percentage,judiciary,,supreme/constitutional courts,,,,31.7
-2017,percentage,judiciary,,supreme/constitutional courts,,,,31.7
-2018,percentage,judiciary,,supreme/constitutional courts,,,,34.6
-2019,percentage,judiciary,,supreme/constitutional courts,,,,34.6
-2020,percentage,judiciary,,supreme/constitutional courts,,,,39.0
-2021,percentage,judiciary,,supreme/constitutional courts,,,,39.0
-2022,percentage,judiciary,,supreme/constitutional courts,,,,39.4
-2023,percentage,judiciary,,supreme/constitutional courts,,,,39.4
+2010,percentage,public service,"health, environment, sports and recreation",,.,,,
+2011,percentage,public service,"health, environment, sports and recreation",,.,,,
+2012,percentage,public service,"health, environment, sports and recreation",,.,,,
+2013,percentage,public service,"health, environment, sports and recreation",,.,,,
+2014,percentage,public service,"health, environment, sports and recreation",,.,,,
+2015,percentage,public service,"health, environment, sports and recreation",,.,,,
+2016,percentage,public service,"health, environment, sports and recreation",,.,,,
+2017,percentage,public service,"health, environment, sports and recreation",,.,,,
+2018,percentage,public service,"health, environment, sports and recreation",,.,,,
+2019,percentage,public service,"health, environment, sports and recreation",,.,,,
+2020,percentage,public service,"health, environment, sports and recreation",,,,,12.6
+2021,percentage,public service,"health, environment, sports and recreation",,…,,,
+2022,percentage,public service,"health, environment, sports and recreation",,…,,,
+2023,percentage,public service,"health, environment, sports and recreation",,…,,,
+2024,percentage,public service,"health, environment, sports and recreation",,…,,,
+2010,percentage,judiciary,,,,,,18.23
+2011,percentage,judiciary,,,,,,18.55
+2012,percentage,judiciary,,,,,,18.83
+2013,percentage,judiciary,,,,,,19.55
+2014,percentage,judiciary,,,,,,20.53
+2015,percentage,judiciary,,,,,,21.76
+2016,percentage,judiciary,,,,,,22.82
+2017,percentage,judiciary,,,,,,23.98
+2018,percentage,judiciary,,,,,,23.89
+2019,percentage,judiciary,,,,,,23.08
+2020,percentage,judiciary,,,,,,23.52
+2021,percentage,judiciary,,,,,,22.59
+2022,percentage,judiciary,,,,,,24.06
+2023,percentage,judiciary,,,,,,26.35
+2024,percentage,judiciary,,,…,,,
+2010,percentage,judiciary,,supreme/constitutional courts,,,,19.61
+2011,percentage,judiciary,,supreme/constitutional courts,,,,19.30
+2012,percentage,judiciary,,supreme/constitutional courts,,,,20.37
+2013,percentage,judiciary,,supreme/constitutional courts,,,,20.07
+2014,percentage,judiciary,,supreme/constitutional courts,,,,21.82
+2015,percentage,judiciary,,supreme/constitutional courts,,,,21.09
+2016,percentage,judiciary,,supreme/constitutional courts,,,,22.08
+2017,percentage,judiciary,,supreme/constitutional courts,,,,22.25
+2018,percentage,judiciary,,supreme/constitutional courts,,,,22.46
+2019,percentage,judiciary,,supreme/constitutional courts,,,,22.18
+2020,percentage,judiciary,,supreme/constitutional courts,,,,23.54
+2021,percentage,judiciary,,supreme/constitutional courts,,,,19.73
+2022,percentage,judiciary,,supreme/constitutional courts,r,,,22.14
+2023,percentage,judiciary,,supreme/constitutional courts,,,,24.06
 2024,percentage,judiciary,,supreme/constitutional courts,,,,
-2025,percentage,judiciary,,supreme/constitutional courts,,,,
-2010,percentage,judiciary,,higher-level courts,,,,29.3
-2011,percentage,judiciary,,higher-level courts,,,,30.5
-2012,percentage,judiciary,,higher-level courts,,,,31.1
-2013,percentage,judiciary,,higher-level courts,,,,31.7
-2014,percentage,judiciary,,higher-level courts,,,,32.5
-2015,percentage,judiciary,,higher-level courts,,,,34.1
-2016,percentage,judiciary,,higher-level courts,,,,35.3
-2017,percentage,judiciary,,higher-level courts,,,,36.6
-2018,percentage,judiciary,,higher-level courts,,,,37.1
-2019,percentage,judiciary,,higher-level courts,,,,37.8
-2020,percentage,judiciary,,higher-level courts,,,,39.0
-2021,percentage,judiciary,,higher-level courts,,,,40.2
-2022,percentage,judiciary,,higher-level courts,,,,41.1
-2023,percentage,judiciary,,higher-level courts,,,,42.4
+2010,percentage,judiciary,,higher-level courts,,,,18.15
+2011,percentage,judiciary,,higher-level courts,,,,18.50
+2012,percentage,judiciary,,higher-level courts,,,,18.73
+2013,percentage,judiciary,,higher-level courts,,,,19.51
+2014,percentage,judiciary,,higher-level courts,,,,20.45
+2015,percentage,judiciary,,higher-level courts,,,,21.80
+2016,percentage,judiciary,,higher-level courts,,,,22.86
+2017,percentage,judiciary,,higher-level courts,,,,24.08
+2018,percentage,judiciary,,higher-level courts,,,,23.99
+2019,percentage,judiciary,,higher-level courts,,,,23.14
+2020,percentage,judiciary,,higher-level courts,,,,23.52
+2021,percentage,judiciary,,higher-level courts,,,,22.76
+2022,percentage,judiciary,,higher-level courts,r,,,24.18
+2023,percentage,judiciary,,higher-level courts,,,,26.48
 2024,percentage,judiciary,,higher-level courts,,,,
-2025,percentage,judiciary,,higher-level courts,,,,
-2010,percentage,judiciary,,lower-level courts,,,,40.7
-2011,percentage,judiciary,,lower-level courts,,,,41.5
-2012,percentage,judiciary,,lower-level courts,,,,42.4
-2013,percentage,judiciary,,lower-level courts,,,,43.5
-2014,percentage,judiciary,,lower-level courts,,,,43.6
-2015,percentage,judiciary,,lower-level courts,,,,45.7
-2016,percentage,judiciary,,lower-level courts,,,,46.7
-2017,percentage,judiciary,,lower-level courts,,,,47.5
-2018,percentage,judiciary,,lower-level courts,,,,47.7
-2019,percentage,judiciary,,lower-level courts,,,,48.5
-2020,percentage,judiciary,,lower-level courts,,,,49.4
-2021,percentage,judiciary,,lower-level courts,,,,50.3
-2022,percentage,judiciary,,lower-level courts,,,,51.0
-2023,percentage,judiciary,,lower-level courts,,,,51.7
+2010,percentage,judiciary,,lower-level courts,.,,,
+2011,percentage,judiciary,,lower-level courts,.,,,
+2012,percentage,judiciary,,lower-level courts,.,,,
+2013,percentage,judiciary,,lower-level courts,.,,,
+2014,percentage,judiciary,,lower-level courts,.,,,
+2015,percentage,judiciary,,lower-level courts,.,,,
+2016,percentage,judiciary,,lower-level courts,,,,61694
+2017,percentage,judiciary,,lower-level courts,,,,68538
+2018,percentage,judiciary,,lower-level courts,,,,88196
+2019,percentage,judiciary,,lower-level courts,,,,78533
+2020,percentage,judiciary,,lower-level courts,,,,100349
+2021,percentage,judiciary,,lower-level courts,,,,83997
+2022,percentage,judiciary,,lower-level courts,…,,,
+2023,percentage,judiciary,,lower-level courts,…,,,
 2024,percentage,judiciary,,lower-level courts,…,,,
-2025,percentage,judiciary,,lower-level courts,…,,,
-2010,no unit,german bundestag (lower chamber),,,,,,0.66
-2011,no unit,german bundestag (lower chamber),,,,,,0.67
-2012,no unit,german bundestag (lower chamber),,,,,,0.66
-2013,no unit,german bundestag (lower chamber),,,,,,0.66
-2014,no unit,german bundestag (lower chamber),,,,,,0.73
-2015,no unit,german bundestag (lower chamber),,,,,,0.73
-2016,no unit,german bundestag (lower chamber),,,,,,0.75
-2017,no unit,german bundestag (lower chamber),,,,,,0.75
-2018,no unit,german bundestag (lower chamber),,,,,,0.63
-2019,no unit,german bundestag (lower chamber),,,,,,0.63
-2020,no unit,german bundestag (lower chamber),,,,,,0.63
-2021,no unit,german bundestag (lower chamber),,,,,,0.64
-2022,no unit,german bundestag (lower chamber),,,,,,0.71
-2023,no unit,german bundestag (lower chamber),,,,,,0.71
-2024,no unit,german bundestag (lower chamber),,,,,,0.71
-2025,no unit,german bundestag (lower chamber),,,,,,0.72
-2010,no unit,bundesrat (upper chamber),,,,,,0.38
-2011,no unit,bundesrat (upper chamber),,,,,,0.50
-2012,no unit,bundesrat (upper chamber),,,,,,0.55
-2013,no unit,bundesrat (upper chamber),,,,,,0.58
-2014,no unit,bundesrat (upper chamber),,,,,,0.70
-2015,no unit,bundesrat (upper chamber),,,,,,0.82
-2016,no unit,bundesrat (upper chamber),,,,,,0.76
-2017,no unit,bundesrat (upper chamber),,,,,,0.79
-2018,no unit,bundesrat (upper chamber),,,,,,0.79
-2019,no unit,bundesrat (upper chamber),,,,,,0.73
-2020,no unit,bundesrat (upper chamber),,,,,,0.70
-2021,no unit,bundesrat (upper chamber),,,,,,0.68
-2022,no unit,bundesrat (upper chamber),,,,,,0.65
-2023,no unit,bundesrat (upper chamber),,,,,,0.76
-2024,no unit,bundesrat (upper chamber),,,,,,0.76
-2025,no unit,bundesrat (upper chamber),,,,,,0.70
-2010,no unit,public service,,,,,,1.02
-2011,no unit,public service,,,,,,1.01
-2012,no unit,public service,,,,,,1.02
-2013,no unit,public service,,,,,,1.03
-2014,no unit,public service,,,,,,1.04
-2015,no unit,public service,,,,,,1.05
-2016,no unit,public service,,,,,,1.06
-2017,no unit,public service,,,,,,1.07
-2018,no unit,public service,,,,,,1.07
-2019,no unit,public service,,,,,,1.08
-2020,no unit,public service,,,,,,1.09
-2021,no unit,public service,,,,,,1.10
-2022,no unit,public service,,,,,,1.10
-2023,no unit,public service,,,p,,,1.05
+2010,no unit,german bundestag (lower chamber),,,.,,,
+2011,no unit,german bundestag (lower chamber),,,.,,,
+2012,no unit,german bundestag (lower chamber),,,.,,,
+2013,no unit,german bundestag (lower chamber),,,.,,,
+2014,no unit,german bundestag (lower chamber),,,.,,,
+2015,no unit,german bundestag (lower chamber),,,.,,,
+2016,no unit,german bundestag (lower chamber),,,,,,66220
+2017,no unit,german bundestag (lower chamber),,,,,,70423
+2018,no unit,german bundestag (lower chamber),,,,,,69477
+2019,no unit,german bundestag (lower chamber),,,,,,82684
+2020,no unit,german bundestag (lower chamber),,,,,,89597
+2021,no unit,german bundestag (lower chamber),,,,,,87166
+2022,no unit,german bundestag (lower chamber),,,…,,,
+2023,no unit,german bundestag (lower chamber),,,…,,,
+2024,no unit,german bundestag (lower chamber),,,…,,,
+2010,no unit,bundesrat (upper chamber),,,.,,,
+2011,no unit,bundesrat (upper chamber),,,.,,,
+2012,no unit,bundesrat (upper chamber),,,.,,,
+2013,no unit,bundesrat (upper chamber),,,.,,,
+2014,no unit,bundesrat (upper chamber),,,.,,,
+2015,no unit,bundesrat (upper chamber),,,.,,,
+2016,no unit,bundesrat (upper chamber),,,,,,53012
+2017,no unit,bundesrat (upper chamber),,,,,,57413
+2018,no unit,bundesrat (upper chamber),,,,,,51859
+2019,no unit,bundesrat (upper chamber),,,,,,65444
+2020,no unit,bundesrat (upper chamber),,,,,,75206
+2021,no unit,bundesrat (upper chamber),,,,,,70654
+2022,no unit,bundesrat (upper chamber),,,…,,,
+2023,no unit,bundesrat (upper chamber),,,…,,,
+2024,no unit,bundesrat (upper chamber),,,…,,,
+2010,no unit,public service,,,.,,,
+2011,no unit,public service,,,.,,,
+2012,no unit,public service,,,.,,,
+2013,no unit,public service,,,.,,,
+2014,no unit,public service,,,.,,,
+2015,no unit,public service,,,.,,,
+2016,no unit,public service,,,,,,13208
+2017,no unit,public service,,,,,,13010
+2018,no unit,public service,,,,,,17618
+2019,no unit,public service,,,,,,17240
+2020,no unit,public service,,,,,,14391
+2021,no unit,public service,,,,,,16512
+2022,no unit,public service,,,…,,,
+2023,no unit,public service,,,…,,,
 2024,no unit,public service,,,…,,,
-2025,no unit,public service,,,…,,,
-2010,no unit,public service,"political leadership and central administration, foreign affairs",,,,,0.99
-2011,no unit,public service,"political leadership and central administration, foreign affairs",,,,,0.99
-2012,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.00
-2013,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.01
-2014,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.02
-2015,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.03
-2016,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.05
-2017,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.06
-2018,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.06
-2019,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.07
-2020,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.07
-2021,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.09
-2022,no unit,public service,"political leadership and central administration, foreign affairs",,,,,1.08
-2023,no unit,public service,"political leadership and central administration, foreign affairs",,p,,,1.08
+2010,no unit,public service,"political leadership and central administration, foreign affairs",,,,,12868
+2011,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2012,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2013,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2014,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2015,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2016,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2017,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2018,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2019,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2020,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2021,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2022,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
+2023,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
 2024,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
-2025,no unit,public service,"political leadership and central administration, foreign affairs",,…,,,
-2010,no unit,public service,police,,,,,0.46
-2011,no unit,public service,police,,,,,0.45
-2012,no unit,public service,police,,,,,0.46
-2013,no unit,public service,police,,,,,0.47
-2014,no unit,public service,police,,,,,0.48
-2015,no unit,public service,police,,,,,0.49
-2016,no unit,public service,police,,,,,0.50
-2017,no unit,public service,police,,,,,0.52
-2018,no unit,public service,police,,,,,0.54
-2019,no unit,public service,police,,,,,0.56
-2020,no unit,public service,police,,,,,0.58
-2021,no unit,public service,police,,,,,0.59
-2022,no unit,public service,police,,r,,,0.61
-2023,no unit,public service,police,,p,,,0.63
+2010,no unit,public service,police,,.,,,
+2011,no unit,public service,police,,.,,,
+2012,no unit,public service,police,,.,,,
+2013,no unit,public service,police,,.,,,
+2014,no unit,public service,police,,.,,,
+2015,no unit,public service,police,,,,,4.65
+2016,no unit,public service,police,,.,,,
+2017,no unit,public service,police,,,,,3.66
+2018,no unit,public service,police,,.,,,
+2019,no unit,public service,police,,,,,4.67
+2020,no unit,public service,police,,.,,,
+2021,no unit,public service,police,,,,,3.86
+2022,no unit,public service,police,,.,,,
+2023,no unit,public service,police,,,,,11.56
 2024,no unit,public service,police,,…,,,
-2025,no unit,public service,police,,…,,,
-2010,no unit,public service,"education, science, research, cultural affairs",,,,,1.22
-2011,no unit,public service,"education, science, research, cultural affairs",,,,,1.22
-2012,no unit,public service,"education, science, research, cultural affairs",,,,,1.23
-2013,no unit,public service,"education, science, research, cultural affairs",,,,,1.24
-2014,no unit,public service,"education, science, research, cultural affairs",,,,,1.25
-2015,no unit,public service,"education, science, research, cultural affairs",,,,,1.26
-2016,no unit,public service,"education, science, research, cultural affairs",,,,,1.27
-2017,no unit,public service,"education, science, research, cultural affairs",,,,,1.27
-2018,no unit,public service,"education, science, research, cultural affairs",,,,,1.27
-2019,no unit,public service,"education, science, research, cultural affairs",,,,,1.28
-2020,no unit,public service,"education, science, research, cultural affairs",,,,,1.28
-2021,no unit,public service,"education, science, research, cultural affairs",,,,,1.28
-2022,no unit,public service,"education, science, research, cultural affairs",,,,,1.27
-2023,no unit,public service,"education, science, research, cultural affairs",,p,,,1.28
+2010,no unit,public service,"education, science, research, cultural affairs",,.,,,
+2011,no unit,public service,"education, science, research, cultural affairs",,.,,,
+2012,no unit,public service,"education, science, research, cultural affairs",,.,,,
+2013,no unit,public service,"education, science, research, cultural affairs",,.,,,
+2014,no unit,public service,"education, science, research, cultural affairs",,.,,,
+2015,no unit,public service,"education, science, research, cultural affairs",,,,,4.89
+2016,no unit,public service,"education, science, research, cultural affairs",,.,,,
+2017,no unit,public service,"education, science, research, cultural affairs",,,,,3.75
+2018,no unit,public service,"education, science, research, cultural affairs",,.,,,
+2019,no unit,public service,"education, science, research, cultural affairs",,,,,4.62
+2020,no unit,public service,"education, science, research, cultural affairs",,.,,,
+2021,no unit,public service,"education, science, research, cultural affairs",,,,,3.04
+2022,no unit,public service,"education, science, research, cultural affairs",,.,,,
+2023,no unit,public service,"education, science, research, cultural affairs",,,,,10.20
 2024,no unit,public service,"education, science, research, cultural affairs",,…,,,
-2025,no unit,public service,"education, science, research, cultural affairs",,…,,,
-2010,no unit,public service,"health, environment, sports and recreation",,,,,1.15
-2011,no unit,public service,"health, environment, sports and recreation",,,,,1.15
-2012,no unit,public service,"health, environment, sports and recreation",,,,,1.15
-2013,no unit,public service,"health, environment, sports and recreation",,,,,1.15
-2014,no unit,public service,"health, environment, sports and recreation",,,,,1.17
-2015,no unit,public service,"health, environment, sports and recreation",,,,,1.18
-2016,no unit,public service,"health, environment, sports and recreation",,,,,1.19
-2017,no unit,public service,"health, environment, sports and recreation",,,,,1.09
-2018,no unit,public service,"health, environment, sports and recreation",,,,,1.16
-2019,no unit,public service,"health, environment, sports and recreation",,,,,1.17
-2020,no unit,public service,"health, environment, sports and recreation",,,,,1.19
-2021,no unit,public service,"health, environment, sports and recreation",,,,,1.20
-2022,no unit,public service,"health, environment, sports and recreation",,,,,1.20
-2023,no unit,public service,"health, environment, sports and recreation",,p,,,1.20
+2010,no unit,public service,"health, environment, sports and recreation",,.,,,
+2011,no unit,public service,"health, environment, sports and recreation",,.,,,
+2012,no unit,public service,"health, environment, sports and recreation",,.,,,
+2013,no unit,public service,"health, environment, sports and recreation",,.,,,
+2014,no unit,public service,"health, environment, sports and recreation",,.,,,
+2015,no unit,public service,"health, environment, sports and recreation",,,,,4.36
+2016,no unit,public service,"health, environment, sports and recreation",,.,,,
+2017,no unit,public service,"health, environment, sports and recreation",,,,,3.57
+2018,no unit,public service,"health, environment, sports and recreation",,.,,,
+2019,no unit,public service,"health, environment, sports and recreation",,,,,4.56
+2020,no unit,public service,"health, environment, sports and recreation",,.,,,
+2021,no unit,public service,"health, environment, sports and recreation",,,,,4.68
+2022,no unit,public service,"health, environment, sports and recreation",,.,,,
+2023,no unit,public service,"health, environment, sports and recreation",,,,,12.94
 2024,no unit,public service,"health, environment, sports and recreation",,…,,,
-2025,no unit,public service,"health, environment, sports and recreation",,…,,,
-2010,no unit,judiciary,,,,,,0.78
-2011,no unit,judiciary,,,,,,0.79
-2012,no unit,judiciary,,,,,,0.81
-2013,no unit,judiciary,,,,,,0.83
-2014,no unit,judiciary,,,,,,0.83
-2015,no unit,judiciary,,,,,,0.88
-2016,no unit,judiciary,,,,,,0.90
-2017,no unit,judiciary,,,,,,0.92
-2018,no unit,judiciary,,,,,,0.93
-2019,no unit,judiciary,,,,,,0.94
-2020,no unit,judiciary,,,,,,0.96
-2021,no unit,judiciary,,,,,,0.98
-2022,no unit,judiciary,,,,,,0.99
-2023,no unit,judiciary,,,,,,1.01
+2010,no unit,judiciary,,,.,,,
+2011,no unit,judiciary,,,.,,,
+2012,no unit,judiciary,,,.,,,
+2013,no unit,judiciary,,,.,,,
+2014,no unit,judiciary,,,.,,,
+2015,no unit,judiciary,,,.,,,
+2016,no unit,judiciary,,,.,,,
+2017,no unit,judiciary,,,.,,,
+2018,no unit,judiciary,,,.,,,
+2019,no unit,judiciary,,,,,,28.00
+2020,no unit,judiciary,,,.,,,
+2021,no unit,judiciary,,,,,,31.19
+2022,no unit,judiciary,,,.,,,
+2023,no unit,judiciary,,,,,,20.85
 2024,no unit,judiciary,,,…,,,
-2025,no unit,judiciary,,,…,,,
-2010,no unit,judiciary,,supreme/constitutional courts,,,,0.47
-2011,no unit,judiciary,,supreme/constitutional courts,,,,0.46
-2012,no unit,judiciary,,supreme/constitutional courts,,,,0.51
-2013,no unit,judiciary,,supreme/constitutional courts,,,,0.49
-2014,no unit,judiciary,,supreme/constitutional courts,,,,0.55
-2015,no unit,judiciary,,supreme/constitutional courts,,,,0.55
-2016,no unit,judiciary,,supreme/constitutional courts,,,,0.64
-2017,no unit,judiciary,,supreme/constitutional courts,,,,0.64
-2018,no unit,judiciary,,supreme/constitutional courts,,,,0.70
-2019,no unit,judiciary,,supreme/constitutional courts,,,,0.70
-2020,no unit,judiciary,,supreme/constitutional courts,,,,0.79
-2021,no unit,judiciary,,supreme/constitutional courts,,,,0.79
-2022,no unit,judiciary,,supreme/constitutional courts,,,,0.80
-2023,no unit,judiciary,,supreme/constitutional courts,,,,0.80
+2010,no unit,judiciary,,supreme/constitutional courts,s,,,354
+2011,no unit,judiciary,,supreme/constitutional courts,,,,295
+2012,no unit,judiciary,,supreme/constitutional courts,,,,163
+2013,no unit,judiciary,,supreme/constitutional courts,,,,222
+2014,no unit,judiciary,,supreme/constitutional courts,,,,121
+2015,no unit,judiciary,,supreme/constitutional courts,,,,148
+2016,no unit,judiciary,,supreme/constitutional courts,.,,,
+2017,no unit,judiciary,,supreme/constitutional courts,.,,,
+2018,no unit,judiciary,,supreme/constitutional courts,.,,,
+2019,no unit,judiciary,,supreme/constitutional courts,.,,,
+2020,no unit,judiciary,,supreme/constitutional courts,.,,,
+2021,no unit,judiciary,,supreme/constitutional courts,.,,,
+2022,no unit,judiciary,,supreme/constitutional courts,.,,,
+2023,no unit,judiciary,,supreme/constitutional courts,.,,,
 2024,no unit,judiciary,,supreme/constitutional courts,…,,,
-2025,no unit,judiciary,,supreme/constitutional courts,…,,,
-2010,no unit,judiciary,,higher-level courts,,,,0.59
-2011,no unit,judiciary,,higher-level courts,,,,0.61
-2012,no unit,judiciary,,higher-level courts,,,,0.63
-2013,no unit,judiciary,,higher-level courts,,,,0.64
-2014,no unit,judiciary,,higher-level courts,,,,0.66
-2015,no unit,judiciary,,higher-level courts,,,,0.69
-2016,no unit,judiciary,,higher-level courts,,,,0.71
-2017,no unit,judiciary,,higher-level courts,,,,0.74
-2018,no unit,judiciary,,higher-level courts,,,,0.75
-2019,no unit,judiciary,,higher-level courts,,,,0.77
-2020,no unit,judiciary,,higher-level courts,,,,0.79
-2021,no unit,judiciary,,higher-level courts,,,,0.81
-2022,no unit,judiciary,,higher-level courts,,,,0.83
-2023,no unit,judiciary,,higher-level courts,,,,0.86
+2010,no unit,judiciary,,higher-level courts,.,,,
+2011,no unit,judiciary,,higher-level courts,.,,,
+2012,no unit,judiciary,,higher-level courts,.,,,
+2013,no unit,judiciary,,higher-level courts,.,,,
+2014,no unit,judiciary,,higher-level courts,.,,,
+2015,no unit,judiciary,,higher-level courts,,,,3.60
+2016,no unit,judiciary,,higher-level courts,.,,,
+2017,no unit,judiciary,,higher-level courts,,,,2.41
+2018,no unit,judiciary,,higher-level courts,.,,,
+2019,no unit,judiciary,,higher-level courts,,,,4.00
+2020,no unit,judiciary,,higher-level courts,.,,,
+2021,no unit,judiciary,,higher-level courts,,,,4.00
+2022,no unit,judiciary,,higher-level courts,.,,,
+2023,no unit,judiciary,,higher-level courts,,,,3.40
 2024,no unit,judiciary,,higher-level courts,…,,,
-2025,no unit,judiciary,,higher-level courts,…,,,
-2010,no unit,judiciary,,lower-level courts,,,,0.82
-2011,no unit,judiciary,,lower-level courts,,,,0.83
-2012,no unit,judiciary,,lower-level courts,,,,0.85
-2013,no unit,judiciary,,lower-level courts,,,,0.88
-2014,no unit,judiciary,,lower-level courts,,,,0.88
-2015,no unit,judiciary,,lower-level courts,,,,0.93
-2016,no unit,judiciary,,lower-level courts,,,,0.94
-2017,no unit,judiciary,,lower-level courts,,,,0.96
-2018,no unit,judiciary,,lower-level courts,,,,0.97
-2019,no unit,judiciary,,lower-level courts,,,,0.98
-2020,no unit,judiciary,,lower-level courts,,,,1.00
-2021,no unit,judiciary,,lower-level courts,,,,1.02
-2022,no unit,judiciary,,lower-level courts,,,,1.03
-2023,no unit,judiciary,,lower-level courts,,,,1.05
-2024,no unit,judiciary,,lower-level courts,…,,,
-2025,no unit,judiciary,,lower-level courts,…,,,
+2010,no unit,judiciary,,lower-level courts,,,,95.1
+2011,no unit,judiciary,,lower-level courts,,,,97.0
+2012,no unit,judiciary,,lower-level courts,,,,98.6
+2013,no unit,judiciary,,lower-level courts,,,,99.4
+2014,no unit,judiciary,,lower-level courts,,,,99.8
+2015,no unit,judiciary,,lower-level courts,,,,101.6
+2016,no unit,judiciary,,lower-level courts,,,,100.2
+2017,no unit,judiciary,,lower-level courts,,,,100.6
+2018,no unit,judiciary,,lower-level courts,,,,101.4
+2019,no unit,judiciary,,lower-level courts,,,,100.2
+2020,no unit,judiciary,,lower-level courts,,,,87.2
+2021,no unit,judiciary,,lower-level courts,,,,97.3
+2022,no unit,judiciary,,lower-level courts,,,,97.1
+2023,no unit,judiciary,,lower-level courts,,,,99.2
+2024,no unit,judiciary,,lower-level courts,,,,99.6
