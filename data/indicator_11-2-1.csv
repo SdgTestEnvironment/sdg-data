@@ -3,389 +3,337 @@ Year,time series,länder,GeoCode,disability status,age group,sex,COMMENT_OBS_0,C
 2011,accessibility within 500 m,,,,,,.,,,
 2012,accessibility within 500 m,,,,,,.,,,
 2013,accessibility within 500 m,,,,,,.,,,
-2014,accessibility within 500 m,,,,,,,,,0
-2015,accessibility within 500 m,,,,,,,,,0
-2016,accessibility within 500 m,,,,,,,,,0
-2017,accessibility within 500 m,,,,,,,,,2
-2018,accessibility within 500 m,,,,,,,,,0
-2019,accessibility within 500 m,,,,,,,,,0
-2020,accessibility within 500 m,,,,,,,,,0
-2021,accessibility within 500 m,,,,,,,,,2
-2022,accessibility within 500 m,,,,,,,,,1
-2023,accessibility within 500 m,,,,,,,,,8
-2024,accessibility within 500 m,,,,,,,,,0
-2010,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.198
-2011,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.210
-2012,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.216
-2013,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.203
-2014,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.209
-2015,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.186
-2016,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.081
-2017,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.080
-2018,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.073
-2019,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.083
-2020,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.085
-2021,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.071
-2022,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.192
-2023,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.247
-2024,accessibility within 500 m,baden-württemberg,code08,,,,,,,0.416
-2010,accessibility within 500 m,bavaria,code09,,,,r,,,31435.8
-2011,accessibility within 500 m,bavaria,code09,,,,r,,,40420.4
-2012,accessibility within 500 m,bavaria,code09,,,,r,,,27009.7
-2013,accessibility within 500 m,bavaria,code09,,,,r,,,39992.1
-2014,accessibility within 500 m,bavaria,code09,,,,r,,,39948.4
-2015,accessibility within 500 m,bavaria,code09,,,,r,,,42935.5
-2016,accessibility within 500 m,bavaria,code09,,,,r,,,44490.2
-2017,accessibility within 500 m,bavaria,code09,,,,r,,,47671.1
-2018,accessibility within 500 m,bavaria,code09,,,,r,,,44045.5
-2019,accessibility within 500 m,bavaria,code09,,,,r,,,37690.8
-2020,accessibility within 500 m,bavaria,code09,,,,r,,,39224.8
-2021,accessibility within 500 m,bavaria,code09,,,,r,,,58513.0
-2022,accessibility within 500 m,bavaria,code09,,,,r,,,49095.0
-2023,accessibility within 500 m,bavaria,code09,,,,,,,68763.5
-2024,accessibility within 500 m,bavaria,code09,,,,…,,,
-2010,accessibility within 500 m,berlin,code11,,,,r,,,9803.8
-2011,accessibility within 500 m,berlin,code11,,,,r,,,10135.4
-2012,accessibility within 500 m,berlin,code11,,,,r,,,10067.0
-2013,accessibility within 500 m,berlin,code11,,,,r,,,10716.8
-2014,accessibility within 500 m,berlin,code11,,,,r,,,12486.3
-2015,accessibility within 500 m,berlin,code11,,,,r,,,16173.1
-2016,accessibility within 500 m,berlin,code11,,,,r,,,22368.3
-2017,accessibility within 500 m,berlin,code11,,,,r,,,22181.8
-2018,accessibility within 500 m,berlin,code11,,,,r,,,21750.3
-2019,accessibility within 500 m,berlin,code11,,,,r,,,21548.6
-2020,accessibility within 500 m,berlin,code11,,,,r,,,25728.6
-2021,accessibility within 500 m,berlin,code11,,,,r,,,27444.2
-2022,accessibility within 500 m,berlin,code11,,,,r,,,34655.2
-2023,accessibility within 500 m,berlin,code11,,,,,,,38150.8
-2024,accessibility within 500 m,berlin,code11,,,,…,,,
-2010,accessibility within 500 m,brandenburg,code12,,,,r,,,51.5
-2011,accessibility within 500 m,brandenburg,code12,,,,r,,,-103.6
-2012,accessibility within 500 m,brandenburg,code12,,,,r,,,-71.0
-2013,accessibility within 500 m,brandenburg,code12,,,,r,,,-63.9
-2014,accessibility within 500 m,brandenburg,code12,,,,r,,,115.7
-2015,accessibility within 500 m,brandenburg,code12,,,,r,,,1194.0
-2016,accessibility within 500 m,brandenburg,code12,,,,r,,,-413.9
-2017,accessibility within 500 m,brandenburg,code12,,,,r,,,-316.5
-2018,accessibility within 500 m,brandenburg,code12,,,,r,,,-99.3
-2019,accessibility within 500 m,brandenburg,code12,,,,r,,,12.6
-2020,accessibility within 500 m,brandenburg,code12,,,,r,,,370.7
-2021,accessibility within 500 m,brandenburg,code12,,,,r,,,1075.8
-2022,accessibility within 500 m,brandenburg,code12,,,,r,,,219.6
-2023,accessibility within 500 m,brandenburg,code12,,,,,,,35.1
-2024,accessibility within 500 m,brandenburg,code12,,,,…,,,
-2010,accessibility within 500 m,bremen,code04,,,,r,,,2798.9
-2011,accessibility within 500 m,bremen,code04,,,,r,,,7392.1
-2012,accessibility within 500 m,bremen,code04,,,,r,,,4879.7
-2013,accessibility within 500 m,bremen,code04,,,,r,,,4082.9
-2014,accessibility within 500 m,bremen,code04,,,,r,,,-120.7
-2015,accessibility within 500 m,bremen,code04,,,,r,,,1682.3
-2016,accessibility within 500 m,bremen,code04,,,,r,,,3119.4
-2017,accessibility within 500 m,bremen,code04,,,,r,,,5.3
-2018,accessibility within 500 m,bremen,code04,,,,r,,,1176.6
-2019,accessibility within 500 m,bremen,code04,,,,r,,,-1739.6
-2020,accessibility within 500 m,bremen,code04,,,,r,,,-1072.8
-2021,accessibility within 500 m,bremen,code04,,,,r,,,-1065.1
-2022,accessibility within 500 m,bremen,code04,,,,r,,,-1306.1
-2023,accessibility within 500 m,bremen,code04,,,,,,,9695.6
-2024,accessibility within 500 m,bremen,code04,,,,…,,,
-2010,accessibility within 500 m,hamburg,code02,,,,r,,,17675.9
-2011,accessibility within 500 m,hamburg,code02,,,,r,,,21847.7
-2012,accessibility within 500 m,hamburg,code02,,,,r,,,11045.2
-2013,accessibility within 500 m,hamburg,code02,,,,r,,,24190.4
-2014,accessibility within 500 m,hamburg,code02,,,,r,,,26319.6
-2015,accessibility within 500 m,hamburg,code02,,,,r,,,22640.9
-2016,accessibility within 500 m,hamburg,code02,,,,r,,,18129.2
-2017,accessibility within 500 m,hamburg,code02,,,,r,,,24478.4
-2018,accessibility within 500 m,hamburg,code02,,,,r,,,20063.5
-2019,accessibility within 500 m,hamburg,code02,,,,r,,,16505.6
-2020,accessibility within 500 m,hamburg,code02,,,,r,,,12869.1
-2021,accessibility within 500 m,hamburg,code02,,,,r,,,29778.8
-2022,accessibility within 500 m,hamburg,code02,,,,r,,,13803.7
-2023,accessibility within 500 m,hamburg,code02,,,,,,,18862.2
-2024,accessibility within 500 m,hamburg,code02,,,,…,,,
-2010,accessibility within 500 m,hesse,code06,,,,r,,,1105.0
-2011,accessibility within 500 m,hesse,code06,,,,r,,,1148.8
-2012,accessibility within 500 m,hesse,code06,,,,r,,,1088.8
-2013,accessibility within 500 m,hesse,code06,,,,r,,,1066.5
-2014,accessibility within 500 m,hesse,code06,,,,r,,,1148.2
-2015,accessibility within 500 m,hesse,code06,,,,r,,,1244.7
-2016,accessibility within 500 m,hesse,code06,,,,r,,,1287.2
-2017,accessibility within 500 m,hesse,code06,,,,r,,,1322.1
-2018,accessibility within 500 m,hesse,code06,,,,r,,,1155.1
-2019,accessibility within 500 m,hesse,code06,,,,r,,,1364.3
-2020,accessibility within 500 m,hesse,code06,,,,r,,,1328.4
-2021,accessibility within 500 m,hesse,code06,,,,r,,,1279.4
-2022,accessibility within 500 m,hesse,code06,,,,r,,,1722.5
-2023,accessibility within 500 m,hesse,code06,,,,,,,1458.4
-2024,accessibility within 500 m,hesse,code06,,,,…,,,
-2010,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,46398.0
-2011,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,58935.0
-2012,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,38823.0
-2013,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,56360.0
-2014,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,55250.0
-2015,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,58399.3
-2016,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,59759.0
-2017,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,63102.0
-2018,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,57236.0
-2019,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,48013.0
-2020,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,49103.0
-2021,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,71254.0
-2022,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,56348.0
-2023,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,74355.0
-2024,accessibility within 500 m,mecklenburg western pomerania,code13,,,,…,,,
-2010,accessibility within 500 m,lower saxony,code03,,,,,,,14470
-2011,accessibility within 500 m,lower saxony,code03,,,,,,,14778
-2012,accessibility within 500 m,lower saxony,code03,,,,,,,14470
-2013,accessibility within 500 m,lower saxony,code03,,,,,,,15103
-2014,accessibility within 500 m,lower saxony,code03,,,,,,,17269
-2015,accessibility within 500 m,lower saxony,code03,,,,,,,21998
-2016,accessibility within 500 m,lower saxony,code03,,,,,,,30045
-2017,accessibility within 500 m,lower saxony,code03,,,,,,,29362
-2018,accessibility within 500 m,lower saxony,code03,,,,,,,28264
-2019,accessibility within 500 m,lower saxony,code03,,,,,,,27450
-2020,accessibility within 500 m,lower saxony,code03,,,,,,,32208
-2021,accessibility within 500 m,lower saxony,code03,,,,,,,33420
-2022,accessibility within 500 m,lower saxony,code03,,,,,,,39775
-2023,accessibility within 500 m,lower saxony,code03,,,,,,,41253
-2024,accessibility within 500 m,lower saxony,code03,,,,…,,,
-2010,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,76
-2011,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,-151
-2012,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,-102
-2013,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,-90
-2014,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,160
-2015,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,1624
-2016,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,-556
-2017,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,-419
-2018,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,-129
-2019,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,16
-2020,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,464
-2021,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,1310
-2022,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,252
-2023,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,38
-2024,accessibility within 500 m,north rhine-westphalia,code05,,,,…,,,
-2010,accessibility within 500 m,rhineland palatinate,code07,,,,,,,4131.0
-2011,accessibility within 500 m,rhineland palatinate,code07,,,,,,,10778.0
-2012,accessibility within 500 m,rhineland palatinate,code07,,,,,,,7014.0
-2013,accessibility within 500 m,rhineland palatinate,code07,,,,,,,5754.0
-2014,accessibility within 500 m,rhineland palatinate,code07,,,,,,,-167.0
-2015,accessibility within 500 m,rhineland palatinate,code07,,,,,,,2288.3
-2016,accessibility within 500 m,rhineland palatinate,code07,,,,,,,4190.0
-2017,accessibility within 500 m,rhineland palatinate,code07,,,,,,,7.0
-2018,accessibility within 500 m,rhineland palatinate,code07,,,,,,,1529.0
-2019,accessibility within 500 m,rhineland palatinate,code07,,,,,,,-2216.0
-2020,accessibility within 500 m,rhineland palatinate,code07,,,,,,,-1343.0
-2021,accessibility within 500 m,rhineland palatinate,code07,,,,,,,-1297.0
-2022,accessibility within 500 m,rhineland palatinate,code07,,,,,,,-1499.0
-2023,accessibility within 500 m,rhineland palatinate,code07,,,,,,,10484.0
-2024,accessibility within 500 m,rhineland palatinate,code07,,,,…,,,
-2010,accessibility within 500 m,saarland,code10,,,,,,,26089.0
-2011,accessibility within 500 m,saarland,code10,,,,,,,31855.0
-2012,accessibility within 500 m,saarland,code10,,,,,,,15876.0
-2013,accessibility within 500 m,saarland,code10,,,,,,,34091.0
-2014,accessibility within 500 m,saarland,code10,,,,,,,36401.0
-2015,accessibility within 500 m,saarland,code10,,,,,,,30795.3
-2016,accessibility within 500 m,saarland,code10,,,,,,,24351.0
-2017,accessibility within 500 m,saarland,code10,,,,,,,32402.0
-2018,accessibility within 500 m,saarland,code10,,,,,,,26072.0
-2019,accessibility within 500 m,saarland,code10,,,,,,,21026.0
-2020,accessibility within 500 m,saarland,code10,,,,,,,16110.0
-2021,accessibility within 500 m,saarland,code10,,,,,,,36263.0
-2022,accessibility within 500 m,saarland,code10,,,,,,,15843.0
-2023,accessibility within 500 m,saarland,code10,,,,,,,20396.0
-2024,accessibility within 500 m,saarland,code10,,,,…,,,
-2010,accessibility within 500 m,saxony,code14,,,,,,,1631
-2011,accessibility within 500 m,saxony,code14,,,,,,,1675
-2012,accessibility within 500 m,saxony,code14,,,,,,,1565
-2013,accessibility within 500 m,saxony,code14,,,,,,,1503
-2014,accessibility within 500 m,saxony,code14,,,,,,,1588
-2015,accessibility within 500 m,saxony,code14,,,,,,,1693
-2016,accessibility within 500 m,saxony,code14,,,,,,,1729
-2017,accessibility within 500 m,saxony,code14,,,,,,,1750
-2018,accessibility within 500 m,saxony,code14,,,,,,,1501
-2019,accessibility within 500 m,saxony,code14,,,,,,,1738
-2020,accessibility within 500 m,saxony,code14,,,,,,,1663
-2021,accessibility within 500 m,saxony,code14,,,,,,,1558
-2022,accessibility within 500 m,saxony,code14,,,,,,,1977
-2023,accessibility within 500 m,saxony,code14,,,,,,,1577
-2024,accessibility within 500 m,saxony,code14,,,,…,,,
-2010,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2011,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2012,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2013,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2014,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2015,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2016,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2017,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2018,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2019,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2020,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2021,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2022,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2023,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2024,accessibility within 500 m,saxony-anhalt,code15,,,,,,,
-2010,accessibility within 500 m,schleswig-holstein,code01,,,,,,,9.6
-2011,accessibility within 500 m,schleswig-holstein,code01,,,,,,,9.5
-2012,accessibility within 500 m,schleswig-holstein,code01,,,,,,,10.8
-2013,accessibility within 500 m,schleswig-holstein,code01,,,,,,,10.4
-2014,accessibility within 500 m,schleswig-holstein,code01,,,,,,,9.9
-2015,accessibility within 500 m,schleswig-holstein,code01,,,,,,,10.5
-2016,accessibility within 500 m,schleswig-holstein,code01,,,,,,,11.0
-2017,accessibility within 500 m,schleswig-holstein,code01,,,,,,,11.4
-2018,accessibility within 500 m,schleswig-holstein,code01,,,,,,,11.5
-2019,accessibility within 500 m,schleswig-holstein,code01,,,,,,,12.7
-2020,accessibility within 500 m,schleswig-holstein,code01,,,,|,,,15.0
-2021,accessibility within 500 m,schleswig-holstein,code01,,,,,,,15.7
-2022,accessibility within 500 m,schleswig-holstein,code01,,,,,,,16.5
-2023,accessibility within 500 m,schleswig-holstein,code01,,,,,,,16.6
-2024,accessibility within 500 m,schleswig-holstein,code01,,,,,,,16.7
-2010,accessibility within 500 m,thuringia,code16,,,,,,,4.7
-2011,accessibility within 500 m,thuringia,code16,,,,,,,4.1
-2012,accessibility within 500 m,thuringia,code16,,,,,,,4.8
-2013,accessibility within 500 m,thuringia,code16,,,,,,,5.2
-2014,accessibility within 500 m,thuringia,code16,,,,,,,5.2
-2015,accessibility within 500 m,thuringia,code16,,,,,,,5.6
-2016,accessibility within 500 m,thuringia,code16,,,,,,,5.9
-2017,accessibility within 500 m,thuringia,code16,,,,,,,5.3
-2018,accessibility within 500 m,thuringia,code16,,,,,,,5.5
-2019,accessibility within 500 m,thuringia,code16,,,,,,,5.5
-2020,accessibility within 500 m,thuringia,code16,,,,|,,,8.0
-2021,accessibility within 500 m,thuringia,code16,,,,,,,8.7
-2022,accessibility within 500 m,thuringia,code16,,,,,,,9.0
-2023,accessibility within 500 m,thuringia,code16,,,,,,,9.3
-2024,accessibility within 500 m,thuringia,code16,,,,,,,9.2
-2010,accessibility within 10 minutes on foot,,,,,,,,,4.7
-2011,accessibility within 10 minutes on foot,,,,,,,,,4.1
-2012,accessibility within 10 minutes on foot,,,,,,,,,3.7
-2013,accessibility within 10 minutes on foot,,,,,,,,,4.0
-2014,accessibility within 10 minutes on foot,,,,,,,,,4.1
-2015,accessibility within 10 minutes on foot,,,,,,,,,3.9
-2016,accessibility within 10 minutes on foot,,,,,,,,,3.5
-2017,accessibility within 10 minutes on foot,,,,,,,,,3.9
-2018,accessibility within 10 minutes on foot,,,,,,,,,4.2
-2019,accessibility within 10 minutes on foot,,,,,,,,,4.0
-2020,accessibility within 10 minutes on foot,,,,,,|,,,5.5
-2021,accessibility within 10 minutes on foot,,,,,,,,,5.0
-2022,accessibility within 10 minutes on foot,,,,,,,,,5.5
-2023,accessibility within 10 minutes on foot,,,,,,,,,5.5
-2024,accessibility within 10 minutes on foot,,,,,,,,,5.8
-2010,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,16.2
-2011,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,18.0
-2012,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,19.8
-2013,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,18.9
-2014,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,19.3
-2015,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,19.1
-2016,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,19.6
-2017,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,17.9
-2018,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,17.6
-2019,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,16.2
-2020,accessibility within 10 minutes on foot,,,mobility impaired people,,,|,,,11.4
-2021,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,12.4
-2022,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,13.1
-2023,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,14.2
-2024,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,13.1
-2010,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,13.0
-2011,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,14.5
-2012,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,15.5
-2013,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,16.1
-2014,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,14.9
-2015,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,14.5
-2016,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,14.5
-2017,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,13.4
-2018,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,13.3
-2019,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,12.7
-2020,accessibility within 10 minutes on foot,,,,17 years and younger,,|,,,7.8
-2021,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,10.7
-2022,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,11.5
-2023,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,12.7
-2024,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,11.6
-2010,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,12.3
-2011,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,13.6
-2012,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,13.9
-2013,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,13.3
-2014,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,12.7
-2015,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,12.0
-2016,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,12.2
-2017,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,11.0
-2018,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,10.4
-2019,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,12.4
-2020,accessibility within 10 minutes on foot,,,,18 to under 30 years,,|,,,6.8
-2021,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,8.6
-2022,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,10.5
-2023,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,11.3
-2024,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,10.5
-2010,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,13.3
-2011,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,13.7
-2012,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,13.5
-2013,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,13.1
-2014,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,12.3
-2015,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,12.8
-2016,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,13.1
-2017,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,12.5
-2018,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,13.4
-2019,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,12.0
-2020,accessibility within 10 minutes on foot,,,,30 to under 45 years,,|,,,12.0
-2021,accessibility within 10 minutes on foot,,,,30 to under 45 years,,.,,,
-2022,accessibility within 10 minutes on foot,,,,30 to under 45 years,,.,,,
-2023,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,16.0
-2024,accessibility within 10 minutes on foot,,,,30 to under 45 years,,.,,,
-2010,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,13.7
-2011,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,14.1
-2012,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,13.7
-2013,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,13.1
-2014,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,12.6
-2015,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,13.1
-2016,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,13.5
-2017,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,12.7
-2018,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,13.7
-2019,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,12.3
-2020,accessibility within 10 minutes on foot,,,,45 to under 65 years,,|,,,12.2
-2021,accessibility within 10 minutes on foot,,,,45 to under 65 years,,.,,,
-2022,accessibility within 10 minutes on foot,,,,45 to under 65 years,,.,,,
-2023,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,16.3
-2024,accessibility within 10 minutes on foot,,,,45 to under 65 years,,.,,,
-2010,accessibility within 10 minutes on foot,,,,65 years and older,,,,,13.0
-2011,accessibility within 10 minutes on foot,,,,65 years and older,,,,,13.4
-2012,accessibility within 10 minutes on foot,,,,65 years and older,,,,,13.2
-2013,accessibility within 10 minutes on foot,,,,65 years and older,,,,,13.1
-2014,accessibility within 10 minutes on foot,,,,65 years and older,,,,,12.1
-2015,accessibility within 10 minutes on foot,,,,65 years and older,,,,,12.4
-2016,accessibility within 10 minutes on foot,,,,65 years and older,,,,,12.7
-2017,accessibility within 10 minutes on foot,,,,65 years and older,,,,,12.2
-2018,accessibility within 10 minutes on foot,,,,65 years and older,,,,,13.2
-2019,accessibility within 10 minutes on foot,,,,65 years and older,,,,,11.7
-2020,accessibility within 10 minutes on foot,,,,65 years and older,,|,,,11.8
-2021,accessibility within 10 minutes on foot,,,,65 years and older,,.,,,
-2022,accessibility within 10 minutes on foot,,,,65 years and older,,.,,,
-2023,accessibility within 10 minutes on foot,,,,65 years and older,,,,,15.8
-2024,accessibility within 10 minutes on foot,,,,65 years and older,,.,,,
-2010,accessibility within 10 minutes on foot,,,,,female,,,,0.5
-2011,accessibility within 10 minutes on foot,,,,,female,,,,0.1
-2012,accessibility within 10 minutes on foot,,,,,female,,,,0.1
-2013,accessibility within 10 minutes on foot,,,,,female,0,,,0.0
-2014,accessibility within 10 minutes on foot,,,,,female,0,,,0.0
-2015,accessibility within 10 minutes on foot,,,,,female,0,,,0.0
-2016,accessibility within 10 minutes on foot,,,,,female,0,,,0.0
-2017,accessibility within 10 minutes on foot,,,,,female,0,,,0.0
-2018,accessibility within 10 minutes on foot,,,,,female,0,,,0.0
-2019,accessibility within 10 minutes on foot,,,,,female,0,,,0.0
-2020,accessibility within 10 minutes on foot,,,,,female,0,|,,0.0
-2021,accessibility within 10 minutes on foot,,,,,female,.,,,
-2022,accessibility within 10 minutes on foot,,,,,female,.,,,
-2023,accessibility within 10 minutes on foot,,,,,female,.,,,
-2024,accessibility within 10 minutes on foot,,,,,female,.,,,
-2010,accessibility within 10 minutes on foot,,,,,male,,,,0.5
-2011,accessibility within 10 minutes on foot,,,,,male,,,,0.1
-2012,accessibility within 10 minutes on foot,,,,,male,,,,0.1
-2013,accessibility within 10 minutes on foot,,,,,male,0,,,0.0
-2014,accessibility within 10 minutes on foot,,,,,male,0,,,0.0
-2015,accessibility within 10 minutes on foot,,,,,male,0,,,0.0
-2016,accessibility within 10 minutes on foot,,,,,male,0,,,0.0
-2017,accessibility within 10 minutes on foot,,,,,male,0,,,0.0
-2018,accessibility within 10 minutes on foot,,,,,male,0,,,0.0
-2019,accessibility within 10 minutes on foot,,,,,male,0,,,0.0
-2020,accessibility within 10 minutes on foot,,,,,male,0,|,,0.0
-2021,accessibility within 10 minutes on foot,,,,,male,.,,,
-2022,accessibility within 10 minutes on foot,,,,,male,.,,,
-2023,accessibility within 10 minutes on foot,,,,,male,.,,,
-2024,accessibility within 10 minutes on foot,,,,,male,.,,,
+2014,accessibility within 500 m,,,,,,.,,,
+2015,accessibility within 500 m,,,,,,.,,,
+2016,accessibility within 500 m,,,,,,,,,79.0
+2017,accessibility within 500 m,,,,,,.,,,
+2018,accessibility within 500 m,,,,,,,,,79.9
+2019,accessibility within 500 m,,,,,,.,,,
+2020,accessibility within 500 m,,,,,,,,,79.9
+2021,accessibility within 500 m,,,,,,…,,,
+2022,accessibility within 500 m,,,,,,…,,,
+2010,accessibility within 500 m,baden-württemberg,code08,,,,.,,,
+2011,accessibility within 500 m,baden-württemberg,code08,,,,.,,,
+2012,accessibility within 500 m,baden-württemberg,code08,,,,.,,,
+2013,accessibility within 500 m,baden-württemberg,code08,,,,.,,,
+2014,accessibility within 500 m,baden-württemberg,code08,,,,.,,,
+2015,accessibility within 500 m,baden-württemberg,code08,,,,.,,,
+2016,accessibility within 500 m,baden-württemberg,code08,,,,,,,85.6
+2017,accessibility within 500 m,baden-württemberg,code08,,,,.,,,
+2018,accessibility within 500 m,baden-württemberg,code08,,,,,,,85.7
+2019,accessibility within 500 m,baden-württemberg,code08,,,,.,,,
+2020,accessibility within 500 m,baden-württemberg,code08,,,,,,,85.7
+2021,accessibility within 500 m,baden-württemberg,code08,,,,…,,,
+2022,accessibility within 500 m,baden-württemberg,code08,,,,…,,,
+2010,accessibility within 500 m,bavaria,code09,,,,.,,,
+2011,accessibility within 500 m,bavaria,code09,,,,.,,,
+2012,accessibility within 500 m,bavaria,code09,,,,.,,,
+2013,accessibility within 500 m,bavaria,code09,,,,.,,,
+2014,accessibility within 500 m,bavaria,code09,,,,.,,,
+2015,accessibility within 500 m,bavaria,code09,,,,.,,,
+2016,accessibility within 500 m,bavaria,code09,,,,,,,63.4
+2017,accessibility within 500 m,bavaria,code09,,,,.,,,
+2018,accessibility within 500 m,bavaria,code09,,,,,,,64.5
+2019,accessibility within 500 m,bavaria,code09,,,,.,,,
+2020,accessibility within 500 m,bavaria,code09,,,,,,,65.5
+2021,accessibility within 500 m,bavaria,code09,,,,…,,,
+2022,accessibility within 500 m,bavaria,code09,,,,…,,,
+2010,accessibility within 500 m,berlin,code11,,,,.,,,
+2011,accessibility within 500 m,berlin,code11,,,,.,,,
+2012,accessibility within 500 m,berlin,code11,,,,.,,,
+2013,accessibility within 500 m,berlin,code11,,,,.,,,
+2014,accessibility within 500 m,berlin,code11,,,,.,,,
+2015,accessibility within 500 m,berlin,code11,,,,.,,,
+2016,accessibility within 500 m,berlin,code11,,,,,,,97.9
+2017,accessibility within 500 m,berlin,code11,,,,.,,,
+2018,accessibility within 500 m,berlin,code11,,,,,,,98.0
+2019,accessibility within 500 m,berlin,code11,,,,.,,,
+2020,accessibility within 500 m,berlin,code11,,,,,,,97.9
+2021,accessibility within 500 m,berlin,code11,,,,…,,,
+2022,accessibility within 500 m,berlin,code11,,,,…,,,
+2010,accessibility within 500 m,brandenburg,code12,,,,.,,,
+2011,accessibility within 500 m,brandenburg,code12,,,,.,,,
+2012,accessibility within 500 m,brandenburg,code12,,,,.,,,
+2013,accessibility within 500 m,brandenburg,code12,,,,.,,,
+2014,accessibility within 500 m,brandenburg,code12,,,,.,,,
+2015,accessibility within 500 m,brandenburg,code12,,,,.,,,
+2016,accessibility within 500 m,brandenburg,code12,,,,,,,68.6
+2017,accessibility within 500 m,brandenburg,code12,,,,.,,,
+2018,accessibility within 500 m,brandenburg,code12,,,,,,,68.5
+2019,accessibility within 500 m,brandenburg,code12,,,,.,,,
+2020,accessibility within 500 m,brandenburg,code12,,,,,,,70.8
+2021,accessibility within 500 m,brandenburg,code12,,,,…,,,
+2022,accessibility within 500 m,brandenburg,code12,,,,…,,,
+2010,accessibility within 500 m,bremen,code04,,,,.,,,
+2011,accessibility within 500 m,bremen,code04,,,,.,,,
+2012,accessibility within 500 m,bremen,code04,,,,.,,,
+2013,accessibility within 500 m,bremen,code04,,,,.,,,
+2014,accessibility within 500 m,bremen,code04,,,,.,,,
+2015,accessibility within 500 m,bremen,code04,,,,.,,,
+2016,accessibility within 500 m,bremen,code04,,,,,,,95.7
+2017,accessibility within 500 m,bremen,code04,,,,.,,,
+2018,accessibility within 500 m,bremen,code04,,,,,,,95.7
+2019,accessibility within 500 m,bremen,code04,,,,.,,,
+2020,accessibility within 500 m,bremen,code04,,,,,,,96.6
+2021,accessibility within 500 m,bremen,code04,,,,…,,,
+2022,accessibility within 500 m,bremen,code04,,,,…,,,
+2010,accessibility within 500 m,hamburg,code02,,,,.,,,
+2011,accessibility within 500 m,hamburg,code02,,,,.,,,
+2012,accessibility within 500 m,hamburg,code02,,,,.,,,
+2013,accessibility within 500 m,hamburg,code02,,,,.,,,
+2014,accessibility within 500 m,hamburg,code02,,,,.,,,
+2015,accessibility within 500 m,hamburg,code02,,,,.,,,
+2016,accessibility within 500 m,hamburg,code02,,,,,,,96.4
+2017,accessibility within 500 m,hamburg,code02,,,,.,,,
+2018,accessibility within 500 m,hamburg,code02,,,,,,,96.5
+2019,accessibility within 500 m,hamburg,code02,,,,.,,,
+2020,accessibility within 500 m,hamburg,code02,,,,,,,96.8
+2021,accessibility within 500 m,hamburg,code02,,,,…,,,
+2022,accessibility within 500 m,hamburg,code02,,,,…,,,
+2010,accessibility within 500 m,hesse,code06,,,,.,,,
+2011,accessibility within 500 m,hesse,code06,,,,.,,,
+2012,accessibility within 500 m,hesse,code06,,,,.,,,
+2013,accessibility within 500 m,hesse,code06,,,,.,,,
+2014,accessibility within 500 m,hesse,code06,,,,.,,,
+2015,accessibility within 500 m,hesse,code06,,,,.,,,
+2016,accessibility within 500 m,hesse,code06,,,,.,,,87.6
+2017,accessibility within 500 m,hesse,code06,,,,.,,,
+2018,accessibility within 500 m,hesse,code06,,,,,,,88.0
+2019,accessibility within 500 m,hesse,code06,,,,.,,,
+2020,accessibility within 500 m,hesse,code06,,,,,,,85.7
+2021,accessibility within 500 m,hesse,code06,,,,…,,,
+2022,accessibility within 500 m,hesse,code06,,,,…,,,
+2010,accessibility within 500 m,mecklenburg western pomerania,code13,,,,.,,,
+2011,accessibility within 500 m,mecklenburg western pomerania,code13,,,,.,,,
+2012,accessibility within 500 m,mecklenburg western pomerania,code13,,,,.,,,
+2013,accessibility within 500 m,mecklenburg western pomerania,code13,,,,.,,,
+2014,accessibility within 500 m,mecklenburg western pomerania,code13,,,,.,,,
+2015,accessibility within 500 m,mecklenburg western pomerania,code13,,,,.,,,
+2016,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,56.5
+2017,accessibility within 500 m,mecklenburg western pomerania,code13,,,,.,,,
+2018,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,61.6
+2019,accessibility within 500 m,mecklenburg western pomerania,code13,,,,.,,,
+2020,accessibility within 500 m,mecklenburg western pomerania,code13,,,,,,,62.2
+2021,accessibility within 500 m,mecklenburg western pomerania,code13,,,,…,,,
+2022,accessibility within 500 m,mecklenburg western pomerania,code13,,,,…,,,
+2010,accessibility within 500 m,lower saxony,code03,,,,.,,,
+2011,accessibility within 500 m,lower saxony,code03,,,,.,,,
+2012,accessibility within 500 m,lower saxony,code03,,,,.,,,
+2013,accessibility within 500 m,lower saxony,code03,,,,.,,,
+2014,accessibility within 500 m,lower saxony,code03,,,,.,,,
+2015,accessibility within 500 m,lower saxony,code03,,,,.,,,
+2016,accessibility within 500 m,lower saxony,code03,,,,,,,66.9
+2017,accessibility within 500 m,lower saxony,code03,,,,.,,,
+2018,accessibility within 500 m,lower saxony,code03,,,,,,,69.4
+2019,accessibility within 500 m,lower saxony,code03,,,,.,,,
+2020,accessibility within 500 m,lower saxony,code03,,,,,,,69.5
+2021,accessibility within 500 m,lower saxony,code03,,,,…,,,
+2022,accessibility within 500 m,lower saxony,code03,,,,…,,,
+2010,accessibility within 500 m,north rhine-westphalia,code05,,,,.,,,
+2011,accessibility within 500 m,north rhine-westphalia,code05,,,,.,,,
+2012,accessibility within 500 m,north rhine-westphalia,code05,,,,.,,,
+2013,accessibility within 500 m,north rhine-westphalia,code05,,,,.,,,
+2014,accessibility within 500 m,north rhine-westphalia,code05,,,,.,,,
+2015,accessibility within 500 m,north rhine-westphalia,code05,,,,.,,,
+2016,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,89.5
+2017,accessibility within 500 m,north rhine-westphalia,code05,,,,.,,,
+2018,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,90.3
+2019,accessibility within 500 m,north rhine-westphalia,code05,,,,.,,,
+2020,accessibility within 500 m,north rhine-westphalia,code05,,,,,,,89.0
+2021,accessibility within 500 m,north rhine-westphalia,code05,,,,…,,,
+2022,accessibility within 500 m,north rhine-westphalia,code05,,,,…,,,
+2010,accessibility within 500 m,rhineland palatinate,code07,,,,.,,,
+2011,accessibility within 500 m,rhineland palatinate,code07,,,,.,,,
+2012,accessibility within 500 m,rhineland palatinate,code07,,,,.,,,
+2013,accessibility within 500 m,rhineland palatinate,code07,,,,.,,,
+2014,accessibility within 500 m,rhineland palatinate,code07,,,,.,,,
+2015,accessibility within 500 m,rhineland palatinate,code07,,,,.,,,
+2016,accessibility within 500 m,rhineland palatinate,code07,,,,,,,70.9
+2017,accessibility within 500 m,rhineland palatinate,code07,,,,.,,,
+2018,accessibility within 500 m,rhineland palatinate,code07,,,,,,,71.7
+2019,accessibility within 500 m,rhineland palatinate,code07,,,,.,,,
+2020,accessibility within 500 m,rhineland palatinate,code07,,,,,,,73.6
+2021,accessibility within 500 m,rhineland palatinate,code07,,,,…,,,
+2022,accessibility within 500 m,rhineland palatinate,code07,,,,…,,,
+2010,accessibility within 500 m,saarland,code10,,,,.,,,
+2011,accessibility within 500 m,saarland,code10,,,,.,,,
+2012,accessibility within 500 m,saarland,code10,,,,.,,,
+2013,accessibility within 500 m,saarland,code10,,,,.,,,
+2014,accessibility within 500 m,saarland,code10,,,,.,,,
+2015,accessibility within 500 m,saarland,code10,,,,.,,,
+2016,accessibility within 500 m,saarland,code10,,,,,,,88.4
+2017,accessibility within 500 m,saarland,code10,,,,.,,,
+2018,accessibility within 500 m,saarland,code10,,,,,,,88.8
+2019,accessibility within 500 m,saarland,code10,,,,.,,,
+2020,accessibility within 500 m,saarland,code10,,,,,,,89.4
+2021,accessibility within 500 m,saarland,code10,,,,…,,,
+2022,accessibility within 500 m,saarland,code10,,,,…,,,
+2010,accessibility within 500 m,saxony,code14,,,,.,,,
+2011,accessibility within 500 m,saxony,code14,,,,.,,,
+2012,accessibility within 500 m,saxony,code14,,,,.,,,
+2013,accessibility within 500 m,saxony,code14,,,,.,,,
+2014,accessibility within 500 m,saxony,code14,,,,.,,,
+2015,accessibility within 500 m,saxony,code14,,,,.,,,
+2016,accessibility within 500 m,saxony,code14,,,,,,,79.7
+2017,accessibility within 500 m,saxony,code14,,,,.,,,
+2018,accessibility within 500 m,saxony,code14,,,,,,,80.7
+2019,accessibility within 500 m,saxony,code14,,,,.,,,
+2020,accessibility within 500 m,saxony,code14,,,,,,,81.7
+2021,accessibility within 500 m,saxony,code14,,,,…,,,
+2022,accessibility within 500 m,saxony,code14,,,,…,,,
+2010,accessibility within 500 m,saxony-anhalt,code15,,,,.,,,
+2011,accessibility within 500 m,saxony-anhalt,code15,,,,.,,,
+2012,accessibility within 500 m,saxony-anhalt,code15,,,,.,,,
+2013,accessibility within 500 m,saxony-anhalt,code15,,,,.,,,
+2014,accessibility within 500 m,saxony-anhalt,code15,,,,.,,,
+2015,accessibility within 500 m,saxony-anhalt,code15,,,,.,,,
+2016,accessibility within 500 m,saxony-anhalt,code15,,,,,,,74.9
+2017,accessibility within 500 m,saxony-anhalt,code15,,,,.,,,
+2018,accessibility within 500 m,saxony-anhalt,code15,,,,,,,75.9
+2019,accessibility within 500 m,saxony-anhalt,code15,,,,.,,,
+2020,accessibility within 500 m,saxony-anhalt,code15,,,,,,,72.4
+2021,accessibility within 500 m,saxony-anhalt,code15,,,,…,,,
+2022,accessibility within 500 m,saxony-anhalt,code15,,,,…,,,
+2010,accessibility within 500 m,schleswig-holstein,code01,,,,.,,,
+2011,accessibility within 500 m,schleswig-holstein,code01,,,,.,,,
+2012,accessibility within 500 m,schleswig-holstein,code01,,,,.,,,
+2013,accessibility within 500 m,schleswig-holstein,code01,,,,.,,,
+2014,accessibility within 500 m,schleswig-holstein,code01,,,,.,,,
+2015,accessibility within 500 m,schleswig-holstein,code01,,,,.,,,
+2016,accessibility within 500 m,schleswig-holstein,code01,,,,,,,71.8
+2017,accessibility within 500 m,schleswig-holstein,code01,,,,.,,,
+2018,accessibility within 500 m,schleswig-holstein,code01,,,,,,,74.2
+2019,accessibility within 500 m,schleswig-holstein,code01,,,,.,,,
+2020,accessibility within 500 m,schleswig-holstein,code01,,,,,,,75.4
+2021,accessibility within 500 m,schleswig-holstein,code01,,,,…,,,
+2022,accessibility within 500 m,schleswig-holstein,code01,,,,…,,,
+2010,accessibility within 500 m,thuringia,code16,,,,.,,,
+2011,accessibility within 500 m,thuringia,code16,,,,.,,,
+2012,accessibility within 500 m,thuringia,code16,,,,.,,,
+2013,accessibility within 500 m,thuringia,code16,,,,.,,,
+2014,accessibility within 500 m,thuringia,code16,,,,.,,,
+2015,accessibility within 500 m,thuringia,code16,,,,.,,,
+2016,accessibility within 500 m,thuringia,code16,,,,,,,71.6
+2017,accessibility within 500 m,thuringia,code16,,,,.,,,
+2018,accessibility within 500 m,thuringia,code16,,,,,,,71.7
+2019,accessibility within 500 m,thuringia,code16,,,,.,,,
+2020,accessibility within 500 m,thuringia,code16,,,,,,,72.7
+2021,accessibility within 500 m,thuringia,code16,,,,…,,,
+2022,accessibility within 500 m,thuringia,code16,,,,…,,,
+2010,accessibility within 10 minutes on foot,,,,,,,,,94.3
+2011,accessibility within 10 minutes on foot,,,,,,,,,94.0
+2012,accessibility within 10 minutes on foot,,,,,,,,,94.4
+2013,accessibility within 10 minutes on foot,,,,,,,,,92.8
+2014,accessibility within 10 minutes on foot,,,,,,,,,94.3
+2015,accessibility within 10 minutes on foot,,,,,,,,,93.6
+2016,accessibility within 10 minutes on foot,,,,,,,,,93.6
+2017,accessibility within 10 minutes on foot,,,,,,,,,94.2
+2018,accessibility within 10 minutes on foot,,,,,,,,,94.5
+2019,accessibility within 10 minutes on foot,,,,,,,,,93.7
+2020,accessibility within 10 minutes on foot,,,,,,,,,94.5
+2021,accessibility within 10 minutes on foot,,,,,,,,,94.4
+2022,accessibility within 10 minutes on foot,,,,,,,,,94.8
+2010,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,93.3
+2011,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,91.6
+2012,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,92.7
+2013,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,90.2
+2014,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,95.2
+2015,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,91.5
+2016,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,91.3
+2017,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,92.2
+2018,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,90.3
+2019,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,90.2
+2020,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,89.7
+2021,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,89.0
+2022,accessibility within 10 minutes on foot,,,mobility impaired people,,,,,,95.1
+2010,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,97.5
+2011,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,98.4
+2012,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,96.7
+2013,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,89.5
+2014,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,96.3
+2015,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,98.1
+2016,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,95.8
+2017,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,95.6
+2018,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,96.4
+2019,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,97.0
+2020,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,98.8
+2021,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,97.6
+2022,accessibility within 10 minutes on foot,,,,17 years and younger,,,,,99.4
+2010,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,97.7
+2011,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,96.1
+2012,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,94.6
+2013,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,94.8
+2014,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,97.1
+2015,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,96.7
+2016,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,96.7
+2017,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,95.4
+2018,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,96.3
+2019,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,95.5
+2020,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,95.1
+2021,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,97.6
+2022,accessibility within 10 minutes on foot,,,,18 to under 30 years,,,,,93.5
+2010,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,95.2
+2011,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,96.2
+2012,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,97.8
+2013,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,96.2
+2014,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,94.1
+2015,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,92.9
+2016,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,96.1
+2017,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,96.1
+2018,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,95.3
+2019,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,96.2
+2020,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,97.1
+2021,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,96.8
+2022,accessibility within 10 minutes on foot,,,,30 to under 45 years,,,,,97.5
+2010,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,93.2
+2011,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,93.8
+2012,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,93.8
+2013,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,92.9
+2014,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,94.2
+2015,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,92.7
+2016,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,92.6
+2017,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,94.0
+2018,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,95.0
+2019,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,93.4
+2020,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,96.0
+2021,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,94.0
+2022,accessibility within 10 minutes on foot,,,,45 to under 65 years,,,,,93.4
+2010,accessibility within 10 minutes on foot,,,,65 years and older,,,,,92.1
+2011,accessibility within 10 minutes on foot,,,,65 years and older,,,,,89.6
+2012,accessibility within 10 minutes on foot,,,,65 years and older,,,,,91.7
+2013,accessibility within 10 minutes on foot,,,,65 years and older,,,,,90.0
+2014,accessibility within 10 minutes on foot,,,,65 years and older,,,,,92.4
+2015,accessibility within 10 minutes on foot,,,,65 years and older,,,,,92.2
+2016,accessibility within 10 minutes on foot,,,,65 years and older,,,,,90.5
+2017,accessibility within 10 minutes on foot,,,,65 years and older,,,,,91.6
+2018,accessibility within 10 minutes on foot,,,,65 years and older,,,,,91.6
+2019,accessibility within 10 minutes on foot,,,,65 years and older,,,,,90.4
+2020,accessibility within 10 minutes on foot,,,,65 years and older,,,,,90.3
+2021,accessibility within 10 minutes on foot,,,,65 years and older,,,,,90.7
+2022,accessibility within 10 minutes on foot,,,,65 years and older,,,,,93.8
+2010,accessibility within 10 minutes on foot,,,,,female,,,,93.2
+2011,accessibility within 10 minutes on foot,,,,,female,,,,94.2
+2012,accessibility within 10 minutes on foot,,,,,female,,,,94.5
+2013,accessibility within 10 minutes on foot,,,,,female,,,,92.5
+2014,accessibility within 10 minutes on foot,,,,,female,,,,94.6
+2015,accessibility within 10 minutes on foot,,,,,female,,,,93.8
+2016,accessibility within 10 minutes on foot,,,,,female,,,,93.6
+2017,accessibility within 10 minutes on foot,,,,,female,,,,94.4
+2018,accessibility within 10 minutes on foot,,,,,female,,,,94.5
+2019,accessibility within 10 minutes on foot,,,,,female,,,,94.0
+2020,accessibility within 10 minutes on foot,,,,,female,,,,95.0
+2021,accessibility within 10 minutes on foot,,,,,female,,,,95.0
+2022,accessibility within 10 minutes on foot,,,,,female,,,,94.7
+2010,accessibility within 10 minutes on foot,,,,,male,,,,95.6
+2011,accessibility within 10 minutes on foot,,,,,male,,,,93.7
+2012,accessibility within 10 minutes on foot,,,,,male,,,,94.4
+2013,accessibility within 10 minutes on foot,,,,,male,,,,93.2
+2014,accessibility within 10 minutes on foot,,,,,male,,,,94.0
+2015,accessibility within 10 minutes on foot,,,,,male,,,,93.4
+2016,accessibility within 10 minutes on foot,,,,,male,,,,93.6
+2017,accessibility within 10 minutes on foot,,,,,male,,,,94.0
+2018,accessibility within 10 minutes on foot,,,,,male,,,,94.5
+2019,accessibility within 10 minutes on foot,,,,,male,,,,93.5
+2020,accessibility within 10 minutes on foot,,,,,male,,,,94.7
+2021,accessibility within 10 minutes on foot,,,,,male,,,,93.9
+2022,accessibility within 10 minutes on foot,,,,,male,,,,95.0
