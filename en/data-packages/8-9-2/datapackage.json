@@ -12,8 +12,73 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Employed persons",
+                "Employees",
+                "Employees jobs (in full-time equivalent)",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "tourism industries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Accommodation for visitors: hotels and similar establishments",
+                "Accommodation for visitors: other",
+                "Food and beverage serving activities",
+                "Railway passenger transport",
+                "Road passenger transport",
+                "Water passenger transport",
+                "Air passenger transport",
+                "Transport equipment rental",
+                "Travel agencies and other reservation service activities",
+                "Cultural activities",
+                "Sports and Recreational activities",
+                ""
+              ]
+            },
+            "title": "Tourism Industries"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",

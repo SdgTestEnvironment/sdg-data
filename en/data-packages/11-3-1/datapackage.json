@@ -59,10 +59,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
-                ".",
+                "x",
                 "|",
+                "r",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -73,7 +74,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                "r",
                 ""
               ]
             },

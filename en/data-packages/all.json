@@ -310,10 +310,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "…",
                 "r",
                 "|",
+                ".",
+                "…",
                 ""
               ]
             },
@@ -449,10 +449,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
                 ""
               ]
             },
@@ -480,7 +479,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -519,10 +518,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "|",
                 ""
               ]
             },
@@ -550,7 +548,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -577,7 +575,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "r",
                 "|",
                 ""
               ]
@@ -619,7 +617,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -879,7 +877,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             },
@@ -958,8 +955,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
-                "…",
+                "‒",
+                "r",
                 ""
               ]
             },
@@ -1097,7 +1094,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "p",
                 ""
               ]
             },
@@ -1174,12 +1171,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "r",
-                "-",
                 ""
               ]
             },
@@ -1341,7 +1335,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1393,8 +1387,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "|",
+                ".",
+                "0",
                 ""
               ]
             },
@@ -1402,9 +1397,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ""
               ]
             },
@@ -1506,9 +1502,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ""
               ]
             },
@@ -1765,8 +1762,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "…",
                 "|",
                 ""
               ]
@@ -1834,7 +1829,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                "‒",
+                "-",
                 ""
               ]
             },
@@ -1862,7 +1858,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1917,11 +1913,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "|",
                 ""
               ]
             },
@@ -1949,7 +1943,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1999,7 +1993,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2036,6 +2030,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 "…",
                 ""
               ]
@@ -2368,8 +2363,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "|",
+                "r",
                 ""
               ]
             },
@@ -2657,7 +2651,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -2671,7 +2665,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             },
@@ -2759,9 +2752,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             },
@@ -3007,7 +3001,8 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
+                "r",
+                "-",
                 ""
               ]
             },
@@ -3412,10 +3407,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "…",
-                "‒",
-                "r",
                 "|",
                 ""
               ]
@@ -3482,10 +3473,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -3707,12 +3697,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
-                "…",
-                "r",
-                ".",
                 "|",
                 "-",
+                ".",
                 ""
               ]
             },
@@ -3893,9 +3880,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "s",
                 ""
               ]
             },
@@ -3935,7 +3923,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -4003,9 +3991,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "p",
                 ""
               ]
             },
@@ -4097,7 +4087,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "|",
                 ""
               ]
             },
@@ -4360,7 +4350,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "-",
                 ""
               ]
             },
@@ -4616,7 +4605,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4641,9 +4630,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 ".",
-                "…",
                 ""
               ]
             },
@@ -4792,7 +4779,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "…",
                 ""
               ]
@@ -5037,7 +5023,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "|",
                 ""
               ]
             },
@@ -5079,7 +5065,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -5144,11 +5130,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "…",
                 "r",
-                "|",
-                "p",
+                "…",
+                ".",
                 "‒",
                 ""
               ]
@@ -5204,7 +5188,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "s",
                 ""
               ]
             },
@@ -5232,7 +5216,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -5639,7 +5623,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "p",
                 ""
               ]
             },
@@ -5691,9 +5675,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 ""
               ]
             },
@@ -5721,7 +5706,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -5760,7 +5745,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                "p",
                 ""
               ]
             },
@@ -5788,7 +5773,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -6005,7 +5990,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             },
@@ -6086,9 +6070,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
-                "…",
-                "r",
+                "|",
                 ""
               ]
             },
@@ -6116,7 +6098,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -6312,12 +6294,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                "…",
-                "p",
                 ""
               ]
             },
@@ -6369,9 +6348,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             },
@@ -6673,8 +6653,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "r",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -6794,9 +6775,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             },
@@ -6836,7 +6818,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6863,7 +6845,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                "p",
                 ""
               ]
             },
@@ -7150,7 +7132,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "…",
                 ""
               ]
@@ -7193,7 +7174,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -7218,8 +7199,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "…",
+                "p",
                 ""
               ]
             },
@@ -7486,10 +7466,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "|",
                 ""
               ]
             },
@@ -7531,7 +7510,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -7545,7 +7524,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             },
@@ -7817,9 +7795,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -7934,34 +7913,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             },
@@ -7969,7 +7929,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -7979,7 +7939,7 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -7989,7 +7949,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -8082,12 +8042,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "p",
-                "…",
                 ""
               ]
             },
@@ -8289,10 +8246,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
-                ".",
-                "…",
                 "p",
+                "…",
                 ""
               ]
             },
@@ -8300,10 +8255,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "|",
                 ""
               ]
             },
@@ -8628,30 +8582,16 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "policy area",
             "type": "string",
             "constraints": {
               "enum": [
+                "Domain 1. Migrant rights",
+                "Domain 2. Whole-of-government/ Evidence-based policies",
+                "Domain 3. Cooperation and partnerships",
+                "Domain 4. Socioeconomic well-being",
+                "Domain 5. Mobility dimensions of crises",
+                "Domain 6. Safe, orderly and regular migration",
                 ""
               ]
             },
@@ -8659,7 +8599,7 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -8669,7 +8609,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -8679,7 +8619,7 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -8689,7 +8629,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -8923,10 +8863,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "…",
                 ""
               ]
             },
@@ -9007,10 +8946,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "r",
                 "…",
-                "|",
+                "p",
                 ""
               ]
             },
@@ -9018,10 +8955,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -9207,7 +9143,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
+                "…",
+                ".",
+                "r",
                 ""
               ]
             },
@@ -9499,9 +9437,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 ""
               ]
             },
@@ -9553,9 +9492,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "p",
                 ""
               ]
             },
@@ -9583,7 +9524,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -10120,10 +10061,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -10239,7 +10179,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "|",
                 ""
               ]
             },
@@ -10443,6 +10383,7 @@
               "enum": [
                 "r",
                 ".",
+                "|",
                 ""
               ]
             },
@@ -10450,9 +10391,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -10609,7 +10551,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             },
@@ -10988,7 +10929,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                "r",
                 ""
               ]
             },
@@ -11070,8 +11011,7 @@
             "constraints": {
               "enum": [
                 ".",
-                "|",
-                "‒",
+                "r",
                 ""
               ]
             },
@@ -11240,12 +11180,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                ".",
-                "…",
                 ""
               ]
             },
@@ -11420,10 +11357,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
-                ".",
+                "x",
                 "|",
+                "r",
                 "…",
+                ".",
                 ""
               ]
             },
@@ -11434,7 +11372,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                "r",
                 ""
               ]
             },
@@ -11596,7 +11534,7 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
+                "s",
                 ""
               ]
             },
@@ -11745,10 +11683,7 @@
             "constraints": {
               "enum": [
                 ".",
-                "r",
                 "…",
-                "|",
-                "0",
                 ""
               ]
             },
@@ -11756,10 +11691,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "|",
                 ""
               ]
             },
@@ -11892,7 +11826,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                ".",
+                "r",
                 ""
               ]
             },
@@ -11900,9 +11835,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ""
               ]
             },
@@ -12119,7 +12055,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "r",
                 ""
               ]
             },
@@ -12261,10 +12197,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
                 ""
               ]
             },
@@ -12654,7 +12589,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                "r",
                 ""
               ]
             },
@@ -12736,7 +12671,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -12851,11 +12786,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "|",
                 ""
               ]
             },
@@ -12895,7 +12828,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -13010,9 +12943,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             },
@@ -13040,7 +12974,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -13067,7 +13001,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "‒",
                 ""
               ]
             },
@@ -13470,10 +13404,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -13525,9 +13458,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -13555,7 +13489,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -13610,7 +13544,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                "p",
+                "|",
+                "r",
                 ""
               ]
             },
@@ -13650,7 +13586,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -13844,7 +13780,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -13863,6 +13799,95 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Öffentliche Netto-Entwicklungsausgaben, insgesamt und an die am wenigsten entwickelten Länder, im Verhältnis zum Bruttonationaleinkommen (BNE) der Geberländer des Ausschusses für Entwicklungshilfe der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD)"
+    },
+    {
+      "path": "8-9-2/data.csv",
+      "name": "8-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Employed persons",
+                "Employees",
+                "Employees jobs (in full-time equivalent)",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "tourism industries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Accommodation for visitors: hotels and similar establishments",
+                "Accommodation for visitors: other",
+                "Food and beverage serving activities",
+                "Railway passenger transport",
+                "Road passenger transport",
+                "Water passenger transport",
+                "Air passenger transport",
+                "Transport equipment rental",
+                "Travel agencies and other reservation service activities",
+                "Cultural activities",
+                "Sports and Recreational activities",
+                ""
+              ]
+            },
+            "title": "Tourism Industries"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -13902,7 +13927,7 @@
           }
         ]
       },
-      "title": "Öffentliche Netto-Entwicklungsausgaben, insgesamt und an die am wenigsten entwickelten Länder, im Verhältnis zum Bruttonationaleinkommen (BNE) der Geberländer des Ausschusses für Entwicklungshilfe der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD)"
+      "title": "Erwerbstätige in der Tourismuswirtschaft"
     },
     {
       "path": "6-b-1/data.csv",
@@ -14127,7 +14152,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             },
@@ -14224,7 +14248,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -14275,11 +14299,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "…",
-                "s",
                 "p",
-                "‒",
+                "r",
+                "…",
                 ""
               ]
             },
@@ -14672,12 +14694,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "r",
-                "p",
                 ""
               ]
             },
@@ -14747,7 +14766,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "r",
+                "|",
                 ""
               ]
             },
@@ -14788,7 +14808,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -14971,9 +14991,12 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "r",
+                "p",
                 ""
               ]
             },
@@ -15055,7 +15078,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -15136,10 +15159,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "…",
                 "r",
-                "s",
+                "p",
                 ""
               ]
             },
@@ -15327,7 +15349,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                "p",
                 ""
               ]
             },
@@ -15419,8 +15441,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "-",
+                "r",
+                "0",
                 ""
               ]
             },
@@ -15728,7 +15750,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "|",
+                "…",
                 ""
               ]
             },
@@ -16199,13 +16222,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "…",
-                "x",
-                "|",
                 "r",
-                "p",
-                "s",
+                "|",
+                ".",
+                "‒",
                 ""
               ]
             },
@@ -16286,8 +16306,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "-",
+                "s",
                 ""
               ]
             },
@@ -16315,7 +16334,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -16583,12 +16602,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
-                "…",
-                "p",
-                "r",
                 ".",
-                "‒",
                 "-",
                 ""
               ]
@@ -16647,30 +16661,6 @@
         ]
       },
       "title": "Anteil der Bevölkerung, der in Haushalten mit Zugang zu grundlegenden Diensten lebt"
-    },
-    {
-      "path": "8-9-2/data.csv",
-      "name": "8-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Erwerbstätige in der Tourismuswirtschaft"
     },
     {
       "path": "2-2-4/data.csv",

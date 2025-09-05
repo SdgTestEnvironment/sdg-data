@@ -1,31 +1,34 @@
 Year,Value,Series
-2010,34.22,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2011,31.63,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2012,27.41,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2013,24.98,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2014,21.28,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2015,17.36,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2016,14.68,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2017,11.89,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2018,9.06,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2020,7.85,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2021,6.93,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2023,16.08,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2024,18.58,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
-2010,136.99,"Population having neither a bath, nor a shower in their dwelling"
-2011,137.86,"Population having neither a bath, nor a shower in their dwelling"
-2012,144.17,"Population having neither a bath, nor a shower in their dwelling"
-2013,140.5,"Population having neither a bath, nor a shower in their dwelling"
-2014,145.48,"Population having neither a bath, nor a shower in their dwelling"
-2015,146.5,"Population having neither a bath, nor a shower in their dwelling"
-2016,146.62,"Population having neither a bath, nor a shower in their dwelling"
-2017,151.25,"Population having neither a bath, nor a shower in their dwelling"
-2018,151.7,"Population having neither a bath, nor a shower in their dwelling"
-2020,169.64,"Population having neither a bath, nor a shower in their dwelling"
-2021,33.72,"Population having neither a bath, nor a shower in their dwelling"
-2023,35.66,"Population having neither a bath, nor a shower in their dwelling"
-2024,33.46,"Population having neither a bath, nor a shower in their dwelling"
-2018,3.0,Population not having indoor flushing toilet for the sole use of their household
-2020,3.0,Population not having indoor flushing toilet for the sole use of their household
-2018,3.0,Population considering their dwelling as too dark
-2020,4.0,Population considering their dwelling as too dark
+2010,13.3,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2011,13.7,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2012,13.5,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2013,13.1,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2014,12.3,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2015,12.8,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2016,13.1,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2017,12.5,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2018,13.4,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2019,12.0,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2023,16.0,"Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor"
+2010,0.5,"Population having neither a bath, nor a shower in their dwelling"
+2011,0.1,"Population having neither a bath, nor a shower in their dwelling"
+2012,0.1,"Population having neither a bath, nor a shower in their dwelling"
+2010,1.6,Population not having indoor flushing toilet for the sole use of their household
+2011,0.9,Population not having indoor flushing toilet for the sole use of their household
+2012,0.9,Population not having indoor flushing toilet for the sole use of their household
+2013,0.1,Population not having indoor flushing toilet for the sole use of their household
+2015,0.1,Population not having indoor flushing toilet for the sole use of their household
+2016,0.1,Population not having indoor flushing toilet for the sole use of their household
+2017,0.1,Population not having indoor flushing toilet for the sole use of their household
+2019,0.2,Population not having indoor flushing toilet for the sole use of their household
+2010,4.2,Population considering their dwelling as too dark
+2011,4.1,Population considering their dwelling as too dark
+2012,3.9,Population considering their dwelling as too dark
+2013,4.4,Population considering their dwelling as too dark
+2014,4.4,Population considering their dwelling as too dark
+2015,4.0,Population considering their dwelling as too dark
+2016,3.9,Population considering their dwelling as too dark
+2017,4.0,Population considering their dwelling as too dark
+2018,4.4,Population considering their dwelling as too dark
+2019,4.0,Population considering their dwelling as too dark
+2023,7.1,Population considering their dwelling as too dark

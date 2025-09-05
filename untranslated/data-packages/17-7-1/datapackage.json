@@ -30,7 +30,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                "p",
                 ""
               ]
             }
@@ -55,7 +55,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

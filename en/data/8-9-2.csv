@@ -1,1 +1,463 @@
-Year,Value
+Year,Time series,Tourism Industries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Employed persons,Accommodation for visitors: hotels and similar establishments,…,,,
+2011,Employed persons,Accommodation for visitors: hotels and similar establishments,…,,,
+2012,Employed persons,Accommodation for visitors: hotels and similar establishments,…,,,
+2013,Employed persons,Accommodation for visitors: hotels and similar establishments,…,,,
+2014,Employed persons,Accommodation for visitors: hotels and similar establishments,…,,,
+2015,Employed persons,Accommodation for visitors: hotels and similar establishments,…,,,
+2016,Employed persons,Accommodation for visitors: hotels and similar establishments,…,,,
+2017,Employed persons,Accommodation for visitors: hotels and similar establishments,…,,,
+2018,Employed persons,Accommodation for visitors: hotels and similar establishments,…,,,
+2019,Employed persons,Accommodation for visitors: hotels and similar establishments,…,,,
+2020,Employed persons,Accommodation for visitors: hotels and similar establishments,,,,433154.0
+2021,Employed persons,Accommodation for visitors: hotels and similar establishments,,,,458101.0
+2022,Employed persons,Accommodation for visitors: hotels and similar establishments,,,,493938.0
+2023,Employed persons,Accommodation for visitors: hotels and similar establishments,,,,498001.0
+2010,Employed persons,Accommodation for visitors: other,…,,,
+2011,Employed persons,Accommodation for visitors: other,…,,,
+2012,Employed persons,Accommodation for visitors: other,…,,,
+2013,Employed persons,Accommodation for visitors: other,…,,,
+2014,Employed persons,Accommodation for visitors: other,…,,,
+2015,Employed persons,Accommodation for visitors: other,…,,,
+2016,Employed persons,Accommodation for visitors: other,…,,,
+2017,Employed persons,Accommodation for visitors: other,…,,,
+2018,Employed persons,Accommodation for visitors: other,…,,,
+2019,Employed persons,Accommodation for visitors: other,…,,,
+2020,Employed persons,Accommodation for visitors: other,,,,521462.0
+2021,Employed persons,Accommodation for visitors: other,,,,691160.0
+2022,Employed persons,Accommodation for visitors: other,,,,667494.0
+2023,Employed persons,Accommodation for visitors: other,,,,664668.0
+2010,Employed persons,Food and beverage serving activities,…,,,
+2011,Employed persons,Food and beverage serving activities,…,,,
+2012,Employed persons,Food and beverage serving activities,…,,,
+2013,Employed persons,Food and beverage serving activities,…,,,
+2014,Employed persons,Food and beverage serving activities,…,,,
+2015,Employed persons,Food and beverage serving activities,…,,,
+2016,Employed persons,Food and beverage serving activities,…,,,
+2017,Employed persons,Food and beverage serving activities,…,,,
+2018,Employed persons,Food and beverage serving activities,…,,,
+2019,Employed persons,Food and beverage serving activities,…,,,
+2020,Employed persons,Food and beverage serving activities,,,,1336699.0
+2021,Employed persons,Food and beverage serving activities,,,,1457238.0
+2022,Employed persons,Food and beverage serving activities,,,,1514878.0
+2023,Employed persons,Food and beverage serving activities,,,,1541245.0
+2010,Employed persons,Railway passenger transport,…,,,
+2011,Employed persons,Railway passenger transport,…,,,
+2012,Employed persons,Railway passenger transport,…,,,
+2013,Employed persons,Railway passenger transport,…,,,
+2014,Employed persons,Railway passenger transport,…,,,
+2015,Employed persons,Railway passenger transport,…,,,
+2016,Employed persons,Railway passenger transport,…,,,
+2017,Employed persons,Railway passenger transport,…,,,
+2018,Employed persons,Railway passenger transport,…,,,
+2019,Employed persons,Railway passenger transport,…,,,
+2020,Employed persons,Railway passenger transport,…,,,
+2021,Employed persons,Railway passenger transport,…,,,
+2022,Employed persons,Railway passenger transport,,,,25222.0
+2023,Employed persons,Railway passenger transport,,,,25745.0
+2010,Employed persons,Road passenger transport,…,,,
+2011,Employed persons,Road passenger transport,…,,,
+2012,Employed persons,Road passenger transport,…,,,
+2013,Employed persons,Road passenger transport,…,,,
+2014,Employed persons,Road passenger transport,…,,,
+2015,Employed persons,Road passenger transport,…,,,
+2016,Employed persons,Road passenger transport,…,,,
+2017,Employed persons,Road passenger transport,…,,,
+2018,Employed persons,Road passenger transport,…,,,
+2019,Employed persons,Road passenger transport,…,,,
+2020,Employed persons,Road passenger transport,…,,,
+2021,Employed persons,Road passenger transport,…,,,
+2022,Employed persons,Road passenger transport,,,,194485.0
+2023,Employed persons,Road passenger transport,,,,205032.0
+2010,Employed persons,Water passenger transport,…,,,
+2011,Employed persons,Water passenger transport,…,,,
+2012,Employed persons,Water passenger transport,…,,,
+2013,Employed persons,Water passenger transport,…,,,
+2014,Employed persons,Water passenger transport,…,,,
+2015,Employed persons,Water passenger transport,…,,,
+2016,Employed persons,Water passenger transport,…,,,
+2017,Employed persons,Water passenger transport,…,,,
+2018,Employed persons,Water passenger transport,…,,,
+2019,Employed persons,Water passenger transport,…,,,
+2020,Employed persons,Water passenger transport,,,,8614.0
+2021,Employed persons,Water passenger transport,,,,8756.0
+2022,Employed persons,Water passenger transport,,,,9206.0
+2023,Employed persons,Water passenger transport,,,,8967.0
+2010,Employed persons,Air passenger transport,…,,,
+2011,Employed persons,Air passenger transport,…,,,
+2012,Employed persons,Air passenger transport,…,,,
+2013,Employed persons,Air passenger transport,…,,,
+2014,Employed persons,Air passenger transport,…,,,
+2015,Employed persons,Air passenger transport,…,,,
+2016,Employed persons,Air passenger transport,…,,,
+2017,Employed persons,Air passenger transport,…,,,
+2018,Employed persons,Air passenger transport,…,,,
+2019,Employed persons,Air passenger transport,…,,,
+2020,Employed persons,Air passenger transport,,,,58297.0
+2021,Employed persons,Air passenger transport,,,,54734.0
+2022,Employed persons,Air passenger transport,,,,52686.0
+2023,Employed persons,Air passenger transport,,,,57060.0
+2010,Employed persons,Transport equipment rental,…,,,
+2011,Employed persons,Transport equipment rental,…,,,
+2012,Employed persons,Transport equipment rental,…,,,
+2013,Employed persons,Transport equipment rental,…,,,
+2014,Employed persons,Transport equipment rental,…,,,
+2015,Employed persons,Transport equipment rental,…,,,
+2016,Employed persons,Transport equipment rental,…,,,
+2017,Employed persons,Transport equipment rental,…,,,
+2018,Employed persons,Transport equipment rental,…,,,
+2019,Employed persons,Transport equipment rental,…,,,
+2020,Employed persons,Transport equipment rental,,,,34896.0
+2021,Employed persons,Transport equipment rental,,,,41038.0
+2022,Employed persons,Transport equipment rental,,,,45861.0
+2023,Employed persons,Transport equipment rental,,,,43418.0
+2010,Employed persons,Travel agencies and other reservation service activities,…,,,
+2011,Employed persons,Travel agencies and other reservation service activities,…,,,
+2012,Employed persons,Travel agencies and other reservation service activities,…,,,
+2013,Employed persons,Travel agencies and other reservation service activities,…,,,
+2014,Employed persons,Travel agencies and other reservation service activities,…,,,
+2015,Employed persons,Travel agencies and other reservation service activities,…,,,
+2016,Employed persons,Travel agencies and other reservation service activities,…,,,
+2017,Employed persons,Travel agencies and other reservation service activities,…,,,
+2018,Employed persons,Travel agencies and other reservation service activities,…,,,
+2019,Employed persons,Travel agencies and other reservation service activities,…,,,
+2020,Employed persons,Travel agencies and other reservation service activities,,,,81779.0
+2021,Employed persons,Travel agencies and other reservation service activities,,,,79189.0
+2022,Employed persons,Travel agencies and other reservation service activities,,,,88512.0
+2023,Employed persons,Travel agencies and other reservation service activities,,,,84618.0
+2010,Employed persons,Cultural activities,…,,,
+2011,Employed persons,Cultural activities,…,,,
+2012,Employed persons,Cultural activities,…,,,
+2013,Employed persons,Cultural activities,…,,,
+2014,Employed persons,Cultural activities,…,,,
+2015,Employed persons,Cultural activities,…,,,
+2016,Employed persons,Cultural activities,…,,,
+2017,Employed persons,Cultural activities,…,,,
+2018,Employed persons,Cultural activities,…,,,
+2019,Employed persons,Cultural activities,…,,,
+2020,Employed persons,Cultural activities,…,,,
+2021,Employed persons,Cultural activities,,,,93922.0
+2022,Employed persons,Cultural activities,,,,104048.0
+2023,Employed persons,Cultural activities,,,,109369.0
+2010,Employed persons,Sports and Recreational activities,…,,,
+2011,Employed persons,Sports and Recreational activities,…,,,
+2012,Employed persons,Sports and Recreational activities,…,,,
+2013,Employed persons,Sports and Recreational activities,…,,,
+2014,Employed persons,Sports and Recreational activities,…,,,
+2015,Employed persons,Sports and Recreational activities,…,,,
+2016,Employed persons,Sports and Recreational activities,…,,,
+2017,Employed persons,Sports and Recreational activities,…,,,
+2018,Employed persons,Sports and Recreational activities,…,,,
+2019,Employed persons,Sports and Recreational activities,…,,,
+2020,Employed persons,Sports and Recreational activities,…,,,
+2021,Employed persons,Sports and Recreational activities,,,,306401.0
+2022,Employed persons,Sports and Recreational activities,,,,320884.0
+2023,Employed persons,Sports and Recreational activities,,,,312225.0
+2010,Employees,Accommodation for visitors: hotels and similar establishments,…,,,
+2011,Employees,Accommodation for visitors: hotels and similar establishments,…,,,
+2012,Employees,Accommodation for visitors: hotels and similar establishments,…,,,
+2013,Employees,Accommodation for visitors: hotels and similar establishments,…,,,
+2014,Employees,Accommodation for visitors: hotels and similar establishments,…,,,
+2015,Employees,Accommodation for visitors: hotels and similar establishments,…,,,
+2016,Employees,Accommodation for visitors: hotels and similar establishments,…,,,
+2017,Employees,Accommodation for visitors: hotels and similar establishments,…,,,
+2018,Employees,Accommodation for visitors: hotels and similar establishments,…,,,
+2019,Employees,Accommodation for visitors: hotels and similar establishments,…,,,
+2020,Employees,Accommodation for visitors: hotels and similar establishments,,,,387316.0
+2021,Employees,Accommodation for visitors: hotels and similar establishments,,,,412861.0
+2022,Employees,Accommodation for visitors: hotels and similar establishments,,,,447744.0
+2023,Employees,Accommodation for visitors: hotels and similar establishments,,,,451432.0
+2010,Employees,Accommodation for visitors: other,…,,,
+2011,Employees,Accommodation for visitors: other,…,,,
+2012,Employees,Accommodation for visitors: other,…,,,
+2013,Employees,Accommodation for visitors: other,…,,,
+2014,Employees,Accommodation for visitors: other,…,,,
+2015,Employees,Accommodation for visitors: other,…,,,
+2016,Employees,Accommodation for visitors: other,…,,,
+2017,Employees,Accommodation for visitors: other,…,,,
+2018,Employees,Accommodation for visitors: other,…,,,
+2019,Employees,Accommodation for visitors: other,…,,,
+2020,Employees,Accommodation for visitors: other,,,,333052.0
+2021,Employees,Accommodation for visitors: other,,,,474192.0
+2022,Employees,Accommodation for visitors: other,,,,474307.0
+2023,Employees,Accommodation for visitors: other,,,,471128.0
+2010,Employees,Food and beverage serving activities,…,,,
+2011,Employees,Food and beverage serving activities,…,,,
+2012,Employees,Food and beverage serving activities,…,,,
+2013,Employees,Food and beverage serving activities,…,,,
+2014,Employees,Food and beverage serving activities,…,,,
+2015,Employees,Food and beverage serving activities,…,,,
+2016,Employees,Food and beverage serving activities,…,,,
+2017,Employees,Food and beverage serving activities,…,,,
+2018,Employees,Food and beverage serving activities,…,,,
+2019,Employees,Food and beverage serving activities,…,,,
+2020,Employees,Food and beverage serving activities,,,,1147866.0
+2021,Employees,Food and beverage serving activities,,,,1281136.0
+2022,Employees,Food and beverage serving activities,,,,1338977.0
+2023,Employees,Food and beverage serving activities,,,,1363796.0
+2010,Employees,Railway passenger transport,…,,,
+2011,Employees,Railway passenger transport,…,,,
+2012,Employees,Railway passenger transport,…,,,
+2013,Employees,Railway passenger transport,…,,,
+2014,Employees,Railway passenger transport,…,,,
+2015,Employees,Railway passenger transport,…,,,
+2016,Employees,Railway passenger transport,…,,,
+2017,Employees,Railway passenger transport,…,,,
+2018,Employees,Railway passenger transport,…,,,
+2019,Employees,Railway passenger transport,…,,,
+2020,Employees,Railway passenger transport,…,,,
+2021,Employees,Railway passenger transport,…,,,
+2022,Employees,Railway passenger transport,,,,25202.0
+2023,Employees,Railway passenger transport,,,,25719.0
+2010,Employees,Road passenger transport,…,,,
+2011,Employees,Road passenger transport,…,,,
+2012,Employees,Road passenger transport,…,,,
+2013,Employees,Road passenger transport,…,,,
+2014,Employees,Road passenger transport,…,,,
+2015,Employees,Road passenger transport,…,,,
+2016,Employees,Road passenger transport,…,,,
+2017,Employees,Road passenger transport,…,,,
+2018,Employees,Road passenger transport,…,,,
+2019,Employees,Road passenger transport,…,,,
+2020,Employees,Road passenger transport,,,,141037.0
+2021,Employees,Road passenger transport,,,,164689.0
+2022,Employees,Road passenger transport,,,,171881.0
+2023,Employees,Road passenger transport,,,,182026.0
+2010,Employees,Water passenger transport,…,,,
+2011,Employees,Water passenger transport,…,,,
+2012,Employees,Water passenger transport,…,,,
+2013,Employees,Water passenger transport,…,,,
+2014,Employees,Water passenger transport,…,,,
+2015,Employees,Water passenger transport,…,,,
+2016,Employees,Water passenger transport,…,,,
+2017,Employees,Water passenger transport,…,,,
+2018,Employees,Water passenger transport,…,,,
+2019,Employees,Water passenger transport,…,,,
+2020,Employees,Water passenger transport,,,,8137.0
+2021,Employees,Water passenger transport,,,,8254.0
+2022,Employees,Water passenger transport,,,,8710.0
+2023,Employees,Water passenger transport,,,,8480.0
+2010,Employees,Air passenger transport,…,,,
+2011,Employees,Air passenger transport,…,,,
+2012,Employees,Air passenger transport,…,,,
+2013,Employees,Air passenger transport,…,,,
+2014,Employees,Air passenger transport,…,,,
+2015,Employees,Air passenger transport,…,,,
+2016,Employees,Air passenger transport,…,,,
+2017,Employees,Air passenger transport,…,,,
+2018,Employees,Air passenger transport,…,,,
+2019,Employees,Air passenger transport,…,,,
+2020,Employees,Air passenger transport,,,,57763.0
+2021,Employees,Air passenger transport,,,,53976.0
+2022,Employees,Air passenger transport,,,,52214.0
+2023,Employees,Air passenger transport,,,,56268.0
+2010,Employees,Transport equipment rental,…,,,
+2011,Employees,Transport equipment rental,…,,,
+2012,Employees,Transport equipment rental,…,,,
+2013,Employees,Transport equipment rental,…,,,
+2014,Employees,Transport equipment rental,…,,,
+2015,Employees,Transport equipment rental,…,,,
+2016,Employees,Transport equipment rental,…,,,
+2017,Employees,Transport equipment rental,…,,,
+2018,Employees,Transport equipment rental,…,,,
+2019,Employees,Transport equipment rental,…,,,
+2020,Employees,Transport equipment rental,,,,30207.0
+2021,Employees,Transport equipment rental,,,,35394.0
+2022,Employees,Transport equipment rental,,,,40890.0
+2023,Employees,Transport equipment rental,,,,38225.0
+2010,Employees,Travel agencies and other reservation service activities,…,,,
+2011,Employees,Travel agencies and other reservation service activities,…,,,
+2012,Employees,Travel agencies and other reservation service activities,…,,,
+2013,Employees,Travel agencies and other reservation service activities,…,,,
+2014,Employees,Travel agencies and other reservation service activities,…,,,
+2015,Employees,Travel agencies and other reservation service activities,…,,,
+2016,Employees,Travel agencies and other reservation service activities,…,,,
+2017,Employees,Travel agencies and other reservation service activities,…,,,
+2018,Employees,Travel agencies and other reservation service activities,…,,,
+2019,Employees,Travel agencies and other reservation service activities,…,,,
+2020,Employees,Travel agencies and other reservation service activities,,,,71757.0
+2021,Employees,Travel agencies and other reservation service activities,,,,69620.0
+2022,Employees,Travel agencies and other reservation service activities,,,,78682.0
+2023,Employees,Travel agencies and other reservation service activities,,,,74969.0
+2010,Employees,Cultural activities,…,,,
+2011,Employees,Cultural activities,…,,,
+2012,Employees,Cultural activities,…,,,
+2013,Employees,Cultural activities,…,,,
+2014,Employees,Cultural activities,…,,,
+2015,Employees,Cultural activities,…,,,
+2016,Employees,Cultural activities,…,,,
+2017,Employees,Cultural activities,…,,,
+2018,Employees,Cultural activities,…,,,
+2019,Employees,Cultural activities,…,,,
+2020,Employees,Cultural activities,…,,,
+2021,Employees,Cultural activities,,,,48031.0
+2022,Employees,Cultural activities,,,,53906.0
+2023,Employees,Cultural activities,,,,56266.0
+2010,Employees,Sports and Recreational activities,…,,,
+2011,Employees,Sports and Recreational activities,…,,,
+2012,Employees,Sports and Recreational activities,…,,,
+2013,Employees,Sports and Recreational activities,…,,,
+2014,Employees,Sports and Recreational activities,…,,,
+2015,Employees,Sports and Recreational activities,…,,,
+2016,Employees,Sports and Recreational activities,…,,,
+2017,Employees,Sports and Recreational activities,…,,,
+2018,Employees,Sports and Recreational activities,…,,,
+2019,Employees,Sports and Recreational activities,…,,,
+2020,Employees,Sports and Recreational activities,…,,,
+2021,Employees,Sports and Recreational activities,,,,275068.0
+2022,Employees,Sports and Recreational activities,,,,286360.0
+2023,Employees,Sports and Recreational activities,,,,276102.0
+2010,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,…,,,
+2011,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,…,,,
+2012,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,…,,,
+2013,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,…,,,
+2014,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,…,,,
+2015,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,…,,,
+2016,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,…,,,
+2017,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,…,,,
+2018,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,…,,,
+2019,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,…,,,
+2020,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,,,,289724.0
+2021,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,,,,345255.0
+2022,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,,,,353567.0
+2023,Employees jobs (in full-time equivalent),Accommodation for visitors: hotels and similar establishments,,,,353567.0
+2010,Employees jobs (in full-time equivalent),Accommodation for visitors: other,…,,,
+2011,Employees jobs (in full-time equivalent),Accommodation for visitors: other,…,,,
+2012,Employees jobs (in full-time equivalent),Accommodation for visitors: other,…,,,
+2013,Employees jobs (in full-time equivalent),Accommodation for visitors: other,…,,,
+2014,Employees jobs (in full-time equivalent),Accommodation for visitors: other,…,,,
+2015,Employees jobs (in full-time equivalent),Accommodation for visitors: other,…,,,
+2016,Employees jobs (in full-time equivalent),Accommodation for visitors: other,…,,,
+2017,Employees jobs (in full-time equivalent),Accommodation for visitors: other,…,,,
+2018,Employees jobs (in full-time equivalent),Accommodation for visitors: other,…,,,
+2019,Employees jobs (in full-time equivalent),Accommodation for visitors: other,…,,,
+2020,Employees jobs (in full-time equivalent),Accommodation for visitors: other,,,,270579.0
+2021,Employees jobs (in full-time equivalent),Accommodation for visitors: other,,,,406427.0
+2022,Employees jobs (in full-time equivalent),Accommodation for visitors: other,,,,377342.0
+2023,Employees jobs (in full-time equivalent),Accommodation for visitors: other,,,,374218.0
+2010,Employees jobs (in full-time equivalent),Food and beverage serving activities,…,,,
+2011,Employees jobs (in full-time equivalent),Food and beverage serving activities,…,,,
+2012,Employees jobs (in full-time equivalent),Food and beverage serving activities,…,,,
+2013,Employees jobs (in full-time equivalent),Food and beverage serving activities,…,,,
+2014,Employees jobs (in full-time equivalent),Food and beverage serving activities,…,,,
+2015,Employees jobs (in full-time equivalent),Food and beverage serving activities,…,,,
+2016,Employees jobs (in full-time equivalent),Food and beverage serving activities,…,,,
+2017,Employees jobs (in full-time equivalent),Food and beverage serving activities,…,,,
+2018,Employees jobs (in full-time equivalent),Food and beverage serving activities,…,,,
+2019,Employees jobs (in full-time equivalent),Food and beverage serving activities,…,,,
+2020,Employees jobs (in full-time equivalent),Food and beverage serving activities,,,,743998.0
+2021,Employees jobs (in full-time equivalent),Food and beverage serving activities,,,,1072961.0
+2022,Employees jobs (in full-time equivalent),Food and beverage serving activities,,,,925027.0
+2023,Employees jobs (in full-time equivalent),Food and beverage serving activities,,,,932114.0
+2010,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2011,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2012,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2013,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2014,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2015,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2016,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2017,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2018,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2019,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2020,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2021,Employees jobs (in full-time equivalent),Railway passenger transport,…,,,
+2022,Employees jobs (in full-time equivalent),Railway passenger transport,,,,23151.0
+2023,Employees jobs (in full-time equivalent),Railway passenger transport,,,,23326.0
+2010,Employees jobs (in full-time equivalent),Road passenger transport,…,,,
+2011,Employees jobs (in full-time equivalent),Road passenger transport,…,,,
+2012,Employees jobs (in full-time equivalent),Road passenger transport,…,,,
+2013,Employees jobs (in full-time equivalent),Road passenger transport,…,,,
+2014,Employees jobs (in full-time equivalent),Road passenger transport,…,,,
+2015,Employees jobs (in full-time equivalent),Road passenger transport,…,,,
+2016,Employees jobs (in full-time equivalent),Road passenger transport,…,,,
+2017,Employees jobs (in full-time equivalent),Road passenger transport,…,,,
+2018,Employees jobs (in full-time equivalent),Road passenger transport,…,,,
+2019,Employees jobs (in full-time equivalent),Road passenger transport,…,,,
+2020,Employees jobs (in full-time equivalent),Road passenger transport,,,,96528.0
+2021,Employees jobs (in full-time equivalent),Road passenger transport,,,,129574.0
+2022,Employees jobs (in full-time equivalent),Road passenger transport,,,,126403.0
+2023,Employees jobs (in full-time equivalent),Road passenger transport,,,,128524.0
+2010,Employees jobs (in full-time equivalent),Water passenger transport,…,,,
+2011,Employees jobs (in full-time equivalent),Water passenger transport,…,,,
+2012,Employees jobs (in full-time equivalent),Water passenger transport,…,,,
+2013,Employees jobs (in full-time equivalent),Water passenger transport,…,,,
+2014,Employees jobs (in full-time equivalent),Water passenger transport,…,,,
+2015,Employees jobs (in full-time equivalent),Water passenger transport,…,,,
+2016,Employees jobs (in full-time equivalent),Water passenger transport,…,,,
+2017,Employees jobs (in full-time equivalent),Water passenger transport,…,,,
+2018,Employees jobs (in full-time equivalent),Water passenger transport,…,,,
+2019,Employees jobs (in full-time equivalent),Water passenger transport,…,,,
+2020,Employees jobs (in full-time equivalent),Water passenger transport,,,,6722.0
+2021,Employees jobs (in full-time equivalent),Water passenger transport,,,,7346.0
+2022,Employees jobs (in full-time equivalent),Water passenger transport,,,,7746.0
+2023,Employees jobs (in full-time equivalent),Water passenger transport,,,,7414.0
+2010,Employees jobs (in full-time equivalent),Air passenger transport,…,,,
+2011,Employees jobs (in full-time equivalent),Air passenger transport,…,,,
+2012,Employees jobs (in full-time equivalent),Air passenger transport,…,,,
+2013,Employees jobs (in full-time equivalent),Air passenger transport,…,,,
+2014,Employees jobs (in full-time equivalent),Air passenger transport,…,,,
+2015,Employees jobs (in full-time equivalent),Air passenger transport,…,,,
+2016,Employees jobs (in full-time equivalent),Air passenger transport,…,,,
+2017,Employees jobs (in full-time equivalent),Air passenger transport,…,,,
+2018,Employees jobs (in full-time equivalent),Air passenger transport,…,,,
+2019,Employees jobs (in full-time equivalent),Air passenger transport,…,,,
+2020,Employees jobs (in full-time equivalent),Air passenger transport,,,,45264.0
+2021,Employees jobs (in full-time equivalent),Air passenger transport,,,,45513.0
+2022,Employees jobs (in full-time equivalent),Air passenger transport,,,,44077.0
+2023,Employees jobs (in full-time equivalent),Air passenger transport,,,,47678.0
+2010,Employees jobs (in full-time equivalent),Transport equipment rental,…,,,
+2011,Employees jobs (in full-time equivalent),Transport equipment rental,…,,,
+2012,Employees jobs (in full-time equivalent),Transport equipment rental,…,,,
+2013,Employees jobs (in full-time equivalent),Transport equipment rental,…,,,
+2014,Employees jobs (in full-time equivalent),Transport equipment rental,…,,,
+2015,Employees jobs (in full-time equivalent),Transport equipment rental,…,,,
+2016,Employees jobs (in full-time equivalent),Transport equipment rental,…,,,
+2017,Employees jobs (in full-time equivalent),Transport equipment rental,…,,,
+2018,Employees jobs (in full-time equivalent),Transport equipment rental,…,,,
+2019,Employees jobs (in full-time equivalent),Transport equipment rental,…,,,
+2020,Employees jobs (in full-time equivalent),Transport equipment rental,,,,24773.0
+2021,Employees jobs (in full-time equivalent),Transport equipment rental,,,,29873.0
+2022,Employees jobs (in full-time equivalent),Transport equipment rental,,,,33751.0
+2023,Employees jobs (in full-time equivalent),Transport equipment rental,,,,31106.0
+2010,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,…,,,
+2011,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,…,,,
+2012,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,…,,,
+2013,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,…,,,
+2014,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,…,,,
+2015,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,…,,,
+2016,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,…,,,
+2017,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,…,,,
+2018,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,…,,,
+2019,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,…,,,
+2020,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,,,,59091.0
+2021,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,,,,61658.0
+2022,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,,,,66304.0
+2023,Employees jobs (in full-time equivalent),Travel agencies and other reservation service activities,,,,63200.0
+2010,Employees jobs (in full-time equivalent),Cultural activities,…,,,
+2011,Employees jobs (in full-time equivalent),Cultural activities,…,,,
+2012,Employees jobs (in full-time equivalent),Cultural activities,…,,,
+2013,Employees jobs (in full-time equivalent),Cultural activities,…,,,
+2014,Employees jobs (in full-time equivalent),Cultural activities,…,,,
+2015,Employees jobs (in full-time equivalent),Cultural activities,…,,,
+2016,Employees jobs (in full-time equivalent),Cultural activities,…,,,
+2017,Employees jobs (in full-time equivalent),Cultural activities,…,,,
+2018,Employees jobs (in full-time equivalent),Cultural activities,…,,,
+2019,Employees jobs (in full-time equivalent),Cultural activities,…,,,
+2020,Employees jobs (in full-time equivalent),Cultural activities,…,,,
+2021,Employees jobs (in full-time equivalent),Cultural activities,,,,40488.0
+2022,Employees jobs (in full-time equivalent),Cultural activities,,,,41359.0
+2023,Employees jobs (in full-time equivalent),Cultural activities,,,,43002.0
+2010,Employees jobs (in full-time equivalent),Sports and Recreational activities,…,,,
+2011,Employees jobs (in full-time equivalent),Sports and Recreational activities,…,,,
+2012,Employees jobs (in full-time equivalent),Sports and Recreational activities,…,,,
+2013,Employees jobs (in full-time equivalent),Sports and Recreational activities,…,,,
+2014,Employees jobs (in full-time equivalent),Sports and Recreational activities,…,,,
+2015,Employees jobs (in full-time equivalent),Sports and Recreational activities,…,,,
+2016,Employees jobs (in full-time equivalent),Sports and Recreational activities,…,,,
+2017,Employees jobs (in full-time equivalent),Sports and Recreational activities,…,,,
+2018,Employees jobs (in full-time equivalent),Sports and Recreational activities,…,,,
+2019,Employees jobs (in full-time equivalent),Sports and Recreational activities,…,,,
+2020,Employees jobs (in full-time equivalent),Sports and Recreational activities,…,,,
+2021,Employees jobs (in full-time equivalent),Sports and Recreational activities,,,,218932.0
+2022,Employees jobs (in full-time equivalent),Sports and Recreational activities,,,,193459.0
+2023,Employees jobs (in full-time equivalent),Sports and Recreational activities,,,,182289.0

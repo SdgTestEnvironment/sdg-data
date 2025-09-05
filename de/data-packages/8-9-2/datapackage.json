@@ -12,8 +12,73 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Erwerbstätige",
+                "Beschäftigte",
+                "Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "tourism industries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beherbergung von Besuchern: Hotels und ähnliche Einrichtungen",
+                "Beherbergung von Besuchern: Sonstige",
+                "Speisen und sonstige Verpflegungsdienstleistungen",
+                "Personenbeförderung im Eisenbahnfernverkehr",
+                "Personenbeförderung im Straßenverkehr",
+                "Personenbeförderung in der Schifffahrt",
+                "Personenbeförderung in der Luftfahrt",
+                "Vermietung von Transportmitteln",
+                "Reisebüros und sonstige Reservierungsdienstleistungen",
+                "Kulturelle Aktivitäten",
+                "Sport und Freizeitaktivitäten",
+                ""
+              ]
+            },
+            "title": "Tourismuswirtschaftsbereich"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",

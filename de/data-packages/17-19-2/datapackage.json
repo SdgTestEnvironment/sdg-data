@@ -45,8 +45,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "-",
+                "s",
                 ""
               ]
             },
@@ -74,7 +73,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]

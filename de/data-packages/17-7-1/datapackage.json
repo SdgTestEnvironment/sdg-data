@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1254",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                "p",
                 ""
               ]
             },
@@ -60,7 +60,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]

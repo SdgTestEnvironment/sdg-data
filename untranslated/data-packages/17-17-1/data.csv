@@ -1,61 +1,53 @@
 Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,million eur,commitments (oda),,,,0.0
-2011,million eur,commitments (oda),,,,0.1
-2012,million eur,commitments (oda),,,,0.4
-2013,million eur,commitments (oda),,,,0.9
-2014,million eur,commitments (oda),,,,1.8
-2015,million eur,commitments (oda),,,,2.8
-2016,million eur,commitments (oda),,,,4.4
-2017,million eur,commitments (oda),,,,5.9
-2018,million eur,commitments (oda),,,,8.2
-2019,million eur,commitments (oda),,,,11.2
-2020,million eur,commitments (oda),,,,13.9
-2021,million eur,commitments (oda),,,,17.2
-2022,million eur,commitments (oda),,,,19.9
-2023,million eur,commitments (oda),,,,22.8
-2024,million eur,commitments (oda),,,,25.7
-2010,"million usd, constant prices (2022)",commitments (oda),,,,10279.0
-2011,"million usd, constant prices (2022)",commitments (oda),,,,11415.0
-2012,"million usd, constant prices (2022)",commitments (oda),,,,11701.0
-2013,"million usd, constant prices (2022)",commitments (oda),,,,11331.0
-2014,"million usd, constant prices (2022)",commitments (oda),,,,12080.0
-2015,"million usd, constant prices (2022)",commitments (oda),,,,12117.0
-2016,"million usd, constant prices (2022)",commitments (oda),,,,12824.0
-2017,"million usd, constant prices (2022)",commitments (oda),,,,13263.0
-2018,"million usd, constant prices (2022)",commitments (oda),,,,14747.0
-2019,"million usd, constant prices (2022)",commitments (oda),,,,15577.0
-2020,"million usd, constant prices (2022)",commitments (oda),,,,16070.0
-2021,"million usd, constant prices (2022)",commitments (oda),,,,14209.0
-2022,"million usd, constant prices (2022)",commitments (oda),p,,,15929.0
-2023,"million usd, constant prices (2022)",commitments (oda),…,,,
-2024,"million usd, constant prices (2022)",commitments (oda),…,,,
-2010,million eur,gross disbursements (oda),,,,2726.0
-2011,million eur,gross disbursements (oda),,,,3434.0
-2012,million eur,gross disbursements (oda),,,,3716.0
-2013,million eur,gross disbursements (oda),,,,3708.0
-2014,million eur,gross disbursements (oda),,,,3692.0
-2015,million eur,gross disbursements (oda),,,,4051.0
-2016,million eur,gross disbursements (oda),,,,4594.0
-2017,million eur,gross disbursements (oda),,,,4245.0
-2018,million eur,gross disbursements (oda),,,,4625.0
-2019,million eur,gross disbursements (oda),,,,4979.0
-2020,million eur,gross disbursements (oda),,,,5028.0
-2021,million eur,gross disbursements (oda),,,,3589.0
-2022,million eur,gross disbursements (oda),p,,,3902.0
-2023,million eur,gross disbursements (oda),…,,,
-2024,million eur,gross disbursements (oda),…,,,
-2010,"million usd, constant prices (2022)",gross disbursements (oda),,,,7553.0
-2011,"million usd, constant prices (2022)",gross disbursements (oda),,,,7981.0
-2012,"million usd, constant prices (2022)",gross disbursements (oda),,,,7985.0
-2013,"million usd, constant prices (2022)",gross disbursements (oda),,,,7623.0
-2014,"million usd, constant prices (2022)",gross disbursements (oda),,,,8388.0
-2015,"million usd, constant prices (2022)",gross disbursements (oda),,,,8066.0
-2016,"million usd, constant prices (2022)",gross disbursements (oda),,,,8230.0
-2017,"million usd, constant prices (2022)",gross disbursements (oda),,,,9018.0
-2018,"million usd, constant prices (2022)",gross disbursements (oda),,,,10123.0
-2019,"million usd, constant prices (2022)",gross disbursements (oda),,,,10598.0
-2020,"million usd, constant prices (2022)",gross disbursements (oda),,,,11042.0
-2021,"million usd, constant prices (2022)",gross disbursements (oda),,,,10620.0
-2022,"million usd, constant prices (2022)",gross disbursements (oda),p,,,12026.0
-2023,"million usd, constant prices (2022)",gross disbursements (oda),…,,,
-2024,"million usd, constant prices (2022)",gross disbursements (oda),…,,,
+2010,million eur,commitments (oda),‒,,,0.0
+2011,million eur,commitments (oda),‒,,,0.0
+2012,million eur,commitments (oda),‒,,,0.0
+2013,million eur,commitments (oda),‒,,,0.0
+2014,million eur,commitments (oda),‒,,,0.0
+2015,million eur,commitments (oda),‒,,,0.0
+2016,million eur,commitments (oda),,,,9.0
+2017,million eur,commitments (oda),‒,,,0.0
+2018,million eur,commitments (oda),‒,,,0.0
+2019,million eur,commitments (oda),,,,3.3
+2020,million eur,commitments (oda),,,,26.5
+2021,million eur,commitments (oda),r,,,25.0
+2022,million eur,commitments (oda),,,,30.0
+2010,"million usd, constant prices (2022)",commitments (oda),‒,,,0.0
+2011,"million usd, constant prices (2022)",commitments (oda),‒,,,0.0
+2012,"million usd, constant prices (2022)",commitments (oda),‒,,,0.0
+2013,"million usd, constant prices (2022)",commitments (oda),‒,,,0.0
+2014,"million usd, constant prices (2022)",commitments (oda),‒,,,0.0
+2015,"million usd, constant prices (2022)",commitments (oda),‒,,,0.0
+2016,"million usd, constant prices (2022)",commitments (oda),,,,11.06
+2017,"million usd, constant prices (2022)",commitments (oda),‒,,,0.0
+2018,"million usd, constant prices (2022)",commitments (oda),‒,,,0.0
+2019,"million usd, constant prices (2022)",commitments (oda),,,,3.83
+2020,"million usd, constant prices (2022)",commitments (oda),,,,30.22
+2021,"million usd, constant prices (2022)",commitments (oda),,,,27.68
+2022,"million usd, constant prices (2022)",commitments (oda),,,,31.55
+2010,million eur,gross disbursements (oda),‒,,,0.0
+2011,million eur,gross disbursements (oda),‒,,,0.0
+2012,million eur,gross disbursements (oda),‒,,,0.0
+2013,million eur,gross disbursements (oda),‒,,,0.0
+2014,million eur,gross disbursements (oda),‒,,,0.0
+2015,million eur,gross disbursements (oda),‒,,,0.0
+2016,million eur,gross disbursements (oda),,,,9.0
+2017,million eur,gross disbursements (oda),‒,,,0.0
+2018,million eur,gross disbursements (oda),‒,,,0.0
+2019,million eur,gross disbursements (oda),,,,0.03
+2020,million eur,gross disbursements (oda),,,,24.75
+2021,million eur,gross disbursements (oda),r,,,25.46
+2022,million eur,gross disbursements (oda),,,,30.24
+2010,"million usd, constant prices (2022)",gross disbursements (oda),‒,,,0.0
+2011,"million usd, constant prices (2022)",gross disbursements (oda),‒,,,0.0
+2012,"million usd, constant prices (2022)",gross disbursements (oda),‒,,,0.0
+2013,"million usd, constant prices (2022)",gross disbursements (oda),‒,,,0.0
+2014,"million usd, constant prices (2022)",gross disbursements (oda),‒,,,0.0
+2015,"million usd, constant prices (2022)",gross disbursements (oda),‒,,,0.0
+2016,"million usd, constant prices (2022)",gross disbursements (oda),,,,11.06
+2017,"million usd, constant prices (2022)",gross disbursements (oda),‒,,,0.0
+2018,"million usd, constant prices (2022)",gross disbursements (oda),‒,,,0.0
+2019,"million usd, constant prices (2022)",gross disbursements (oda),,,,0.03
+2020,"million usd, constant prices (2022)",gross disbursements (oda),,,,28.23
+2021,"million usd, constant prices (2022)",gross disbursements (oda),,,,28.19
+2022,"million usd, constant prices (2022)",gross disbursements (oda),,,,31.8

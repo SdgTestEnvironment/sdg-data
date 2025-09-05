@@ -1,23 +1,15 @@
 Year,Value,Units,Series
-2012,10.1,kilogram per capita,a) hazardous waste generated per capita
-2013,10.1,kilogram per capita,a) hazardous waste generated per capita
-2014,10.3,kilogram per capita,a) hazardous waste generated per capita
-2015,10.2,kilogram per capita,a) hazardous waste generated per capita
-2016,10.5,kilogram per capita,a) hazardous waste generated per capita
-2017,10.1,kilogram per capita,a) hazardous waste generated per capita
-2018,10.6,kilogram per capita,a) hazardous waste generated per capita
-2019,9.7,kilogram per capita,a) hazardous waste generated per capita
-2020,11.2,kilogram per capita,a) hazardous waste generated per capita
-2022,11.6,kilogram per capita,a) hazardous waste generated per capita
-2023,12.1,kilogram per capita,a) hazardous waste generated per capita
-2012,17.8,percentage,b) hazardous waste treated
-2013,17.7,percentage,b) hazardous waste treated
-2014,17.9,percentage,b) hazardous waste treated
-2015,17.6,percentage,b) hazardous waste treated
-2016,18.1,percentage,b) hazardous waste treated
-2017,17.4,percentage,b) hazardous waste treated
-2018,18.2,percentage,b) hazardous waste treated
-2019,16.3,percentage,b) hazardous waste treated
-2020,18.9,percentage,b) hazardous waste treated
-2022,19.3,percentage,b) hazardous waste treated
-2023,19.7,percentage,b) hazardous waste treated
+2010,244.0,kilogram per capita,a) hazardous waste generated per capita
+2012,273.0,kilogram per capita,a) hazardous waste generated per capita
+2014,269.0,kilogram per capita,a) hazardous waste generated per capita
+2016,280.0,kilogram per capita,a) hazardous waste generated per capita
+2018,292.0,kilogram per capita,a) hazardous waste generated per capita
+2020,282.0,kilogram per capita,a) hazardous waste generated per capita
+2022,272.0,kilogram per capita,a) hazardous waste generated per capita
+2010,100.0,percentage,b) hazardous waste treated
+2012,100.0,percentage,b) hazardous waste treated
+2014,100.0,percentage,b) hazardous waste treated
+2016,100.0,percentage,b) hazardous waste treated
+2018,100.0,percentage,b) hazardous waste treated
+2020,100.0,percentage,b) hazardous waste treated
+2022,100.0,percentage,b) hazardous waste treated
