@@ -12688,7 +12688,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                ".",
                 ""
               ]
             }
