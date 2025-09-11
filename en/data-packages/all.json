@@ -13856,19 +13856,6 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Employed persons",
-                "Employees",
-                "Employees jobs (in full-time equivalent)",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "tourism industries",
             "type": "string",
             "constraints": {
@@ -13919,6 +13906,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Employed persons",
+                "Employees",
+                "Employees jobs (in full-time equivalent)",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

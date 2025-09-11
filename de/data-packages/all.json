@@ -13856,19 +13856,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Erwerbstätige",
-                "Beschäftigte",
-                "Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "tourism industries",
             "type": "string",
             "constraints": {
@@ -13919,6 +13906,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Erwerbstätige",
+                "Beschäftigte",
+                "Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

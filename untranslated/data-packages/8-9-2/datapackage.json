@@ -15,18 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "employed persons",
-                "employees",
-                "employees jobs (in full-time equivalent)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "tourism industries",
             "type": "string",
             "constraints": {
@@ -70,6 +58,18 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "employed persons",
+                "employees",
+                "employees jobs (in full-time equivalent)",
                 ""
               ]
             }
