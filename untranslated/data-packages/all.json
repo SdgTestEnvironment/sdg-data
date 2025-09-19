@@ -524,11 +524,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                "|",
                 ""
               ]
             }
@@ -547,18 +545,6 @@
             "type": "number",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "documents issued for the import and export of protected species",
-                "seizures by customs authorities concerning the protection of species",
-                "authorized imports and exports of protected species",
                 ""
               ]
             }
@@ -12704,9 +12690,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "employed persons",
-                "employees",
-                "employees jobs (in full-time equivalent)",
+                "time series of the indicator: employed persons",
+                "additional time series: employees",
+                "additional time series: employees jobs (in full-time equivalent)",
                 ""
               ]
             }
@@ -13159,7 +13145,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
                 "p",
                 ""
               ]
@@ -13179,17 +13164,6 @@
             "type": "number",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "at-risk-of-poverty rate",
-                "government expenditure on social protection",
                 ""
               ]
             }
@@ -13481,11 +13455,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                "|",
                 ""
               ]
             }
@@ -13504,18 +13476,6 @@
             "type": "number",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "documents issued for the import and export of protected species",
-                "seizures by customs authorities concerning the protection of species",
-                "authorized imports and exports of protected species",
                 ""
               ]
             }
