@@ -20,17 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beherbergung von Besuchern: Hotels und ähnliche Einrichtungen",
-                "Beherbergung von Besuchern: Sonstige",
-                "Speisen und sonstige Verpflegungsdienstleistungen",
-                "Personenbeförderung im Eisenbahnfernverkehr",
+                "Beherbergung: Hotels und ähnliche Beherbergungsstätten",
+                "Beherbergung: Sonstige Beherbergungsstätten",
+                "Gaststätten- und Getränkeausschank",
+                "Personenbeförderung im Eisenbahnverkehr",
                 "Personenbeförderung im Straßenverkehr",
                 "Personenbeförderung in der Schifffahrt",
                 "Personenbeförderung in der Luftfahrt",
                 "Vermietung von Transportmitteln",
-                "Reisebüros und sonstige Reservierungsdienstleistungen",
-                "Kulturelle Aktivitäten",
-                "Sport und Freizeitaktivitäten",
+                "Reisebüros, Reiseveranstalter und sonstige Reservierungsdienstleistungen",
+                "Kulturelle Dienstleistungen",
+                "Dienstleistungen des Sports und der Erholung",
                 ""
               ]
             },
@@ -72,9 +72,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "time series of the indicator: employed persons",
-                "additional time series: employees",
-                "additional time series: employees jobs (in full-time equivalent)",
+                "Zeitreihe des Indikators: Erwerbstätige",
+                "Zusätzliche Zeitreihe: Beschäftigte",
+                "Zusätzliche Zeitreihe: Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)",
                 ""
               ]
             },
