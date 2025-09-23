@@ -34,7 +34,7 @@
                 ""
               ]
             },
-            "title": "Tourismuswirtschaftsbereich"
+            "title": "Wirtschaftszweig"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -72,9 +72,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitreihe des Indikators: Erwerbstätige",
-                "Zusätzliche Zeitreihe: Beschäftigte",
-                "Zusätzliche Zeitreihe: Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)",
+                "<u>Zeitreihe des Indikators:</u> Erwerbstätige",
+                "<u>Zusätzliche Zeitreihe:</u> Beschäftigte",
+                "<u>Zusätzliche Zeitreihe:</u> Arbeitsplätze für Beschäftigte (in Vollzeitäquivalenten)",
                 ""
               ]
             },

@@ -67,9 +67,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "time series of the indicator: employed persons",
-                "additional time series: employees",
-                "additional time series: employees jobs (in full-time equivalent)",
+                "<u>time series of the indicator:</u> employed persons",
+                "<u>additional time series:</u> employees",
+                "<u>additional time series:</u> employees jobs (in full-time equivalent)",
                 ""
               ]
             }
