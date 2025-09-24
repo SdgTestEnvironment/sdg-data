@@ -13,6 +13,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,,,,s,,,9.7
 2022,percentage,data from the federal statistical office,,,,s,,,9.8
 2023,percentage,data from the federal statistical office,,,,,,,11.2
+2024,percentage,data from the federal statistical office,,,,…,,,
 2010,percentage,"data from the federal ministry of agriculture, food and community",,,,,,,5.9
 2011,percentage,"data from the federal ministry of agriculture, food and community",,,,,,,6.1
 2012,percentage,"data from the federal ministry of agriculture, food and community",,,,,,,6.2
@@ -27,6 +28,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,"data from the federal ministry of agriculture, food and community",,,,,,,10.9
 2022,percentage,"data from the federal ministry of agriculture, food and community",,,,,,,11.2
 2023,percentage,"data from the federal ministry of agriculture, food and community",,,,,,,11.4
+2024,percentage,"data from the federal ministry of agriculture, food and community",,,,,,,11.5
 2010,percentage,data from the federal statistical office,baden-württemberg,code08,,,,,7.0
 2011,percentage,data from the federal statistical office,baden-württemberg,code08,,.,,,
 2012,percentage,data from the federal statistical office,baden-württemberg,code08,,.,,,
@@ -41,6 +43,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,baden-württemberg,code08,,.,,,
 2022,percentage,data from the federal statistical office,baden-württemberg,code08,,.,,,
 2023,percentage,data from the federal statistical office,baden-württemberg,code08,,,,,14.0
+2024,percentage,data from the federal statistical office,baden-württemberg,code08,,,,,
 2010,percentage,data from the federal statistical office,bavaria,code09,,,,,6.1
 2011,percentage,data from the federal statistical office,bavaria,code09,,.,,,
 2012,percentage,data from the federal statistical office,bavaria,code09,,.,,,
@@ -55,6 +58,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,bavaria,code09,,.,,,
 2022,percentage,data from the federal statistical office,bavaria,code09,,.,,,
 2023,percentage,data from the federal statistical office,bavaria,code09,,,,,13.7
+2024,percentage,data from the federal statistical office,bavaria,code09,,,,,
 2010,percentage,data from the federal statistical office,berlin,code11,,,,,12.4
 2011,percentage,data from the federal statistical office,berlin,code11,,.,,,
 2012,percentage,data from the federal statistical office,berlin,code11,,.,,,
@@ -69,6 +73,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,berlin,code11,,.,,,
 2022,percentage,data from the federal statistical office,berlin,code11,,.,,,
 2023,percentage,data from the federal statistical office,berlin,code11,,,,,33.3
+2024,percentage,data from the federal statistical office,berlin,code11,,,,,
 2010,percentage,data from the federal statistical office,brandenburg,code12,,,,,10.6
 2011,percentage,data from the federal statistical office,brandenburg,code12,,.,,,
 2012,percentage,data from the federal statistical office,brandenburg,code12,,.,,,
@@ -83,6 +88,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,brandenburg,code12,,.,,,
 2022,percentage,data from the federal statistical office,brandenburg,code12,,.,,,
 2023,percentage,data from the federal statistical office,brandenburg,code12,,,,,17.6
+2024,percentage,data from the federal statistical office,brandenburg,code12,,,,,
 2010,percentage,data from the federal statistical office,bremen,code04,,,,,9.8
 2011,percentage,data from the federal statistical office,bremen,code04,,.,,,
 2012,percentage,data from the federal statistical office,bremen,code04,,.,,,
@@ -97,6 +103,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,bremen,code04,,.,,,
 2022,percentage,data from the federal statistical office,bremen,code04,,.,,,
 2023,percentage,data from the federal statistical office,bremen,code04,,,,,14.8
+2024,percentage,data from the federal statistical office,bremen,code04,,,,,
 2010,percentage,data from the federal statistical office,hamburg,code02,,,,,6.8
 2011,percentage,data from the federal statistical office,hamburg,code02,,.,,,
 2012,percentage,data from the federal statistical office,hamburg,code02,,.,,,
@@ -111,6 +118,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,hamburg,code02,,.,,,
 2022,percentage,data from the federal statistical office,hamburg,code02,,.,,,
 2023,percentage,data from the federal statistical office,hamburg,code02,,,,,9.5
+2024,percentage,data from the federal statistical office,hamburg,code02,,,,,
 2010,percentage,data from the federal statistical office,hesse,code06,,,,,9.4
 2011,percentage,data from the federal statistical office,hesse,code06,,.,,,
 2012,percentage,data from the federal statistical office,hesse,code06,,.,,,
@@ -125,6 +133,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,hesse,code06,,.,,,
 2022,percentage,data from the federal statistical office,hesse,code06,,.,,,
 2023,percentage,data from the federal statistical office,hesse,code06,,,,,15.4
+2024,percentage,data from the federal statistical office,hesse,code06,,,,,
 2010,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,,,,,8.7
 2011,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,,.,,,
 2012,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,,.,,,
@@ -139,6 +148,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,,.,,,
 2022,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,,.,,,
 2023,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,,,,,14.8
+2024,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,,,,,
 2010,percentage,data from the federal statistical office,lower saxony,code03,,,,,2.9
 2011,percentage,data from the federal statistical office,lower saxony,code03,,.,,,
 2012,percentage,data from the federal statistical office,lower saxony,code03,,.,,,
@@ -153,6 +163,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,lower saxony,code03,,.,,,
 2022,percentage,data from the federal statistical office,lower saxony,code03,,.,,,
 2023,percentage,data from the federal statistical office,lower saxony,code03,,,,,5.7
+2024,percentage,data from the federal statistical office,lower saxony,code03,,,,,
 2010,percentage,data from the federal statistical office,north rhine-westphalia,code05,,,,,3.6
 2011,percentage,data from the federal statistical office,north rhine-westphalia,code05,,.,,,
 2012,percentage,data from the federal statistical office,north rhine-westphalia,code05,,.,,,
@@ -167,6 +178,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,north rhine-westphalia,code05,,.,,,
 2022,percentage,data from the federal statistical office,north rhine-westphalia,code05,,.,,,
 2023,percentage,data from the federal statistical office,north rhine-westphalia,code05,,,,,6.1
+2024,percentage,data from the federal statistical office,north rhine-westphalia,code05,,,,,
 2010,percentage,data from the federal statistical office,rhineland palatinate,code07,,,,,5.1
 2011,percentage,data from the federal statistical office,rhineland palatinate,code07,,.,,,
 2012,percentage,data from the federal statistical office,rhineland palatinate,code07,,.,,,
@@ -181,6 +193,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,rhineland palatinate,code07,,.,,,
 2022,percentage,data from the federal statistical office,rhineland palatinate,code07,,.,,,
 2023,percentage,data from the federal statistical office,rhineland palatinate,code07,,,,,12.4
+2024,percentage,data from the federal statistical office,rhineland palatinate,code07,,,,,
 2010,percentage,data from the federal statistical office,saarland,code10,,,,,10.6
 2011,percentage,data from the federal statistical office,saarland,code10,,.,,,
 2012,percentage,data from the federal statistical office,saarland,code10,,.,,,
@@ -195,6 +208,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,saarland,code10,,.,,,
 2022,percentage,data from the federal statistical office,saarland,code10,,.,,,
 2023,percentage,data from the federal statistical office,saarland,code10,,,,,19.4
+2024,percentage,data from the federal statistical office,saarland,code10,,,,,
 2010,percentage,data from the federal statistical office,saxony,code14,,,,,3.7
 2011,percentage,data from the federal statistical office,saxony,code14,,.,,,
 2012,percentage,data from the federal statistical office,saxony,code14,,.,,,
@@ -209,6 +223,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,saxony,code14,,.,,,
 2022,percentage,data from the federal statistical office,saxony,code14,,.,,,
 2023,percentage,data from the federal statistical office,saxony,code14,,,,,9.5
+2024,percentage,data from the federal statistical office,saxony,code14,,,,,
 2010,percentage,data from the federal statistical office,saxony-anhalt,code15,,,,,4.2
 2011,percentage,data from the federal statistical office,saxony-anhalt,code15,,.,,,
 2012,percentage,data from the federal statistical office,saxony-anhalt,code15,,.,,,
@@ -223,6 +238,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,saxony-anhalt,code15,,.,,,
 2022,percentage,data from the federal statistical office,saxony-anhalt,code15,,.,,,
 2023,percentage,data from the federal statistical office,saxony-anhalt,code15,,,,,10.2
+2024,percentage,data from the federal statistical office,saxony-anhalt,code15,,,,,
 2010,percentage,data from the federal statistical office,schleswig-holstein,code01,,,,,3.3
 2011,percentage,data from the federal statistical office,schleswig-holstein,code01,,.,,,
 2012,percentage,data from the federal statistical office,schleswig-holstein,code01,,.,,,
@@ -237,6 +253,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,schleswig-holstein,code01,,.,,,
 2022,percentage,data from the federal statistical office,schleswig-holstein,code01,,.,,,
 2023,percentage,data from the federal statistical office,schleswig-holstein,code01,,,,,7.9
+2024,percentage,data from the federal statistical office,schleswig-holstein,code01,,,,,
 2010,percentage,data from the federal statistical office,thuringia,code16,,,,,4.4
 2011,percentage,data from the federal statistical office,thuringia,code16,,.,,,
 2012,percentage,data from the federal statistical office,thuringia,code16,,.,,,
@@ -251,6 +268,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,percentage,data from the federal statistical office,thuringia,code16,,.,,,
 2022,percentage,data from the federal statistical office,thuringia,code16,,.,,,
 2023,percentage,data from the federal statistical office,thuringia,code16,,,,,8.2
+2024,percentage,data from the federal statistical office,thuringia,code16,,,,,
 2010,no unit,progress toward productive and sustainable agriculture (proxy),,,current status,.,,,
 2011,no unit,progress toward productive and sustainable agriculture (proxy),,,current status,.,,,
 2012,no unit,progress toward productive and sustainable agriculture (proxy),,,current status,.,,,
@@ -265,6 +283,7 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,no unit,progress toward productive and sustainable agriculture (proxy),,,current status,,,,4.57
 2022,no unit,progress toward productive and sustainable agriculture (proxy),,,current status,…,,,
 2023,no unit,progress toward productive and sustainable agriculture (proxy),,,current status,…,,,
+2024,no unit,progress toward productive and sustainable agriculture (proxy),,,current status,…,,,
 2010,no unit,progress toward productive and sustainable agriculture (proxy),,,trend,.,,,
 2011,no unit,progress toward productive and sustainable agriculture (proxy),,,trend,.,,,
 2012,no unit,progress toward productive and sustainable agriculture (proxy),,,trend,.,,,
@@ -279,3 +298,4 @@ Year,Units,timeseries,länder,GeoCode,score,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2021,no unit,progress toward productive and sustainable agriculture (proxy),,,trend,,,,4.00
 2022,no unit,progress toward productive and sustainable agriculture (proxy),,,trend,…,,,
 2023,no unit,progress toward productive and sustainable agriculture (proxy),,,trend,…,,,
+2024,no unit,progress toward productive and sustainable agriculture (proxy),,,trend,…,,,
