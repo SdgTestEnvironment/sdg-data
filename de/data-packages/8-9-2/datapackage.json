@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "tourism industries",
+            "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [

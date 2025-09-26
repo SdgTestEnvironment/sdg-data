@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "tourism industries",
+            "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
@@ -34,7 +34,7 @@
                 ""
               ]
             },
-            "title": "Tourism Industries"
+            "title": "Economic activity"
           },
           {
             "name": "COMMENT_OBS_0",
