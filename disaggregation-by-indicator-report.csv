@@ -10,7 +10,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-2-1,"COMMENT_OBS_0, age group, sex",3
 #10-3-1,COMMENT_OBS_0,1
 #10-4-1,COMMENT_OBS_0,1
-#10-4-2,"timeseries, COMMENT_OBS_0",2
+#10-4-2,"COMMENT_OBS_0, income considered",2
 #10-5-1,"timeseries, COMMENT_OBS_0",2
 #10-7-2,policy area,1
 #10-7-3,COMMENT_OBS_0,1
@@ -21,7 +21,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-4-1,"COMMENT_OBS_0, time series",2
 #11-5-1,"COMMENT_OBS_0, cause of death",2
 #11-6-1,COMMENT_OBS_0,1
-#11-6-2,"COMMENT_OBS_0, fine particulate matter",2
+#11-6-2,fine particulate matter,1
 #11-7-2,"timeseries, COMMENT_OBS_0, COMMENT_OBS_1, age group, sex",5
 #12-2-1,COMMENT_OBS_0,1
 #12-2-2,COMMENT_OBS_0,1

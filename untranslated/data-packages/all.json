@@ -1174,7 +1174,7 @@
               "enum": [
                 "<u>time series of the indicator:</u> employed persons",
                 "<u>additional time series:</u> employees",
-                "<u>additional time series:</u> employees jobs (in full-time equivalent)",
+                "<u>additional time series:</u> full-time equivalents for employees",
                 ""
               ]
             }
@@ -2098,7 +2098,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "-",
                 ""
               ]
@@ -2124,7 +2123,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -3391,10 +3390,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -11160,13 +11158,23 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "gini coefficient of equivalised disposable income before social transfers (pre-fiscal)",
-                "gini coefficient of equivalised disposable income (post-fiscal)",
-                "redistributive impact of fiscal policy",
+                "gini coefficient index points",
+                "gini coefficient",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "income considered",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "equivalised market income (gross income without social transfers)",
+                "equivalised disposable income (net income including social transfers)",
                 ""
               ]
             }
@@ -11176,7 +11184,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                ".",
                 ""
               ]
             }
@@ -11195,6 +11203,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "redistributive impact of fiscal policy",
+                "gini coefficients",
                 ""
               ]
             }

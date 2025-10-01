@@ -1285,7 +1285,7 @@
               "enum": [
                 "<u>Time series of the indicator:</u> Employed persons",
                 "<u>Additional time series:</u> Employees",
-                "<u>Additional time series:</u> Employees jobs (in full-time equivalent)",
+                "<u>Additional time series:</u> Full-time equivalents for Employees",
                 ""
               ]
             },
@@ -2296,7 +2296,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "-",
                 ""
               ]
@@ -2325,7 +2324,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -3711,10 +3710,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -12221,24 +12219,35 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)",
-                "Gini coefficient of equivalised disposable income (post-fiscal)",
-                "Redistributive impact of fiscal policy",
+                "Gini coefficient index points",
+                "Gini coefficient",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Units"
+          },
+          {
+            "name": "income considered",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Equivalised market income (gross income without social transfers)",
+                "Equivalised disposable income (net income including social transfers)",
+                ""
+              ]
+            },
+            "title": "Income considered"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
+                ".",
                 ""
               ]
             },
@@ -12263,6 +12272,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Redistributive impact of fiscal policy",
+                "Gini coefficients",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
