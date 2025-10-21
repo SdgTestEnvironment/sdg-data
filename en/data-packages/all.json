@@ -256,7 +256,7 @@
           }
         ]
       },
-      "title": "Gesamte öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Leistungen zur Unterstützung städtischer <br>Infrastruktur oder städtischer Infrastrukturprojekte, nach Sektor"
+      "title": "Gesamte öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Leistungen zur Unterstützung städtischer Infrastruktur oder städtischer Infrastrukturprojekte, nach Sektor"
     },
     {
       "path": "11-3-2/data.csv",
@@ -684,9 +684,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -1285,7 +1286,7 @@
               "enum": [
                 "<u>Time series of the indicator:</u> Employed persons",
                 "<u>Additional time series:</u> Employees",
-                "<u>Additional time series:</u> Full-time equivalents for Employees",
+                "<u>Additional time series:</u> Full-time equivalents",
                 ""
               ]
             },
@@ -1691,8 +1692,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
                 ""
               ]
             },
@@ -1945,6 +1946,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 "p",
                 ""
               ]
@@ -3473,7 +3475,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3511,7 +3513,7 @@
             "constraints": {
               "enum": [
                 "p",
-                "…",
+                "r",
                 ""
               ]
             },
@@ -4655,6 +4657,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 ""
               ]
             },
@@ -4662,9 +4665,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -6328,6 +6332,7 @@
               "enum": [
                 ".",
                 "|",
+                "r",
                 "p",
                 ""
               ]
@@ -13703,9 +13708,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -14388,8 +14394,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
                 ""
               ]
             },
@@ -14667,9 +14673,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -15205,6 +15212,7 @@
               "enum": [
                 "|",
                 "p",
+                "r",
                 ""
               ]
             },

@@ -69,7 +69,7 @@
               "enum": [
                 "<u>time series of the indicator:</u> employed persons",
                 "<u>additional time series:</u> employees",
-                "<u>additional time series:</u> full-time equivalents for employees",
+                "<u>additional time series:</u> full-time equivalents",
                 ""
               ]
             }
