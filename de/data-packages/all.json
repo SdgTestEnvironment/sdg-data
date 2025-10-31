@@ -7180,7 +7180,7 @@
             "constraints": {
               "enum": [
                 "Daten des Statistischen Bundesamtes",
-                "Daten des BMELH",
+                "Daten des BMLEH",
                 "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]
@@ -8198,7 +8198,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -11612,6 +11612,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -12555,7 +12556,6 @@
             "constraints": {
               "enum": [
                 "‒",
-                "-",
                 ""
               ]
             },
@@ -15084,9 +15084,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             },
@@ -15111,6 +15113,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
+                "Genehmigte Ein- und Ausfuhren geschützter Arten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -15138,9 +15153,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             },
@@ -15165,6 +15182,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
+                "Genehmigte Ein- und Ausfuhren geschützter Arten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

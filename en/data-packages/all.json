@@ -8198,7 +8198,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -11612,6 +11612,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -12555,7 +12556,6 @@
             "constraints": {
               "enum": [
                 "‒",
-                "-",
                 ""
               ]
             },
@@ -15084,9 +15084,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             },
@@ -15111,6 +15113,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Documents issued for the import and export of protected species",
+                "Seizures by customs authorities concerning the protection of species",
+                "Authorized imports and exports of protected species",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -15138,9 +15153,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             },
@@ -15165,6 +15182,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Documents issued for the import and export of protected species",
+                "Seizures by customs authorities concerning the protection of species",
+                "Authorized imports and exports of protected species",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

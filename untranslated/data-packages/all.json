@@ -7491,7 +7491,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -10606,6 +10606,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -11466,7 +11467,6 @@
             "constraints": {
               "enum": [
                 "‒",
-                "-",
                 ""
               ]
             }
@@ -13779,9 +13779,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             }
@@ -13800,6 +13802,18 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "documents issued for the import and export of protected species",
+                "seizures by customs authorities concerning the protection of species",
+                "authorized imports and exports of protected species",
                 ""
               ]
             }
@@ -13828,9 +13842,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             }
@@ -13849,6 +13865,18 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "documents issued for the import and export of protected species",
+                "seizures by customs authorities concerning the protection of species",
+                "authorized imports and exports of protected species",
                 ""
               ]
             }
