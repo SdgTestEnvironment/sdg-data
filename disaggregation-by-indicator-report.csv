@@ -17,7 +17,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-b-1,"COMMENT_OBS_0, type of flow",2
 #11-1-1,"COMMENT_OBS_0, COMMENT_OBS_1, sex, degree of urbanisation",4
 #11-2-1,"COMMENT_OBS_0, länder, age group, sex, time series, disability status",6
-#11-3-1,"timeseries, COMMENT_OBS_0, COMMENT_OBS_1, presentation",4
+#11-3-1,"timeseries, COMMENT_OBS_0, presentation",3
 #11-4-1,"COMMENT_OBS_0, time series",2
 #11-5-1,"COMMENT_OBS_0, cause of death",2
 #11-6-1,COMMENT_OBS_0,1
@@ -48,7 +48,7 @@ Indicator,Disaggregations,Number of disaggregations
 #14-c-1,"timeseries, COMMENT_OBS_0",2
 #15-1-1,COMMENT_OBS_0,1
 #15-1-2,timeseries,1
-#15-2-1,"COMMENT_OBS_0, COMMENT_OBS_1, type of biomass",3
+#15-2-1,"COMMENT_OBS_0, type of biomass",2
 #15-4-1,timeseries,1
 #15-7-1,COMMENT_OBS_0,1
 #15-9-1,COMMENT_OBS_0,1
