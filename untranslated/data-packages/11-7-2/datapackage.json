@@ -26,14 +26,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "type of harassment",
             "type": "string",
             "constraints": {
               "enum": [
-                "victims of non-sexual harassment",
-                "victims of sexual harassment",
-                "number of victims per 100,000 of non-sexual harassment",
-                "number of victims per 100,000 of sexual harassment",
+                "non-sexual harassment",
+                "sexual harassment",
                 ""
               ]
             }

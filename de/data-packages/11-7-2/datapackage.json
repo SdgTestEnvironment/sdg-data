@@ -28,18 +28,16 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "type of harassment",
             "type": "string",
             "constraints": {
               "enum": [
-                "Opfer nicht-sexueller Belästigung",
-                "Opfer sexueller Belästigung",
-                "Opfergefährdungszahl nicht-sexueller Belästigung",
-                "Opfergefährdungszahl sexueller Belästigung",
+                "Nicht-sexuelle Belästigung",
+                "Sexuelle Belästigung",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art der Belästigung"
           },
           {
             "name": "age group",

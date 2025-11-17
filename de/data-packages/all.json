@@ -8282,32 +8282,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -13220,18 +13200,16 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "type of harassment",
             "type": "string",
             "constraints": {
               "enum": [
-                "Opfer nicht-sexueller Belästigung",
-                "Opfer sexueller Belästigung",
-                "Opfergefährdungszahl nicht-sexueller Belästigung",
-                "Opfergefährdungszahl sexueller Belästigung",
+                "Nicht-sexuelle Belästigung",
+                "Sexuelle Belästigung",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art der Belästigung"
           },
           {
             "name": "age group",
