@@ -7178,12 +7178,35 @@
             "constraints": {
               "enum": [
                 "Data from the Federal Statistical Office",
-                "Data from the Federal Ministry of Agriculture, Food and Community",
                 "Progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "data source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Federal Statistical Office",
+                "Federal Ministry of Agriculture, Food and Regional Identity",
+                ""
+              ]
+            },
+            "title": "Data source"
+          },
+          {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Current status",
+                "Trend",
+                ""
+              ]
+            },
+            "title": "Score"
           },
           {
             "name": "länder",
@@ -7215,18 +7238,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "score",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Current status",
-                "Trend",
-                ""
-              ]
-            },
-            "title": "Score"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -8284,6 +8295,36 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",

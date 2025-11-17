@@ -95,7 +95,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-2-2,"timeseries, COMMENT_OBS_0, sex",3
 #2-2-3,age group,1
 #2-3-1,"COMMENT_OBS_0, economic activity",2
-#2-4-1,"timeseries, COMMENT_OBS_0, länder, score",4
+#2-4-1,"timeseries, COMMENT_OBS_0, länder, data source, score",5
 #2-5-1,COMMENT_OBS_0,1
 #2-5-2,"timeseries, COMMENT_OBS_0, level of risk of extinction",3
 #2-a-1,COMMENT_OBS_0,1

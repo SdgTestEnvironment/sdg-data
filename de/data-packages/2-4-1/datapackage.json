@@ -33,12 +33,35 @@
             "constraints": {
               "enum": [
                 "Daten des Statistischen Bundesamtes",
-                "Daten des BMLEH",
                 "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "data source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Statistisches Bundesamt",
+                "BMLEH",
+                ""
+              ]
+            },
+            "title": "Datenquelle"
+          },
+          {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aktueller Stand",
+                "Trend",
+                ""
+              ]
+            },
+            "title": "Punktzahl"
           },
           {
             "name": "länder",
@@ -70,18 +93,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "score",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Aktueller Stand",
-                "Trend",
-                ""
-              ]
-            },
-            "title": "Punktzahl"
           },
           {
             "name": "COMMENT_OBS_0",

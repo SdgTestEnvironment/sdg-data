@@ -7178,12 +7178,35 @@
             "constraints": {
               "enum": [
                 "Daten des Statistischen Bundesamtes",
-                "Daten des BMLEH",
                 "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "data source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Statistisches Bundesamt",
+                "BMLEH",
+                ""
+              ]
+            },
+            "title": "Datenquelle"
+          },
+          {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aktueller Stand",
+                "Trend",
+                ""
+              ]
+            },
+            "title": "Punktzahl"
           },
           {
             "name": "länder",
@@ -7215,18 +7238,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "score",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Aktueller Stand",
-                "Trend",
-                ""
-              ]
-            },
-            "title": "Punktzahl"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -8284,6 +8295,36 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
