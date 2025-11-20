@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Data from the Federal Statistical Office",
+                "Organically farmed agricultural land",
                 "Progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]

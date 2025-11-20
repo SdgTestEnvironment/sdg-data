@@ -3263,32 +3263,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7177,7 +7157,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Data from the Federal Statistical Office",
+                "Organically farmed agricultural land",
                 "Progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]

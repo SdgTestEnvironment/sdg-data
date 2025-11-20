@@ -3263,32 +3263,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -7177,7 +7157,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Daten des Statistischen Bundesamtes",
+                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung",
                 "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]

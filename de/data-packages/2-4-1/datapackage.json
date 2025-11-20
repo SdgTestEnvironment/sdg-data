@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Daten des Statistischen Bundesamtes",
+                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung",
                 "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
                 ""
               ]
