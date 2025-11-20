@@ -2986,6 +2986,33 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -6536,17 +6563,6 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "organically farmed agricultural land",
-                "progress toward productive and sustainable agriculture (proxy)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "data source",
             "type": "string",
             "constraints": {
@@ -6604,7 +6620,6 @@
               "enum": [
                 ".",
                 "s",
-                "…",
                 "r",
                 ""
               ]
@@ -6624,6 +6639,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "organically farmed agricultural land",
+                "progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
             }

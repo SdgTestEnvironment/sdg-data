@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "organically farmed agricultural land",
-                "progress toward productive and sustainable agriculture (proxy)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "data source",
             "type": "string",
             "constraints": {
@@ -94,7 +83,6 @@
               "enum": [
                 ".",
                 "s",
-                "…",
                 "r",
                 ""
               ]
@@ -114,6 +102,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "organically farmed agricultural land",
+                "progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
             }

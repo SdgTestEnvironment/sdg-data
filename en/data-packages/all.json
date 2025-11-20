@@ -3267,6 +3267,36 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7153,18 +7183,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Organically farmed agricultural land",
-                "Progress toward productive and sustainable agriculture (proxy)",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "data source",
             "type": "string",
             "constraints": {
@@ -7226,7 +7244,6 @@
               "enum": [
                 ".",
                 "s",
-                "…",
                 "r",
                 ""
               ]
@@ -7252,6 +7269,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Organically farmed agricultural land",
+                "Progress toward productive and sustainable agriculture (proxy)",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
