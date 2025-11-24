@@ -11338,7 +11338,6 @@
                 "Berlin",
                 "Brandenburg",
                 "Bremen",
-                "Hamburg",
                 "Hessen",
                 "Mecklenburg-Vorpommern",
                 "Niedersachsen",
@@ -11668,8 +11667,20 @@
             "title": "COMMENT_OBS_2"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gesamter Produktionswert des Sektors Umweltgüter und -dienstleistungen (EGSS)",
+                "Bruttoanlageinvestitionen für Umweltschutz",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -13242,8 +13253,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl",
                 "Je 100 000 Einwohner/-innen",
+                "Anzahl",
                 ""
               ]
             },
@@ -13293,10 +13304,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "|",
                 ".",
                 "‒",
+                "r",
                 ""
               ]
             },

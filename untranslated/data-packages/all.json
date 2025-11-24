@@ -10355,7 +10355,6 @@
                 "berlin",
                 "brandenburg",
                 "bremen",
-                "hamburg",
                 "hesse",
                 "mecklenburg western pomerania",
                 "lower saxony",
@@ -10656,8 +10655,19 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total production value of the environmental goods and services sector (egss)",
+                "gross fixed capital formation on environmental protection",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -12094,8 +12104,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
                 "per 100,000 inhabitants",
+                "number",
                 ""
               ]
             }
@@ -12141,10 +12151,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "|",
                 ".",
                 "‒",
+                "r",
                 ""
               ]
             }

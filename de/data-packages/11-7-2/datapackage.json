@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl",
                 "Je 100 000 Einwohner/-innen",
+                "Anzahl",
                 ""
               ]
             },
@@ -71,10 +71,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "|",
                 ".",
                 "‒",
+                "r",
                 ""
               ]
             },

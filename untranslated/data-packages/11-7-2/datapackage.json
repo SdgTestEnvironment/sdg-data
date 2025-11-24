@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
                 "per 100,000 inhabitants",
+                "number",
                 ""
               ]
             }
@@ -66,10 +66,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "|",
                 ".",
                 "‒",
+                "r",
                 ""
               ]
             }
