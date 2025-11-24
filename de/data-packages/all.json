@@ -10597,7 +10597,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 bis unter 75 Jahre",
                 "16 bis unter 25 Jahre",
                 "25 bis unter 65 Jahre",
                 "65 bis unter 75 Jahre",
@@ -11657,7 +11656,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamter Produktionswert des Sektors Umweltgüter und &#x22;dienstleistungen (EGSS)",
+                "Gesamter Produktionswert des Sektors Umweltgüter und &#8209;dienstleistungen (EGSS)",
                 "Bruttoanlageinvestitionen für Umweltschutz",
                 ""
               ]
