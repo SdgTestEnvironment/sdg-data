@@ -92,7 +92,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1-1,"sex, percentile",2
 #2-1-2,COMMENT_OBS_0,1
 #2-2-1,sex,1
-#2-2-2,"timeseries, COMMENT_OBS_0, sex",3
+#2-2-2,"timeseries, sex",2
 #2-2-3,age group,1
 #2-3-1,"COMMENT_OBS_0, economic activity",2
 #2-4-1,"COMMENT_OBS_0, länder, data source, score",4
