@@ -26,13 +26,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "type of classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "level of risk of extinction (according to fao classification)",
-                "local livestock breeds (horses, cows, pigs, sheep and goats)",
-                "level of risk of extinction (according to national classification)",
+                "fao classification",
+                "national classification",
                 ""
               ]
             }
@@ -57,7 +56,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             }
