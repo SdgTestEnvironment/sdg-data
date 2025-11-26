@@ -9442,6 +9442,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "r",
                 ""
               ]
             },
