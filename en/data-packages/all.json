@@ -6780,9 +6780,9 @@
               "enum": [
                 "At risk",
                 "Not at risk",
-                "Under observation",
-                "Breeding programs for preservation",
-                "Rudiments remaining",
+                "Monitoring Population",
+                "Conservation Population",
+                "Phenotypic Conservation Populations",
                 ""
               ]
             },

@@ -6780,9 +6780,9 @@
               "enum": [
                 "Gefährdet",
                 "Nicht gefährdet",
-                "Beobachtungspopulationen",
-                "Erhaltungspopulationen",
-                "Phänotypische Erhaltungspopulationen",
+                "Beobachtungspopulation",
+                "Erhaltungspopulation",
+                "Phänotypische Erhaltungspopulation",
                 ""
               ]
             },
@@ -11655,7 +11655,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamter Produktionswert des Sektors Umweltgüter und &#8209;dienstleistungen (EGSS)",
+                "Gesamter Produktionswert des Sektors Umweltgüter und Umweltdienstleistungen (EGSS)",
                 "Bruttoanlageinvestitionen für Umweltschutz",
                 ""
               ]

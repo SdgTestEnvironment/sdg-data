@@ -46,9 +46,9 @@
               "enum": [
                 "Gefährdet",
                 "Nicht gefährdet",
-                "Beobachtungspopulationen",
-                "Erhaltungspopulationen",
-                "Phänotypische Erhaltungspopulationen",
+                "Beobachtungspopulation",
+                "Erhaltungspopulation",
+                "Phänotypische Erhaltungspopulation",
                 ""
               ]
             },
