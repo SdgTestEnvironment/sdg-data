@@ -2,7 +2,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,,,,,,35.3
 2011,"Per 100,000 inhabitants",Non-sexual harassment,,,,,,32.9
 2012,"Per 100,000 inhabitants",Non-sexual harassment,,,,,,32.2
-2013,"Per 100,000 inhabitants",Non-sexual harassment,,,,,,31.7
+2013,"Per 100,000 inhabitants",Non-sexual harassment,,,|,,,31.7
 2014,"Per 100,000 inhabitants",Non-sexual harassment,,,,,,28.9
 2015,"Per 100,000 inhabitants",Non-sexual harassment,,,,,,25.9
 2016,"Per 100,000 inhabitants",Non-sexual harassment,,,,,,24.3
@@ -17,7 +17,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,,Female,,,,54.9
 2011,"Per 100,000 inhabitants",Non-sexual harassment,,Female,,,,51.4
 2012,"Per 100,000 inhabitants",Non-sexual harassment,,Female,,,,51.0
-2013,"Per 100,000 inhabitants",Non-sexual harassment,,Female,,,,49.7
+2013,"Per 100,000 inhabitants",Non-sexual harassment,,Female,|,,,49.7
 2014,"Per 100,000 inhabitants",Non-sexual harassment,,Female,,,,45.3
 2015,"Per 100,000 inhabitants",Non-sexual harassment,,Female,,,,41.0
 2016,"Per 100,000 inhabitants",Non-sexual harassment,,Female,,,,38.7
@@ -32,7 +32,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,,Male,,,,14.9
 2011,"Per 100,000 inhabitants",Non-sexual harassment,,Male,,,,13.6
 2012,"Per 100,000 inhabitants",Non-sexual harassment,,Male,,,,12.8
-2013,"Per 100,000 inhabitants",Non-sexual harassment,,Male,,,,12.9
+2013,"Per 100,000 inhabitants",Non-sexual harassment,,Male,|,,,12.9
 2014,"Per 100,000 inhabitants",Non-sexual harassment,,Male,,,,11.7
 2015,"Per 100,000 inhabitants",Non-sexual harassment,,Male,,,,10.4
 2016,"Per 100,000 inhabitants",Non-sexual harassment,,Male,,,,9.5
@@ -47,7 +47,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,,,,,4.3
 2011,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,,,,,4.1
 2012,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,,,,,4.3
-2013,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,,,,,4.3
+2013,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,,|,,,4.3
 2014,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,,,,,3.8
 2015,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,,,,,3.5
 2016,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,,,,,3.3
@@ -62,7 +62,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Female,,,,5.5
 2011,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Female,,,,5.3
 2012,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Female,,,,6.4
-2013,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Female,,,,5.7
+2013,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Female,|,,,5.7
 2014,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Female,,,,5.4
 2015,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Female,,,,4.6
 2016,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Female,,,,4.5
@@ -77,7 +77,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Male,,,,3.3
 2011,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Male,,,,2.9
 2012,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Male,,,,2.4
-2013,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Male,,,,3.0
+2013,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Male,|,,,3.0
 2014,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Male,,,,2.3
 2015,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Male,,,,2.4
 2016,"Per 100,000 inhabitants",Non-sexual harassment,13 years and younger,Male,,,,2.2
@@ -92,7 +92,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,,,,,39.8
 2011,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,,,,,38.3
 2012,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,,,,,34.3
-2013,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,,,,,35.7
+2013,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,,|,,,35.7
 2014,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,,,,,33.0
 2015,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,,,,,25.5
 2016,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,,,,,25.1
@@ -107,7 +107,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Female,,,,71.8
 2011,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Female,,,,69.7
 2012,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Female,,,,48.2
-2013,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Female,,,,65.1
+2013,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Female,|,,,65.1
 2014,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Female,,,,60.2
 2015,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Female,,,,45.9
 2016,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Female,,,,46.0
@@ -122,7 +122,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Male,,,,9.5
 2011,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Male,,,,8.5
 2012,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Male,,,,5.1
-2013,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Male,,,,7.8
+2013,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Male,|,,,7.8
 2014,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Male,,,,7.3
 2015,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Male,,,,6.1
 2016,"Per 100,000 inhabitants",Non-sexual harassment,14 to under 18 years,Male,,,,5.8
@@ -137,7 +137,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,,,,,87.1
 2011,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,,,,,80.7
 2012,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,,,,,78.4
-2013,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,,,,,71.7
+2013,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,,|,,,71.7
 2014,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,,,,,68.0
 2015,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,,,,,56.5
 2016,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,,,,,48.0
@@ -152,7 +152,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Female,,,,158.1
 2011,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Female,,,,146.2
 2012,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Female,,,,142.5
-2013,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Female,,,,131.9
+2013,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Female,|,,,131.9
 2014,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Female,,,,125.1
 2015,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Female,,,,105.4
 2016,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Female,,,,91.8
@@ -167,7 +167,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Male,,,,19.4
 2011,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Male,,,,18.3
 2012,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Male,,,,17.4
-2013,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Male,,,,14.5
+2013,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Male,|,,,14.5
 2014,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Male,,,,14.2
 2015,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Male,,,,10.7
 2016,"Per 100,000 inhabitants",Non-sexual harassment,18 to under 21 years,Male,,,,8.5
@@ -182,7 +182,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,,,,,52.0
 2011,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,,,,,48.7
 2012,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,,,,,48.1
-2013,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,,,,,47.8
+2013,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,,|,,,47.8
 2014,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,,,,,43.4
 2015,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,,,,,37.6
 2016,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,,,,,37.3
@@ -197,7 +197,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Female,,,,83.9
 2011,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Female,,,,79.1
 2012,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Female,,,,78.9
-2013,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Female,,,,77.6
+2013,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Female,|,,,77.6
 2014,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Female,,,,70.4
 2015,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Female,,,,61.5
 2016,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Female,,,,61.7
@@ -212,7 +212,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Male,,,,20.9
 2011,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Male,,,,19.2
 2012,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Male,,,,18.2
-2013,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Male,,,,18.6
+2013,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Male,|,,,18.6
 2014,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Male,,,,16.9
 2015,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Male,,,,14.3
 2016,"Per 100,000 inhabitants",Non-sexual harassment,21 to under 60 years,Male,,,,13.7
@@ -227,7 +227,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,,,,,7.8
 2011,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,,,,,7.0
 2012,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,,,,,6.9
-2013,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,,,,,6.6
+2013,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,,|,,,6.6
 2014,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,,,,,6.4
 2015,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,,,,,5.7
 2016,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,,,,,5.6
@@ -242,7 +242,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Female,,,,8.2
 2011,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Female,,,,7.3
 2012,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Female,,,,7.5
-2013,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Female,,,,7.5
+2013,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Female,|,,,7.5
 2014,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Female,,,,7.3
 2015,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Female,,,,6.7
 2016,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Female,,,,6.3
@@ -257,7 +257,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Male,,,,7.2
 2011,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Male,,,,6.5
 2012,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Male,,,,6.1
-2013,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Male,,,,5.6
+2013,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Male,|,,,5.6
 2014,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Male,,,,5.3
 2015,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Male,,,,4.5
 2016,"Per 100,000 inhabitants",Non-sexual harassment,60 years and older,Male,,,,4.6
@@ -272,7 +272,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,,,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,,,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,,,,,,10.1
-2013,"Per 100,000 inhabitants",Sexual harassment,,,,,,10.1
+2013,"Per 100,000 inhabitants",Sexual harassment,,,|,,,10.1
 2014,"Per 100,000 inhabitants",Sexual harassment,,,,,,10.3
 2015,"Per 100,000 inhabitants",Sexual harassment,,,,,,10.2
 2016,"Per 100,000 inhabitants",Sexual harassment,,,,,,10.5
@@ -287,7 +287,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,,Female,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,,Female,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,,Female,,,,17.8
-2013,"Per 100,000 inhabitants",Sexual harassment,,Female,,,,17.7
+2013,"Per 100,000 inhabitants",Sexual harassment,,Female,|,,,17.7
 2014,"Per 100,000 inhabitants",Sexual harassment,,Female,,,,17.9
 2015,"Per 100,000 inhabitants",Sexual harassment,,Female,,,,17.6
 2016,"Per 100,000 inhabitants",Sexual harassment,,Female,,,,18.1
@@ -302,7 +302,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,,Male,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,,Male,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,,Male,,,,2.3
-2013,"Per 100,000 inhabitants",Sexual harassment,,Male,,,,2.3
+2013,"Per 100,000 inhabitants",Sexual harassment,,Male,|,,,2.3
 2014,"Per 100,000 inhabitants",Sexual harassment,,Male,,,,2.5
 2015,"Per 100,000 inhabitants",Sexual harassment,,Male,,,,2.4
 2016,"Per 100,000 inhabitants",Sexual harassment,,Male,,,,2.7
@@ -317,7 +317,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,,‒,,,0.0
-2013,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,,‒,,,0.0
+2013,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,,‒,|,,0.0
 2014,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,,‒,,,0.0
 2015,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,,‒,,,0.0
 2016,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,,‒,,,0.0
@@ -332,7 +332,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Female,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Female,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Female,‒,,,0.0
-2013,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Female,‒,,,0.0
+2013,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Female,‒,|,,0.0
 2014,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Female,‒,,,0.0
 2015,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Female,‒,,,0.0
 2016,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Female,‒,,,0.0
@@ -347,7 +347,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Male,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Male,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Male,‒,,,0.0
-2013,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Male,‒,,,0.0
+2013,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Male,‒,|,,0.0
 2014,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Male,‒,,,0.0
 2015,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Male,‒,,,0.0
 2016,"Per 100,000 inhabitants",Sexual harassment,13 years and younger,Male,‒,,,0.0
@@ -362,7 +362,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,,,,,42.3
-2013,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,,,,,43.2
+2013,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,,|,,,43.2
 2014,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,,,,,42.5
 2015,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,,,,,38.8
 2016,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,,,,,35.8
@@ -377,7 +377,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Female,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Female,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Female,,,,59.3
-2013,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Female,,,,79.2
+2013,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Female,|,,,79.2
 2014,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Female,,,,78.4
 2015,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Female,,,,73.8
 2016,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Female,,,,66.3
@@ -392,7 +392,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Male,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Male,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Male,,,,6.2
-2013,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Male,,,,9.1
+2013,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Male,|,,,9.1
 2014,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Male,,,,8.5
 2015,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Male,,,,5.7
 2016,"Per 100,000 inhabitants",Sexual harassment,14 to under 18 years,Male,,,,7.5
@@ -407,7 +407,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,,,,,31.1
-2013,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,,,,,30.5
+2013,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,,|,,,30.5
 2014,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,,,,,33.3
 2015,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,,,,,32.4
 2016,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,,,,,29.7
@@ -422,7 +422,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Female,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Female,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Female,,,,59.4
-2013,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Female,,,,57.7
+2013,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Female,|,,,57.7
 2014,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Female,,,,63.9
 2015,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Female,,,,61.6
 2016,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Female,,,,56.7
@@ -437,7 +437,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Male,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Male,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Male,,,,4.2
-2013,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Male,,,,4.6
+2013,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Male,|,,,4.6
 2014,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Male,,,,4.4
 2015,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Male,,,,4.9
 2016,"Per 100,000 inhabitants",Sexual harassment,18 to under 21 years,Male,,,,5.4
@@ -452,7 +452,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,,,,,12.3
-2013,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,,,,,12.2
+2013,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,,|,,,12.2
 2014,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,,,,,12.6
 2015,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,,,,,11.9
 2016,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,,,,,13.5
@@ -467,7 +467,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Female,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Female,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Female,,,,22.0
-2013,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Female,,,,21.7
+2013,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Female,|,,,21.7
 2014,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Female,,,,22.2
 2015,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Female,,,,20.9
 2016,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Female,,,,23.7
@@ -482,7 +482,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Male,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Male,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Male,,,,2.8
-2013,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Male,,,,2.8
+2013,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Male,|,,,2.8
 2014,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Male,,,,3.2
 2015,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Male,,,,3.1
 2016,"Per 100,000 inhabitants",Sexual harassment,21 to under 60 years,Male,,,,3.6
@@ -497,7 +497,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,60 years and older,,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,60 years and older,,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,60 years and older,,,,,3.2
-2013,"Per 100,000 inhabitants",Sexual harassment,60 years and older,,,,,3.4
+2013,"Per 100,000 inhabitants",Sexual harassment,60 years and older,,|,,,3.4
 2014,"Per 100,000 inhabitants",Sexual harassment,60 years and older,,,,,3.3
 2015,"Per 100,000 inhabitants",Sexual harassment,60 years and older,,,,,3.5
 2016,"Per 100,000 inhabitants",Sexual harassment,60 years and older,,,,,3.5
@@ -512,7 +512,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Female,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Female,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Female,,,,5.2
-2013,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Female,,,,5.5
+2013,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Female,|,,,5.5
 2014,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Female,,,,5.2
 2015,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Female,,,,5.4
 2016,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Female,,,,5.6
@@ -527,7 +527,7 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2010,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Male,.,,,
 2011,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Male,.,,,
 2012,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Male,,,,0.8
-2013,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Male,,,,0.7
+2013,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Male,|,,,0.7
 2014,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Male,,,,0.8
 2015,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Male,,,,1.0
 2016,"Per 100,000 inhabitants",Sexual harassment,60 years and older,Male,,,,0.8
@@ -1079,3 +1079,543 @@ Year,Units,Type of harassment,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_
 2022,Number,Sexual harassment,60 years and older,Male,r,,,115.0
 2023,Number,Sexual harassment,60 years and older,Male,r,,,165.0
 2024,Number,Sexual harassment,60 years and older,Male,,,,170.0
+2010,Percentage,Non-sexual harassment,,,,,,0.04
+2011,Percentage,Non-sexual harassment,,,,,,0.03
+2012,Percentage,Non-sexual harassment,,,,,,0.03
+2013,Percentage,Non-sexual harassment,,,,,,0.03
+2014,Percentage,Non-sexual harassment,,,,,,0.03
+2015,Percentage,Non-sexual harassment,,,,,,0.03
+2016,Percentage,Non-sexual harassment,,,,,,0.02
+2017,Percentage,Non-sexual harassment,,,,,,0.02
+2018,Percentage,Non-sexual harassment,,,,,,0.02
+2019,Percentage,Non-sexual harassment,,,,,,0.02
+2020,Percentage,Non-sexual harassment,,,,,,0.03
+2021,Percentage,Non-sexual harassment,,,,,,0.03
+2022,Percentage,Non-sexual harassment,,,,,,0.03
+2023,Percentage,Non-sexual harassment,,,,,,0.03
+2024,Percentage,Non-sexual harassment,,,,,,0.03
+2010,Percentage,Non-sexual harassment,,Female,,,,0.05
+2011,Percentage,Non-sexual harassment,,Female,,,,0.05
+2012,Percentage,Non-sexual harassment,,Female,,,,0.05
+2013,Percentage,Non-sexual harassment,,Female,,,,0.05
+2014,Percentage,Non-sexual harassment,,Female,,,,0.05
+2015,Percentage,Non-sexual harassment,,Female,,,,0.04
+2016,Percentage,Non-sexual harassment,,Female,,,,0.04
+2017,Percentage,Non-sexual harassment,,Female,,,,0.04
+2018,Percentage,Non-sexual harassment,,Female,,,,0.04
+2019,Percentage,Non-sexual harassment,,Female,,,,0.04
+2020,Percentage,Non-sexual harassment,,Female,,,,0.04
+2021,Percentage,Non-sexual harassment,,Female,,,,0.04
+2022,Percentage,Non-sexual harassment,,Female,,,,0.04
+2023,Percentage,Non-sexual harassment,,Female,,,,0.05
+2024,Percentage,Non-sexual harassment,,Female,,,,0.05
+2010,Percentage,Non-sexual harassment,,Male,,,,0.01
+2011,Percentage,Non-sexual harassment,,Male,0,,,0.01
+2012,Percentage,Non-sexual harassment,,Male,,,,0.01
+2013,Percentage,Non-sexual harassment,,Male,,,,0.01
+2014,Percentage,Non-sexual harassment,,Male,,,,0.01
+2015,Percentage,Non-sexual harassment,,Male,,,,0.01
+2016,Percentage,Non-sexual harassment,,Male,,,,0.01
+2017,Percentage,Non-sexual harassment,,Male,,,,0.01
+2018,Percentage,Non-sexual harassment,,Male,,,,0.01
+2019,Percentage,Non-sexual harassment,,Male,,,,0.01
+2020,Percentage,Non-sexual harassment,,Male,,,,0.01
+2021,Percentage,Non-sexual harassment,,Male,,,,0.01
+2022,Percentage,Non-sexual harassment,,Male,,,,0.01
+2023,Percentage,Non-sexual harassment,,Male,,,,0.01
+2024,Percentage,Non-sexual harassment,,Male,,,,0.01
+2010,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2011,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2012,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2013,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2014,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2015,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2016,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2017,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2018,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2019,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2020,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2021,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2022,Percentage,Non-sexual harassment,13 years and younger,,0,,,0.0
+2023,Percentage,Non-sexual harassment,13 years and younger,,,,,0.01
+2024,Percentage,Non-sexual harassment,13 years and younger,,,,,0.01
+2010,Percentage,Non-sexual harassment,13 years and younger,Female,,,,0.01
+2011,Percentage,Non-sexual harassment,13 years and younger,Female,,,,0.01
+2012,Percentage,Non-sexual harassment,13 years and younger,Female,,,,0.01
+2013,Percentage,Non-sexual harassment,13 years and younger,Female,,,,0.01
+2014,Percentage,Non-sexual harassment,13 years and younger,Female,,,,0.01
+2015,Percentage,Non-sexual harassment,13 years and younger,Female,0,,,0.0
+2016,Percentage,Non-sexual harassment,13 years and younger,Female,0,,,0.0
+2017,Percentage,Non-sexual harassment,13 years and younger,Female,0,,,0.0
+2018,Percentage,Non-sexual harassment,13 years and younger,Female,,,,0.01
+2019,Percentage,Non-sexual harassment,13 years and younger,Female,0,,,0.01
+2020,Percentage,Non-sexual harassment,13 years and younger,Female,0,,,0.0
+2021,Percentage,Non-sexual harassment,13 years and younger,Female,,,,0.01
+2022,Percentage,Non-sexual harassment,13 years and younger,Female,,,,0.01
+2023,Percentage,Non-sexual harassment,13 years and younger,Female,,,,0.01
+2024,Percentage,Non-sexual harassment,13 years and younger,Female,,,,0.01
+2010,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2011,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2012,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2013,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2014,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2015,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2016,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2017,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2018,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2019,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2020,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2021,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2022,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2023,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2024,Percentage,Non-sexual harassment,13 years and younger,Male,0,,,0.0
+2010,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.04
+2011,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.03
+2012,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.03
+2013,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.03
+2014,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.03
+2015,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.02
+2016,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.02
+2017,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.02
+2018,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.02
+2019,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.02
+2020,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.02
+2021,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.02
+2022,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.03
+2023,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.03
+2024,Percentage,Non-sexual harassment,14 to under 18 years,,,,,0.03
+2010,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.07
+2011,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.06
+2012,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.05
+2013,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.05
+2014,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.05
+2015,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.04
+2016,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.04
+2017,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.04
+2018,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.04
+2019,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.04
+2020,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.03
+2021,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.04
+2022,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.05
+2023,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.05
+2024,Percentage,Non-sexual harassment,14 to under 18 years,Female,,,,0.05
+2010,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2011,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2012,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2013,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2014,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2015,Percentage,Non-sexual harassment,14 to under 18 years,Male,0,,,0.0
+2016,Percentage,Non-sexual harassment,14 to under 18 years,Male,0,,,0.0
+2017,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2018,Percentage,Non-sexual harassment,14 to under 18 years,Male,0,,,0.0
+2019,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2020,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2021,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2022,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2023,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2024,Percentage,Non-sexual harassment,14 to under 18 years,Male,,,,0.01
+2010,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.09
+2011,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.09
+2012,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.08
+2013,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.07
+2014,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.07
+2015,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.05
+2016,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.05
+2017,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.05
+2018,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.06
+2019,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.05
+2020,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.06
+2021,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.06
+2022,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.06
+2023,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.06
+2024,Percentage,Non-sexual harassment,18 to under 21 years,,,,,0.07
+2010,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.16
+2011,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.16
+2012,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.15
+2013,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.13
+2014,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.12
+2015,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.1
+2016,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.09
+2017,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.1
+2018,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.11
+2019,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.1
+2020,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.11
+2021,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.11
+2022,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.1
+2023,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.11
+2024,Percentage,Non-sexual harassment,18 to under 21 years,Female,,,,0.12
+2010,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.02
+2011,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.02
+2012,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.02
+2013,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.01
+2014,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.01
+2015,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.01
+2016,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.01
+2017,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.01
+2018,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.01
+2019,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.01
+2020,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.01
+2021,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.01
+2022,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.01
+2023,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.02
+2024,Percentage,Non-sexual harassment,18 to under 21 years,Male,,,,0.02
+2010,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.05
+2011,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.05
+2012,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.05
+2013,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.05
+2014,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.04
+2015,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.04
+2016,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.04
+2017,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.04
+2018,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.04
+2019,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.04
+2020,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.04
+2021,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.04
+2022,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.05
+2023,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.05
+2024,Percentage,Non-sexual harassment,21 to under 60 years,,,,,0.05
+2010,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.08
+2011,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.08
+2012,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.08
+2013,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.08
+2014,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.07
+2015,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.07
+2016,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.06
+2017,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.06
+2018,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.06
+2019,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.06
+2020,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.07
+2021,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.07
+2022,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.07
+2023,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.08
+2024,Percentage,Non-sexual harassment,21 to under 60 years,Female,,,,0.09
+2010,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.02
+2011,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.02
+2012,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.02
+2013,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.02
+2014,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.02
+2015,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.02
+2016,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.01
+2017,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.01
+2018,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.01
+2019,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.01
+2020,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.01
+2021,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.02
+2022,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.02
+2023,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.02
+2024,Percentage,Non-sexual harassment,21 to under 60 years,Male,,,,0.02
+2010,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2011,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2012,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2013,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2014,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2015,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2016,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2017,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2018,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2019,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2020,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2021,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2022,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2023,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2024,Percentage,Non-sexual harassment,60 years and older,,,,,0.01
+2010,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2011,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2012,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2013,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2014,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2015,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2016,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2017,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2018,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2019,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2020,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2021,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2022,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2023,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2024,Percentage,Non-sexual harassment,60 years and older,Female,,,,0.01
+2010,Percentage,Non-sexual harassment,60 years and older,Male,,,,0.01
+2011,Percentage,Non-sexual harassment,60 years and older,Male,,,,0.01
+2012,Percentage,Non-sexual harassment,60 years and older,Male,,,,0.01
+2013,Percentage,Non-sexual harassment,60 years and older,Male,,,,0.01
+2014,Percentage,Non-sexual harassment,60 years and older,Male,,,,0.01
+2015,Percentage,Non-sexual harassment,60 years and older,Male,0,,,0.0
+2016,Percentage,Non-sexual harassment,60 years and older,Male,0,,,0.0
+2017,Percentage,Non-sexual harassment,60 years and older,Male,0,,,0.0
+2018,Percentage,Non-sexual harassment,60 years and older,Male,0,,,0.0
+2019,Percentage,Non-sexual harassment,60 years and older,Male,0,,,0.0
+2020,Percentage,Non-sexual harassment,60 years and older,Male,0,,,0.0
+2021,Percentage,Non-sexual harassment,60 years and older,Male,0,,,0.0
+2022,Percentage,Non-sexual harassment,60 years and older,Male,0,,,0.0
+2023,Percentage,Non-sexual harassment,60 years and older,Male,,,,0.01
+2024,Percentage,Non-sexual harassment,60 years and older,Male,,,,0.01
+2010,Percentage,Sexual harassment,,,,,,0.01
+2011,Percentage,Sexual harassment,,,,,,0.01
+2012,Percentage,Sexual harassment,,,,,,0.01
+2013,Percentage,Sexual harassment,,,,,,0.01
+2014,Percentage,Sexual harassment,,,,,,0.01
+2015,Percentage,Sexual harassment,,,,,,0.01
+2016,Percentage,Sexual harassment,,,,,,0.01
+2017,Percentage,Sexual harassment,,,,,,0.01
+2018,Percentage,Sexual harassment,,,,,,0.01
+2019,Percentage,Sexual harassment,,,,,,0.01
+2020,Percentage,Sexual harassment,,,,,,0.01
+2021,Percentage,Sexual harassment,,,|,,,0.01
+2022,Percentage,Sexual harassment,,,,,,0.01
+2023,Percentage,Sexual harassment,,,,,,0.01
+2024,Percentage,Sexual harassment,,,,,,0.01
+2010,Percentage,Sexual harassment,,Female,,,,0.02
+2011,Percentage,Sexual harassment,,Female,,,,0.02
+2012,Percentage,Sexual harassment,,Female,,,,0.02
+2013,Percentage,Sexual harassment,,Female,,,,0.02
+2014,Percentage,Sexual harassment,,Female,,,,0.02
+2015,Percentage,Sexual harassment,,Female,,,,0.02
+2016,Percentage,Sexual harassment,,Female,,,,0.02
+2017,Percentage,Sexual harassment,,Female,,,,0.02
+2018,Percentage,Sexual harassment,,Female,,,,0.02
+2019,Percentage,Sexual harassment,,Female,,,,0.02
+2020,Percentage,Sexual harassment,,Female,,,,0.02
+2021,Percentage,Sexual harassment,,Female,|,,,0.02
+2022,Percentage,Sexual harassment,,Female,,,,0.02
+2023,Percentage,Sexual harassment,,Female,,,,0.02
+2024,Percentage,Sexual harassment,,Female,,,,0.02
+2010,Percentage,Sexual harassment,,Male,0,,,0.0
+2011,Percentage,Sexual harassment,,Male,0,,,0.0
+2012,Percentage,Sexual harassment,,Male,0,,,0.0
+2013,Percentage,Sexual harassment,,Male,0,,,0.0
+2014,Percentage,Sexual harassment,,Male,0,,,0.0
+2015,Percentage,Sexual harassment,,Male,0,,,0.0
+2016,Percentage,Sexual harassment,,Male,0,,,0.0
+2017,Percentage,Sexual harassment,,Male,0,,,0.0
+2018,Percentage,Sexual harassment,,Male,0,,,0.0
+2019,Percentage,Sexual harassment,,Male,0,,,0.0
+2020,Percentage,Sexual harassment,,Male,0,,,0.0
+2021,Percentage,Sexual harassment,,Male,|,0,,0.0
+2022,Percentage,Sexual harassment,,Male,0,,,0.0
+2023,Percentage,Sexual harassment,,Male,0,,,0.0
+2024,Percentage,Sexual harassment,,Male,0,,,0.0
+2010,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2011,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2012,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2013,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2014,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2015,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2016,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2017,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2018,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2019,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2020,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2021,Percentage,Sexual harassment,13 years and younger,,|,0,,0.0
+2022,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2023,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2024,Percentage,Sexual harassment,13 years and younger,,0,,,0.0
+2010,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2011,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2012,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2013,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2014,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2015,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2016,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2017,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2018,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2019,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2020,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2021,Percentage,Sexual harassment,13 years and younger,Female,|,0,,0.0
+2022,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2023,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2024,Percentage,Sexual harassment,13 years and younger,Female,0,,,0.0
+2010,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2011,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2012,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2013,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2014,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2015,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2016,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2017,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2018,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2019,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2020,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2021,Percentage,Sexual harassment,13 years and younger,Male,|,0,,0.0
+2022,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2023,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2024,Percentage,Sexual harassment,13 years and younger,Male,0,,,0.0
+2010,Percentage,Sexual harassment,14 to under 18 years,,,,,0.04
+2011,Percentage,Sexual harassment,14 to under 18 years,,,,,0.03
+2012,Percentage,Sexual harassment,14 to under 18 years,,,,,0.03
+2013,Percentage,Sexual harassment,14 to under 18 years,,,,,0.03
+2014,Percentage,Sexual harassment,14 to under 18 years,,,,,0.03
+2015,Percentage,Sexual harassment,14 to under 18 years,,,,,0.03
+2016,Percentage,Sexual harassment,14 to under 18 years,,,,,0.03
+2017,Percentage,Sexual harassment,14 to under 18 years,,,,,0.03
+2018,Percentage,Sexual harassment,14 to under 18 years,,,,,0.03
+2019,Percentage,Sexual harassment,14 to under 18 years,,,,,0.03
+2020,Percentage,Sexual harassment,14 to under 18 years,,,,,0.03
+2021,Percentage,Sexual harassment,14 to under 18 years,,|,,,0.03
+2022,Percentage,Sexual harassment,14 to under 18 years,,,,,0.04
+2023,Percentage,Sexual harassment,14 to under 18 years,,,,,0.04
+2024,Percentage,Sexual harassment,14 to under 18 years,,,,,0.04
+2010,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.07
+2011,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.06
+2012,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.06
+2013,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.06
+2014,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.06
+2015,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.06
+2016,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.05
+2017,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.05
+2018,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.05
+2019,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.05
+2020,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.05
+2021,Percentage,Sexual harassment,14 to under 18 years,Female,|,,,0.05
+2022,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.07
+2023,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.07
+2024,Percentage,Sexual harassment,14 to under 18 years,Female,,,,0.08
+2010,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2011,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2012,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2013,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2014,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2015,Percentage,Sexual harassment,14 to under 18 years,Male,0,,,0.0
+2016,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2017,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2018,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2019,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2020,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2021,Percentage,Sexual harassment,14 to under 18 years,Male,|,,,0.01
+2022,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2023,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2024,Percentage,Sexual harassment,14 to under 18 years,Male,,,,0.01
+2010,Percentage,Sexual harassment,18 to under 21 years,,,,,0.03
+2011,Percentage,Sexual harassment,18 to under 21 years,,,,,0.03
+2012,Percentage,Sexual harassment,18 to under 21 years,,,,,0.03
+2013,Percentage,Sexual harassment,18 to under 21 years,,,,,0.03
+2014,Percentage,Sexual harassment,18 to under 21 years,,,,,0.03
+2015,Percentage,Sexual harassment,18 to under 21 years,,,,,0.03
+2016,Percentage,Sexual harassment,18 to under 21 years,,,,,0.03
+2017,Percentage,Sexual harassment,18 to under 21 years,,,,,0.04
+2018,Percentage,Sexual harassment,18 to under 21 years,,,,,0.03
+2019,Percentage,Sexual harassment,18 to under 21 years,,,,,0.03
+2020,Percentage,Sexual harassment,18 to under 21 years,,,,,0.04
+2021,Percentage,Sexual harassment,18 to under 21 years,,|,,,0.04
+2022,Percentage,Sexual harassment,18 to under 21 years,,,,,0.04
+2023,Percentage,Sexual harassment,18 to under 21 years,,,,,0.04
+2024,Percentage,Sexual harassment,18 to under 21 years,,,,,0.04
+2010,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.05
+2011,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.06
+2012,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.06
+2013,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.06
+2014,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.06
+2015,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.06
+2016,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.06
+2017,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.07
+2018,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.06
+2019,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.05
+2020,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.08
+2021,Percentage,Sexual harassment,18 to under 21 years,Female,|,,,0.07
+2022,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.07
+2023,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.07
+2024,Percentage,Sexual harassment,18 to under 21 years,Female,,,,0.08
+2010,Percentage,Sexual harassment,18 to under 21 years,Male,0,,,0.0
+2011,Percentage,Sexual harassment,18 to under 21 years,Male,0,,,0.0
+2012,Percentage,Sexual harassment,18 to under 21 years,Male,0,,,0.0
+2013,Percentage,Sexual harassment,18 to under 21 years,Male,0,,,0.0
+2014,Percentage,Sexual harassment,18 to under 21 years,Male,0,,,0.0
+2015,Percentage,Sexual harassment,18 to under 21 years,Male,0,,,0.0
+2016,Percentage,Sexual harassment,18 to under 21 years,Male,,,,0.01
+2017,Percentage,Sexual harassment,18 to under 21 years,Male,,,,0.01
+2018,Percentage,Sexual harassment,18 to under 21 years,Male,,,,0.01
+2019,Percentage,Sexual harassment,18 to under 21 years,Male,,,,0.01
+2020,Percentage,Sexual harassment,18 to under 21 years,Male,,,,0.01
+2021,Percentage,Sexual harassment,18 to under 21 years,Male,|,,,0.01
+2022,Percentage,Sexual harassment,18 to under 21 years,Male,,,,0.01
+2023,Percentage,Sexual harassment,18 to under 21 years,Male,,,,0.01
+2024,Percentage,Sexual harassment,18 to under 21 years,Male,,,,0.01
+2010,Percentage,Sexual harassment,21 to under 60 years,,,,,0.01
+2011,Percentage,Sexual harassment,21 to under 60 years,,,,,0.01
+2012,Percentage,Sexual harassment,21 to under 60 years,,,,,0.01
+2013,Percentage,Sexual harassment,21 to under 60 years,,,,,0.01
+2014,Percentage,Sexual harassment,21 to under 60 years,,,,,0.01
+2015,Percentage,Sexual harassment,21 to under 60 years,,,,,0.01
+2016,Percentage,Sexual harassment,21 to under 60 years,,,,,0.01
+2017,Percentage,Sexual harassment,21 to under 60 years,,,,,0.01
+2018,Percentage,Sexual harassment,21 to under 60 years,,,,,0.01
+2019,Percentage,Sexual harassment,21 to under 60 years,,,,,0.01
+2020,Percentage,Sexual harassment,21 to under 60 years,,,,,0.02
+2021,Percentage,Sexual harassment,21 to under 60 years,,|,,,0.01
+2022,Percentage,Sexual harassment,21 to under 60 years,,,,,0.02
+2023,Percentage,Sexual harassment,21 to under 60 years,,,,,0.02
+2024,Percentage,Sexual harassment,21 to under 60 years,,,,,0.02
+2010,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.02
+2011,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.02
+2012,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.02
+2013,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.02
+2014,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.02
+2015,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.02
+2016,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.02
+2017,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.02
+2018,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.02
+2019,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.02
+2020,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.03
+2021,Percentage,Sexual harassment,21 to under 60 years,Female,|,,,0.03
+2022,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.03
+2023,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.03
+2024,Percentage,Sexual harassment,21 to under 60 years,Female,,,,0.03
+2010,Percentage,Sexual harassment,21 to under 60 years,Male,0,,,0.0
+2011,Percentage,Sexual harassment,21 to under 60 years,Male,0,,,0.0
+2012,Percentage,Sexual harassment,21 to under 60 years,Male,0,,,0.0
+2013,Percentage,Sexual harassment,21 to under 60 years,Male,0,,,0.0
+2014,Percentage,Sexual harassment,21 to under 60 years,Male,0,,,0.0
+2015,Percentage,Sexual harassment,21 to under 60 years,Male,0,,,0.0
+2016,Percentage,Sexual harassment,21 to under 60 years,Male,0,,,0.0
+2017,Percentage,Sexual harassment,21 to under 60 years,Male,0,,,0.0
+2018,Percentage,Sexual harassment,21 to under 60 years,Male,0,,,0.0
+2019,Percentage,Sexual harassment,21 to under 60 years,Male,0,,,0.0
+2020,Percentage,Sexual harassment,21 to under 60 years,Male,0,,,0.0
+2021,Percentage,Sexual harassment,21 to under 60 years,Male,|,0,,0.0
+2022,Percentage,Sexual harassment,21 to under 60 years,Male,,,,0.01
+2023,Percentage,Sexual harassment,21 to under 60 years,Male,,,,0.01
+2024,Percentage,Sexual harassment,21 to under 60 years,Male,,,,0.01
+2010,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2011,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2012,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2013,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2014,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2015,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2016,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2017,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2018,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2019,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2020,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2021,Percentage,Sexual harassment,60 years and older,,|,0,,0.0
+2022,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2023,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2024,Percentage,Sexual harassment,60 years and older,,0,,,0.0
+2010,Percentage,Sexual harassment,60 years and older,Female,0,,,0.0
+2011,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2012,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2013,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2014,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2015,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2016,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2017,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2018,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2019,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2020,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2021,Percentage,Sexual harassment,60 years and older,Female,|,,,0.01
+2022,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2023,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2024,Percentage,Sexual harassment,60 years and older,Female,,,,0.01
+2010,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2011,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2012,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2013,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2014,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2015,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2016,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2017,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2018,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2019,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2020,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2021,Percentage,Sexual harassment,60 years and older,Male,|,0,,0.0
+2022,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2023,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0
+2024,Percentage,Sexual harassment,60 years and older,Male,0,,,0.0

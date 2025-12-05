@@ -13239,6 +13239,7 @@
               "enum": [
                 "Je 100 000 Einwohner/-innen",
                 "Anzahl",
+                "Prozent",
                 ""
               ]
             },
@@ -13292,6 +13293,7 @@
                 ".",
                 "‒",
                 "r",
+                "0",
                 ""
               ]
             },
@@ -13302,7 +13304,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
+                "0",
                 ""
               ]
             },
@@ -14484,6 +14488,7 @@
               "enum": [
                 "Je 100 000 Einwohner/-innen",
                 "Anzahl",
+                "Prozent",
                 ""
               ]
             },
@@ -14517,7 +14522,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "victim-suspect relationship",
+            "name": "typ of victim-suspect relationship",
             "type": "string",
             "constraints": {
               "enum": [
@@ -14527,17 +14532,17 @@
                 ""
               ]
             },
-            "title": "Opfer-Tatverdächtigen-Beziehung"
+            "title": "Art der Opfer-Tatverdächtigen-Beziehung"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
-                "…",
-                ".",
+                "|",
                 "‒",
+                ".",
+                "0",
                 ""
               ]
             },

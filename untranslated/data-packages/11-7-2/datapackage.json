@@ -21,6 +21,7 @@
               "enum": [
                 "per 100,000 inhabitants",
                 "number",
+                "percentage",
                 ""
               ]
             }
@@ -70,6 +71,7 @@
                 ".",
                 "‒",
                 "r",
+                "0",
                 ""
               ]
             }
@@ -79,7 +81,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "r",
+                "0",
                 ""
               ]
             }
