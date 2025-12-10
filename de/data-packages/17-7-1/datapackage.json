@@ -64,7 +64,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamter Produktionswert des Sektors Umweltgüter und Umweltdienstleistungen (EGSS)",
+                "Produktionswert des Sektors Umweltgüter und Umweltdienstleistungen (EGSS)",
                 "Bruttoanlageinvestitionen für Umweltschutz",
                 ""
               ]
