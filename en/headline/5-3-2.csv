@@ -1,7 +1,25 @@
-Year,Value
-2018,5.0
-2019,2.0
-2021,4.0
-2022,3.0
-2023,3.0
-2024,1.0
+Year,Value,Units,Series
+2016,65.0,Number,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2017,65.0,Number,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2018,83.0,Number,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2019,84.0,Number,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2020,84.0,Number,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2021,83.0,Number,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2022,81.0,Number,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2023,114.0,Number,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2016,0.157,Percentage,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2017,0.156,Percentage,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2018,0.199,Percentage,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2019,0.202,Percentage,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2020,0.202,Percentage,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2021,0.2,Percentage,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2022,0.193,Percentage,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2023,0.27,Percentage,Diagnoses of female genital mutilation in hospitals (personal medical history)
+2016,0.000157,"Per 100,000 inhabitants",Diagnoses of female genital mutilation in hospitals (personal medical history)
+2017,0.000156,"Per 100,000 inhabitants",Diagnoses of female genital mutilation in hospitals (personal medical history)
+2018,0.000199,"Per 100,000 inhabitants",Diagnoses of female genital mutilation in hospitals (personal medical history)
+2019,0.000202,"Per 100,000 inhabitants",Diagnoses of female genital mutilation in hospitals (personal medical history)
+2020,0.000202,"Per 100,000 inhabitants",Diagnoses of female genital mutilation in hospitals (personal medical history)
+2021,0.0002,"Per 100,000 inhabitants",Diagnoses of female genital mutilation in hospitals (personal medical history)
+2022,0.000193,"Per 100,000 inhabitants",Diagnoses of female genital mutilation in hospitals (personal medical history)
+2023,0.00027,"Per 100,000 inhabitants",Diagnoses of female genital mutilation in hospitals (personal medical history)

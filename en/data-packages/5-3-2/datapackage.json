@@ -16,12 +16,38 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Per 100,000 inhabitants",
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
                 ".",
                 "‒",
+                "|",
+                "0",
                 ""
               ]
             },
@@ -46,6 +72,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cases of female genital mutilation recorded by the police",
+                "Diagnoses of female genital mutilation in hospitals (personal medical history)",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

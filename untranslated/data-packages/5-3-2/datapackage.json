@@ -15,12 +15,36 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number",
+                "per 100,000 inhabitants",
+                "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
                 ".",
                 "‒",
+                "|",
+                "0",
                 ""
               ]
             }
@@ -39,6 +63,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "cases of female genital mutilation recorded by the police",
+                "diagnoses of female genital mutilation in hospitals (personal medical history)",
                 ""
               ]
             }

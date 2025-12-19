@@ -1,7 +1,25 @@
-Year,Value
-2018,5.0
-2019,2.0
-2021,4.0
-2022,3.0
-2023,3.0
-2024,1.0
+Year,Value,Units,Series
+2016,65.0,Anzahl,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2017,65.0,Anzahl,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2018,83.0,Anzahl,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2019,84.0,Anzahl,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2020,84.0,Anzahl,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2021,83.0,Anzahl,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2022,81.0,Anzahl,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2023,114.0,Anzahl,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2016,0.157,Prozent,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2017,0.156,Prozent,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2018,0.199,Prozent,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2019,0.202,Prozent,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2020,0.202,Prozent,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2021,0.2,Prozent,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2022,0.193,Prozent,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2023,0.27,Prozent,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2016,0.000157,Je 100 000 Einwohner/-innen,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2017,0.000156,Je 100 000 Einwohner/-innen,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2018,0.000199,Je 100 000 Einwohner/-innen,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2019,0.000202,Je 100 000 Einwohner/-innen,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2020,0.000202,Je 100 000 Einwohner/-innen,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2021,0.0002,Je 100 000 Einwohner/-innen,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2022,0.000193,Je 100 000 Einwohner/-innen,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)
+2023,0.00027,Je 100 000 Einwohner/-innen,Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)

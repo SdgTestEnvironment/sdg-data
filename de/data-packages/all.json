@@ -31,10 +31,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "…",
                 ""
               ]
             },
@@ -62,7 +61,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -6931,9 +6930,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 ".",
                 "…",
+                "r",
                 ""
               ]
             },
@@ -10921,12 +10920,38 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Je 100 000 Einwohner/-innen",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
                 ".",
                 "‒",
+                "|",
+                "0",
                 ""
               ]
             },
@@ -10951,6 +10976,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung",
+                "Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -15679,10 +15716,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "…",
                 ""
               ]
             },
@@ -15710,7 +15746,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]

@@ -9,7 +9,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -29,10 +29,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "…",
                 ""
               ]
             }
@@ -57,7 +56,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -6333,9 +6332,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 ".",
                 "…",
+                "r",
                 ""
               ]
             }
@@ -9972,12 +9971,36 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number",
+                "per 100,000 inhabitants",
+                "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
                 ".",
                 "‒",
+                "|",
+                "0",
                 ""
               ]
             }
@@ -9996,6 +10019,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "cases of female genital mutilation recorded by the police",
+                "diagnoses of female genital mutilation in hospitals (personal medical history)",
                 ""
               ]
             }
@@ -14290,7 +14324,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -14321,10 +14355,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "…",
                 ""
               ]
             }
@@ -14349,7 +14382,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
