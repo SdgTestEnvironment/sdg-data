@@ -9978,9 +9978,9 @@
                 "number",
                 "per 100,000 inhabitants",
                 "percentage",
-                "\"number \"",
-                "\"per 100,000 inhabitants \"",
-                "\"percentage \"",
+                "'number '",
+                "'per 100,000 inhabitants '",
+                "'percentage '",
                 ""
               ]
             }
