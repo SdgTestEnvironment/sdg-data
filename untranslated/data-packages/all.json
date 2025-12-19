@@ -9978,16 +9978,9 @@
                 "number",
                 "per 100,000 inhabitants",
                 "percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
+                "\"number \"",
+                "\"per 100,000 inhabitants \"",
+                "\"percentage \"",
                 ""
               ]
             }

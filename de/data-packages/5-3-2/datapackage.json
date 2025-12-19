@@ -23,21 +23,13 @@
                 "Anzahl",
                 "Je 100 000 Einwohner/-innen",
                 "Prozent",
+                "Anzahl",
+                "Je 100 000 Einwohner/-innen",
+                "Prozent",
                 ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
           },
           {
             "name": "COMMENT_OBS_0",

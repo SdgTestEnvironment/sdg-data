@@ -1,25 +1,36 @@
 Year,Value,Units,Series
-2016,65.0,number,diagnoses of female genital mutilation in hospitals (personal medical history)
-2017,65.0,number,diagnoses of female genital mutilation in hospitals (personal medical history)
-2018,83.0,number,diagnoses of female genital mutilation in hospitals (personal medical history)
-2019,84.0,number,diagnoses of female genital mutilation in hospitals (personal medical history)
-2020,84.0,number,diagnoses of female genital mutilation in hospitals (personal medical history)
-2021,83.0,number,diagnoses of female genital mutilation in hospitals (personal medical history)
-2022,81.0,number,diagnoses of female genital mutilation in hospitals (personal medical history)
-2023,114.0,number,diagnoses of female genital mutilation in hospitals (personal medical history)
-2016,0.157,percentage,diagnoses of female genital mutilation in hospitals (personal medical history)
-2017,0.156,percentage,diagnoses of female genital mutilation in hospitals (personal medical history)
-2018,0.199,percentage,diagnoses of female genital mutilation in hospitals (personal medical history)
-2019,0.202,percentage,diagnoses of female genital mutilation in hospitals (personal medical history)
-2020,0.202,percentage,diagnoses of female genital mutilation in hospitals (personal medical history)
-2021,0.2,percentage,diagnoses of female genital mutilation in hospitals (personal medical history)
-2022,0.193,percentage,diagnoses of female genital mutilation in hospitals (personal medical history)
-2023,0.27,percentage,diagnoses of female genital mutilation in hospitals (personal medical history)
-2016,0.000157,"per 100,000 inhabitants",diagnoses of female genital mutilation in hospitals (personal medical history)
-2017,0.000156,"per 100,000 inhabitants",diagnoses of female genital mutilation in hospitals (personal medical history)
-2018,0.000199,"per 100,000 inhabitants",diagnoses of female genital mutilation in hospitals (personal medical history)
-2019,0.000202,"per 100,000 inhabitants",diagnoses of female genital mutilation in hospitals (personal medical history)
-2020,0.000202,"per 100,000 inhabitants",diagnoses of female genital mutilation in hospitals (personal medical history)
-2021,0.0002,"per 100,000 inhabitants",diagnoses of female genital mutilation in hospitals (personal medical history)
-2022,0.000193,"per 100,000 inhabitants",diagnoses of female genital mutilation in hospitals (personal medical history)
-2023,0.00027,"per 100,000 inhabitants",diagnoses of female genital mutilation in hospitals (personal medical history)
+2018,5.0,number,cases of female genital mutilation recorded by the police
+2019,2.0,number,cases of female genital mutilation recorded by the police
+2021,4.0,number,cases of female genital mutilation recorded by the police
+2022,3.0,number,cases of female genital mutilation recorded by the police
+2023,3.0,number,cases of female genital mutilation recorded by the police
+2024,1.0,number,cases of female genital mutilation recorded by the police
+2018,0.012,"per 100,000 inhabitants",cases of female genital mutilation recorded by the police
+2019,0.005,"per 100,000 inhabitants",cases of female genital mutilation recorded by the police
+2021,0.009,"per 100,000 inhabitants",cases of female genital mutilation recorded by the police
+2022,0.007,"per 100,000 inhabitants",cases of female genital mutilation recorded by the police
+2023,0.007,"per 100,000 inhabitants",cases of female genital mutilation recorded by the police
+2016,65.0,"""number """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2017,65.0,"""number """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2018,83.0,"""number """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2019,84.0,"""number """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2020,84.0,"""number """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2021,83.0,"""number """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2022,81.0,"""number """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2023,114.0,"""number """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2016,0.157,"""per 100,000 inhabitants """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2017,0.156,"""per 100,000 inhabitants """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2018,0.199,"""per 100,000 inhabitants """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2019,0.202,"""per 100,000 inhabitants """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2020,0.202,"""per 100,000 inhabitants """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2021,0.2,"""per 100,000 inhabitants """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2022,0.193,"""per 100,000 inhabitants """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2023,0.27,"""per 100,000 inhabitants """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2016,0.000157,"""percentage """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2017,0.000156,"""percentage """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2018,0.000199,"""percentage """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2019,0.000202,"""percentage """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2020,0.000202,"""percentage """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2021,0.0002,"""percentage """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2022,0.000193,"""percentage """,diagnoses of female genital mutilation in hospitals (personal medical history)
+2023,0.00027,"""percentage """,diagnoses of female genital mutilation in hospitals (personal medical history)
