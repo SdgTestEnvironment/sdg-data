@@ -29,7 +29,6 @@ Indicator,Disaggregations,Number of disaggregations
 #12-4-1,timeseries,1
 #12-4-2,"COMMENT_OBS_0, type of waste treatment",2
 #12-5-1,type of waste,1
-#12-6-1,länder,1
 #12-8-1,area2,1
 #12-a-1,COMMENT_OBS_0,1
 #12-b-1,"COMMENT_OBS_0, standard accounting system",2
@@ -166,7 +165,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-5-1,"COMMENT_OBS_0, länder, sex",3
 #8-5-2,"COMMENT_OBS_0, COMMENT_OBS_1, age group, sex",4
 #8-6-1,"COMMENT_OBS_0, COMMENT_OBS_1, sex",3
-#8-7-1,"age group, sex",2
+#8-7-1,"COMMENT_OBS_0, age group, sex",3
 #8-8-1,"timeseries, COMMENT_OBS_0, COMMENT_OBS_1, sex",4
 #8-8-2,COMMENT_OBS_0,1
 #8-9-1,COMMENT_OBS_0,1

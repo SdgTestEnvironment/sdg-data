@@ -2388,37 +2388,6 @@
             "title": "Jahr"
           },
           {
-            "name": "länder",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
-                ""
-              ]
-            },
-            "title": "Bundesland"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {
@@ -15683,6 +15652,19 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Je 100 000 Einwohner/-innen",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -15708,9 +15690,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
+                "0",
                 ""
               ]
             },
@@ -15738,7 +15722,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

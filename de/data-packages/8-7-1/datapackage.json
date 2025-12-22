@@ -16,6 +16,19 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Je 100 000 Einwohner/-innen",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -41,9 +54,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
+                "0",
                 ""
               ]
             },
@@ -71,7 +86,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

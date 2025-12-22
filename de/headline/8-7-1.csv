@@ -1,16 +1,45 @@
-Year,Value
-2010,119
-2011,124
-2012,115
-2013,110
-2014,98
-2015,106
-2016,147
-2017,120
-2018,130
-2019,104
-2020,117
-2021,118
-2022,106
-2023,80
-2024,87
+Year,Value,Units
+2010,119.0,Anzahl
+2011,124.0,Anzahl
+2012,115.0,Anzahl
+2013,110.0,Anzahl
+2014,98.0,Anzahl
+2015,106.0,Anzahl
+2016,147.0,Anzahl
+2017,120.0,Anzahl
+2018,130.0,Anzahl
+2019,104.0,Anzahl
+2020,117.0,Anzahl
+2021,118.0,Anzahl
+2022,106.0,Anzahl
+2023,80.0,Anzahl
+2024,87.0,Anzahl
+2010,,Je 100 000 Einwohner/-innen
+2011,,Je 100 000 Einwohner/-innen
+2012,,Je 100 000 Einwohner/-innen
+2013,,Je 100 000 Einwohner/-innen
+2014,,Je 100 000 Einwohner/-innen
+2015,,Je 100 000 Einwohner/-innen
+2016,,Je 100 000 Einwohner/-innen
+2017,,Je 100 000 Einwohner/-innen
+2018,3.8,Je 100 000 Einwohner/-innen
+2019,3.1,Je 100 000 Einwohner/-innen
+2020,3.4,Je 100 000 Einwohner/-innen
+2021,3.1,Je 100 000 Einwohner/-innen
+2022,3.0,Je 100 000 Einwohner/-innen
+2023,2.3,Je 100 000 Einwohner/-innen
+2010,0.001,Prozent
+2011,0.001,Prozent
+2012,0.001,Prozent
+2013,0.001,Prozent
+2014,0.001,Prozent
+2015,0.001,Prozent
+2016,0.001,Prozent
+2017,0.001,Prozent
+2018,0.001,Prozent
+2019,0.001,Prozent
+2020,0.001,Prozent
+2021,0.001,Prozent
+2022,0.001,Prozent
+2023,0.001,Prozent
+2024,0.001,Prozent
