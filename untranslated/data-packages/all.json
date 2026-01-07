@@ -9993,7 +9993,7 @@
             "constraints": {
               "enum": [
                 "cases of female genital mutilation recorded by the police",
-                "diagnoses of female genital mutilation in hospitals (personal medical history)",
+                "cases of inpatient treatment due to female genital mutilation personal medical history)",
                 ""
               ]
             }
@@ -13038,10 +13038,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
                 ""
               ]
             }
@@ -13066,7 +13065,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },

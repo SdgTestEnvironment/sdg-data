@@ -71,7 +71,7 @@
             "constraints": {
               "enum": [
                 "Polizeilich erfasste Fälle von weiblicher Genitalverstümmelung",
-                "Diagnosen von weiblicher Genitalverstümmelung in Krankenhäusern (Eigenanamnese)",
+                "Stationäre Behandlungsfälle aufgrund weiblicher Genitalverstümmelung (Eigenanamnese)",
                 ""
               ]
             },
