@@ -8,11 +8,12 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2016,percentage,federal statistical office,,,,,,,organically farmed agricultural land,6.8
 2017,percentage,federal statistical office,,,,s,,,organically farmed agricultural land,6.8
 2018,percentage,federal statistical office,,,,s,,,organically farmed agricultural land,7.3
-2019,percentage,federal statistical office,,,,,,,organically farmed agricultural land,7.8
+2019,percentage,federal statistical office,,,,s,,,organically farmed agricultural land,7.8
 2020,percentage,federal statistical office,,,,,,,organically farmed agricultural land,9.6
 2021,percentage,federal statistical office,,,,s,,,organically farmed agricultural land,9.7
 2022,percentage,federal statistical office,,,,s,,,organically farmed agricultural land,9.8
 2023,percentage,federal statistical office,,,,,,,organically farmed agricultural land,11.2
+2024,percentage,federal statistical office,,,,p,,,organically farmed agricultural land,11.1
 2010,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,5.9
 2011,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,6.1
 2012,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,6.2
@@ -21,31 +22,31 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2015,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,6.5
 2016,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,7.5
 2017,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,8.2
-2018,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,9.1
+2018,percentage,"federal ministry of agriculture, food and regional identity",,,,r,,,organically farmed agricultural land,9.1
 2019,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,9.7
 2020,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,10.3
 2021,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,10.9
 2022,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,11.2
 2023,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,11.4
 2024,percentage,"federal ministry of agriculture, food and regional identity",,,,,,,organically farmed agricultural land,11.5
-2010,percentage,federal statistical office,,baden-württemberg,code08,,,,organically farmed agricultural land,7.0
+2010,percentage,federal statistical office,,baden-württemberg,code08,,,,organically farmed agricultural land,8.0
 2011,percentage,federal statistical office,,baden-württemberg,code08,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,baden-württemberg,code08,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,baden-württemberg,code08,,,,organically farmed agricultural land,7.8
+2013,percentage,federal statistical office,,baden-württemberg,code08,,,,organically farmed agricultural land,8.7
 2014,percentage,federal statistical office,,baden-württemberg,code08,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,baden-württemberg,code08,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,baden-württemberg,code08,,,,organically farmed agricultural land,9.3
 2017,percentage,federal statistical office,,baden-württemberg,code08,.,,,organically farmed agricultural land,
 2018,percentage,federal statistical office,,baden-württemberg,code08,.,,,organically farmed agricultural land,
 2019,percentage,federal statistical office,,baden-württemberg,code08,.,,,organically farmed agricultural land,
-2020,percentage,federal statistical office,,baden-württemberg,code08,r,,,organically farmed agricultural land,12.2
+2020,percentage,federal statistical office,,baden-württemberg,code08,,,,organically farmed agricultural land,12.2
 2021,percentage,federal statistical office,,baden-württemberg,code08,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,baden-württemberg,code08,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,baden-württemberg,code08,,,,organically farmed agricultural land,14.0
-2010,percentage,federal statistical office,,bavaria,code09,,,,organically farmed agricultural land,6.1
+2010,percentage,federal statistical office,,bavaria,code09,,,,organically farmed agricultural land,6.2
 2011,percentage,federal statistical office,,bavaria,code09,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,bavaria,code09,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,bavaria,code09,,,,organically farmed agricultural land,6.8
+2013,percentage,federal statistical office,,bavaria,code09,,,,organically farmed agricultural land,6.9
 2014,percentage,federal statistical office,,bavaria,code09,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,bavaria,code09,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,bavaria,code09,,,,organically farmed agricultural land,8.3
@@ -66,21 +67,21 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2017,percentage,federal statistical office,,berlin,code11,.,,,organically farmed agricultural land,
 2018,percentage,federal statistical office,,berlin,code11,.,,,organically farmed agricultural land,
 2019,percentage,federal statistical office,,berlin,code11,.,,,organically farmed agricultural land,
-2020,percentage,federal statistical office,,berlin,code11,r,,,organically farmed agricultural land,21.4
+2020,percentage,federal statistical office,,berlin,code11,,,,organically farmed agricultural land,21.4
 2021,percentage,federal statistical office,,berlin,code11,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,berlin,code11,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,berlin,code11,,,,organically farmed agricultural land,33.3
 2010,percentage,federal statistical office,,brandenburg,code12,,,,organically farmed agricultural land,10.6
 2011,percentage,federal statistical office,,brandenburg,code12,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,brandenburg,code12,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,brandenburg,code12,,,,organically farmed agricultural land,10.3
+2013,percentage,federal statistical office,,brandenburg,code12,,,,organically farmed agricultural land,10.5
 2014,percentage,federal statistical office,,brandenburg,code12,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,brandenburg,code12,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,brandenburg,code12,,,,organically farmed agricultural land,10.4
 2017,percentage,federal statistical office,,brandenburg,code12,.,,,organically farmed agricultural land,
 2018,percentage,federal statistical office,,brandenburg,code12,.,,,organically farmed agricultural land,
 2019,percentage,federal statistical office,,brandenburg,code12,.,,,organically farmed agricultural land,
-2020,percentage,federal statistical office,,brandenburg,code12,r,,,organically farmed agricultural land,13.4
+2020,percentage,federal statistical office,,brandenburg,code12,,,,organically farmed agricultural land,13.4
 2021,percentage,federal statistical office,,brandenburg,code12,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,brandenburg,code12,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,brandenburg,code12,,,,organically farmed agricultural land,17.6
@@ -94,7 +95,7 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2017,percentage,federal statistical office,,bremen,code04,.,,,organically farmed agricultural land,
 2018,percentage,federal statistical office,,bremen,code04,.,,,organically farmed agricultural land,
 2019,percentage,federal statistical office,,bremen,code04,.,,,organically farmed agricultural land,
-2020,percentage,federal statistical office,,bremen,code04,r,,,organically farmed agricultural land,22.2
+2020,percentage,federal statistical office,,bremen,code04,,,,organically farmed agricultural land,12.2
 2021,percentage,federal statistical office,,bremen,code04,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,bremen,code04,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,bremen,code04,,,,organically farmed agricultural land,14.8
@@ -108,14 +109,14 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2017,percentage,federal statistical office,,hamburg,code02,.,,,organically farmed agricultural land,
 2018,percentage,federal statistical office,,hamburg,code02,.,,,organically farmed agricultural land,
 2019,percentage,federal statistical office,,hamburg,code02,.,,,organically farmed agricultural land,
-2020,percentage,federal statistical office,,hamburg,code02,r,,,organically farmed agricultural land,7.9
+2020,percentage,federal statistical office,,hamburg,code02,,,,organically farmed agricultural land,7.9
 2021,percentage,federal statistical office,,hamburg,code02,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,hamburg,code02,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,hamburg,code02,,,,organically farmed agricultural land,9.5
-2010,percentage,federal statistical office,,hesse,code06,,,,organically farmed agricultural land,9.4
+2010,percentage,federal statistical office,,hesse,code06,,,,organically farmed agricultural land,9.5
 2011,percentage,federal statistical office,,hesse,code06,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,hesse,code06,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,hesse,code06,,,,organically farmed agricultural land,10.5
+2013,percentage,federal statistical office,,hesse,code06,,,,organically farmed agricultural land,10.6
 2014,percentage,federal statistical office,,hesse,code06,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,hesse,code06,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,hesse,code06,,,,organically farmed agricultural land,11.6
@@ -140,10 +141,10 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2021,percentage,federal statistical office,,mecklenburg western pomerania,code13,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,mecklenburg western pomerania,code13,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,mecklenburg western pomerania,code13,,,,organically farmed agricultural land,14.8
-2010,percentage,federal statistical office,,lower saxony,code03,,,,organically farmed agricultural land,2.9
+2010,percentage,federal statistical office,,lower saxony,code03,,,,organically farmed agricultural land,3.0
 2011,percentage,federal statistical office,,lower saxony,code03,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,lower saxony,code03,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,lower saxony,code03,,,,organically farmed agricultural land,2.9
+2013,percentage,federal statistical office,,lower saxony,code03,,,,organically farmed agricultural land,3.1
 2014,percentage,federal statistical office,,lower saxony,code03,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,lower saxony,code03,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,lower saxony,code03,,,,organically farmed agricultural land,3.2
@@ -154,38 +155,38 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2021,percentage,federal statistical office,,lower saxony,code03,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,lower saxony,code03,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,lower saxony,code03,,,,organically farmed agricultural land,5.7
-2010,percentage,federal statistical office,,north rhine-westphalia,code05,,,,organically farmed agricultural land,3.6
+2010,percentage,federal statistical office,,north rhine-westphalia,code05,,,,organically farmed agricultural land,3.7
 2011,percentage,federal statistical office,,north rhine-westphalia,code05,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,north rhine-westphalia,code05,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,north rhine-westphalia,code05,,,,organically farmed agricultural land,4.2
+2013,percentage,federal statistical office,,north rhine-westphalia,code05,,,,organically farmed agricultural land,4.3
 2014,percentage,federal statistical office,,north rhine-westphalia,code05,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,north rhine-westphalia,code05,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,north rhine-westphalia,code05,,,,organically farmed agricultural land,4.2
 2017,percentage,federal statistical office,,north rhine-westphalia,code05,.,,,organically farmed agricultural land,
 2018,percentage,federal statistical office,,north rhine-westphalia,code05,.,,,organically farmed agricultural land,
 2019,percentage,federal statistical office,,north rhine-westphalia,code05,.,,,organically farmed agricultural land,
-2020,percentage,federal statistical office,,north rhine-westphalia,code05,r,,,organically farmed agricultural land,5.6
+2020,percentage,federal statistical office,,north rhine-westphalia,code05,,,,organically farmed agricultural land,5.6
 2021,percentage,federal statistical office,,north rhine-westphalia,code05,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,north rhine-westphalia,code05,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,north rhine-westphalia,code05,,,,organically farmed agricultural land,6.1
-2010,percentage,federal statistical office,,rhineland palatinate,code07,,,,organically farmed agricultural land,5.1
+2010,percentage,federal statistical office,,rhineland palatinate,code07,,,,organically farmed agricultural land,5.4
 2011,percentage,federal statistical office,,rhineland palatinate,code07,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,rhineland palatinate,code07,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,rhineland palatinate,code07,,,,organically farmed agricultural land,6.4
+2013,percentage,federal statistical office,,rhineland palatinate,code07,,,,organically farmed agricultural land,6.7
 2014,percentage,federal statistical office,,rhineland palatinate,code07,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,rhineland palatinate,code07,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,rhineland palatinate,code07,,,,organically farmed agricultural land,8.7
 2017,percentage,federal statistical office,,rhineland palatinate,code07,.,,,organically farmed agricultural land,
 2018,percentage,federal statistical office,,rhineland palatinate,code07,.,,,organically farmed agricultural land,
 2019,percentage,federal statistical office,,rhineland palatinate,code07,.,,,organically farmed agricultural land,
-2020,percentage,federal statistical office,,rhineland palatinate,code07,r,,,organically farmed agricultural land,11.2
+2020,percentage,federal statistical office,,rhineland palatinate,code07,,,,organically farmed agricultural land,11.2
 2021,percentage,federal statistical office,,rhineland palatinate,code07,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,rhineland palatinate,code07,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,rhineland palatinate,code07,,,,organically farmed agricultural land,12.4
-2010,percentage,federal statistical office,,saarland,code10,,,,organically farmed agricultural land,10.6
+2010,percentage,federal statistical office,,saarland,code10,,,,organically farmed agricultural land,10.9
 2011,percentage,federal statistical office,,saarland,code10,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,saarland,code10,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,saarland,code10,,,,organically farmed agricultural land,11.4
+2013,percentage,federal statistical office,,saarland,code10,,,,organically farmed agricultural land,11.9
 2014,percentage,federal statistical office,,saarland,code10,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,saarland,code10,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,saarland,code10,,,,organically farmed agricultural land,14.9
@@ -196,10 +197,10 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2021,percentage,federal statistical office,,saarland,code10,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,saarland,code10,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,saarland,code10,,,,organically farmed agricultural land,19.4
-2010,percentage,federal statistical office,,saxony,code14,,,,organically farmed agricultural land,3.7
+2010,percentage,federal statistical office,,saxony,code14,,,,organically farmed agricultural land,4.2
 2011,percentage,federal statistical office,,saxony,code14,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,saxony,code14,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,saxony,code14,,,,organically farmed agricultural land,3.8
+2013,percentage,federal statistical office,,saxony,code14,,,,organically farmed agricultural land,3.9
 2014,percentage,federal statistical office,,saxony,code14,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,saxony,code14,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,saxony,code14,,,,organically farmed agricultural land,4.6
@@ -213,7 +214,7 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2010,percentage,federal statistical office,,saxony-anhalt,code15,,,,organically farmed agricultural land,4.2
 2011,percentage,federal statistical office,,saxony-anhalt,code15,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,saxony-anhalt,code15,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,saxony-anhalt,code15,,,,organically farmed agricultural land,4.5
+2013,percentage,federal statistical office,,saxony-anhalt,code15,,,,organically farmed agricultural land,4.6
 2014,percentage,federal statistical office,,saxony-anhalt,code15,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,saxony-anhalt,code15,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,saxony-anhalt,code15,,,,organically farmed agricultural land,5.0
@@ -224,10 +225,10 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2021,percentage,federal statistical office,,saxony-anhalt,code15,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,saxony-anhalt,code15,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,saxony-anhalt,code15,,,,organically farmed agricultural land,10.2
-2010,percentage,federal statistical office,,schleswig-holstein,code01,,,,organically farmed agricultural land,3.3
+2010,percentage,federal statistical office,,schleswig-holstein,code01,,,,organically farmed agricultural land,3.5
 2011,percentage,federal statistical office,,schleswig-holstein,code01,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,schleswig-holstein,code01,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,schleswig-holstein,code01,,,,organically farmed agricultural land,3.4
+2013,percentage,federal statistical office,,schleswig-holstein,code01,,,,organically farmed agricultural land,3.6
 2014,percentage,federal statistical office,,schleswig-holstein,code01,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,schleswig-holstein,code01,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,schleswig-holstein,code01,,,,organically farmed agricultural land,4.0
@@ -238,10 +239,10 @@ Year,Units,data source,score,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT
 2021,percentage,federal statistical office,,schleswig-holstein,code01,.,,,organically farmed agricultural land,
 2022,percentage,federal statistical office,,schleswig-holstein,code01,.,,,organically farmed agricultural land,
 2023,percentage,federal statistical office,,schleswig-holstein,code01,,,,organically farmed agricultural land,7.9
-2010,percentage,federal statistical office,,thuringia,code16,,,,organically farmed agricultural land,4.4
+2010,percentage,federal statistical office,,thuringia,code16,,,,organically farmed agricultural land,5.0
 2011,percentage,federal statistical office,,thuringia,code16,.,,,organically farmed agricultural land,
 2012,percentage,federal statistical office,,thuringia,code16,.,,,organically farmed agricultural land,
-2013,percentage,federal statistical office,,thuringia,code16,,,,organically farmed agricultural land,4.4
+2013,percentage,federal statistical office,,thuringia,code16,,,,organically farmed agricultural land,5.1
 2014,percentage,federal statistical office,,thuringia,code16,.,,,organically farmed agricultural land,
 2015,percentage,federal statistical office,,thuringia,code16,.,,,organically farmed agricultural land,
 2016,percentage,federal statistical office,,thuringia,code16,,,,organically farmed agricultural land,4.3
