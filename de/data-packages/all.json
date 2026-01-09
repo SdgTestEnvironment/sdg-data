@@ -7198,6 +7198,7 @@
               "enum": [
                 ".",
                 "s",
+                "p",
                 "r",
                 ""
               ]
@@ -10896,9 +10897,6 @@
                 "Anzahl",
                 "Je 100 000 Einwohner/-innen",
                 "Prozent",
-                "Anzahl",
-                "Je 100 000 Einwohner/-innen",
-                "Prozent",
                 ""
               ]
             },
@@ -13237,8 +13235,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Je 100 000 Einwohner/-innen",
                 "Anzahl",
+                "Je 100 000 Einwohner/-innen",
                 "Prozent",
                 ""
               ]
@@ -13289,10 +13287,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "|",
                 ".",
                 "‒",
-                "r",
                 "0",
                 ""
               ]
@@ -13304,8 +13302,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
                 "r",
+                "|",
                 "0",
                 ""
               ]
@@ -13580,9 +13578,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -14485,8 +14484,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Je 100 000 Einwohner/-innen",
                 "Anzahl",
+                "Je 100 000 Einwohner/-innen",
                 "Prozent",
                 ""
               ]
@@ -14538,9 +14537,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
                 "‒",
                 ".",
+                "|",
                 "0",
                 ""
               ]

@@ -22,9 +22,6 @@
                 "number",
                 "per 100,000 inhabitants",
                 "percentage",
-                "'number '",
-                "'per 100,000 inhabitants '",
-                "'percentage '",
                 ""
               ]
             }
@@ -66,7 +63,7 @@
             "constraints": {
               "enum": [
                 "cases of female genital mutilation recorded by the police",
-                "cases of inpatient treatment due to female genital mutilation personal medical history)",
+                "cases of inpatient treatment due to female genital mutilation (personal medical history)",
                 ""
               ]
             }

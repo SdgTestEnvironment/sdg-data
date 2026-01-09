@@ -14,6 +14,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
 2023,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
 2024,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
+2025,"yes=1, no=0",At least one population and housing census in the last 10 years conducted,,,,1
 2010,Percentage,Birth registration,s,,,100
 2011,Percentage,Birth registration,s,,,100
 2012,Percentage,Birth registration,s,,,100
@@ -29,6 +30,7 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage,Birth registration,s,,,100
 2023,Percentage,Birth registration,s,,,100
 2024,Percentage,Birth registration,s,,,100
+2025,Percentage,Birth registration,s,,,100
 2010,Percentage,Death registration,s,,,100
 2011,Percentage,Death registration,s,,,100
 2012,Percentage,Death registration,s,,,100
@@ -44,3 +46,4 @@ Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage,Death registration,s,,,100
 2023,Percentage,Death registration,s,,,100
 2024,Percentage,Death registration,s,,,100
+2025,Percentage,Death registration,s,,,100

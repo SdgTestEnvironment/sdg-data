@@ -7198,6 +7198,7 @@
               "enum": [
                 ".",
                 "s",
+                "p",
                 "r",
                 ""
               ]
@@ -10896,9 +10897,6 @@
                 "Number",
                 "Per 100,000 inhabitants",
                 "Percentage",
-                "'Number '",
-                "'Per 100,000 inhabitants '",
-                "'Percentage '",
                 ""
               ]
             },
@@ -10944,7 +10942,7 @@
             "constraints": {
               "enum": [
                 "Cases of female genital mutilation recorded by the police",
-                "Cases of inpatient treatment due to female genital mutilation personal medical history)",
+                "Cases of inpatient treatment due to female genital mutilation (personal medical history)",
                 ""
               ]
             },
@@ -13237,8 +13235,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 inhabitants",
                 "Number",
+                "Per 100,000 inhabitants",
                 "Percentage",
                 ""
               ]
@@ -13289,10 +13287,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "|",
                 ".",
                 "‒",
-                "r",
                 "0",
                 ""
               ]
@@ -13304,8 +13302,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
                 "r",
+                "|",
                 "0",
                 ""
               ]
@@ -13580,9 +13578,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -14485,8 +14484,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 inhabitants",
                 "Number",
+                "Per 100,000 inhabitants",
                 "Percentage",
                 ""
               ]
@@ -14538,9 +14537,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
                 "‒",
                 ".",
+                "|",
                 "0",
                 ""
               ]
