@@ -5353,7 +5353,7 @@
             }
           },
           {
-            "name": "fields of work",
+            "name": "field of work",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8597,8 +8597,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
+                "p",
                 ""
               ]
             }
@@ -9950,6 +9950,9 @@
                 "number",
                 "per 100,000 inhabitants",
                 "percentage",
+                "'number '",
+                "'per 100,000 inhabitants '",
+                "'percentage '",
                 ""
               ]
             }
@@ -15131,10 +15134,37 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "land cover class",
+            "type": "string",
             "constraints": {
               "enum": [
+                "croplands",
+                "grasslands",
+                "tree-covered areas",
+                "shrub-covered areas",
+                "shrubs and/or herbaceous vegetation, aquatic or regularly flooded",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "bioclimatic belt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "nival",
+                "alpine",
+                "montane",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "‒",
                 ""
               ]
             }

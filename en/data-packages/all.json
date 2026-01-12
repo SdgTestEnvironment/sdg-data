@@ -5859,7 +5859,7 @@
             "title": "Time series"
           },
           {
-            "name": "fields of work",
+            "name": "field of work",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5870,7 +5870,7 @@
                 ""
               ]
             },
-            "title": "Fields of work"
+            "title": "Field of work"
           },
           {
             "name": "level of court",
@@ -9412,8 +9412,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
+                "p",
                 ""
               ]
             },
@@ -10894,6 +10894,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Number",
+                "Per 100,000 inhabitants",
+                "Percentage",
                 "Number",
                 "Per 100,000 inhabitants",
                 "Percentage",
@@ -16568,10 +16571,39 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "land cover class",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Croplands",
+                "Grasslands",
+                "Tree-covered areas",
+                "Shrub-covered areas",
+                "Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",
+                ""
+              ]
+            },
+            "title": "Land cover class"
+          },
+          {
+            "name": "bioclimatic belt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nival",
+                "Alpine",
+                "Montane",
+                ""
+              ]
+            },
+            "title": "Bioclimatic belt"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "‒",
                 ""
               ]
             },

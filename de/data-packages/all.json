@@ -5859,7 +5859,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "fields of work",
+            "name": "field of work",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5870,7 +5870,7 @@
                 ""
               ]
             },
-            "title": "Aufgabenbereiche"
+            "title": "Aufgabenbereich"
           },
           {
             "name": "level of court",
@@ -7275,7 +7275,7 @@
                 ""
               ]
             },
-            "title": "Politikbereiche"
+            "title": "Politikbereich"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -9230,7 +9230,7 @@
                 ""
               ]
             },
-            "title": "Standard Gesamtrechnungssystem"
+            "title": "Standardrechnungssystem (der Volkswirtschaftlichen Gesamtrechnungen)"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -9412,8 +9412,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
+                "p",
                 ""
               ]
             },
@@ -10894,6 +10894,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Anzahl",
+                "Je 100 000 Einwohner/-innen",
+                "Prozent",
                 "Anzahl",
                 "Je 100 000 Einwohner/-innen",
                 "Prozent",
@@ -13173,7 +13176,7 @@
                 ""
               ]
             },
-            "title": "Versorgungsleistung"
+            "title": "Art der Versorgungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -16568,10 +16571,39 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "land cover class",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Ackerflächen",
+                "Grasland",
+                "Baumbestandene Flächen",
+                "Mit Sträuchern bewachsene Flächen",
+                "Sträucher und/oder krautige Vegetation, aquatisch oder regelmäßig überflutet",
+                ""
+              ]
+            },
+            "title": "Landbedeckungsklasse"
+          },
+          {
+            "name": "bioclimatic belt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nival",
+                "Alpin",
+                "Montan",
+                ""
+              ]
+            },
+            "title": "Bioklimatischer Gürtel"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "‒",
                 ""
               ]
             },

@@ -16,10 +16,39 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "land cover class",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Ackerflächen",
+                "Grasland",
+                "Baumbestandene Flächen",
+                "Mit Sträuchern bewachsene Flächen",
+                "Sträucher und/oder krautige Vegetation, aquatisch oder regelmäßig überflutet",
+                ""
+              ]
+            },
+            "title": "Landbedeckungsklasse"
+          },
+          {
+            "name": "bioclimatic belt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nival",
+                "Alpin",
+                "Montan",
+                ""
+              ]
+            },
+            "title": "Bioklimatischer Gürtel"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "‒",
                 ""
               ]
             },

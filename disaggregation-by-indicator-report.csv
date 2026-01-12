@@ -49,6 +49,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-1-2,timeseries,1
 #15-2-1,"COMMENT_OBS_0, type of biomass",2
 #15-4-1,timeseries,1
+#15-4-2,"COMMENT_OBS_0, land cover class, bioclimatic belt",3
 #15-7-1,COMMENT_OBS_0,1
 #15-9-1,COMMENT_OBS_0,1
 #15-a-1,"timeseries, COMMENT_OBS_0",2
@@ -69,7 +70,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-5-2,COMMENT_OBS_0,1
 #16-6-1,"COMMENT_OBS_0, sector",2
 #16-6-2,COMMENT_OBS_0,1
-#16-7-1,"timeseries, COMMENT_OBS_0, fields of work, level of court",4
+#16-7-1,"timeseries, COMMENT_OBS_0, field of work, level of court",4
 #16-7-2,"COMMENT_OBS_0, sex",2
 #16-9-1,COMMENT_OBS_0,1
 #16-b-1,COMMENT_OBS_0,1
