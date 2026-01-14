@@ -2191,6 +2191,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "r",
                 ""
               ]
             },
@@ -2791,23 +2792,11 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At least one population and housing census in the last 10 years conducted",
-                "Birth registration",
-                "Death registration",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 "s",
                 ""
               ]
@@ -2833,6 +2822,19 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "At least one population and housing census in the last 10 years conducted",
+                "Birth registration",
+                "Death registration",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -11323,6 +11325,7 @@
                 "Berlin",
                 "Brandenburg",
                 "Bremen",
+                "Hamburg",
                 "Hesse",
                 "Mecklenburg Western Pomerania",
                 "Lower Saxony",
