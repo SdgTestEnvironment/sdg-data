@@ -71,5 +71,5 @@ Year,land cover class,bioclimatic belt,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2
 2015,"shrubs and/or herbaceous vegetation, aquatic or regularly flooded",montane,,,,(a) mountain green cover index,0.213
 2018,"shrubs and/or herbaceous vegetation, aquatic or regularly flooded",montane,,,,(a) mountain green cover index,0.213
 2021,"shrubs and/or herbaceous vegetation, aquatic or regularly flooded",montane,,,,(a) mountain green cover index,0.178
-2015,,,,,,(b) proportion of degraded mountain area,0.05
-2021,,,,,,(b) proportion of degraded mountain area,0.03
+2015,,,,,,(b) degraded mountain area,0.05
+2021,,,,,,(b) degraded mountain area,0.03

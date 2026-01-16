@@ -80,7 +80,7 @@
             "constraints": {
               "enum": [
                 "a) Index der Grünbedeckung in Gebirgen",
-                "b) Anteil der degradierten Gebirgsfläche",
+                "b) Degradierte Gebirgsfläche",
                 ""
               ]
             },

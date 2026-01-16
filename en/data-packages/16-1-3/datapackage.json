@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Physical violence",
-                "b) Psychological violence",
-                "c) Sexual violence",
+                "a) Prevalence rate of physical violence",
+                "b) Prevalence rate of psychological violence",
+                "c) Prevalence rate of sexual violence",
                 ""
               ]
             },

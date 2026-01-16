@@ -80,7 +80,7 @@
             "constraints": {
               "enum": [
                 "(a) Mountain Green Cover Index",
-                "(b) Proportion of degraded mountain area",
+                "(b) Degraded mountain area",
                 ""
               ]
             },

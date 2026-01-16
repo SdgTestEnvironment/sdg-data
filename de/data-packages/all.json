@@ -495,9 +495,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Physische Gewalt",
-                "b) Psychische Gewalt",
-                "c) Sexuelle Gewalt",
+                "a) Prävalenzrate bei physischer Gewalt",
+                "b) Prävalenzrate bei psychischer Gewalt",
+                "c) Prävalenzrate bei sexueller Gewalt",
                 ""
               ]
             },
@@ -2879,8 +2879,8 @@
               "enum": [
                 "Bevölkerung mit Krankenversicherungsschutz",
                 "Arbeitslose Leistungsbezieher",
-                "Anteil der Bevölkerung, der mindestens eine Sozialschutz-Geldleistung bezieht",
-                "Anteil der Menschen mit Behinderungen, die Leistungen erhalten",
+                "Bevölkerung, die mindestens eine Sozialschutz-Geldleistung bezieht",
+                "Menschen mit Behinderungen, die Leistungen erhalten",
                 ""
               ]
             },
@@ -5373,6 +5373,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "|",
                 ""
               ]
@@ -14244,10 +14245,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Länder, die Vertragsparteien des Internationalen Vertrags über PGRFA sind",
-                "2) Länder, die Vertragsparteien des Nagoya-Protokolls sind",
-                "3) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet wurden",
-                "4) Länder, die über rechtliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem ABS Clearing-House gemeldet wurden",
+                "1) Vertragspartei des Internationalen Vertrags über PGRFA",
+                "2) Vertragspartei des Nagoya-Protokolls",
+                "3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
+                "4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",
                 "5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
                 ""
               ]
@@ -16080,24 +16081,10 @@
             "title": "Jahr"
           },
           {
-            "name": "conversion",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nach UN-Faktoren",
-                "Nach nationalen Faktoren",
-                ""
-              ]
-            },
-            "title": "Umrechnung"
-          },
-          {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "p",
                 ""
               ]
             },
@@ -16638,7 +16625,7 @@
             "constraints": {
               "enum": [
                 "a) Index der Grünbedeckung in Gebirgen",
-                "b) Anteil der degradierten Gebirgsfläche",
+                "b) Degradierte Gebirgsfläche",
                 ""
               ]
             },

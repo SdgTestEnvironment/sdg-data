@@ -32,8 +32,8 @@
               "enum": [
                 "population covered by health insurance",
                 "unemployed persons with unemployment benefits",
-                "proportion of population covered by at least one social protection cash benefit",
-                "proportion of persons with disabilities receiving benefits",
+                "population covered by at least one social protection cash benefit",
+                "persons with disabilities receiving benefits",
                 ""
               ]
             }

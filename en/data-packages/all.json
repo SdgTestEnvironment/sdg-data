@@ -495,9 +495,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Physical violence",
-                "b) Psychological violence",
-                "c) Sexual violence",
+                "a) Prevalence rate of physical violence",
+                "b) Prevalence rate of psychological violence",
+                "c) Prevalence rate of sexual violence",
                 ""
               ]
             },
@@ -2879,8 +2879,8 @@
               "enum": [
                 "Population covered by health insurance",
                 "Unemployed persons with unemployment benefits",
-                "Proportion of population covered by at least one social protection cash benefit",
-                "Proportion of persons with disabilities receiving benefits",
+                "Population covered by at least one social protection cash benefit",
+                "Persons with disabilities receiving benefits",
                 ""
               ]
             },
@@ -5373,6 +5373,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "|",
                 ""
               ]
@@ -14244,10 +14245,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Countries that are contracting Parties to the International Treaty on PGRFA",
-                "2) Countries that are parties to the Nagoya Protocol",
-                "3) Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance of the International Treaty on PGRFA",
-                "4) Countries that have legislative, administrative and policy framework or measures reported to the ABS Clearing-House",
+                "1) Contracting party to the International Treaty on PGRFA",
+                "2) Contracting party to the Nagoya Protocol",
+                "3) Existence of legislative, administrative and policy frameworks or measures reported through the Online Reporting System on Compliance with the International Treaty on PGRFA",
+                "4) Existence of legislative, administrative and policy framework or measures reported to the ABS Clearing-House",
                 "5) Total reported number of SMTAs transferring PGRFA to Germany",
                 ""
               ]
@@ -16080,24 +16081,10 @@
             "title": "Year"
           },
           {
-            "name": "conversion",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "By UN factors",
-                "By national factors",
-                ""
-              ]
-            },
-            "title": "Conversion"
-          },
-          {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "p",
                 ""
               ]
             },
@@ -16638,7 +16625,7 @@
             "constraints": {
               "enum": [
                 "(a) Mountain Green Cover Index",
-                "(b) Proportion of degraded mountain area",
+                "(b) Degraded mountain area",
                 ""
               ]
             },

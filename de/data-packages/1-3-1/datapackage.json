@@ -34,8 +34,8 @@
               "enum": [
                 "Bevölkerung mit Krankenversicherungsschutz",
                 "Arbeitslose Leistungsbezieher",
-                "Anteil der Bevölkerung, der mindestens eine Sozialschutz-Geldleistung bezieht",
-                "Anteil der Menschen mit Behinderungen, die Leistungen erhalten",
+                "Bevölkerung, die mindestens eine Sozialschutz-Geldleistung bezieht",
+                "Menschen mit Behinderungen, die Leistungen erhalten",
                 ""
               ]
             },
