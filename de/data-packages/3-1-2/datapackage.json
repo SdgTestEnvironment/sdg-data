@@ -16,18 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Entbindungen in Krankenhäusern",
-                "Lebendgeborene insgesamt",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {
@@ -59,7 +47,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

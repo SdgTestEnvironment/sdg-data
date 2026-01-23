@@ -18,18 +18,6 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Entbindungen in Krankenhäusern",
-                "Lebendgeborene insgesamt",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {
@@ -61,7 +49,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -1251,6 +1239,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "r",
                 ""
               ]
             },
@@ -5167,7 +5156,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 bis unter 75 Jahre",
                 "16 bis unter 25 Jahre",
                 "25 bis unter 65 Jahre",
                 ""
@@ -7621,6 +7609,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
+                "Je 100 000 Einwohner/-innen",
                 "Prozent",
                 ""
               ]
@@ -8814,6 +8803,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
+                "Je 100 000 Einwohner/-innen",
                 "Prozent",
                 ""
               ]

@@ -17,17 +17,6 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "child deliveries in hospitals",
-                "live births in total",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {
@@ -56,7 +45,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -1143,6 +1132,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "r",
                 ""
               ]
             }
@@ -4721,7 +4711,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to under 75 years",
                 "16 to under 25 years",
                 "25 to under 65 years",
                 ""
@@ -6963,6 +6952,7 @@
             "constraints": {
               "enum": [
                 "number",
+                "per 100,000 inhabitants",
                 "percentage",
                 ""
               ]
@@ -8052,6 +8042,7 @@
             "constraints": {
               "enum": [
                 "number",
+                "per 100,000 inhabitants",
                 "percentage",
                 ""
               ]
