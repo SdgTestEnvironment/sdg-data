@@ -4021,9 +4021,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -7597,7 +7598,7 @@
             "constraints": {
               "enum": [
                 "Number",
-                "Per 100,000 inhabitants",
+                "Per 100,000 female inhabitants",
                 "Percentage",
                 ""
               ]
@@ -8791,7 +8792,7 @@
             "constraints": {
               "enum": [
                 "Number",
-                "Per 100,000 inhabitants",
+                "Per 100,000 female inhabitants",
                 "Percentage",
                 ""
               ]
@@ -10887,10 +10888,9 @@
             "constraints": {
               "enum": [
                 "Number",
-                "Per 100,000 inhabitants",
+                "Per 100,000 female inhabitants",
                 "Percentage",
                 "Number",
-                "Per 100,000 inhabitants",
                 "Percentage",
                 ""
               ]
@@ -11649,7 +11649,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Output of the environmental goods and services sector (EGSS)",
+                "Total output of the environmental goods and services sector (EGSS)",
                 "Gross fixed capital formation on environmental protection",
                 ""
               ]
@@ -12076,7 +12076,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -12111,9 +12111,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -12190,9 +12191,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -16571,7 +16573,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "‒",
+                "0.0",
                 ""
               ]
             },

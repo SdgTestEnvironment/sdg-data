@@ -64,7 +64,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Output of the environmental goods and services sector (EGSS)",
+                "Total output of the environmental goods and services sector (EGSS)",
                 "Gross fixed capital formation on environmental protection",
                 ""
               ]

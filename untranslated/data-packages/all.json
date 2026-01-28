@@ -3641,7 +3641,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -3673,9 +3673,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             }
@@ -6941,7 +6942,7 @@
             "constraints": {
               "enum": [
                 "number",
-                "per 100,000 inhabitants",
+                "per 100,000 female inhabitants",
                 "percentage",
                 ""
               ]
@@ -8031,7 +8032,7 @@
             "constraints": {
               "enum": [
                 "number",
-                "per 100,000 inhabitants",
+                "per 100,000 female inhabitants",
                 "percentage",
                 ""
               ]
@@ -9941,10 +9942,9 @@
             "constraints": {
               "enum": [
                 "number",
-                "per 100,000 inhabitants",
+                "per 100,000 female inhabitants",
                 "percentage",
                 "'number '",
-                "'per 100,000 inhabitants '",
                 "'percentage '",
                 ""
               ]
@@ -10639,7 +10639,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "output of the environmental goods and services sector (egss)",
+                "total output of the environmental goods and services sector (egss)",
                 "gross fixed capital formation on environmental protection",
                 ""
               ]
@@ -11028,7 +11028,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -11060,9 +11060,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             }
@@ -11100,7 +11101,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -11132,9 +11133,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             }
@@ -15135,7 +15137,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "‒",
+                "0.0",
                 ""
               ]
             }

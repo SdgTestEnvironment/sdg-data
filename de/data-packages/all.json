@@ -4021,9 +4021,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -7597,7 +7598,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
-                "Je 100 000 Einwohner/-innen",
+                "Je 100 000 Einwohnerinnen",
                 "Prozent",
                 ""
               ]
@@ -8791,7 +8792,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
-                "Je 100 000 Einwohner/-innen",
+                "Je 100 000 Einwohnerinnen",
                 "Prozent",
                 ""
               ]
@@ -10887,10 +10888,9 @@
             "constraints": {
               "enum": [
                 "Anzahl",
-                "Je 100 000 Einwohner/-innen",
+                "Je 100 000 Einwohnerinnen",
                 "Prozent",
                 "Anzahl",
-                "Je 100 000 Einwohner/-innen",
                 "Prozent",
                 ""
               ]
@@ -12111,9 +12111,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -12190,9 +12191,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -16571,7 +16573,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "‒",
+                "0.0",
                 ""
               ]
             },
