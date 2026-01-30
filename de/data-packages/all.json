@@ -13287,7 +13287,6 @@
               "enum": [
                 "r",
                 "|",
-                ".",
                 "‒",
                 "0",
                 ""
@@ -16545,11 +16544,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ackerflächen",
-                "Grasland",
-                "Baumbestandene Flächen",
-                "Mit Sträuchern bewachsene Flächen",
-                "Sträucher und/oder krautige Vegetation, aquatisch oder regelmäßig überflutet",
+                "Acker- und Kulturflächen",
+                "Grünland",
+                "Baumbesetzte Flächen",
+                "Flächen mit Büschen und Sträuchern",
+                "Krautige Vegetation und Feuchtgebiete",
                 ""
               ]
             },
