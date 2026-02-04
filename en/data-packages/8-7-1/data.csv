@@ -144,7 +144,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,"Per 100,000 inhabitants",13 years and younger,,,,,
 2018,"Per 100,000 inhabitants",13 years and younger,,,,,0.2
 2019,"Per 100,000 inhabitants",13 years and younger,,,,,0.1
-2020,"Per 100,000 inhabitants",13 years and younger,,,,,0.6
+2020,"Per 100,000 inhabitants",13 years and younger,,,,,0.3
 2021,"Per 100,000 inhabitants",13 years and younger,,,,,0.3
 2022,"Per 100,000 inhabitants",13 years and younger,,,,,0.2
 2023,"Per 100,000 inhabitants",13 years and younger,,,,,0.1
@@ -172,7 +172,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2015,"Per 100,000 inhabitants",13 years and younger,Male,,,,
 2016,"Per 100,000 inhabitants",13 years and younger,Male,,,,
 2017,"Per 100,000 inhabitants",13 years and younger,Male,,,,
-2018,"Per 100,000 inhabitants",13 years and younger,Male,,,,
+2018,"Per 100,000 inhabitants",13 years and younger,Male,,,,0.2
 2019,"Per 100,000 inhabitants",13 years and younger,Male,,,,0.1
 2020,"Per 100,000 inhabitants",13 years and younger,Male,,,,0.4
 2021,"Per 100,000 inhabitants",13 years and younger,Male,,,,0.3
@@ -234,7 +234,7 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,"Per 100,000 inhabitants",,,,,,
 2018,"Per 100,000 inhabitants",,,,,,3.8
 2019,"Per 100,000 inhabitants",,,,,,3.1
-2020,"Per 100,000 inhabitants",,,,,,3.4
+2020,"Per 100,000 inhabitants",,,,,,3.1
 2021,"Per 100,000 inhabitants",,,,,,3.1
 2022,"Per 100,000 inhabitants",,,,,,3.0
 2023,"Per 100,000 inhabitants",,,,,,2.3
@@ -399,8 +399,8 @@ Year,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,Percentage,,Male,,,,0.001
 2018,Percentage,,Male,0,,,0.0
 2019,Percentage,,Male,0,,,0.0
-2020,Percentage,,Male,0,,,0.0
-2021,Percentage,,Male,0,,,0.0
+2020,Percentage,,Male,,,,0.001
+2021,Percentage,,Male,,,,0.001
 2022,Percentage,,Male,0,,,0.0
 2023,Percentage,,Male,0,,,0.0
 2024,Percentage,,Male,0,,,0.0

@@ -144,7 +144,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,
 2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
 2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.1
-2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.6
+2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.3
 2021,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.3
 2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
 2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.1
@@ -172,7 +172,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,
 2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,
 2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,
-2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,
+2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.2
 2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.1
 2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.4
 2021,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.3
@@ -234,7 +234,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2017,Je 100 000 Einwohner/-innen,,,,,,
 2018,Je 100 000 Einwohner/-innen,,,,,,3.8
 2019,Je 100 000 Einwohner/-innen,,,,,,3.1
-2020,Je 100 000 Einwohner/-innen,,,,,,3.4
+2020,Je 100 000 Einwohner/-innen,,,,,,3.1
 2021,Je 100 000 Einwohner/-innen,,,,,,3.1
 2022,Je 100 000 Einwohner/-innen,,,,,,3.0
 2023,Je 100 000 Einwohner/-innen,,,,,,2.3
@@ -399,8 +399,8 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2017,Prozent,,Männlich,,,,0.001
 2018,Prozent,,Männlich,0,,,0.0
 2019,Prozent,,Männlich,0,,,0.0
-2020,Prozent,,Männlich,0,,,0.0
-2021,Prozent,,Männlich,0,,,0.0
+2020,Prozent,,Männlich,,,,0.001
+2021,Prozent,,Männlich,,,,0.001
 2022,Prozent,,Männlich,0,,,0.0
 2023,Prozent,,Männlich,0,,,0.0
 2024,Prozent,,Männlich,0,,,0.0
