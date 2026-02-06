@@ -1,42 +1,42 @@
 Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2022,,,,,total output of the environmental goods and services sector (egss),286978.155
-2023,,p,,,total output of the environmental goods and services sector (egss),284514.935
-2010,,,,,gross fixed capital formation on environmental protection,10279
-2011,,,,,gross fixed capital formation on environmental protection,11415
-2012,,,,,gross fixed capital formation on environmental protection,11701
-2013,,,,,gross fixed capital formation on environmental protection,11331
-2014,,r,,,gross fixed capital formation on environmental protection,12659
-2015,,,,,gross fixed capital formation on environmental protection,12117
-2016,,,,,gross fixed capital formation on environmental protection,12824
-2017,,,,,gross fixed capital formation on environmental protection,13263
-2018,,,,,gross fixed capital formation on environmental protection,14747
-2019,,,,,gross fixed capital formation on environmental protection,15577
-2020,,,,,gross fixed capital formation on environmental protection,16070
-2021,,,,,gross fixed capital formation on environmental protection,14209
-2022,,p,,,gross fixed capital formation on environmental protection,15929
-2010,general government,,,,gross fixed capital formation on environmental protection,2726
-2011,general government,,,,gross fixed capital formation on environmental protection,3434
-2012,general government,,,,gross fixed capital formation on environmental protection,3716
-2013,general government,,,,gross fixed capital formation on environmental protection,3708
-2014,general government,r,,,gross fixed capital formation on environmental protection,4271
-2015,general government,,,,gross fixed capital formation on environmental protection,4051
-2016,general government,,,,gross fixed capital formation on environmental protection,4594
-2017,general government,,,,gross fixed capital formation on environmental protection,4245
-2018,general government,,,,gross fixed capital formation on environmental protection,4625
-2019,general government,,,,gross fixed capital formation on environmental protection,4979
-2020,general government,,,,gross fixed capital formation on environmental protection,5028
-2021,general government,,,,gross fixed capital formation on environmental protection,3589
-2022,general government,p,,,gross fixed capital formation on environmental protection,3902
-2010,corporations,,,,gross fixed capital formation on environmental protection,7553
-2011,corporations,,,,gross fixed capital formation on environmental protection,7981
-2012,corporations,,,,gross fixed capital formation on environmental protection,7985
-2013,corporations,,,,gross fixed capital formation on environmental protection,7623
-2014,corporations,,,,gross fixed capital formation on environmental protection,8388
-2015,corporations,,,,gross fixed capital formation on environmental protection,8066
-2016,corporations,,,,gross fixed capital formation on environmental protection,8230
-2017,corporations,,,,gross fixed capital formation on environmental protection,9018
-2018,corporations,,,,gross fixed capital formation on environmental protection,10123
-2019,corporations,,,,gross fixed capital formation on environmental protection,10598
-2020,corporations,,,,gross fixed capital formation on environmental protection,11042
-2021,corporations,,,,gross fixed capital formation on environmental protection,10620
-2022,corporations,p,,,gross fixed capital formation on environmental protection,12026
+2022,,,,,output of the environmental goods and services sector (egss),286978.155
+2023,,p,,,output of the environmental goods and services sector (egss),284514.935
+2010,,,,,gross fixed capital formation for environmental protection activities,10279
+2011,,,,,gross fixed capital formation for environmental protection activities,11415
+2012,,,,,gross fixed capital formation for environmental protection activities,11701
+2013,,,,,gross fixed capital formation for environmental protection activities,11331
+2014,,r,,,gross fixed capital formation for environmental protection activities,12659
+2015,,,,,gross fixed capital formation for environmental protection activities,12117
+2016,,,,,gross fixed capital formation for environmental protection activities,12824
+2017,,,,,gross fixed capital formation for environmental protection activities,13263
+2018,,,,,gross fixed capital formation for environmental protection activities,14747
+2019,,,,,gross fixed capital formation for environmental protection activities,15577
+2020,,,,,gross fixed capital formation for environmental protection activities,16070
+2021,,,,,gross fixed capital formation for environmental protection activities,14209
+2022,,p,,,gross fixed capital formation for environmental protection activities,15929
+2010,general government,,,,gross fixed capital formation for environmental protection activities,2726
+2011,general government,,,,gross fixed capital formation for environmental protection activities,3434
+2012,general government,,,,gross fixed capital formation for environmental protection activities,3716
+2013,general government,,,,gross fixed capital formation for environmental protection activities,3708
+2014,general government,r,,,gross fixed capital formation for environmental protection activities,4271
+2015,general government,,,,gross fixed capital formation for environmental protection activities,4051
+2016,general government,,,,gross fixed capital formation for environmental protection activities,4594
+2017,general government,,,,gross fixed capital formation for environmental protection activities,4245
+2018,general government,,,,gross fixed capital formation for environmental protection activities,4625
+2019,general government,,,,gross fixed capital formation for environmental protection activities,4979
+2020,general government,,,,gross fixed capital formation for environmental protection activities,5028
+2021,general government,,,,gross fixed capital formation for environmental protection activities,3589
+2022,general government,p,,,gross fixed capital formation for environmental protection activities,3902
+2010,corporations,,,,gross fixed capital formation for environmental protection activities,7553
+2011,corporations,,,,gross fixed capital formation for environmental protection activities,7981
+2012,corporations,,,,gross fixed capital formation for environmental protection activities,7985
+2013,corporations,,,,gross fixed capital formation for environmental protection activities,7623
+2014,corporations,,,,gross fixed capital formation for environmental protection activities,8388
+2015,corporations,,,,gross fixed capital formation for environmental protection activities,8066
+2016,corporations,,,,gross fixed capital formation for environmental protection activities,8230
+2017,corporations,,,,gross fixed capital formation for environmental protection activities,9018
+2018,corporations,,,,gross fixed capital formation for environmental protection activities,10123
+2019,corporations,,,,gross fixed capital formation for environmental protection activities,10598
+2020,corporations,,,,gross fixed capital formation for environmental protection activities,11042
+2021,corporations,,,,gross fixed capital formation for environmental protection activities,10620
+2022,corporations,p,,,gross fixed capital formation for environmental protection activities,12026
