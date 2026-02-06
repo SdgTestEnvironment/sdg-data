@@ -134,14 +134,14 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Anzahl,,Männlich,,,,21.0
 2023,Anzahl,,Männlich,,,,11.0
 2024,Anzahl,,Männlich,,,,21.0
-2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,
-2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,
-2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,
-2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,|,,,
-2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,
-2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,
-2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,
-2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,|,,,
+2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.1
+2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.3
+2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
+2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,|,,,0.2
+2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
+2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
+2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.4
+2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,|,,,0.7
 2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
 2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.1
 2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.3
@@ -149,14 +149,14 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.2
 2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,0.1
 2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,|,,,0.2
-2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,
-2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,
-2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,
-2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,|,,,
-2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,
-2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,
-2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,
-2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,|,,,
+2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,0,,,0.0
+2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.3
+2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
+2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,|,,,0.1
+2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
+2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.1
+2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.3
+2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,|,,,0.3
 2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
 2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
 2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
@@ -164,14 +164,14 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.2
 2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,0.1
 2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,|,,,0.2
-2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,
-2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,
-2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,
-2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,|,,,
-2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,
-2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,
-2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,
-2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,|,,,
+2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.2
+2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.3
+2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.2
+2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,|,,,0.2
+2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.3
+2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.2
+2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.4
+2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,|,,,1.0
 2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.2
 2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.1
 2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.4
@@ -179,14 +179,14 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.1
 2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,0.1
 2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,|,,,0.1
-2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,
-2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,
-2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,
-2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,|,,,
-2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,
-2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,
-2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,
-2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,|,,,
+2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,3.3
+2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,3.0
+2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,3.0
+2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,|,,,2.9
+2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.4
+2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.7
+2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,3.5
+2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,|,,,1.7
 2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,3.6
 2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.9
 2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.8
@@ -194,14 +194,14 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.9
 2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,2.2
 2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,|,,,2.3
-2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,
-2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,
-2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,
-2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,|,,,
-2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,
-2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,
-2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,
-2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,|,,,
+2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,6.2
+2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,5.3
+2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,4.3
+2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,|,,,5.1
+2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,4.2
+2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,5.1
+2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,6.5
+2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,|,,,3.2
 2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,6.4
 2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,5.0
 2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,4.2
@@ -209,14 +209,14 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,4.9
 2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,4.1
 2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,|,,,3.7
-2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,
-2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,
-2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,
-2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,|,,,
-2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,
-2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,
-2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,
-2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,|,,,
+2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.7
+2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.8
+2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.4
+2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,|,,,0.8
+2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.6
+2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.4
+2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.7
+2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,|,,,0.2
 2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,1.0
 2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,1.0
 2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,1.5
@@ -224,14 +224,14 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.9
 2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,0.4
 2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,|,,,0.9
-2010,Je 100 000 Einwohner/-innen,,,,,,
-2011,Je 100 000 Einwohner/-innen,,,,,,
-2012,Je 100 000 Einwohner/-innen,,,,,,
-2013,Je 100 000 Einwohner/-innen,,,|,,,
-2014,Je 100 000 Einwohner/-innen,,,,,,
-2015,Je 100 000 Einwohner/-innen,,,,,,
-2016,Je 100 000 Einwohner/-innen,,,,,,
-2017,Je 100 000 Einwohner/-innen,,,|,,,
+2010,Je 100 000 Einwohner/-innen,,,,,,3.4
+2011,Je 100 000 Einwohner/-innen,,,,,,3.3
+2012,Je 100 000 Einwohner/-innen,,,,,,3.2
+2013,Je 100 000 Einwohner/-innen,,,|,,,3.1
+2014,Je 100 000 Einwohner/-innen,,,,,,2.6
+2015,Je 100 000 Einwohner/-innen,,,,,,2.9
+2016,Je 100 000 Einwohner/-innen,,,,,,3.8
+2017,Je 100 000 Einwohner/-innen,,,|,,,2.3
 2018,Je 100 000 Einwohner/-innen,,,,,,3.8
 2019,Je 100 000 Einwohner/-innen,,,,,,3.1
 2020,Je 100 000 Einwohner/-innen,,,,,,3.1
@@ -239,14 +239,14 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Je 100 000 Einwohner/-innen,,,,,,3.0
 2023,Je 100 000 Einwohner/-innen,,,,,,2.3
 2024,Je 100 000 Einwohner/-innen,,,|,,,2.4
-2010,Je 100 000 Einwohner/-innen,,Weiblich,,,,
-2011,Je 100 000 Einwohner/-innen,,Weiblich,,,,
-2012,Je 100 000 Einwohner/-innen,,Weiblich,,,,
-2013,Je 100 000 Einwohner/-innen,,Weiblich,|,,,
-2014,Je 100 000 Einwohner/-innen,,Weiblich,,,,
-2015,Je 100 000 Einwohner/-innen,,Weiblich,,,,
-2016,Je 100 000 Einwohner/-innen,,Weiblich,,,,
-2017,Je 100 000 Einwohner/-innen,,Weiblich,|,,,
+2010,Je 100 000 Einwohner/-innen,,Weiblich,,,,6.2
+2011,Je 100 000 Einwohner/-innen,,Weiblich,,,,5.5
+2012,Je 100 000 Einwohner/-innen,,Weiblich,,,,4.5
+2013,Je 100 000 Einwohner/-innen,,Weiblich,|,,,5.2
+2014,Je 100 000 Einwohner/-innen,,Weiblich,,,,4.4
+2015,Je 100 000 Einwohner/-innen,,Weiblich,,,,5.3
+2016,Je 100 000 Einwohner/-innen,,Weiblich,,,,6.8
+2017,Je 100 000 Einwohner/-innen,,Weiblich,|,,,3.5
 2018,Je 100 000 Einwohner/-innen,,Weiblich,,,,6.6
 2019,Je 100 000 Einwohner/-innen,,Weiblich,,,,5.2
 2020,Je 100 000 Einwohner/-innen,,Weiblich,,,,4.4
@@ -254,14 +254,14 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2022,Je 100 000 Einwohner/-innen,,Weiblich,,,,5.2
 2023,Je 100 000 Einwohner/-innen,,Weiblich,,,,4.2
 2024,Je 100 000 Einwohner/-innen,,Weiblich,|,,,3.9
-2010,Je 100 000 Einwohner/-innen,,Männlich,,,,
-2011,Je 100 000 Einwohner/-innen,,Männlich,,,,
-2012,Je 100 000 Einwohner/-innen,,Männlich,,,,
-2013,Je 100 000 Einwohner/-innen,,Männlich,|,,,
-2014,Je 100 000 Einwohner/-innen,,Männlich,,,,
-2015,Je 100 000 Einwohner/-innen,,Männlich,,,,
-2016,Je 100 000 Einwohner/-innen,,Männlich,,,,
-2017,Je 100 000 Einwohner/-innen,,Männlich,|,,,
+2010,Je 100 000 Einwohner/-innen,,Männlich,,,,0.8
+2011,Je 100 000 Einwohner/-innen,,Männlich,,,,1.1
+2012,Je 100 000 Einwohner/-innen,,Männlich,,,,0.5
+2013,Je 100 000 Einwohner/-innen,,Männlich,|,,,1.0
+2014,Je 100 000 Einwohner/-innen,,Männlich,,,,0.9
+2015,Je 100 000 Einwohner/-innen,,Männlich,,,,0.7
+2016,Je 100 000 Einwohner/-innen,,Männlich,,,,1.1
+2017,Je 100 000 Einwohner/-innen,,Männlich,|,,,1.2
 2018,Je 100 000 Einwohner/-innen,,Männlich,,,,1.2
 2019,Je 100 000 Einwohner/-innen,,Männlich,,,,1.1
 2020,Je 100 000 Einwohner/-innen,,Männlich,,,,1.9
