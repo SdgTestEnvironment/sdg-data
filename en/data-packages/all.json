@@ -2838,32 +2838,6 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                "Number",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population covered by health insurance",
-                "Unemployed persons with unemployment benefits",
-                "population covered by at least one social protection cash benefit",
-                "persons with disabilities receiving benefits",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -2907,26 +2881,10 @@
             "title": "GeoCode"
           },
           {
-            "name": "type of assistance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Medical rehabilitation",
-                "Participation in working life",
-                "Participation in education",
-                "Sozial participation",
-                "Other",
-                ""
-              ]
-            },
-            "title": "Type of assistance"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "…",
                 ""
               ]

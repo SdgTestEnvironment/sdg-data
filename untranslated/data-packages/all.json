@@ -2592,30 +2592,6 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage",
-                "number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "population covered by health insurance",
-                "unemployed persons with unemployment benefits",
-                "population covered by at least one social protection cash benefit",
-                "persons with disabilities receiving benefits",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -2656,25 +2632,10 @@
             "type": "string"
           },
           {
-            "name": "type of assistance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "medical rehabilitation",
-                "participation in working life",
-                "participation in education",
-                "sozial participation",
-                "other",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "…",
                 ""
               ]
