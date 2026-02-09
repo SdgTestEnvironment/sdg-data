@@ -2838,7 +2838,7 @@
             "title": "Year"
           },
           {
-            "name": "age group",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2847,7 +2847,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Sex"
           },
           {
             "name": "länder",

@@ -2592,7 +2592,7 @@
             "type": "integer"
           },
           {
-            "name": "age group",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
