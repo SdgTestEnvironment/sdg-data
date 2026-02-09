@@ -2856,8 +2856,8 @@
               "enum": [
                 "Population covered by health insurance",
                 "Unemployed persons with unemployment benefits",
-                "Population covered by at least one social protection cash benefit",
-                "Persons with disabilities receiving benefits",
+                "population covered by at least one social protection cash benefit",
+                "persons with disabilities receiving benefits",
                 ""
               ]
             },
@@ -11649,8 +11649,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "output of the environmental goods and services sector (egss)",
-                "gross fixed capital formation for environmental protection activities",
+                "Output of the environmental goods and services sector (EGSS)",
+                "Gross fixed capital formation for environmental protection activities",
                 ""
               ]
             },

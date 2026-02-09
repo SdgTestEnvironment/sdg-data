@@ -64,8 +64,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "output of the environmental goods and services sector (egss)",
-                "gross fixed capital formation for environmental protection activities",
+                "Produktionswert des Sektors Umweltgüter und Umweltdienstleistungen (EGSS)",
+                "Bruttoanlageinvestitionen für Umweltschutzaktivitäten",
                 ""
               ]
             },

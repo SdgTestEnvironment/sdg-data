@@ -2856,8 +2856,8 @@
               "enum": [
                 "Bevölkerung mit Krankenversicherungsschutz",
                 "Arbeitslose Leistungsbezieher",
-                "Bevölkerung, die mindestens eine Sozialschutz-Geldleistung bezieht",
-                "Menschen mit Behinderungen, die Leistungen erhalten",
+                "population covered by at least one social protection cash benefit",
+                "persons with disabilities receiving benefits",
                 ""
               ]
             },
@@ -11649,8 +11649,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "output of the environmental goods and services sector (egss)",
-                "gross fixed capital formation for environmental protection activities",
+                "Produktionswert des Sektors Umweltgüter und Umweltdienstleistungen (EGSS)",
+                "Bruttoanlageinvestitionen für Umweltschutzaktivitäten",
                 ""
               ]
             },
@@ -16566,7 +16566,7 @@
                 ""
               ]
             },
-            "title": "Bioklimatischer Gürtel"
+            "title": "Bioklimatische Zone"
           },
           {
             "name": "COMMENT_OBS_0",
