@@ -2633,10 +2633,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "…",
                 ""
               ]
             }
