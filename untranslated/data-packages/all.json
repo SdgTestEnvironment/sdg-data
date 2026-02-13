@@ -6461,6 +6461,17 @@
             }
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -6477,17 +6488,6 @@
             }
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "type of physical violence",
             "type": "string",
             "constraints": {
@@ -6499,11 +6499,25 @@
             }
           },
           {
+            "name": "type of psycological violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "personal offense on the internet",
+                "threat of violence offline",
+                "threat of violence online",
+                ""
+              ]
+            }
+          },
+          {
             "name": "type of sexual violence",
             "type": "string",
             "constraints": {
               "enum": [
+                "exposure of genitals",
                 "physical sexual assault",
+                "sexual abuse or rape",
                 ""
               ]
             }

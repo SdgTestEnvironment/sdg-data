@@ -1,7 +1,8 @@
 From,To
-type of violence,Age group
-type of violence,Sex
-type of violence,Type of physical violence
-type of violence,Type of sexual violence
-type of violence,COMMENT_OBS_0
+Type of violence,Sex
+Type of violence,Age group
+Type of violence,Type of physical violence
+Type of violence,Type of psycological violence
+Type of violence,Type of sexual violence
+Type of violence,COMMENT_OBS_0
 COMMENT_OBS_0,COMMENT_OBS_1

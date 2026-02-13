@@ -7064,13 +7064,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) physical violence",
-                "b) psychological violence",
-                "c) sexual violence",
+                "a) Physical violence",
+                "b) Psychological violence",
+                "c) Sexual violence",
                 ""
               ]
             },
-            "title": "type of violence"
+            "title": "Type of violence"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "age group",
@@ -7090,18 +7102,6 @@
             "title": "Age group"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "type of physical violence",
             "type": "string",
             "constraints": {
@@ -7114,11 +7114,26 @@
             "title": "Type of physical violence"
           },
           {
+            "name": "type of psycological violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Personal offense on the Internet",
+                "Threat of violence offline",
+                "Threat of violence online",
+                ""
+              ]
+            },
+            "title": "Type of psycological violence"
+          },
+          {
             "name": "type of sexual violence",
             "type": "string",
             "constraints": {
               "enum": [
+                "Exposure of genitals",
                 "Physical sexual assault",
+                "Sexual abuse or rape",
                 ""
               ]
             },

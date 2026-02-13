@@ -7064,13 +7064,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) physical violence",
-                "b) psychological violence",
-                "c) sexual violence",
+                "a) Physische Gewalt",
+                "b) Psychische Gewalt",
+                "c) Sexuelle Gewalt",
                 ""
               ]
             },
-            "title": "type of violence"
+            "title": "Art der Gewalt"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "age group",
@@ -7090,18 +7102,6 @@
             "title": "Altersklasse"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "type of physical violence",
             "type": "string",
             "constraints": {
@@ -7114,11 +7114,26 @@
             "title": "Art der physischen Gewalt"
           },
           {
+            "name": "type of psycological violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persönliche Beleidigung im Internet",
+                "Gewaltandrohung offline",
+                "Gewaltandrohung online",
+                ""
+              ]
+            },
+            "title": "Art der psychischen Gewalt"
+          },
+          {
             "name": "type of sexual violence",
             "type": "string",
             "constraints": {
               "enum": [
+                "Zeigen von Geschlechtsteilen",
                 "Körperliche sexuelle Belästigung",
+                "Sexueller Missbrauch oder Vergewaltigung",
                 ""
               ]
             },
