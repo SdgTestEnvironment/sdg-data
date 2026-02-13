@@ -1,7 +1,7 @@
 From,To
-Zeitreihe,Altersklasse
-Zeitreihe,Geschlecht
-Zeitreihe,Art der physischen Gewalt
-Zeitreihe,Art der sexuellen Gewalt
-Zeitreihe,COMMENT_OBS_0
+type of violence,Altersklasse
+type of violence,Geschlecht
+type of violence,Art der physischen Gewalt
+type of violence,Art der sexuellen Gewalt
+type of violence,COMMENT_OBS_0
 COMMENT_OBS_0,COMMENT_OBS_1

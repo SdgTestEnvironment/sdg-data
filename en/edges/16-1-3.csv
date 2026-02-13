@@ -1,7 +1,7 @@
 From,To
-Time series,Age group
-Time series,Sex
-Time series,Type of physical violence
-Time series,Type of sexual violence
-Time series,COMMENT_OBS_0
+type of violence,Age group
+type of violence,Sex
+type of violence,Type of physical violence
+type of violence,Type of sexual violence
+type of violence,COMMENT_OBS_0
 COMMENT_OBS_0,COMMENT_OBS_1

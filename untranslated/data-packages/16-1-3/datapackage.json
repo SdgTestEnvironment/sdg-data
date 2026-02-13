@@ -15,13 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "type of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) prevalence rate of physical violence",
-                "b) prevalence rate of psychological violence",
-                "c) prevalence rate of sexual violence",
+                "a) physical violence",
+                "b) psychological violence",
+                "c) sexual violence",
                 ""
               ]
             }

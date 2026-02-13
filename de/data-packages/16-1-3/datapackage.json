@@ -16,17 +16,17 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "type of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Prävalenzrate bei physischer Gewalt",
-                "b) Prävalenzrate bei psychischer Gewalt",
-                "c) Prävalenzrate bei sexueller Gewalt",
+                "a) physical violence",
+                "b) psychological violence",
+                "c) sexual violence",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "type of violence"
           },
           {
             "name": "age group",
