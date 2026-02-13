@@ -11,9 +11,10 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2017,,,,,gross fixed capital formation for environmental protection activities,13263
 2018,,,,,gross fixed capital formation for environmental protection activities,14747
 2019,,,,,gross fixed capital formation for environmental protection activities,15577
-2020,,,,,gross fixed capital formation for environmental protection activities,16070
-2021,,,,,gross fixed capital formation for environmental protection activities,14209
-2022,,p,,,gross fixed capital formation for environmental protection activities,15929
+2020,,r,,,gross fixed capital formation for environmental protection activities,15551
+2021,,,,,gross fixed capital formation for environmental protection activities,14210
+2022,,r,,,gross fixed capital formation for environmental protection activities,15376
+2023,,p,,,gross fixed capital formation for environmental protection activities,17119
 2010,general government,,,,gross fixed capital formation for environmental protection activities,2726
 2011,general government,,,,gross fixed capital formation for environmental protection activities,3434
 2012,general government,,,,gross fixed capital formation for environmental protection activities,3716
@@ -24,9 +25,10 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2017,general government,,,,gross fixed capital formation for environmental protection activities,4245
 2018,general government,,,,gross fixed capital formation for environmental protection activities,4625
 2019,general government,,,,gross fixed capital formation for environmental protection activities,4979
-2020,general government,,,,gross fixed capital formation for environmental protection activities,5028
+2020,general government,r,,,gross fixed capital formation for environmental protection activities,5057
 2021,general government,,,,gross fixed capital formation for environmental protection activities,3589
-2022,general government,p,,,gross fixed capital formation for environmental protection activities,3902
+2022,general government,r,,,gross fixed capital formation for environmental protection activities,3361
+2023,general government,p,,,gross fixed capital formation for environmental protection activities,3546
 2010,corporations,,,,gross fixed capital formation for environmental protection activities,7553
 2011,corporations,,,,gross fixed capital formation for environmental protection activities,7981
 2012,corporations,,,,gross fixed capital formation for environmental protection activities,7985
@@ -37,6 +39,7 @@ Year,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2017,corporations,,,,gross fixed capital formation for environmental protection activities,9018
 2018,corporations,,,,gross fixed capital formation for environmental protection activities,10123
 2019,corporations,,,,gross fixed capital formation for environmental protection activities,10598
-2020,corporations,,,,gross fixed capital formation for environmental protection activities,11042
-2021,corporations,,,,gross fixed capital formation for environmental protection activities,10620
-2022,corporations,p,,,gross fixed capital formation for environmental protection activities,12026
+2020,corporations,r,,,gross fixed capital formation for environmental protection activities,10495
+2021,corporations,,,,gross fixed capital formation for environmental protection activities,10621
+2022,corporations,r,,,gross fixed capital formation for environmental protection activities,12016
+2023,corporations,p,,,gross fixed capital formation for environmental protection activities,13572
