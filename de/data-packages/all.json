@@ -2857,6 +2857,19 @@
             "title": "Jahr"
           },
           {
+            "name": "type of violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Physische Gewalt",
+                "b) Psychische Gewalt",
+                "c) Sexuelle Gewalt",
+                ""
+              ]
+            },
+            "title": "Art der Gewalt"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -2896,6 +2909,17 @@
               ]
             },
             "title": "Art der physischen Gewalt"
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Körperliche sexuelle Belästigung",
+                ""
+              ]
+            },
+            "title": "Art der sexuellen Gewalt"
           },
           {
             "name": "COMMENT_OBS_0",

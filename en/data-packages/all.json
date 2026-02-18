@@ -2857,6 +2857,19 @@
             "title": "Year"
           },
           {
+            "name": "type of violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Physical violence",
+                "b) Psychological violence",
+                "c) Sexual violence",
+                ""
+              ]
+            },
+            "title": "Type of violence"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -2896,6 +2909,17 @@
               ]
             },
             "title": "Type of physical violence"
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Physical sexual assault",
+                ""
+              ]
+            },
+            "title": "Type of sexual violence"
           },
           {
             "name": "COMMENT_OBS_0",

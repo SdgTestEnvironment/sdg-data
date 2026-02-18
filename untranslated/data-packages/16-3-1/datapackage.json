@@ -15,6 +15,18 @@
             "type": "integer"
           },
           {
+            "name": "type of violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) physical violence",
+                "b) psychological violence",
+                "c) sexual violence",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -48,6 +60,16 @@
               "enum": [
                 "physical assault",
                 "robbery",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of sexual violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "physical sexual assault",
                 ""
               ]
             }
