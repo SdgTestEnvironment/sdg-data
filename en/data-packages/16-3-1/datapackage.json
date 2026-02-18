@@ -16,17 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Reporting rate for physical violence",
-                "b) Reporting rate for psychological violence",
-                "c) Reporting rate for sexual violence",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Sex"
           },
           {
             "name": "age group",
@@ -46,18 +45,6 @@
             "title": "Age group"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "type of physical violence",
             "type": "string",
             "constraints": {
@@ -68,17 +55,6 @@
               ]
             },
             "title": "Type of physical violence"
-          },
-          {
-            "name": "type of sexual violence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Physical sexual assault",
-                ""
-              ]
-            },
-            "title": "Type of sexual violence"
           },
           {
             "name": "COMMENT_OBS_0",

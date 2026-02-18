@@ -2610,13 +2610,12 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) reporting rate for physical violence",
-                "b) reporting rate for psychological violence",
-                "c) reporting rate for sexual violence",
+                "female",
+                "male",
                 ""
               ]
             }
@@ -2638,33 +2637,12 @@
             }
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "type of physical violence",
             "type": "string",
             "constraints": {
               "enum": [
                 "physical assault",
                 "robbery",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "type of sexual violence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "physical sexual assault",
                 ""
               ]
             }

@@ -16,17 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Anzeigequote bei physischer Gewalt",
-                "b) Anzeigequote bei psychischer Gewalt",
-                "c) Anzeigequote bei sexueller Gewalt",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Geschlecht"
           },
           {
             "name": "age group",
@@ -46,18 +45,6 @@
             "title": "Altersklasse"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "type of physical violence",
             "type": "string",
             "constraints": {
@@ -68,17 +55,6 @@
               ]
             },
             "title": "Art der physischen Gewalt"
-          },
-          {
-            "name": "type of sexual violence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Körperliche sexuelle Belästigung",
-                ""
-              ]
-            },
-            "title": "Art der sexuellen Gewalt"
           },
           {
             "name": "COMMENT_OBS_0",
