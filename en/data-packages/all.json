@@ -11573,6 +11573,51 @@
             "title": "Year"
           },
           {
+            "name": "environmental protection and/or resource management sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Air and climate (CEP 01)",
+                "Energy from renewable sources (CEP 0201)",
+                "Energy savings and management (CEP 0202)",
+                "Wastewater management (CEP 0301)",
+                "Water savings and management of natural water resources (CEP 0302)",
+                "Waste management (CEP 0401)",
+                "Materials recovery and savings (CEP 0402)",
+                "Protection of soil, surface and groundwater (CEP 0501)",
+                "Protection of biodiversity and landscape (CEP 0502)",
+                "Management of forest resources (CEP 0503)",
+                "Noise and radiation (CEP 06)",
+                "Research and development in the field of environmental protection (CEP 0701, 0703, 0705, 0707 und 0709)",
+                "Research and development in the field of resource management (CEP 0702, 0704, 0706 und 0708)",
+                "Cross-cutting and other environmental purposes (CEP 08)",
+                ""
+              ]
+            },
+            "title": "Environmental protection and/or resource management sector"
+          },
+          {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing (WZ-code A)",
+                "Mining and quarrying (WZ-code B)",
+                "Manufacturing (WZ-code C)",
+                "Electricity, gas, steam and air conditioning supply (WZ-code D)",
+                "Water supply; sewerage, waste management and remediation activities (WZ-code E)",
+                "Construction (WZ-code F)",
+                "Information and communication (WZ-code J)",
+                "Professional, scientific and technical activities (WZ-code M)",
+                "Public administration and defence; compulsory social security (WZ-code O)",
+                "Education (WZ-code P)",
+                "Other services (WZ-code G, H, I, K, L, N, Q, R, S, T and U)",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
             "name": "sector",
             "type": "string",
             "constraints": {

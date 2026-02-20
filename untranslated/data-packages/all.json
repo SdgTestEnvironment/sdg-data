@@ -10569,6 +10569,49 @@
             "type": "integer"
           },
           {
+            "name": "environmental protection and/or resource management sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "air and climate (cep 01)",
+                "energy from renewable sources (cep 0201)",
+                "energy savings and management (cep 0202)",
+                "wastewater management (cep 0301)",
+                "water savings and management of natural water resources (cep 0302)",
+                "waste management (cep 0401)",
+                "materials recovery and savings (cep 0402)",
+                "protection of soil, surface and groundwater (cep 0501)",
+                "protection of biodiversity and landscape (cep 0502)",
+                "management of forest resources (cep 0503)",
+                "noise and radiation (cep 06)",
+                "research and development in the field of environmental protection (cep 0701, 0703, 0705, 0707 und 0709)",
+                "research and development in the field of resource management (cep 0702, 0704, 0706 und 0708)",
+                "cross-cutting and other environmental purposes (cep 08)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "agriculture, forestry and fishing (wz-code a)",
+                "mining and quarrying (wz-code b)",
+                "manufacturing (wz-code c)",
+                "electricity, gas, steam and air conditioning supply (wz-code d)",
+                "water supply; sewerage, waste management and remediation activities (wz-code e)",
+                "construction (wz-code f)",
+                "information and communication (wz-code j)",
+                "professional, scientific and technical activities (wz-code m)",
+                "public administration and defence; compulsory social security (wz-code o)",
+                "education (wz-code p)",
+                "other services (wz-code g, h, i, k, l, n, q, r, s, t and u)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sector",
             "type": "string",
             "constraints": {
