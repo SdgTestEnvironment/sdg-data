@@ -57,7 +57,7 @@
             "title": "Sex"
           },
           {
-            "name": "form of exploitation",
+            "name": "type of exploitation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -66,7 +66,7 @@
                 ""
               ]
             },
-            "title": "Form of exploitation"
+            "title": "Type of exploitation"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -53,7 +53,7 @@
             }
           },
           {
-            "name": "form of exploitation",
+            "name": "type of exploitation",
             "type": "string",
             "constraints": {
               "enum": [

@@ -57,16 +57,16 @@
             "title": "Geschlecht"
           },
           {
-            "name": "form of exploitation",
+            "name": "type of exploitation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ausbeutung der Arbeitskraft",
+                "Arbeitsausbeutung",
                 "Sexuelle Ausbeutung",
                 ""
               ]
             },
-            "title": "Form der Ausbeutung"
+            "title": "Art der Ausbeutung"
           },
           {
             "name": "COMMENT_OBS_0",
