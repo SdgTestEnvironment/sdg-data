@@ -13033,6 +13033,18 @@
             }
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                "unknown",
+                ""
+              ]
+            }
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -13048,19 +13060,7 @@
             }
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                "unknown",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "type of exploitation",
+            "name": "form of exploitation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -13075,8 +13075,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
+                "|",
                 ".",
+                "r",
                 ""
               ]
             }

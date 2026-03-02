@@ -28,6 +28,19 @@
             "title": "Units"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                "Unknown",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -44,20 +57,7 @@
             "title": "Age group"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                "Unknown",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "type of exploitation",
+            "name": "form of exploitation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -66,15 +66,16 @@
                 ""
               ]
             },
-            "title": "Type of exploitation"
+            "title": "Form of exploitation"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
+                "|",
                 ".",
+                "r",
                 ""
               ]
             },
