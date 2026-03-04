@@ -21,17 +21,51 @@
             "constraints": {
               "enum": [
                 "yes=1, no=0",
-                "Number",
+                "Cumulative number",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "role",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Receiver",
+                "Provider",
+                ""
+              ]
+            },
+            "title": "Role"
+          },
+          {
+            "name": "type of receiver/provider",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commercial company",
+                "Gene bank",
+                "National agricultural research centre",
+                "Non-governmental organization",
+                "Other",
+                "Regional organization",
+                "University",
+                "Individual",
+                "INCREASE project",
+                "Unknown",
+                ""
+              ]
+            },
+            "title": "Type of receiver/provider"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "‒",
                 ""
               ]
             },
@@ -39,9 +73,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 ""
               ]
             },

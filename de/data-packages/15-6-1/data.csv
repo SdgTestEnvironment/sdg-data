@@ -1,76 +1,439 @@
-Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2010,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2011,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2012,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2013,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2014,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2015,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2016,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2017,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2018,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2019,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2020,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2021,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2022,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2023,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2024,"ja=1, nein=0",,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
-2010,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2011,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2012,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2013,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2014,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2015,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,
-2016,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2017,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2018,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2019,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2020,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2021,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2022,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2023,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2024,"ja=1, nein=0",,,,2) Vertragspartei des Nagoya-Protokolls,1.0
-2010,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2011,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2012,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2013,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2014,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2015,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-2016,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2017,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2018,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2019,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2020,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2021,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2022,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2023,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2024,"ja=1, nein=0",,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
-2010,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2011,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2012,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2013,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2014,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2015,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2016,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2017,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2018,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2019,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2020,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2021,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2022,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2023,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2024,"ja=1, nein=0",,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
-2010,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
-2011,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
-2012,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3898.0
-2013,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5012.0
-2014,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6068.0
-2015,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",7292.0
-2016,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",8347.0
-2017,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",8728.0
-2018,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",9120.0
-2019,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",9711.0
-2020,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",10239.0
-2021,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",10797.0
-2022,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",11332.0
-2023,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",11821.0
-2024,Anzahl,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",12338.0
+Year,Units,Rolle,Art der Empfänger/Bereitsteller,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2011,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2012,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2013,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2014,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2015,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2016,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2017,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2018,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2019,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2020,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2021,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2022,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2023,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2024,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2025,"ja=1, nein=0",,,,,,1) Vertragspartei des Internationalen Vertrags über PGRFA,1.0
+2010,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,
+2011,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,
+2012,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,
+2013,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,
+2014,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,
+2015,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,
+2016,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2017,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2018,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2019,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2020,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2021,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2022,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2023,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2024,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2025,"ja=1, nein=0",,,,,,2) Vertragspartei des Nagoya-Protokolls,1.0
+2010,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
+2011,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
+2012,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
+2013,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
+2014,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
+2015,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
+2016,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
+2017,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
+2018,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
+2019,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
+2020,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
+2021,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
+2022,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
+2023,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
+2024,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
+2025,"ja=1, nein=0",,,,,,"3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",1.0
+2010,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2011,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2012,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2013,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2014,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2015,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2016,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2017,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2018,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2019,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2020,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2021,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2022,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2023,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2024,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2025,"ja=1, nein=0",,,,,,"4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",1.0
+2010,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1495.0
+2011,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2687.0
+2012,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3916.0
+2013,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5034.0
+2014,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6089.0
+2015,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",7311.0
+2016,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",8367.0
+2017,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",8754.0
+2018,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",9153.0
+2019,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",9518.0
+2020,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",9903.0
+2021,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",10564.0
+2022,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",11398.0
+2023,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",13261.0
+2024,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",15195.0
+2025,Kumulierte Anzahl,Empfänger,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",16574.0
+2026,Kumulierte Anzahl,Empfänger,,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",16677.0
+2010,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5.0
+2017,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2018,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",19.0
+2019,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",30.0
+2020,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",38.0
+2021,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",38.0
+2022,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",38.0
+2023,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",38.0
+2024,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",41.0
+2025,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",44.0
+2026,Kumulierte Anzahl,Empfänger,Handelsgesellschaften,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",44.0
+2010,Kumulierte Anzahl,Empfänger,Gendatenbanken,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Empfänger,Gendatenbanken,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Empfänger,Gendatenbanken,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Empfänger,Gendatenbanken,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Empfänger,Gendatenbanken,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Empfänger,Gendatenbanken,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Empfänger,Gendatenbanken,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2017,Kumulierte Anzahl,Empfänger,Gendatenbanken,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2018,Kumulierte Anzahl,Empfänger,Gendatenbanken,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2019,Kumulierte Anzahl,Empfänger,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2020,Kumulierte Anzahl,Empfänger,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3.0
+2021,Kumulierte Anzahl,Empfänger,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4.0
+2022,Kumulierte Anzahl,Empfänger,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4.0
+2023,Kumulierte Anzahl,Empfänger,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5.0
+2024,Kumulierte Anzahl,Empfänger,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",7.0
+2025,Kumulierte Anzahl,Empfänger,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",10.0
+2026,Kumulierte Anzahl,Empfänger,Gendatenbanken,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",10.0
+2010,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2015,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2016,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2017,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2018,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2019,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2020,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2.0
+2021,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2.0
+2022,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2.0
+2023,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4.0
+2024,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4.0
+2025,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5.0
+2026,Kumulierte Anzahl,Empfänger,Nationales Agrarforschungszentrum,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5.0
+2010,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2017,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2018,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2019,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2020,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2021,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2022,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2023,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2024,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2025,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2026,Kumulierte Anzahl,Empfänger,Nichtregierungsorganisationen,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2010,Kumulierte Anzahl,Empfänger,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Empfänger,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Empfänger,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Empfänger,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Empfänger,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Empfänger,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Empfänger,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2.0
+2017,Kumulierte Anzahl,Empfänger,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3.0
+2018,Kumulierte Anzahl,Empfänger,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3.0
+2019,Kumulierte Anzahl,Empfänger,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3.0
+2020,Kumulierte Anzahl,Empfänger,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4.0
+2021,Kumulierte Anzahl,Empfänger,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4.0
+2022,Kumulierte Anzahl,Empfänger,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4.0
+2023,Kumulierte Anzahl,Empfänger,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4.0
+2024,Kumulierte Anzahl,Empfänger,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5.0
+2025,Kumulierte Anzahl,Empfänger,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5.0
+2026,Kumulierte Anzahl,Empfänger,Andere,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5.0
+2010,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2017,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2018,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2019,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2020,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2021,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2022,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2023,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2024,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2025,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2026,Kumulierte Anzahl,Empfänger,Regionale Organisationen,‒,p,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2010,Kumulierte Anzahl,Empfänger,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Empfänger,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Empfänger,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Empfänger,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2015,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3.0
+2016,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5.0
+2017,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",8.0
+2018,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",8.0
+2019,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",8.0
+2020,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",8.0
+2021,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",9.0
+2022,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",9.0
+2023,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",11.0
+2024,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",13.0
+2025,Kumulierte Anzahl,Empfänger,Universitäten,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",13.0
+2026,Kumulierte Anzahl,Empfänger,Universitäten,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",13.0
+2010,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",84.0
+2011,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",382.0
+2012,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1299.0
+2013,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2107.0
+2014,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2843.0
+2015,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3604.0
+2016,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4214.0
+2017,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4328.0
+2018,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4441.0
+2019,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4575.0
+2020,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4678.0
+2021,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4800.0
+2022,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4877.0
+2023,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4918.0
+2024,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4932.0
+2025,Kumulierte Anzahl,Empfänger,Einzelpersonen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4935.0
+2026,Kumulierte Anzahl,Empfänger,Einzelpersonen,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4935.0
+2010,Kumulierte Anzahl,Empfänger,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Empfänger,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Empfänger,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Empfänger,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Empfänger,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Empfänger,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Empfänger,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2017,Kumulierte Anzahl,Empfänger,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2018,Kumulierte Anzahl,Empfänger,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2019,Kumulierte Anzahl,Empfänger,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2020,Kumulierte Anzahl,Empfänger,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2021,Kumulierte Anzahl,Empfänger,Projekt INCREASE,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",226.0
+2022,Kumulierte Anzahl,Empfänger,Projekt INCREASE,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",706.0
+2023,Kumulierte Anzahl,Empfänger,Projekt INCREASE,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2396.0
+2024,Kumulierte Anzahl,Empfänger,Projekt INCREASE,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4291.0
+2025,Kumulierte Anzahl,Empfänger,Projekt INCREASE,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5655.0
+2026,Kumulierte Anzahl,Empfänger,Projekt INCREASE,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5758.0
+2010,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1411.0
+2011,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2305.0
+2012,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2617.0
+2013,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2927.0
+2014,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3244.0
+2015,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3703.0
+2016,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4140.0
+2017,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4408.0
+2018,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4681.0
+2019,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4900.0
+2020,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5169.0
+2021,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5480.0
+2022,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5757.0
+2023,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5884.0
+2024,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5901.0
+2025,Kumulierte Anzahl,Empfänger,Unbekannt,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5901.0
+2026,Kumulierte Anzahl,Empfänger,Unbekannt,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5901.0
+2010,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2017,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2018,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2019,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2020,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2021,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2022,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2023,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2024,Kumulierte Anzahl,Bereitsteller,,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2025,Kumulierte Anzahl,Bereitsteller,,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2026,Kumulierte Anzahl,Bereitsteller,,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4.0
+2010,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2132.0
+2011,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3566.0
+2012,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5022.0
+2013,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6314.0
+2014,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",7675.0
+2015,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",9241.0
+2016,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",10567.0
+2017,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",11135.0
+2018,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",11709.0
+2019,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",12296.0
+2020,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",12812.0
+2021,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",13415.0
+2022,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",13908.0
+2023,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",14176.0
+2024,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",14332.0
+2025,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",14490.0
+2026,Kumulierte Anzahl,Bereitsteller,Handelsgesellschaften,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",14610.0
+2010,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",2132.0
+2011,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3566.0
+2012,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",5022.0
+2013,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6314.0
+2014,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",7675.0
+2015,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",9241.0
+2016,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",10560.0
+2017,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",11126.0
+2018,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",11685.0
+2019,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",12256.0
+2020,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",12761.0
+2021,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",13364.0
+2022,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",13850.0
+2023,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",14100.0
+2024,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",14100.0
+2025,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",14100.0
+2026,Kumulierte Anzahl,Bereitsteller,Gendatenbanken,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",14100.0
+2010,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3.0
+2017,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",3.0
+2018,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",18.0
+2019,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",34.0
+2020,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",44.0
+2021,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",44.0
+2022,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",44.0
+2023,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",44.0
+2024,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",44.0
+2025,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",44.0
+2026,Kumulierte Anzahl,Bereitsteller,Nationales Agrarforschungszentrum,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",44.0
+2010,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2017,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2018,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2019,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2020,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2021,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2022,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2023,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2024,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2025,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2026,Kumulierte Anzahl,Bereitsteller,Nichtregierungsorganisationen,‒,p,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2010,Kumulierte Anzahl,Bereitsteller,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Bereitsteller,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Bereitsteller,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Bereitsteller,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Bereitsteller,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Bereitsteller,Andere,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Bereitsteller,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",4.0
+2017,Kumulierte Anzahl,Bereitsteller,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2018,Kumulierte Anzahl,Bereitsteller,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2019,Kumulierte Anzahl,Bereitsteller,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2020,Kumulierte Anzahl,Bereitsteller,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2021,Kumulierte Anzahl,Bereitsteller,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2022,Kumulierte Anzahl,Bereitsteller,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2023,Kumulierte Anzahl,Bereitsteller,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2024,Kumulierte Anzahl,Bereitsteller,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2025,Kumulierte Anzahl,Bereitsteller,Andere,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2026,Kumulierte Anzahl,Bereitsteller,Andere,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",6.0
+2010,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2017,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2018,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2019,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2020,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2021,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2022,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2023,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2024,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2025,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2026,Kumulierte Anzahl,Bereitsteller,Regionale Organisationen,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",1.0
+2010,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2017,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2018,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2019,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2020,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2021,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2022,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2023,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2024,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2025,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2026,Kumulierte Anzahl,Bereitsteller,Universitäten,‒,p,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2010,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2017,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2018,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2019,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2020,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2021,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2022,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2023,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2024,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2025,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2026,Kumulierte Anzahl,Bereitsteller,Einzelpersonen,‒,p,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2010,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2017,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2018,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2019,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2020,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2021,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2022,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",7.0
+2023,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",25.0
+2024,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",181.0
+2025,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",338.0
+2026,Kumulierte Anzahl,Bereitsteller,Projekt INCREASE,p,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",455.0
+2010,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2011,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2012,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2013,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2014,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2015,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2016,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2017,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2018,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2019,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2020,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2021,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2022,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2023,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2024,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2025,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0
+2026,Kumulierte Anzahl,Bereitsteller,Unbekannt,‒,p,,"5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",0.0

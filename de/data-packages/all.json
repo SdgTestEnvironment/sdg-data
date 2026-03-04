@@ -8206,17 +8206,51 @@
             "constraints": {
               "enum": [
                 "ja=1, nein=0",
-                "Anzahl",
+                "Kumulierte Anzahl",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "role",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Empfänger",
+                "Bereitsteller",
+                ""
+              ]
+            },
+            "title": "Rolle"
+          },
+          {
+            "name": "type of receiver/provider",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Handelsgesellschaften",
+                "Gendatenbanken",
+                "Nationales Agrarforschungszentrum",
+                "Nichtregierungsorganisationen",
+                "Andere",
+                "Regionale Organisationen",
+                "Universitäten",
+                "Einzelpersonen",
+                "Projekt INCREASE",
+                "Unbekannt",
+                ""
+              ]
+            },
+            "title": "Art der Empfänger/Bereitsteller"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "‒",
                 ""
               ]
             },
@@ -8224,9 +8258,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 ""
               ]
             },
