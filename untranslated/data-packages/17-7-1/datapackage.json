@@ -42,17 +42,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "agriculture, forestry and fishing (wz-code a)",
-                "mining and quarrying (wz-code b)",
-                "manufacturing (wz-code c)",
-                "electricity, gas, steam and air conditioning supply (wz-code d)",
-                "water supply; sewerage, waste management and remediation activities (wz-code e)",
-                "construction (wz-code f)",
-                "information and communication (wz-code j)",
-                "professional, scientific and technical activities (wz-code m)",
-                "public administration and defence; compulsory social security (wz-code o)",
-                "education (wz-code p)",
-                "other services (wz-code g, h, i, k, l, n, q, r, s, t and u)",
+                "agriculture, forestry and fishing (isic a)",
+                "mining and quarrying (isic b)",
+                "manufacturing (isic c)",
+                "electricity, gas, steam and air conditioning supply (isic d)",
+                "water supply; sewerage, waste management and remediation activities (isic e)",
+                "construction (isic f)",
+                "information and communication (isic j)",
+                "professional, scientific and technical activities (isic m)",
+                "public administration and defence; compulsory social security (isic o)",
+                "education (isic p)",
+                "other services (isic g, h, i, k, l, n, q, r, s, t and u)",
                 ""
               ]
             }

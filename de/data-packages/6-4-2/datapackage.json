@@ -16,24 +16,10 @@
             "title": "Jahr"
           },
           {
-            "name": "water use index",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anteil der Entnahme an den erneuerbaren Wasserressourcen",
-                "Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser)",
-                ""
-              ]
-            },
-            "title": "Wassernutzungsindex"
-          },
-          {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                ".",
                 ""
               ]
             },

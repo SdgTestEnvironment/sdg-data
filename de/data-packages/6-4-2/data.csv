@@ -1,27 +1,14 @@
-Year,Wassernutzungsindex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Anteil der Entnahme an den erneuerbaren Wasserressourcen,r,,,15.96
-2011,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2012,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2013,Anteil der Entnahme an den erneuerbaren Wasserressourcen,r,,,13.69
-2014,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2015,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2016,Anteil der Entnahme an den erneuerbaren Wasserressourcen,r,,,15.52
-2017,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2018,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2019,Anteil der Entnahme an den erneuerbaren Wasserressourcen,r,,,15.35
-2020,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2021,Anteil der Entnahme an den erneuerbaren Wasserressourcen,.,,,
-2022,Anteil der Entnahme an den erneuerbaren Wasserressourcen,,,,16.67
-2010,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),r,,,4.29
-2011,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2012,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2013,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),r,,,4.73
-2014,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2015,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2016,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),r,,,5.5
-2017,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2018,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2019,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),r,,,6.57
-2020,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2021,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),.,,,
-2022,Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser),,,,8.3
+Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,,,,18.949
+2011,,,,17.509
+2012,,,,15.956
+2013,,,,15.188
+2014,,,,15.214
+2015,,,,14.56
+2016,,,,14.464
+2017,,,,13.374
+2018,,,,13.333
+2019,,,,12.993
+2020,,,,13.225
+2021,,,,12.097
+2022,,,,11.723

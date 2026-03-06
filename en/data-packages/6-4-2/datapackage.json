@@ -16,24 +16,10 @@
             "title": "Year"
           },
           {
-            "name": "water use index",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Share of withdrawal in renewable water resources",
-                "Share of withdrawal in renewable water resources (excluding cooling water)",
-                ""
-              ]
-            },
-            "title": "Water use index"
-          },
-          {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
-                ".",
                 ""
               ]
             },
