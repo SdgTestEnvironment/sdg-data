@@ -160,7 +160,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-2-1,"COMMENT_OBS_0, COMMENT_OBS_1",2
 #8-4-1,COMMENT_OBS_0,1
 #8-4-2,COMMENT_OBS_0,1
-#8-5-1,"COMMENT_OBS_0, sex, länder",3
+#8-5-1,"COMMENT_OBS_0, sex, age group, länder",4
 #8-5-2,"COMMENT_OBS_0, COMMENT_OBS_1, sex, age group",4
 #8-6-1,"COMMENT_OBS_0, COMMENT_OBS_1, sex",3
 #8-7-1,"COMMENT_OBS_0, COMMENT_OBS_1, sex, age group",4
