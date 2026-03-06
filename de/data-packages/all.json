@@ -188,7 +188,7 @@
             "title": "Jahr"
           },
           {
-            "name": "area2",
+            "name": "'area '",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7954,7 +7954,7 @@
             "title": "Jahr"
           },
           {
-            "name": "area2",
+            "name": "'area '",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10918,7 +10918,7 @@
             "title": "Jahr"
           },
           {
-            "name": "area2",
+            "name": "'area '",
             "type": "string",
             "constraints": {
               "enum": [
