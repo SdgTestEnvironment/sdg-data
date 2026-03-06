@@ -165,23 +165,6 @@ Year,Units,role,type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OB
 2024,cumulative number,receiver,other,,,,5) total reported number of smtas transferring pgrfa to germany,5.0
 2025,cumulative number,receiver,other,,,,5) total reported number of smtas transferring pgrfa to germany,5.0
 2026,cumulative number,receiver,other,p,,,5) total reported number of smtas transferring pgrfa to germany,5.0
-2010,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2011,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2012,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2013,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2014,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2015,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2016,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2017,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2018,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2019,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2020,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2021,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2022,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2023,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2024,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2025,cumulative number,receiver,regional organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2026,cumulative number,receiver,regional organization,‒,p,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2010,cumulative number,receiver,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2011,cumulative number,receiver,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2012,cumulative number,receiver,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
@@ -262,11 +245,11 @@ Year,Units,role,type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OB
 2019,cumulative number,provider,,‒,,,5) total reported number of smtas transferring pgrfa to germany,12296.0
 2020,cumulative number,provider,,‒,,,5) total reported number of smtas transferring pgrfa to germany,12812.0
 2021,cumulative number,provider,,‒,,,5) total reported number of smtas transferring pgrfa to germany,13415.0
-2022,cumulative number,provider,,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2023,cumulative number,provider,,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2024,cumulative number,provider,,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2025,cumulative number,provider,,,,,5) total reported number of smtas transferring pgrfa to germany,1.0
-2026,cumulative number,provider,,p,,,5) total reported number of smtas transferring pgrfa to germany,4.0
+2022,cumulative number,provider,,‒,,,5) total reported number of smtas transferring pgrfa to germany,13908.0
+2023,cumulative number,provider,,‒,,,5) total reported number of smtas transferring pgrfa to germany,14176.0
+2024,cumulative number,provider,,‒,,,5) total reported number of smtas transferring pgrfa to germany,14332.0
+2025,cumulative number,provider,,,,,5) total reported number of smtas transferring pgrfa to germany,14490.0
+2026,cumulative number,provider,,p,,,5) total reported number of smtas transferring pgrfa to germany,14610.0
 2010,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2011,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2012,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,0.0
@@ -279,11 +262,11 @@ Year,Units,role,type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OB
 2019,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2020,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2021,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2022,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,13908.0
-2023,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,14176.0
-2024,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,14332.0
-2025,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,14490.0
-2026,cumulative number,provider,commercial company,p,,,5) total reported number of smtas transferring pgrfa to germany,14610.0
+2022,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,0.0
+2023,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,0.0
+2024,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,0.0
+2025,cumulative number,provider,commercial company,,,,5) total reported number of smtas transferring pgrfa to germany,1.0
+2026,cumulative number,provider,commercial company,p,,,5) total reported number of smtas transferring pgrfa to germany,4.0
 2010,cumulative number,provider,gene bank,,,,5) total reported number of smtas transferring pgrfa to germany,2132.0
 2011,cumulative number,provider,gene bank,,,,5) total reported number of smtas transferring pgrfa to germany,3566.0
 2012,cumulative number,provider,gene bank,,,,5) total reported number of smtas transferring pgrfa to germany,5022.0
@@ -318,23 +301,6 @@ Year,Units,role,type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OB
 2024,cumulative number,provider,national agricultural research centre,,,,5) total reported number of smtas transferring pgrfa to germany,44.0
 2025,cumulative number,provider,national agricultural research centre,,,,5) total reported number of smtas transferring pgrfa to germany,44.0
 2026,cumulative number,provider,national agricultural research centre,p,,,5) total reported number of smtas transferring pgrfa to germany,44.0
-2010,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2011,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2012,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2013,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2014,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2015,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2016,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2017,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2018,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2019,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2020,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2021,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2022,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2023,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2024,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2025,cumulative number,provider,non-governmental organization,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2026,cumulative number,provider,non-governmental organization,‒,p,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2010,cumulative number,provider,other,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2011,cumulative number,provider,other,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2012,cumulative number,provider,other,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
@@ -369,40 +335,6 @@ Year,Units,role,type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OB
 2024,cumulative number,provider,regional organization,,,,5) total reported number of smtas transferring pgrfa to germany,1.0
 2025,cumulative number,provider,regional organization,,,,5) total reported number of smtas transferring pgrfa to germany,1.0
 2026,cumulative number,provider,regional organization,p,,,5) total reported number of smtas transferring pgrfa to germany,1.0
-2010,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2011,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2012,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2013,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2014,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2015,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2016,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2017,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2018,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2019,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2020,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2021,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2022,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2023,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2024,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2025,cumulative number,provider,university,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2026,cumulative number,provider,university,‒,p,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2010,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2011,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2012,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2013,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2014,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2015,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2016,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2017,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2018,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2019,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2020,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2021,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2022,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2023,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2024,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2025,cumulative number,provider,individual,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2026,cumulative number,provider,individual,‒,p,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2010,cumulative number,provider,increase project,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2011,cumulative number,provider,increase project,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
 2012,cumulative number,provider,increase project,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
@@ -420,20 +352,3 @@ Year,Units,role,type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OB
 2024,cumulative number,provider,increase project,,,,5) total reported number of smtas transferring pgrfa to germany,181.0
 2025,cumulative number,provider,increase project,,,,5) total reported number of smtas transferring pgrfa to germany,338.0
 2026,cumulative number,provider,increase project,p,,,5) total reported number of smtas transferring pgrfa to germany,455.0
-2010,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2011,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2012,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2013,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2014,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2015,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2016,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2017,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2018,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2019,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2020,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2021,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2022,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2023,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2024,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2025,cumulative number,provider,unknown,‒,,,5) total reported number of smtas transferring pgrfa to germany,0.0
-2026,cumulative number,provider,unknown,‒,p,,5) total reported number of smtas transferring pgrfa to germany,0.0

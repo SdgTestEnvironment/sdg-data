@@ -46,11 +46,11 @@
                 "national agricultural research centre",
                 "non-governmental organization",
                 "other",
-                "regional organization",
                 "university",
                 "individual",
                 "increase project",
                 "unknown",
+                "regional organization",
                 ""
               ]
             }
@@ -68,10 +68,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "p",
                 ""
               ]
             }

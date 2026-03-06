@@ -8254,11 +8254,11 @@
                 "National agricultural research centre",
                 "Non-governmental organization",
                 "Other",
-                "Regional organization",
                 "University",
                 "Individual",
                 "INCREASE project",
                 "Unknown",
+                "Regional organization",
                 ""
               ]
             },
@@ -8278,10 +8278,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "p",
                 ""
               ]
             },

@@ -8254,11 +8254,11 @@
                 "Nationales Agrarforschungszentrum",
                 "Nichtregierungsorganisationen",
                 "Andere",
-                "Regionale Organisationen",
                 "Universitäten",
                 "Einzelpersonen",
                 "Projekt INCREASE",
                 "Unbekannt",
+                "Regionale Organisationen",
                 ""
               ]
             },
@@ -8278,10 +8278,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "p",
                 ""
               ]
             },
