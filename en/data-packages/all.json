@@ -5820,8 +5820,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "water withdrawal",
-                "water withdrawal by sector",
+                "Water withdrawal",
+                "Water withdrawal by sector",
                 ""
               ]
             },
@@ -8300,8 +8300,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "smta received by germany",
-                "smta sent by germany",
+                "SMTA received by Germany",
+                "SMTA sent by Germany",
                 ""
               ]
             },

@@ -32,16 +32,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Handelsgesellschaften",
-                "Gendatenbanken",
+                "Kommerzielles Unternehmen",
+                "Genbank",
                 "Nationales Agrarforschungszentrum",
-                "Nichtregierungsorganisationen",
+                "Nichtregierungsorganisation",
                 "Andere",
-                "Universitäten",
-                "Einzelpersonen",
-                "Projekt INCREASE",
+                "Universität",
+                "Einzelperson",
+                "INCREASE-Projekt",
                 "Unbekannt",
-                "Regionale Organisationen",
+                "Regionale Organisation",
                 ""
               ]
             },
@@ -84,8 +84,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "smta received by germany",
-                "smta sent by germany",
+                "SMTA empfangen von Deutschland",
+                "SMTA gesendet von Deutschland",
                 ""
               ]
             },

@@ -84,8 +84,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "smta received by germany",
-                "smta sent by germany",
+                "SMTA received by Germany",
+                "SMTA sent by Germany",
                 ""
               ]
             },
