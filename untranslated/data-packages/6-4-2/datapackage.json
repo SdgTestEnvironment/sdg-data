@@ -58,8 +58,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "share of water withdrawal in renewable water resources",
-                "share of water withdrawal by sector",
+                "water withdrawal",
+                "water withdrawal by sector",
                 ""
               ]
             }

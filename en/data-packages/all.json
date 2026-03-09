@@ -5820,8 +5820,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of water withdrawal in renewable water resources",
-                "Share of water withdrawal by sector",
+                "water withdrawal",
+                "water withdrawal by sector",
                 ""
               ]
             },
@@ -8244,18 +8244,6 @@
             "title": "Units"
           },
           {
-            "name": "role",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Receiver",
-                "Provider",
-                ""
-              ]
-            },
-            "title": "Role"
-          },
-          {
             "name": "type of receiver/provider",
             "type": "string",
             "constraints": {
@@ -8312,11 +8300,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Contracting party to the International Treaty on PGRFA",
-                "2) Contracting party to the Nagoya Protocol",
-                "3) Existence of legislative, administrative and policy frameworks or measures reported through the Online Reporting System on Compliance with the International Treaty on PGRFA",
-                "4) Existence of legislative, administrative and policy framework or measures reported to the ABS Clearing-House",
-                "5) Total reported number of SMTAs transferring PGRFA to Germany",
+                "smta received by germany",
+                "smta sent by germany",
                 ""
               ]
             },
@@ -8324,7 +8309,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

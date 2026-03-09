@@ -5820,8 +5820,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Wasserentnahme an den erneuerbaren Wasserressourcen",
-                "Anteil der Wasserentnahme der Sektoren",
+                "water withdrawal",
+                "water withdrawal by sector",
                 ""
               ]
             },
@@ -8244,18 +8244,6 @@
             "title": "Units"
           },
           {
-            "name": "role",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Empfänger",
-                "Bereitsteller",
-                ""
-              ]
-            },
-            "title": "Rolle"
-          },
-          {
             "name": "type of receiver/provider",
             "type": "string",
             "constraints": {
@@ -8312,11 +8300,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Vertragspartei des Internationalen Vertrags über PGRFA",
-                "2) Vertragspartei des Nagoya-Protokolls",
-                "3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden",
-                "4) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet werden",
-                "5) Gesamtzahl der gemeldeten SMTAs, durch die PGRFA nach Deutschland übertragen werden",
+                "smta received by germany",
+                "smta sent by germany",
                 ""
               ]
             },
@@ -8324,7 +8309,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]

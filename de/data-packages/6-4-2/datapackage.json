@@ -63,8 +63,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Wasserentnahme an den erneuerbaren Wasserressourcen",
-                "Anteil der Wasserentnahme der Sektoren",
+                "water withdrawal",
+                "water withdrawal by sector",
                 ""
               ]
             },
