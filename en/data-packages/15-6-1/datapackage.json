@@ -28,6 +28,18 @@
             "title": "Units"
           },
           {
+            "name": "'time series '",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SMTA received by Germany",
+                "SMTA sent by Germany",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "type of receiver/provider",
             "type": "string",
             "constraints": {
@@ -84,8 +96,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SMTA received by Germany",
-                "SMTA sent by Germany",
+                "(1) Contracting Party to the PGRFA",
+                "(2) Contracting party to the Nagoya Protocol",
+                "(3) Existence of framework or measures reported through the Online Reporting System on Compliance of the PGRFA",
+                "(4) Existence of framework or measures reported to the Access and Benefit-Sharing Clearing-House",
+                "(5) Number of SMTAs",
                 ""
               ]
             },

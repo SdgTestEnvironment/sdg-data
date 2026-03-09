@@ -1,101 +1,69 @@
 Year,Value,Units,Series
-2010,1,"ja=1, nein=0",
-2011,1,"ja=1, nein=0",
-2012,1,"ja=1, nein=0",
-2013,1,"ja=1, nein=0",
-2014,1,"ja=1, nein=0",
-2015,1,"ja=1, nein=0",
-2016,1,"ja=1, nein=0",
-2017,1,"ja=1, nein=0",
-2018,1,"ja=1, nein=0",
-2019,1,"ja=1, nein=0",
-2020,1,"ja=1, nein=0",
-2021,1,"ja=1, nein=0",
-2022,1,"ja=1, nein=0",
-2023,1,"ja=1, nein=0",
-2024,1,"ja=1, nein=0",
-2025,1,"ja=1, nein=0",
-2026,1,"ja=1, nein=0",
-2010,0,"ja=1, nein=0",
-2011,0,"ja=1, nein=0",
-2012,0,"ja=1, nein=0",
-2013,0,"ja=1, nein=0",
-2014,0,"ja=1, nein=0",
-2015,0,"ja=1, nein=0",
-2016,1,"ja=1, nein=0",
-2017,1,"ja=1, nein=0",
-2018,1,"ja=1, nein=0",
-2019,1,"ja=1, nein=0",
-2020,1,"ja=1, nein=0",
-2021,1,"ja=1, nein=0",
-2022,1,"ja=1, nein=0",
-2023,1,"ja=1, nein=0",
-2024,1,"ja=1, nein=0",
-2025,1,"ja=1, nein=0",
-2026,1,"ja=1, nein=0",
-2010,0,"ja=1, nein=0",
-2011,0,"ja=1, nein=0",
-2012,0,"ja=1, nein=0",
-2013,0,"ja=1, nein=0",
-2014,0,"ja=1, nein=0",
-2015,0,"ja=1, nein=0",
-2016,1,"ja=1, nein=0",
-2017,1,"ja=1, nein=0",
-2018,1,"ja=1, nein=0",
-2019,1,"ja=1, nein=0",
-2020,1,"ja=1, nein=0",
-2021,1,"ja=1, nein=0",
-2022,1,"ja=1, nein=0",
-2023,1,"ja=1, nein=0",
-2024,1,"ja=1, nein=0",
-2025,1,"ja=1, nein=0",
-2026,1,"ja=1, nein=0",
-2010,1,"ja=1, nein=0",
-2011,1,"ja=1, nein=0",
-2012,1,"ja=1, nein=0",
-2013,1,"ja=1, nein=0",
-2014,1,"ja=1, nein=0",
-2015,1,"ja=1, nein=0",
-2016,1,"ja=1, nein=0",
-2017,1,"ja=1, nein=0",
-2018,1,"ja=1, nein=0",
-2019,1,"ja=1, nein=0",
-2020,1,"ja=1, nein=0",
-2021,1,"ja=1, nein=0",
-2022,1,"ja=1, nein=0",
-2023,1,"ja=1, nein=0",
-2024,1,"ja=1, nein=0",
-2025,1,"ja=1, nein=0",
-2026,1,"ja=1, nein=0",
-2010,1495,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2011,2687,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2012,3916,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2013,5034,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2014,6089,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2015,7311,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2016,8367,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2017,8754,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2018,9153,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2019,9518,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2020,9903,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2021,10564,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2022,11398,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2023,13261,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2024,15195,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2025,16574,Kumulierte Anzahl,SMTA empfangen von Deutschland
-2010,2132,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2011,3566,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2012,5022,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2013,6314,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2014,7675,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2015,9241,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2016,10567,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2017,11135,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2018,11709,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2019,12296,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2020,12812,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2021,13415,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2022,13908,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2023,14176,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2024,14332,Kumulierte Anzahl,SMTA gesendet von Deutschland
-2025,14490,Kumulierte Anzahl,SMTA gesendet von Deutschland
+2010,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2011,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2012,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2013,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2014,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2015,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2016,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2017,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2018,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2019,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2020,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2021,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2022,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2023,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2024,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2025,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2026,1,"ja=1, nein=0",1) Vertragspartei des PGRFA
+2010,0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2011,0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2012,0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2013,0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2014,0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2015,0,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2016,1,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2017,1,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2018,1,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2019,1,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2020,1,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2021,1,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2022,1,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2023,1,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2024,1,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2025,1,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2026,1,"ja=1, nein=0",2) Vertragspartei des Nagoya-Protokolls
+2010,0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2011,0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2012,0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2013,0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2014,0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2015,0,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2016,1,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2017,1,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2018,1,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2019,1,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2020,1,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2021,1,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2022,1,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2023,1,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2024,1,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2025,1,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2026,1,"ja=1, nein=0","3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden"
+2010,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2011,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2012,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2013,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2014,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2015,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2016,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2017,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2018,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2019,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2020,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2021,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2022,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2023,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2024,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2025,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
+2026,1,"ja=1, nein=0","4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden"
