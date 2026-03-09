@@ -1,4 +1,7 @@
 Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2007,"yes=1, no=0",,,,,,(1) contracting party to the pgrfa,1
+2008,"yes=1, no=0",,,,,,(1) contracting party to the pgrfa,1
+2009,"yes=1, no=0",,,,,,(1) contracting party to the pgrfa,1
 2010,"yes=1, no=0",,,,,,(1) contracting party to the pgrfa,1
 2011,"yes=1, no=0",,,,,,(1) contracting party to the pgrfa,1
 2012,"yes=1, no=0",,,,,,(1) contracting party to the pgrfa,1
@@ -16,6 +19,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,"yes=1, no=0",,,,,,(1) contracting party to the pgrfa,1
 2025,"yes=1, no=0",,,,,,(1) contracting party to the pgrfa,1
 2026,"yes=1, no=0",,,,,,(1) contracting party to the pgrfa,1
+2007,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,
+2008,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,
+2009,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,
 2010,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,0
 2011,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,0
 2012,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,0
@@ -33,6 +39,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,1
 2025,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,1
 2026,"yes=1, no=0",,,,,,(2) contracting party to the nagoya protocol,1
+2007,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,
+2008,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,
+2009,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,
 2010,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,0
 2011,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,0
 2012,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,0
@@ -50,6 +59,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,1
 2025,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,1
 2026,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,1
+2007,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
+2008,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
+2009,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
 2010,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
 2011,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
 2012,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
@@ -67,6 +79,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
 2025,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
 2026,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1
+2007,cumulative number,smta received by germany,,,,,(5) number of smtas,35
+2008,cumulative number,smta received by germany,,,,,(5) number of smtas,409
+2009,cumulative number,smta received by germany,,,,,(5) number of smtas,905
 2010,cumulative number,smta received by germany,,,,,(5) number of smtas,1495
 2011,cumulative number,smta received by germany,,,,,(5) number of smtas,2687
 2012,cumulative number,smta received by germany,,,,,(5) number of smtas,3916
@@ -84,6 +99,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta received by germany,,,,,(5) number of smtas,15195
 2025,cumulative number,smta received by germany,,,,,(5) number of smtas,16574
 2026,cumulative number,smta received by germany,,p,,,(5) number of smtas,16677
+2007,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,
+2008,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,0
+2009,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,0
 2010,cumulative number,smta received by germany,commercial company,‒,,,(5) number of smtas,0
 2011,cumulative number,smta received by germany,commercial company,‒,,,(5) number of smtas,0
 2012,cumulative number,smta received by germany,commercial company,‒,,,(5) number of smtas,0
@@ -101,6 +119,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,41
 2025,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,44
 2026,cumulative number,smta received by germany,commercial company,p,,,(5) number of smtas,44
+2007,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,
+2008,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,0
+2009,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,0
 2010,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0
 2011,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0
 2012,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0
@@ -118,6 +139,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,7
 2025,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,10
 2026,cumulative number,smta received by germany,gene bank,p,,,(5) number of smtas,10
+2007,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,
+2008,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,0
+2009,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,0
 2010,cumulative number,smta received by germany,national agricultural research centre,‒,,,(5) number of smtas,0
 2011,cumulative number,smta received by germany,national agricultural research centre,‒,,,(5) number of smtas,0
 2012,cumulative number,smta received by germany,national agricultural research centre,‒,,,(5) number of smtas,0
@@ -135,6 +159,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,4
 2025,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,5
 2026,cumulative number,smta received by germany,national agricultural research centre,p,,,(5) number of smtas,5
+2007,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,
+2008,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,0
+2009,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,0
 2010,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0
 2011,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0
 2012,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0
@@ -152,6 +179,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,1
 2025,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,6
 2026,cumulative number,smta received by germany,non-governmental organization,p,,,(5) number of smtas,6
+2007,cumulative number,smta received by germany,other,,,,(5) number of smtas,
+2008,cumulative number,smta received by germany,other,,,,(5) number of smtas,0
+2009,cumulative number,smta received by germany,other,,,,(5) number of smtas,0
 2010,cumulative number,smta received by germany,other,‒,,,(5) number of smtas,0
 2011,cumulative number,smta received by germany,other,‒,,,(5) number of smtas,0
 2012,cumulative number,smta received by germany,other,‒,,,(5) number of smtas,0
@@ -169,6 +199,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta received by germany,other,,,,(5) number of smtas,5
 2025,cumulative number,smta received by germany,other,,,,(5) number of smtas,5
 2026,cumulative number,smta received by germany,other,p,,,(5) number of smtas,5
+2007,cumulative number,smta received by germany,university,,,,(5) number of smtas,
+2008,cumulative number,smta received by germany,university,,,,(5) number of smtas,0
+2009,cumulative number,smta received by germany,university,,,,(5) number of smtas,0
 2010,cumulative number,smta received by germany,university,‒,,,(5) number of smtas,0
 2011,cumulative number,smta received by germany,university,‒,,,(5) number of smtas,0
 2012,cumulative number,smta received by germany,university,‒,,,(5) number of smtas,0
@@ -186,6 +219,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta received by germany,university,,,,(5) number of smtas,13
 2025,cumulative number,smta received by germany,university,,,,(5) number of smtas,13
 2026,cumulative number,smta received by germany,university,p,,,(5) number of smtas,13
+2007,cumulative number,smta received by germany,individual,,,,(5) number of smtas,2
+2008,cumulative number,smta received by germany,individual,,,,(5) number of smtas,23
+2009,cumulative number,smta received by germany,individual,,,,(5) number of smtas,54
 2010,cumulative number,smta received by germany,individual,,,,(5) number of smtas,84
 2011,cumulative number,smta received by germany,individual,,,,(5) number of smtas,382
 2012,cumulative number,smta received by germany,individual,,,,(5) number of smtas,1299
@@ -203,6 +239,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4932
 2025,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4935
 2026,cumulative number,smta received by germany,individual,p,,,(5) number of smtas,4935
+2007,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,
+2008,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,0
+2009,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,0
 2010,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0
 2011,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0
 2012,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0
@@ -220,6 +259,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,4291
 2025,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,5655
 2026,cumulative number,smta received by germany,increase project,p,,,(5) number of smtas,5758
+2007,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,33
+2008,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,386
+2009,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,851
 2010,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,1411
 2011,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,2305
 2012,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,2617
@@ -237,6 +279,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,5901
 2025,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,5901
 2026,cumulative number,smta received by germany,unknown,p,,,(5) number of smtas,5901
+2007,cumulative number,smta sent by germany,,,,,(5) number of smtas,42
+2008,cumulative number,smta sent by germany,,,,,(5) number of smtas,591
+2009,cumulative number,smta sent by germany,,,,,(5) number of smtas,1295
 2010,cumulative number,smta sent by germany,,,,,(5) number of smtas,2132
 2011,cumulative number,smta sent by germany,,,,,(5) number of smtas,3566
 2012,cumulative number,smta sent by germany,,,,,(5) number of smtas,5022
@@ -254,6 +299,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta sent by germany,,,,,(5) number of smtas,14332
 2025,cumulative number,smta sent by germany,,,,,(5) number of smtas,14490
 2026,cumulative number,smta sent by germany,,p,,,(5) number of smtas,14610
+2007,cumulative number,smta sent by germany,commercial company,,,,(5) number of smtas,
+2008,cumulative number,smta sent by germany,commercial company,,,,(5) number of smtas,0
+2009,cumulative number,smta sent by germany,commercial company,,,,(5) number of smtas,0
 2010,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0
 2011,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0
 2012,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0
@@ -271,6 +319,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0
 2025,cumulative number,smta sent by germany,commercial company,,,,(5) number of smtas,1
 2026,cumulative number,smta sent by germany,commercial company,p,,,(5) number of smtas,4
+2007,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,42
+2008,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,591
+2009,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,1295
 2010,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,2132
 2011,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,3566
 2012,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,5022
@@ -288,6 +339,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,14100
 2025,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,14100
 2026,cumulative number,smta sent by germany,gene bank,p,,,(5) number of smtas,14100
+2007,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,
+2008,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,0
+2009,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,0
 2010,cumulative number,smta sent by germany,national agricultural research centre,‒,,,(5) number of smtas,0
 2011,cumulative number,smta sent by germany,national agricultural research centre,‒,,,(5) number of smtas,0
 2012,cumulative number,smta sent by germany,national agricultural research centre,‒,,,(5) number of smtas,0
@@ -305,6 +359,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,44
 2025,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,44
 2026,cumulative number,smta sent by germany,national agricultural research centre,p,,,(5) number of smtas,44
+2007,cumulative number,smta sent by germany,other,,,,(5) number of smtas,
+2008,cumulative number,smta sent by germany,other,,,,(5) number of smtas,0
+2009,cumulative number,smta sent by germany,other,,,,(5) number of smtas,0
 2010,cumulative number,smta sent by germany,other,‒,,,(5) number of smtas,0
 2011,cumulative number,smta sent by germany,other,‒,,,(5) number of smtas,0
 2012,cumulative number,smta sent by germany,other,‒,,,(5) number of smtas,0
@@ -322,6 +379,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,cumulative number,smta sent by germany,other,,,,(5) number of smtas,6
 2025,cumulative number,smta sent by germany,other,,,,(5) number of smtas,6
 2026,cumulative number,smta sent by germany,other,p,,,(5) number of smtas,6
+2007,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,
+2008,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,0
+2009,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,0
 2010,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0
 2011,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0
 2012,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0
