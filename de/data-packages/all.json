@@ -1095,10 +1095,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -7101,6 +7100,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "…",
                 "r",
                 ""
               ]
@@ -8248,8 +8248,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SMTA empfangen von Deutschland",
-                "SMTA gesendet von Deutschland",
+                "germany as receiver",
+                "germany as provider",
                 ""
               ]
             },
@@ -8316,7 +8316,7 @@
                 "2) Vertragspartei des Nagoya-Protokolls",
                 "3) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des PGRFA gemeldet wurden",
                 "4) Vorhandensein von Rahmenbedingungen oder Maßnahmen, die dem ABS Clearing-House gemeldet wurden",
-                "5) Anzahl der standardisierten Materialübertragungs-vereinbarungen",
+                "(5) standard material transfer agreements (smtas)",
                 ""
               ]
             },

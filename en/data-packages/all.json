@@ -1095,10 +1095,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -7101,6 +7100,7 @@
             "constraints": {
               "enum": [
                 "p",
+                "…",
                 "r",
                 ""
               ]
@@ -8248,8 +8248,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SMTA received by Germany",
-                "SMTA sent by Germany",
+                "germany as receiver",
+                "germany as provider",
                 ""
               ]
             },
@@ -8316,7 +8316,7 @@
                 "(2) Contracting party to the Nagoya Protocol",
                 "(3) Existence of framework or measures reported through the Online Reporting System on Compliance of the PGRFA",
                 "(4) Existence of framework or measures reported to the Access and Benefit-Sharing Clearing-House",
-                "(5) Number of SMTAs",
+                "(5) standard material transfer agreements (smtas)",
                 ""
               ]
             },

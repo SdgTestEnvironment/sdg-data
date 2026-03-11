@@ -63,7 +63,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-2-1,"COMMENT_OBS_0, sex, form of abuse",3
 #16-2-2,"COMMENT_OBS_0, sex, age group, form of exploitation",4
 #16-3-1,"COMMENT_OBS_0, sex, age group, type of violence, type of physical violence, type of sexual violence",6
-#16-3-2,"COMMENT_OBS_0, sex",2
+#16-3-2,sex,1
 #16-3-3,"COMMENT_OBS_0, time series, outcome of the application process",3
 #16-4-2,COMMENT_OBS_0,1
 #16-5-1,"COMMENT_OBS_0, sex",2

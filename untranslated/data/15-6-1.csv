@@ -59,9 +59,9 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,1.0
 2025,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,1.0
 2026,"yes=1, no=0",,,,,,(3) existence of framework or measures reported through the online reporting system on compliance of the pgrfa,1.0
-2007,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1.0
-2008,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1.0
-2009,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1.0
+2007,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,
+2008,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,
+2009,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,
 2010,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1.0
 2011,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1.0
 2012,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1.0
@@ -79,323 +79,323 @@ Year,Units,'time series ',type of receiver/provider,COMMENT_OBS_0,COMMENT_OBS_1,
 2024,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1.0
 2025,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1.0
 2026,"yes=1, no=0",,,,,,(4) existence of framework or measures reported to the access and benefit-sharing clearing-house,1.0
-2007,cumulative number,smta received by germany,,,,,(5) number of smtas,35.0
-2008,cumulative number,smta received by germany,,,,,(5) number of smtas,409.0
-2009,cumulative number,smta received by germany,,,,,(5) number of smtas,905.0
-2010,cumulative number,smta received by germany,,,,,(5) number of smtas,1495.0
-2011,cumulative number,smta received by germany,,,,,(5) number of smtas,2687.0
-2012,cumulative number,smta received by germany,,,,,(5) number of smtas,3916.0
-2013,cumulative number,smta received by germany,,,,,(5) number of smtas,5034.0
-2014,cumulative number,smta received by germany,,,,,(5) number of smtas,6089.0
-2015,cumulative number,smta received by germany,,,,,(5) number of smtas,7311.0
-2016,cumulative number,smta received by germany,,,,,(5) number of smtas,8367.0
-2017,cumulative number,smta received by germany,,,,,(5) number of smtas,8754.0
-2018,cumulative number,smta received by germany,,,,,(5) number of smtas,9153.0
-2019,cumulative number,smta received by germany,,,,,(5) number of smtas,9518.0
-2020,cumulative number,smta received by germany,,,,,(5) number of smtas,9903.0
-2021,cumulative number,smta received by germany,,,,,(5) number of smtas,10564.0
-2022,cumulative number,smta received by germany,,,,,(5) number of smtas,11398.0
-2023,cumulative number,smta received by germany,,,,,(5) number of smtas,13261.0
-2024,cumulative number,smta received by germany,,,,,(5) number of smtas,15195.0
-2025,cumulative number,smta received by germany,,,,,(5) number of smtas,16574.0
-2026,cumulative number,smta received by germany,,p,,,(5) number of smtas,16677.0
-2007,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,
-2008,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,0.0
-2009,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,0.0
-2010,cumulative number,smta received by germany,commercial company,‒,,,(5) number of smtas,0.0
-2011,cumulative number,smta received by germany,commercial company,‒,,,(5) number of smtas,0.0
-2012,cumulative number,smta received by germany,commercial company,‒,,,(5) number of smtas,0.0
-2013,cumulative number,smta received by germany,commercial company,‒,,,(5) number of smtas,0.0
-2014,cumulative number,smta received by germany,commercial company,‒,,,(5) number of smtas,0.0
-2015,cumulative number,smta received by germany,commercial company,‒,,,(5) number of smtas,0.0
-2016,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,5.0
-2017,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,6.0
-2018,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,19.0
-2019,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,30.0
-2020,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,38.0
-2021,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,38.0
-2022,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,38.0
-2023,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,38.0
-2024,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,41.0
-2025,cumulative number,smta received by germany,commercial company,,,,(5) number of smtas,44.0
-2026,cumulative number,smta received by germany,commercial company,p,,,(5) number of smtas,44.0
-2007,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,
-2008,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,0.0
-2009,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,0.0
-2010,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0.0
-2011,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0.0
-2012,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0.0
-2013,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0.0
-2014,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0.0
-2015,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0.0
-2016,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0.0
-2017,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0.0
-2018,cumulative number,smta received by germany,gene bank,‒,,,(5) number of smtas,0.0
-2019,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,1.0
-2020,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,3.0
-2021,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,4.0
-2022,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,4.0
-2023,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,5.0
-2024,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,7.0
-2025,cumulative number,smta received by germany,gene bank,,,,(5) number of smtas,10.0
-2026,cumulative number,smta received by germany,gene bank,p,,,(5) number of smtas,10.0
-2007,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,
-2008,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,0.0
-2009,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,0.0
-2010,cumulative number,smta received by germany,national agricultural research centre,‒,,,(5) number of smtas,0.0
-2011,cumulative number,smta received by germany,national agricultural research centre,‒,,,(5) number of smtas,0.0
-2012,cumulative number,smta received by germany,national agricultural research centre,‒,,,(5) number of smtas,0.0
-2013,cumulative number,smta received by germany,national agricultural research centre,‒,,,(5) number of smtas,0.0
-2014,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,1.0
-2015,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,1.0
-2016,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,1.0
-2017,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,1.0
-2018,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,1.0
-2019,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,1.0
-2020,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,2.0
-2021,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,2.0
-2022,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,2.0
-2023,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,4.0
-2024,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,4.0
-2025,cumulative number,smta received by germany,national agricultural research centre,,,,(5) number of smtas,5.0
-2026,cumulative number,smta received by germany,national agricultural research centre,p,,,(5) number of smtas,5.0
-2007,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,
-2008,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,0.0
-2009,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,0.0
-2010,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0.0
-2011,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0.0
-2012,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0.0
-2013,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0.0
-2014,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0.0
-2015,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0.0
-2016,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0.0
-2017,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0.0
-2018,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0.0
-2019,cumulative number,smta received by germany,non-governmental organization,‒,,,(5) number of smtas,0.0
-2020,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,1.0
-2021,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,1.0
-2022,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,1.0
-2023,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,1.0
-2024,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,1.0
-2025,cumulative number,smta received by germany,non-governmental organization,,,,(5) number of smtas,6.0
-2026,cumulative number,smta received by germany,non-governmental organization,p,,,(5) number of smtas,6.0
-2007,cumulative number,smta received by germany,other,,,,(5) number of smtas,
-2008,cumulative number,smta received by germany,other,,,,(5) number of smtas,0.0
-2009,cumulative number,smta received by germany,other,,,,(5) number of smtas,0.0
-2010,cumulative number,smta received by germany,other,‒,,,(5) number of smtas,0.0
-2011,cumulative number,smta received by germany,other,‒,,,(5) number of smtas,0.0
-2012,cumulative number,smta received by germany,other,‒,,,(5) number of smtas,0.0
-2013,cumulative number,smta received by germany,other,‒,,,(5) number of smtas,0.0
-2014,cumulative number,smta received by germany,other,‒,,,(5) number of smtas,0.0
-2015,cumulative number,smta received by germany,other,‒,,,(5) number of smtas,0.0
-2016,cumulative number,smta received by germany,other,,,,(5) number of smtas,2.0
-2017,cumulative number,smta received by germany,other,,,,(5) number of smtas,3.0
-2018,cumulative number,smta received by germany,other,,,,(5) number of smtas,3.0
-2019,cumulative number,smta received by germany,other,,,,(5) number of smtas,3.0
-2020,cumulative number,smta received by germany,other,,,,(5) number of smtas,4.0
-2021,cumulative number,smta received by germany,other,,,,(5) number of smtas,4.0
-2022,cumulative number,smta received by germany,other,,,,(5) number of smtas,4.0
-2023,cumulative number,smta received by germany,other,,,,(5) number of smtas,4.0
-2024,cumulative number,smta received by germany,other,,,,(5) number of smtas,5.0
-2025,cumulative number,smta received by germany,other,,,,(5) number of smtas,5.0
-2026,cumulative number,smta received by germany,other,p,,,(5) number of smtas,5.0
-2007,cumulative number,smta received by germany,university,,,,(5) number of smtas,
-2008,cumulative number,smta received by germany,university,,,,(5) number of smtas,0.0
-2009,cumulative number,smta received by germany,university,,,,(5) number of smtas,0.0
-2010,cumulative number,smta received by germany,university,‒,,,(5) number of smtas,0.0
-2011,cumulative number,smta received by germany,university,‒,,,(5) number of smtas,0.0
-2012,cumulative number,smta received by germany,university,‒,,,(5) number of smtas,0.0
-2013,cumulative number,smta received by germany,university,‒,,,(5) number of smtas,0.0
-2014,cumulative number,smta received by germany,university,,,,(5) number of smtas,1.0
-2015,cumulative number,smta received by germany,university,,,,(5) number of smtas,3.0
-2016,cumulative number,smta received by germany,university,,,,(5) number of smtas,5.0
-2017,cumulative number,smta received by germany,university,,,,(5) number of smtas,8.0
-2018,cumulative number,smta received by germany,university,,,,(5) number of smtas,8.0
-2019,cumulative number,smta received by germany,university,,,,(5) number of smtas,8.0
-2020,cumulative number,smta received by germany,university,,,,(5) number of smtas,8.0
-2021,cumulative number,smta received by germany,university,,,,(5) number of smtas,9.0
-2022,cumulative number,smta received by germany,university,,,,(5) number of smtas,9.0
-2023,cumulative number,smta received by germany,university,,,,(5) number of smtas,11.0
-2024,cumulative number,smta received by germany,university,,,,(5) number of smtas,13.0
-2025,cumulative number,smta received by germany,university,,,,(5) number of smtas,13.0
-2026,cumulative number,smta received by germany,university,p,,,(5) number of smtas,13.0
-2007,cumulative number,smta received by germany,individual,,,,(5) number of smtas,2.0
-2008,cumulative number,smta received by germany,individual,,,,(5) number of smtas,23.0
-2009,cumulative number,smta received by germany,individual,,,,(5) number of smtas,54.0
-2010,cumulative number,smta received by germany,individual,,,,(5) number of smtas,84.0
-2011,cumulative number,smta received by germany,individual,,,,(5) number of smtas,382.0
-2012,cumulative number,smta received by germany,individual,,,,(5) number of smtas,1299.0
-2013,cumulative number,smta received by germany,individual,,,,(5) number of smtas,2107.0
-2014,cumulative number,smta received by germany,individual,,,,(5) number of smtas,2843.0
-2015,cumulative number,smta received by germany,individual,,,,(5) number of smtas,3604.0
-2016,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4214.0
-2017,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4328.0
-2018,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4441.0
-2019,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4575.0
-2020,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4678.0
-2021,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4800.0
-2022,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4877.0
-2023,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4918.0
-2024,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4932.0
-2025,cumulative number,smta received by germany,individual,,,,(5) number of smtas,4935.0
-2026,cumulative number,smta received by germany,individual,p,,,(5) number of smtas,4935.0
-2007,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,
-2008,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,0.0
-2009,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,0.0
-2010,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0.0
-2011,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0.0
-2012,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0.0
-2013,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0.0
-2014,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0.0
-2015,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0.0
-2016,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0.0
-2017,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0.0
-2018,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0.0
-2019,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0.0
-2020,cumulative number,smta received by germany,increase project,‒,,,(5) number of smtas,0.0
-2021,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,226.0
-2022,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,706.0
-2023,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,2396.0
-2024,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,4291.0
-2025,cumulative number,smta received by germany,increase project,,,,(5) number of smtas,5655.0
-2026,cumulative number,smta received by germany,increase project,p,,,(5) number of smtas,5758.0
-2007,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,33.0
-2008,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,386.0
-2009,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,851.0
-2010,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,1411.0
-2011,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,2305.0
-2012,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,2617.0
-2013,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,2927.0
-2014,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,3244.0
-2015,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,3703.0
-2016,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,4140.0
-2017,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,4408.0
-2018,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,4681.0
-2019,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,4900.0
-2020,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,5169.0
-2021,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,5480.0
-2022,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,5757.0
-2023,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,5884.0
-2024,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,5901.0
-2025,cumulative number,smta received by germany,unknown,,,,(5) number of smtas,5901.0
-2026,cumulative number,smta received by germany,unknown,p,,,(5) number of smtas,5901.0
-2007,cumulative number,smta sent by germany,,,,,(5) number of smtas,42.0
-2008,cumulative number,smta sent by germany,,,,,(5) number of smtas,591.0
-2009,cumulative number,smta sent by germany,,,,,(5) number of smtas,1295.0
-2010,cumulative number,smta sent by germany,,,,,(5) number of smtas,2132.0
-2011,cumulative number,smta sent by germany,,,,,(5) number of smtas,3566.0
-2012,cumulative number,smta sent by germany,,,,,(5) number of smtas,5022.0
-2013,cumulative number,smta sent by germany,,,,,(5) number of smtas,6314.0
-2014,cumulative number,smta sent by germany,,,,,(5) number of smtas,7675.0
-2015,cumulative number,smta sent by germany,,,,,(5) number of smtas,9241.0
-2016,cumulative number,smta sent by germany,,,,,(5) number of smtas,10567.0
-2017,cumulative number,smta sent by germany,,,,,(5) number of smtas,11135.0
-2018,cumulative number,smta sent by germany,,,,,(5) number of smtas,11709.0
-2019,cumulative number,smta sent by germany,,,,,(5) number of smtas,12296.0
-2020,cumulative number,smta sent by germany,,,,,(5) number of smtas,12812.0
-2021,cumulative number,smta sent by germany,,,,,(5) number of smtas,13415.0
-2022,cumulative number,smta sent by germany,,,,,(5) number of smtas,13908.0
-2023,cumulative number,smta sent by germany,,,,,(5) number of smtas,14176.0
-2024,cumulative number,smta sent by germany,,,,,(5) number of smtas,14332.0
-2025,cumulative number,smta sent by germany,,,,,(5) number of smtas,14490.0
-2026,cumulative number,smta sent by germany,,p,,,(5) number of smtas,14610.0
-2007,cumulative number,smta sent by germany,commercial company,,,,(5) number of smtas,
-2008,cumulative number,smta sent by germany,commercial company,,,,(5) number of smtas,0.0
-2009,cumulative number,smta sent by germany,commercial company,,,,(5) number of smtas,0.0
-2010,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2011,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2012,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2013,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2014,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2015,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2016,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2017,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2018,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2019,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2020,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2021,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2022,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2023,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2024,cumulative number,smta sent by germany,commercial company,‒,,,(5) number of smtas,0.0
-2025,cumulative number,smta sent by germany,commercial company,,,,(5) number of smtas,1.0
-2026,cumulative number,smta sent by germany,commercial company,p,,,(5) number of smtas,4.0
-2007,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,42.0
-2008,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,591.0
-2009,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,1295.0
-2010,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,2132.0
-2011,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,3566.0
-2012,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,5022.0
-2013,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,6314.0
-2014,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,7675.0
-2015,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,9241.0
-2016,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,10560.0
-2017,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,11126.0
-2018,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,11685.0
-2019,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,12256.0
-2020,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,12761.0
-2021,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,13364.0
-2022,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,13850.0
-2023,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,14100.0
-2024,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,14100.0
-2025,cumulative number,smta sent by germany,gene bank,,,,(5) number of smtas,14100.0
-2026,cumulative number,smta sent by germany,gene bank,p,,,(5) number of smtas,14100.0
-2007,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,
-2008,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,0.0
-2009,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,0.0
-2010,cumulative number,smta sent by germany,national agricultural research centre,‒,,,(5) number of smtas,0.0
-2011,cumulative number,smta sent by germany,national agricultural research centre,‒,,,(5) number of smtas,0.0
-2012,cumulative number,smta sent by germany,national agricultural research centre,‒,,,(5) number of smtas,0.0
-2013,cumulative number,smta sent by germany,national agricultural research centre,‒,,,(5) number of smtas,0.0
-2014,cumulative number,smta sent by germany,national agricultural research centre,‒,,,(5) number of smtas,0.0
-2015,cumulative number,smta sent by germany,national agricultural research centre,‒,,,(5) number of smtas,0.0
-2016,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,3.0
-2017,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,3.0
-2018,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,18.0
-2019,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,34.0
-2020,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,44.0
-2021,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,44.0
-2022,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,44.0
-2023,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,44.0
-2024,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,44.0
-2025,cumulative number,smta sent by germany,national agricultural research centre,,,,(5) number of smtas,44.0
-2026,cumulative number,smta sent by germany,national agricultural research centre,p,,,(5) number of smtas,44.0
-2007,cumulative number,smta sent by germany,other,,,,(5) number of smtas,
-2008,cumulative number,smta sent by germany,other,,,,(5) number of smtas,0.0
-2009,cumulative number,smta sent by germany,other,,,,(5) number of smtas,0.0
-2010,cumulative number,smta sent by germany,other,‒,,,(5) number of smtas,0.0
-2011,cumulative number,smta sent by germany,other,‒,,,(5) number of smtas,0.0
-2012,cumulative number,smta sent by germany,other,‒,,,(5) number of smtas,0.0
-2013,cumulative number,smta sent by germany,other,‒,,,(5) number of smtas,0.0
-2014,cumulative number,smta sent by germany,other,‒,,,(5) number of smtas,0.0
-2015,cumulative number,smta sent by germany,other,‒,,,(5) number of smtas,0.0
-2016,cumulative number,smta sent by germany,other,,,,(5) number of smtas,4.0
-2017,cumulative number,smta sent by germany,other,,,,(5) number of smtas,6.0
-2018,cumulative number,smta sent by germany,other,,,,(5) number of smtas,6.0
-2019,cumulative number,smta sent by germany,other,,,,(5) number of smtas,6.0
-2020,cumulative number,smta sent by germany,other,,,,(5) number of smtas,6.0
-2021,cumulative number,smta sent by germany,other,,,,(5) number of smtas,6.0
-2022,cumulative number,smta sent by germany,other,,,,(5) number of smtas,6.0
-2023,cumulative number,smta sent by germany,other,,,,(5) number of smtas,6.0
-2024,cumulative number,smta sent by germany,other,,,,(5) number of smtas,6.0
-2025,cumulative number,smta sent by germany,other,,,,(5) number of smtas,6.0
-2026,cumulative number,smta sent by germany,other,p,,,(5) number of smtas,6.0
-2007,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,
-2008,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,0.0
-2009,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,0.0
-2010,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0.0
-2011,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0.0
-2012,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0.0
-2013,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0.0
-2014,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0.0
-2015,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0.0
-2016,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0.0
-2017,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0.0
-2018,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0.0
-2019,cumulative number,smta sent by germany,regional organization,‒,,,(5) number of smtas,0.0
-2020,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,1.0
-2021,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,1.0
-2022,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,1.0
-2023,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,1.0
-2024,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,1.0
-2025,cumulative number,smta sent by germany,regional organization,,,,(5) number of smtas,1.0
-2026,cumulative number,smta sent by germany,regional organization,p,,,(5) number of smtas,1.0
+2007,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),35.0
+2008,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),409.0
+2009,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),905.0
+2010,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),1495.0
+2011,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),2687.0
+2012,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),3916.0
+2013,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),5034.0
+2014,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),6089.0
+2015,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),7311.0
+2016,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),8367.0
+2017,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),8754.0
+2018,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),9153.0
+2019,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),9518.0
+2020,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),9903.0
+2021,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),10564.0
+2022,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),11398.0
+2023,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),13261.0
+2024,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),15195.0
+2025,cumulative number,germany as receiver,,,,,(5) standard material transfer agreements (smtas),16574.0
+2026,cumulative number,germany as receiver,,p,,,(5) standard material transfer agreements (smtas),16677.0
+2007,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),0.0
+2008,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),0.0
+2009,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),0.0
+2010,cumulative number,germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2011,cumulative number,germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2012,cumulative number,germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2013,cumulative number,germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2014,cumulative number,germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2015,cumulative number,germany as receiver,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2016,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),5.0
+2017,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),6.0
+2018,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),19.0
+2019,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),30.0
+2020,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),38.0
+2021,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),38.0
+2022,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),38.0
+2023,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),38.0
+2024,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),41.0
+2025,cumulative number,germany as receiver,commercial company,,,,(5) standard material transfer agreements (smtas),44.0
+2026,cumulative number,germany as receiver,commercial company,p,,,(5) standard material transfer agreements (smtas),44.0
+2007,cumulative number,germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),0.0
+2008,cumulative number,germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),0.0
+2009,cumulative number,germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),0.0
+2010,cumulative number,germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0.0
+2011,cumulative number,germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0.0
+2012,cumulative number,germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0.0
+2013,cumulative number,germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0.0
+2014,cumulative number,germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0.0
+2015,cumulative number,germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0.0
+2016,cumulative number,germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0.0
+2017,cumulative number,germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0.0
+2018,cumulative number,germany as receiver,gene bank,‒,,,(5) standard material transfer agreements (smtas),0.0
+2019,cumulative number,germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),1.0
+2020,cumulative number,germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),3.0
+2021,cumulative number,germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),4.0
+2022,cumulative number,germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),4.0
+2023,cumulative number,germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),5.0
+2024,cumulative number,germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),7.0
+2025,cumulative number,germany as receiver,gene bank,,,,(5) standard material transfer agreements (smtas),10.0
+2026,cumulative number,germany as receiver,gene bank,p,,,(5) standard material transfer agreements (smtas),10.0
+2007,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0.0
+2008,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0.0
+2009,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0.0
+2010,cumulative number,germany as receiver,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0.0
+2011,cumulative number,germany as receiver,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0.0
+2012,cumulative number,germany as receiver,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0.0
+2013,cumulative number,germany as receiver,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0.0
+2014,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),1.0
+2015,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),1.0
+2016,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),1.0
+2017,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),1.0
+2018,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),1.0
+2019,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),1.0
+2020,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),2.0
+2021,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),2.0
+2022,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),2.0
+2023,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),4.0
+2024,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),4.0
+2025,cumulative number,germany as receiver,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),5.0
+2026,cumulative number,germany as receiver,national agricultural research centre,p,,,(5) standard material transfer agreements (smtas),5.0
+2007,cumulative number,germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),0.0
+2008,cumulative number,germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),0.0
+2009,cumulative number,germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),0.0
+2010,cumulative number,germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2011,cumulative number,germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2012,cumulative number,germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2013,cumulative number,germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2014,cumulative number,germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2015,cumulative number,germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2016,cumulative number,germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2017,cumulative number,germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2018,cumulative number,germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2019,cumulative number,germany as receiver,non-governmental organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2020,cumulative number,germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),1.0
+2021,cumulative number,germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),1.0
+2022,cumulative number,germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),1.0
+2023,cumulative number,germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),1.0
+2024,cumulative number,germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),1.0
+2025,cumulative number,germany as receiver,non-governmental organization,,,,(5) standard material transfer agreements (smtas),6.0
+2026,cumulative number,germany as receiver,non-governmental organization,p,,,(5) standard material transfer agreements (smtas),6.0
+2007,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),0.0
+2008,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),0.0
+2009,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),0.0
+2010,cumulative number,germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2011,cumulative number,germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2012,cumulative number,germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2013,cumulative number,germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2014,cumulative number,germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2015,cumulative number,germany as receiver,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2016,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),2.0
+2017,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),3.0
+2018,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),3.0
+2019,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),3.0
+2020,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),4.0
+2021,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),4.0
+2022,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),4.0
+2023,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),4.0
+2024,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),5.0
+2025,cumulative number,germany as receiver,other,,,,(5) standard material transfer agreements (smtas),5.0
+2026,cumulative number,germany as receiver,other,p,,,(5) standard material transfer agreements (smtas),5.0
+2007,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),0.0
+2008,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),0.0
+2009,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),0.0
+2010,cumulative number,germany as receiver,university,‒,,,(5) standard material transfer agreements (smtas),0.0
+2011,cumulative number,germany as receiver,university,‒,,,(5) standard material transfer agreements (smtas),0.0
+2012,cumulative number,germany as receiver,university,‒,,,(5) standard material transfer agreements (smtas),0.0
+2013,cumulative number,germany as receiver,university,‒,,,(5) standard material transfer agreements (smtas),0.0
+2014,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),1.0
+2015,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),3.0
+2016,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),5.0
+2017,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),8.0
+2018,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),8.0
+2019,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),8.0
+2020,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),8.0
+2021,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),9.0
+2022,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),9.0
+2023,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),11.0
+2024,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),13.0
+2025,cumulative number,germany as receiver,university,,,,(5) standard material transfer agreements (smtas),13.0
+2026,cumulative number,germany as receiver,university,p,,,(5) standard material transfer agreements (smtas),13.0
+2007,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),2.0
+2008,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),23.0
+2009,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),54.0
+2010,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),84.0
+2011,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),382.0
+2012,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),1299.0
+2013,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),2107.0
+2014,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),2843.0
+2015,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),3604.0
+2016,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4214.0
+2017,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4328.0
+2018,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4441.0
+2019,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4575.0
+2020,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4678.0
+2021,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4800.0
+2022,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4877.0
+2023,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4918.0
+2024,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4932.0
+2025,cumulative number,germany as receiver,individual,,,,(5) standard material transfer agreements (smtas),4935.0
+2026,cumulative number,germany as receiver,individual,p,,,(5) standard material transfer agreements (smtas),4935.0
+2007,cumulative number,germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),0.0
+2008,cumulative number,germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),0.0
+2009,cumulative number,germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),0.0
+2010,cumulative number,germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0.0
+2011,cumulative number,germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0.0
+2012,cumulative number,germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0.0
+2013,cumulative number,germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0.0
+2014,cumulative number,germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0.0
+2015,cumulative number,germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0.0
+2016,cumulative number,germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0.0
+2017,cumulative number,germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0.0
+2018,cumulative number,germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0.0
+2019,cumulative number,germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0.0
+2020,cumulative number,germany as receiver,increase project,‒,,,(5) standard material transfer agreements (smtas),0.0
+2021,cumulative number,germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),226.0
+2022,cumulative number,germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),706.0
+2023,cumulative number,germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),2396.0
+2024,cumulative number,germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),4291.0
+2025,cumulative number,germany as receiver,increase project,,,,(5) standard material transfer agreements (smtas),5655.0
+2026,cumulative number,germany as receiver,increase project,p,,,(5) standard material transfer agreements (smtas),5758.0
+2007,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),33.0
+2008,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),386.0
+2009,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),851.0
+2010,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),1411.0
+2011,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),2305.0
+2012,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),2617.0
+2013,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),2927.0
+2014,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),3244.0
+2015,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),3703.0
+2016,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),4140.0
+2017,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),4408.0
+2018,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),4681.0
+2019,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),4900.0
+2020,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),5169.0
+2021,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),5480.0
+2022,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),5757.0
+2023,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),5884.0
+2024,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),5901.0
+2025,cumulative number,germany as receiver,unknown,,,,(5) standard material transfer agreements (smtas),5901.0
+2026,cumulative number,germany as receiver,unknown,p,,,(5) standard material transfer agreements (smtas),5901.0
+2007,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),42.0
+2008,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),591.0
+2009,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),1295.0
+2010,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),2132.0
+2011,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),3566.0
+2012,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),5022.0
+2013,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),6314.0
+2014,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),7675.0
+2015,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),9241.0
+2016,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),10567.0
+2017,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),11135.0
+2018,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),11709.0
+2019,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),12296.0
+2020,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),12812.0
+2021,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),13415.0
+2022,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),13908.0
+2023,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),14176.0
+2024,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),14332.0
+2025,cumulative number,germany as provider,,,,,(5) standard material transfer agreements (smtas),14490.0
+2026,cumulative number,germany as provider,,p,,,(5) standard material transfer agreements (smtas),14610.0
+2007,cumulative number,germany as provider,commercial company,,,,(5) standard material transfer agreements (smtas),0.0
+2008,cumulative number,germany as provider,commercial company,,,,(5) standard material transfer agreements (smtas),0.0
+2009,cumulative number,germany as provider,commercial company,,,,(5) standard material transfer agreements (smtas),0.0
+2010,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2011,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2012,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2013,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2014,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2015,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2016,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2017,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2018,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2019,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2020,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2021,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2022,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2023,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2024,cumulative number,germany as provider,commercial company,‒,,,(5) standard material transfer agreements (smtas),0.0
+2025,cumulative number,germany as provider,commercial company,,,,(5) standard material transfer agreements (smtas),1.0
+2026,cumulative number,germany as provider,commercial company,p,,,(5) standard material transfer agreements (smtas),4.0
+2007,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),42.0
+2008,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),591.0
+2009,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),1295.0
+2010,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),2132.0
+2011,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),3566.0
+2012,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),5022.0
+2013,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),6314.0
+2014,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),7675.0
+2015,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),9241.0
+2016,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),10560.0
+2017,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),11126.0
+2018,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),11685.0
+2019,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),12256.0
+2020,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),12761.0
+2021,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),13364.0
+2022,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),13850.0
+2023,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),14100.0
+2024,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),14100.0
+2025,cumulative number,germany as provider,gene bank,,,,(5) standard material transfer agreements (smtas),14100.0
+2026,cumulative number,germany as provider,gene bank,p,,,(5) standard material transfer agreements (smtas),14100.0
+2007,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0.0
+2008,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0.0
+2009,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),0.0
+2010,cumulative number,germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0.0
+2011,cumulative number,germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0.0
+2012,cumulative number,germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0.0
+2013,cumulative number,germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0.0
+2014,cumulative number,germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0.0
+2015,cumulative number,germany as provider,national agricultural research centre,‒,,,(5) standard material transfer agreements (smtas),0.0
+2016,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),3.0
+2017,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),3.0
+2018,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),18.0
+2019,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),34.0
+2020,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),44.0
+2021,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),44.0
+2022,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),44.0
+2023,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),44.0
+2024,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),44.0
+2025,cumulative number,germany as provider,national agricultural research centre,,,,(5) standard material transfer agreements (smtas),44.0
+2026,cumulative number,germany as provider,national agricultural research centre,p,,,(5) standard material transfer agreements (smtas),44.0
+2007,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),0.0
+2008,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),0.0
+2009,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),0.0
+2010,cumulative number,germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2011,cumulative number,germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2012,cumulative number,germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2013,cumulative number,germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2014,cumulative number,germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2015,cumulative number,germany as provider,other,‒,,,(5) standard material transfer agreements (smtas),0.0
+2016,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),4.0
+2017,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),6.0
+2018,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),6.0
+2019,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),6.0
+2020,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),6.0
+2021,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),6.0
+2022,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),6.0
+2023,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),6.0
+2024,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),6.0
+2025,cumulative number,germany as provider,other,,,,(5) standard material transfer agreements (smtas),6.0
+2026,cumulative number,germany as provider,other,p,,,(5) standard material transfer agreements (smtas),6.0
+2007,cumulative number,germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),0.0
+2008,cumulative number,germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),0.0
+2009,cumulative number,germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),0.0
+2010,cumulative number,germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2011,cumulative number,germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2012,cumulative number,germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2013,cumulative number,germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2014,cumulative number,germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2015,cumulative number,germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2016,cumulative number,germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2017,cumulative number,germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2018,cumulative number,germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2019,cumulative number,germany as provider,regional organization,‒,,,(5) standard material transfer agreements (smtas),0.0
+2020,cumulative number,germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),1.0
+2021,cumulative number,germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),1.0
+2022,cumulative number,germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),1.0
+2023,cumulative number,germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),1.0
+2024,cumulative number,germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),1.0
+2025,cumulative number,germany as provider,regional organization,,,,(5) standard material transfer agreements (smtas),1.0
+2026,cumulative number,germany as provider,regional organization,p,,,(5) standard material transfer agreements (smtas),1.0
