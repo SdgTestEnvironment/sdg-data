@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "germany as receiver",
-                "germany as provider",
+                "Germany as receiver",
+                "Germany as provider",
                 ""
               ]
             },
@@ -100,7 +100,7 @@
                 "(2) Contracting party to the Nagoya Protocol",
                 "(3) Existence of framework or measures reported through the Online Reporting System on Compliance of the PGRFA",
                 "(4) Existence of framework or measures reported to the Access and Benefit-Sharing Clearing-House",
-                "(5) standard material transfer agreements (smtas)",
+                "(5) Standard Material Transfer Agreements (SMTAs)",
                 ""
               ]
             },
