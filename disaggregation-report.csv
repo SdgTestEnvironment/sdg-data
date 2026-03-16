@@ -1,5 +1,5 @@
 Disaggregation,Number of indicators,Number of values
-age group,20,46
+age group,21,46
 age of mother,1,2
 area of law,1,4
 'area ',3,4
@@ -8,7 +8,7 @@ bioclimatic belt,1,3
 bound,1,2
 cause of death,3,10
 COMMENT_OBS_0,150,11
-COMMENT_OBS_1,10,5
+COMMENT_OBS_1,9,4
 completeness of disaggregation,1,3
 data source,1,2
 degree of urbanisation,2,4
@@ -48,7 +48,7 @@ score,1,2
 sea,1,2
 section,1,5
 sector,2,11
-sex,35,4
+sex,36,4
 speed,1,5
 stages of the food chain,1,3
 standard accounting system,1,2
@@ -59,7 +59,7 @@ technology,1,3
 thematic area,1,4
 time series,14,21
 'time series ',1,2
-timeseries,22,76
+timeseries,23,78
 treatment,1,2
 typ of victim-suspect relationship,1,3
 type of account,1,2

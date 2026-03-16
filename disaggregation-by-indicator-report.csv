@@ -109,7 +109,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-4-1,disease,1
 #3-4-2,COMMENT_OBS_0,1
 #3-5-1,"COMMENT_OBS_0, sex, substance, bound",4
-#3-6-1,COMMENT_OBS_0,1
+#3-6-1,"COMMENT_OBS_0, sex, timeseries, age group",4
 #3-7-2,age of mother,1
 #3-8-2,"COMMENT_OBS_0, proportion of household expenditures on health",2
 #3-9-1,disease,1
@@ -157,7 +157,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-1-1,COMMENT_OBS_0,1
 #8-10-1,"COMMENT_OBS_0, timeseries",2
 #8-10-2,"COMMENT_OBS_0, COMMENT_OBS_1, type of account",3
-#8-2-1,"COMMENT_OBS_0, COMMENT_OBS_1",2
+#8-2-1,COMMENT_OBS_0,1
 #8-4-1,COMMENT_OBS_0,1
 #8-4-2,COMMENT_OBS_0,1
 #8-5-1,"COMMENT_OBS_0, sex, age group, länder",4

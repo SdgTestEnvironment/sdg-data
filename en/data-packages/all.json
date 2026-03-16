@@ -2804,7 +2804,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
                 ""
               ]
@@ -4865,6 +4864,7 @@
             "constraints": {
               "enum": [
                 "…",
+                "r",
                 "p",
                 ""
               ]
@@ -5586,7 +5586,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
                 ""
               ]
@@ -7467,7 +7466,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
                 ""
               ]
@@ -8917,7 +8915,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -8968,8 +8966,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
+                "…",
                 ""
               ]
             },
@@ -11079,8 +11078,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
-                "0",
                 "p",
                 ""
               ]
@@ -11089,10 +11086,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "p",
                 ""
               ]
             },
@@ -11537,8 +11533,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
                 "r",
+                "p",
                 ""
               ]
             },
@@ -16995,6 +16991,59 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100,000 inhabitants",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mortality due to road traffic accidents regetristed by the police",
+                "Mortality due to road traffic accidents",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "14 years and younger",
+                "15 to under 25 years",
+                "25 to under 35 years",
+                "35 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 years and older",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",
