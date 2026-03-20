@@ -547,6 +547,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "p",
                 ".",
                 "0",
                 ""
@@ -703,8 +704,8 @@
             "constraints": {
               "enum": [
                 "|",
+                "p",
                 ".",
-                "r",
                 ""
               ]
             }
@@ -1528,8 +1529,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "0",
+                "r",
                 ""
               ]
             }
@@ -3565,6 +3566,24 @@
             }
           },
           {
+            "name": "occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "managers",
+                "professionals",
+                "technicians and associate professionals",
+                "clerical support workers",
+                "service and sales workers",
+                "skilled agricultural, forestry and fishery workers",
+                "craft and related trades workers",
+                "plant and machine operators and assemblers",
+                "elementary occupations",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -4004,7 +4023,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -4024,9 +4043,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             }
@@ -7750,6 +7770,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "p",
                 ""
               ]
             }
@@ -7866,19 +7887,60 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "million usd, constant prices (2023)",
+                "million eur",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "water supply & sanitation",
+                "transport and storage",
+                "communications",
+                "energy",
+                "urban development and management",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -9669,10 +9731,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -10630,6 +10691,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "p",
                 ""
               ]
             }
@@ -10926,6 +10988,7 @@
             "constraints": {
               "enum": [
                 "…",
+                "r",
                 ""
               ]
             }
@@ -12909,10 +12972,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -13116,7 +13178,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -13152,6 +13214,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "…",
                 ""
               ]
             }
@@ -13176,7 +13239,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -14188,6 +14251,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "p",
                 ""
               ]
             }
@@ -15559,7 +15623,8 @@
                 "35 to under 45 years",
                 "45 to under 55 years",
                 "55 to under 65 years",
-                "65 years and older",
+                "65 to under 75 years",
+                "75 years and older",
                 ""
               ]
             }

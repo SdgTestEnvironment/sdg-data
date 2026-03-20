@@ -48,6 +48,25 @@
             "title": "Altersklasse"
           },
           {
+            "name": "occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Führungskräfte",
+                "Akademische Berufe",
+                "Techniker und gleichrangige nichttechnische Berufe",
+                "Bürokräfte und verwandte Berufe",
+                "Dienstleistungsberufe und Verkäufer",
+                "Fachkräfte in Land- und Forstwirtschaft und Fischerei, Handwerks- und verwandte Berufe",
+                "Handwerks- und verwandte Berufe",
+                "Bediener von Anlagen und Maschinen und Montageberufe",
+                "Hilfsarbeitskräfte",
+                ""
+              ]
+            },
+            "title": "Beruf"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {

@@ -595,6 +595,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "p",
                 ".",
                 "0",
                 ""
@@ -765,8 +766,8 @@
             "constraints": {
               "enum": [
                 "|",
+                "p",
                 ".",
-                "r",
                 ""
               ]
             },
@@ -1668,8 +1669,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "0",
+                "r",
                 ""
               ]
             },
@@ -3900,6 +3901,25 @@
             "title": "Age group"
           },
           {
+            "name": "occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Managers",
+                "Professionals",
+                "Technicians and associate professionals",
+                "Clerical support workers",
+                "Service and sales workers",
+                "Skilled agricultural, forestry and fishery workers",
+                "Craft and related trades workers",
+                "Plant and machine operators and assemblers",
+                "Elementary occupations",
+                ""
+              ]
+            },
+            "title": "Occupation"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -4381,7 +4401,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -4403,9 +4423,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
                 ""
               ]
             },
@@ -8475,6 +8496,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "p",
                 ""
               ]
             },
@@ -8603,20 +8625,65 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Million USD, constant prices (2023)",
+                "Million EUR",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Water supply & sanitation",
+                "Transport and storage",
+                "Communications",
+                "Energy",
+                "Urban development and management",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -10576,10 +10643,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -11626,6 +11692,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "p",
                 ""
               ]
             },
@@ -11950,6 +12017,7 @@
             "constraints": {
               "enum": [
                 "…",
+                "r",
                 ""
               ]
             },
@@ -14125,10 +14193,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
@@ -14352,7 +14419,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -14391,6 +14458,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "…",
                 ""
               ]
             },
@@ -14418,7 +14486,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -15527,6 +15595,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "p",
                 ""
               ]
             },
@@ -17027,7 +17096,8 @@
                 "35 to under 45 years",
                 "45 to under 55 years",
                 "55 to under 65 years",
-                "65 years and older",
+                "65 to under 75 years",
+                "75 years and older",
                 ""
               ]
             },

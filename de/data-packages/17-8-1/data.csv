@@ -1,91 +1,97 @@
 Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,,,,,80
-2011,,,,,,81
-2012,,,,,,82
-2013,,,,,,84
-2014,,,,,,86
-2015,,,,,,88
-2016,,,,,,90
-2017,,,,,,90
-2018,,,,,,92
-2019,,,,,,93
-2020,,,,,,94
-2021,,,|,,,91
-2022,,,,,,92
-2023,,,,,,92
-2024,,,,,,94
-2010,,Weiblich,,,,76
-2011,,Weiblich,,,,78
-2012,,Weiblich,,,,79
-2013,,Weiblich,,,,81
-2014,,Weiblich,,,,84
-2015,,Weiblich,,,,85
-2016,,Weiblich,,,,88
-2017,,Weiblich,,,,89
-2018,,Weiblich,,,,91
-2019,,Weiblich,,,,92
-2020,,Weiblich,,,,93
-2021,,Weiblich,|,,,91
-2022,,Weiblich,,,,90
-2023,,Weiblich,,,,91
-2024,,Weiblich,,,,93
-2010,,Männlich,,,,84
-2011,,Männlich,,,,84
-2012,,Männlich,,,,85
-2013,,Männlich,,,,87
-2014,,Männlich,,,,89
-2015,,Männlich,,,,90
-2016,,Männlich,,,,91
-2017,,Männlich,,,,92
-2018,,Männlich,,,,94
-2019,,Männlich,,,,94
-2020,,Männlich,,,,95
-2021,,Männlich,|,,,92
-2022,,Männlich,,,,93
-2023,,Männlich,,,,93
-2024,,Männlich,,,,94
-2010,16 bis unter 25 Jahre,,,,,98
-2011,16 bis unter 25 Jahre,,,,,99
-2012,16 bis unter 25 Jahre,,,,,98
-2013,16 bis unter 25 Jahre,,,,,98
-2014,16 bis unter 25 Jahre,,,,,99
-2015,16 bis unter 25 Jahre,,,,,99
-2016,16 bis unter 25 Jahre,,,,,99
-2017,16 bis unter 25 Jahre,,,,,99
-2018,16 bis unter 25 Jahre,,,,,99
-2019,16 bis unter 25 Jahre,,,,,99
-2020,16 bis unter 25 Jahre,,,,,99
-2021,16 bis unter 25 Jahre,,|,,,98
-2022,16 bis unter 25 Jahre,,,,,96
-2023,16 bis unter 25 Jahre,,,,,97
-2024,16 bis unter 25 Jahre,,,,,97
-2010,25 bis unter 65 Jahre,,,,,85
-2011,25 bis unter 65 Jahre,,,,,87
-2012,25 bis unter 65 Jahre,,,,,88
-2013,25 bis unter 65 Jahre,,,,,89
-2014,25 bis unter 65 Jahre,,,,,91
-2015,25 bis unter 65 Jahre,,,,,92
-2016,25 bis unter 65 Jahre,,,,,93
-2017,25 bis unter 65 Jahre,,,,,93
-2018,25 bis unter 65 Jahre,,,,,95
-2019,25 bis unter 65 Jahre,,,,,96
-2020,25 bis unter 65 Jahre,,,,,97
-2021,25 bis unter 65 Jahre,,|,,,94
-2022,25 bis unter 65 Jahre,,,,,94
-2023,25 bis unter 65 Jahre,,,,,95
-2024,25 bis unter 65 Jahre,,,,,95
-2010,65 bis unter 75 Jahre,,,,,41
-2011,65 bis unter 75 Jahre,,,,,41
-2012,65 bis unter 75 Jahre,,,,,43
-2013,65 bis unter 75 Jahre,,,,,50
-2014,65 bis unter 75 Jahre,,,,,53
-2015,65 bis unter 75 Jahre,,,,,56
-2016,65 bis unter 75 Jahre,,,,,62
-2017,65 bis unter 75 Jahre,,,,,64
-2018,65 bis unter 75 Jahre,,,,,71
-2019,65 bis unter 75 Jahre,,,,,72
-2020,65 bis unter 75 Jahre,,,,,76
-2021,65 bis unter 75 Jahre,,|,,,74
-2022,65 bis unter 75 Jahre,,,,,77
-2023,65 bis unter 75 Jahre,,,,,79
-2024,65 bis unter 75 Jahre,,,,,83
+2010,,,,,,80.0
+2011,,,,,,81.0
+2012,,,,,,82.0
+2013,,,,,,84.0
+2014,,,,,,86.0
+2015,,,,,,88.0
+2016,,,,,,90.0
+2017,,,,,,90.0
+2018,,,,,,92.0
+2019,,,,,,93.0
+2020,,,,,,94.0
+2021,,,|,,,91.0
+2022,,,,,,92.0
+2023,,,,,,92.0
+2024,,,,,,94.0
+2025,,,,,,95.0
+2010,,Weiblich,,,,76.0
+2011,,Weiblich,,,,78.0
+2012,,Weiblich,,,,79.0
+2013,,Weiblich,,,,81.0
+2014,,Weiblich,,,,84.0
+2015,,Weiblich,,,,85.0
+2016,,Weiblich,,,,88.0
+2017,,Weiblich,,,,89.0
+2018,,Weiblich,,,,91.0
+2019,,Weiblich,,,,92.0
+2020,,Weiblich,,,,93.0
+2021,,Weiblich,|,,,91.0
+2022,,Weiblich,,,,90.0
+2023,,Weiblich,,,,91.0
+2024,,Weiblich,,,,93.0
+2025,,Weiblich,,,,94.0
+2010,,Männlich,,,,84.0
+2011,,Männlich,,,,84.0
+2012,,Männlich,,,,85.0
+2013,,Männlich,,,,87.0
+2014,,Männlich,,,,89.0
+2015,,Männlich,,,,90.0
+2016,,Männlich,,,,91.0
+2017,,Männlich,,,,92.0
+2018,,Männlich,,,,94.0
+2019,,Männlich,,,,94.0
+2020,,Männlich,,,,95.0
+2021,,Männlich,|,,,92.0
+2022,,Männlich,,,,93.0
+2023,,Männlich,,,,93.0
+2024,,Männlich,,,,94.0
+2025,,Männlich,,,,95.0
+2010,16 bis unter 25 Jahre,,,,,98.0
+2011,16 bis unter 25 Jahre,,,,,99.0
+2012,16 bis unter 25 Jahre,,,,,98.0
+2013,16 bis unter 25 Jahre,,,,,98.0
+2014,16 bis unter 25 Jahre,,,,,99.0
+2015,16 bis unter 25 Jahre,,,,,99.0
+2016,16 bis unter 25 Jahre,,,,,99.0
+2017,16 bis unter 25 Jahre,,,,,99.0
+2018,16 bis unter 25 Jahre,,,,,99.0
+2019,16 bis unter 25 Jahre,,,,,99.0
+2020,16 bis unter 25 Jahre,,,,,99.0
+2021,16 bis unter 25 Jahre,,|,,,98.0
+2022,16 bis unter 25 Jahre,,,,,96.0
+2023,16 bis unter 25 Jahre,,,,,97.0
+2024,16 bis unter 25 Jahre,,,,,97.0
+2025,16 bis unter 25 Jahre,,…,,,
+2010,25 bis unter 65 Jahre,,,,,85.0
+2011,25 bis unter 65 Jahre,,,,,87.0
+2012,25 bis unter 65 Jahre,,,,,88.0
+2013,25 bis unter 65 Jahre,,,,,89.0
+2014,25 bis unter 65 Jahre,,,,,91.0
+2015,25 bis unter 65 Jahre,,,,,92.0
+2016,25 bis unter 65 Jahre,,,,,93.0
+2017,25 bis unter 65 Jahre,,,,,93.0
+2018,25 bis unter 65 Jahre,,,,,95.0
+2019,25 bis unter 65 Jahre,,,,,96.0
+2020,25 bis unter 65 Jahre,,,,,97.0
+2021,25 bis unter 65 Jahre,,|,,,94.0
+2022,25 bis unter 65 Jahre,,,,,94.0
+2023,25 bis unter 65 Jahre,,,,,95.0
+2024,25 bis unter 65 Jahre,,,,,95.0
+2025,25 bis unter 65 Jahre,,…,,,
+2010,65 bis unter 75 Jahre,,,,,41.0
+2011,65 bis unter 75 Jahre,,,,,41.0
+2012,65 bis unter 75 Jahre,,,,,43.0
+2013,65 bis unter 75 Jahre,,,,,50.0
+2014,65 bis unter 75 Jahre,,,,,53.0
+2015,65 bis unter 75 Jahre,,,,,56.0
+2016,65 bis unter 75 Jahre,,,,,62.0
+2017,65 bis unter 75 Jahre,,,,,64.0
+2018,65 bis unter 75 Jahre,,,,,71.0
+2019,65 bis unter 75 Jahre,,,,,72.0
+2020,65 bis unter 75 Jahre,,,,,76.0
+2021,65 bis unter 75 Jahre,,|,,,74.0
+2022,65 bis unter 75 Jahre,,,,,77.0
+2023,65 bis unter 75 Jahre,,,,,79.0
+2024,65 bis unter 75 Jahre,,,,,83.0
+2025,65 bis unter 75 Jahre,,…,,,

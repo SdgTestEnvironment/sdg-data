@@ -45,6 +45,24 @@
             }
           },
           {
+            "name": "occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "managers",
+                "professionals",
+                "technicians and associate professionals",
+                "clerical support workers",
+                "service and sales workers",
+                "skilled agricultural, forestry and fishery workers",
+                "craft and related trades workers",
+                "plant and machine operators and assemblers",
+                "elementary occupations",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {

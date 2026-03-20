@@ -1,7 +1,166 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,3
+Year,Units,sector,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,"million usd, constant prices (2023)",water supply & sanitation,,,,392445.209
+2011,"million usd, constant prices (2023)",water supply & sanitation,,,,273620.189
+2012,"million usd, constant prices (2023)",water supply & sanitation,,,,349358.457
+2013,"million usd, constant prices (2023)",water supply & sanitation,,,,459091.052
+2014,"million usd, constant prices (2023)",water supply & sanitation,,,,146548.705
+2015,"million usd, constant prices (2023)",water supply & sanitation,,,,588431.591
+2016,"million usd, constant prices (2023)",water supply & sanitation,,,,508242.248
+2017,"million usd, constant prices (2023)",water supply & sanitation,,,,321518.139
+2018,"million usd, constant prices (2023)",water supply & sanitation,,,,449975.083
+2019,"million usd, constant prices (2023)",water supply & sanitation,,,,632753.577
+2020,"million usd, constant prices (2023)",water supply & sanitation,,,,457726.79
+2021,"million usd, constant prices (2023)",water supply & sanitation,,,,249469.487
+2022,"million usd, constant prices (2023)",water supply & sanitation,,,,329566.855
+2023,"million usd, constant prices (2023)",water supply & sanitation,,,,389473.037
+2024,"million usd, constant prices (2023)",water supply & sanitation,,,,472617.868
+2010,"million usd, constant prices (2023)",transport and storage,,,,30337.952
+2011,"million usd, constant prices (2023)",transport and storage,,,,11341.024
+2012,"million usd, constant prices (2023)",transport and storage,,,,7875.446
+2013,"million usd, constant prices (2023)",transport and storage,,,,32207.326
+2014,"million usd, constant prices (2023)",transport and storage,,,,78913.659
+2015,"million usd, constant prices (2023)",transport and storage,,,,34258.275
+2016,"million usd, constant prices (2023)",transport and storage,,,,18668.141
+2017,"million usd, constant prices (2023)",transport and storage,,,,35700.108
+2018,"million usd, constant prices (2023)",transport and storage,,,,37152.063
+2019,"million usd, constant prices (2023)",transport and storage,,,,72458.881
+2020,"million usd, constant prices (2023)",transport and storage,,,,73543.804
+2021,"million usd, constant prices (2023)",transport and storage,,,,108345.896
+2022,"million usd, constant prices (2023)",transport and storage,,,,152659.185
+2023,"million usd, constant prices (2023)",transport and storage,,,,59899.038
+2024,"million usd, constant prices (2023)",transport and storage,,,,52766.236
+2010,"million usd, constant prices (2023)",communications,,,,1541403.069
+2011,"million usd, constant prices (2023)",communications,,,,1306215.518
+2012,"million usd, constant prices (2023)",communications,,,,883059.357
+2013,"million usd, constant prices (2023)",communications,,,,1302475.102
+2014,"million usd, constant prices (2023)",communications,,,,1689936.222
+2015,"million usd, constant prices (2023)",communications,,,,2206091.777
+2016,"million usd, constant prices (2023)",communications,,,,2281772.448
+2017,"million usd, constant prices (2023)",communications,,,,1975850.102
+2018,"million usd, constant prices (2023)",communications,,,,2241472.263
+2019,"million usd, constant prices (2023)",communications,,,,2225422.648
+2020,"million usd, constant prices (2023)",communications,,,,1986819.055
+2021,"million usd, constant prices (2023)",communications,,,,1783600.044
+2022,"million usd, constant prices (2023)",communications,,,,2484976.865
+2023,"million usd, constant prices (2023)",communications,,,,2452407.901
+2024,"million usd, constant prices (2023)",communications,,,,2935893.862
+2010,"million usd, constant prices (2023)",energy,,,,93832.102
+2011,"million usd, constant prices (2023)",energy,,,,128674.245
+2012,"million usd, constant prices (2023)",energy,,,,105854.251
+2013,"million usd, constant prices (2023)",energy,,,,68467.441
+2014,"million usd, constant prices (2023)",energy,,,,7186.098
+2015,"million usd, constant prices (2023)",energy,,,,8851.969
+2016,"million usd, constant prices (2023)",energy,,,,176762.699
+2017,"million usd, constant prices (2023)",energy,,,,202450.255
+2018,"million usd, constant prices (2023)",energy,,,,299021.431
+2019,"million usd, constant prices (2023)",energy,,,,276588.497
+2020,"million usd, constant prices (2023)",energy,,,,402810.607
+2021,"million usd, constant prices (2023)",energy,,,,313298.409
+2022,"million usd, constant prices (2023)",energy,,,,172439.338
+2023,"million usd, constant prices (2023)",energy,,,,137758.045
+2024,"million usd, constant prices (2023)",energy,,,,129810.459
+2010,"million usd, constant prices (2023)",urban development and management,,,,2721296.204
+2011,"million usd, constant prices (2023)",urban development and management,,,,2441757.211
+2012,"million usd, constant prices (2023)",urban development and management,,,,1993620.085
+2013,"million usd, constant prices (2023)",urban development and management,,,,2553432.37
+2014,"million usd, constant prices (2023)",urban development and management,,,,2017591.427
+2015,"million usd, constant prices (2023)",urban development and management,,,,3854376.718
+2016,"million usd, constant prices (2023)",urban development and management,,,,3984932.619
+2017,"million usd, constant prices (2023)",urban development and management,,,,3591517.135
+2018,"million usd, constant prices (2023)",urban development and management,,,,4116074.411
+2019,"million usd, constant prices (2023)",urban development and management,,,,4222763.177
+2020,"million usd, constant prices (2023)",urban development and management,,,,4053464.95
+2021,"million usd, constant prices (2023)",urban development and management,,,,3341497.64
+2022,"million usd, constant prices (2023)",urban development and management,,,,4077529.789
+2023,"million usd, constant prices (2023)",urban development and management,,,,3998064.433
+2024,"million usd, constant prices (2023)",urban development and management,,,,4951160.484
+2010,million eur,,,,,449387.317211058
+2011,million eur,,,,,495117.344474215
+2012,million eur,,,,,450456.322123439
+2013,million eur,,,,,490457.671725818
+2014,million eur,,,,,68694.3539581158
+2015,million eur,,,,,747515.816828649
+2016,million eur,,,,,744111.913440406
+2017,million eur,,,,,797764.942695445
+2018,million eur,,,,,837609.806004888
+2019,million eur,,,,,797210.129441637
+2020,million eur,,,,,904723.187699178
+2021,million eur,,,,,728217.682036802
+2022,million eur,,,,,817164.401962296
+2023,million eur,,,,,886445.2258176
+2024,million eur,,,,,1299146.62466377
+2010,million eur,water supply & sanitation,,,,265891.426609876
+2011,million eur,water supply & sanitation,,,,187661.630837989
+2012,million eur,water supply & sanitation,,,,243053.886700905
+2013,million eur,water supply & sanitation,,,,325763.18587251
+2014,million eur,water supply & sanitation,,,,105961.622254259
+2015,million eur,water supply & sanitation,,,,432618.543266667
+2016,million eur,water supply & sanitation,,,,378383.19082162
+2017,million eur,water supply & sanitation,,,,242894.182335639
+2018,million eur,water supply & sanitation,,,,346274.34005512
+2019,million eur,water supply & sanitation,,,,496718.763049237
+2020,million eur,water supply & sanitation,,,,365644.490542553
+2021,million eur,water supply & sanitation,,,,204861.760828968
+2022,million eur,water supply & sanitation,,,,287145.621158157
+2023,million eur,water supply & sanitation,,,,360184.6646176
+2024,million eur,water supply & sanitation,,,,451446.600865718
+2010,million eur,transport and storage,,,,20554.7198760731
+2011,million eur,transport and storage,,,,7778.2091555122
+2012,million eur,transport and storage,,,,5479.06518777388
+2013,million eur,transport and storage,,,,22853.7695964384
+2014,million eur,transport and storage,,,,57058.2955725158
+2015,million eur,transport and storage,,,,25186.8955576331
+2016,million eur,transport and storage,,,,13898.3148018185
+2017,million eur,transport and storage,,,,26970.0134770748
+2018,million eur,transport and storage,,,,28590.0410556983
+2019,million eur,transport and storage,,,,56881.0466673219
+2020,million eur,transport and storage,,,,58748.7718298974
+2021,million eur,transport and storage,,,,88972.5284645821
+2022,million eur,transport and storage,,,,133009.178068963
+2023,million eur,transport and storage,,,,55394.6303424
+2024,million eur,transport and storage,,,,50402.5334113654
+2010,million eur,communications,,,,1044339.06083754
+2011,million eur,communications,,,,895864.209544016
+2012,million eur,communications,,,,614357.559137182
+2013,million eur,communications,,,,924214.133337415
+2014,million eur,communications,,,,1221903.55478988
+2015,million eur,communications,,,,1621932.31205752
+2016,million eur,communications,,,,1698765.38796338
+2017,million eur,communications,,,,1492676.26528244
+2018,million eur,communications,,,,1724905.12907396
+2019,million eur,communications,,,,1746982.11935405
+2020,million eur,communications,,,,1587124.58400285
+2021,million eur,communications,,,,1464673.89668567
+2022,million eur,communications,,,,2165115.25548913
+2023,million eur,communications,,,,2267986.8268448
+2024,million eur,communications,,,,2804378.32389025
+2010,million eur,energy,,,,63573.5916515761
+2011,million eur,energy,,,,88250.866106766
+2012,million eur,energy,,,,73644.3804747031
+2013,million eur,energy,,,,48583.329192611
+2014,million eur,energy,,,,5195.88761809999
+2015,million eur,energy,,,,6508.0223298577
+2016,million eur,energy,,,,131598.72940327
+2017,million eur,energy,,,,152943.125712315
+2018,million eur,energy,,,,230109.294033649
+2019,million eur,energy,,,,217125.119631663
+2020,million eur,energy,,,,321775.964176472
+2021,million eur,energy,,,,257277.410975131
+2022,million eur,energy,,,,150243.266490228
+2023,million eur,energy,,,,127398.640016
+2024,million eur,energy,,,,123995.503429355
+2010,million eur,urban development and management,,,,1843746.11618612
+2011,million eur,urban development and management,,,,1674672.2601185
+2012,million eur,urban development and management,,,,1386991.213624
+2013,million eur,urban development and management,,,,1811872.08972479
+2014,million eur,urban development and management,,,,1458813.71419287
+2015,million eur,urban development and management,,,,2833761.59004032
+2016,million eur,urban development and management,,,,2966757.53643049
+2017,million eur,urban development and management,,,,2713248.52950291
+2018,million eur,urban development and management,,,,3167488.61022332
+2019,million eur,urban development and management,,,,3314917.17814391
+2020,million eur,urban development and management,,,,3238016.99825095
+2021,million eur,urban development and management,,,,2744003.27899115
+2022,million eur,urban development and management,,,,3552677.72316878
+2023,million eur,urban development and management,,,,3697409.9876384
+2024,million eur,urban development and management,,,,4729369.58626046
