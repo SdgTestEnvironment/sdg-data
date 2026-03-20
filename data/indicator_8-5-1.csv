@@ -1,961 +1,1312 @@
-Year,Units,age group,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2010,eur per hour,,,,,.,,,average hourly earnings of employees,
-2011,eur per hour,,,,,.,,,average hourly earnings of employees,
-2012,eur per hour,,,,,.,,,average hourly earnings of employees,
-2013,eur per hour,,,,,.,,,average hourly earnings of employees,
-2014,eur per hour,,,,,,,,average hourly earnings of employees,17.78
-2015,eur per hour,,,,,.,,,average hourly earnings of employees,
-2016,eur per hour,,,,,.,,,average hourly earnings of employees,
-2017,eur per hour,,,,,.,,,average hourly earnings of employees,
-2018,eur per hour,,,,,,,,average hourly earnings of employees,19.66
-2019,eur per hour,,,,,.,,,average hourly earnings of employees,
-2020,eur per hour,,,,,.,,,average hourly earnings of employees,
-2021,eur per hour,,,,,.,,,average hourly earnings of employees,
-2022,eur per hour,,,,,,,,average hourly earnings of employees,22.36
-2023,eur per hour,,,,,,,,average hourly earnings of employees,23.30
-2024,eur per hour,,,,,,,,average hourly earnings of employees,24.41
-2025,eur per hour,,,,,,,,average hourly earnings of employees,25.05
-2010,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2011,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2012,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2013,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2014,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2015,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2016,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2017,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2018,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2019,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2020,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2021,eur per hour,24 years and younger,,,,.,,,average hourly earnings of employees,
-2022,eur per hour,24 years and younger,,,,,,,average hourly earnings of employees,12.28
-2023,eur per hour,24 years and younger,,,,,,,average hourly earnings of employees,13.14
-2024,eur per hour,24 years and younger,,,,,,,average hourly earnings of employees,13.78
-2025,eur per hour,24 years and younger,,,,,,,average hourly earnings of employees,14.16
-2010,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2011,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2012,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2013,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2014,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2015,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2016,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2017,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2018,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2019,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2020,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2021,eur per hour,25 to under 30 years,,,,.,,,average hourly earnings of employees,
-2022,eur per hour,25 to under 30 years,,,,,,,average hourly earnings of employees,18.89
-2023,eur per hour,25 to under 30 years,,,,,,,average hourly earnings of employees,19.86
-2024,eur per hour,25 to under 30 years,,,,,,,average hourly earnings of employees,20.83
-2025,eur per hour,25 to under 30 years,,,,,,,average hourly earnings of employees,21.40
-2010,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2011,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2012,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2013,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2014,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2015,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2016,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2017,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2018,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2019,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2020,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2021,eur per hour,30 to under 35 years,,,,.,,,average hourly earnings of employees,
-2022,eur per hour,30 to under 35 years,,,,,,,average hourly earnings of employees,22.16
-2023,eur per hour,30 to under 35 years,,,,,,,average hourly earnings of employees,22.97
-2024,eur per hour,30 to under 35 years,,,,,,,average hourly earnings of employees,24.16
-2025,eur per hour,30 to under 35 years,,,,,,,average hourly earnings of employees,25.14
-2010,eur per hour,35 to under 40 years,,,,.,,,average hourly earnings of employees,
-2011,eur per hour,35 to under 40 years,,,,.,,,average hourly earnings of employees,
-2012,eur per hour,35 to under 40 years,,,,.,,,average hourly earnings of employees,
-2013,eur per hour,35 to under 40 years,,,,.,,,average hourly earnings of employees,
-2014,eur per hour,35 to under 40 years,,,,.,,,average hourly earnings of employees,
-2015,eur per hour,35 to under 40 years,,,,.,,,average hourly earnings of employees,
-2016,eur per hour,35 to under 40 years,,,,.,,,average hourly earnings of employees,
-2017,eur per hour,35 to under 40 years,,,,.,,,average hourly earnings of employees,
-2018,eur per hour,35 to under 40 years,,,,.,,,average hourly earnings of employees,
-2019,eur per hour,35 to under 40 years,,,,.,,,average hourly earnings of employees,
-2020,eur per hour,35 to under 40 years,,,,.,,,average hourly earnings of employees,
-2021,eur per hour,35 to under 40 years,,,,,,,average hourly earnings of employees,
-2022,eur per hour,35 to under 40 years,,,,,,,average hourly earnings of employees,23.78
-2023,eur per hour,35 to under 40 years,,,,,,,average hourly earnings of employees,24.54
-2024,eur per hour,35 to under 40 years,,,,,,,average hourly earnings of employees,25.90
-2025,eur per hour,35 to under 40 years,,,,,,,average hourly earnings of employees,26.72
-2010,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2011,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2012,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2013,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2014,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2015,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2016,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2017,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2018,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2019,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2020,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2021,eur per hour,40 to under 45 years,,,,.,,,average hourly earnings of employees,
-2022,eur per hour,40 to under 45 years,,,,,,,average hourly earnings of employees,24.44
-2023,eur per hour,40 to under 45 years,,,,,,,average hourly earnings of employees,25.22
-2024,eur per hour,40 to under 45 years,,,,,,,average hourly earnings of employees,26.65
-2025,eur per hour,40 to under 45 years,,,,,,,average hourly earnings of employees,27.30
-2010,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2011,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2012,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2013,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2014,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2015,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2016,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2017,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2018,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2019,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2020,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2021,eur per hour,45 to under 50 years,,,,.,,,average hourly earnings of employees,
-2022,eur per hour,45 to under 50 years,,,,,,,average hourly earnings of employees,24.73
-2023,eur per hour,45 to under 50 years,,,,,,,average hourly earnings of employees,25.58
-2024,eur per hour,45 to under 50 years,,,,,,,average hourly earnings of employees,26.96
-2025,eur per hour,45 to under 50 years,,,,,,,average hourly earnings of employees,27.72
-2010,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2011,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2012,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2013,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2014,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2015,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2016,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2017,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2018,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2019,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2020,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2021,eur per hour,50 to under 55 years,,,,.,,,average hourly earnings of employees,
-2022,eur per hour,50 to under 55 years,,,,,,,average hourly earnings of employees,25.17
-2023,eur per hour,50 to under 55 years,,,,,,,average hourly earnings of employees,25.76
-2024,eur per hour,50 to under 55 years,,,,,,,average hourly earnings of employees,27.07
-2025,eur per hour,50 to under 55 years,,,,,,,average hourly earnings of employees,27.72
-2010,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2011,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2012,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2013,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2014,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2015,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2016,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2017,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2018,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2019,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2020,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2021,eur per hour,55 to under 60 years,,,,.,,,average hourly earnings of employees,
-2022,eur per hour,55 to under 60 years,,,,,,,average hourly earnings of employees,25.06
-2023,eur per hour,55 to under 60 years,,,,,,,average hourly earnings of employees,26.02
-2024,eur per hour,55 to under 60 years,,,,,,,average hourly earnings of employees,27.35
-2025,eur per hour,55 to under 60 years,,,,,,,average hourly earnings of employees,28.14
-2010,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2011,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2012,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2013,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2014,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2015,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2016,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2017,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2018,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2019,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2020,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2021,eur per hour,60 to under 65 years,,,,.,,,average hourly earnings of employees,
-2022,eur per hour,60 to under 65 years,,,,,,,average hourly earnings of employees,24.60
-2023,eur per hour,60 to under 65 years,,,,,,,average hourly earnings of employees,25.56
-2024,eur per hour,60 to under 65 years,,,,,,,average hourly earnings of employees,26.83
-2025,eur per hour,60 to under 65 years,,,,,,,average hourly earnings of employees,27.62
-2010,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2011,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2012,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2013,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2014,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2015,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2016,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2017,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2018,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2019,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2020,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2021,eur per hour,65 years and older,,,,.,,,average hourly earnings of employees,
-2022,eur per hour,65 years and older,,,,,,,average hourly earnings of employees,19.25
-2023,eur per hour,65 years and older,,,,,,,average hourly earnings of employees,20.55
-2024,eur per hour,65 years and older,,,,,,,average hourly earnings of employees,22.03
-2025,eur per hour,65 years and older,,,,,,,average hourly earnings of employees,21.51
-2010,eur per hour,,female,,,,,,average hourly earnings of employees,14.62
-2011,eur per hour,,female,,,,,,average hourly earnings of employees,14.88
-2012,eur per hour,,female,,,,,,average hourly earnings of employees,15.18
-2013,eur per hour,,female,,,,,,average hourly earnings of employees,15.50
-2014,eur per hour,,female,,,,,,average hourly earnings of employees,15.44
-2015,eur per hour,,female,,,,,,average hourly earnings of employees,15.82
-2016,eur per hour,,female,,,,,,average hourly earnings of employees,16.30
-2017,eur per hour,,female,,,,,,average hourly earnings of employees,16.66
-2018,eur per hour,,female,,,,,,average hourly earnings of employees,17.33
-2019,eur per hour,,female,,,,,,average hourly earnings of employees,17.98
-2020,eur per hour,,female,,,,,,average hourly earnings of employees,18.62
-2021,eur per hour,,female,,,,,,average hourly earnings of employees,19.12
-2022,eur per hour,,female,,,,,,average hourly earnings of employees,20.05
-2023,eur per hour,,female,,,,,,average hourly earnings of employees,20.84
-2024,eur per hour,,female,,,,,,average hourly earnings of employees,22.24
-2025,eur per hour,,female,,,,,,average hourly earnings of employees,22.81
-2010,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2011,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2012,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2013,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2014,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2015,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2016,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2017,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2018,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2019,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2020,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2021,eur per hour,24 years and younger,female,,,.,,,average hourly earnings of employees,
-2022,eur per hour,24 years and younger,female,,,,,,average hourly earnings of employees,12.19
-2023,eur per hour,24 years and younger,female,,,,,,average hourly earnings of employees,13.02
-2024,eur per hour,24 years and younger,female,,,,,,average hourly earnings of employees,13.81
-2025,eur per hour,24 years and younger,female,,,,,,average hourly earnings of employees,14.11
-2010,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2011,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2012,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2013,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2014,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2015,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2016,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2017,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2018,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2019,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2020,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2021,eur per hour,25 to under 30 years,female,,,.,,,average hourly earnings of employees,
-2022,eur per hour,25 to under 30 years,female,,,,,,average hourly earnings of employees,18.35
-2023,eur per hour,25 to under 30 years,female,,,,,,average hourly earnings of employees,19.25
-2024,eur per hour,25 to under 30 years,female,,,,,,average hourly earnings of employees,20.42
-2025,eur per hour,25 to under 30 years,female,,,,,,average hourly earnings of employees,20.92
-2010,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2011,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2012,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2013,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2014,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2015,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2016,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2017,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2018,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2019,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2020,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2021,eur per hour,30 to under 35 years,female,,,.,,,average hourly earnings of employees,
-2022,eur per hour,30 to under 35 years,female,,,,,,average hourly earnings of employees,20.85
-2023,eur per hour,30 to under 35 years,female,,,,,,average hourly earnings of employees,21.61
-2024,eur per hour,30 to under 35 years,female,,,,,,average hourly earnings of employees,22.99
-2025,eur per hour,30 to under 35 years,female,,,,,,average hourly earnings of employees,24.01
-2010,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2011,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2012,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2013,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2014,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2015,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2016,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2017,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2018,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2019,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2020,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2021,eur per hour,35 to under 40 years,female,,,.,,,average hourly earnings of employees,
-2022,eur per hour,35 to under 40 years,female,,,,,,average hourly earnings of employees,21.64
-2023,eur per hour,35 to under 40 years,female,,,,,,average hourly earnings of employees,22.40
-2024,eur per hour,35 to under 40 years,female,,,,,,average hourly earnings of employees,23.95
-2025,eur per hour,35 to under 40 years,female,,,,,,average hourly earnings of employees,24.67
-2010,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2011,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2012,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2013,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2014,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2015,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2016,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2017,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2018,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2019,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2020,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2021,eur per hour,40 to under 45 years,female,,,.,,,average hourly earnings of employees,
-2022,eur per hour,40 to under 45 years,female,,,,,,average hourly earnings of employees,21.85
-2023,eur per hour,40 to under 45 years,female,,,,,,average hourly earnings of employees,22.59
-2024,eur per hour,40 to under 45 years,female,,,,,,average hourly earnings of employees,24.17
-2025,eur per hour,40 to under 45 years,female,,,,,,average hourly earnings of employees,24.86
-2010,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2011,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2012,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2013,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2014,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2015,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2016,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2017,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2018,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2019,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2020,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2021,eur per hour,45 to under 50 years,female,,,.,,,average hourly earnings of employees,
-2022,eur per hour,45 to under 50 years,female,,,,,,average hourly earnings of employees,21.56
-2023,eur per hour,45 to under 50 years,female,,,,,,average hourly earnings of employees,22.49
-2024,eur per hour,45 to under 50 years,female,,,,,,average hourly earnings of employees,24.01
-2025,eur per hour,45 to under 50 years,female,,,,,,average hourly earnings of employees,24.73
-2010,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2011,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2012,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2013,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2014,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2015,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2016,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2017,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2018,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2019,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2020,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2021,eur per hour,50 to under 55 years,female,,,.,,,average hourly earnings of employees,
-2022,eur per hour,50 to under 55 years,female,,,,,,average hourly earnings of employees,21.55
-2023,eur per hour,50 to under 55 years,female,,,,,,average hourly earnings of employees,22.16
-2024,eur per hour,50 to under 55 years,female,,,,,,average hourly earnings of employees,23.74
-2025,eur per hour,50 to under 55 years,female,,,,,,average hourly earnings of employees,24.35
-2010,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2011,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2012,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2013,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2014,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2015,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2016,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2017,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2018,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2019,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2020,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2021,eur per hour,55 to under 60 years,female,,,.,,,average hourly earnings of employees,
-2022,eur per hour,55 to under 60 years,female,,,,,,average hourly earnings of employees,21.04
-2023,eur per hour,55 to under 60 years,female,,,,,,average hourly earnings of employees,21.99
-2024,eur per hour,55 to under 60 years,female,,,,,,average hourly earnings of employees,23.43
-2025,eur per hour,55 to under 60 years,female,,,,,,average hourly earnings of employees,24.12
-2010,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2011,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2012,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2013,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2014,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2015,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2016,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2017,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2018,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2019,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2020,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2021,eur per hour,60 to under 65 years,female,,,.,,,average hourly earnings of employees,
-2022,eur per hour,60 to under 65 years,female,,,,,,average hourly earnings of employees,20.95
-2023,eur per hour,60 to under 65 years,female,,,,,,average hourly earnings of employees,21.69
-2024,eur per hour,60 to under 65 years,female,,,,,,average hourly earnings of employees,23.04
-2025,eur per hour,60 to under 65 years,female,,,,,,average hourly earnings of employees,23.64
-2010,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2011,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2012,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2013,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2014,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2015,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2016,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2017,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2018,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2019,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2020,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2021,eur per hour,65 years and older,female,,,.,,,average hourly earnings of employees,
-2022,eur per hour,65 years and older,female,,,,,,average hourly earnings of employees,18.22
-2023,eur per hour,65 years and older,female,,,,,,average hourly earnings of employees,19.49
-2024,eur per hour,65 years and older,female,,,,,,average hourly earnings of employees,21.16
-2025,eur per hour,65 years and older,female,,,,,,average hourly earnings of employees,20.12
-2010,eur per hour,,male,,,,,,average hourly earnings of employees,18.81
-2011,eur per hour,,male,,,,,,average hourly earnings of employees,19.17
-2012,eur per hour,,male,,,,,,average hourly earnings of employees,19.63
-2013,eur per hour,,male,,,,,,average hourly earnings of employees,19.89
-2014,eur per hour,,male,,,,,,average hourly earnings of employees,19.87
-2015,eur per hour,,male,,,,,,average hourly earnings of employees,20.24
-2016,eur per hour,,male,,,,,,average hourly earnings of employees,20.67
-2017,eur per hour,,male,,,,,,average hourly earnings of employees,20.94
-2018,eur per hour,,male,,,,,,average hourly earnings of employees,21.70
-2019,eur per hour,,male,,,,,,average hourly earnings of employees,22.26
-2020,eur per hour,,male,,,,,,average hourly earnings of employees,22.78
-2021,eur per hour,,male,,,,,,average hourly earnings of employees,23.20
-2022,eur per hour,,male,,,,,,average hourly earnings of employees,24.36
-2023,eur per hour,,male,,,,,,average hourly earnings of employees,25.30
-2024,eur per hour,,male,,,,,,average hourly earnings of employees,26.34
-2025,eur per hour,,male,,,,,,average hourly earnings of employees,27.05
-2010,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2011,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2012,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2013,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2014,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2015,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2016,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2017,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2018,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2019,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2020,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2021,eur per hour,24 years and younger,male,,,.,,,average hourly earnings of employees,
-2022,eur per hour,24 years and younger,male,,,,,,average hourly earnings of employees,12.35
-2023,eur per hour,24 years and younger,male,,,,,,average hourly earnings of employees,13.25
-2024,eur per hour,24 years and younger,male,,,,,,average hourly earnings of employees,13.76
-2025,eur per hour,24 years and younger,male,,,,,,average hourly earnings of employees,14.20
-2010,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2011,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2012,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2013,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2014,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2015,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2016,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2017,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2018,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2019,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2020,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2021,eur per hour,25 to under 30 years,male,,,.,,,average hourly earnings of employees,
-2022,eur per hour,25 to under 30 years,male,,,,,,average hourly earnings of employees,19.32
-2023,eur per hour,25 to under 30 years,male,,,,,,average hourly earnings of employees,20.38
-2024,eur per hour,25 to under 30 years,male,,,,,,average hourly earnings of employees,21.16
-2025,eur per hour,25 to under 30 years,male,,,,,,average hourly earnings of employees,21.80
-2010,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2011,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2012,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2013,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2014,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2015,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2016,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2017,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2018,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2019,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2020,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2021,eur per hour,30 to under 35 years,male,,,.,,,average hourly earnings of employees,
-2022,eur per hour,30 to under 35 years,male,,,,,,average hourly earnings of employees,23.14
-2023,eur per hour,30 to under 35 years,male,,,,,,average hourly earnings of employees,24.01
-2024,eur per hour,30 to under 35 years,male,,,,,,average hourly earnings of employees,25.07
-2025,eur per hour,30 to under 35 years,male,,,,,,average hourly earnings of employees,26.01
-2010,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2011,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2012,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2013,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2014,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2015,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2016,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2017,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2018,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2019,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2020,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2021,eur per hour,35 to under 40 years,male,,,.,,,average hourly earnings of employees,
-2022,eur per hour,35 to under 40 years,male,,,,,,average hourly earnings of employees,25.46
-2023,eur per hour,35 to under 40 years,male,,,,,,average hourly earnings of employees,26.26
-2024,eur per hour,35 to under 40 years,male,,,,,,average hourly earnings of employees,27.48
-2025,eur per hour,35 to under 40 years,male,,,,,,average hourly earnings of employees,28.39
-2010,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2011,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2012,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2013,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2014,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2015,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2016,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2017,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2018,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2019,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2020,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2021,eur per hour,40 to under 45 years,male,,,.,,,average hourly earnings of employees,
-2022,eur per hour,40 to under 45 years,male,,,,,,average hourly earnings of employees,26.72
-2023,eur per hour,40 to under 45 years,male,,,,,,average hourly earnings of employees,27.59
-2024,eur per hour,40 to under 45 years,male,,,,,,average hourly earnings of employees,28.86
-2025,eur per hour,40 to under 45 years,male,,,,,,average hourly earnings of employees,29.54
-2010,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2011,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2012,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2013,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2014,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2015,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2016,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2017,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2018,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2019,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2020,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2021,eur per hour,45 to under 50 years,male,,,.,,,average hourly earnings of employees,
-2022,eur per hour,45 to under 50 years,male,,,,,,average hourly earnings of employees,27.72
-2023,eur per hour,45 to under 50 years,male,,,,,,average hourly earnings of employees,28.57
-2024,eur per hour,45 to under 50 years,male,,,,,,average hourly earnings of employees,29.81
-2025,eur per hour,45 to under 50 years,male,,,,,,average hourly earnings of employees,30.69
-2010,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2011,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2012,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2013,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2014,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2015,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2016,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2017,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2018,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2019,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2020,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2021,eur per hour,50 to under 55 years,male,,,.,,,average hourly earnings of employees,
-2022,eur per hour,50 to under 55 years,male,,,,,,average hourly earnings of employees,28.61
-2023,eur per hour,50 to under 55 years,male,,,,,,average hourly earnings of employees,29.22
-2024,eur per hour,50 to under 55 years,male,,,,,,average hourly earnings of employees,30.26
-2025,eur per hour,50 to under 55 years,male,,,,,,average hourly earnings of employees,31.03
-2010,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2011,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2012,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2013,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2014,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2015,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2016,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2017,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2018,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2019,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2020,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2021,eur per hour,55 to under 60 years,male,,,.,,,average hourly earnings of employees,
-2022,eur per hour,55 to under 60 years,male,,,,,,average hourly earnings of employees,28.88
-2023,eur per hour,55 to under 60 years,male,,,,,,average hourly earnings of employees,29.90
-2024,eur per hour,55 to under 60 years,male,,,,,,average hourly earnings of employees,31.13
-2025,eur per hour,55 to under 60 years,male,,,,,,average hourly earnings of employees,31.99
-2010,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2011,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2012,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2013,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2014,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2015,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2016,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2017,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2018,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2019,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2020,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2021,eur per hour,60 to under 65 years,male,,,.,,,average hourly earnings of employees,
-2022,eur per hour,60 to under 65 years,male,,,,,,average hourly earnings of employees,28.08
-2023,eur per hour,60 to under 65 years,male,,,,,,average hourly earnings of employees,29.33
-2024,eur per hour,60 to under 65 years,male,,,,,,average hourly earnings of employees,30.52
-2025,eur per hour,60 to under 65 years,male,,,,,,average hourly earnings of employees,31.51
-2010,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2011,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2012,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2013,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2014,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2015,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2016,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2017,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2018,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2019,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2020,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2021,eur per hour,65 years and older,male,,,.,,,average hourly earnings of employees,
-2022,eur per hour,65 years and older,male,,,,,,average hourly earnings of employees,20.07
-2023,eur per hour,65 years and older,male,,,,,,average hourly earnings of employees,21.46
-2024,eur per hour,65 years and older,male,,,,,,average hourly earnings of employees,22.79
-2025,eur per hour,65 years and older,male,,,,,,average hourly earnings of employees,22.65
-2010,percentage,,,,,,,,gender pay gap,22
-2011,percentage,,,,,,,,gender pay gap,22
-2012,percentage,,,,,,,,gender pay gap,23
-2013,percentage,,,,,,,,gender pay gap,22
-2014,percentage,,,,,,,,gender pay gap,22
-2015,percentage,,,,,,,,gender pay gap,22
-2016,percentage,,,,,,,,gender pay gap,21
-2017,percentage,,,,,,,,gender pay gap,20
-2018,percentage,,,,,,,,gender pay gap,20
-2019,percentage,,,,,,,,gender pay gap,19
-2020,percentage,,,,,,,,gender pay gap,18
-2021,percentage,,,,,,,,gender pay gap,18
-2022,percentage,,,,,|,,,gender pay gap,18
-2023,percentage,,,,,,,,gender pay gap,18
-2024,percentage,,,,,,,,gender pay gap,16
-2025,percentage,,,,,,,,gender pay gap,16
-2010,percentage,24 years and younger,,,,.,,,gender pay gap,
-2011,percentage,24 years and younger,,,,.,,,gender pay gap,
-2012,percentage,24 years and younger,,,,.,,,gender pay gap,
-2013,percentage,24 years and younger,,,,.,,,gender pay gap,
-2014,percentage,24 years and younger,,,,.,,,gender pay gap,
-2015,percentage,24 years and younger,,,,.,,,gender pay gap,
-2016,percentage,24 years and younger,,,,.,,,gender pay gap,
-2017,percentage,24 years and younger,,,,.,,,gender pay gap,
-2018,percentage,24 years and younger,,,,.,,,gender pay gap,
-2019,percentage,24 years and younger,,,,.,,,gender pay gap,
-2020,percentage,24 years and younger,,,,.,,,gender pay gap,
-2021,percentage,24 years and younger,,,,.,,,gender pay gap,
-2022,percentage,24 years and younger,,,,,,,gender pay gap,1
-2023,percentage,24 years and younger,,,,,,,gender pay gap,2
-2024,percentage,24 years and younger,,,,,,,gender pay gap,0
-2025,percentage,24 years and younger,,,,,,,gender pay gap,1
-2010,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2011,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2012,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2013,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2014,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2015,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2016,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2017,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2018,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2019,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2020,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2021,percentage,25 to under 30 years,,,,.,,,gender pay gap,
-2022,percentage,25 to under 30 years,,,,,,,gender pay gap,5
-2023,percentage,25 to under 30 years,,,,,,,gender pay gap,6
-2024,percentage,25 to under 30 years,,,,,,,gender pay gap,3
-2025,percentage,25 to under 30 years,,,,,,,gender pay gap,4
-2010,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2011,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2012,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2013,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2014,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2015,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2016,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2017,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2018,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2019,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2020,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2021,percentage,30 to under 35 years,,,,.,,,gender pay gap,
-2022,percentage,30 to under 35 years,,,,,,,gender pay gap,10
-2023,percentage,30 to under 35 years,,,,,,,gender pay gap,10
-2024,percentage,30 to under 35 years,,,,,,,gender pay gap,8
-2025,percentage,30 to under 35 years,,,,,,,gender pay gap,8
-2010,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2011,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2012,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2013,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2014,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2015,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2016,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2017,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2018,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2019,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2020,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2021,percentage,35 to under 40 years,,,,.,,,gender pay gap,
-2022,percentage,35 to under 40 years,,,,,,,gender pay gap,15
-2023,percentage,35 to under 40 years,,,,,,,gender pay gap,15
-2024,percentage,35 to under 40 years,,,,,,,gender pay gap,13
-2025,percentage,35 to under 40 years,,,,,,,gender pay gap,13
-2010,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2011,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2012,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2013,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2014,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2015,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2016,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2017,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2018,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2019,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2020,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2021,percentage,40 to under 45 years,,,,.,,,gender pay gap,
-2022,percentage,40 to under 45 years,,,,,,,gender pay gap,18
-2023,percentage,40 to under 45 years,,,,,,,gender pay gap,18
-2024,percentage,40 to under 45 years,,,,,,,gender pay gap,16
-2025,percentage,40 to under 45 years,,,,,,,gender pay gap,16
-2010,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2011,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2012,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2013,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2014,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2015,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2016,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2017,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2018,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2019,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2020,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2021,percentage,45 to under 50 years,,,,.,,,gender pay gap,
-2022,percentage,45 to under 50 years,,,,,,,gender pay gap,22
-2023,percentage,45 to under 50 years,,,,,,,gender pay gap,21
-2024,percentage,45 to under 50 years,,,,,,,gender pay gap,19
-2025,percentage,45 to under 50 years,,,,,,,gender pay gap,19
-2010,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2011,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2012,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2013,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2014,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2015,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2016,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2017,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2018,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2019,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2020,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2021,percentage,50 to under 55 years,,,,.,,,gender pay gap,
-2022,percentage,50 to under 55 years,,,,,,,gender pay gap,25
-2023,percentage,50 to under 55 years,,,,,,,gender pay gap,24
-2024,percentage,50 to under 55 years,,,,,,,gender pay gap,22
-2025,percentage,50 to under 55 years,,,,,,,gender pay gap,22
-2010,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2011,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2012,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2013,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2014,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2015,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2016,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2017,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2018,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2019,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2020,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2021,percentage,55 to under 60 years,,,,.,,,gender pay gap,
-2022,percentage,55 to under 60 years,,,,,,,gender pay gap,27
-2023,percentage,55 to under 60 years,,,,,,,gender pay gap,26
-2024,percentage,55 to under 60 years,,,,,,,gender pay gap,25
-2025,percentage,55 to under 60 years,,,,,,,gender pay gap,25
-2010,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2011,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2012,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2013,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2014,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2015,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2016,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2017,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2018,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2019,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2020,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2021,percentage,60 to under 65 years,,,,.,,,gender pay gap,
-2022,percentage,60 to under 65 years,,,,,,,gender pay gap,25
-2023,percentage,60 to under 65 years,,,,,,,gender pay gap,26
-2024,percentage,60 to under 65 years,,,,,,,gender pay gap,25
-2025,percentage,60 to under 65 years,,,,,,,gender pay gap,25
-2010,percentage,65 years and older,,,,.,,,gender pay gap,
-2011,percentage,65 years and older,,,,.,,,gender pay gap,
-2012,percentage,65 years and older,,,,.,,,gender pay gap,
-2013,percentage,65 years and older,,,,.,,,gender pay gap,
-2014,percentage,65 years and older,,,,.,,,gender pay gap,
-2015,percentage,65 years and older,,,,.,,,gender pay gap,
-2016,percentage,65 years and older,,,,.,,,gender pay gap,
-2017,percentage,65 years and older,,,,.,,,gender pay gap,
-2018,percentage,65 years and older,,,,.,,,gender pay gap,
-2019,percentage,65 years and older,,,,.,,,gender pay gap,
-2020,percentage,65 years and older,,,,.,,,gender pay gap,
-2021,percentage,65 years and older,,,,.,,,gender pay gap,
-2022,percentage,65 years and older,,,,,,,gender pay gap,9
-2023,percentage,65 years and older,,,,,,,gender pay gap,9
-2024,percentage,65 years and older,,,,,,,gender pay gap,7
-2025,percentage,65 years and older,,,,,,,gender pay gap,11
-2010,percentage,,,baden-württemberg,code08,,,,gender pay gap,27
-2011,percentage,,,baden-württemberg,code08,,,,gender pay gap,27
-2012,percentage,,,baden-württemberg,code08,,,,gender pay gap,27
-2013,percentage,,,baden-württemberg,code08,,,,gender pay gap,27
-2014,percentage,,,baden-württemberg,code08,,,,gender pay gap,27
-2015,percentage,,,baden-württemberg,code08,,,,gender pay gap,26
-2016,percentage,,,baden-württemberg,code08,,,,gender pay gap,26
-2017,percentage,,,baden-württemberg,code08,,,,gender pay gap,25
-2018,percentage,,,baden-württemberg,code08,,,,gender pay gap,24
-2019,percentage,,,baden-württemberg,code08,,,,gender pay gap,23
-2020,percentage,,,baden-württemberg,code08,,,,gender pay gap,23
-2021,percentage,,,baden-württemberg,code08,,,,gender pay gap,22
-2022,percentage,,,baden-württemberg,code08,|,,,gender pay gap,23
-2023,percentage,,,baden-württemberg,code08,,,,gender pay gap,22
-2024,percentage,,,baden-württemberg,code08,,,,gender pay gap,19
-2025,percentage,,,baden-württemberg,code08,,,,gender pay gap,20
-2010,percentage,,,bavaria,code09,,,,gender pay gap,26
-2011,percentage,,,bavaria,code09,,,,gender pay gap,25
-2012,percentage,,,bavaria,code09,,,,gender pay gap,25
-2013,percentage,,,bavaria,code09,,,,gender pay gap,25
-2014,percentage,,,bavaria,code09,,,,gender pay gap,25
-2015,percentage,,,bavaria,code09,,,,gender pay gap,24
-2016,percentage,,,bavaria,code09,,,,gender pay gap,24
-2017,percentage,,,bavaria,code09,,,,gender pay gap,24
-2018,percentage,,,bavaria,code09,,,,gender pay gap,24
-2019,percentage,,,bavaria,code09,,,,gender pay gap,23
-2020,percentage,,,bavaria,code09,,,,gender pay gap,22
-2021,percentage,,,bavaria,code09,,,,gender pay gap,21
-2022,percentage,,,bavaria,code09,|,,,gender pay gap,21
-2023,percentage,,,bavaria,code09,,,,gender pay gap,21
-2024,percentage,,,bavaria,code09,,,,gender pay gap,18
-2025,percentage,,,bavaria,code09,,,,gender pay gap,19
-2010,percentage,,,berlin,code11,,,,gender pay gap,14
-2011,percentage,,,berlin,code11,,,,gender pay gap,15
-2012,percentage,,,berlin,code11,,,,gender pay gap,15
-2013,percentage,,,berlin,code11,,,,gender pay gap,14
-2014,percentage,,,berlin,code11,,,,gender pay gap,14
-2015,percentage,,,berlin,code11,,,,gender pay gap,14
-2016,percentage,,,berlin,code11,,,,gender pay gap,12
-2017,percentage,,,berlin,code11,,,,gender pay gap,10
-2018,percentage,,,berlin,code11,,,,gender pay gap,10
-2019,percentage,,,berlin,code11,,,,gender pay gap,10
-2020,percentage,,,berlin,code11,,,,gender pay gap,10
-2021,percentage,,,berlin,code11,,,,gender pay gap,10
-2022,percentage,,,berlin,code11,|,,,gender pay gap,10
-2023,percentage,,,berlin,code11,,,,gender pay gap,11
-2024,percentage,,,berlin,code11,,,,gender pay gap,10
-2025,percentage,,,berlin,code11,,,,gender pay gap,10
-2010,percentage,,,brandenburg,code12,,,,gender pay gap,7
-2011,percentage,,,brandenburg,code12,,,,gender pay gap,6
-2012,percentage,,,brandenburg,code12,,,,gender pay gap,7
-2013,percentage,,,brandenburg,code12,,,,gender pay gap,5
-2014,percentage,,,brandenburg,code12,,,,gender pay gap,7
-2015,percentage,,,brandenburg,code12,,,,gender pay gap,5
-2016,percentage,,,brandenburg,code12,,,,gender pay gap,6
-2017,percentage,,,brandenburg,code12,,,,gender pay gap,6
-2018,percentage,,,brandenburg,code12,,,,gender pay gap,6
-2019,percentage,,,brandenburg,code12,,,,gender pay gap,7
-2020,percentage,,,brandenburg,code12,,,,gender pay gap,6
-2021,percentage,,,brandenburg,code12,,,,gender pay gap,5
-2022,percentage,,,brandenburg,code12,|,,,gender pay gap,6
-2023,percentage,,,brandenburg,code12,,,,gender pay gap,4
-2024,percentage,,,brandenburg,code12,,,,gender pay gap,2
-2025,percentage,,,brandenburg,code12,,,,gender pay gap,4
-2010,percentage,,,bremen,code04,,,,gender pay gap,24
-2011,percentage,,,bremen,code04,,,,gender pay gap,24
-2012,percentage,,,bremen,code04,,,,gender pay gap,27
-2013,percentage,,,bremen,code04,,,,gender pay gap,25
-2014,percentage,,,bremen,code04,,,,gender pay gap,25
-2015,percentage,,,bremen,code04,,,,gender pay gap,25
-2016,percentage,,,bremen,code04,,,,gender pay gap,24
-2017,percentage,,,bremen,code04,,,,gender pay gap,24
-2018,percentage,,,bremen,code04,,,,gender pay gap,23
-2019,percentage,,,bremen,code04,,,,gender pay gap,25
-2020,percentage,,,bremen,code04,,,,gender pay gap,22
-2021,percentage,,,bremen,code04,,,,gender pay gap,22
-2022,percentage,,,bremen,code04,|,,,gender pay gap,20
-2023,percentage,,,bremen,code04,,,,gender pay gap,19
-2024,percentage,,,bremen,code04,,,,gender pay gap,17
-2025,percentage,,,bremen,code04,,,,gender pay gap,14
-2010,percentage,,,hamburg,code02,,,,gender pay gap,23
-2011,percentage,,,hamburg,code02,,,,gender pay gap,22
-2012,percentage,,,hamburg,code02,,,,gender pay gap,24
-2013,percentage,,,hamburg,code02,,,,gender pay gap,23
-2014,percentage,,,hamburg,code02,,,,gender pay gap,22
-2015,percentage,,,hamburg,code02,,,,gender pay gap,22
-2016,percentage,,,hamburg,code02,,,,gender pay gap,21
-2017,percentage,,,hamburg,code02,,,,gender pay gap,21
-2018,percentage,,,hamburg,code02,,,,gender pay gap,21
-2019,percentage,,,hamburg,code02,,,,gender pay gap,21
-2020,percentage,,,hamburg,code02,,,,gender pay gap,21
-2021,percentage,,,hamburg,code02,,,,gender pay gap,21
-2022,percentage,,,hamburg,code02,|,,,gender pay gap,18
-2023,percentage,,,hamburg,code02,,,,gender pay gap,18
-2024,percentage,,,hamburg,code02,,,,gender pay gap,18
-2025,percentage,,,hamburg,code02,,,,gender pay gap,17
-2010,percentage,,,hesse,code06,,,,gender pay gap,25
-2011,percentage,,,hesse,code06,,,,gender pay gap,25
-2012,percentage,,,hesse,code06,,,,gender pay gap,24
-2013,percentage,,,hesse,code06,,,,gender pay gap,23
-2014,percentage,,,hesse,code06,,,,gender pay gap,24
-2015,percentage,,,hesse,code06,,,,gender pay gap,23
-2016,percentage,,,hesse,code06,,,,gender pay gap,22
-2017,percentage,,,hesse,code06,,,,gender pay gap,22
-2018,percentage,,,hesse,code06,,,,gender pay gap,21
-2019,percentage,,,hesse,code06,,,,gender pay gap,19
-2020,percentage,,,hesse,code06,,,,gender pay gap,18
-2021,percentage,,,hesse,code06,,,,gender pay gap,18
-2022,percentage,,,hesse,code06,|,,,gender pay gap,21
-2023,percentage,,,hesse,code06,,,,gender pay gap,20
-2024,percentage,,,hesse,code06,,,,gender pay gap,19
-2025,percentage,,,hesse,code06,,,,gender pay gap,19
-2010,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,4
-2011,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
-2012,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,7
-2013,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
-2014,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,8
-2015,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,7
-2016,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
-2017,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
-2018,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
-2019,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
-2020,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
-2021,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,5
-2022,percentage,,,mecklenburg western pomerania,code13,|,,,gender pay gap,6
-2023,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,7
-2024,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,7
-2025,percentage,,,mecklenburg western pomerania,code13,,,,gender pay gap,4
-2010,percentage,,,lower saxony,code03,,,,gender pay gap,22
-2011,percentage,,,lower saxony,code03,,,,gender pay gap,22
-2012,percentage,,,lower saxony,code03,,,,gender pay gap,21
-2013,percentage,,,lower saxony,code03,,,,gender pay gap,20
-2014,percentage,,,lower saxony,code03,,,,gender pay gap,22
-2015,percentage,,,lower saxony,code03,,,,gender pay gap,22
-2016,percentage,,,lower saxony,code03,,,,gender pay gap,21
-2017,percentage,,,lower saxony,code03,,,,gender pay gap,21
-2018,percentage,,,lower saxony,code03,,,,gender pay gap,21
-2019,percentage,,,lower saxony,code03,,,,gender pay gap,21
-2020,percentage,,,lower saxony,code03,,,,gender pay gap,19
-2021,percentage,,,lower saxony,code03,,,,gender pay gap,19
-2022,percentage,,,lower saxony,code03,|,,,gender pay gap,18
-2023,percentage,,,lower saxony,code03,,,,gender pay gap,18
-2024,percentage,,,lower saxony,code03,,,,gender pay gap,15
-2025,percentage,,,lower saxony,code03,,,,gender pay gap,16
-2010,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,23
-2011,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,23
-2012,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,24
-2013,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,23
-2014,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,23
-2015,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,23
-2016,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,22
-2017,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,21
-2018,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,20
-2019,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,19
-2020,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,18
-2021,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,17
-2022,percentage,,,north rhine-westphalia,code05,|,,,gender pay gap,17
-2023,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,17
-2024,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,16
-2025,percentage,,,north rhine-westphalia,code05,,,,gender pay gap,15
-2010,percentage,,,rhineland palatinate,code07,,,,gender pay gap,22
-2011,percentage,,,rhineland palatinate,code07,,,,gender pay gap,22
-2012,percentage,,,rhineland palatinate,code07,,,,gender pay gap,22
-2013,percentage,,,rhineland palatinate,code07,,,,gender pay gap,22
-2014,percentage,,,rhineland palatinate,code07,,,,gender pay gap,21
-2015,percentage,,,rhineland palatinate,code07,,,,gender pay gap,20
-2016,percentage,,,rhineland palatinate,code07,,,,gender pay gap,20
-2017,percentage,,,rhineland palatinate,code07,,,,gender pay gap,19
-2018,percentage,,,rhineland palatinate,code07,,,,gender pay gap,18
-2019,percentage,,,rhineland palatinate,code07,,,,gender pay gap,17
-2020,percentage,,,rhineland palatinate,code07,,,,gender pay gap,15
-2021,percentage,,,rhineland palatinate,code07,,,,gender pay gap,15
-2022,percentage,,,rhineland palatinate,code07,|,,,gender pay gap,15
-2023,percentage,,,rhineland palatinate,code07,,,,gender pay gap,15
-2024,percentage,,,rhineland palatinate,code07,,,,gender pay gap,14
-2025,percentage,,,rhineland palatinate,code07,,,,gender pay gap,14
-2010,percentage,,,saarland,code10,,,,gender pay gap,25
-2011,percentage,,,saarland,code10,,,,gender pay gap,25
-2012,percentage,,,saarland,code10,,,,gender pay gap,25
-2013,percentage,,,saarland,code10,,,,gender pay gap,24
-2014,percentage,,,saarland,code10,,,,gender pay gap,23
-2015,percentage,,,saarland,code10,,,,gender pay gap,24
-2016,percentage,,,saarland,code10,,,,gender pay gap,24
-2017,percentage,,,saarland,code10,,,,gender pay gap,24
-2018,percentage,,,saarland,code10,,,,gender pay gap,23
-2019,percentage,,,saarland,code10,,,,gender pay gap,22
-2020,percentage,,,saarland,code10,,,,gender pay gap,20
-2021,percentage,,,saarland,code10,,,,gender pay gap,20
-2022,percentage,,,saarland,code10,|,,,gender pay gap,18
-2023,percentage,,,saarland,code10,,,,gender pay gap,18
-2024,percentage,,,saarland,code10,,,,gender pay gap,16
-2025,percentage,,,saarland,code10,,,,gender pay gap,16
-2010,percentage,,,saxony,code14,,,,gender pay gap,9
-2011,percentage,,,saxony,code14,,,,gender pay gap,10
-2012,percentage,,,saxony,code14,,,,gender pay gap,11
-2013,percentage,,,saxony,code14,,,,gender pay gap,11
-2014,percentage,,,saxony,code14,,,,gender pay gap,11
-2015,percentage,,,saxony,code14,,,,gender pay gap,11
-2016,percentage,,,saxony,code14,,,,gender pay gap,10
-2017,percentage,,,saxony,code14,,,,gender pay gap,9
-2018,percentage,,,saxony,code14,,,,gender pay gap,8
-2019,percentage,,,saxony,code14,,,,gender pay gap,7
-2020,percentage,,,saxony,code14,,,,gender pay gap,7
-2021,percentage,,,saxony,code14,,,,gender pay gap,6
-2022,percentage,,,saxony,code14,|,,,gender pay gap,8
-2023,percentage,,,saxony,code14,,,,gender pay gap,9
-2024,percentage,,,saxony,code14,,,,gender pay gap,7
-2025,percentage,,,saxony,code14,,,,gender pay gap,6
-2010,percentage,,,saxony-anhalt,code15,,,,gender pay gap,4
-2011,percentage,,,saxony-anhalt,code15,,,,gender pay gap,5
-2012,percentage,,,saxony-anhalt,code15,,,,gender pay gap,5
-2013,percentage,,,saxony-anhalt,code15,,,,gender pay gap,4
-2014,percentage,,,saxony-anhalt,code15,,,,gender pay gap,5
-2015,percentage,,,saxony-anhalt,code15,,,,gender pay gap,4
-2016,percentage,,,saxony-anhalt,code15,,,,gender pay gap,4
-2017,percentage,,,saxony-anhalt,code15,,,,gender pay gap,6
-2018,percentage,,,saxony-anhalt,code15,,,,gender pay gap,8
-2019,percentage,,,saxony-anhalt,code15,,,,gender pay gap,7
-2020,percentage,,,saxony-anhalt,code15,,,,gender pay gap,8
-2021,percentage,,,saxony-anhalt,code15,,,,gender pay gap,7
-2022,percentage,,,saxony-anhalt,code15,|,,,gender pay gap,6
-2023,percentage,,,saxony-anhalt,code15,,,,gender pay gap,5
-2024,percentage,,,saxony-anhalt,code15,,,,gender pay gap,4
-2025,percentage,,,saxony-anhalt,code15,,,,gender pay gap,4
-2010,percentage,,,schleswig-holstein,code01,,,,gender pay gap,18
-2011,percentage,,,schleswig-holstein,code01,,,,gender pay gap,17
-2012,percentage,,,schleswig-holstein,code01,,,,gender pay gap,18
-2013,percentage,,,schleswig-holstein,code01,,,,gender pay gap,18
-2014,percentage,,,schleswig-holstein,code01,,,,gender pay gap,17
-2015,percentage,,,schleswig-holstein,code01,,,,gender pay gap,16
-2016,percentage,,,schleswig-holstein,code01,,,,gender pay gap,16
-2017,percentage,,,schleswig-holstein,code01,,,,gender pay gap,14
-2018,percentage,,,schleswig-holstein,code01,,,,gender pay gap,14
-2019,percentage,,,schleswig-holstein,code01,,,,gender pay gap,13
-2020,percentage,,,schleswig-holstein,code01,,,,gender pay gap,13
-2021,percentage,,,schleswig-holstein,code01,,,,gender pay gap,12
-2022,percentage,,,schleswig-holstein,code01,|,,,gender pay gap,12
-2023,percentage,,,schleswig-holstein,code01,,,,gender pay gap,12
-2024,percentage,,,schleswig-holstein,code01,,,,gender pay gap,11
-2025,percentage,,,schleswig-holstein,code01,,,,gender pay gap,12
-2010,percentage,,,thuringia,code16,,,,gender pay gap,6
-2011,percentage,,,thuringia,code16,,,,gender pay gap,7
-2012,percentage,,,thuringia,code16,,,,gender pay gap,8
-2013,percentage,,,thuringia,code16,,,,gender pay gap,9
-2014,percentage,,,thuringia,code16,,,,gender pay gap,8
-2015,percentage,,,thuringia,code16,,,,gender pay gap,9
-2016,percentage,,,thuringia,code16,,,,gender pay gap,7
-2017,percentage,,,thuringia,code16,,,,gender pay gap,6
-2018,percentage,,,thuringia,code16,,,,gender pay gap,6
-2019,percentage,,,thuringia,code16,,,,gender pay gap,6
-2020,percentage,,,thuringia,code16,,,,gender pay gap,5
-2021,percentage,,,thuringia,code16,,,,gender pay gap,5
-2022,percentage,,,thuringia,code16,|,,,gender pay gap,7
-2023,percentage,,,thuringia,code16,,,,gender pay gap,7
-2024,percentage,,,thuringia,code16,,,,gender pay gap,6
-2025,percentage,,,thuringia,code16,,,,gender pay gap,5
+Year,Units,age group,occupation,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,eur per hour,,,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,,,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,,,,,,,,average hourly earnings of employees,17.78
+2015,eur per hour,,,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,,,,,,,,average hourly earnings of employees,19.66
+2019,eur per hour,,,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,,,,,,,,average hourly earnings of employees,22.36
+2023,eur per hour,,,,,,,,,average hourly earnings of employees,23.30
+2024,eur per hour,,,,,,,,,average hourly earnings of employees,24.41
+2025,eur per hour,,,,,,,,,average hourly earnings of employees,25.05
+2010,eur per hour,24 years and younger,,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,24 years and younger,,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,24 years and younger,,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,24 years and younger,,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,24 years and younger,,,,,,,,average hourly earnings of employees,9.10
+2015,eur per hour,24 years and younger,,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,24 years and younger,,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,24 years and younger,,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,24 years and younger,,,,,,,,average hourly earnings of employees,10.56
+2019,eur per hour,24 years and younger,,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,24 years and younger,,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,24 years and younger,,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,24 years and younger,,,,,,,,average hourly earnings of employees,12.28
+2023,eur per hour,24 years and younger,,,,,,,,average hourly earnings of employees,13.14
+2024,eur per hour,24 years and younger,,,,,,,,average hourly earnings of employees,13.78
+2025,eur per hour,24 years and younger,,,,,,,,average hourly earnings of employees,14.16
+2010,eur per hour,25 to under 30 years,,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,25 to under 30 years,,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,25 to under 30 years,,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,25 to under 30 years,,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,25 to under 30 years,,,,,,,,average hourly earnings of employees,14.39
+2015,eur per hour,25 to under 30 years,,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,25 to under 30 years,,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,25 to under 30 years,,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,25 to under 30 years,,,,,,,,average hourly earnings of employees,16.29
+2019,eur per hour,25 to under 30 years,,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,25 to under 30 years,,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,25 to under 30 years,,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,25 to under 30 years,,,,,,,,average hourly earnings of employees,18.89
+2023,eur per hour,25 to under 30 years,,,,,,,,average hourly earnings of employees,19.86
+2024,eur per hour,25 to under 30 years,,,,,,,,average hourly earnings of employees,20.83
+2025,eur per hour,25 to under 30 years,,,,,,,,average hourly earnings of employees,21.40
+2010,eur per hour,30 to under 35 years,,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,30 to under 35 years,,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,30 to under 35 years,,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,30 to under 35 years,,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,30 to under 35 years,,,,,,,,average hourly earnings of employees,17.36
+2015,eur per hour,30 to under 35 years,,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,30 to under 35 years,,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,30 to under 35 years,,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,30 to under 35 years,,,,,,,,average hourly earnings of employees,19.32
+2019,eur per hour,30 to under 35 years,,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,30 to under 35 years,,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,30 to under 35 years,,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,30 to under 35 years,,,,,,,,average hourly earnings of employees,22.16
+2023,eur per hour,30 to under 35 years,,,,,,,,average hourly earnings of employees,22.97
+2024,eur per hour,30 to under 35 years,,,,,,,,average hourly earnings of employees,24.16
+2025,eur per hour,30 to under 35 years,,,,,,,,average hourly earnings of employees,25.14
+2010,eur per hour,35 to under 40 years,,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,35 to under 40 years,,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,35 to under 40 years,,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,35 to under 40 years,,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,35 to under 40 years,,,,,,,,average hourly earnings of employees,18.76
+2015,eur per hour,35 to under 40 years,,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,35 to under 40 years,,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,35 to under 40 years,,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,35 to under 40 years,,,,,,,,average hourly earnings of employees,20.70
+2019,eur per hour,35 to under 40 years,,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,35 to under 40 years,,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,35 to under 40 years,,,,,,,,average hourly earnings of employees,
+2022,eur per hour,35 to under 40 years,,,,,,,,average hourly earnings of employees,23.78
+2023,eur per hour,35 to under 40 years,,,,,,,,average hourly earnings of employees,24.54
+2024,eur per hour,35 to under 40 years,,,,,,,,average hourly earnings of employees,25.90
+2025,eur per hour,35 to under 40 years,,,,,,,,average hourly earnings of employees,26.72
+2010,eur per hour,40 to under 45 years,,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,40 to under 45 years,,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,40 to under 45 years,,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,40 to under 45 years,,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,40 to under 45 years,,,,,,,,average hourly earnings of employees,19.57
+2015,eur per hour,40 to under 45 years,,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,40 to under 45 years,,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,40 to under 45 years,,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,40 to under 45 years,,,,,,,,average hourly earnings of employees,21.23
+2019,eur per hour,40 to under 45 years,,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,40 to under 45 years,,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,40 to under 45 years,,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,40 to under 45 years,,,,,,,,average hourly earnings of employees,24.44
+2023,eur per hour,40 to under 45 years,,,,,,,,average hourly earnings of employees,25.22
+2024,eur per hour,40 to under 45 years,,,,,,,,average hourly earnings of employees,26.65
+2025,eur per hour,40 to under 45 years,,,,,,,,average hourly earnings of employees,27.30
+2010,eur per hour,45 to under 50 years,,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,45 to under 50 years,,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,45 to under 50 years,,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,45 to under 50 years,,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,45 to under 50 years,,,,,,,,average hourly earnings of employees,20.22
+2015,eur per hour,45 to under 50 years,,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,45 to under 50 years,,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,45 to under 50 years,,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,45 to under 50 years,,,,,,,,average hourly earnings of employees,21.77
+2019,eur per hour,45 to under 50 years,,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,45 to under 50 years,,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,45 to under 50 years,,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,45 to under 50 years,,,,,,,,average hourly earnings of employees,24.73
+2023,eur per hour,45 to under 50 years,,,,,,,,average hourly earnings of employees,25.58
+2024,eur per hour,45 to under 50 years,,,,,,,,average hourly earnings of employees,26.96
+2025,eur per hour,45 to under 50 years,,,,,,,,average hourly earnings of employees,27.72
+2010,eur per hour,50 to under 55 years,,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,50 to under 55 years,,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,50 to under 55 years,,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,50 to under 55 years,,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,50 to under 55 years,,,,,,,,average hourly earnings of employees,19.75
+2015,eur per hour,50 to under 55 years,,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,50 to under 55 years,,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,50 to under 55 years,,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,50 to under 55 years,,,,,,,,average hourly earnings of employees,22.03
+2019,eur per hour,50 to under 55 years,,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,50 to under 55 years,,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,50 to under 55 years,,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,50 to under 55 years,,,,,,,,average hourly earnings of employees,25.17
+2023,eur per hour,50 to under 55 years,,,,,,,,average hourly earnings of employees,25.76
+2024,eur per hour,50 to under 55 years,,,,,,,,average hourly earnings of employees,27.07
+2025,eur per hour,50 to under 55 years,,,,,,,,average hourly earnings of employees,27.72
+2010,eur per hour,55 to under 60 years,,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,55 to under 60 years,,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,55 to under 60 years,,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,55 to under 60 years,,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,55 to under 60 years,,,,,,,,average hourly earnings of employees,19.67
+2015,eur per hour,55 to under 60 years,,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,55 to under 60 years,,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,55 to under 60 years,,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,55 to under 60 years,,,,,,,,average hourly earnings of employees,21.76
+2019,eur per hour,55 to under 60 years,,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,55 to under 60 years,,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,55 to under 60 years,,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,55 to under 60 years,,,,,,,,average hourly earnings of employees,25.06
+2023,eur per hour,55 to under 60 years,,,,,,,,average hourly earnings of employees,26.02
+2024,eur per hour,55 to under 60 years,,,,,,,,average hourly earnings of employees,27.35
+2025,eur per hour,55 to under 60 years,,,,,,,,average hourly earnings of employees,28.14
+2010,eur per hour,60 to under 65 years,,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,60 to under 65 years,,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,60 to under 65 years,,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,60 to under 65 years,,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,60 to under 65 years,,,,,,,,average hourly earnings of employees,20.07
+2015,eur per hour,60 to under 65 years,,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,60 to under 65 years,,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,60 to under 65 years,,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,60 to under 65 years,,,,,,,,average hourly earnings of employees,21.71
+2019,eur per hour,60 to under 65 years,,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,60 to under 65 years,,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,60 to under 65 years,,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,60 to under 65 years,,,,,,,,average hourly earnings of employees,24.60
+2023,eur per hour,60 to under 65 years,,,,,,,,average hourly earnings of employees,25.56
+2024,eur per hour,60 to under 65 years,,,,,,,,average hourly earnings of employees,26.83
+2025,eur per hour,60 to under 65 years,,,,,,,,average hourly earnings of employees,27.62
+2010,eur per hour,65 years and older,,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,65 years and older,,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,65 years and older,,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,65 years and older,,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,65 years and older,,,,,,,,average hourly earnings of employees,13.09
+2015,eur per hour,65 years and older,,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,65 years and older,,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,65 years and older,,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,65 years and older,,,,,,,,average hourly earnings of employees,15.53
+2019,eur per hour,65 years and older,,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,65 years and older,,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,65 years and older,,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,65 years and older,,,,,,,,average hourly earnings of employees,19.25
+2023,eur per hour,65 years and older,,,,,,,,average hourly earnings of employees,20.55
+2024,eur per hour,65 years and older,,,,,,,,average hourly earnings of employees,22.03
+2025,eur per hour,65 years and older,,,,,,,,average hourly earnings of employees,21.51
+2010,eur per hour,,managers,,,,,,,average hourly earnings of employees,35.83
+2011,eur per hour,,managers,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,managers,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,managers,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,managers,,,,,,,average hourly earnings of employees,43.46
+2015,eur per hour,,managers,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,managers,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,managers,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,managers,,,,,,,average hourly earnings of employees,46.93
+2019,eur per hour,,managers,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,managers,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,managers,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,managers,,,,,,,average hourly earnings of employees,47.67
+2010,eur per hour,,professionals,,,,,,,average hourly earnings of employees,25.27
+2011,eur per hour,,professionals,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,professionals,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,professionals,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,professionals,,,,,,,average hourly earnings of employees,26.88
+2015,eur per hour,,professionals,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,professionals,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,professionals,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,professionals,,,,,,,average hourly earnings of employees,29.17
+2019,eur per hour,,professionals,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,professionals,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,professionals,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,professionals,,,,,,,average hourly earnings of employees,32.37
+2010,eur per hour,,technicians and associate professionals,,,,,,,average hourly earnings of employees,20.72
+2011,eur per hour,,technicians and associate professionals,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,technicians and associate professionals,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,technicians and associate professionals,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,technicians and associate professionals,,,,,,,average hourly earnings of employees,19.98
+2015,eur per hour,,technicians and associate professionals,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,technicians and associate professionals,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,technicians and associate professionals,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,technicians and associate professionals,,,,,,,average hourly earnings of employees,21.97
+2019,eur per hour,,technicians and associate professionals,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,technicians and associate professionals,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,technicians and associate professionals,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,technicians and associate professionals,,,,,,,average hourly earnings of employees,24.55
+2010,eur per hour,,clerical support workers,,,,,,,average hourly earnings of employees,14.02
+2011,eur per hour,,clerical support workers,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,clerical support workers,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,clerical support workers,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,clerical support workers,,,,,,,average hourly earnings of employees,16.70
+2015,eur per hour,,clerical support workers,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,clerical support workers,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,clerical support workers,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,clerical support workers,,,,,,,average hourly earnings of employees,18.06
+2019,eur per hour,,clerical support workers,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,clerical support workers,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,clerical support workers,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,clerical support workers,,,,,,,average hourly earnings of employees,20.03
+2010,eur per hour,,service and sales workers,,,,,,,average hourly earnings of employees,12.09
+2011,eur per hour,,service and sales workers,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,service and sales workers,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,service and sales workers,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,service and sales workers,,,,,,,average hourly earnings of employees,11.82
+2015,eur per hour,,service and sales workers,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,service and sales workers,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,service and sales workers,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,service and sales workers,,,,,,,average hourly earnings of employees,13.32
+2019,eur per hour,,service and sales workers,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,service and sales workers,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,service and sales workers,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,service and sales workers,,,,,,,average hourly earnings of employees,15.76
+2010,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,,,,average hourly earnings of employees,11.54
+2011,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,,,,average hourly earnings of employees,12.53
+2015,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,,,,average hourly earnings of employees,15.28
+2019,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,"skilled agricultural, forestry and fishery workers",,,,,,,average hourly earnings of employees,16.17
+2010,eur per hour,,craft and related trades workers,,,,,,,average hourly earnings of employees,15.01
+2011,eur per hour,,craft and related trades workers,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,craft and related trades workers,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,craft and related trades workers,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,craft and related trades workers,,,,,,,average hourly earnings of employees,16.41
+2015,eur per hour,,craft and related trades workers,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,craft and related trades workers,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,craft and related trades workers,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,craft and related trades workers,,,,,,,average hourly earnings of employees,18.38
+2019,eur per hour,,craft and related trades workers,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,craft and related trades workers,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,craft and related trades workers,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,craft and related trades workers,,,,,,,average hourly earnings of employees,19.92
+2010,eur per hour,,plant and machine operators and assemblers,,,,,,,average hourly earnings of employees,14.25
+2011,eur per hour,,plant and machine operators and assemblers,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,plant and machine operators and assemblers,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,plant and machine operators and assemblers,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,plant and machine operators and assemblers,,,,,,,average hourly earnings of employees,14.66
+2015,eur per hour,,plant and machine operators and assemblers,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,plant and machine operators and assemblers,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,plant and machine operators and assemblers,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,plant and machine operators and assemblers,,,,,,,average hourly earnings of employees,16.22
+2019,eur per hour,,plant and machine operators and assemblers,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,plant and machine operators and assemblers,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,plant and machine operators and assemblers,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,plant and machine operators and assemblers,,,,,,,average hourly earnings of employees,17.98
+2010,eur per hour,,elementary occupations,,,,,,,average hourly earnings of employees,10.07
+2011,eur per hour,,elementary occupations,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,elementary occupations,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,elementary occupations,,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,elementary occupations,,,,,,,average hourly earnings of employees,9.89
+2015,eur per hour,,elementary occupations,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,elementary occupations,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,elementary occupations,,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,elementary occupations,,,,,,,average hourly earnings of employees,11.33
+2019,eur per hour,,elementary occupations,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,elementary occupations,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,elementary occupations,,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,elementary occupations,,,,,,,average hourly earnings of employees,13.71
+2010,eur per hour,,,female,,,,,,average hourly earnings of employees,14.62
+2011,eur per hour,,,female,,,,,,average hourly earnings of employees,14.88
+2012,eur per hour,,,female,,,,,,average hourly earnings of employees,15.18
+2013,eur per hour,,,female,,,,,,average hourly earnings of employees,15.50
+2014,eur per hour,,,female,,,,,,average hourly earnings of employees,15.44
+2015,eur per hour,,,female,,,,,,average hourly earnings of employees,15.82
+2016,eur per hour,,,female,,,,,,average hourly earnings of employees,16.30
+2017,eur per hour,,,female,,,,,,average hourly earnings of employees,16.66
+2018,eur per hour,,,female,,,,,,average hourly earnings of employees,17.33
+2019,eur per hour,,,female,,,,,,average hourly earnings of employees,17.98
+2020,eur per hour,,,female,,,,,,average hourly earnings of employees,18.62
+2021,eur per hour,,,female,,,,,,average hourly earnings of employees,19.12
+2022,eur per hour,,,female,,,,,,average hourly earnings of employees,20.05
+2023,eur per hour,,,female,,,,,,average hourly earnings of employees,20.84
+2024,eur per hour,,,female,,,,,,average hourly earnings of employees,22.24
+2025,eur per hour,,,female,,,,,,average hourly earnings of employees,22.81
+2010,eur per hour,24 years and younger,,female,,,.,,,average hourly earnings of employees,
+2011,eur per hour,24 years and younger,,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,24 years and younger,,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,24 years and younger,,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,24 years and younger,,female,,,,,,average hourly earnings of employees,8.80
+2015,eur per hour,24 years and younger,,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,24 years and younger,,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,24 years and younger,,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,24 years and younger,,female,,,,,,average hourly earnings of employees,10.22
+2019,eur per hour,24 years and younger,,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,24 years and younger,,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,24 years and younger,,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,24 years and younger,,female,,,,,,average hourly earnings of employees,12.19
+2023,eur per hour,24 years and younger,,female,,,,,,average hourly earnings of employees,13.02
+2024,eur per hour,24 years and younger,,female,,,,,,average hourly earnings of employees,13.81
+2025,eur per hour,24 years and younger,,female,,,,,,average hourly earnings of employees,14.11
+2010,eur per hour,25 to under 30 years,,female,,,.,,,average hourly earnings of employees,
+2011,eur per hour,25 to under 30 years,,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,25 to under 30 years,,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,25 to under 30 years,,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,25 to under 30 years,,female,,,,,,average hourly earnings of employees,13.68
+2015,eur per hour,25 to under 30 years,,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,25 to under 30 years,,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,25 to under 30 years,,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,25 to under 30 years,,female,,,,,,average hourly earnings of employees,15.54
+2019,eur per hour,25 to under 30 years,,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,25 to under 30 years,,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,25 to under 30 years,,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,25 to under 30 years,,female,,,,,,average hourly earnings of employees,18.35
+2023,eur per hour,25 to under 30 years,,female,,,,,,average hourly earnings of employees,19.25
+2024,eur per hour,25 to under 30 years,,female,,,,,,average hourly earnings of employees,20.42
+2025,eur per hour,25 to under 30 years,,female,,,,,,average hourly earnings of employees,20.92
+2010,eur per hour,30 to under 35 years,,female,,,.,,,average hourly earnings of employees,
+2011,eur per hour,30 to under 35 years,,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,30 to under 35 years,,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,30 to under 35 years,,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,30 to under 35 years,,female,,,,,,average hourly earnings of employees,16.02
+2015,eur per hour,30 to under 35 years,,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,30 to under 35 years,,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,30 to under 35 years,,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,30 to under 35 years,,female,,,,,,average hourly earnings of employees,18.13
+2019,eur per hour,30 to under 35 years,,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,30 to under 35 years,,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,30 to under 35 years,,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,30 to under 35 years,,female,,,,,,average hourly earnings of employees,20.85
+2023,eur per hour,30 to under 35 years,,female,,,,,,average hourly earnings of employees,21.61
+2024,eur per hour,30 to under 35 years,,female,,,,,,average hourly earnings of employees,22.99
+2025,eur per hour,30 to under 35 years,,female,,,,,,average hourly earnings of employees,24.01
+2010,eur per hour,35 to under 40 years,,female,,,.,,,average hourly earnings of employees,
+2011,eur per hour,35 to under 40 years,,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,35 to under 40 years,,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,35 to under 40 years,,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,35 to under 40 years,,female,,,,,,average hourly earnings of employees,16.61
+2015,eur per hour,35 to under 40 years,,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,35 to under 40 years,,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,35 to under 40 years,,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,35 to under 40 years,,female,,,,,,average hourly earnings of employees,18.65
+2019,eur per hour,35 to under 40 years,,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,35 to under 40 years,,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,35 to under 40 years,,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,35 to under 40 years,,female,,,,,,average hourly earnings of employees,21.64
+2023,eur per hour,35 to under 40 years,,female,,,,,,average hourly earnings of employees,22.40
+2024,eur per hour,35 to under 40 years,,female,,,,,,average hourly earnings of employees,23.95
+2025,eur per hour,35 to under 40 years,,female,,,,,,average hourly earnings of employees,24.67
+2010,eur per hour,40 to under 45 years,,female,,,.,,,average hourly earnings of employees,
+2011,eur per hour,40 to under 45 years,,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,40 to under 45 years,,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,40 to under 45 years,,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,40 to under 45 years,,female,,,,,,average hourly earnings of employees,16.70
+2015,eur per hour,40 to under 45 years,,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,40 to under 45 years,,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,40 to under 45 years,,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,40 to under 45 years,,female,,,,,,average hourly earnings of employees,18.60
+2019,eur per hour,40 to under 45 years,,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,40 to under 45 years,,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,40 to under 45 years,,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,40 to under 45 years,,female,,,,,,average hourly earnings of employees,21.85
+2023,eur per hour,40 to under 45 years,,female,,,,,,average hourly earnings of employees,22.59
+2024,eur per hour,40 to under 45 years,,female,,,,,,average hourly earnings of employees,24.17
+2025,eur per hour,40 to under 45 years,,female,,,,,,average hourly earnings of employees,24.86
+2010,eur per hour,45 to under 50 years,,female,,,.,,,average hourly earnings of employees,
+2011,eur per hour,45 to under 50 years,,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,45 to under 50 years,,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,45 to under 50 years,,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,45 to under 50 years,,female,,,,,,average hourly earnings of employees,16.80
+2015,eur per hour,45 to under 50 years,,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,45 to under 50 years,,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,45 to under 50 years,,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,45 to under 50 years,,female,,,,,,average hourly earnings of employees,18.68
+2019,eur per hour,45 to under 50 years,,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,45 to under 50 years,,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,45 to under 50 years,,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,45 to under 50 years,,female,,,,,,average hourly earnings of employees,21.56
+2023,eur per hour,45 to under 50 years,,female,,,,,,average hourly earnings of employees,22.49
+2024,eur per hour,45 to under 50 years,,female,,,,,,average hourly earnings of employees,24.01
+2025,eur per hour,45 to under 50 years,,female,,,,,,average hourly earnings of employees,24.73
+2010,eur per hour,50 to under 55 years,,female,,,.,,,average hourly earnings of employees,
+2011,eur per hour,50 to under 55 years,,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,50 to under 55 years,,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,50 to under 55 years,,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,50 to under 55 years,,female,,,,,,average hourly earnings of employees,16.40
+2015,eur per hour,50 to under 55 years,,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,50 to under 55 years,,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,50 to under 55 years,,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,50 to under 55 years,,female,,,,,,average hourly earnings of employees,18.54
+2019,eur per hour,50 to under 55 years,,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,50 to under 55 years,,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,50 to under 55 years,,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,50 to under 55 years,,female,,,,,,average hourly earnings of employees,21.55
+2023,eur per hour,50 to under 55 years,,female,,,,,,average hourly earnings of employees,22.16
+2024,eur per hour,50 to under 55 years,,female,,,,,,average hourly earnings of employees,23.74
+2025,eur per hour,50 to under 55 years,,female,,,,,,average hourly earnings of employees,24.35
+2010,eur per hour,55 to under 60 years,,female,,,.,,,average hourly earnings of employees,
+2011,eur per hour,55 to under 60 years,,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,55 to under 60 years,,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,55 to under 60 years,,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,55 to under 60 years,,female,,,,,,average hourly earnings of employees,16.38
+2015,eur per hour,55 to under 60 years,,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,55 to under 60 years,,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,55 to under 60 years,,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,55 to under 60 years,,female,,,,,,average hourly earnings of employees,18.12
+2019,eur per hour,55 to under 60 years,,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,55 to under 60 years,,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,55 to under 60 years,,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,55 to under 60 years,,female,,,,,,average hourly earnings of employees,21.04
+2023,eur per hour,55 to under 60 years,,female,,,,,,average hourly earnings of employees,21.99
+2024,eur per hour,55 to under 60 years,,female,,,,,,average hourly earnings of employees,23.43
+2025,eur per hour,55 to under 60 years,,female,,,,,,average hourly earnings of employees,24.12
+2010,eur per hour,60 to under 65 years,,female,,,.,,,average hourly earnings of employees,
+2011,eur per hour,60 to under 65 years,,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,60 to under 65 years,,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,60 to under 65 years,,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,60 to under 65 years,,female,,,,,,average hourly earnings of employees,16.84
+2015,eur per hour,60 to under 65 years,,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,60 to under 65 years,,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,60 to under 65 years,,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,60 to under 65 years,,female,,,,,,average hourly earnings of employees,18.46
+2019,eur per hour,60 to under 65 years,,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,60 to under 65 years,,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,60 to under 65 years,,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,60 to under 65 years,,female,,,,,,average hourly earnings of employees,20.95
+2023,eur per hour,60 to under 65 years,,female,,,,,,average hourly earnings of employees,21.69
+2024,eur per hour,60 to under 65 years,,female,,,,,,average hourly earnings of employees,23.04
+2025,eur per hour,60 to under 65 years,,female,,,,,,average hourly earnings of employees,23.64
+2010,eur per hour,65 years and older,,female,,,.,,,average hourly earnings of employees,
+2011,eur per hour,65 years and older,,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,65 years and older,,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,65 years and older,,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,65 years and older,,female,,,,,,average hourly earnings of employees,11.67
+2015,eur per hour,65 years and older,,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,65 years and older,,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,65 years and older,,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,65 years and older,,female,,,,,,average hourly earnings of employees,14.08
+2019,eur per hour,65 years and older,,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,65 years and older,,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,65 years and older,,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,65 years and older,,female,,,,,,average hourly earnings of employees,18.22
+2023,eur per hour,65 years and older,,female,,,,,,average hourly earnings of employees,19.49
+2024,eur per hour,65 years and older,,female,,,,,,average hourly earnings of employees,21.16
+2025,eur per hour,65 years and older,,female,,,,,,average hourly earnings of employees,20.12
+2010,eur per hour,,managers,female,,,,,,average hourly earnings of employees,27.64
+2011,eur per hour,,managers,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,managers,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,managers,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,managers,female,,,,,,average hourly earnings of employees,33.84
+2015,eur per hour,,managers,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,managers,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,managers,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,managers,female,,,,,,average hourly earnings of employees,37.27
+2019,eur per hour,,managers,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,managers,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,managers,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,managers,female,,,,,,average hourly earnings of employees,37.01
+2010,eur per hour,,professionals,female,,,,,,average hourly earnings of employees,21.02
+2011,eur per hour,,professionals,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,professionals,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,professionals,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,professionals,female,,,,,,average hourly earnings of employees,23.31
+2015,eur per hour,,professionals,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,professionals,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,professionals,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,professionals,female,,,,,,average hourly earnings of employees,25.71
+2019,eur per hour,,professionals,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,professionals,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,professionals,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,professionals,female,,,,,,average hourly earnings of employees,28.59
+2010,eur per hour,,technicians and associate professionals,female,,,,,,average hourly earnings of employees,17.09
+2011,eur per hour,,technicians and associate professionals,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,technicians and associate professionals,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,technicians and associate professionals,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,technicians and associate professionals,female,,,,,,average hourly earnings of employees,17.22
+2015,eur per hour,,technicians and associate professionals,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,technicians and associate professionals,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,technicians and associate professionals,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,technicians and associate professionals,female,,,,,,average hourly earnings of employees,19.16
+2019,eur per hour,,technicians and associate professionals,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,technicians and associate professionals,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,technicians and associate professionals,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,technicians and associate professionals,female,,,,,,average hourly earnings of employees,21.57
+2010,eur per hour,,clerical support workers,female,,,,,,average hourly earnings of employees,13.80
+2011,eur per hour,,clerical support workers,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,clerical support workers,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,clerical support workers,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,clerical support workers,female,,,,,,average hourly earnings of employees,16.07
+2015,eur per hour,,clerical support workers,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,clerical support workers,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,clerical support workers,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,clerical support workers,female,,,,,,average hourly earnings of employees,17.56
+2019,eur per hour,,clerical support workers,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,clerical support workers,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,clerical support workers,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,clerical support workers,female,,,,,,average hourly earnings of employees,19.31
+2010,eur per hour,,service and sales workers,female,,,,,,average hourly earnings of employees,11.51
+2011,eur per hour,,service and sales workers,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,service and sales workers,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,service and sales workers,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,service and sales workers,female,,,,,,average hourly earnings of employees,11.37
+2015,eur per hour,,service and sales workers,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,service and sales workers,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,service and sales workers,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,service and sales workers,female,,,,,,average hourly earnings of employees,12.81
+2019,eur per hour,,service and sales workers,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,service and sales workers,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,service and sales workers,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,service and sales workers,female,,,,,,average hourly earnings of employees,15.58
+2010,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,,,,average hourly earnings of employees,10.32
+2011,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,,,,average hourly earnings of employees,10.90
+2015,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,,,,average hourly earnings of employees,17.91
+2019,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,"skilled agricultural, forestry and fishery workers",female,,,,,,average hourly earnings of employees,14.99
+2010,eur per hour,,craft and related trades workers,female,,,,,,average hourly earnings of employees,11.53
+2011,eur per hour,,craft and related trades workers,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,craft and related trades workers,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,craft and related trades workers,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,craft and related trades workers,female,,,,,,average hourly earnings of employees,13.16
+2015,eur per hour,,craft and related trades workers,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,craft and related trades workers,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,craft and related trades workers,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,craft and related trades workers,female,,,,,,average hourly earnings of employees,15.42
+2019,eur per hour,,craft and related trades workers,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,craft and related trades workers,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,craft and related trades workers,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,craft and related trades workers,female,,,,,,average hourly earnings of employees,17.02
+2010,eur per hour,,plant and machine operators and assemblers,female,,,,,,average hourly earnings of employees,11.90
+2011,eur per hour,,plant and machine operators and assemblers,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,plant and machine operators and assemblers,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,plant and machine operators and assemblers,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,plant and machine operators and assemblers,female,,,,,,average hourly earnings of employees,12.50
+2015,eur per hour,,plant and machine operators and assemblers,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,plant and machine operators and assemblers,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,plant and machine operators and assemblers,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,plant and machine operators and assemblers,female,,,,,,average hourly earnings of employees,14.27
+2019,eur per hour,,plant and machine operators and assemblers,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,plant and machine operators and assemblers,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,plant and machine operators and assemblers,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,plant and machine operators and assemblers,female,,,,,,average hourly earnings of employees,15.85
+2010,eur per hour,,elementary occupations,female,,,,,,average hourly earnings of employees,9.42
+2011,eur per hour,,elementary occupations,female,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,elementary occupations,female,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,elementary occupations,female,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,elementary occupations,female,,,,,,average hourly earnings of employees,9.58
+2015,eur per hour,,elementary occupations,female,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,elementary occupations,female,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,elementary occupations,female,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,elementary occupations,female,,,,,,average hourly earnings of employees,10.96
+2019,eur per hour,,elementary occupations,female,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,elementary occupations,female,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,elementary occupations,female,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,elementary occupations,female,,,,,,average hourly earnings of employees,12.94
+2010,eur per hour,,,male,,,,,,average hourly earnings of employees,18.81
+2011,eur per hour,,,male,,,,,,average hourly earnings of employees,19.17
+2012,eur per hour,,,male,,,,,,average hourly earnings of employees,19.63
+2013,eur per hour,,,male,,,,,,average hourly earnings of employees,19.89
+2014,eur per hour,,,male,,,,,,average hourly earnings of employees,19.87
+2015,eur per hour,,,male,,,,,,average hourly earnings of employees,20.24
+2016,eur per hour,,,male,,,,,,average hourly earnings of employees,20.67
+2017,eur per hour,,,male,,,,,,average hourly earnings of employees,20.94
+2018,eur per hour,,,male,,,,,,average hourly earnings of employees,21.70
+2019,eur per hour,,,male,,,,,,average hourly earnings of employees,22.26
+2020,eur per hour,,,male,,,,,,average hourly earnings of employees,22.78
+2021,eur per hour,,,male,,,,,,average hourly earnings of employees,23.20
+2022,eur per hour,,,male,,,,,,average hourly earnings of employees,24.36
+2023,eur per hour,,,male,,,,,,average hourly earnings of employees,25.30
+2024,eur per hour,,,male,,,,,,average hourly earnings of employees,26.34
+2025,eur per hour,,,male,,,,,,average hourly earnings of employees,27.05
+2010,eur per hour,24 years and younger,,male,,,.,,,average hourly earnings of employees,
+2011,eur per hour,24 years and younger,,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,24 years and younger,,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,24 years and younger,,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,24 years and younger,,male,,,,,,average hourly earnings of employees,9.35
+2015,eur per hour,24 years and younger,,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,24 years and younger,,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,24 years and younger,,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,24 years and younger,,male,,,,,,average hourly earnings of employees,10.87
+2019,eur per hour,24 years and younger,,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,24 years and younger,,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,24 years and younger,,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,24 years and younger,,male,,,,,,average hourly earnings of employees,12.35
+2023,eur per hour,24 years and younger,,male,,,,,,average hourly earnings of employees,13.25
+2024,eur per hour,24 years and younger,,male,,,,,,average hourly earnings of employees,13.76
+2025,eur per hour,24 years and younger,,male,,,,,,average hourly earnings of employees,14.20
+2010,eur per hour,25 to under 30 years,,male,,,.,,,average hourly earnings of employees,
+2011,eur per hour,25 to under 30 years,,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,25 to under 30 years,,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,25 to under 30 years,,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,25 to under 30 years,,male,,,,,,average hourly earnings of employees,15.04
+2015,eur per hour,25 to under 30 years,,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,25 to under 30 years,,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,25 to under 30 years,,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,25 to under 30 years,,male,,,,,,average hourly earnings of employees,16.94
+2019,eur per hour,25 to under 30 years,,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,25 to under 30 years,,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,25 to under 30 years,,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,25 to under 30 years,,male,,,,,,average hourly earnings of employees,19.32
+2023,eur per hour,25 to under 30 years,,male,,,,,,average hourly earnings of employees,20.38
+2024,eur per hour,25 to under 30 years,,male,,,,,,average hourly earnings of employees,21.16
+2025,eur per hour,25 to under 30 years,,male,,,,,,average hourly earnings of employees,21.80
+2010,eur per hour,30 to under 35 years,,male,,,.,,,average hourly earnings of employees,
+2011,eur per hour,30 to under 35 years,,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,30 to under 35 years,,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,30 to under 35 years,,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,30 to under 35 years,,male,,,,,,average hourly earnings of employees,18.42
+2015,eur per hour,30 to under 35 years,,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,30 to under 35 years,,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,30 to under 35 years,,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,30 to under 35 years,,male,,,,,,average hourly earnings of employees,20.22
+2019,eur per hour,30 to under 35 years,,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,30 to under 35 years,,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,30 to under 35 years,,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,30 to under 35 years,,male,,,,,,average hourly earnings of employees,23.14
+2023,eur per hour,30 to under 35 years,,male,,,,,,average hourly earnings of employees,24.01
+2024,eur per hour,30 to under 35 years,,male,,,,,,average hourly earnings of employees,25.07
+2025,eur per hour,30 to under 35 years,,male,,,,,,average hourly earnings of employees,26.01
+2010,eur per hour,35 to under 40 years,,male,,,.,,,average hourly earnings of employees,
+2011,eur per hour,35 to under 40 years,,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,35 to under 40 years,,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,35 to under 40 years,,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,35 to under 40 years,,male,,,,,,average hourly earnings of employees,20.47
+2015,eur per hour,35 to under 40 years,,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,35 to under 40 years,,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,35 to under 40 years,,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,35 to under 40 years,,male,,,,,,average hourly earnings of employees,22.31
+2019,eur per hour,35 to under 40 years,,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,35 to under 40 years,,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,35 to under 40 years,,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,35 to under 40 years,,male,,,,,,average hourly earnings of employees,25.46
+2023,eur per hour,35 to under 40 years,,male,,,,,,average hourly earnings of employees,26.26
+2024,eur per hour,35 to under 40 years,,male,,,,,,average hourly earnings of employees,27.48
+2025,eur per hour,35 to under 40 years,,male,,,,,,average hourly earnings of employees,28.39
+2010,eur per hour,40 to under 45 years,,male,,,.,,,average hourly earnings of employees,
+2011,eur per hour,40 to under 45 years,,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,40 to under 45 years,,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,40 to under 45 years,,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,40 to under 45 years,,male,,,,,,average hourly earnings of employees,22.11
+2015,eur per hour,40 to under 45 years,,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,40 to under 45 years,,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,40 to under 45 years,,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,40 to under 45 years,,male,,,,,,average hourly earnings of employees,23.53
+2019,eur per hour,40 to under 45 years,,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,40 to under 45 years,,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,40 to under 45 years,,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,40 to under 45 years,,male,,,,,,average hourly earnings of employees,26.72
+2023,eur per hour,40 to under 45 years,,male,,,,,,average hourly earnings of employees,27.59
+2024,eur per hour,40 to under 45 years,,male,,,,,,average hourly earnings of employees,28.86
+2025,eur per hour,40 to under 45 years,,male,,,,,,average hourly earnings of employees,29.54
+2010,eur per hour,45 to under 50 years,,male,,,.,,,average hourly earnings of employees,
+2011,eur per hour,45 to under 50 years,,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,45 to under 50 years,,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,45 to under 50 years,,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,45 to under 50 years,,male,,,,,,average hourly earnings of employees,23.41
+2015,eur per hour,45 to under 50 years,,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,45 to under 50 years,,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,45 to under 50 years,,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,45 to under 50 years,,male,,,,,,average hourly earnings of employees,24.71
+2019,eur per hour,45 to under 50 years,,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,45 to under 50 years,,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,45 to under 50 years,,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,45 to under 50 years,,male,,,,,,average hourly earnings of employees,27.72
+2023,eur per hour,45 to under 50 years,,male,,,,,,average hourly earnings of employees,28.57
+2024,eur per hour,45 to under 50 years,,male,,,,,,average hourly earnings of employees,29.81
+2025,eur per hour,45 to under 50 years,,male,,,,,,average hourly earnings of employees,30.69
+2010,eur per hour,50 to under 55 years,,male,,,.,,,average hourly earnings of employees,
+2011,eur per hour,50 to under 55 years,,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,50 to under 55 years,,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,50 to under 55 years,,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,50 to under 55 years,,male,,,,,,average hourly earnings of employees,22.93
+2015,eur per hour,50 to under 55 years,,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,50 to under 55 years,,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,50 to under 55 years,,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,50 to under 55 years,,male,,,,,,average hourly earnings of employees,25.30
+2019,eur per hour,50 to under 55 years,,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,50 to under 55 years,,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,50 to under 55 years,,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,50 to under 55 years,,male,,,,,,average hourly earnings of employees,28.61
+2023,eur per hour,50 to under 55 years,,male,,,,,,average hourly earnings of employees,29.22
+2024,eur per hour,50 to under 55 years,,male,,,,,,average hourly earnings of employees,30.26
+2025,eur per hour,50 to under 55 years,,male,,,,,,average hourly earnings of employees,31.03
+2010,eur per hour,55 to under 60 years,,male,,,.,,,average hourly earnings of employees,
+2011,eur per hour,55 to under 60 years,,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,55 to under 60 years,,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,55 to under 60 years,,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,55 to under 60 years,,male,,,,,,average hourly earnings of employees,22.86
+2015,eur per hour,55 to under 60 years,,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,55 to under 60 years,,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,55 to under 60 years,,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,55 to under 60 years,,male,,,,,,average hourly earnings of employees,25.26
+2019,eur per hour,55 to under 60 years,,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,55 to under 60 years,,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,55 to under 60 years,,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,55 to under 60 years,,male,,,,,,average hourly earnings of employees,28.88
+2023,eur per hour,55 to under 60 years,,male,,,,,,average hourly earnings of employees,29.90
+2024,eur per hour,55 to under 60 years,,male,,,,,,average hourly earnings of employees,31.13
+2025,eur per hour,55 to under 60 years,,male,,,,,,average hourly earnings of employees,31.99
+2010,eur per hour,60 to under 65 years,,male,,,.,,,average hourly earnings of employees,
+2011,eur per hour,60 to under 65 years,,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,60 to under 65 years,,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,60 to under 65 years,,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,60 to under 65 years,,male,,,,,,average hourly earnings of employees,23.00
+2015,eur per hour,60 to under 65 years,,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,60 to under 65 years,,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,60 to under 65 years,,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,60 to under 65 years,,male,,,,,,average hourly earnings of employees,24.84
+2019,eur per hour,60 to under 65 years,,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,60 to under 65 years,,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,60 to under 65 years,,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,60 to under 65 years,,male,,,,,,average hourly earnings of employees,28.08
+2023,eur per hour,60 to under 65 years,,male,,,,,,average hourly earnings of employees,29.33
+2024,eur per hour,60 to under 65 years,,male,,,,,,average hourly earnings of employees,30.52
+2025,eur per hour,60 to under 65 years,,male,,,,,,average hourly earnings of employees,31.51
+2010,eur per hour,65 years and older,,male,,,.,,,average hourly earnings of employees,
+2011,eur per hour,65 years and older,,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,65 years and older,,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,65 years and older,,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,65 years and older,,male,,,,,,average hourly earnings of employees,14.06
+2015,eur per hour,65 years and older,,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,65 years and older,,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,65 years and older,,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,65 years and older,,male,,,,,,average hourly earnings of employees,16.61
+2019,eur per hour,65 years and older,,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,65 years and older,,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,65 years and older,,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,65 years and older,,male,,,,,,average hourly earnings of employees,20.07
+2023,eur per hour,65 years and older,,male,,,,,,average hourly earnings of employees,21.46
+2024,eur per hour,65 years and older,,male,,,,,,average hourly earnings of employees,22.79
+2025,eur per hour,65 years and older,,male,,,,,,average hourly earnings of employees,22.65
+2010,eur per hour,,managers,male,,,,,,average hourly earnings of employees,39.50
+2011,eur per hour,,managers,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,managers,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,managers,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,managers,male,,,,,,average hourly earnings of employees,46.22
+2015,eur per hour,,managers,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,managers,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,managers,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,managers,male,,,,,,average hourly earnings of employees,49.71
+2019,eur per hour,,managers,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,managers,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,managers,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,managers,male,,,,,,average hourly earnings of employees,51.84
+2010,eur per hour,,professionals,male,,,,,,average hourly earnings of employees,29.24
+2011,eur per hour,,professionals,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,professionals,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,professionals,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,professionals,male,,,,,,average hourly earnings of employees,19.97
+2015,eur per hour,,professionals,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,professionals,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,professionals,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,professionals,male,,,,,,average hourly earnings of employees,32.23
+2019,eur per hour,,professionals,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,professionals,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,professionals,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,professionals,male,,,,,,average hourly earnings of employees,35.74
+2010,eur per hour,,technicians and associate professionals,male,,,,,,average hourly earnings of employees,24.29
+2011,eur per hour,,technicians and associate professionals,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,technicians and associate professionals,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,technicians and associate professionals,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,technicians and associate professionals,male,,,,,,average hourly earnings of employees,23.27
+2015,eur per hour,,technicians and associate professionals,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,technicians and associate professionals,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,technicians and associate professionals,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,technicians and associate professionals,male,,,,,,average hourly earnings of employees,25.41
+2019,eur per hour,,technicians and associate professionals,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,technicians and associate professionals,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,technicians and associate professionals,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,technicians and associate professionals,male,,,,,,average hourly earnings of employees,28.15
+2010,eur per hour,,clerical support workers,male,,,,,,average hourly earnings of employees,14.42
+2011,eur per hour,,clerical support workers,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,clerical support workers,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,clerical support workers,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,clerical support workers,male,,,,,,average hourly earnings of employees,17.63
+2015,eur per hour,,clerical support workers,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,clerical support workers,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,clerical support workers,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,clerical support workers,male,,,,,,average hourly earnings of employees,18.75
+2019,eur per hour,,clerical support workers,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,clerical support workers,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,clerical support workers,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,clerical support workers,male,,,,,,average hourly earnings of employees,21.02
+2010,eur per hour,,service and sales workers,male,,,,,,average hourly earnings of employees,13.16
+2011,eur per hour,,service and sales workers,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,service and sales workers,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,service and sales workers,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,service and sales workers,male,,,,,,average hourly earnings of employees,12.77
+2015,eur per hour,,service and sales workers,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,service and sales workers,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,service and sales workers,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,service and sales workers,male,,,,,,average hourly earnings of employees,14.37
+2019,eur per hour,,service and sales workers,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,service and sales workers,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,service and sales workers,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,service and sales workers,male,,,,,,average hourly earnings of employees,16.15
+2010,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,,,,average hourly earnings of employees,11.83
+2011,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,,,,average hourly earnings of employees,12.84
+2015,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,,,,average hourly earnings of employees,15.37
+2019,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,"skilled agricultural, forestry and fishery workers",male,,,,,,average hourly earnings of employees,16.40
+2010,eur per hour,,craft and related trades workers,male,,,,,,average hourly earnings of employees,15.36
+2011,eur per hour,,craft and related trades workers,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,craft and related trades workers,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,craft and related trades workers,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,craft and related trades workers,male,,,,,,average hourly earnings of employees,16.71
+2015,eur per hour,,craft and related trades workers,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,craft and related trades workers,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,craft and related trades workers,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,craft and related trades workers,male,,,,,,average hourly earnings of employees,18.65
+2019,eur per hour,,craft and related trades workers,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,craft and related trades workers,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,craft and related trades workers,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,craft and related trades workers,male,,,,,,average hourly earnings of employees,20.22
+2010,eur per hour,,plant and machine operators and assemblers,male,,,,,,average hourly earnings of employees,14.78
+2011,eur per hour,,plant and machine operators and assemblers,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,plant and machine operators and assemblers,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,plant and machine operators and assemblers,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,plant and machine operators and assemblers,male,,,,,,average hourly earnings of employees,15.10
+2015,eur per hour,,plant and machine operators and assemblers,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,plant and machine operators and assemblers,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,plant and machine operators and assemblers,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,plant and machine operators and assemblers,male,,,,,,average hourly earnings of employees,16.60
+2019,eur per hour,,plant and machine operators and assemblers,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,plant and machine operators and assemblers,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,plant and machine operators and assemblers,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,plant and machine operators and assemblers,male,,,,,,average hourly earnings of employees,18.36
+2010,eur per hour,,elementary occupations,male,,,,,,average hourly earnings of employees,10.86
+2011,eur per hour,,elementary occupations,male,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,elementary occupations,male,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,elementary occupations,male,,,.,,,average hourly earnings of employees,
+2014,eur per hour,,elementary occupations,male,,,,,,average hourly earnings of employees,10.38
+2015,eur per hour,,elementary occupations,male,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,elementary occupations,male,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,elementary occupations,male,,,.,,,average hourly earnings of employees,
+2018,eur per hour,,elementary occupations,male,,,,,,average hourly earnings of employees,11.86
+2019,eur per hour,,elementary occupations,male,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,elementary occupations,male,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,elementary occupations,male,,,.,,,average hourly earnings of employees,
+2022,eur per hour,,elementary occupations,male,,,,,,average hourly earnings of employees,14.61
+2010,percentage,,,,,,,,,gender pay gap,22
+2011,percentage,,,,,,,,,gender pay gap,22
+2012,percentage,,,,,,,,,gender pay gap,23
+2013,percentage,,,,,,,,,gender pay gap,22
+2014,percentage,,,,,,,,,gender pay gap,22
+2015,percentage,,,,,,,,,gender pay gap,22
+2016,percentage,,,,,,,,,gender pay gap,21
+2017,percentage,,,,,,,,,gender pay gap,20
+2018,percentage,,,,,,,,,gender pay gap,20
+2019,percentage,,,,,,,,,gender pay gap,19
+2020,percentage,,,,,,,,,gender pay gap,18
+2021,percentage,,,,,,,,,gender pay gap,18
+2022,percentage,,,,,,|,,,gender pay gap,18
+2023,percentage,,,,,,,,,gender pay gap,18
+2024,percentage,,,,,,,,,gender pay gap,16
+2025,percentage,,,,,,,,,gender pay gap,16
+2010,percentage,24 years and younger,,,,,.,,,gender pay gap,
+2011,percentage,24 years and younger,,,,,.,,,gender pay gap,
+2012,percentage,24 years and younger,,,,,.,,,gender pay gap,
+2013,percentage,24 years and younger,,,,,.,,,gender pay gap,
+2014,percentage,24 years and younger,,,,,,,,gender pay gap,6
+2015,percentage,24 years and younger,,,,,.,,,gender pay gap,
+2016,percentage,24 years and younger,,,,,.,,,gender pay gap,
+2017,percentage,24 years and younger,,,,,.,,,gender pay gap,
+2018,percentage,24 years and younger,,,,,,,,gender pay gap,6
+2019,percentage,24 years and younger,,,,,.,,,gender pay gap,
+2020,percentage,24 years and younger,,,,,.,,,gender pay gap,
+2021,percentage,24 years and younger,,,,,.,,,gender pay gap,
+2022,percentage,24 years and younger,,,,,,,,gender pay gap,1
+2023,percentage,24 years and younger,,,,,,,,gender pay gap,2
+2024,percentage,24 years and younger,,,,,,,,gender pay gap,0
+2025,percentage,24 years and younger,,,,,,,,gender pay gap,1
+2010,percentage,25 to under 30 years,,,,,.,,,gender pay gap,
+2011,percentage,25 to under 30 years,,,,,.,,,gender pay gap,
+2012,percentage,25 to under 30 years,,,,,.,,,gender pay gap,
+2013,percentage,25 to under 30 years,,,,,.,,,gender pay gap,
+2014,percentage,25 to under 30 years,,,,,,,,gender pay gap,9
+2015,percentage,25 to under 30 years,,,,,.,,,gender pay gap,
+2016,percentage,25 to under 30 years,,,,,.,,,gender pay gap,
+2017,percentage,25 to under 30 years,,,,,.,,,gender pay gap,
+2018,percentage,25 to under 30 years,,,,,,,,gender pay gap,8
+2019,percentage,25 to under 30 years,,,,,.,,,gender pay gap,
+2020,percentage,25 to under 30 years,,,,,.,,,gender pay gap,
+2021,percentage,25 to under 30 years,,,,,.,,,gender pay gap,
+2022,percentage,25 to under 30 years,,,,,,,,gender pay gap,5
+2023,percentage,25 to under 30 years,,,,,,,,gender pay gap,6
+2024,percentage,25 to under 30 years,,,,,,,,gender pay gap,3
+2025,percentage,25 to under 30 years,,,,,,,,gender pay gap,4
+2010,percentage,30 to under 35 years,,,,,.,,,gender pay gap,
+2011,percentage,30 to under 35 years,,,,,.,,,gender pay gap,
+2012,percentage,30 to under 35 years,,,,,.,,,gender pay gap,
+2013,percentage,30 to under 35 years,,,,,.,,,gender pay gap,
+2014,percentage,30 to under 35 years,,,,,,,,gender pay gap,13
+2015,percentage,30 to under 35 years,,,,,.,,,gender pay gap,
+2016,percentage,30 to under 35 years,,,,,.,,,gender pay gap,
+2017,percentage,30 to under 35 years,,,,,.,,,gender pay gap,
+2018,percentage,30 to under 35 years,,,,,,,,gender pay gap,10
+2019,percentage,30 to under 35 years,,,,,.,,,gender pay gap,
+2020,percentage,30 to under 35 years,,,,,.,,,gender pay gap,
+2021,percentage,30 to under 35 years,,,,,.,,,gender pay gap,
+2022,percentage,30 to under 35 years,,,,,,,,gender pay gap,10
+2023,percentage,30 to under 35 years,,,,,,,,gender pay gap,10
+2024,percentage,30 to under 35 years,,,,,,,,gender pay gap,8
+2025,percentage,30 to under 35 years,,,,,,,,gender pay gap,8
+2010,percentage,35 to under 40 years,,,,,.,,,gender pay gap,
+2011,percentage,35 to under 40 years,,,,,.,,,gender pay gap,
+2012,percentage,35 to under 40 years,,,,,.,,,gender pay gap,
+2013,percentage,35 to under 40 years,,,,,.,,,gender pay gap,
+2014,percentage,35 to under 40 years,,,,,,,,gender pay gap,19
+2015,percentage,35 to under 40 years,,,,,.,,,gender pay gap,
+2016,percentage,35 to under 40 years,,,,,.,,,gender pay gap,
+2017,percentage,35 to under 40 years,,,,,.,,,gender pay gap,
+2018,percentage,35 to under 40 years,,,,,,,,gender pay gap,16
+2019,percentage,35 to under 40 years,,,,,.,,,gender pay gap,
+2020,percentage,35 to under 40 years,,,,,.,,,gender pay gap,
+2021,percentage,35 to under 40 years,,,,,.,,,gender pay gap,
+2022,percentage,35 to under 40 years,,,,,,,,gender pay gap,15
+2023,percentage,35 to under 40 years,,,,,,,,gender pay gap,15
+2024,percentage,35 to under 40 years,,,,,,,,gender pay gap,13
+2025,percentage,35 to under 40 years,,,,,,,,gender pay gap,13
+2010,percentage,40 to under 45 years,,,,,.,,,gender pay gap,
+2011,percentage,40 to under 45 years,,,,,.,,,gender pay gap,
+2012,percentage,40 to under 45 years,,,,,.,,,gender pay gap,
+2013,percentage,40 to under 45 years,,,,,.,,,gender pay gap,
+2014,percentage,40 to under 45 years,,,,,,,,gender pay gap,24
+2015,percentage,40 to under 45 years,,,,,.,,,gender pay gap,
+2016,percentage,40 to under 45 years,,,,,.,,,gender pay gap,
+2017,percentage,40 to under 45 years,,,,,.,,,gender pay gap,
+2018,percentage,40 to under 45 years,,,,,,,,gender pay gap,21
+2019,percentage,40 to under 45 years,,,,,.,,,gender pay gap,
+2020,percentage,40 to under 45 years,,,,,.,,,gender pay gap,
+2021,percentage,40 to under 45 years,,,,,.,,,gender pay gap,
+2022,percentage,40 to under 45 years,,,,,,,,gender pay gap,18
+2023,percentage,40 to under 45 years,,,,,,,,gender pay gap,18
+2024,percentage,40 to under 45 years,,,,,,,,gender pay gap,16
+2025,percentage,40 to under 45 years,,,,,,,,gender pay gap,16
+2010,percentage,45 to under 50 years,,,,,.,,,gender pay gap,
+2011,percentage,45 to under 50 years,,,,,.,,,gender pay gap,
+2012,percentage,45 to under 50 years,,,,,.,,,gender pay gap,
+2013,percentage,45 to under 50 years,,,,,.,,,gender pay gap,
+2014,percentage,45 to under 50 years,,,,,,,,gender pay gap,28
+2015,percentage,45 to under 50 years,,,,,.,,,gender pay gap,
+2016,percentage,45 to under 50 years,,,,,.,,,gender pay gap,
+2017,percentage,45 to under 50 years,,,,,.,,,gender pay gap,
+2018,percentage,45 to under 50 years,,,,,,,,gender pay gap,24
+2019,percentage,45 to under 50 years,,,,,.,,,gender pay gap,
+2020,percentage,45 to under 50 years,,,,,.,,,gender pay gap,
+2021,percentage,45 to under 50 years,,,,,.,,,gender pay gap,
+2022,percentage,45 to under 50 years,,,,,,,,gender pay gap,22
+2023,percentage,45 to under 50 years,,,,,,,,gender pay gap,21
+2024,percentage,45 to under 50 years,,,,,,,,gender pay gap,19
+2025,percentage,45 to under 50 years,,,,,,,,gender pay gap,19
+2010,percentage,50 to under 55 years,,,,,.,,,gender pay gap,
+2011,percentage,50 to under 55 years,,,,,.,,,gender pay gap,
+2012,percentage,50 to under 55 years,,,,,.,,,gender pay gap,
+2013,percentage,50 to under 55 years,,,,,.,,,gender pay gap,
+2014,percentage,50 to under 55 years,,,,,,,,gender pay gap,28
+2015,percentage,50 to under 55 years,,,,,.,,,gender pay gap,
+2016,percentage,50 to under 55 years,,,,,.,,,gender pay gap,
+2017,percentage,50 to under 55 years,,,,,.,,,gender pay gap,
+2018,percentage,50 to under 55 years,,,,,,,,gender pay gap,27
+2019,percentage,50 to under 55 years,,,,,.,,,gender pay gap,
+2020,percentage,50 to under 55 years,,,,,.,,,gender pay gap,
+2021,percentage,50 to under 55 years,,,,,.,,,gender pay gap,
+2022,percentage,50 to under 55 years,,,,,,,,gender pay gap,25
+2023,percentage,50 to under 55 years,,,,,,,,gender pay gap,24
+2024,percentage,50 to under 55 years,,,,,,,,gender pay gap,22
+2025,percentage,50 to under 55 years,,,,,,,,gender pay gap,22
+2010,percentage,55 to under 60 years,,,,,.,,,gender pay gap,
+2011,percentage,55 to under 60 years,,,,,.,,,gender pay gap,
+2012,percentage,55 to under 60 years,,,,,.,,,gender pay gap,
+2013,percentage,55 to under 60 years,,,,,.,,,gender pay gap,
+2014,percentage,55 to under 60 years,,,,,,,,gender pay gap,28
+2015,percentage,55 to under 60 years,,,,,.,,,gender pay gap,
+2016,percentage,55 to under 60 years,,,,,.,,,gender pay gap,
+2017,percentage,55 to under 60 years,,,,,.,,,gender pay gap,
+2018,percentage,55 to under 60 years,,,,,,,,gender pay gap,28
+2019,percentage,55 to under 60 years,,,,,.,,,gender pay gap,
+2020,percentage,55 to under 60 years,,,,,.,,,gender pay gap,
+2021,percentage,55 to under 60 years,,,,,.,,,gender pay gap,
+2022,percentage,55 to under 60 years,,,,,,,,gender pay gap,27
+2023,percentage,55 to under 60 years,,,,,,,,gender pay gap,26
+2024,percentage,55 to under 60 years,,,,,,,,gender pay gap,25
+2025,percentage,55 to under 60 years,,,,,,,,gender pay gap,25
+2010,percentage,60 to under 65 years,,,,,.,,,gender pay gap,
+2011,percentage,60 to under 65 years,,,,,.,,,gender pay gap,
+2012,percentage,60 to under 65 years,,,,,.,,,gender pay gap,
+2013,percentage,60 to under 65 years,,,,,.,,,gender pay gap,
+2014,percentage,60 to under 65 years,,,,,,,,gender pay gap,27
+2015,percentage,60 to under 65 years,,,,,.,,,gender pay gap,
+2016,percentage,60 to under 65 years,,,,,.,,,gender pay gap,
+2017,percentage,60 to under 65 years,,,,,.,,,gender pay gap,
+2018,percentage,60 to under 65 years,,,,,,,,gender pay gap,26
+2019,percentage,60 to under 65 years,,,,,.,,,gender pay gap,
+2020,percentage,60 to under 65 years,,,,,.,,,gender pay gap,
+2021,percentage,60 to under 65 years,,,,,.,,,gender pay gap,
+2022,percentage,60 to under 65 years,,,,,,,,gender pay gap,25
+2023,percentage,60 to under 65 years,,,,,,,,gender pay gap,26
+2024,percentage,60 to under 65 years,,,,,,,,gender pay gap,25
+2025,percentage,60 to under 65 years,,,,,,,,gender pay gap,25
+2010,percentage,65 years and older,,,,,.,,,gender pay gap,
+2011,percentage,65 years and older,,,,,.,,,gender pay gap,
+2012,percentage,65 years and older,,,,,.,,,gender pay gap,
+2013,percentage,65 years and older,,,,,.,,,gender pay gap,
+2014,percentage,65 years and older,,,,,,,,gender pay gap,15
+2015,percentage,65 years and older,,,,,.,,,gender pay gap,
+2016,percentage,65 years and older,,,,,.,,,gender pay gap,
+2017,percentage,65 years and older,,,,,.,,,gender pay gap,
+2018,percentage,65 years and older,,,,,,,,gender pay gap,17
+2019,percentage,65 years and older,,,,,.,,,gender pay gap,
+2020,percentage,65 years and older,,,,,.,,,gender pay gap,
+2021,percentage,65 years and older,,,,,.,,,gender pay gap,
+2022,percentage,65 years and older,,,,,,,,gender pay gap,9
+2023,percentage,65 years and older,,,,,,,,gender pay gap,9
+2024,percentage,65 years and older,,,,,,,,gender pay gap,7
+2025,percentage,65 years and older,,,,,,,,gender pay gap,11
+2010,percentage,,,,baden-württemberg,code08,,,,gender pay gap,27
+2011,percentage,,,,baden-württemberg,code08,,,,gender pay gap,27
+2012,percentage,,,,baden-württemberg,code08,,,,gender pay gap,27
+2013,percentage,,,,baden-württemberg,code08,,,,gender pay gap,27
+2014,percentage,,,,baden-württemberg,code08,,,,gender pay gap,27
+2015,percentage,,,,baden-württemberg,code08,,,,gender pay gap,26
+2016,percentage,,,,baden-württemberg,code08,,,,gender pay gap,26
+2017,percentage,,,,baden-württemberg,code08,,,,gender pay gap,25
+2018,percentage,,,,baden-württemberg,code08,,,,gender pay gap,24
+2019,percentage,,,,baden-württemberg,code08,,,,gender pay gap,23
+2020,percentage,,,,baden-württemberg,code08,,,,gender pay gap,23
+2021,percentage,,,,baden-württemberg,code08,,,,gender pay gap,22
+2022,percentage,,,,baden-württemberg,code08,|,,,gender pay gap,23
+2023,percentage,,,,baden-württemberg,code08,,,,gender pay gap,22
+2024,percentage,,,,baden-württemberg,code08,,,,gender pay gap,19
+2025,percentage,,,,baden-württemberg,code08,,,,gender pay gap,20
+2010,percentage,,,,bavaria,code09,,,,gender pay gap,26
+2011,percentage,,,,bavaria,code09,,,,gender pay gap,25
+2012,percentage,,,,bavaria,code09,,,,gender pay gap,25
+2013,percentage,,,,bavaria,code09,,,,gender pay gap,25
+2014,percentage,,,,bavaria,code09,,,,gender pay gap,25
+2015,percentage,,,,bavaria,code09,,,,gender pay gap,24
+2016,percentage,,,,bavaria,code09,,,,gender pay gap,24
+2017,percentage,,,,bavaria,code09,,,,gender pay gap,24
+2018,percentage,,,,bavaria,code09,,,,gender pay gap,24
+2019,percentage,,,,bavaria,code09,,,,gender pay gap,23
+2020,percentage,,,,bavaria,code09,,,,gender pay gap,22
+2021,percentage,,,,bavaria,code09,,,,gender pay gap,21
+2022,percentage,,,,bavaria,code09,|,,,gender pay gap,21
+2023,percentage,,,,bavaria,code09,,,,gender pay gap,21
+2024,percentage,,,,bavaria,code09,,,,gender pay gap,18
+2025,percentage,,,,bavaria,code09,,,,gender pay gap,19
+2010,percentage,,,,berlin,code11,,,,gender pay gap,14
+2011,percentage,,,,berlin,code11,,,,gender pay gap,15
+2012,percentage,,,,berlin,code11,,,,gender pay gap,15
+2013,percentage,,,,berlin,code11,,,,gender pay gap,14
+2014,percentage,,,,berlin,code11,,,,gender pay gap,14
+2015,percentage,,,,berlin,code11,,,,gender pay gap,14
+2016,percentage,,,,berlin,code11,,,,gender pay gap,12
+2017,percentage,,,,berlin,code11,,,,gender pay gap,10
+2018,percentage,,,,berlin,code11,,,,gender pay gap,10
+2019,percentage,,,,berlin,code11,,,,gender pay gap,10
+2020,percentage,,,,berlin,code11,,,,gender pay gap,10
+2021,percentage,,,,berlin,code11,,,,gender pay gap,10
+2022,percentage,,,,berlin,code11,|,,,gender pay gap,10
+2023,percentage,,,,berlin,code11,,,,gender pay gap,11
+2024,percentage,,,,berlin,code11,,,,gender pay gap,10
+2025,percentage,,,,berlin,code11,,,,gender pay gap,10
+2010,percentage,,,,brandenburg,code12,,,,gender pay gap,7
+2011,percentage,,,,brandenburg,code12,,,,gender pay gap,6
+2012,percentage,,,,brandenburg,code12,,,,gender pay gap,7
+2013,percentage,,,,brandenburg,code12,,,,gender pay gap,5
+2014,percentage,,,,brandenburg,code12,,,,gender pay gap,7
+2015,percentage,,,,brandenburg,code12,,,,gender pay gap,5
+2016,percentage,,,,brandenburg,code12,,,,gender pay gap,6
+2017,percentage,,,,brandenburg,code12,,,,gender pay gap,6
+2018,percentage,,,,brandenburg,code12,,,,gender pay gap,6
+2019,percentage,,,,brandenburg,code12,,,,gender pay gap,7
+2020,percentage,,,,brandenburg,code12,,,,gender pay gap,6
+2021,percentage,,,,brandenburg,code12,,,,gender pay gap,5
+2022,percentage,,,,brandenburg,code12,|,,,gender pay gap,6
+2023,percentage,,,,brandenburg,code12,,,,gender pay gap,4
+2024,percentage,,,,brandenburg,code12,,,,gender pay gap,2
+2025,percentage,,,,brandenburg,code12,,,,gender pay gap,4
+2010,percentage,,,,bremen,code04,,,,gender pay gap,24
+2011,percentage,,,,bremen,code04,,,,gender pay gap,24
+2012,percentage,,,,bremen,code04,,,,gender pay gap,27
+2013,percentage,,,,bremen,code04,,,,gender pay gap,25
+2014,percentage,,,,bremen,code04,,,,gender pay gap,25
+2015,percentage,,,,bremen,code04,,,,gender pay gap,25
+2016,percentage,,,,bremen,code04,,,,gender pay gap,24
+2017,percentage,,,,bremen,code04,,,,gender pay gap,24
+2018,percentage,,,,bremen,code04,,,,gender pay gap,23
+2019,percentage,,,,bremen,code04,,,,gender pay gap,25
+2020,percentage,,,,bremen,code04,,,,gender pay gap,22
+2021,percentage,,,,bremen,code04,,,,gender pay gap,22
+2022,percentage,,,,bremen,code04,|,,,gender pay gap,20
+2023,percentage,,,,bremen,code04,,,,gender pay gap,19
+2024,percentage,,,,bremen,code04,,,,gender pay gap,17
+2025,percentage,,,,bremen,code04,,,,gender pay gap,14
+2010,percentage,,,,hamburg,code02,,,,gender pay gap,23
+2011,percentage,,,,hamburg,code02,,,,gender pay gap,22
+2012,percentage,,,,hamburg,code02,,,,gender pay gap,24
+2013,percentage,,,,hamburg,code02,,,,gender pay gap,23
+2014,percentage,,,,hamburg,code02,,,,gender pay gap,22
+2015,percentage,,,,hamburg,code02,,,,gender pay gap,22
+2016,percentage,,,,hamburg,code02,,,,gender pay gap,21
+2017,percentage,,,,hamburg,code02,,,,gender pay gap,21
+2018,percentage,,,,hamburg,code02,,,,gender pay gap,21
+2019,percentage,,,,hamburg,code02,,,,gender pay gap,21
+2020,percentage,,,,hamburg,code02,,,,gender pay gap,21
+2021,percentage,,,,hamburg,code02,,,,gender pay gap,21
+2022,percentage,,,,hamburg,code02,|,,,gender pay gap,18
+2023,percentage,,,,hamburg,code02,,,,gender pay gap,18
+2024,percentage,,,,hamburg,code02,,,,gender pay gap,18
+2025,percentage,,,,hamburg,code02,,,,gender pay gap,17
+2010,percentage,,,,hesse,code06,,,,gender pay gap,25
+2011,percentage,,,,hesse,code06,,,,gender pay gap,25
+2012,percentage,,,,hesse,code06,,,,gender pay gap,24
+2013,percentage,,,,hesse,code06,,,,gender pay gap,23
+2014,percentage,,,,hesse,code06,,,,gender pay gap,24
+2015,percentage,,,,hesse,code06,,,,gender pay gap,23
+2016,percentage,,,,hesse,code06,,,,gender pay gap,22
+2017,percentage,,,,hesse,code06,,,,gender pay gap,22
+2018,percentage,,,,hesse,code06,,,,gender pay gap,21
+2019,percentage,,,,hesse,code06,,,,gender pay gap,19
+2020,percentage,,,,hesse,code06,,,,gender pay gap,18
+2021,percentage,,,,hesse,code06,,,,gender pay gap,18
+2022,percentage,,,,hesse,code06,|,,,gender pay gap,21
+2023,percentage,,,,hesse,code06,,,,gender pay gap,20
+2024,percentage,,,,hesse,code06,,,,gender pay gap,19
+2025,percentage,,,,hesse,code06,,,,gender pay gap,19
+2010,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,4
+2011,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
+2012,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,7
+2013,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
+2014,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,8
+2015,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,7
+2016,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
+2017,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
+2018,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
+2019,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
+2020,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,6
+2021,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,5
+2022,percentage,,,,mecklenburg western pomerania,code13,|,,,gender pay gap,6
+2023,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,7
+2024,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,7
+2025,percentage,,,,mecklenburg western pomerania,code13,,,,gender pay gap,4
+2010,percentage,,,,lower saxony,code03,,,,gender pay gap,22
+2011,percentage,,,,lower saxony,code03,,,,gender pay gap,22
+2012,percentage,,,,lower saxony,code03,,,,gender pay gap,21
+2013,percentage,,,,lower saxony,code03,,,,gender pay gap,20
+2014,percentage,,,,lower saxony,code03,,,,gender pay gap,22
+2015,percentage,,,,lower saxony,code03,,,,gender pay gap,22
+2016,percentage,,,,lower saxony,code03,,,,gender pay gap,21
+2017,percentage,,,,lower saxony,code03,,,,gender pay gap,21
+2018,percentage,,,,lower saxony,code03,,,,gender pay gap,21
+2019,percentage,,,,lower saxony,code03,,,,gender pay gap,21
+2020,percentage,,,,lower saxony,code03,,,,gender pay gap,19
+2021,percentage,,,,lower saxony,code03,,,,gender pay gap,19
+2022,percentage,,,,lower saxony,code03,|,,,gender pay gap,18
+2023,percentage,,,,lower saxony,code03,,,,gender pay gap,18
+2024,percentage,,,,lower saxony,code03,,,,gender pay gap,15
+2025,percentage,,,,lower saxony,code03,,,,gender pay gap,16
+2010,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,23
+2011,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,23
+2012,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,24
+2013,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,23
+2014,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,23
+2015,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,23
+2016,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,22
+2017,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,21
+2018,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,20
+2019,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,19
+2020,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,18
+2021,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,17
+2022,percentage,,,,north rhine-westphalia,code05,|,,,gender pay gap,17
+2023,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,17
+2024,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,16
+2025,percentage,,,,north rhine-westphalia,code05,,,,gender pay gap,15
+2010,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,22
+2011,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,22
+2012,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,22
+2013,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,22
+2014,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,21
+2015,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,20
+2016,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,20
+2017,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,19
+2018,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,18
+2019,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,17
+2020,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,15
+2021,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,15
+2022,percentage,,,,rhineland palatinate,code07,|,,,gender pay gap,15
+2023,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,15
+2024,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,14
+2025,percentage,,,,rhineland palatinate,code07,,,,gender pay gap,14
+2010,percentage,,,,saarland,code10,,,,gender pay gap,25
+2011,percentage,,,,saarland,code10,,,,gender pay gap,25
+2012,percentage,,,,saarland,code10,,,,gender pay gap,25
+2013,percentage,,,,saarland,code10,,,,gender pay gap,24
+2014,percentage,,,,saarland,code10,,,,gender pay gap,23
+2015,percentage,,,,saarland,code10,,,,gender pay gap,24
+2016,percentage,,,,saarland,code10,,,,gender pay gap,24
+2017,percentage,,,,saarland,code10,,,,gender pay gap,24
+2018,percentage,,,,saarland,code10,,,,gender pay gap,23
+2019,percentage,,,,saarland,code10,,,,gender pay gap,22
+2020,percentage,,,,saarland,code10,,,,gender pay gap,20
+2021,percentage,,,,saarland,code10,,,,gender pay gap,20
+2022,percentage,,,,saarland,code10,|,,,gender pay gap,18
+2023,percentage,,,,saarland,code10,,,,gender pay gap,18
+2024,percentage,,,,saarland,code10,,,,gender pay gap,16
+2025,percentage,,,,saarland,code10,,,,gender pay gap,16
+2010,percentage,,,,saxony,code14,,,,gender pay gap,9
+2011,percentage,,,,saxony,code14,,,,gender pay gap,10
+2012,percentage,,,,saxony,code14,,,,gender pay gap,11
+2013,percentage,,,,saxony,code14,,,,gender pay gap,11
+2014,percentage,,,,saxony,code14,,,,gender pay gap,11
+2015,percentage,,,,saxony,code14,,,,gender pay gap,11
+2016,percentage,,,,saxony,code14,,,,gender pay gap,10
+2017,percentage,,,,saxony,code14,,,,gender pay gap,9
+2018,percentage,,,,saxony,code14,,,,gender pay gap,8
+2019,percentage,,,,saxony,code14,,,,gender pay gap,7
+2020,percentage,,,,saxony,code14,,,,gender pay gap,7
+2021,percentage,,,,saxony,code14,,,,gender pay gap,6
+2022,percentage,,,,saxony,code14,|,,,gender pay gap,8
+2023,percentage,,,,saxony,code14,,,,gender pay gap,9
+2024,percentage,,,,saxony,code14,,,,gender pay gap,7
+2025,percentage,,,,saxony,code14,,,,gender pay gap,6
+2010,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,4
+2011,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,5
+2012,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,5
+2013,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,4
+2014,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,5
+2015,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,4
+2016,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,4
+2017,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,6
+2018,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,8
+2019,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,7
+2020,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,8
+2021,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,7
+2022,percentage,,,,saxony-anhalt,code15,|,,,gender pay gap,6
+2023,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,5
+2024,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,4
+2025,percentage,,,,saxony-anhalt,code15,,,,gender pay gap,4
+2010,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,18
+2011,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,17
+2012,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,18
+2013,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,18
+2014,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,17
+2015,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,16
+2016,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,16
+2017,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,14
+2018,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,14
+2019,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,13
+2020,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,13
+2021,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,12
+2022,percentage,,,,schleswig-holstein,code01,|,,,gender pay gap,12
+2023,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,12
+2024,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,11
+2025,percentage,,,,schleswig-holstein,code01,,,,gender pay gap,12
+2010,percentage,,,,thuringia,code16,,,,gender pay gap,6
+2011,percentage,,,,thuringia,code16,,,,gender pay gap,7
+2012,percentage,,,,thuringia,code16,,,,gender pay gap,8
+2013,percentage,,,,thuringia,code16,,,,gender pay gap,9
+2014,percentage,,,,thuringia,code16,,,,gender pay gap,8
+2015,percentage,,,,thuringia,code16,,,,gender pay gap,9
+2016,percentage,,,,thuringia,code16,,,,gender pay gap,7
+2017,percentage,,,,thuringia,code16,,,,gender pay gap,6
+2018,percentage,,,,thuringia,code16,,,,gender pay gap,6
+2019,percentage,,,,thuringia,code16,,,,gender pay gap,6
+2020,percentage,,,,thuringia,code16,,,,gender pay gap,5
+2021,percentage,,,,thuringia,code16,,,,gender pay gap,5
+2022,percentage,,,,thuringia,code16,|,,,gender pay gap,7
+2023,percentage,,,,thuringia,code16,,,,gender pay gap,7
+2024,percentage,,,,thuringia,code16,,,,gender pay gap,6
+2025,percentage,,,,thuringia,code16,,,,gender pay gap,5
