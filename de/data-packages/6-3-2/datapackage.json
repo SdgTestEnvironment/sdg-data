@@ -16,23 +16,39 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "type of water body",
             "type": "string",
             "constraints": {
               "enum": [
-                "Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor",
-                "Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat",
+                "Fließgewässer",
+                "Seen",
+                "Übergangs- und Küstengewässern - Nordsee",
+                "Übergangs- und Küstengewässern -Ostsee",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art der Wasserkörper"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "satus",
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
+                "Unklar",
+                "Schlecht",
+                "Unbefriedigend",
+                "Mäßig",
+                "Gut oder sehr gut",
+                ""
+              ]
+            },
+            "title": "Zustand"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             },
