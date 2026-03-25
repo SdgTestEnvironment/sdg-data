@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "type of water body",
@@ -28,7 +28,7 @@
             }
           },
           {
-            "name": "satus",
+            "name": "status class",
             "type": "string",
             "constraints": {
               "enum": [

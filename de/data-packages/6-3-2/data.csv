@@ -1,51 +1,51 @@
-Year,Art der Wasserkörper,Zustand,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2015,Fließgewässer,Unklar,,,,2.8
-2021,Fließgewässer,Unklar,,,,1.7
-2015,Fließgewässer,Schlecht,,,,19.9
-2021,Fließgewässer,Schlecht,,,,19.1
-2015,Fließgewässer,Unbefriedigend,,,,34.4
-2021,Fließgewässer,Unbefriedigend,,,,34.9
-2015,Fließgewässer,Mäßig,,,,36.2
-2021,Fließgewässer,Mäßig,,,,36.3
-2015,Fließgewässer,Gut oder sehr gut,,,,6.7
-2021,Fließgewässer,Gut oder sehr gut,,,,8.0
-2015,Seen,Unklar,,,,2.9
-2021,Seen,Unklar,,,,4.0
-2015,Seen,Schlecht,,,,10.5
-2021,Seen,Schlecht,,,,9.4
-2015,Seen,Unbefriedigend,,,,26.2
-2021,Seen,Unbefriedigend,,,,25.8
-2015,Seen,Mäßig,,,,34.0
-2021,Seen,Mäßig,,,,36.1
-2015,Seen,Gut oder sehr gut,,,,26.4
-2021,Seen,Gut oder sehr gut,,,,24.7
-2010,Übergangs- und Küstengewässern - Nordsee,Unklar,‒,,,0.0
-2015,Übergangs- und Küstengewässern - Nordsee,Unklar,,,,14.0
-2021,Übergangs- und Küstengewässern - Nordsee,Unklar,‒,,,0.0
-2010,Übergangs- und Küstengewässern - Nordsee,Schlecht,,,,4.0
-2015,Übergangs- und Küstengewässern - Nordsee,Schlecht,,,,11.0
-2021,Übergangs- und Küstengewässern - Nordsee,Schlecht,,,,14.0
-2010,Übergangs- und Küstengewässern - Nordsee,Unbefriedigend,,,,32.0
-2015,Übergangs- und Küstengewässern - Nordsee,Unbefriedigend,,,,31.0
-2021,Übergangs- und Küstengewässern - Nordsee,Unbefriedigend,,,,32.0
-2010,Übergangs- und Küstengewässern - Nordsee,Mäßig,,,,64.0
-2015,Übergangs- und Küstengewässern - Nordsee,Mäßig,,,,44.0
-2021,Übergangs- und Küstengewässern - Nordsee,Mäßig,,,,54.0
-2010,Übergangs- und Küstengewässern - Nordsee,Gut oder sehr gut,‒,,,0.0
-2015,Übergangs- und Küstengewässern - Nordsee,Gut oder sehr gut,‒,,,0.0
-2021,Übergangs- und Küstengewässern - Nordsee,Gut oder sehr gut,‒,,,0.0
-2010,Übergangs- und Küstengewässern -Ostsee,Unklar,‒,,,0.0
-2015,Übergangs- und Küstengewässern -Ostsee,Unklar,,,,4.0
-2021,Übergangs- und Küstengewässern -Ostsee,Unklar,‒,,,0.0
-2010,Übergangs- und Küstengewässern -Ostsee,Schlecht,,,,16.0
-2015,Übergangs- und Küstengewässern -Ostsee,Schlecht,,,,32.0
-2021,Übergangs- und Küstengewässern -Ostsee,Schlecht,,,,27.0
-2010,Übergangs- und Küstengewässern -Ostsee,Unbefriedigend,,,,50.0
-2015,Übergangs- und Küstengewässern -Ostsee,Unbefriedigend,,,,32.0
-2021,Übergangs- und Küstengewässern -Ostsee,Unbefriedigend,,,,40.0
-2010,Übergangs- und Küstengewässern -Ostsee,Mäßig,,,,32.0
-2015,Übergangs- und Küstengewässern -Ostsee,Mäßig,,,,33.0
-2021,Übergangs- und Küstengewässern -Ostsee,Mäßig,,,,33.0
-2010,Übergangs- und Küstengewässern -Ostsee,Gut oder sehr gut,,,,2.0
-2015,Übergangs- und Küstengewässern -Ostsee,Gut oder sehr gut,‒,,,0.0
-2021,Übergangs- und Küstengewässern -Ostsee,Gut oder sehr gut,‒,,,0.0
+Year,Art der Wasserkörper,status class,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2009 - 2014,Fließgewässer,Unklar,,,,2.8
+2015 - 2020,Fließgewässer,Unklar,,,,1.7
+2009 - 2014,Fließgewässer,Schlecht,,,,19.9
+2015 - 2020,Fließgewässer,Schlecht,,,,19.1
+2009 - 2014,Fließgewässer,Unbefriedigend,,,,34.4
+2015 - 2020,Fließgewässer,Unbefriedigend,,,,34.9
+2009 - 2014,Fließgewässer,Mäßig,,,,36.2
+2015 - 2020,Fließgewässer,Mäßig,,,,36.3
+2009 - 2014,Fließgewässer,Gut oder sehr gut,,,,6.7
+2015 - 2020,Fließgewässer,Gut oder sehr gut,,,,8.0
+2009 - 2014,Seen,Unklar,,,,2.9
+2015 - 2020,Seen,Unklar,,,,4.0
+2009 - 2014,Seen,Schlecht,,,,10.5
+2015 - 2020,Seen,Schlecht,,,,9.4
+2009 - 2014,Seen,Unbefriedigend,,,,26.2
+2015 - 2020,Seen,Unbefriedigend,,,,25.8
+2009 - 2014,Seen,Mäßig,,,,34.0
+2015 - 2020,Seen,Mäßig,,,,36.1
+2009 - 2014,Seen,Gut oder sehr gut,,,,26.4
+2015 - 2020,Seen,Gut oder sehr gut,,,,24.7
+Bis 2008,Übergangs- und Küstengewässern - Nordsee,Unklar,‒,,,0.0
+2009 - 2014,Übergangs- und Küstengewässern - Nordsee,Unklar,,,,14.0
+2014 - 2019,Übergangs- und Küstengewässern - Nordsee,Unklar,‒,,,0.0
+Bis 2008,Übergangs- und Küstengewässern - Nordsee,Schlecht,,,,4.0
+2009 - 2014,Übergangs- und Küstengewässern - Nordsee,Schlecht,,,,11.0
+2014 - 2019,Übergangs- und Küstengewässern - Nordsee,Schlecht,,,,14.0
+Bis 2008,Übergangs- und Küstengewässern - Nordsee,Unbefriedigend,,,,32.0
+2009 - 2014,Übergangs- und Küstengewässern - Nordsee,Unbefriedigend,,,,31.0
+2014 - 2019,Übergangs- und Küstengewässern - Nordsee,Unbefriedigend,,,,32.0
+Bis 2008,Übergangs- und Küstengewässern - Nordsee,Mäßig,,,,64.0
+2009 - 2014,Übergangs- und Küstengewässern - Nordsee,Mäßig,,,,44.0
+2014 - 2019,Übergangs- und Küstengewässern - Nordsee,Mäßig,,,,54.0
+Bis 2008,Übergangs- und Küstengewässern - Nordsee,Gut oder sehr gut,‒,,,0.0
+2009 - 2014,Übergangs- und Küstengewässern - Nordsee,Gut oder sehr gut,‒,,,0.0
+2014 - 2019,Übergangs- und Küstengewässern - Nordsee,Gut oder sehr gut,‒,,,0.0
+Bis 2008,Übergangs- und Küstengewässern -Ostsee,Unklar,‒,,,0.0
+2009 - 2014,Übergangs- und Küstengewässern -Ostsee,Unklar,,,,4.0
+2014 - 2019,Übergangs- und Küstengewässern -Ostsee,Unklar,‒,,,0.0
+Bis 2008,Übergangs- und Küstengewässern -Ostsee,Schlecht,,,,16.0
+2009 - 2014,Übergangs- und Küstengewässern -Ostsee,Schlecht,,,,32.0
+2014 - 2019,Übergangs- und Küstengewässern -Ostsee,Schlecht,,,,27.0
+Bis 2008,Übergangs- und Küstengewässern -Ostsee,Unbefriedigend,,,,50.0
+2009 - 2014,Übergangs- und Küstengewässern -Ostsee,Unbefriedigend,,,,32.0
+2014 - 2019,Übergangs- und Küstengewässern -Ostsee,Unbefriedigend,,,,40.0
+Bis 2008,Übergangs- und Küstengewässern -Ostsee,Mäßig,,,,32.0
+2009 - 2014,Übergangs- und Küstengewässern -Ostsee,Mäßig,,,,33.0
+2014 - 2019,Übergangs- und Küstengewässern -Ostsee,Mäßig,,,,33.0
+Bis 2008,Übergangs- und Küstengewässern -Ostsee,Gut oder sehr gut,,,,2.0
+2009 - 2014,Übergangs- und Küstengewässern -Ostsee,Gut oder sehr gut,‒,,,0.0
+2014 - 2019,Übergangs- und Küstengewässern -Ostsee,Gut oder sehr gut,‒,,,0.0
