@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -22,8 +22,8 @@
               "enum": [
                 "Fließgewässer",
                 "Seen",
-                "Übergangs- und Küstengewässern - Nordsee",
-                "Übergangs- und Küstengewässern -Ostsee",
+                "Übergangs- und Küstengewässer - Nordsee",
+                "Übergangs- und Küstengewässer -Ostsee",
                 ""
               ]
             },
@@ -49,6 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "‒",
                 ""
               ]

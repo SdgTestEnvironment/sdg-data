@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -49,6 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "‒",
                 ""
               ]

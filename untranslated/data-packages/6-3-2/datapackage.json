@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "type of water body",
@@ -46,6 +46,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "‒",
                 ""
               ]
