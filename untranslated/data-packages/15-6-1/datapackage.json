@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "germany as receiver",
-                "germany as provider",
+                "[a] germany as receiver",
+                "[b] germany as provider",
                 ""
               ]
             }
