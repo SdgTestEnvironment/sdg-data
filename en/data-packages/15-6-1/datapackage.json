@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany as receiver",
-                "Germany as provider",
+                "[a] Germany as receiver",
+                "[b] Germany as provider",
                 ""
               ]
             },
