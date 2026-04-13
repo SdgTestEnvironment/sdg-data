@@ -1,5 +1,5 @@
 Year,Units,Altersklasse,Beruf,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2010,EUR pro Stunde,,,,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
+2010,EUR pro Stunde,,,,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,16.95
 2011,EUR pro Stunde,,,,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
 2012,EUR pro Stunde,,,,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
 2013,EUR pro Stunde,,,,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
@@ -541,7 +541,7 @@ Year,Units,Altersklasse,Beruf,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMEN
 2015,EUR pro Stunde,,"Fachkräfte in Land- und Forstwirtschaft und Fischerei, Handwerks- und verwandte Berufe",Weiblich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
 2016,EUR pro Stunde,,"Fachkräfte in Land- und Forstwirtschaft und Fischerei, Handwerks- und verwandte Berufe",Weiblich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
 2017,EUR pro Stunde,,"Fachkräfte in Land- und Forstwirtschaft und Fischerei, Handwerks- und verwandte Berufe",Weiblich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
-2018,EUR pro Stunde,,"Fachkräfte in Land- und Forstwirtschaft und Fischerei, Handwerks- und verwandte Berufe",Weiblich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,17.91
+2018,EUR pro Stunde,,"Fachkräfte in Land- und Forstwirtschaft und Fischerei, Handwerks- und verwandte Berufe",Weiblich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,14.91
 2019,EUR pro Stunde,,"Fachkräfte in Land- und Forstwirtschaft und Fischerei, Handwerks- und verwandte Berufe",Weiblich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
 2020,EUR pro Stunde,,"Fachkräfte in Land- und Forstwirtschaft und Fischerei, Handwerks- und verwandte Berufe",Weiblich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
 2021,EUR pro Stunde,,"Fachkräfte in Land- und Forstwirtschaft und Fischerei, Handwerks- und verwandte Berufe",Weiblich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
@@ -778,7 +778,7 @@ Year,Units,Altersklasse,Beruf,Geschlecht,Bundesland,GeoCode,COMMENT_OBS_0,COMMEN
 2011,EUR pro Stunde,,Akademische Berufe,Männlich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
 2012,EUR pro Stunde,,Akademische Berufe,Männlich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
 2013,EUR pro Stunde,,Akademische Berufe,Männlich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
-2014,EUR pro Stunde,,Akademische Berufe,Männlich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,19.97
+2014,EUR pro Stunde,,Akademische Berufe,Männlich,,,,,,Durchschnittlicher Stundenverdienst von Beschäftigten,29.97
 2015,EUR pro Stunde,,Akademische Berufe,Männlich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
 2016,EUR pro Stunde,,Akademische Berufe,Männlich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
 2017,EUR pro Stunde,,Akademische Berufe,Männlich,,,.,,,Durchschnittlicher Stundenverdienst von Beschäftigten,
