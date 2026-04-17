@@ -380,17 +380,16 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "percent of gdp",
+                "percentage of gdp",
                 ""
               ]
             }
           },
           {
-            "name": "time series",
+            "name": "typ of subsidy",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
                 "tax breaks",
                 "direct transfers of funds",
                 ""
@@ -1846,17 +1845,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
                 "r",
+                "|",
+                "p",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -5362,7 +5363,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -5370,24 +5371,12 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "basel convention",
-                "montreal protocol",
-                "rotterdam convention",
-                "stockholm convention",
-                "minamata convention",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                ".",
+                "…",
                 ""
               ]
             }
@@ -5411,8 +5400,22 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(1) contracting party to the basel convention",
+                "(2) contracting party to the montreal protocol",
+                "(3) contracting party to the rotterdam convention",
+                "(4) contracting party to the stockholm convention",
+                "(5) contracting party to the minamata convention",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -5920,7 +5923,7 @@
             "constraints": {
               "enum": [
                 "p",
-                "‒",
+                "0",
                 ""
               ]
             }
@@ -9634,6 +9637,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "p",
                 ""
               ]
             }
@@ -10162,6 +10166,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "-",
                 ""
               ]
@@ -14159,6 +14164,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "p",
                 ""
               ]
             }

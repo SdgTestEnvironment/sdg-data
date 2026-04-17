@@ -415,24 +415,23 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Percent of GDP",
+                "Percentage of GDP",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "typ of subsidy",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Tax breaks",
                 "Direct transfers of funds",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Typ of subsidy"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -1604,7 +1603,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -2020,8 +2019,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "|",
                 "r",
+                "|",
+                "p",
                 ""
               ]
             },
@@ -2029,9 +2029,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -5869,7 +5870,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -5878,25 +5879,12 @@
             "title": "Year"
           },
           {
-            "name": "timeseries",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "Basel Convention",
-                "Montreal Protocol",
-                "Rotterdam Convention",
-                "Stockholm Convention",
-                "Minamata Convention",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                ".",
+                "…",
                 ""
               ]
             },
@@ -5923,8 +5911,23 @@
             "title": "COMMENT_OBS_2"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(1) Contracting Party to the Basel Convention",
+                "(2) Contracting Party to the Montreal Protocol",
+                "(3) Contracting Party to the Rotterdam Convention",
+                "(4) Contracting Party to the Stockholm Convention",
+                "(5) Contracting Party to the Minamata Convention",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -6480,7 +6483,7 @@
             "constraints": {
               "enum": [
                 "p",
-                "‒",
+                "0",
                 ""
               ]
             },
@@ -10538,6 +10541,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "p",
                 ""
               ]
             },
@@ -11117,6 +11121,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "-",
                 ""
               ]
@@ -15495,6 +15500,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "p",
                 ""
               ]
             },

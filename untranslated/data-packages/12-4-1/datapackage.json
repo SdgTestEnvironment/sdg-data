@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -15,24 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "basel convention",
-                "montreal protocol",
-                "rotterdam convention",
-                "stockholm convention",
-                "minamata convention",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                ".",
+                "…",
                 ""
               ]
             }
@@ -56,8 +44,22 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(1) contracting party to the basel convention",
+                "(2) contracting party to the montreal protocol",
+                "(3) contracting party to the rotterdam convention",
+                "(4) contracting party to the stockholm convention",
+                "(5) contracting party to the minamata convention",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

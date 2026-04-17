@@ -16,25 +16,12 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "Basler Übereinkommen",
-                "Montrealer Protokoll",
-                "Rotterdamer Übereinkommen",
-                "Stockholmer Übereinkommen",
-                "Minamata Übereinkommen",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                ".",
+                "…",
                 ""
               ]
             },
@@ -61,8 +48,23 @@
             "title": "COMMENT_OBS_2"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1) Vertragspartei des Basler Übereinkommens",
+                "2) Vertragspartei des Montrealer Protokolls",
+                "3) Vertragspartei des Rotterdamer Übereinkommens",
+                "4) Vertragspartei des Stockholmer Übereinkommens",
+                "5) Vertragspartei des Minamata Übereinkommens",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

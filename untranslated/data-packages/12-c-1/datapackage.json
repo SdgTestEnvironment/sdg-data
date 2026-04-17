@@ -20,17 +20,16 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "percent of gdp",
+                "percentage of gdp",
                 ""
               ]
             }
           },
           {
-            "name": "time series",
+            "name": "typ of subsidy",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
                 "tax breaks",
                 "direct transfers of funds",
                 ""

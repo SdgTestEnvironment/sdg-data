@@ -28,17 +28,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "typ of subsidy",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
                 "Steuervergünstigungen",
                 "Direkte finanzielle Beihilfen",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art der Subvention"
           },
           {
             "name": "COMMENT_OBS_0",
