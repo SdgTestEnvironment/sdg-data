@@ -6483,7 +6483,7 @@
             "constraints": {
               "enum": [
                 "p",
-                "0",
+                "-",
                 ""
               ]
             },
@@ -14941,18 +14941,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mortality due to road traffic accidents regetristed by the police",
-                "Mortality due to road traffic accidents",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -14984,10 +14972,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "p",
                 ""
               ]
             },
@@ -16043,24 +16030,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Group",
-            "type": "string",
+            "name": "COMMENT_OBS_0",
+            "type": "number",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

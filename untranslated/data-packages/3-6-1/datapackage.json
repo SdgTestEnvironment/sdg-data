@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mortality due to road traffic accidents regetristed by the police",
-                "mortality due to road traffic accidents",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -66,10 +55,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "p",
                 ""
               ]
             }
