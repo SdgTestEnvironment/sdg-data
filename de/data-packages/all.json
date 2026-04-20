@@ -422,7 +422,7 @@
             "title": "Units"
           },
           {
-            "name": "typ of subsidy",
+            "name": "type of subsidy",
             "type": "string",
             "constraints": {
               "enum": [
@@ -440,7 +440,7 @@
               "enum": [
                 ".",
                 "r",
-                "-",
+                "…",
                 ""
               ]
             },
@@ -1343,7 +1343,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten mit national festgelegten Beiträgen, langfristigen Strategien, nationalen Anpassungsplänen und Anpassungsmitteilungen, die dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen gemeldet wurden"
+      "title": "Anzahl der Staaten, die im Rahmen des Übereinkommens von Paris Berichte beim Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen eingereicht haben"
     },
     {
       "path": "3-b-1/data.csv",
@@ -2678,7 +2678,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen"
+      "title": "Anteil der Bevölkerung, dessen direkte Haushaltsausgaben für Gesundheit 40 Prozent des frei verfügbaren Haushaltsbudgets übersteigen"
     },
     {
       "path": "17-1-2/data.csv",
@@ -11670,7 +11670,7 @@
           }
         ]
       },
-      "title": "Anzahl der am wenigsten entwickelten Länder und kleinen Inselentwicklungsländer mit national festgelegten Beiträgen, langfristigen Strategien, nationalen Anpassungsplänen und Anpassungsmitteilungen, die dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen gemeldet wurden"
+      "title": "Anzahl der am wenigsten entwickelten Länder und kleinen Inselentwicklungsländer, die im Rahmen des Übereinkommens von Paris Berichte beim Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen eingereicht haben"
     },
     {
       "path": "3-b-2/data.csv",
@@ -17394,7 +17394,7 @@
           }
         ]
       },
-      "title": "Prävalenz minimaler Ernährungsvielfalt, nach Bevölkerungsgruppen (Kinder im Alter von 6 bis 23,9 Monaten und nicht schwangere Frauen im Alter von 15 bis 49 Jahren)"
+      "title": "Prävalenz minimaler Ernährungsvielfalt, nach Bevölkerungsgruppen (Kinder im Alter von 6 bis 23 Monaten und nicht schwangere Frauen im Alter von 15 bis 49 Jahren)"
     },
     {
       "path": "11-5-3/data.csv",

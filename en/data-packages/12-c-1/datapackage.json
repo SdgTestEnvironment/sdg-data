@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "typ of subsidy",
+            "name": "type of subsidy",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Typ of subsidy"
+            "title": "Type of subsidy"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -46,7 +46,7 @@
               "enum": [
                 ".",
                 "r",
-                "-",
+                "…",
                 ""
               ]
             },
