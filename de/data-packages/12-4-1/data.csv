@@ -1,12 +1,160 @@
-Year,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2015,,,,1) Vertragspartei des Basler Übereinkommens,1.0
-2020,,,,1) Vertragspartei des Basler Übereinkommens,1.0
-2015,,,,2) Vertragspartei des Montrealer Protokolls,1.0
-2020,,,,2) Vertragspartei des Montrealer Protokolls,1.0
-2015,,,,3) Vertragspartei des Rotterdamer Übereinkommens,1.0
-2020,,,,3) Vertragspartei des Rotterdamer Übereinkommens,1.0
-2015,,,,4) Vertragspartei des Stockholmer Übereinkommens,1.0
-2020,,,,4) Vertragspartei des Stockholmer Übereinkommens,1.0
-2019,.,,,5) Vertragspartei des Minamata Übereinkommens,
-2020,,,,5) Vertragspartei des Minamata Übereinkommens,1.0
-2021,…,,,5) Vertragspartei des Minamata Übereinkommens,
+Year,Status,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,Vertragspartei,.,,,1) Basler Übereinkommen,1.0
+2011,Vertragspartei,.,,,1) Basler Übereinkommen,1.0
+2012,Vertragspartei,.,,,1) Basler Übereinkommen,1.0
+2013,Vertragspartei,.,,,1) Basler Übereinkommen,1.0
+2014,Vertragspartei,.,,,1) Basler Übereinkommen,1.0
+2015,Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2016,Vertragspartei,.,,,1) Basler Übereinkommen,1.0
+2017,Vertragspartei,.,,,1) Basler Übereinkommen,1.0
+2018,Vertragspartei,.,,,1) Basler Übereinkommen,1.0
+2019,Vertragspartei,.,,,1) Basler Übereinkommen,1.0
+2020,Vertragspartei,,,,1) Basler Übereinkommen,1.0
+2021,Vertragspartei,…,,,1) Basler Übereinkommen,1.0
+2022,Vertragspartei,…,,,1) Basler Übereinkommen,1.0
+2023,Vertragspartei,…,,,1) Basler Übereinkommen,1.0
+2024,Vertragspartei,…,,,1) Basler Übereinkommen,1.0
+2025,Vertragspartei,…,,,1) Basler Übereinkommen,1.0
+2026,Vertragspartei,…,,,1) Basler Übereinkommen,1.0
+2010,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2011,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2012,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2013,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2014,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2015,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2016,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2017,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2018,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2019,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2020,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2021,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2022,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2023,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2024,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2010,Vertragspartei,.,,,2) Montrealer Protokoll,1.0
+2011,Vertragspartei,.,,,2) Montrealer Protokoll,1.0
+2012,Vertragspartei,.,,,2) Montrealer Protokoll,1.0
+2013,Vertragspartei,.,,,2) Montrealer Protokoll,1.0
+2014,Vertragspartei,.,,,2) Montrealer Protokoll,1.0
+2015,Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2016,Vertragspartei,.,,,2) Montrealer Protokoll,1.0
+2017,Vertragspartei,.,,,2) Montrealer Protokoll,1.0
+2018,Vertragspartei,.,,,2) Montrealer Protokoll,1.0
+2019,Vertragspartei,.,,,2) Montrealer Protokoll,1.0
+2020,Vertragspartei,,,,2) Montrealer Protokoll,1.0
+2021,Vertragspartei,…,,,2) Montrealer Protokoll,1.0
+2022,Vertragspartei,…,,,2) Montrealer Protokoll,1.0
+2023,Vertragspartei,…,,,2) Montrealer Protokoll,1.0
+2024,Vertragspartei,…,,,2) Montrealer Protokoll,1.0
+2025,Vertragspartei,…,,,2) Montrealer Protokoll,1.0
+2026,Vertragspartei,…,,,2) Montrealer Protokoll,1.0
+2010,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2011,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2012,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2013,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2014,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2015,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2016,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2017,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2018,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2019,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2020,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2021,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2022,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2023,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2024,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2010,Vertragspartei,.,,,3) Rotterdamer Übereinkommen,1.0
+2011,Vertragspartei,.,,,3) Rotterdamer Übereinkommen,1.0
+2012,Vertragspartei,.,,,3) Rotterdamer Übereinkommen,1.0
+2013,Vertragspartei,.,,,3) Rotterdamer Übereinkommen,1.0
+2014,Vertragspartei,.,,,3) Rotterdamer Übereinkommen,1.0
+2015,Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2016,Vertragspartei,.,,,3) Rotterdamer Übereinkommen,1.0
+2017,Vertragspartei,.,,,3) Rotterdamer Übereinkommen,1.0
+2018,Vertragspartei,.,,,3) Rotterdamer Übereinkommen,1.0
+2019,Vertragspartei,.,,,3) Rotterdamer Übereinkommen,1.0
+2020,Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
+2021,Vertragspartei,…,,,3) Rotterdamer Übereinkommen,1.0
+2022,Vertragspartei,…,,,3) Rotterdamer Übereinkommen,1.0
+2023,Vertragspartei,…,,,3) Rotterdamer Übereinkommen,1.0
+2024,Vertragspartei,…,,,3) Rotterdamer Übereinkommen,1.0
+2025,Vertragspartei,…,,,3) Rotterdamer Übereinkommen,1.0
+2026,Vertragspartei,…,,,3) Rotterdamer Übereinkommen,1.0
+2010,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2011,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2012,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2013,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2014,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2015,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2016,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2017,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2018,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2019,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2020,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2021,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2022,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2023,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2024,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2010,Vertragspartei,.,,,4) Stockholmer Übereinkommen,1.0
+2011,Vertragspartei,.,,,4) Stockholmer Übereinkommen,1.0
+2012,Vertragspartei,.,,,4) Stockholmer Übereinkommen,1.0
+2013,Vertragspartei,.,,,4) Stockholmer Übereinkommen,1.0
+2014,Vertragspartei,.,,,4) Stockholmer Übereinkommen,1.0
+2015,Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2016,Vertragspartei,.,,,4) Stockholmer Übereinkommen,1.0
+2017,Vertragspartei,.,,,4) Stockholmer Übereinkommen,1.0
+2018,Vertragspartei,.,,,4) Stockholmer Übereinkommen,1.0
+2019,Vertragspartei,.,,,4) Stockholmer Übereinkommen,1.0
+2020,Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
+2021,Vertragspartei,…,,,4) Stockholmer Übereinkommen,1.0
+2022,Vertragspartei,…,,,4) Stockholmer Übereinkommen,1.0
+2023,Vertragspartei,…,,,4) Stockholmer Übereinkommen,1.0
+2024,Vertragspartei,…,,,4) Stockholmer Übereinkommen,1.0
+2025,Vertragspartei,…,,,4) Stockholmer Übereinkommen,1.0
+2026,Vertragspartei,…,,,4) Stockholmer Übereinkommen,1.0
+2010,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2011,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2012,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2013,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2014,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2015,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2016,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2017,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2018,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2019,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2020,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2021,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2022,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2010,Vertragspartei,.,,,5) Minamata Übereinkommen,0.0
+2011,Vertragspartei,.,,,5) Minamata Übereinkommen,0.0
+2012,Vertragspartei,.,,,5) Minamata Übereinkommen,0.0
+2013,Vertragspartei,.,,,5) Minamata Übereinkommen,0.0
+2014,Vertragspartei,.,,,5) Minamata Übereinkommen,0.0
+2015,Vertragspartei,.,,,5) Minamata Übereinkommen,0.0
+2016,Vertragspartei,.,,,5) Minamata Übereinkommen,0.0
+2017,Vertragspartei,.,,,5) Minamata Übereinkommen,1.0
+2018,Vertragspartei,.,,,5) Minamata Übereinkommen,1.0
+2019,Vertragspartei,.,,,5) Minamata Übereinkommen,1.0
+2020,Vertragspartei,,,,5) Minamata Übereinkommen,1.0
+2021,Vertragspartei,…,,,5) Minamata Übereinkommen,1.0
+2022,Vertragspartei,…,,,5) Minamata Übereinkommen,1.0
+2023,Vertragspartei,…,,,5) Minamata Übereinkommen,1.0
+2024,Vertragspartei,…,,,5) Minamata Übereinkommen,1.0
+2025,Vertragspartei,…,,,5) Minamata Übereinkommen,1.0
+2026,Vertragspartei,…,,,5) Minamata Übereinkommen,1.0
+2010,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2011,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2012,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2013,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2014,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2015,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2016,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2017,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,0.0
+2018,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,0.0
+2019,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2020,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2021,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2022,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2023,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,1.0
+2024,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,
+2025,Berichtspflicht erfüllt,,,,1) Basler Übereinkommen,0.0

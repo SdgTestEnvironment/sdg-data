@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vertragspartei",
+                "Berichtspflicht erfüllt",
+                ""
+              ]
+            },
+            "title": "Status"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -52,11 +64,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Vertragspartei des Basler Übereinkommens",
-                "2) Vertragspartei des Montrealer Protokolls",
-                "3) Vertragspartei des Rotterdamer Übereinkommens",
-                "4) Vertragspartei des Stockholmer Übereinkommens",
-                "5) Vertragspartei des Minamata Übereinkommens",
+                "1) Basler Übereinkommen",
+                "2) Montrealer Protokoll",
+                "3) Rotterdamer Übereinkommen",
+                "4) Stockholmer Übereinkommen",
+                "5) Minamata Übereinkommen",
                 ""
               ]
             },

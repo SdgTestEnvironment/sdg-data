@@ -7,12 +7,23 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "contracting party",
+                "reporting requirement met",
+                ""
+              ]
+            }
           },
           {
             "name": "COMMENT_OBS_0",
@@ -48,11 +59,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(1) contracting party to the basel convention",
-                "(2) contracting party to the montreal protocol",
-                "(3) contracting party to the rotterdam convention",
-                "(4) contracting party to the stockholm convention",
-                "(5) contracting party to the minamata convention",
+                "(1) basel convention",
+                "(2) montreal protocol",
+                "(3) rotterdam convention",
+                "(4) stockholm convention",
+                "(5) minamata convention",
                 ""
               ]
             }
