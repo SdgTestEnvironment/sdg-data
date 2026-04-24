@@ -28,16 +28,16 @@
             "title": "Units"
           },
           {
-            "name": "type of subsidy",
+            "name": "type of fiscal policy tool",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tax breaks",
+                "Tax reliefs",
                 "Direct transfers of funds",
                 ""
               ]
             },
-            "title": "Type of subsidy"
+            "title": "Type of fiscal policy tool"
           },
           {
             "name": "COMMENT_OBS_0",

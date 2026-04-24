@@ -1,4 +1,4 @@
-Year,Units,Type of subsidy,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+Year,Units,Type of fiscal policy tool,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2010,Million EUR,,.,,,
 2011,Million EUR,,.,,,
 2012,Million EUR,,.,,,
@@ -13,22 +13,22 @@ Year,Units,Type of subsidy,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2021,Million EUR,,,,,9733.3
 2022,Million EUR,,,,,12610.09
 2023,Million EUR,,,,,32634.39
-2024,Million EUR,,,,,11494.0
-2010,Million EUR,Tax breaks,.,,,
-2011,Million EUR,Tax breaks,.,,,
-2012,Million EUR,Tax breaks,.,,,
-2013,Million EUR,Tax breaks,.,,,
-2014,Million EUR,Tax breaks,.,,,
-2015,Million EUR,Tax breaks,r,,,13461.37
-2016,Million EUR,Tax breaks,r,,,13523.15
-2017,Million EUR,Tax breaks,r,,,12214.42
-2018,Million EUR,Tax breaks,r,,,13702.98
-2019,Million EUR,Tax breaks,r,,,13695.51
-2020,Million EUR,Tax breaks,,,,8124.13
-2021,Million EUR,Tax breaks,,,,8927.25
-2022,Million EUR,Tax breaks,,,,10817.28
-2023,Million EUR,Tax breaks,,,,11099.65
-2024,Million EUR,Tax breaks,,,,11494.0
+2024,Million EUR,,,,,
+2010,Million EUR,Tax reliefs,.,,,
+2011,Million EUR,Tax reliefs,.,,,
+2012,Million EUR,Tax reliefs,.,,,
+2013,Million EUR,Tax reliefs,.,,,
+2014,Million EUR,Tax reliefs,.,,,
+2015,Million EUR,Tax reliefs,r,,,13461.37
+2016,Million EUR,Tax reliefs,r,,,13523.15
+2017,Million EUR,Tax reliefs,r,,,12214.42
+2018,Million EUR,Tax reliefs,r,,,13702.98
+2019,Million EUR,Tax reliefs,r,,,13695.51
+2020,Million EUR,Tax reliefs,,,,8124.13
+2021,Million EUR,Tax reliefs,,,,8927.25
+2022,Million EUR,Tax reliefs,,,,10817.28
+2023,Million EUR,Tax reliefs,,,,11099.65
+2024,Million EUR,Tax reliefs,,,,11494.0
 2010,Million EUR,Direct transfers of funds,.,,,
 2011,Million EUR,Direct transfers of funds,.,,,
 2012,Million EUR,Direct transfers of funds,.,,,
@@ -59,21 +59,21 @@ Year,Units,Type of subsidy,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Percentage of GDP,,,,,0.336
 2023,Percentage of GDP,,,,,0.825
 2024,Percentage of GDP,,,,,
-2010,Percentage of GDP,Tax breaks,.,,,
-2011,Percentage of GDP,Tax breaks,.,,,
-2012,Percentage of GDP,Tax breaks,.,,,
-2013,Percentage of GDP,Tax breaks,.,,,
-2014,Percentage of GDP,Tax breaks,.,,,
-2015,Percentage of GDP,Tax breaks,r,,,0.436
-2016,Percentage of GDP,Tax breaks,r,,,0.429
-2017,Percentage of GDP,Tax breaks,r,,,0.372
-2018,Percentage of GDP,Tax breaks,r,,,0.407
-2019,Percentage of GDP,Tax breaks,r,,,0.395
-2020,Percentage of GDP,Tax breaks,r,,,0.24
-2021,Percentage of GDP,Tax breaks,,,,0.249
-2022,Percentage of GDP,Tax breaks,,,,0.289
-2023,Percentage of GDP,Tax breaks,,,,0.281
-2024,Percentage of GDP,Tax breaks,,,,0.274
+2010,Percentage of GDP,Tax reliefs,.,,,
+2011,Percentage of GDP,Tax reliefs,.,,,
+2012,Percentage of GDP,Tax reliefs,.,,,
+2013,Percentage of GDP,Tax reliefs,.,,,
+2014,Percentage of GDP,Tax reliefs,.,,,
+2015,Percentage of GDP,Tax reliefs,r,,,0.436
+2016,Percentage of GDP,Tax reliefs,r,,,0.429
+2017,Percentage of GDP,Tax reliefs,r,,,0.372
+2018,Percentage of GDP,Tax reliefs,r,,,0.407
+2019,Percentage of GDP,Tax reliefs,r,,,0.395
+2020,Percentage of GDP,Tax reliefs,r,,,0.24
+2021,Percentage of GDP,Tax reliefs,,,,0.249
+2022,Percentage of GDP,Tax reliefs,,,,0.289
+2023,Percentage of GDP,Tax reliefs,,,,0.281
+2024,Percentage of GDP,Tax reliefs,,,,0.274
 2010,Percentage of GDP,Direct transfers of funds,.,,,
 2011,Percentage of GDP,Direct transfers of funds,.,,,
 2012,Percentage of GDP,Direct transfers of funds,.,,,
