@@ -1,18 +1,4 @@
 Year,Units,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2010,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,44733
-2011,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,42728
-2012,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,35344
-2013,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,39816
-2014,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,37793
-2015,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,37048
-2016,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,35368
-2017,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,35763
-2018,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,38365
-2019,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,28779
-2020,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,26021
-2021,Attributable deaths,,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,28629
-2022,Attributable deaths,,,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,27104
-2023,Attributable deaths,,,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,19535
 2010,Attributable deaths,Chronic obstructive pulmonary disease (COPD),r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,3677
 2011,Attributable deaths,Chronic obstructive pulmonary disease (COPD),r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,3511
 2012,Attributable deaths,Chronic obstructive pulmonary disease (COPD),r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,2726
@@ -83,75 +69,87 @@ Year,Units,Disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,Attributable deaths,Diabetes mellitus type 2,r,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,2299
 2022,Attributable deaths,Diabetes mellitus type 2,,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,1886
 2023,Attributable deaths,Diabetes mellitus type 2,,,,Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,1329
-2010,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,466082
-2011,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,435290
-2012,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,375632
-2013,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,378623
-2014,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,362514
-2015,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,332666
-2016,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,315346
-2017,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,301737
-2018,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,324648
-2019,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,239209
-2020,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,212531
-2021,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,232863
-2010,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,61831
-2011,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,58609
-2012,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,45086
-2013,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,52240
-2014,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,49535
-2015,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,47272
-2016,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,44747
-2017,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,44603
-2018,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,47723
-2019,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,35891
-2020,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,30297
-2021,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,33208
-2010,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,93151
-2011,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,90789
-2012,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,71600
-2013,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,79126
-2014,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,77664
-2015,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,69196
-2016,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,67119
-2017,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,62554
-2018,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,64883
-2019,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,44184
-2020,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,38727
-2021,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,42369
-2010,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,62160
-2011,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,58210
-2012,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,44838
-2013,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,48829
-2014,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,47444
-2015,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,42715
-2016,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,41450
-2017,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,38548
-2018,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,45482
-2019,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,34343
-2020,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,30352
-2021,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,32740
-2010,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,163080
-2011,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,145398
-2012,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,146061
-2013,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,124202
-2014,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,115991
-2015,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,106496
-2016,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,98426
-2017,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,93285
-2018,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,97767
-2019,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,71055
-2020,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,63809
-2021,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,70197
-2010,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,85860
-2011,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,82284
-2012,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,68047
-2013,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,74226
-2014,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,71880
-2015,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,66987
-2016,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,63604
-2017,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,62747
-2018,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,68793
-2019,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,53736
-2020,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,49346
-2021,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,54349
+2010,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,569664
+2011,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,530867
+2012,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,420885
+2013,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,463638
+2014,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,441793
+2015,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,407680
+2016,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,385002
+2017,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,370220
+2018,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,395679
+2019,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,292504
+2020,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,259962
+2021,DALYs,,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,284414
+2022,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,252864
+2023,DALYs,,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older,184165
+2010,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,66424
+2011,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,63077
+2012,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,47972
+2013,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,56426
+2014,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,53325
+2015,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,51205
+2016,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,48305
+2017,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,48406
+2018,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,51739
+2019,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,38537
+2020,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,32168
+2021,DALYs,Chronic obstructive pulmonary disease (COPD),r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,35278
+2022,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,33261
+2023,DALYs,Chronic obstructive pulmonary disease (COPD),,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,24924
+2010,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,94139
+2011,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,91468
+2012,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,71168
+2013,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,78925
+2014,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,77413
+2015,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,68534
+2016,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,66403
+2017,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,61698
+2018,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,64046
+2019,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,43246
+2020,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,37771
+2021,DALYs,Lung cancer,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,41526
+2022,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,36083
+2023,DALYs,Lung cancer,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,26021
+2010,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,66616
+2011,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,62435
+2012,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,48512
+2013,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,52989
+2014,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,51339
+2015,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,46528
+2016,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,45160
+2017,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,42271
+2018,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,47695
+2019,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,36242
+2020,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,31966
+2021,DALYs,Stroke,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,34077
+2022,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,31025
+2023,DALYs,Stroke,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,22952
+2010,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,245246
+2011,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,220119
+2012,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,174295
+2013,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,189410
+2014,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,176540
+2015,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,163375
+2016,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,150936
+2017,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,144459
+2018,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,151706
+2019,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,111394
+2020,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,100090
+2021,DALYs,Ischemic heart diseases,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,109710
+2022,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,97540
+2023,DALYs,Ischemic heart diseases,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,69579
+2010,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,97239
+2011,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,93768
+2012,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,78938
+2013,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,85888
+2014,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,83176
+2015,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,78038
+2016,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,74198
+2017,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,73386
+2018,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,80493
+2019,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,63085
+2020,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,57967
+2021,DALYs,Diabetes mellitus type 2,r,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,63823
+2022,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,54955
+2023,DALYs,Diabetes mellitus type 2,,,,DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease,40689
