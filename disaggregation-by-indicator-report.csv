@@ -27,7 +27,7 @@ Indicator,Disaggregations,Number of disaggregations
 #12-2-1,COMMENT_OBS_0,1
 #12-2-2,COMMENT_OBS_0,1
 #12-3-1,"COMMENT_OBS_0, stages of the food chain",2
-#12-4-1,"COMMENT_OBS_0, status",2
+#12-4-1,"COMMENT_OBS_0, obligations under multilateral environmental agreements",2
 #12-4-2,"COMMENT_OBS_0, type of waste treatment",2
 #12-5-1,type of waste,1
 #12-8-1,'area ',1
@@ -85,6 +85,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-19-1,"COMMENT_OBS_0, time series",2
 #17-19-2,COMMENT_OBS_0,1
 #17-2-1,"COMMENT_OBS_0, timeseries",2
+#17-3-2,COMMENT_OBS_0,1
 #17-5-1,COMMENT_OBS_0,1
 #17-6-1,"COMMENT_OBS_0, speed",2
 #17-7-1,"COMMENT_OBS_0, economic activity, sector, environmental protection and/or resource management sector",4

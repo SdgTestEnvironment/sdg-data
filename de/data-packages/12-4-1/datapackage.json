@@ -16,16 +16,29 @@
             "title": "Jahr"
           },
           {
-            "name": "status",
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ja=1, nein=0",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "obligations under multilateral environmental agreements",
             "type": "string",
             "constraints": {
               "enum": [
                 "Vertragspartei",
-                "Berichtspflicht erfüllt",
+                "Erfüllung der Berichtspflicht",
+                "Einhaltung des multilateralen Umweltübereinkommens",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Verpflichtungen aus multilateralen Umweltübereinkommen"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -33,7 +46,8 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
+                "x",
+                "‒",
                 ""
               ]
             },

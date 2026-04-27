@@ -5879,16 +5879,29 @@
             "title": "Jahr"
           },
           {
-            "name": "status",
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ja=1, nein=0",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "obligations under multilateral environmental agreements",
             "type": "string",
             "constraints": {
               "enum": [
                 "Vertragspartei",
-                "Berichtspflicht erfüllt",
+                "Erfüllung der Berichtspflicht",
+                "Einhaltung des multilateralen Umweltübereinkommens",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Verpflichtungen aus multilateralen Umweltübereinkommen"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -5896,7 +5909,8 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
+                "x",
+                "‒",
                 ""
               ]
             },
@@ -9809,20 +9823,39 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "s",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
