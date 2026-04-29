@@ -1,4 +1,4 @@
-Year,Standardrechnungssystem (der Volkswirtschaftlichen Gesamtrechnungen),COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+Year,Standardrechnungssystem (der VGR),COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2010,,,,,10.0
 2011,,,,,3.0
 2012,,,,,3.0
@@ -13,31 +13,31 @@ Year,Standardrechnungssystem (der Volkswirtschaftlichen Gesamtrechnungen),COMMEN
 2021,,r,,,10.0
 2022,,r,,,10.0
 2023,,,,,2.0
-2010,SEEA Tabellen,,,,3.0
-2011,SEEA Tabellen,,,,3.0
-2012,SEEA Tabellen,,,,3.0
-2013,SEEA Tabellen,,,,3.0
-2014,SEEA Tabellen,,,,3.0
-2015,SEEA Tabellen,,,,3.0
-2016,SEEA Tabellen,,,,3.0
-2017,SEEA Tabellen,,,,3.0
-2018,SEEA Tabellen,,,,3.0
-2019,SEEA Tabellen,,,,3.0
-2020,SEEA Tabellen,r,,,3.0
-2021,SEEA Tabellen,r,,,3.0
-2022,SEEA Tabellen,r,,,3.0
-2023,SEEA Tabellen,,,,2.0
-2010,TSA Tabellen,,,,7.0
-2011,TSA Tabellen,,,,0.0
-2012,TSA Tabellen,,,,0.0
-2013,TSA Tabellen,,,,0.0
-2014,TSA Tabellen,,,,0.0
-2015,TSA Tabellen,,,,7.0
-2016,TSA Tabellen,,,,7.0
-2017,TSA Tabellen,,,,7.0
-2018,TSA Tabellen,,,,7.0
-2019,TSA Tabellen,,,,7.0
-2020,TSA Tabellen,,,,7.0
-2021,TSA Tabellen,,,,7.0
-2022,TSA Tabellen,,,,7.0
-2023,TSA Tabellen,…,,,
+2010,SEEA-Tabellen,,,,3.0
+2011,SEEA-Tabellen,,,,3.0
+2012,SEEA-Tabellen,,,,3.0
+2013,SEEA-Tabellen,,,,3.0
+2014,SEEA-Tabellen,,,,3.0
+2015,SEEA-Tabellen,,,,3.0
+2016,SEEA-Tabellen,,,,3.0
+2017,SEEA-Tabellen,,,,3.0
+2018,SEEA-Tabellen,,,,3.0
+2019,SEEA-Tabellen,,,,3.0
+2020,SEEA-Tabellen,r,,,3.0
+2021,SEEA-Tabellen,r,,,3.0
+2022,SEEA-Tabellen,r,,,3.0
+2023,SEEA-Tabellen,,,,2.0
+2010,TSA-Tabellen,,,,7.0
+2011,TSA-Tabellen,,,,0.0
+2012,TSA-Tabellen,,,,0.0
+2013,TSA-Tabellen,,,,0.0
+2014,TSA-Tabellen,,,,0.0
+2015,TSA-Tabellen,,,,7.0
+2016,TSA-Tabellen,,,,7.0
+2017,TSA-Tabellen,,,,7.0
+2018,TSA-Tabellen,,,,7.0
+2019,TSA-Tabellen,,,,7.0
+2020,TSA-Tabellen,,,,7.0
+2021,TSA-Tabellen,,,,7.0
+2022,TSA-Tabellen,,,,7.0
+2023,TSA-Tabellen,…,,,

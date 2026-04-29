@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "obligations under multilateral environmental agreements",
+            "name": "type of obligation under multilateral environmental agreements",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "Verpflichtungen aus multilateralen Umweltübereinkommen"
+            "title": "Art der Verpflichtung aus multilateralen Umweltübereinkommen"
           },
           {
             "name": "COMMENT_OBS_0",

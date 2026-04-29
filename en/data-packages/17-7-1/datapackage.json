@@ -61,7 +61,7 @@
             "title": "Economic activity"
           },
           {
-            "name": "sector",
+            "name": "type of sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -70,7 +70,7 @@
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Type of sector"
           },
           {
             "name": "COMMENT_OBS_0",

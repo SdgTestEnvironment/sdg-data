@@ -58,7 +58,7 @@
             }
           },
           {
-            "name": "sector",
+            "name": "type of sector",
             "type": "string",
             "constraints": {
               "enum": [
