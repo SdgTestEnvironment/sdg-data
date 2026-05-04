@@ -368,7 +368,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -381,7 +381,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "percentage of gdp",
+                "percentage",
                 ""
               ]
             }
@@ -2151,7 +2151,7 @@
             "constraints": {
               "enum": [
                 "water withdrawal",
-                "water withdrawal by sector",
+                "water withdrawl by economic activity",
                 ""
               ]
             }
@@ -3003,7 +3003,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "-",
                 "‒",
                 ""
               ]

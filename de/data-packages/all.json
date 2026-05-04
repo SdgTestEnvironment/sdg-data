@@ -416,7 +416,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Prozent des BIP",
+                "Prozent",
                 ""
               ]
             },
@@ -2355,7 +2355,7 @@
             "constraints": {
               "enum": [
                 "Wasserentnahme",
-                "Frischwasserentnahme nach Wirtschaftszweig",
+                "water withdrawl by economic activity",
                 ""
               ]
             },
@@ -3287,7 +3287,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "-",
                 "‒",
                 ""
               ]

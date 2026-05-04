@@ -76,7 +76,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,inpatient treatment,,,,,628.0
 2021,inpatient treatment,,,,,576.0
 2022,inpatient treatment,,,,,661.0
-2023,inpatient treatment,,,,,993.0
+2023,inpatient treatment,,r,,,999.0
 2024,inpatient treatment,,,,,
 2025,inpatient treatment,,,,,
 2010,inpatient treatment,buruli ulcer,,,,30.0
@@ -92,7 +92,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,inpatient treatment,buruli ulcer,,,,28.0
 2021,inpatient treatment,buruli ulcer,,,,25.0
 2022,inpatient treatment,buruli ulcer,,,,20.0
-2023,inpatient treatment,buruli ulcer,,,,27.0
+2023,inpatient treatment,buruli ulcer,r,,,22.0
 2024,inpatient treatment,buruli ulcer,,,,
 2025,inpatient treatment,buruli ulcer,,,,
 2010,inpatient treatment,echinococcosis,,,,323.0
@@ -108,7 +108,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,inpatient treatment,echinococcosis,,,,498.0
 2021,inpatient treatment,echinococcosis,,,,468.0
 2022,inpatient treatment,echinococcosis,,,,452.0
-2023,inpatient treatment,echinococcosis,,,,561.0
+2023,inpatient treatment,echinococcosis,r,,,569.0
 2024,inpatient treatment,echinococcosis,,,,
 2025,inpatient treatment,echinococcosis,,,,
 2010,inpatient treatment,human african trypanosomiasis,,,,1.0
@@ -204,7 +204,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,inpatient treatment,dengue,,,,50.0
 2021,inpatient treatment,dengue,,,,22.0
 2022,inpatient treatment,dengue,,,,109.0
-2023,inpatient treatment,dengue,,,,277.0
+2023,inpatient treatment,dengue,r,,,280.0
 2024,inpatient treatment,dengue,,,,
 2025,inpatient treatment,dengue,,,,
 2010,inpatient treatment,dracunculiasis,.,,,0.0

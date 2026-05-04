@@ -44,48 +44,48 @@ Year,Units,type of fiscal policy tool,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,
 2022,million eur,direct transfers of funds,,,,1792.81
 2023,million eur,direct transfers of funds,,,,21534.74
 2024,million eur,direct transfers of funds,…,,,
-2010,percentage of gdp,,.,,,
-2011,percentage of gdp,,.,,,
-2012,percentage of gdp,,.,,,
-2013,percentage of gdp,,.,,,
-2014,percentage of gdp,,.,,,
-2015,percentage of gdp,,r,,,0.482
-2016,percentage of gdp,,r,,,0.484
-2017,percentage of gdp,,r,,,0.415
-2018,percentage of gdp,,r,,,0.446
-2019,percentage of gdp,,r,,,0.411
-2020,percentage of gdp,,r,,,0.264
-2021,percentage of gdp,,,,,0.271
-2022,percentage of gdp,,,,,0.336
-2023,percentage of gdp,,,,,0.825
-2024,percentage of gdp,,,,,
-2010,percentage of gdp,tax reliefs,.,,,
-2011,percentage of gdp,tax reliefs,.,,,
-2012,percentage of gdp,tax reliefs,.,,,
-2013,percentage of gdp,tax reliefs,.,,,
-2014,percentage of gdp,tax reliefs,.,,,
-2015,percentage of gdp,tax reliefs,r,,,0.436
-2016,percentage of gdp,tax reliefs,r,,,0.429
-2017,percentage of gdp,tax reliefs,r,,,0.372
-2018,percentage of gdp,tax reliefs,r,,,0.407
-2019,percentage of gdp,tax reliefs,r,,,0.395
-2020,percentage of gdp,tax reliefs,r,,,0.24
-2021,percentage of gdp,tax reliefs,,,,0.249
-2022,percentage of gdp,tax reliefs,,,,0.289
-2023,percentage of gdp,tax reliefs,,,,0.281
-2024,percentage of gdp,tax reliefs,,,,0.274
-2010,percentage of gdp,direct transfers of funds,.,,,
-2011,percentage of gdp,direct transfers of funds,.,,,
-2012,percentage of gdp,direct transfers of funds,.,,,
-2013,percentage of gdp,direct transfers of funds,.,,,
-2014,percentage of gdp,direct transfers of funds,.,,,
-2015,percentage of gdp,direct transfers of funds,r,,,0.046
-2016,percentage of gdp,direct transfers of funds,r,,,0.055
-2017,percentage of gdp,direct transfers of funds,r,,,0.043
-2018,percentage of gdp,direct transfers of funds,r,,,0.039
-2019,percentage of gdp,direct transfers of funds,r,,,0.016
-2020,percentage of gdp,direct transfers of funds,r,,,0.025
-2021,percentage of gdp,direct transfers of funds,,,,0.022
-2022,percentage of gdp,direct transfers of funds,,,,0.048
-2023,percentage of gdp,direct transfers of funds,,,,0.545
-2024,percentage of gdp,direct transfers of funds,…,,,
+2010,percentage,,.,,,
+2011,percentage,,.,,,
+2012,percentage,,.,,,
+2013,percentage,,.,,,
+2014,percentage,,.,,,
+2015,percentage,,r,,,0.482
+2016,percentage,,r,,,0.484
+2017,percentage,,r,,,0.415
+2018,percentage,,r,,,0.446
+2019,percentage,,r,,,0.411
+2020,percentage,,r,,,0.264
+2021,percentage,,,,,0.271
+2022,percentage,,,,,0.336
+2023,percentage,,,,,0.825
+2024,percentage,,,,,
+2010,percentage,tax reliefs,.,,,
+2011,percentage,tax reliefs,.,,,
+2012,percentage,tax reliefs,.,,,
+2013,percentage,tax reliefs,.,,,
+2014,percentage,tax reliefs,.,,,
+2015,percentage,tax reliefs,r,,,0.436
+2016,percentage,tax reliefs,r,,,0.429
+2017,percentage,tax reliefs,r,,,0.372
+2018,percentage,tax reliefs,r,,,0.407
+2019,percentage,tax reliefs,r,,,0.395
+2020,percentage,tax reliefs,r,,,0.24
+2021,percentage,tax reliefs,,,,0.249
+2022,percentage,tax reliefs,,,,0.289
+2023,percentage,tax reliefs,,,,0.281
+2024,percentage,tax reliefs,,,,0.274
+2010,percentage,direct transfers of funds,.,,,
+2011,percentage,direct transfers of funds,.,,,
+2012,percentage,direct transfers of funds,.,,,
+2013,percentage,direct transfers of funds,.,,,
+2014,percentage,direct transfers of funds,.,,,
+2015,percentage,direct transfers of funds,r,,,0.046
+2016,percentage,direct transfers of funds,r,,,0.055
+2017,percentage,direct transfers of funds,r,,,0.043
+2018,percentage,direct transfers of funds,r,,,0.039
+2019,percentage,direct transfers of funds,r,,,0.016
+2020,percentage,direct transfers of funds,r,,,0.025
+2021,percentage,direct transfers of funds,,,,0.022
+2022,percentage,direct transfers of funds,,,,0.048
+2023,percentage,direct transfers of funds,,,,0.545
+2024,percentage,direct transfers of funds,…,,,
