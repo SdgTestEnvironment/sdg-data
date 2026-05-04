@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Contracting party",
+                "Contracting Party",
                 "Fulfilment of reporting obligations",
-                "compliance with the agreement",
+                "Compliance with the agreement",
                 ""
               ]
             },
-            "title": "type of obligation"
+            "title": "Type of obligation"
           },
           {
             "name": "COMMENT_OBS_0",

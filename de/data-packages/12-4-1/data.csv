@@ -1,4 +1,4 @@
-Year,Units,type of obligation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+Year,Units,Art der Verpflichtung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2010,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
 2011,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
 2012,"ja=1, nein=0",Vertragspartei,,,,1) Basler Übereinkommen,1.0
@@ -31,9 +31,9 @@ Year,Units,type of obligation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,V
 2022,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
 2023,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
 2024,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,1) Basler Übereinkommen,1.0
-2015,Prozent,compliance with the agreement,,,,1) Basler Übereinkommen,100.0
-2020,Prozent,compliance with the agreement,,,,1) Basler Übereinkommen,100.0
-2025,Prozent,compliance with the agreement,,,,1) Basler Übereinkommen,100.0
+2015,Prozent,Einhaltung des Übereinkommens,,,,1) Basler Übereinkommen,100.0
+2020,Prozent,Einhaltung des Übereinkommens,,,,1) Basler Übereinkommen,100.0
+2025,Prozent,Einhaltung des Übereinkommens,,,,1) Basler Übereinkommen,100.0
 2010,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
 2011,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
 2012,"ja=1, nein=0",Vertragspartei,,,,2) Montrealer Protokoll,1.0
@@ -66,9 +66,9 @@ Year,Units,type of obligation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,V
 2022,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
 2023,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
 2024,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,2) Montrealer Protokoll,1.0
-2015,Prozent,compliance with the agreement,,,,2) Montrealer Protokoll,100.0
-2020,Prozent,compliance with the agreement,,,,2) Montrealer Protokoll,100.0
-2025,Prozent,compliance with the agreement,,,,2) Montrealer Protokoll,100.0
+2015,Prozent,Einhaltung des Übereinkommens,,,,2) Montrealer Protokoll,100.0
+2020,Prozent,Einhaltung des Übereinkommens,,,,2) Montrealer Protokoll,100.0
+2025,Prozent,Einhaltung des Übereinkommens,,,,2) Montrealer Protokoll,100.0
 2010,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
 2011,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
 2012,"ja=1, nein=0",Vertragspartei,,,,3) Rotterdamer Übereinkommen,1.0
@@ -101,9 +101,9 @@ Year,Units,type of obligation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,V
 2022,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
 2023,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
 2024,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,3) Rotterdamer Übereinkommen,1.0
-2015,Prozent,compliance with the agreement,,,,3) Rotterdamer Übereinkommen,100.0
-2020,Prozent,compliance with the agreement,,,,3) Rotterdamer Übereinkommen,100.0
-2025,Prozent,compliance with the agreement,,,,3) Rotterdamer Übereinkommen,100.0
+2015,Prozent,Einhaltung des Übereinkommens,,,,3) Rotterdamer Übereinkommen,100.0
+2020,Prozent,Einhaltung des Übereinkommens,,,,3) Rotterdamer Übereinkommen,100.0
+2025,Prozent,Einhaltung des Übereinkommens,,,,3) Rotterdamer Übereinkommen,100.0
 2010,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
 2011,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
 2012,"ja=1, nein=0",Vertragspartei,,,,4) Stockholmer Übereinkommen,1.0
@@ -134,9 +134,9 @@ Year,Units,type of obligation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,V
 2020,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,4) Stockholmer Übereinkommen,
 2021,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,4) Stockholmer Übereinkommen,
 2022,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,4) Stockholmer Übereinkommen,1.0
-2015,Prozent,compliance with the agreement,,,,4) Stockholmer Übereinkommen,100.0
-2020,Prozent,compliance with the agreement,,,,4) Stockholmer Übereinkommen,85.71
-2025,Prozent,compliance with the agreement,,,,4) Stockholmer Übereinkommen,88.89
+2015,Prozent,Einhaltung des Übereinkommens,,,,4) Stockholmer Übereinkommen,100.0
+2020,Prozent,Einhaltung des Übereinkommens,,,,4) Stockholmer Übereinkommen,85.71
+2025,Prozent,Einhaltung des Übereinkommens,,,,4) Stockholmer Übereinkommen,88.89
 2010,"ja=1, nein=0",Vertragspartei,‒,,,5) Minamata Übereinkommen,0.0
 2011,"ja=1, nein=0",Vertragspartei,‒,,,5) Minamata Übereinkommen,0.0
 2012,"ja=1, nein=0",Vertragspartei,‒,,,5) Minamata Übereinkommen,0.0
@@ -170,6 +170,6 @@ Year,Units,type of obligation,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,V
 2023,"ja=1, nein=0",Erfüllung der Berichtspflicht,,,,5) Minamata Übereinkommen,1.0
 2024,"ja=1, nein=0",Erfüllung der Berichtspflicht,x,,,5) Minamata Übereinkommen,
 2025,"ja=1, nein=0",Erfüllung der Berichtspflicht,‒,,,5) Minamata Übereinkommen,0.0
-2015,Prozent,compliance with the agreement,,,,5) Minamata Übereinkommen,0.0
-2020,Prozent,compliance with the agreement,,,,5) Minamata Übereinkommen,33.33
-2025,Prozent,compliance with the agreement,,,,5) Minamata Übereinkommen,66.67
+2015,Prozent,Einhaltung des Übereinkommens,,,,5) Minamata Übereinkommen,0.0
+2020,Prozent,Einhaltung des Übereinkommens,,,,5) Minamata Übereinkommen,33.33
+2025,Prozent,Einhaltung des Übereinkommens,,,,5) Minamata Übereinkommen,66.67

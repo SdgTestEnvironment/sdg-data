@@ -34,11 +34,11 @@
               "enum": [
                 "Vertragspartei",
                 "Erfüllung der Berichtspflicht",
-                "compliance with the agreement",
+                "Einhaltung des Übereinkommens",
                 ""
               ]
             },
-            "title": "type of obligation"
+            "title": "Art der Verpflichtung"
           },
           {
             "name": "COMMENT_OBS_0",
