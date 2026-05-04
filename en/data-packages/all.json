@@ -2355,7 +2355,7 @@
             "constraints": {
               "enum": [
                 "Water withdrawal",
-                "water withdrawl by economic activity",
+                "Water withdrawl by economic activity",
                 ""
               ]
             },
@@ -5893,17 +5893,17 @@
             "title": "Units"
           },
           {
-            "name": "type of obligation under multilateral environmental agreements",
+            "name": "type of obligation",
             "type": "string",
             "constraints": {
               "enum": [
                 "Contracting party",
                 "Fulfilment of reporting obligations",
-                "Compliance with the multilateral environmental agreement",
+                "compliance with the agreement",
                 ""
               ]
             },
-            "title": "Type of obligation under multilateral environmental agreements"
+            "title": "type of obligation"
           },
           {
             "name": "COMMENT_OBS_0",

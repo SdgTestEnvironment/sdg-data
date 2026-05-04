@@ -26,13 +26,13 @@
             }
           },
           {
-            "name": "type of obligation under multilateral environmental agreements",
+            "name": "type of obligation",
             "type": "string",
             "constraints": {
               "enum": [
                 "contracting party",
                 "fulfilment of reporting obligations",
-                "compliance with the multilateral environmental agreement",
+                "compliance with the agreement",
                 ""
               ]
             }

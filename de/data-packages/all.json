@@ -2355,7 +2355,7 @@
             "constraints": {
               "enum": [
                 "Wasserentnahme",
-                "water withdrawl by economic activity",
+                "Wasserentnahme nach Wirtschaftszweig",
                 ""
               ]
             },
@@ -5893,17 +5893,17 @@
             "title": "Units"
           },
           {
-            "name": "type of obligation under multilateral environmental agreements",
+            "name": "type of obligation",
             "type": "string",
             "constraints": {
               "enum": [
                 "Vertragspartei",
                 "Erfüllung der Berichtspflicht",
-                "Einhaltung des multilateralen Umweltübereinkommens",
+                "compliance with the agreement",
                 ""
               ]
             },
-            "title": "Art der Verpflichtung aus multilateralen Umweltübereinkommen"
+            "title": "type of obligation"
           },
           {
             "name": "COMMENT_OBS_0",
