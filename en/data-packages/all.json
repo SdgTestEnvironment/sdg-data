@@ -24,6 +24,7 @@
               "enum": [
                 "Attributable deaths",
                 "DALYs",
+                "DALYs per 100,000 inhabitants",
                 ""
               ]
             },
@@ -91,7 +92,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
