@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) Cardiovascular disease",
-                "(b) Cancer",
+                "(a) Diseases of the circulatory system",
+                "(b) Malignant neoplasms",
                 "(c) Diabetes mellitus",
                 "(d) Chronic respiratory disease",
                 ""
