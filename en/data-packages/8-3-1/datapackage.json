@@ -16,16 +16,46 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "type of proceeding",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Administrative Offense Proceedings",
+                "Criminal Proceedings",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Type of proceeding"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
