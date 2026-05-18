@@ -322,6 +322,11 @@ prose:
             label: "Graph Title"
             translation_key: metadata_fields.graph_title
             scope: graph
+      - name: "mixed_types"
+        field:
+            element: select
+            label: "Mixed Types"
+            scope: graph
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
