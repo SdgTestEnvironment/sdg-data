@@ -310,7 +310,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2023)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -2245,7 +2245,6 @@
             "constraints": {
               "enum": [
                 "‒",
-                "s",
                 ""
               ]
             }
@@ -3688,7 +3687,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2023)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -5249,9 +5248,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "s",
                 ""
               ]
             }
@@ -6372,6 +6372,20 @@
             }
           },
           {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5 years and younger",
+                "6 to under 12 years",
+                "12 to under 18 years",
+                "18 to under 65 years",
+                "65 years and older",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -6387,9 +6401,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "|",
                 "p",
-                ".",
                 ""
               ]
             }
@@ -6440,7 +6454,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2023)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -6704,7 +6718,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2023)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -7699,7 +7713,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2023)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -7847,19 +7861,36 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "s",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -9579,10 +9610,22 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             }
@@ -9632,7 +9675,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million usd, constant prices (2023)",
+                "million usd, constant prices (2024)",
                 "million eur",
                 ""
               ]
@@ -11504,7 +11547,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2023)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -11525,8 +11568,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
-                "r",
+                "0.0",
                 ""
               ]
             }
@@ -11885,9 +11927,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "s",
                 ""
               ]
             }
@@ -12519,6 +12562,34 @@
             "type": "integer"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "14 years and younger",
+                "15 to under 25 years",
+                "25 to under 35 years",
+                "35 to under 45 years",
+                "45 to under 55 years",
+                "55 to under 65 years",
+                "65 to under 75 years",
+                "75 years and older",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -13058,8 +13129,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2023)",
-                "million usd, constant prices (2022)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -13321,8 +13391,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2023)",
-                "million usd, constant prices (2022)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -13396,6 +13465,7 @@
               "enum": [
                 "million eur",
                 "million usd, constant prices (2023)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -13469,6 +13539,17 @@
                 "(b) malignant neoplasms",
                 "(c) diabetes mellitus",
                 "(d) chronic respiratory disease",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -13623,6 +13704,20 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5 years and younger",
+                "6 to under 12 years",
+                "12 to under 18 years",
+                "18 to under 65 years",
+                "65 years and older",
+                ""
+              ]
+            }
           },
           {
             "name": "sex",
@@ -13974,6 +14069,17 @@
             }
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {
@@ -14090,6 +14196,7 @@
             "constraints": {
               "enum": [
                 "million eur",
+                "million usd, constant prices (2024)",
                 "million usd, constant prices (2023)",
                 ""
               ]

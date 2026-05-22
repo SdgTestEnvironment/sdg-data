@@ -338,7 +338,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
@@ -2459,7 +2459,6 @@
             "constraints": {
               "enum": [
                 "‒",
-                "s",
                 ""
               ]
             },
@@ -4037,7 +4036,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
@@ -5747,9 +5746,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "s",
                 ""
               ]
             },
@@ -6978,6 +6978,21 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5 Jahre und jünger",
+                "6 bis unter 12 Jahre",
+                "12 bis unter 18 Jahre",
+                "18 bis unter 65 Jahre",
+                "65 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -6994,9 +7009,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 "|",
                 "p",
-                ".",
                 ""
               ]
             },
@@ -7052,7 +7067,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
@@ -7342,7 +7357,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
@@ -8432,7 +8447,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
@@ -8595,20 +8610,39 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "s",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]
@@ -10489,10 +10523,23 @@
             "title": "Jahr"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
                 ""
               ]
             },
@@ -10547,7 +10594,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen USD, konstante Preise (2023)",
+                "Millionen USD, konstante Preise (2024)",
                 "Millionen EUR",
                 ""
               ]
@@ -12596,7 +12643,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
@@ -12619,8 +12666,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
-                "r",
+                "0.0",
                 ""
               ]
             },
@@ -13013,9 +13059,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "s",
                 ""
               ]
             },
@@ -13708,6 +13755,36 @@
             "title": "Jahr"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "14 Jahre und jünger",
+                "15 bis unter 25 Jahre",
+                "25 bis unter 35 Jahre",
+                "35 bis unter 45 Jahre",
+                "45 bis unter 55 Jahre",
+                "55 bis unter 65 Jahre",
+                "65 bis unter 75 Jahre",
+                "75 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -14298,8 +14375,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
@@ -14586,8 +14662,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
-                "Millionen USD, konstante Preise (2022)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
@@ -14668,6 +14743,7 @@
               "enum": [
                 "Millionen EUR",
                 "Millionen USD, konstante Preise (2023)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
@@ -14752,6 +14828,18 @@
               ]
             },
             "title": "Art der Erkrankung"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -14917,6 +15005,21 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5 Jahre und jünger",
+                "6 bis unter 12 Jahre",
+                "12 bis unter 18 Jahre",
+                "18 bis unter 65 Jahre",
+                "65 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
           },
           {
             "name": "sex",
@@ -15302,6 +15405,18 @@
             "title": "Altersklasse"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {
@@ -15429,6 +15544,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
+                "Millionen USD, konstante Preise (2024)",
                 "Millionen USD, konstante Preise (2023)",
                 ""
               ]

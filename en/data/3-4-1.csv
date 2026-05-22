@@ -1,61 +1,181 @@
-Year,Type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,(a) Diseases of the circulatory system,,,,45.0
-2011,(a) Diseases of the circulatory system,,,,41.8
-2012,(a) Diseases of the circulatory system,,,,41.3
-2013,(a) Diseases of the circulatory system,,,,41.4
-2014,(a) Diseases of the circulatory system,,,,40.0
-2015,(a) Diseases of the circulatory system,,,,42.3
-2016,(a) Diseases of the circulatory system,,,,41.6
-2017,(a) Diseases of the circulatory system,,,,40.9
-2018,(a) Diseases of the circulatory system,,,,41.8
-2019,(a) Diseases of the circulatory system,,,,39.8
-2020,(a) Diseases of the circulatory system,,,,40.7
-2021,(a) Diseases of the circulatory system,,,,41.9
-2022,(a) Diseases of the circulatory system,,,,42.2
-2023,(a) Diseases of the circulatory system,,,,42.1
-2024,(a) Diseases of the circulatory system,,,,41.0
-2010,(b) Malignant neoplasms,,,,77.9
-2011,(b) Malignant neoplasms,,,,76.9
-2012,(b) Malignant neoplasms,,,,75.0
-2013,(b) Malignant neoplasms,,,,75.0
-2014,(b) Malignant neoplasms,,,,73.2
-2015,(b) Malignant neoplasms,,,,74.7
-2016,(b) Malignant neoplasms,,,,76.4
-2017,(b) Malignant neoplasms,,,,75.4
-2018,(b) Malignant neoplasms,,,,76.1
-2019,(b) Malignant neoplasms,,,,74.7
-2020,(b) Malignant neoplasms,,,,74.2
-2021,(b) Malignant neoplasms,,,,72.9
-2022,(b) Malignant neoplasms,,,,73.3
-2023,(b) Malignant neoplasms,,,,72.4
-2024,(b) Malignant neoplasms,,,,71.6
-2010,(c) Diabetes mellitus,,,,3.5
-2011,(c) Diabetes mellitus,,,,3.4
-2012,(c) Diabetes mellitus,,,,3.4
-2013,(c) Diabetes mellitus,,,,3.5
-2014,(c) Diabetes mellitus,,,,3.3
-2015,(c) Diabetes mellitus,,,,3.6
-2016,(c) Diabetes mellitus,,,,3.5
-2017,(c) Diabetes mellitus,,,,3.8
-2018,(c) Diabetes mellitus,,,,3.8
-2019,(c) Diabetes mellitus,,,,3.7
-2020,(c) Diabetes mellitus,,,,3.8
-2021,(c) Diabetes mellitus,,,,3.9
-2022,(c) Diabetes mellitus,,,,3.9
-2023,(c) Diabetes mellitus,,,,3.9
-2024,(c) Diabetes mellitus,,,,4.0
-2010,(d) Chronic respiratory disease,,,,7.4
-2011,(d) Chronic respiratory disease,,,,7.5
-2012,(d) Chronic respiratory disease,,,,7.1
-2013,(d) Chronic respiratory disease,,,,8.0
-2014,(d) Chronic respiratory disease,,,,7.6
-2015,(d) Chronic respiratory disease,,,,8.7
-2016,(d) Chronic respiratory disease,,,,8.8
-2017,(d) Chronic respiratory disease,,,,9.4
-2018,(d) Chronic respiratory disease,,,,9.7
-2019,(d) Chronic respiratory disease,,,,9.6
-2020,(d) Chronic respiratory disease,,,,9.3
-2021,(d) Chronic respiratory disease,,,,9.1
-2022,(d) Chronic respiratory disease,,,,10.4
-2023,(d) Chronic respiratory disease,,,,10.9
-2024,(d) Chronic respiratory disease,,,,11.2
+Year,Type of disease,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,(a) Diseases of the circulatory system,,,,,45.0
+2011,(a) Diseases of the circulatory system,,,,,41.8
+2012,(a) Diseases of the circulatory system,,,,,41.3
+2013,(a) Diseases of the circulatory system,,,,,41.4
+2014,(a) Diseases of the circulatory system,,,,,40.0
+2015,(a) Diseases of the circulatory system,,,,,42.3
+2016,(a) Diseases of the circulatory system,,,,,41.6
+2017,(a) Diseases of the circulatory system,,,,,40.9
+2018,(a) Diseases of the circulatory system,,,,,41.8
+2019,(a) Diseases of the circulatory system,,,,,39.8
+2020,(a) Diseases of the circulatory system,,,,,40.7
+2021,(a) Diseases of the circulatory system,,,,,41.9
+2022,(a) Diseases of the circulatory system,,,,,42.2
+2023,(a) Diseases of the circulatory system,,,,,42.1
+2024,(a) Diseases of the circulatory system,,,,,41.0
+2010,(b) Malignant neoplasms,,,,,77.9
+2011,(b) Malignant neoplasms,,,,,76.9
+2012,(b) Malignant neoplasms,,,,,75.0
+2013,(b) Malignant neoplasms,,,,,75.0
+2014,(b) Malignant neoplasms,,,,,73.2
+2015,(b) Malignant neoplasms,,,,,74.7
+2016,(b) Malignant neoplasms,,,,,76.4
+2017,(b) Malignant neoplasms,,,,,75.4
+2018,(b) Malignant neoplasms,,,,,76.1
+2019,(b) Malignant neoplasms,,,,,74.7
+2020,(b) Malignant neoplasms,,,,,74.2
+2021,(b) Malignant neoplasms,,,,,72.9
+2022,(b) Malignant neoplasms,,,,,73.3
+2023,(b) Malignant neoplasms,,,,,72.4
+2024,(b) Malignant neoplasms,,,,,71.6
+2010,(c) Diabetes mellitus,,,,,3.5
+2011,(c) Diabetes mellitus,,,,,3.4
+2012,(c) Diabetes mellitus,,,,,3.4
+2013,(c) Diabetes mellitus,,,,,3.5
+2014,(c) Diabetes mellitus,,,,,3.3
+2015,(c) Diabetes mellitus,,,,,3.6
+2016,(c) Diabetes mellitus,,,,,3.5
+2017,(c) Diabetes mellitus,,,,,3.8
+2018,(c) Diabetes mellitus,,,,,3.8
+2019,(c) Diabetes mellitus,,,,,3.7
+2020,(c) Diabetes mellitus,,,,,3.8
+2021,(c) Diabetes mellitus,,,,,3.9
+2022,(c) Diabetes mellitus,,,,,3.9
+2023,(c) Diabetes mellitus,,,,,3.9
+2024,(c) Diabetes mellitus,,,,,4.0
+2010,(d) Chronic respiratory disease,,,,,7.4
+2011,(d) Chronic respiratory disease,,,,,7.5
+2012,(d) Chronic respiratory disease,,,,,7.1
+2013,(d) Chronic respiratory disease,,,,,8.0
+2014,(d) Chronic respiratory disease,,,,,7.6
+2015,(d) Chronic respiratory disease,,,,,8.7
+2016,(d) Chronic respiratory disease,,,,,8.8
+2017,(d) Chronic respiratory disease,,,,,9.4
+2018,(d) Chronic respiratory disease,,,,,9.7
+2019,(d) Chronic respiratory disease,,,,,9.6
+2020,(d) Chronic respiratory disease,,,,,9.3
+2021,(d) Chronic respiratory disease,,,,,9.1
+2022,(d) Chronic respiratory disease,,,,,10.4
+2023,(d) Chronic respiratory disease,,,,,10.9
+2024,(d) Chronic respiratory disease,,,,,11.2
+2010,(a) Diseases of the circulatory system,Female,,,,12.1
+2011,(a) Diseases of the circulatory system,Female,,,,11.6
+2012,(a) Diseases of the circulatory system,Female,,,,11.3
+2013,(a) Diseases of the circulatory system,Female,,,,11.5
+2014,(a) Diseases of the circulatory system,Female,,,,11.3
+2015,(a) Diseases of the circulatory system,Female,,,,11.7
+2016,(a) Diseases of the circulatory system,Female,,,,11.5
+2017,(a) Diseases of the circulatory system,Female,,,,11.1
+2018,(a) Diseases of the circulatory system,Female,,,,11.7
+2019,(a) Diseases of the circulatory system,Female,,,,10.9
+2020,(a) Diseases of the circulatory system,Female,,,,11.0
+2021,(a) Diseases of the circulatory system,Female,,,,11.5
+2022,(a) Diseases of the circulatory system,Female,,,,11.7
+2023,(a) Diseases of the circulatory system,Female,,,,11.8
+2024,(a) Diseases of the circulatory system,Female,,,,11.4
+2010,(b) Malignant neoplasms,Female,,,,32.9
+2011,(b) Malignant neoplasms,Female,,,,33.0
+2012,(b) Malignant neoplasms,Female,,,,32.1
+2013,(b) Malignant neoplasms,Female,,,,32.2
+2014,(b) Malignant neoplasms,Female,,,,31.5
+2015,(b) Malignant neoplasms,Female,,,,32.3
+2016,(b) Malignant neoplasms,Female,,,,33.2
+2017,(b) Malignant neoplasms,Female,,,,33.2
+2018,(b) Malignant neoplasms,Female,,,,33.4
+2019,(b) Malignant neoplasms,Female,,,,33.0
+2020,(b) Malignant neoplasms,Female,,,,32.5
+2021,(b) Malignant neoplasms,Female,,,,32.0
+2022,(b) Malignant neoplasms,Female,,,,32.7
+2023,(b) Malignant neoplasms,Female,,,,32.4
+2024,(b) Malignant neoplasms,Female,,,,31.9
+2010,(c) Diabetes mellitus,Female,,,,1.0
+2011,(c) Diabetes mellitus,Female,,,,1.0
+2012,(c) Diabetes mellitus,Female,,,,1.0
+2013,(c) Diabetes mellitus,Female,,,,1.0
+2014,(c) Diabetes mellitus,Female,,,,1.0
+2015,(c) Diabetes mellitus,Female,,,,1.0
+2016,(c) Diabetes mellitus,Female,,,,1.0
+2017,(c) Diabetes mellitus,Female,,,,1.1
+2018,(c) Diabetes mellitus,Female,,,,1.1
+2019,(c) Diabetes mellitus,Female,,,,1.1
+2020,(c) Diabetes mellitus,Female,,,,1.1
+2021,(c) Diabetes mellitus,Female,,,,1.2
+2022,(c) Diabetes mellitus,Female,,,,1.1
+2023,(c) Diabetes mellitus,Female,,,,1.1
+2024,(c) Diabetes mellitus,Female,,,,1.1
+2010,(d) Chronic respiratory disease,Female,,,,2.8
+2011,(d) Chronic respiratory disease,Female,,,,2.8
+2012,(d) Chronic respiratory disease,Female,,,,2.6
+2013,(d) Chronic respiratory disease,Female,,,,3.1
+2014,(d) Chronic respiratory disease,Female,,,,2.9
+2015,(d) Chronic respiratory disease,Female,,,,3.3
+2016,(d) Chronic respiratory disease,Female,,,,3.5
+2017,(d) Chronic respiratory disease,Female,,,,3.8
+2018,(d) Chronic respiratory disease,Female,,,,3.9
+2019,(d) Chronic respiratory disease,Female,,,,3.9
+2020,(d) Chronic respiratory disease,Female,,,,3.7
+2021,(d) Chronic respiratory disease,Female,,,,3.6
+2022,(d) Chronic respiratory disease,Female,,,,4.2
+2023,(d) Chronic respiratory disease,Female,,,,4.5
+2024,(d) Chronic respiratory disease,Female,,,,4.5
+2010,(a) Diseases of the circulatory system,Male,,,,33.0
+2011,(a) Diseases of the circulatory system,Male,,,,30.2
+2012,(a) Diseases of the circulatory system,Male,,,,30.0
+2013,(a) Diseases of the circulatory system,Male,,,,29.9
+2014,(a) Diseases of the circulatory system,Male,,,,28.7
+2015,(a) Diseases of the circulatory system,Male,,,,30.6
+2016,(a) Diseases of the circulatory system,Male,,,,30.1
+2017,(a) Diseases of the circulatory system,Male,,,,29.8
+2018,(a) Diseases of the circulatory system,Male,,,,30.1
+2019,(a) Diseases of the circulatory system,Male,,,,28.9
+2020,(a) Diseases of the circulatory system,Male,,,,29.7
+2021,(a) Diseases of the circulatory system,Male,,,,30.5
+2022,(a) Diseases of the circulatory system,Male,,,,30.5
+2023,(a) Diseases of the circulatory system,Male,,,,30.4
+2024,(a) Diseases of the circulatory system,Male,,,,29.6
+2010,(b) Malignant neoplasms,Male,,,,45.0
+2011,(b) Malignant neoplasms,Male,,,,43.8
+2012,(b) Malignant neoplasms,Male,,,,42.9
+2013,(b) Malignant neoplasms,Male,,,,42.8
+2014,(b) Malignant neoplasms,Male,,,,41.7
+2015,(b) Malignant neoplasms,Male,,,,42.4
+2016,(b) Malignant neoplasms,Male,,,,43.2
+2017,(b) Malignant neoplasms,Male,,,,42.2
+2018,(b) Malignant neoplasms,Male,,,,42.7
+2019,(b) Malignant neoplasms,Male,,,,41.8
+2020,(b) Malignant neoplasms,Male,,,,41.7
+2021,(b) Malignant neoplasms,Male,,,,40.8
+2022,(b) Malignant neoplasms,Male,,,,40.6
+2023,(b) Malignant neoplasms,Male,,,,40.0
+2024,(b) Malignant neoplasms,Male,,,,39.7
+2010,(c) Diabetes mellitus,Male,,,,2.4
+2011,(c) Diabetes mellitus,Male,,,,2.4
+2012,(c) Diabetes mellitus,Male,,,,2.4
+2013,(c) Diabetes mellitus,Male,,,,2.5
+2014,(c) Diabetes mellitus,Male,,,,2.3
+2015,(c) Diabetes mellitus,Male,,,,2.5
+2016,(c) Diabetes mellitus,Male,,,,2.5
+2017,(c) Diabetes mellitus,Male,,,,2.7
+2018,(c) Diabetes mellitus,Male,,,,2.7
+2019,(c) Diabetes mellitus,Male,,,,2.6
+2020,(c) Diabetes mellitus,Male,,,,2.7
+2021,(c) Diabetes mellitus,Male,,,,2.8
+2022,(c) Diabetes mellitus,Male,,,,2.8
+2023,(c) Diabetes mellitus,Male,,,,2.8
+2024,(c) Diabetes mellitus,Male,,,,2.9
+2010,(d) Chronic respiratory disease,Male,,,,4.6
+2011,(d) Chronic respiratory disease,Male,,,,4.7
+2012,(d) Chronic respiratory disease,Male,,,,4.4
+2013,(d) Chronic respiratory disease,Male,,,,4.9
+2014,(d) Chronic respiratory disease,Male,,,,4.7
+2015,(d) Chronic respiratory disease,Male,,,,5.3
+2016,(d) Chronic respiratory disease,Male,,,,5.3
+2017,(d) Chronic respiratory disease,Male,,,,5.5
+2018,(d) Chronic respiratory disease,Male,,,,5.8
+2019,(d) Chronic respiratory disease,Male,,,,5.7
+2020,(d) Chronic respiratory disease,Male,,,,5.5
+2021,(d) Chronic respiratory disease,Male,,,,5.5
+2022,(d) Chronic respiratory disease,Male,,,,6.1
+2023,(d) Chronic respiratory disease,Male,,,,6.4
+2024,(d) Chronic respiratory disease,Male,,,,6.7

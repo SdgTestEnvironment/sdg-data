@@ -1,49 +1,129 @@
-Year,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,,,,15.6
-2011,,,,,15.8
-2012,,,,,16.1
-2013,,,,,16.1
-2014,,,,,16.7
-2015,,,,,16.7
-2016,,,,,16.5
-2017,,,,,16.1
-2018,,,,,16.0
-2019,,,,,14.8
-2020,,|,,,16.1
-2021,,,,,16.0
-2022,,,,,14.8
-2023,,,,,14.4
-2024,,,,,15.5
-2025,,p,,,16.1
-2010,Weiblich,,,,16.4
-2011,Weiblich,,,,16.8
-2012,Weiblich,,,,17.2
-2013,Weiblich,,,,17.2
-2014,Weiblich,,,,17.4
-2015,Weiblich,,,,17.4
-2016,Weiblich,,,,17.8
-2017,Weiblich,,,,17.1
-2018,Weiblich,,,,16.8
-2019,Weiblich,,,,15.7
-2020,Weiblich,|,,,16.8
-2021,Weiblich,,,,16.6
-2022,Weiblich,,,,15.5
-2023,Weiblich,,,,15.1
-2024,Weiblich,,,,16.2
-2025,Weiblich,p,,,16.7
-2010,Männlich,,,,14.9
-2011,Männlich,,,,14.9
-2012,Männlich,,,,14.9
-2013,Männlich,,,,15.0
-2014,Männlich,,,,15.9
-2015,Männlich,,,,15.9
-2016,Männlich,,,,15.2
-2017,Männlich,,,,15.0
-2018,Männlich,,,,15.2
-2019,Männlich,,,,13.9
-2020,Männlich,|,,,15.3
-2021,Männlich,,,,15.4
-2022,Männlich,,,,14.0
-2023,Männlich,,,,13.7
-2024,Männlich,,,,14.7
-2025,Männlich,p,,,15.6
+Year,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,,,,,,15.6
+2011,,,,,,15.8
+2012,,,,,,16.1
+2013,,,,,,16.1
+2014,,,,,,16.7
+2015,,,,,,16.7
+2016,,,,,,16.5
+2017,,,,,,16.1
+2018,,,,,,16.0
+2019,,,,,,14.8
+2020,,,|,,,16.1
+2021,,,,,,16.0
+2022,,,,,,14.8
+2023,,,,,,14.4
+2024,,,,,,15.5
+2025,,,p,,,16.1
+2010,5 Jahre und jünger,,,,,
+2011,5 Jahre und jünger,,,,,
+2012,5 Jahre und jünger,,,,,
+2013,5 Jahre und jünger,,,,,
+2014,5 Jahre und jünger,,,,,
+2015,5 Jahre und jünger,,,,,
+2016,5 Jahre und jünger,,,,,
+2017,5 Jahre und jünger,,,,,
+2018,5 Jahre und jünger,,,,,
+2019,5 Jahre und jünger,,,,,
+2020,5 Jahre und jünger,,,,,
+2021,5 Jahre und jünger,,,,,
+2022,5 Jahre und jünger,,,,,
+2023,5 Jahre und jünger,,,,,
+2024,5 Jahre und jünger,,,,,
+2025,5 Jahre und jünger,,,,,
+2010,6 bis unter 12 Jahre,,,,,
+2011,6 bis unter 12 Jahre,,,,,
+2012,6 bis unter 12 Jahre,,,,,
+2013,6 bis unter 12 Jahre,,,,,
+2014,6 bis unter 12 Jahre,,,,,
+2015,6 bis unter 12 Jahre,,,,,
+2016,6 bis unter 12 Jahre,,,,,
+2017,6 bis unter 12 Jahre,,,,,
+2018,6 bis unter 12 Jahre,,,,,
+2019,6 bis unter 12 Jahre,,,,,
+2020,6 bis unter 12 Jahre,,,,,
+2021,6 bis unter 12 Jahre,,,,,
+2022,6 bis unter 12 Jahre,,,,,
+2023,6 bis unter 12 Jahre,,,,,
+2024,6 bis unter 12 Jahre,,,,,
+2025,6 bis unter 12 Jahre,,,,,
+2010,12 bis unter 18 Jahre,,,,,
+2011,12 bis unter 18 Jahre,,,,,
+2012,12 bis unter 18 Jahre,,,,,
+2013,12 bis unter 18 Jahre,,,,,
+2014,12 bis unter 18 Jahre,,,,,
+2015,12 bis unter 18 Jahre,,,,,
+2016,12 bis unter 18 Jahre,,,,,
+2017,12 bis unter 18 Jahre,,,,,
+2018,12 bis unter 18 Jahre,,,,,
+2019,12 bis unter 18 Jahre,,,,,
+2020,12 bis unter 18 Jahre,,,,,
+2021,12 bis unter 18 Jahre,,,,,
+2022,12 bis unter 18 Jahre,,,,,
+2023,12 bis unter 18 Jahre,,,,,
+2024,12 bis unter 18 Jahre,,,,,
+2025,12 bis unter 18 Jahre,,,,,
+2010,18 bis unter 65 Jahre,,,,,
+2011,18 bis unter 65 Jahre,,,,,
+2012,18 bis unter 65 Jahre,,,,,
+2013,18 bis unter 65 Jahre,,,,,
+2014,18 bis unter 65 Jahre,,,,,
+2015,18 bis unter 65 Jahre,,,,,
+2016,18 bis unter 65 Jahre,,,,,
+2017,18 bis unter 65 Jahre,,,,,
+2018,18 bis unter 65 Jahre,,,,,
+2019,18 bis unter 65 Jahre,,,,,
+2020,18 bis unter 65 Jahre,,,,,
+2021,18 bis unter 65 Jahre,,,,,
+2022,18 bis unter 65 Jahre,,,,,
+2023,18 bis unter 65 Jahre,,,,,
+2024,18 bis unter 65 Jahre,,,,,
+2025,18 bis unter 65 Jahre,,,,,
+2010,65 Jahre und älter,,,,,
+2011,65 Jahre und älter,,,,,
+2012,65 Jahre und älter,,,,,
+2013,65 Jahre und älter,,,,,
+2014,65 Jahre und älter,,,,,
+2015,65 Jahre und älter,,,,,
+2016,65 Jahre und älter,,,,,
+2017,65 Jahre und älter,,,,,
+2018,65 Jahre und älter,,,,,
+2019,65 Jahre und älter,,,,,
+2020,65 Jahre und älter,,,,,
+2021,65 Jahre und älter,,,,,
+2022,65 Jahre und älter,,,,,
+2023,65 Jahre und älter,,,,,
+2024,65 Jahre und älter,,,,,
+2025,65 Jahre und älter,,,,,
+2010,,Weiblich,,,,16.4
+2011,,Weiblich,,,,16.8
+2012,,Weiblich,,,,17.2
+2013,,Weiblich,,,,17.2
+2014,,Weiblich,,,,17.4
+2015,,Weiblich,,,,17.4
+2016,,Weiblich,,,,17.8
+2017,,Weiblich,,,,17.1
+2018,,Weiblich,,,,16.8
+2019,,Weiblich,,,,15.7
+2020,,Weiblich,|,,,16.8
+2021,,Weiblich,,,,16.6
+2022,,Weiblich,,,,15.5
+2023,,Weiblich,,,,15.1
+2024,,Weiblich,,,,16.2
+2025,,Weiblich,p,,,16.7
+2010,,Männlich,,,,14.9
+2011,,Männlich,,,,14.9
+2012,,Männlich,,,,14.9
+2013,,Männlich,,,,15.0
+2014,,Männlich,,,,15.9
+2015,,Männlich,,,,15.9
+2016,,Männlich,,,,15.2
+2017,,Männlich,,,,15.0
+2018,,Männlich,,,,15.2
+2019,,Männlich,,,,13.9
+2020,,Männlich,|,,,15.3
+2021,,Männlich,,,,15.4
+2022,,Männlich,,,,14.0
+2023,,Männlich,,,,13.7
+2024,,Männlich,,,,14.7
+2025,,Männlich,p,,,15.6

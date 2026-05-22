@@ -30,6 +30,18 @@
             "title": "Art der Erkrankung"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {
