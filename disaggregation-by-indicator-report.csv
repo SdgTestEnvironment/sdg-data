@@ -33,6 +33,7 @@ Indicator,Disaggregations,Number of disaggregations
 #12-4-1,"COMMENT_OBS_0, type of obligation",2
 #12-4-2,"COMMENT_OBS_0, type of waste treatment",2
 #12-5-1,type of waste,1
+#12-6-1,COMMENT_OBS_0,1
 #12-8-1,education policy area,1
 #12-a-1,COMMENT_OBS_0,1
 #12-b-1,"COMMENT_OBS_0, standard accounting system",2
@@ -165,7 +166,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-10-1,"COMMENT_OBS_0, timeseries",2
 #8-10-2,"COMMENT_OBS_0, COMMENT_OBS_1, type of account",3
 #8-2-1,COMMENT_OBS_0,1
-#8-3-1,type of proceeding,1
+#8-3-1,"länder, type of flow, type of proceeding, industry",4
 #8-4-1,COMMENT_OBS_0,1
 #8-4-2,COMMENT_OBS_0,1
 #8-5-1,"COMMENT_OBS_0, sex, age group, länder, occupation",5

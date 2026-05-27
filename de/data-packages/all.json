@@ -3747,6 +3747,18 @@
             "title": "Jahr"
           },
           {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ordnungswidrigkeitenverfahren",
+                "Strafverfahren",
+                ""
+              ]
+            },
+            "title": "Art des Finanzstroms"
+          },
+          {
             "name": "type of proceeding",
             "type": "string",
             "constraints": {
@@ -3757,6 +3769,51 @@
               ]
             },
             "title": "Art des Verfahrens"
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                ""
+              ]
+            },
+            "title": "Bundesland"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "industry",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baugewerbe",
+                "Gaststätten- und Beherbergungsgewerbe",
+                "Frisör- und Kosmetikgewerbe",
+                "Speditions-, Transport- und Logistikgewerbe",
+                ""
+              ]
+            },
+            "title": "Branche"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -6969,7 +7026,7 @@
             "constraints": {
               "enum": [
                 "Von Armut oder sozialer Ausgrenzung bedrohte Personen",
-                "Armutsgefährdungsquote",
+                "Bevölkerung, die unter der nationalen Armutsgrenze lebt",
                 "In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen",
                 "Unter erheblicher materieller und sozialer Deprivation leidende Personen",
                 ""
@@ -8050,9 +8107,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "r",
                 ""
               ]
             },
@@ -8080,7 +8139,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

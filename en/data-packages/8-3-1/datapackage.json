@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Administrative Offense Proceedings",
+                "Criminal Proceedings",
+                ""
+              ]
+            },
+            "title": "Type of flow"
+          },
+          {
             "name": "type of proceeding",
             "type": "string",
             "constraints": {
@@ -26,6 +38,51 @@
               ]
             },
             "title": "Type of proceeding"
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Württemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
+                ""
+              ]
+            },
+            "title": "Länder"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "industry",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Construction industry",
+                "Restaurant and lodging industry",
+                "Hairdressing and beauty industry",
+                "Freight forwarding, transportation, and logistics industry",
+                ""
+              ]
+            },
+            "title": "Industry"
           },
           {
             "name": "COMMENT_OBS_0",
