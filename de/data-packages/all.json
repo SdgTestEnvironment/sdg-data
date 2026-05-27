@@ -3747,18 +3747,6 @@
             "title": "Jahr"
           },
           {
-            "name": "type of flow",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ordnungswidrigkeitenverfahren",
-                "Strafverfahren",
-                ""
-              ]
-            },
-            "title": "Art des Finanzstroms"
-          },
-          {
             "name": "type of proceeding",
             "type": "string",
             "constraints": {

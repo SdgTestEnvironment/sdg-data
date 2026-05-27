@@ -3747,18 +3747,6 @@
             "title": "Year"
           },
           {
-            "name": "type of flow",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Administrative Offense Proceedings",
-                "Criminal Proceedings",
-                ""
-              ]
-            },
-            "title": "Type of flow"
-          },
-          {
             "name": "type of proceeding",
             "type": "string",
             "constraints": {

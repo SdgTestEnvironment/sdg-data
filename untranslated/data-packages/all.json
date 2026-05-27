@@ -3423,17 +3423,6 @@
             "type": "integer"
           },
           {
-            "name": "type of flow",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "administrative offense proceedings",
-                "criminal proceedings",
-                ""
-              ]
-            }
-          },
-          {
             "name": "type of proceeding",
             "type": "string",
             "constraints": {
