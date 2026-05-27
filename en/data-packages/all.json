@@ -3759,6 +3759,20 @@
             "title": "Type of proceeding"
           },
           {
+            "name": "industry",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Construction industry",
+                "Restaurant and lodging industry",
+                "Hairdressing and beauty industry",
+                "Freight forwarding, transportation, and logistics industry",
+                ""
+              ]
+            },
+            "title": "Industry"
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {
@@ -3788,20 +3802,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "industry",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Construction industry",
-                "Restaurant and lodging industry",
-                "Hairdressing and beauty industry",
-                "Freight forwarding, transportation, and logistics industry",
-                ""
-              ]
-            },
-            "title": "Industry"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -3759,6 +3759,20 @@
             "title": "Art des Verfahrens"
           },
           {
+            "name": "industry",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baugewerbe",
+                "Gaststätten- und Beherbergungsgewerbe",
+                "Frisör- und Kosmetikgewerbe",
+                "Speditions-, Transport- und Logistikgewerbe",
+                ""
+              ]
+            },
+            "title": "Branche"
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {
@@ -3788,20 +3802,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "industry",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baugewerbe",
-                "Gaststätten- und Beherbergungsgewerbe",
-                "Frisör- und Kosmetikgewerbe",
-                "Speditions-, Transport- und Logistikgewerbe",
-                ""
-              ]
-            },
-            "title": "Branche"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -1,325 +1,341 @@
-Year,Type of proceeding,Länder,GeoCode,Industry,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+Year,Type of proceeding,Industry,Länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2024,Administrative Offense Proceedings,,,,,,,49686
 2025,Administrative Offense Proceedings,,,,,,,52125
-2024,Administrative Offense Proceedings,Baden-Württemberg,code08,,,,,7404
-2025,Administrative Offense Proceedings,Baden-Württemberg,code08,,,,,7074
-2024,Administrative Offense Proceedings,Baden-Württemberg,code08,Construction industry,,,,919
-2025,Administrative Offense Proceedings,Baden-Württemberg,code08,Construction industry,,,,946
-2024,Administrative Offense Proceedings,Baden-Württemberg,code08,Restaurant and lodging industry,,,,1909
-2025,Administrative Offense Proceedings,Baden-Württemberg,code08,Restaurant and lodging industry,,,,1830
-2024,Administrative Offense Proceedings,Baden-Württemberg,code08,Hairdressing and beauty industry,,,,199
-2025,Administrative Offense Proceedings,Baden-Württemberg,code08,Hairdressing and beauty industry,,,,228
-2024,Administrative Offense Proceedings,Baden-Württemberg,code08,"Freight forwarding, transportation, and logistics industry",,,,432
-2025,Administrative Offense Proceedings,Baden-Württemberg,code08,"Freight forwarding, transportation, and logistics industry",,,,389
-2024,Administrative Offense Proceedings,Bavaria,code09,,,,,6658
-2025,Administrative Offense Proceedings,Bavaria,code09,,,,,6569
-2024,Administrative Offense Proceedings,Bavaria,code09,Construction industry,,,,905
-2025,Administrative Offense Proceedings,Bavaria,code09,Construction industry,,,,917
-2024,Administrative Offense Proceedings,Bavaria,code09,Restaurant and lodging industry,,,,1697
-2025,Administrative Offense Proceedings,Bavaria,code09,Restaurant and lodging industry,,,,1742
-2024,Administrative Offense Proceedings,Bavaria,code09,Hairdressing and beauty industry,,,,164
-2025,Administrative Offense Proceedings,Bavaria,code09,Hairdressing and beauty industry,,,,212
-2024,Administrative Offense Proceedings,Bavaria,code09,"Freight forwarding, transportation, and logistics industry",,,,702
-2025,Administrative Offense Proceedings,Bavaria,code09,"Freight forwarding, transportation, and logistics industry",,,,442
-2024,Administrative Offense Proceedings,Berlin,code11,,,,,1714
-2025,Administrative Offense Proceedings,Berlin,code11,,,,,2452
-2024,Administrative Offense Proceedings,Berlin,code11,Construction industry,,,,150
-2025,Administrative Offense Proceedings,Berlin,code11,Construction industry,,,,379
-2024,Administrative Offense Proceedings,Berlin,code11,Restaurant and lodging industry,,,,718
-2025,Administrative Offense Proceedings,Berlin,code11,Restaurant and lodging industry,,,,1038
-2024,Administrative Offense Proceedings,Berlin,code11,Hairdressing and beauty industry,,,,95
-2025,Administrative Offense Proceedings,Berlin,code11,Hairdressing and beauty industry,,,,117
-2024,Administrative Offense Proceedings,Berlin,code11,"Freight forwarding, transportation, and logistics industry",,,,108
-2025,Administrative Offense Proceedings,Berlin,code11,"Freight forwarding, transportation, and logistics industry",,,,143
-2024,Administrative Offense Proceedings,Brandenburg,code12,,,,,1355
-2025,Administrative Offense Proceedings,Brandenburg,code12,,,,,1335
-2024,Administrative Offense Proceedings,Brandenburg,code12,Construction industry,,,,195
-2025,Administrative Offense Proceedings,Brandenburg,code12,Construction industry,,,,175
-2024,Administrative Offense Proceedings,Brandenburg,code12,Restaurant and lodging industry,,,,320
-2025,Administrative Offense Proceedings,Brandenburg,code12,Restaurant and lodging industry,,,,398
-2024,Administrative Offense Proceedings,Brandenburg,code12,Hairdressing and beauty industry,,,,29
-2025,Administrative Offense Proceedings,Brandenburg,code12,Hairdressing and beauty industry,,,,54
-2024,Administrative Offense Proceedings,Brandenburg,code12,"Freight forwarding, transportation, and logistics industry",,,,49
-2025,Administrative Offense Proceedings,Brandenburg,code12,"Freight forwarding, transportation, and logistics industry",,,,87
-2024,Administrative Offense Proceedings,Bremen,code04,,,,,2028
-2025,Administrative Offense Proceedings,Bremen,code04,,,,,1649
-2024,Administrative Offense Proceedings,Bremen,code04,Construction industry,,,,183
-2025,Administrative Offense Proceedings,Bremen,code04,Construction industry,,,,192
-2024,Administrative Offense Proceedings,Bremen,code04,Restaurant and lodging industry,,,,338
-2025,Administrative Offense Proceedings,Bremen,code04,Restaurant and lodging industry,,,,361
-2024,Administrative Offense Proceedings,Bremen,code04,Hairdressing and beauty industry,,,,23
-2025,Administrative Offense Proceedings,Bremen,code04,Hairdressing and beauty industry,,,,35
-2024,Administrative Offense Proceedings,Bremen,code04,"Freight forwarding, transportation, and logistics industry",,,,99
-2025,Administrative Offense Proceedings,Bremen,code04,"Freight forwarding, transportation, and logistics industry",,,,47
-2024,Administrative Offense Proceedings,Hamburg,code02,,,,,1234
-2025,Administrative Offense Proceedings,Hamburg,code02,,,,,1619
-2024,Administrative Offense Proceedings,Hamburg,code02,Construction industry,,,,140
-2025,Administrative Offense Proceedings,Hamburg,code02,Construction industry,,,,103
-2024,Administrative Offense Proceedings,Hamburg,code02,Restaurant and lodging industry,,,,226
-2025,Administrative Offense Proceedings,Hamburg,code02,Restaurant and lodging industry,,,,262
-2024,Administrative Offense Proceedings,Hamburg,code02,Hairdressing and beauty industry,,,,40
-2025,Administrative Offense Proceedings,Hamburg,code02,Hairdressing and beauty industry,,,,56
-2024,Administrative Offense Proceedings,Hamburg,code02,"Freight forwarding, transportation, and logistics industry",,,,90
-2025,Administrative Offense Proceedings,Hamburg,code02,"Freight forwarding, transportation, and logistics industry",,,,120
-2024,Administrative Offense Proceedings,Hesse,code06,,,,,4383
-2025,Administrative Offense Proceedings,Hesse,code06,,,,,4611
-2024,Administrative Offense Proceedings,Hesse,code06,Construction industry,,,,870
-2025,Administrative Offense Proceedings,Hesse,code06,Construction industry,,,,788
-2024,Administrative Offense Proceedings,Hesse,code06,Restaurant and lodging industry,,,,843
-2025,Administrative Offense Proceedings,Hesse,code06,Restaurant and lodging industry,,,,922
-2024,Administrative Offense Proceedings,Hesse,code06,Hairdressing and beauty industry,,,,89
-2025,Administrative Offense Proceedings,Hesse,code06,Hairdressing and beauty industry,,,,163
-2024,Administrative Offense Proceedings,Hesse,code06,"Freight forwarding, transportation, and logistics industry",,,,317
-2025,Administrative Offense Proceedings,Hesse,code06,"Freight forwarding, transportation, and logistics industry",,,,326
-2024,Administrative Offense Proceedings,Mecklenburg Western Pomerania,code13,,,,,759
-2025,Administrative Offense Proceedings,Mecklenburg Western Pomerania,code13,,,,,902
-2024,Administrative Offense Proceedings,Mecklenburg Western Pomerania,code13,Construction industry,,,,36
-2025,Administrative Offense Proceedings,Mecklenburg Western Pomerania,code13,Construction industry,,,,62
-2024,Administrative Offense Proceedings,Mecklenburg Western Pomerania,code13,Restaurant and lodging industry,,,,243
-2025,Administrative Offense Proceedings,Mecklenburg Western Pomerania,code13,Restaurant and lodging industry,,,,210
-2024,Administrative Offense Proceedings,Mecklenburg Western Pomerania,code13,Hairdressing and beauty industry,,,,64
-2025,Administrative Offense Proceedings,Mecklenburg Western Pomerania,code13,Hairdressing and beauty industry,,,,35
-2024,Administrative Offense Proceedings,Mecklenburg Western Pomerania,code13,"Freight forwarding, transportation, and logistics industry",,,,34
-2025,Administrative Offense Proceedings,Mecklenburg Western Pomerania,code13,"Freight forwarding, transportation, and logistics industry",,,,9
-2024,Administrative Offense Proceedings,Lower Saxony,code03,,,,,3447
-2025,Administrative Offense Proceedings,Lower Saxony,code03,,,,,4180
-2024,Administrative Offense Proceedings,Lower Saxony,code03,Construction industry,,,,541
-2025,Administrative Offense Proceedings,Lower Saxony,code03,Construction industry,,,,598
-2024,Administrative Offense Proceedings,Lower Saxony,code03,Restaurant and lodging industry,,,,1130
-2025,Administrative Offense Proceedings,Lower Saxony,code03,Restaurant and lodging industry,,,,1438
-2024,Administrative Offense Proceedings,Lower Saxony,code03,Hairdressing and beauty industry,,,,79
-2025,Administrative Offense Proceedings,Lower Saxony,code03,Hairdressing and beauty industry,,,,172
-2024,Administrative Offense Proceedings,Lower Saxony,code03,"Freight forwarding, transportation, and logistics industry",,,,208
-2025,Administrative Offense Proceedings,Lower Saxony,code03,"Freight forwarding, transportation, and logistics industry",,,,253
-2024,Administrative Offense Proceedings,North Rhine-Westphalia,code05,,,,,10079
-2025,Administrative Offense Proceedings,North Rhine-Westphalia,code05,,,,,11214
-2024,Administrative Offense Proceedings,North Rhine-Westphalia,code05,Construction industry,,,,1402
-2025,Administrative Offense Proceedings,North Rhine-Westphalia,code05,Construction industry,,,,1414
-2024,Administrative Offense Proceedings,North Rhine-Westphalia,code05,Restaurant and lodging industry,,,,2313
-2025,Administrative Offense Proceedings,North Rhine-Westphalia,code05,Restaurant and lodging industry,,,,2586
-2024,Administrative Offense Proceedings,North Rhine-Westphalia,code05,Hairdressing and beauty industry,,,,354
-2025,Administrative Offense Proceedings,North Rhine-Westphalia,code05,Hairdressing and beauty industry,,,,402
-2024,Administrative Offense Proceedings,North Rhine-Westphalia,code05,"Freight forwarding, transportation, and logistics industry",,,,572
-2025,Administrative Offense Proceedings,North Rhine-Westphalia,code05,"Freight forwarding, transportation, and logistics industry",,,,737
-2024,Administrative Offense Proceedings,Rhineland Palatinate,code07,,,,,2230
-2025,Administrative Offense Proceedings,Rhineland Palatinate,code07,,,,,2407
-2024,Administrative Offense Proceedings,Rhineland Palatinate,code07,Construction industry,,,,379
-2025,Administrative Offense Proceedings,Rhineland Palatinate,code07,Construction industry,,,,346
-2024,Administrative Offense Proceedings,Rhineland Palatinate,code07,Restaurant and lodging industry,,,,505
-2025,Administrative Offense Proceedings,Rhineland Palatinate,code07,Restaurant and lodging industry,,,,631
-2024,Administrative Offense Proceedings,Rhineland Palatinate,code07,Hairdressing and beauty industry,,,,46
-2025,Administrative Offense Proceedings,Rhineland Palatinate,code07,Hairdressing and beauty industry,,,,67
-2024,Administrative Offense Proceedings,Rhineland Palatinate,code07,"Freight forwarding, transportation, and logistics industry",,,,91
-2025,Administrative Offense Proceedings,Rhineland Palatinate,code07,"Freight forwarding, transportation, and logistics industry",,,,84
-2024,Administrative Offense Proceedings,Saarland,code10,,,,,1349
-2025,Administrative Offense Proceedings,Saarland,code10,,,,,1349
-2024,Administrative Offense Proceedings,Saarland,code10,Construction industry,,,,89
-2025,Administrative Offense Proceedings,Saarland,code10,Construction industry,,,,77
-2024,Administrative Offense Proceedings,Saarland,code10,Restaurant and lodging industry,,,,249
-2025,Administrative Offense Proceedings,Saarland,code10,Restaurant and lodging industry,,,,214
-2024,Administrative Offense Proceedings,Saarland,code10,Hairdressing and beauty industry,,,,18
-2025,Administrative Offense Proceedings,Saarland,code10,Hairdressing and beauty industry,,,,15
-2024,Administrative Offense Proceedings,Saarland,code10,"Freight forwarding, transportation, and logistics industry",,,,83
-2025,Administrative Offense Proceedings,Saarland,code10,"Freight forwarding, transportation, and logistics industry",,,,96
-2024,Administrative Offense Proceedings,Saxony,code14,,,,,1525
-2025,Administrative Offense Proceedings,Saxony,code14,,,,,1413
-2024,Administrative Offense Proceedings,Saxony,code14,Construction industry,,,,334
-2025,Administrative Offense Proceedings,Saxony,code14,Construction industry,,,,303
-2024,Administrative Offense Proceedings,Saxony,code14,Restaurant and lodging industry,,,,519
-2025,Administrative Offense Proceedings,Saxony,code14,Restaurant and lodging industry,,,,521
-2024,Administrative Offense Proceedings,Saxony,code14,Hairdressing and beauty industry,,,,31
-2025,Administrative Offense Proceedings,Saxony,code14,Hairdressing and beauty industry,,,,54
-2024,Administrative Offense Proceedings,Saxony,code14,"Freight forwarding, transportation, and logistics industry",,,,65
-2025,Administrative Offense Proceedings,Saxony,code14,"Freight forwarding, transportation, and logistics industry",,,,72
-2024,Administrative Offense Proceedings,Saxony-Anhalt,code15,,,,,1194
-2025,Administrative Offense Proceedings,Saxony-Anhalt,code15,,,,,1296
-2024,Administrative Offense Proceedings,Saxony-Anhalt,code15,Construction industry,,,,202
-2025,Administrative Offense Proceedings,Saxony-Anhalt,code15,Construction industry,,,,185
-2024,Administrative Offense Proceedings,Saxony-Anhalt,code15,Restaurant and lodging industry,,,,254
-2025,Administrative Offense Proceedings,Saxony-Anhalt,code15,Restaurant and lodging industry,,,,223
-2024,Administrative Offense Proceedings,Saxony-Anhalt,code15,Hairdressing and beauty industry,,,,15
-2025,Administrative Offense Proceedings,Saxony-Anhalt,code15,Hairdressing and beauty industry,,,,36
-2024,Administrative Offense Proceedings,Saxony-Anhalt,code15,"Freight forwarding, transportation, and logistics industry",,,,46
-2025,Administrative Offense Proceedings,Saxony-Anhalt,code15,"Freight forwarding, transportation, and logistics industry",,,,42
-2024,Administrative Offense Proceedings,Schleswig-Holstein,code01,,,,,2344
-2025,Administrative Offense Proceedings,Schleswig-Holstein,code01,,,,,1947
-2024,Administrative Offense Proceedings,Schleswig-Holstein,code01,Construction industry,,,,242
-2025,Administrative Offense Proceedings,Schleswig-Holstein,code01,Construction industry,,,,159
-2024,Administrative Offense Proceedings,Schleswig-Holstein,code01,Restaurant and lodging industry,,,,539
-2025,Administrative Offense Proceedings,Schleswig-Holstein,code01,Restaurant and lodging industry,,,,494
-2024,Administrative Offense Proceedings,Schleswig-Holstein,code01,Hairdressing and beauty industry,,,,49
-2025,Administrative Offense Proceedings,Schleswig-Holstein,code01,Hairdressing and beauty industry,,,,59
-2024,Administrative Offense Proceedings,Schleswig-Holstein,code01,"Freight forwarding, transportation, and logistics industry",,,,187
-2025,Administrative Offense Proceedings,Schleswig-Holstein,code01,"Freight forwarding, transportation, and logistics industry",,,,177
-2024,Administrative Offense Proceedings,Thuringia,code16,,,,,1642
-2025,Administrative Offense Proceedings,Thuringia,code16,,,,,1663
-2024,Administrative Offense Proceedings,Thuringia,code16,Construction industry,,,,213
-2025,Administrative Offense Proceedings,Thuringia,code16,Construction industry,,,,208
-2024,Administrative Offense Proceedings,Thuringia,code16,Restaurant and lodging industry,,,,504
-2025,Administrative Offense Proceedings,Thuringia,code16,Restaurant and lodging industry,,,,526
-2024,Administrative Offense Proceedings,Thuringia,code16,Hairdressing and beauty industry,,,,85
-2025,Administrative Offense Proceedings,Thuringia,code16,Hairdressing and beauty industry,,,,91
-2024,Administrative Offense Proceedings,Thuringia,code16,"Freight forwarding, transportation, and logistics industry",,,,59
-2025,Administrative Offense Proceedings,Thuringia,code16,"Freight forwarding, transportation, and logistics industry",,,,63
+2024,Administrative Offense Proceedings,Construction industry,,,,,,6856
+2025,Administrative Offense Proceedings,Construction industry,,,,,,6888
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,,,,,,12440
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,,,,,,13593
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,,,,,,1406
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,,,,,,1863
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",,,,,,3169
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",,,,,,3107
+2024,Administrative Offense Proceedings,,Baden-Württemberg,code08,,,,7404
+2025,Administrative Offense Proceedings,,Baden-Württemberg,code08,,,,7074
+2024,Administrative Offense Proceedings,Construction industry,Baden-Württemberg,code08,,,,919
+2025,Administrative Offense Proceedings,Construction industry,Baden-Württemberg,code08,,,,946
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Baden-Württemberg,code08,,,,1909
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Baden-Württemberg,code08,,,,1830
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Baden-Württemberg,code08,,,,199
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Baden-Württemberg,code08,,,,228
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Baden-Württemberg,code08,,,,432
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Baden-Württemberg,code08,,,,389
+2024,Administrative Offense Proceedings,,Bavaria,code09,,,,6658
+2025,Administrative Offense Proceedings,,Bavaria,code09,,,,6569
+2024,Administrative Offense Proceedings,Construction industry,Bavaria,code09,,,,905
+2025,Administrative Offense Proceedings,Construction industry,Bavaria,code09,,,,917
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Bavaria,code09,,,,1697
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Bavaria,code09,,,,1742
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Bavaria,code09,,,,164
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Bavaria,code09,,,,212
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Bavaria,code09,,,,702
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Bavaria,code09,,,,442
+2024,Administrative Offense Proceedings,,Berlin,code11,,,,1714
+2025,Administrative Offense Proceedings,,Berlin,code11,,,,2452
+2024,Administrative Offense Proceedings,Construction industry,Berlin,code11,,,,150
+2025,Administrative Offense Proceedings,Construction industry,Berlin,code11,,,,379
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Berlin,code11,,,,718
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Berlin,code11,,,,1038
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Berlin,code11,,,,95
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Berlin,code11,,,,117
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Berlin,code11,,,,108
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Berlin,code11,,,,143
+2024,Administrative Offense Proceedings,,Brandenburg,code12,,,,1355
+2025,Administrative Offense Proceedings,,Brandenburg,code12,,,,1335
+2024,Administrative Offense Proceedings,Construction industry,Brandenburg,code12,,,,195
+2025,Administrative Offense Proceedings,Construction industry,Brandenburg,code12,,,,175
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Brandenburg,code12,,,,320
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Brandenburg,code12,,,,398
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Brandenburg,code12,,,,29
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Brandenburg,code12,,,,54
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Brandenburg,code12,,,,49
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Brandenburg,code12,,,,87
+2024,Administrative Offense Proceedings,,Bremen,code04,,,,2028
+2025,Administrative Offense Proceedings,,Bremen,code04,,,,1649
+2024,Administrative Offense Proceedings,Construction industry,Bremen,code04,,,,183
+2025,Administrative Offense Proceedings,Construction industry,Bremen,code04,,,,192
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Bremen,code04,,,,338
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Bremen,code04,,,,361
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Bremen,code04,,,,23
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Bremen,code04,,,,35
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Bremen,code04,,,,99
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Bremen,code04,,,,47
+2024,Administrative Offense Proceedings,,Hamburg,code02,,,,1234
+2025,Administrative Offense Proceedings,,Hamburg,code02,,,,1619
+2024,Administrative Offense Proceedings,Construction industry,Hamburg,code02,,,,140
+2025,Administrative Offense Proceedings,Construction industry,Hamburg,code02,,,,103
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Hamburg,code02,,,,226
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Hamburg,code02,,,,262
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Hamburg,code02,,,,40
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Hamburg,code02,,,,56
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Hamburg,code02,,,,90
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Hamburg,code02,,,,120
+2024,Administrative Offense Proceedings,,Hesse,code06,,,,4383
+2025,Administrative Offense Proceedings,,Hesse,code06,,,,4611
+2024,Administrative Offense Proceedings,Construction industry,Hesse,code06,,,,870
+2025,Administrative Offense Proceedings,Construction industry,Hesse,code06,,,,788
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Hesse,code06,,,,843
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Hesse,code06,,,,922
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Hesse,code06,,,,89
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Hesse,code06,,,,163
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Hesse,code06,,,,317
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Hesse,code06,,,,326
+2024,Administrative Offense Proceedings,,Mecklenburg Western Pomerania,code13,,,,759
+2025,Administrative Offense Proceedings,,Mecklenburg Western Pomerania,code13,,,,902
+2024,Administrative Offense Proceedings,Construction industry,Mecklenburg Western Pomerania,code13,,,,36
+2025,Administrative Offense Proceedings,Construction industry,Mecklenburg Western Pomerania,code13,,,,62
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Mecklenburg Western Pomerania,code13,,,,243
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Mecklenburg Western Pomerania,code13,,,,210
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Mecklenburg Western Pomerania,code13,,,,64
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Mecklenburg Western Pomerania,code13,,,,35
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Mecklenburg Western Pomerania,code13,,,,34
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Mecklenburg Western Pomerania,code13,,,,9
+2024,Administrative Offense Proceedings,,Lower Saxony,code03,,,,3447
+2025,Administrative Offense Proceedings,,Lower Saxony,code03,,,,4180
+2024,Administrative Offense Proceedings,Construction industry,Lower Saxony,code03,,,,541
+2025,Administrative Offense Proceedings,Construction industry,Lower Saxony,code03,,,,598
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Lower Saxony,code03,,,,1130
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Lower Saxony,code03,,,,1438
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Lower Saxony,code03,,,,79
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Lower Saxony,code03,,,,172
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Lower Saxony,code03,,,,208
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Lower Saxony,code03,,,,253
+2024,Administrative Offense Proceedings,,North Rhine-Westphalia,code05,,,,10079
+2025,Administrative Offense Proceedings,,North Rhine-Westphalia,code05,,,,11214
+2024,Administrative Offense Proceedings,Construction industry,North Rhine-Westphalia,code05,,,,1402
+2025,Administrative Offense Proceedings,Construction industry,North Rhine-Westphalia,code05,,,,1414
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,North Rhine-Westphalia,code05,,,,2313
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,North Rhine-Westphalia,code05,,,,2586
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,North Rhine-Westphalia,code05,,,,354
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,North Rhine-Westphalia,code05,,,,402
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",North Rhine-Westphalia,code05,,,,572
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",North Rhine-Westphalia,code05,,,,737
+2024,Administrative Offense Proceedings,,Rhineland Palatinate,code07,,,,2230
+2025,Administrative Offense Proceedings,,Rhineland Palatinate,code07,,,,2407
+2024,Administrative Offense Proceedings,Construction industry,Rhineland Palatinate,code07,,,,379
+2025,Administrative Offense Proceedings,Construction industry,Rhineland Palatinate,code07,,,,346
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Rhineland Palatinate,code07,,,,505
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Rhineland Palatinate,code07,,,,631
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Rhineland Palatinate,code07,,,,46
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Rhineland Palatinate,code07,,,,67
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Rhineland Palatinate,code07,,,,91
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Rhineland Palatinate,code07,,,,84
+2024,Administrative Offense Proceedings,,Saarland,code10,,,,1349
+2025,Administrative Offense Proceedings,,Saarland,code10,,,,1349
+2024,Administrative Offense Proceedings,Construction industry,Saarland,code10,,,,89
+2025,Administrative Offense Proceedings,Construction industry,Saarland,code10,,,,77
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Saarland,code10,,,,249
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Saarland,code10,,,,214
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Saarland,code10,,,,18
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Saarland,code10,,,,15
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Saarland,code10,,,,83
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Saarland,code10,,,,96
+2024,Administrative Offense Proceedings,,Saxony,code14,,,,1525
+2025,Administrative Offense Proceedings,,Saxony,code14,,,,1413
+2024,Administrative Offense Proceedings,Construction industry,Saxony,code14,,,,334
+2025,Administrative Offense Proceedings,Construction industry,Saxony,code14,,,,303
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Saxony,code14,,,,519
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Saxony,code14,,,,521
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Saxony,code14,,,,31
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Saxony,code14,,,,54
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Saxony,code14,,,,65
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Saxony,code14,,,,72
+2024,Administrative Offense Proceedings,,Saxony-Anhalt,code15,,,,1194
+2025,Administrative Offense Proceedings,,Saxony-Anhalt,code15,,,,1296
+2024,Administrative Offense Proceedings,Construction industry,Saxony-Anhalt,code15,,,,202
+2025,Administrative Offense Proceedings,Construction industry,Saxony-Anhalt,code15,,,,185
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Saxony-Anhalt,code15,,,,254
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Saxony-Anhalt,code15,,,,223
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Saxony-Anhalt,code15,,,,15
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Saxony-Anhalt,code15,,,,36
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Saxony-Anhalt,code15,,,,46
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Saxony-Anhalt,code15,,,,42
+2024,Administrative Offense Proceedings,,Schleswig-Holstein,code01,,,,2344
+2025,Administrative Offense Proceedings,,Schleswig-Holstein,code01,,,,1947
+2024,Administrative Offense Proceedings,Construction industry,Schleswig-Holstein,code01,,,,242
+2025,Administrative Offense Proceedings,Construction industry,Schleswig-Holstein,code01,,,,159
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Schleswig-Holstein,code01,,,,539
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Schleswig-Holstein,code01,,,,494
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Schleswig-Holstein,code01,,,,49
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Schleswig-Holstein,code01,,,,59
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Schleswig-Holstein,code01,,,,187
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Schleswig-Holstein,code01,,,,177
+2024,Administrative Offense Proceedings,,Thuringia,code16,,,,1642
+2025,Administrative Offense Proceedings,,Thuringia,code16,,,,1663
+2024,Administrative Offense Proceedings,Construction industry,Thuringia,code16,,,,213
+2025,Administrative Offense Proceedings,Construction industry,Thuringia,code16,,,,208
+2024,Administrative Offense Proceedings,Restaurant and lodging industry,Thuringia,code16,,,,504
+2025,Administrative Offense Proceedings,Restaurant and lodging industry,Thuringia,code16,,,,526
+2024,Administrative Offense Proceedings,Hairdressing and beauty industry,Thuringia,code16,,,,85
+2025,Administrative Offense Proceedings,Hairdressing and beauty industry,Thuringia,code16,,,,91
+2024,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Thuringia,code16,,,,59
+2025,Administrative Offense Proceedings,"Freight forwarding, transportation, and logistics industry",Thuringia,code16,,,,63
 2024,Criminal Proceedings,,,,,,,96813
 2025,Criminal Proceedings,,,,,,,98186
-2024,Criminal Proceedings,Baden-Württemberg,code08,,,,,11522
-2025,Criminal Proceedings,Baden-Württemberg,code08,,,,,11395
-2024,Criminal Proceedings,Baden-Württemberg,code08,Construction industry,,,,1338
-2025,Criminal Proceedings,Baden-Württemberg,code08,Construction industry,,,,1239
-2024,Criminal Proceedings,Baden-Württemberg,code08,Restaurant and lodging industry,,,,1334
-2025,Criminal Proceedings,Baden-Württemberg,code08,Restaurant and lodging industry,,,,1168
-2024,Criminal Proceedings,Baden-Württemberg,code08,Hairdressing and beauty industry,,,,183
-2025,Criminal Proceedings,Baden-Württemberg,code08,Hairdressing and beauty industry,,,,227
-2024,Criminal Proceedings,Baden-Württemberg,code08,"Freight forwarding, transportation, and logistics industry",,,,462
-2025,Criminal Proceedings,Baden-Württemberg,code08,"Freight forwarding, transportation, and logistics industry",,,,461
-2024,Criminal Proceedings,Bavaria,code09,,,,,12558
-2025,Criminal Proceedings,Bavaria,code09,,,,,12441
-2024,Criminal Proceedings,Bavaria,code09,Construction industry,,,,1228
-2025,Criminal Proceedings,Bavaria,code09,Construction industry,,,,1235
-2024,Criminal Proceedings,Bavaria,code09,Restaurant and lodging industry,,,,1774
-2025,Criminal Proceedings,Bavaria,code09,Restaurant and lodging industry,,,,1614
-2024,Criminal Proceedings,Bavaria,code09,Hairdressing and beauty industry,,,,126
-2025,Criminal Proceedings,Bavaria,code09,Hairdressing and beauty industry,,,,149
-2024,Criminal Proceedings,Bavaria,code09,"Freight forwarding, transportation, and logistics industry",,,,530
-2025,Criminal Proceedings,Bavaria,code09,"Freight forwarding, transportation, and logistics industry",,,,581
-2024,Criminal Proceedings,Berlin,code11,,,,,4200
-2025,Criminal Proceedings,Berlin,code11,,,,,4530
-2024,Criminal Proceedings,Berlin,code11,Construction industry,,,,216
-2025,Criminal Proceedings,Berlin,code11,Construction industry,,,,208
-2024,Criminal Proceedings,Berlin,code11,Restaurant and lodging industry,,,,493
-2025,Criminal Proceedings,Berlin,code11,Restaurant and lodging industry,,,,487
-2024,Criminal Proceedings,Berlin,code11,Hairdressing and beauty industry,,,,116
-2025,Criminal Proceedings,Berlin,code11,Hairdressing and beauty industry,,,,161
-2024,Criminal Proceedings,Berlin,code11,"Freight forwarding, transportation, and logistics industry",,,,108
-2025,Criminal Proceedings,Berlin,code11,"Freight forwarding, transportation, and logistics industry",,,,164
-2024,Criminal Proceedings,Brandenburg,code12,,,,,2794
-2025,Criminal Proceedings,Brandenburg,code12,,,,,2902
-2024,Criminal Proceedings,Brandenburg,code12,Construction industry,,,,267
-2025,Criminal Proceedings,Brandenburg,code12,Construction industry,,,,288
-2024,Criminal Proceedings,Brandenburg,code12,Restaurant and lodging industry,,,,292
-2025,Criminal Proceedings,Brandenburg,code12,Restaurant and lodging industry,,,,294
-2024,Criminal Proceedings,Brandenburg,code12,Hairdressing and beauty industry,,,,37
-2025,Criminal Proceedings,Brandenburg,code12,Hairdressing and beauty industry,,,,55
-2024,Criminal Proceedings,Brandenburg,code12,"Freight forwarding, transportation, and logistics industry",,,,66
-2025,Criminal Proceedings,Brandenburg,code12,"Freight forwarding, transportation, and logistics industry",,,,117
-2024,Criminal Proceedings,Bremen,code04,,,,,3108
-2025,Criminal Proceedings,Bremen,code04,,,,,3493
-2024,Criminal Proceedings,Bremen,code04,Construction industry,,,,178
-2025,Criminal Proceedings,Bremen,code04,Construction industry,,,,192
-2024,Criminal Proceedings,Bremen,code04,Restaurant and lodging industry,,,,268
-2025,Criminal Proceedings,Bremen,code04,Restaurant and lodging industry,,,,299
-2024,Criminal Proceedings,Bremen,code04,Hairdressing and beauty industry,,,,47
-2025,Criminal Proceedings,Bremen,code04,Hairdressing and beauty industry,,,,62
-2024,Criminal Proceedings,Bremen,code04,"Freight forwarding, transportation, and logistics industry",,,,131
-2025,Criminal Proceedings,Bremen,code04,"Freight forwarding, transportation, and logistics industry",,,,109
-2024,Criminal Proceedings,Hamburg,code02,,,,,3817
-2025,Criminal Proceedings,Hamburg,code02,,,,,2896
-2024,Criminal Proceedings,Hamburg,code02,Construction industry,,,,348
-2025,Criminal Proceedings,Hamburg,code02,Construction industry,,,,285
-2024,Criminal Proceedings,Hamburg,code02,Restaurant and lodging industry,,,,549
-2025,Criminal Proceedings,Hamburg,code02,Restaurant and lodging industry,,,,404
-2024,Criminal Proceedings,Hamburg,code02,Hairdressing and beauty industry,,,,104
-2025,Criminal Proceedings,Hamburg,code02,Hairdressing and beauty industry,,,,104
-2024,Criminal Proceedings,Hamburg,code02,"Freight forwarding, transportation, and logistics industry",,,,292
-2025,Criminal Proceedings,Hamburg,code02,"Freight forwarding, transportation, and logistics industry",,,,212
-2024,Criminal Proceedings,Hesse,code06,,,,,7411
-2025,Criminal Proceedings,Hesse,code06,,,,,7984
-2024,Criminal Proceedings,Hesse,code06,Construction industry,,,,1209
-2025,Criminal Proceedings,Hesse,code06,Construction industry,,,,1028
-2024,Criminal Proceedings,Hesse,code06,Restaurant and lodging industry,,,,556
-2025,Criminal Proceedings,Hesse,code06,Restaurant and lodging industry,,,,590
-2024,Criminal Proceedings,Hesse,code06,Hairdressing and beauty industry,,,,80
-2025,Criminal Proceedings,Hesse,code06,Hairdressing and beauty industry,,,,154
-2024,Criminal Proceedings,Hesse,code06,"Freight forwarding, transportation, and logistics industry",,,,225
-2025,Criminal Proceedings,Hesse,code06,"Freight forwarding, transportation, and logistics industry",,,,266
-2024,Criminal Proceedings,Mecklenburg Western Pomerania,code13,,,,,2375
-2025,Criminal Proceedings,Mecklenburg Western Pomerania,code13,,,,,2287
-2024,Criminal Proceedings,Mecklenburg Western Pomerania,code13,Construction industry,,,,111
-2025,Criminal Proceedings,Mecklenburg Western Pomerania,code13,Construction industry,,,,86
-2024,Criminal Proceedings,Mecklenburg Western Pomerania,code13,Restaurant and lodging industry,,,,127
-2025,Criminal Proceedings,Mecklenburg Western Pomerania,code13,Restaurant and lodging industry,,,,117
-2024,Criminal Proceedings,Mecklenburg Western Pomerania,code13,Hairdressing and beauty industry,,,,20
-2025,Criminal Proceedings,Mecklenburg Western Pomerania,code13,Hairdressing and beauty industry,,,,19
-2024,Criminal Proceedings,Mecklenburg Western Pomerania,code13,"Freight forwarding, transportation, and logistics industry",,,,12
-2025,Criminal Proceedings,Mecklenburg Western Pomerania,code13,"Freight forwarding, transportation, and logistics industry",,,,16
-2024,Criminal Proceedings,Lower Saxony,code03,,,,,9076
-2025,Criminal Proceedings,Lower Saxony,code03,,,,,8306
-2024,Criminal Proceedings,Lower Saxony,code03,Construction industry,,,,851
-2025,Criminal Proceedings,Lower Saxony,code03,Construction industry,,,,618
-2024,Criminal Proceedings,Lower Saxony,code03,Restaurant and lodging industry,,,,781
-2025,Criminal Proceedings,Lower Saxony,code03,Restaurant and lodging industry,,,,746
-2024,Criminal Proceedings,Lower Saxony,code03,Hairdressing and beauty industry,,,,56
-2025,Criminal Proceedings,Lower Saxony,code03,Hairdressing and beauty industry,,,,58
-2024,Criminal Proceedings,Lower Saxony,code03,"Freight forwarding, transportation, and logistics industry",,,,323
-2025,Criminal Proceedings,Lower Saxony,code03,"Freight forwarding, transportation, and logistics industry",,,,353
-2024,Criminal Proceedings,North Rhine-Westphalia,code05,,,,,21974
-2025,Criminal Proceedings,North Rhine-Westphalia,code05,,,,,24301
-2024,Criminal Proceedings,North Rhine-Westphalia,code05,Construction industry,,,,2109
-2025,Criminal Proceedings,North Rhine-Westphalia,code05,Construction industry,,,,2121
-2024,Criminal Proceedings,North Rhine-Westphalia,code05,Restaurant and lodging industry,,,,1887
-2025,Criminal Proceedings,North Rhine-Westphalia,code05,Restaurant and lodging industry,,,,1962
-2024,Criminal Proceedings,North Rhine-Westphalia,code05,Hairdressing and beauty industry,,,,382
-2025,Criminal Proceedings,North Rhine-Westphalia,code05,Hairdressing and beauty industry,,,,456
-2024,Criminal Proceedings,North Rhine-Westphalia,code05,"Freight forwarding, transportation, and logistics industry",,,,1391
-2025,Criminal Proceedings,North Rhine-Westphalia,code05,"Freight forwarding, transportation, and logistics industry",,,,1847
-2024,Criminal Proceedings,Rhineland Palatinate,code07,,,,,3690
-2025,Criminal Proceedings,Rhineland Palatinate,code07,,,,,3529
-2024,Criminal Proceedings,Rhineland Palatinate,code07,Construction industry,,,,703
-2025,Criminal Proceedings,Rhineland Palatinate,code07,Construction industry,,,,588
-2024,Criminal Proceedings,Rhineland Palatinate,code07,Restaurant and lodging industry,,,,339
-2025,Criminal Proceedings,Rhineland Palatinate,code07,Restaurant and lodging industry,,,,347
-2024,Criminal Proceedings,Rhineland Palatinate,code07,Hairdressing and beauty industry,,,,65
-2025,Criminal Proceedings,Rhineland Palatinate,code07,Hairdressing and beauty industry,,,,82
-2024,Criminal Proceedings,Rhineland Palatinate,code07,"Freight forwarding, transportation, and logistics industry",,,,121
-2025,Criminal Proceedings,Rhineland Palatinate,code07,"Freight forwarding, transportation, and logistics industry",,,,125
-2024,Criminal Proceedings,Saarland,code10,,,,,2257
-2025,Criminal Proceedings,Saarland,code10,,,,,2032
-2024,Criminal Proceedings,Saarland,code10,Construction industry,,,,147
-2025,Criminal Proceedings,Saarland,code10,Construction industry,,,,166
-2024,Criminal Proceedings,Saarland,code10,Restaurant and lodging industry,,,,317
-2025,Criminal Proceedings,Saarland,code10,Restaurant and lodging industry,,,,249
-2024,Criminal Proceedings,Saarland,code10,Hairdressing and beauty industry,,,,14
-2025,Criminal Proceedings,Saarland,code10,Hairdressing and beauty industry,,,,27
-2024,Criminal Proceedings,Saarland,code10,"Freight forwarding, transportation, and logistics industry",,,,124
-2025,Criminal Proceedings,Saarland,code10,"Freight forwarding, transportation, and logistics industry",,,,132
-2024,Criminal Proceedings,Saxony,code14,,,,,4108
-2025,Criminal Proceedings,Saxony,code14,,,,,3795
-2024,Criminal Proceedings,Saxony,code14,Construction industry,,,,499
-2025,Criminal Proceedings,Saxony,code14,Construction industry,,,,409
-2024,Criminal Proceedings,Saxony,code14,Restaurant and lodging industry,,,,480
-2025,Criminal Proceedings,Saxony,code14,Restaurant and lodging industry,,,,434
-2024,Criminal Proceedings,Saxony,code14,Hairdressing and beauty industry,,,,34
-2025,Criminal Proceedings,Saxony,code14,Hairdressing and beauty industry,,,,57
-2024,Criminal Proceedings,Saxony,code14,"Freight forwarding, transportation, and logistics industry",,,,109
-2025,Criminal Proceedings,Saxony,code14,"Freight forwarding, transportation, and logistics industry",,,,96
-2024,Criminal Proceedings,Saxony-Anhalt,code15,,,,,2092
-2025,Criminal Proceedings,Saxony-Anhalt,code15,,,,,2343
-2024,Criminal Proceedings,Saxony-Anhalt,code15,Construction industry,,,,157
-2025,Criminal Proceedings,Saxony-Anhalt,code15,Construction industry,,,,88
-2024,Criminal Proceedings,Saxony-Anhalt,code15,Restaurant and lodging industry,,,,89
-2025,Criminal Proceedings,Saxony-Anhalt,code15,Restaurant and lodging industry,,,,73
-2024,Criminal Proceedings,Saxony-Anhalt,code15,Hairdressing and beauty industry,,,,9
-2025,Criminal Proceedings,Saxony-Anhalt,code15,Hairdressing and beauty industry,,,,29
-2024,Criminal Proceedings,Saxony-Anhalt,code15,"Freight forwarding, transportation, and logistics industry",,,,34
-2025,Criminal Proceedings,Saxony-Anhalt,code15,"Freight forwarding, transportation, and logistics industry",,,,18
-2024,Criminal Proceedings,Schleswig-Holstein,code01,,,,,3020
-2025,Criminal Proceedings,Schleswig-Holstein,code01,,,,,2683
-2024,Criminal Proceedings,Schleswig-Holstein,code01,Construction industry,,,,319
-2025,Criminal Proceedings,Schleswig-Holstein,code01,Construction industry,,,,219
-2024,Criminal Proceedings,Schleswig-Holstein,code01,Restaurant and lodging industry,,,,454
-2025,Criminal Proceedings,Schleswig-Holstein,code01,Restaurant and lodging industry,,,,438
-2024,Criminal Proceedings,Schleswig-Holstein,code01,Hairdressing and beauty industry,,,,40
-2025,Criminal Proceedings,Schleswig-Holstein,code01,Hairdressing and beauty industry,,,,36
-2024,Criminal Proceedings,Schleswig-Holstein,code01,"Freight forwarding, transportation, and logistics industry",,,,148
-2025,Criminal Proceedings,Schleswig-Holstein,code01,"Freight forwarding, transportation, and logistics industry",,,,124
-2024,Criminal Proceedings,Thuringia,code16,,,,,2754
-2025,Criminal Proceedings,Thuringia,code16,,,,,3213
-2024,Criminal Proceedings,Thuringia,code16,Construction industry,,,,253
-2025,Criminal Proceedings,Thuringia,code16,Construction industry,,,,290
-2024,Criminal Proceedings,Thuringia,code16,Restaurant and lodging industry,,,,267
-2025,Criminal Proceedings,Thuringia,code16,Restaurant and lodging industry,,,,331
-2024,Criminal Proceedings,Thuringia,code16,Hairdressing and beauty industry,,,,34
-2025,Criminal Proceedings,Thuringia,code16,Hairdressing and beauty industry,,,,34
-2024,Criminal Proceedings,Thuringia,code16,"Freight forwarding, transportation, and logistics industry",,,,100
-2025,Criminal Proceedings,Thuringia,code16,"Freight forwarding, transportation, and logistics industry",,,,109
+2024,Criminal Proceedings,Construction industry,,,,,,9946
+2025,Criminal Proceedings,Construction industry,,,,,,9075
+2024,Criminal Proceedings,Restaurant and lodging industry,,,,,,10019
+2025,Criminal Proceedings,Restaurant and lodging industry,,,,,,9568
+2024,Criminal Proceedings,Hairdressing and beauty industry,,,,,,1353
+2025,Criminal Proceedings,Hairdressing and beauty industry,,,,,,1720
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",,,,,,4176
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",,,,,,4735
+2024,Criminal Proceedings,,Baden-Württemberg,code08,,,,11522
+2025,Criminal Proceedings,,Baden-Württemberg,code08,,,,11395
+2024,Criminal Proceedings,Construction industry,Baden-Württemberg,code08,,,,1338
+2025,Criminal Proceedings,Construction industry,Baden-Württemberg,code08,,,,1239
+2024,Criminal Proceedings,Restaurant and lodging industry,Baden-Württemberg,code08,,,,1334
+2025,Criminal Proceedings,Restaurant and lodging industry,Baden-Württemberg,code08,,,,1168
+2024,Criminal Proceedings,Hairdressing and beauty industry,Baden-Württemberg,code08,,,,183
+2025,Criminal Proceedings,Hairdressing and beauty industry,Baden-Württemberg,code08,,,,227
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Baden-Württemberg,code08,,,,462
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Baden-Württemberg,code08,,,,461
+2024,Criminal Proceedings,,Bavaria,code09,,,,12558
+2025,Criminal Proceedings,,Bavaria,code09,,,,12441
+2024,Criminal Proceedings,Construction industry,Bavaria,code09,,,,1228
+2025,Criminal Proceedings,Construction industry,Bavaria,code09,,,,1235
+2024,Criminal Proceedings,Restaurant and lodging industry,Bavaria,code09,,,,1774
+2025,Criminal Proceedings,Restaurant and lodging industry,Bavaria,code09,,,,1614
+2024,Criminal Proceedings,Hairdressing and beauty industry,Bavaria,code09,,,,126
+2025,Criminal Proceedings,Hairdressing and beauty industry,Bavaria,code09,,,,149
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Bavaria,code09,,,,530
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Bavaria,code09,,,,581
+2024,Criminal Proceedings,,Berlin,code11,,,,4200
+2025,Criminal Proceedings,,Berlin,code11,,,,4530
+2024,Criminal Proceedings,Construction industry,Berlin,code11,,,,216
+2025,Criminal Proceedings,Construction industry,Berlin,code11,,,,208
+2024,Criminal Proceedings,Restaurant and lodging industry,Berlin,code11,,,,493
+2025,Criminal Proceedings,Restaurant and lodging industry,Berlin,code11,,,,487
+2024,Criminal Proceedings,Hairdressing and beauty industry,Berlin,code11,,,,116
+2025,Criminal Proceedings,Hairdressing and beauty industry,Berlin,code11,,,,161
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Berlin,code11,,,,108
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Berlin,code11,,,,164
+2024,Criminal Proceedings,,Brandenburg,code12,,,,2794
+2025,Criminal Proceedings,,Brandenburg,code12,,,,2902
+2024,Criminal Proceedings,Construction industry,Brandenburg,code12,,,,267
+2025,Criminal Proceedings,Construction industry,Brandenburg,code12,,,,288
+2024,Criminal Proceedings,Restaurant and lodging industry,Brandenburg,code12,,,,292
+2025,Criminal Proceedings,Restaurant and lodging industry,Brandenburg,code12,,,,294
+2024,Criminal Proceedings,Hairdressing and beauty industry,Brandenburg,code12,,,,37
+2025,Criminal Proceedings,Hairdressing and beauty industry,Brandenburg,code12,,,,55
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Brandenburg,code12,,,,66
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Brandenburg,code12,,,,117
+2024,Criminal Proceedings,,Bremen,code04,,,,3108
+2025,Criminal Proceedings,,Bremen,code04,,,,3493
+2024,Criminal Proceedings,Construction industry,Bremen,code04,,,,178
+2025,Criminal Proceedings,Construction industry,Bremen,code04,,,,192
+2024,Criminal Proceedings,Restaurant and lodging industry,Bremen,code04,,,,268
+2025,Criminal Proceedings,Restaurant and lodging industry,Bremen,code04,,,,299
+2024,Criminal Proceedings,Hairdressing and beauty industry,Bremen,code04,,,,47
+2025,Criminal Proceedings,Hairdressing and beauty industry,Bremen,code04,,,,62
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Bremen,code04,,,,131
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Bremen,code04,,,,109
+2024,Criminal Proceedings,,Hamburg,code02,,,,3817
+2025,Criminal Proceedings,,Hamburg,code02,,,,2896
+2024,Criminal Proceedings,Construction industry,Hamburg,code02,,,,348
+2025,Criminal Proceedings,Construction industry,Hamburg,code02,,,,285
+2024,Criminal Proceedings,Restaurant and lodging industry,Hamburg,code02,,,,549
+2025,Criminal Proceedings,Restaurant and lodging industry,Hamburg,code02,,,,404
+2024,Criminal Proceedings,Hairdressing and beauty industry,Hamburg,code02,,,,104
+2025,Criminal Proceedings,Hairdressing and beauty industry,Hamburg,code02,,,,104
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Hamburg,code02,,,,292
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Hamburg,code02,,,,212
+2024,Criminal Proceedings,,Hesse,code06,,,,7411
+2025,Criminal Proceedings,,Hesse,code06,,,,7984
+2024,Criminal Proceedings,Construction industry,Hesse,code06,,,,1209
+2025,Criminal Proceedings,Construction industry,Hesse,code06,,,,1028
+2024,Criminal Proceedings,Restaurant and lodging industry,Hesse,code06,,,,556
+2025,Criminal Proceedings,Restaurant and lodging industry,Hesse,code06,,,,590
+2024,Criminal Proceedings,Hairdressing and beauty industry,Hesse,code06,,,,80
+2025,Criminal Proceedings,Hairdressing and beauty industry,Hesse,code06,,,,154
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Hesse,code06,,,,225
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Hesse,code06,,,,266
+2024,Criminal Proceedings,,Mecklenburg Western Pomerania,code13,,,,2375
+2025,Criminal Proceedings,,Mecklenburg Western Pomerania,code13,,,,2287
+2024,Criminal Proceedings,Construction industry,Mecklenburg Western Pomerania,code13,,,,111
+2025,Criminal Proceedings,Construction industry,Mecklenburg Western Pomerania,code13,,,,86
+2024,Criminal Proceedings,Restaurant and lodging industry,Mecklenburg Western Pomerania,code13,,,,127
+2025,Criminal Proceedings,Restaurant and lodging industry,Mecklenburg Western Pomerania,code13,,,,117
+2024,Criminal Proceedings,Hairdressing and beauty industry,Mecklenburg Western Pomerania,code13,,,,20
+2025,Criminal Proceedings,Hairdressing and beauty industry,Mecklenburg Western Pomerania,code13,,,,19
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Mecklenburg Western Pomerania,code13,,,,12
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Mecklenburg Western Pomerania,code13,,,,16
+2024,Criminal Proceedings,,Lower Saxony,code03,,,,9076
+2025,Criminal Proceedings,,Lower Saxony,code03,,,,8306
+2024,Criminal Proceedings,Construction industry,Lower Saxony,code03,,,,851
+2025,Criminal Proceedings,Construction industry,Lower Saxony,code03,,,,618
+2024,Criminal Proceedings,Restaurant and lodging industry,Lower Saxony,code03,,,,781
+2025,Criminal Proceedings,Restaurant and lodging industry,Lower Saxony,code03,,,,746
+2024,Criminal Proceedings,Hairdressing and beauty industry,Lower Saxony,code03,,,,56
+2025,Criminal Proceedings,Hairdressing and beauty industry,Lower Saxony,code03,,,,58
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Lower Saxony,code03,,,,323
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Lower Saxony,code03,,,,353
+2024,Criminal Proceedings,,North Rhine-Westphalia,code05,,,,21974
+2025,Criminal Proceedings,,North Rhine-Westphalia,code05,,,,24301
+2024,Criminal Proceedings,Construction industry,North Rhine-Westphalia,code05,,,,2109
+2025,Criminal Proceedings,Construction industry,North Rhine-Westphalia,code05,,,,2121
+2024,Criminal Proceedings,Restaurant and lodging industry,North Rhine-Westphalia,code05,,,,1887
+2025,Criminal Proceedings,Restaurant and lodging industry,North Rhine-Westphalia,code05,,,,1962
+2024,Criminal Proceedings,Hairdressing and beauty industry,North Rhine-Westphalia,code05,,,,382
+2025,Criminal Proceedings,Hairdressing and beauty industry,North Rhine-Westphalia,code05,,,,456
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",North Rhine-Westphalia,code05,,,,1391
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",North Rhine-Westphalia,code05,,,,1847
+2024,Criminal Proceedings,,Rhineland Palatinate,code07,,,,3690
+2025,Criminal Proceedings,,Rhineland Palatinate,code07,,,,3529
+2024,Criminal Proceedings,Construction industry,Rhineland Palatinate,code07,,,,703
+2025,Criminal Proceedings,Construction industry,Rhineland Palatinate,code07,,,,588
+2024,Criminal Proceedings,Restaurant and lodging industry,Rhineland Palatinate,code07,,,,339
+2025,Criminal Proceedings,Restaurant and lodging industry,Rhineland Palatinate,code07,,,,347
+2024,Criminal Proceedings,Hairdressing and beauty industry,Rhineland Palatinate,code07,,,,65
+2025,Criminal Proceedings,Hairdressing and beauty industry,Rhineland Palatinate,code07,,,,82
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Rhineland Palatinate,code07,,,,121
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Rhineland Palatinate,code07,,,,125
+2024,Criminal Proceedings,,Saarland,code10,,,,2257
+2025,Criminal Proceedings,,Saarland,code10,,,,2032
+2024,Criminal Proceedings,Construction industry,Saarland,code10,,,,147
+2025,Criminal Proceedings,Construction industry,Saarland,code10,,,,166
+2024,Criminal Proceedings,Restaurant and lodging industry,Saarland,code10,,,,317
+2025,Criminal Proceedings,Restaurant and lodging industry,Saarland,code10,,,,249
+2024,Criminal Proceedings,Hairdressing and beauty industry,Saarland,code10,,,,14
+2025,Criminal Proceedings,Hairdressing and beauty industry,Saarland,code10,,,,27
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Saarland,code10,,,,124
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Saarland,code10,,,,132
+2024,Criminal Proceedings,,Saxony,code14,,,,4108
+2025,Criminal Proceedings,,Saxony,code14,,,,3795
+2024,Criminal Proceedings,Construction industry,Saxony,code14,,,,499
+2025,Criminal Proceedings,Construction industry,Saxony,code14,,,,409
+2024,Criminal Proceedings,Restaurant and lodging industry,Saxony,code14,,,,480
+2025,Criminal Proceedings,Restaurant and lodging industry,Saxony,code14,,,,434
+2024,Criminal Proceedings,Hairdressing and beauty industry,Saxony,code14,,,,34
+2025,Criminal Proceedings,Hairdressing and beauty industry,Saxony,code14,,,,57
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Saxony,code14,,,,109
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Saxony,code14,,,,96
+2024,Criminal Proceedings,,Saxony-Anhalt,code15,,,,2092
+2025,Criminal Proceedings,,Saxony-Anhalt,code15,,,,2343
+2024,Criminal Proceedings,Construction industry,Saxony-Anhalt,code15,,,,157
+2025,Criminal Proceedings,Construction industry,Saxony-Anhalt,code15,,,,88
+2024,Criminal Proceedings,Restaurant and lodging industry,Saxony-Anhalt,code15,,,,89
+2025,Criminal Proceedings,Restaurant and lodging industry,Saxony-Anhalt,code15,,,,73
+2024,Criminal Proceedings,Hairdressing and beauty industry,Saxony-Anhalt,code15,,,,9
+2025,Criminal Proceedings,Hairdressing and beauty industry,Saxony-Anhalt,code15,,,,29
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Saxony-Anhalt,code15,,,,34
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Saxony-Anhalt,code15,,,,18
+2024,Criminal Proceedings,,Schleswig-Holstein,code01,,,,3020
+2025,Criminal Proceedings,,Schleswig-Holstein,code01,,,,2683
+2024,Criminal Proceedings,Construction industry,Schleswig-Holstein,code01,,,,319
+2025,Criminal Proceedings,Construction industry,Schleswig-Holstein,code01,,,,219
+2024,Criminal Proceedings,Restaurant and lodging industry,Schleswig-Holstein,code01,,,,454
+2025,Criminal Proceedings,Restaurant and lodging industry,Schleswig-Holstein,code01,,,,438
+2024,Criminal Proceedings,Hairdressing and beauty industry,Schleswig-Holstein,code01,,,,40
+2025,Criminal Proceedings,Hairdressing and beauty industry,Schleswig-Holstein,code01,,,,36
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Schleswig-Holstein,code01,,,,148
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Schleswig-Holstein,code01,,,,124
+2024,Criminal Proceedings,,Thuringia,code16,,,,2754
+2025,Criminal Proceedings,,Thuringia,code16,,,,3213
+2024,Criminal Proceedings,Construction industry,Thuringia,code16,,,,253
+2025,Criminal Proceedings,Construction industry,Thuringia,code16,,,,290
+2024,Criminal Proceedings,Restaurant and lodging industry,Thuringia,code16,,,,267
+2025,Criminal Proceedings,Restaurant and lodging industry,Thuringia,code16,,,,331
+2024,Criminal Proceedings,Hairdressing and beauty industry,Thuringia,code16,,,,34
+2025,Criminal Proceedings,Hairdressing and beauty industry,Thuringia,code16,,,,34
+2024,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Thuringia,code16,,,,100
+2025,Criminal Proceedings,"Freight forwarding, transportation, and logistics industry",Thuringia,code16,,,,109

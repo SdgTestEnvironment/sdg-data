@@ -3434,6 +3434,19 @@
             }
           },
           {
+            "name": "industry",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "construction industry",
+                "restaurant and lodging industry",
+                "hairdressing and beauty industry",
+                "freight forwarding, transportation, and logistics industry",
+                ""
+              ]
+            }
+          },
+          {
             "name": "länder",
             "type": "string",
             "constraints": {
@@ -3461,19 +3474,6 @@
           {
             "name": "GeoCode",
             "type": "string"
-          },
-          {
-            "name": "industry",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "construction industry",
-                "restaurant and lodging industry",
-                "hairdressing and beauty industry",
-                "freight forwarding, transportation, and logistics industry",
-                ""
-              ]
-            }
           },
           {
             "name": "COMMENT_OBS_0",

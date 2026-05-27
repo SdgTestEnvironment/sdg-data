@@ -1,325 +1,341 @@
-Year,Art des Verfahrens,Bundesland,GeoCode,Branche,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+Year,Art des Verfahrens,Branche,Bundesland,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2024,Ordnungswidrigkeitenverfahren,,,,,,,49686
 2025,Ordnungswidrigkeitenverfahren,,,,,,,52125
-2024,Ordnungswidrigkeitenverfahren,Baden-Württemberg,code08,,,,,7404
-2025,Ordnungswidrigkeitenverfahren,Baden-Württemberg,code08,,,,,7074
-2024,Ordnungswidrigkeitenverfahren,Baden-Württemberg,code08,Baugewerbe,,,,919
-2025,Ordnungswidrigkeitenverfahren,Baden-Württemberg,code08,Baugewerbe,,,,946
-2024,Ordnungswidrigkeitenverfahren,Baden-Württemberg,code08,Gaststätten- und Beherbergungsgewerbe,,,,1909
-2025,Ordnungswidrigkeitenverfahren,Baden-Württemberg,code08,Gaststätten- und Beherbergungsgewerbe,,,,1830
-2024,Ordnungswidrigkeitenverfahren,Baden-Württemberg,code08,Frisör- und Kosmetikgewerbe,,,,199
-2025,Ordnungswidrigkeitenverfahren,Baden-Württemberg,code08,Frisör- und Kosmetikgewerbe,,,,228
-2024,Ordnungswidrigkeitenverfahren,Baden-Württemberg,code08,"Speditions-, Transport- und Logistikgewerbe",,,,432
-2025,Ordnungswidrigkeitenverfahren,Baden-Württemberg,code08,"Speditions-, Transport- und Logistikgewerbe",,,,389
-2024,Ordnungswidrigkeitenverfahren,Bayern,code09,,,,,6658
-2025,Ordnungswidrigkeitenverfahren,Bayern,code09,,,,,6569
-2024,Ordnungswidrigkeitenverfahren,Bayern,code09,Baugewerbe,,,,905
-2025,Ordnungswidrigkeitenverfahren,Bayern,code09,Baugewerbe,,,,917
-2024,Ordnungswidrigkeitenverfahren,Bayern,code09,Gaststätten- und Beherbergungsgewerbe,,,,1697
-2025,Ordnungswidrigkeitenverfahren,Bayern,code09,Gaststätten- und Beherbergungsgewerbe,,,,1742
-2024,Ordnungswidrigkeitenverfahren,Bayern,code09,Frisör- und Kosmetikgewerbe,,,,164
-2025,Ordnungswidrigkeitenverfahren,Bayern,code09,Frisör- und Kosmetikgewerbe,,,,212
-2024,Ordnungswidrigkeitenverfahren,Bayern,code09,"Speditions-, Transport- und Logistikgewerbe",,,,702
-2025,Ordnungswidrigkeitenverfahren,Bayern,code09,"Speditions-, Transport- und Logistikgewerbe",,,,442
-2024,Ordnungswidrigkeitenverfahren,Berlin,code11,,,,,1714
-2025,Ordnungswidrigkeitenverfahren,Berlin,code11,,,,,2452
-2024,Ordnungswidrigkeitenverfahren,Berlin,code11,Baugewerbe,,,,150
-2025,Ordnungswidrigkeitenverfahren,Berlin,code11,Baugewerbe,,,,379
-2024,Ordnungswidrigkeitenverfahren,Berlin,code11,Gaststätten- und Beherbergungsgewerbe,,,,718
-2025,Ordnungswidrigkeitenverfahren,Berlin,code11,Gaststätten- und Beherbergungsgewerbe,,,,1038
-2024,Ordnungswidrigkeitenverfahren,Berlin,code11,Frisör- und Kosmetikgewerbe,,,,95
-2025,Ordnungswidrigkeitenverfahren,Berlin,code11,Frisör- und Kosmetikgewerbe,,,,117
-2024,Ordnungswidrigkeitenverfahren,Berlin,code11,"Speditions-, Transport- und Logistikgewerbe",,,,108
-2025,Ordnungswidrigkeitenverfahren,Berlin,code11,"Speditions-, Transport- und Logistikgewerbe",,,,143
-2024,Ordnungswidrigkeitenverfahren,Brandenburg,code12,,,,,1355
-2025,Ordnungswidrigkeitenverfahren,Brandenburg,code12,,,,,1335
-2024,Ordnungswidrigkeitenverfahren,Brandenburg,code12,Baugewerbe,,,,195
-2025,Ordnungswidrigkeitenverfahren,Brandenburg,code12,Baugewerbe,,,,175
-2024,Ordnungswidrigkeitenverfahren,Brandenburg,code12,Gaststätten- und Beherbergungsgewerbe,,,,320
-2025,Ordnungswidrigkeitenverfahren,Brandenburg,code12,Gaststätten- und Beherbergungsgewerbe,,,,398
-2024,Ordnungswidrigkeitenverfahren,Brandenburg,code12,Frisör- und Kosmetikgewerbe,,,,29
-2025,Ordnungswidrigkeitenverfahren,Brandenburg,code12,Frisör- und Kosmetikgewerbe,,,,54
-2024,Ordnungswidrigkeitenverfahren,Brandenburg,code12,"Speditions-, Transport- und Logistikgewerbe",,,,49
-2025,Ordnungswidrigkeitenverfahren,Brandenburg,code12,"Speditions-, Transport- und Logistikgewerbe",,,,87
-2024,Ordnungswidrigkeitenverfahren,Bremen,code04,,,,,2028
-2025,Ordnungswidrigkeitenverfahren,Bremen,code04,,,,,1649
-2024,Ordnungswidrigkeitenverfahren,Bremen,code04,Baugewerbe,,,,183
-2025,Ordnungswidrigkeitenverfahren,Bremen,code04,Baugewerbe,,,,192
-2024,Ordnungswidrigkeitenverfahren,Bremen,code04,Gaststätten- und Beherbergungsgewerbe,,,,338
-2025,Ordnungswidrigkeitenverfahren,Bremen,code04,Gaststätten- und Beherbergungsgewerbe,,,,361
-2024,Ordnungswidrigkeitenverfahren,Bremen,code04,Frisör- und Kosmetikgewerbe,,,,23
-2025,Ordnungswidrigkeitenverfahren,Bremen,code04,Frisör- und Kosmetikgewerbe,,,,35
-2024,Ordnungswidrigkeitenverfahren,Bremen,code04,"Speditions-, Transport- und Logistikgewerbe",,,,99
-2025,Ordnungswidrigkeitenverfahren,Bremen,code04,"Speditions-, Transport- und Logistikgewerbe",,,,47
-2024,Ordnungswidrigkeitenverfahren,Hamburg,code02,,,,,1234
-2025,Ordnungswidrigkeitenverfahren,Hamburg,code02,,,,,1619
-2024,Ordnungswidrigkeitenverfahren,Hamburg,code02,Baugewerbe,,,,140
-2025,Ordnungswidrigkeitenverfahren,Hamburg,code02,Baugewerbe,,,,103
-2024,Ordnungswidrigkeitenverfahren,Hamburg,code02,Gaststätten- und Beherbergungsgewerbe,,,,226
-2025,Ordnungswidrigkeitenverfahren,Hamburg,code02,Gaststätten- und Beherbergungsgewerbe,,,,262
-2024,Ordnungswidrigkeitenverfahren,Hamburg,code02,Frisör- und Kosmetikgewerbe,,,,40
-2025,Ordnungswidrigkeitenverfahren,Hamburg,code02,Frisör- und Kosmetikgewerbe,,,,56
-2024,Ordnungswidrigkeitenverfahren,Hamburg,code02,"Speditions-, Transport- und Logistikgewerbe",,,,90
-2025,Ordnungswidrigkeitenverfahren,Hamburg,code02,"Speditions-, Transport- und Logistikgewerbe",,,,120
-2024,Ordnungswidrigkeitenverfahren,Hessen,code06,,,,,4383
-2025,Ordnungswidrigkeitenverfahren,Hessen,code06,,,,,4611
-2024,Ordnungswidrigkeitenverfahren,Hessen,code06,Baugewerbe,,,,870
-2025,Ordnungswidrigkeitenverfahren,Hessen,code06,Baugewerbe,,,,788
-2024,Ordnungswidrigkeitenverfahren,Hessen,code06,Gaststätten- und Beherbergungsgewerbe,,,,843
-2025,Ordnungswidrigkeitenverfahren,Hessen,code06,Gaststätten- und Beherbergungsgewerbe,,,,922
-2024,Ordnungswidrigkeitenverfahren,Hessen,code06,Frisör- und Kosmetikgewerbe,,,,89
-2025,Ordnungswidrigkeitenverfahren,Hessen,code06,Frisör- und Kosmetikgewerbe,,,,163
-2024,Ordnungswidrigkeitenverfahren,Hessen,code06,"Speditions-, Transport- und Logistikgewerbe",,,,317
-2025,Ordnungswidrigkeitenverfahren,Hessen,code06,"Speditions-, Transport- und Logistikgewerbe",,,,326
-2024,Ordnungswidrigkeitenverfahren,Mecklenburg-Vorpommern,code13,,,,,759
-2025,Ordnungswidrigkeitenverfahren,Mecklenburg-Vorpommern,code13,,,,,902
-2024,Ordnungswidrigkeitenverfahren,Mecklenburg-Vorpommern,code13,Baugewerbe,,,,36
-2025,Ordnungswidrigkeitenverfahren,Mecklenburg-Vorpommern,code13,Baugewerbe,,,,62
-2024,Ordnungswidrigkeitenverfahren,Mecklenburg-Vorpommern,code13,Gaststätten- und Beherbergungsgewerbe,,,,243
-2025,Ordnungswidrigkeitenverfahren,Mecklenburg-Vorpommern,code13,Gaststätten- und Beherbergungsgewerbe,,,,210
-2024,Ordnungswidrigkeitenverfahren,Mecklenburg-Vorpommern,code13,Frisör- und Kosmetikgewerbe,,,,64
-2025,Ordnungswidrigkeitenverfahren,Mecklenburg-Vorpommern,code13,Frisör- und Kosmetikgewerbe,,,,35
-2024,Ordnungswidrigkeitenverfahren,Mecklenburg-Vorpommern,code13,"Speditions-, Transport- und Logistikgewerbe",,,,34
-2025,Ordnungswidrigkeitenverfahren,Mecklenburg-Vorpommern,code13,"Speditions-, Transport- und Logistikgewerbe",,,,9
-2024,Ordnungswidrigkeitenverfahren,Niedersachsen,code03,,,,,3447
-2025,Ordnungswidrigkeitenverfahren,Niedersachsen,code03,,,,,4180
-2024,Ordnungswidrigkeitenverfahren,Niedersachsen,code03,Baugewerbe,,,,541
-2025,Ordnungswidrigkeitenverfahren,Niedersachsen,code03,Baugewerbe,,,,598
-2024,Ordnungswidrigkeitenverfahren,Niedersachsen,code03,Gaststätten- und Beherbergungsgewerbe,,,,1130
-2025,Ordnungswidrigkeitenverfahren,Niedersachsen,code03,Gaststätten- und Beherbergungsgewerbe,,,,1438
-2024,Ordnungswidrigkeitenverfahren,Niedersachsen,code03,Frisör- und Kosmetikgewerbe,,,,79
-2025,Ordnungswidrigkeitenverfahren,Niedersachsen,code03,Frisör- und Kosmetikgewerbe,,,,172
-2024,Ordnungswidrigkeitenverfahren,Niedersachsen,code03,"Speditions-, Transport- und Logistikgewerbe",,,,208
-2025,Ordnungswidrigkeitenverfahren,Niedersachsen,code03,"Speditions-, Transport- und Logistikgewerbe",,,,253
-2024,Ordnungswidrigkeitenverfahren,Nordrhein-Westfalen,code05,,,,,10079
-2025,Ordnungswidrigkeitenverfahren,Nordrhein-Westfalen,code05,,,,,11214
-2024,Ordnungswidrigkeitenverfahren,Nordrhein-Westfalen,code05,Baugewerbe,,,,1402
-2025,Ordnungswidrigkeitenverfahren,Nordrhein-Westfalen,code05,Baugewerbe,,,,1414
-2024,Ordnungswidrigkeitenverfahren,Nordrhein-Westfalen,code05,Gaststätten- und Beherbergungsgewerbe,,,,2313
-2025,Ordnungswidrigkeitenverfahren,Nordrhein-Westfalen,code05,Gaststätten- und Beherbergungsgewerbe,,,,2586
-2024,Ordnungswidrigkeitenverfahren,Nordrhein-Westfalen,code05,Frisör- und Kosmetikgewerbe,,,,354
-2025,Ordnungswidrigkeitenverfahren,Nordrhein-Westfalen,code05,Frisör- und Kosmetikgewerbe,,,,402
-2024,Ordnungswidrigkeitenverfahren,Nordrhein-Westfalen,code05,"Speditions-, Transport- und Logistikgewerbe",,,,572
-2025,Ordnungswidrigkeitenverfahren,Nordrhein-Westfalen,code05,"Speditions-, Transport- und Logistikgewerbe",,,,737
-2024,Ordnungswidrigkeitenverfahren,Rheinland-Pfalz,code07,,,,,2230
-2025,Ordnungswidrigkeitenverfahren,Rheinland-Pfalz,code07,,,,,2407
-2024,Ordnungswidrigkeitenverfahren,Rheinland-Pfalz,code07,Baugewerbe,,,,379
-2025,Ordnungswidrigkeitenverfahren,Rheinland-Pfalz,code07,Baugewerbe,,,,346
-2024,Ordnungswidrigkeitenverfahren,Rheinland-Pfalz,code07,Gaststätten- und Beherbergungsgewerbe,,,,505
-2025,Ordnungswidrigkeitenverfahren,Rheinland-Pfalz,code07,Gaststätten- und Beherbergungsgewerbe,,,,631
-2024,Ordnungswidrigkeitenverfahren,Rheinland-Pfalz,code07,Frisör- und Kosmetikgewerbe,,,,46
-2025,Ordnungswidrigkeitenverfahren,Rheinland-Pfalz,code07,Frisör- und Kosmetikgewerbe,,,,67
-2024,Ordnungswidrigkeitenverfahren,Rheinland-Pfalz,code07,"Speditions-, Transport- und Logistikgewerbe",,,,91
-2025,Ordnungswidrigkeitenverfahren,Rheinland-Pfalz,code07,"Speditions-, Transport- und Logistikgewerbe",,,,84
-2024,Ordnungswidrigkeitenverfahren,Saarland,code10,,,,,1349
-2025,Ordnungswidrigkeitenverfahren,Saarland,code10,,,,,1349
-2024,Ordnungswidrigkeitenverfahren,Saarland,code10,Baugewerbe,,,,89
-2025,Ordnungswidrigkeitenverfahren,Saarland,code10,Baugewerbe,,,,77
-2024,Ordnungswidrigkeitenverfahren,Saarland,code10,Gaststätten- und Beherbergungsgewerbe,,,,249
-2025,Ordnungswidrigkeitenverfahren,Saarland,code10,Gaststätten- und Beherbergungsgewerbe,,,,214
-2024,Ordnungswidrigkeitenverfahren,Saarland,code10,Frisör- und Kosmetikgewerbe,,,,18
-2025,Ordnungswidrigkeitenverfahren,Saarland,code10,Frisör- und Kosmetikgewerbe,,,,15
-2024,Ordnungswidrigkeitenverfahren,Saarland,code10,"Speditions-, Transport- und Logistikgewerbe",,,,83
-2025,Ordnungswidrigkeitenverfahren,Saarland,code10,"Speditions-, Transport- und Logistikgewerbe",,,,96
-2024,Ordnungswidrigkeitenverfahren,Sachsen,code14,,,,,1525
-2025,Ordnungswidrigkeitenverfahren,Sachsen,code14,,,,,1413
-2024,Ordnungswidrigkeitenverfahren,Sachsen,code14,Baugewerbe,,,,334
-2025,Ordnungswidrigkeitenverfahren,Sachsen,code14,Baugewerbe,,,,303
-2024,Ordnungswidrigkeitenverfahren,Sachsen,code14,Gaststätten- und Beherbergungsgewerbe,,,,519
-2025,Ordnungswidrigkeitenverfahren,Sachsen,code14,Gaststätten- und Beherbergungsgewerbe,,,,521
-2024,Ordnungswidrigkeitenverfahren,Sachsen,code14,Frisör- und Kosmetikgewerbe,,,,31
-2025,Ordnungswidrigkeitenverfahren,Sachsen,code14,Frisör- und Kosmetikgewerbe,,,,54
-2024,Ordnungswidrigkeitenverfahren,Sachsen,code14,"Speditions-, Transport- und Logistikgewerbe",,,,65
-2025,Ordnungswidrigkeitenverfahren,Sachsen,code14,"Speditions-, Transport- und Logistikgewerbe",,,,72
-2024,Ordnungswidrigkeitenverfahren,Sachsen-Anhalt,code15,,,,,1194
-2025,Ordnungswidrigkeitenverfahren,Sachsen-Anhalt,code15,,,,,1296
-2024,Ordnungswidrigkeitenverfahren,Sachsen-Anhalt,code15,Baugewerbe,,,,202
-2025,Ordnungswidrigkeitenverfahren,Sachsen-Anhalt,code15,Baugewerbe,,,,185
-2024,Ordnungswidrigkeitenverfahren,Sachsen-Anhalt,code15,Gaststätten- und Beherbergungsgewerbe,,,,254
-2025,Ordnungswidrigkeitenverfahren,Sachsen-Anhalt,code15,Gaststätten- und Beherbergungsgewerbe,,,,223
-2024,Ordnungswidrigkeitenverfahren,Sachsen-Anhalt,code15,Frisör- und Kosmetikgewerbe,,,,15
-2025,Ordnungswidrigkeitenverfahren,Sachsen-Anhalt,code15,Frisör- und Kosmetikgewerbe,,,,36
-2024,Ordnungswidrigkeitenverfahren,Sachsen-Anhalt,code15,"Speditions-, Transport- und Logistikgewerbe",,,,46
-2025,Ordnungswidrigkeitenverfahren,Sachsen-Anhalt,code15,"Speditions-, Transport- und Logistikgewerbe",,,,42
-2024,Ordnungswidrigkeitenverfahren,Schleswig-Holstein,code01,,,,,2344
-2025,Ordnungswidrigkeitenverfahren,Schleswig-Holstein,code01,,,,,1947
-2024,Ordnungswidrigkeitenverfahren,Schleswig-Holstein,code01,Baugewerbe,,,,242
-2025,Ordnungswidrigkeitenverfahren,Schleswig-Holstein,code01,Baugewerbe,,,,159
-2024,Ordnungswidrigkeitenverfahren,Schleswig-Holstein,code01,Gaststätten- und Beherbergungsgewerbe,,,,539
-2025,Ordnungswidrigkeitenverfahren,Schleswig-Holstein,code01,Gaststätten- und Beherbergungsgewerbe,,,,494
-2024,Ordnungswidrigkeitenverfahren,Schleswig-Holstein,code01,Frisör- und Kosmetikgewerbe,,,,49
-2025,Ordnungswidrigkeitenverfahren,Schleswig-Holstein,code01,Frisör- und Kosmetikgewerbe,,,,59
-2024,Ordnungswidrigkeitenverfahren,Schleswig-Holstein,code01,"Speditions-, Transport- und Logistikgewerbe",,,,187
-2025,Ordnungswidrigkeitenverfahren,Schleswig-Holstein,code01,"Speditions-, Transport- und Logistikgewerbe",,,,177
-2024,Ordnungswidrigkeitenverfahren,Thüringen,code16,,,,,1642
-2025,Ordnungswidrigkeitenverfahren,Thüringen,code16,,,,,1663
-2024,Ordnungswidrigkeitenverfahren,Thüringen,code16,Baugewerbe,,,,213
-2025,Ordnungswidrigkeitenverfahren,Thüringen,code16,Baugewerbe,,,,208
-2024,Ordnungswidrigkeitenverfahren,Thüringen,code16,Gaststätten- und Beherbergungsgewerbe,,,,504
-2025,Ordnungswidrigkeitenverfahren,Thüringen,code16,Gaststätten- und Beherbergungsgewerbe,,,,526
-2024,Ordnungswidrigkeitenverfahren,Thüringen,code16,Frisör- und Kosmetikgewerbe,,,,85
-2025,Ordnungswidrigkeitenverfahren,Thüringen,code16,Frisör- und Kosmetikgewerbe,,,,91
-2024,Ordnungswidrigkeitenverfahren,Thüringen,code16,"Speditions-, Transport- und Logistikgewerbe",,,,59
-2025,Ordnungswidrigkeitenverfahren,Thüringen,code16,"Speditions-, Transport- und Logistikgewerbe",,,,63
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,,,,,,6856
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,,,,,,6888
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,,,,,,12440
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,,,,,,13593
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,,,,,,1406
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,,,,,,1863
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",,,,,,3169
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",,,,,,3107
+2024,Ordnungswidrigkeitenverfahren,,Baden-Württemberg,code08,,,,7404
+2025,Ordnungswidrigkeitenverfahren,,Baden-Württemberg,code08,,,,7074
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Baden-Württemberg,code08,,,,919
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Baden-Württemberg,code08,,,,946
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Baden-Württemberg,code08,,,,1909
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Baden-Württemberg,code08,,,,1830
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Baden-Württemberg,code08,,,,199
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Baden-Württemberg,code08,,,,228
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Baden-Württemberg,code08,,,,432
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Baden-Württemberg,code08,,,,389
+2024,Ordnungswidrigkeitenverfahren,,Bayern,code09,,,,6658
+2025,Ordnungswidrigkeitenverfahren,,Bayern,code09,,,,6569
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Bayern,code09,,,,905
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Bayern,code09,,,,917
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Bayern,code09,,,,1697
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Bayern,code09,,,,1742
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Bayern,code09,,,,164
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Bayern,code09,,,,212
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Bayern,code09,,,,702
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Bayern,code09,,,,442
+2024,Ordnungswidrigkeitenverfahren,,Berlin,code11,,,,1714
+2025,Ordnungswidrigkeitenverfahren,,Berlin,code11,,,,2452
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Berlin,code11,,,,150
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Berlin,code11,,,,379
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Berlin,code11,,,,718
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Berlin,code11,,,,1038
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Berlin,code11,,,,95
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Berlin,code11,,,,117
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Berlin,code11,,,,108
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Berlin,code11,,,,143
+2024,Ordnungswidrigkeitenverfahren,,Brandenburg,code12,,,,1355
+2025,Ordnungswidrigkeitenverfahren,,Brandenburg,code12,,,,1335
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Brandenburg,code12,,,,195
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Brandenburg,code12,,,,175
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Brandenburg,code12,,,,320
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Brandenburg,code12,,,,398
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Brandenburg,code12,,,,29
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Brandenburg,code12,,,,54
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Brandenburg,code12,,,,49
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Brandenburg,code12,,,,87
+2024,Ordnungswidrigkeitenverfahren,,Bremen,code04,,,,2028
+2025,Ordnungswidrigkeitenverfahren,,Bremen,code04,,,,1649
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Bremen,code04,,,,183
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Bremen,code04,,,,192
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Bremen,code04,,,,338
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Bremen,code04,,,,361
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Bremen,code04,,,,23
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Bremen,code04,,,,35
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Bremen,code04,,,,99
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Bremen,code04,,,,47
+2024,Ordnungswidrigkeitenverfahren,,Hamburg,code02,,,,1234
+2025,Ordnungswidrigkeitenverfahren,,Hamburg,code02,,,,1619
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Hamburg,code02,,,,140
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Hamburg,code02,,,,103
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Hamburg,code02,,,,226
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Hamburg,code02,,,,262
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Hamburg,code02,,,,40
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Hamburg,code02,,,,56
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Hamburg,code02,,,,90
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Hamburg,code02,,,,120
+2024,Ordnungswidrigkeitenverfahren,,Hessen,code06,,,,4383
+2025,Ordnungswidrigkeitenverfahren,,Hessen,code06,,,,4611
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Hessen,code06,,,,870
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Hessen,code06,,,,788
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Hessen,code06,,,,843
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Hessen,code06,,,,922
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Hessen,code06,,,,89
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Hessen,code06,,,,163
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Hessen,code06,,,,317
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Hessen,code06,,,,326
+2024,Ordnungswidrigkeitenverfahren,,Mecklenburg-Vorpommern,code13,,,,759
+2025,Ordnungswidrigkeitenverfahren,,Mecklenburg-Vorpommern,code13,,,,902
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Mecklenburg-Vorpommern,code13,,,,36
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Mecklenburg-Vorpommern,code13,,,,62
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Mecklenburg-Vorpommern,code13,,,,243
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Mecklenburg-Vorpommern,code13,,,,210
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Mecklenburg-Vorpommern,code13,,,,64
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Mecklenburg-Vorpommern,code13,,,,35
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Mecklenburg-Vorpommern,code13,,,,34
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Mecklenburg-Vorpommern,code13,,,,9
+2024,Ordnungswidrigkeitenverfahren,,Niedersachsen,code03,,,,3447
+2025,Ordnungswidrigkeitenverfahren,,Niedersachsen,code03,,,,4180
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Niedersachsen,code03,,,,541
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Niedersachsen,code03,,,,598
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Niedersachsen,code03,,,,1130
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Niedersachsen,code03,,,,1438
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Niedersachsen,code03,,,,79
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Niedersachsen,code03,,,,172
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Niedersachsen,code03,,,,208
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Niedersachsen,code03,,,,253
+2024,Ordnungswidrigkeitenverfahren,,Nordrhein-Westfalen,code05,,,,10079
+2025,Ordnungswidrigkeitenverfahren,,Nordrhein-Westfalen,code05,,,,11214
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Nordrhein-Westfalen,code05,,,,1402
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Nordrhein-Westfalen,code05,,,,1414
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Nordrhein-Westfalen,code05,,,,2313
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Nordrhein-Westfalen,code05,,,,2586
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Nordrhein-Westfalen,code05,,,,354
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Nordrhein-Westfalen,code05,,,,402
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Nordrhein-Westfalen,code05,,,,572
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Nordrhein-Westfalen,code05,,,,737
+2024,Ordnungswidrigkeitenverfahren,,Rheinland-Pfalz,code07,,,,2230
+2025,Ordnungswidrigkeitenverfahren,,Rheinland-Pfalz,code07,,,,2407
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Rheinland-Pfalz,code07,,,,379
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Rheinland-Pfalz,code07,,,,346
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Rheinland-Pfalz,code07,,,,505
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Rheinland-Pfalz,code07,,,,631
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Rheinland-Pfalz,code07,,,,46
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Rheinland-Pfalz,code07,,,,67
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Rheinland-Pfalz,code07,,,,91
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Rheinland-Pfalz,code07,,,,84
+2024,Ordnungswidrigkeitenverfahren,,Saarland,code10,,,,1349
+2025,Ordnungswidrigkeitenverfahren,,Saarland,code10,,,,1349
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Saarland,code10,,,,89
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Saarland,code10,,,,77
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Saarland,code10,,,,249
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Saarland,code10,,,,214
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Saarland,code10,,,,18
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Saarland,code10,,,,15
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Saarland,code10,,,,83
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Saarland,code10,,,,96
+2024,Ordnungswidrigkeitenverfahren,,Sachsen,code14,,,,1525
+2025,Ordnungswidrigkeitenverfahren,,Sachsen,code14,,,,1413
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Sachsen,code14,,,,334
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Sachsen,code14,,,,303
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Sachsen,code14,,,,519
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Sachsen,code14,,,,521
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Sachsen,code14,,,,31
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Sachsen,code14,,,,54
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Sachsen,code14,,,,65
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Sachsen,code14,,,,72
+2024,Ordnungswidrigkeitenverfahren,,Sachsen-Anhalt,code15,,,,1194
+2025,Ordnungswidrigkeitenverfahren,,Sachsen-Anhalt,code15,,,,1296
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Sachsen-Anhalt,code15,,,,202
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Sachsen-Anhalt,code15,,,,185
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Sachsen-Anhalt,code15,,,,254
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Sachsen-Anhalt,code15,,,,223
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Sachsen-Anhalt,code15,,,,15
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Sachsen-Anhalt,code15,,,,36
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Sachsen-Anhalt,code15,,,,46
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Sachsen-Anhalt,code15,,,,42
+2024,Ordnungswidrigkeitenverfahren,,Schleswig-Holstein,code01,,,,2344
+2025,Ordnungswidrigkeitenverfahren,,Schleswig-Holstein,code01,,,,1947
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Schleswig-Holstein,code01,,,,242
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Schleswig-Holstein,code01,,,,159
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Schleswig-Holstein,code01,,,,539
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Schleswig-Holstein,code01,,,,494
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Schleswig-Holstein,code01,,,,49
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Schleswig-Holstein,code01,,,,59
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Schleswig-Holstein,code01,,,,187
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Schleswig-Holstein,code01,,,,177
+2024,Ordnungswidrigkeitenverfahren,,Thüringen,code16,,,,1642
+2025,Ordnungswidrigkeitenverfahren,,Thüringen,code16,,,,1663
+2024,Ordnungswidrigkeitenverfahren,Baugewerbe,Thüringen,code16,,,,213
+2025,Ordnungswidrigkeitenverfahren,Baugewerbe,Thüringen,code16,,,,208
+2024,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Thüringen,code16,,,,504
+2025,Ordnungswidrigkeitenverfahren,Gaststätten- und Beherbergungsgewerbe,Thüringen,code16,,,,526
+2024,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Thüringen,code16,,,,85
+2025,Ordnungswidrigkeitenverfahren,Frisör- und Kosmetikgewerbe,Thüringen,code16,,,,91
+2024,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Thüringen,code16,,,,59
+2025,Ordnungswidrigkeitenverfahren,"Speditions-, Transport- und Logistikgewerbe",Thüringen,code16,,,,63
 2024,Strafverfahren,,,,,,,96813
 2025,Strafverfahren,,,,,,,98186
-2024,Strafverfahren,Baden-Württemberg,code08,,,,,11522
-2025,Strafverfahren,Baden-Württemberg,code08,,,,,11395
-2024,Strafverfahren,Baden-Württemberg,code08,Baugewerbe,,,,1338
-2025,Strafverfahren,Baden-Württemberg,code08,Baugewerbe,,,,1239
-2024,Strafverfahren,Baden-Württemberg,code08,Gaststätten- und Beherbergungsgewerbe,,,,1334
-2025,Strafverfahren,Baden-Württemberg,code08,Gaststätten- und Beherbergungsgewerbe,,,,1168
-2024,Strafverfahren,Baden-Württemberg,code08,Frisör- und Kosmetikgewerbe,,,,183
-2025,Strafverfahren,Baden-Württemberg,code08,Frisör- und Kosmetikgewerbe,,,,227
-2024,Strafverfahren,Baden-Württemberg,code08,"Speditions-, Transport- und Logistikgewerbe",,,,462
-2025,Strafverfahren,Baden-Württemberg,code08,"Speditions-, Transport- und Logistikgewerbe",,,,461
-2024,Strafverfahren,Bayern,code09,,,,,12558
-2025,Strafverfahren,Bayern,code09,,,,,12441
-2024,Strafverfahren,Bayern,code09,Baugewerbe,,,,1228
-2025,Strafverfahren,Bayern,code09,Baugewerbe,,,,1235
-2024,Strafverfahren,Bayern,code09,Gaststätten- und Beherbergungsgewerbe,,,,1774
-2025,Strafverfahren,Bayern,code09,Gaststätten- und Beherbergungsgewerbe,,,,1614
-2024,Strafverfahren,Bayern,code09,Frisör- und Kosmetikgewerbe,,,,126
-2025,Strafverfahren,Bayern,code09,Frisör- und Kosmetikgewerbe,,,,149
-2024,Strafverfahren,Bayern,code09,"Speditions-, Transport- und Logistikgewerbe",,,,530
-2025,Strafverfahren,Bayern,code09,"Speditions-, Transport- und Logistikgewerbe",,,,581
-2024,Strafverfahren,Berlin,code11,,,,,4200
-2025,Strafverfahren,Berlin,code11,,,,,4530
-2024,Strafverfahren,Berlin,code11,Baugewerbe,,,,216
-2025,Strafverfahren,Berlin,code11,Baugewerbe,,,,208
-2024,Strafverfahren,Berlin,code11,Gaststätten- und Beherbergungsgewerbe,,,,493
-2025,Strafverfahren,Berlin,code11,Gaststätten- und Beherbergungsgewerbe,,,,487
-2024,Strafverfahren,Berlin,code11,Frisör- und Kosmetikgewerbe,,,,116
-2025,Strafverfahren,Berlin,code11,Frisör- und Kosmetikgewerbe,,,,161
-2024,Strafverfahren,Berlin,code11,"Speditions-, Transport- und Logistikgewerbe",,,,108
-2025,Strafverfahren,Berlin,code11,"Speditions-, Transport- und Logistikgewerbe",,,,164
-2024,Strafverfahren,Brandenburg,code12,,,,,2794
-2025,Strafverfahren,Brandenburg,code12,,,,,2902
-2024,Strafverfahren,Brandenburg,code12,Baugewerbe,,,,267
-2025,Strafverfahren,Brandenburg,code12,Baugewerbe,,,,288
-2024,Strafverfahren,Brandenburg,code12,Gaststätten- und Beherbergungsgewerbe,,,,292
-2025,Strafverfahren,Brandenburg,code12,Gaststätten- und Beherbergungsgewerbe,,,,294
-2024,Strafverfahren,Brandenburg,code12,Frisör- und Kosmetikgewerbe,,,,37
-2025,Strafverfahren,Brandenburg,code12,Frisör- und Kosmetikgewerbe,,,,55
-2024,Strafverfahren,Brandenburg,code12,"Speditions-, Transport- und Logistikgewerbe",,,,66
-2025,Strafverfahren,Brandenburg,code12,"Speditions-, Transport- und Logistikgewerbe",,,,117
-2024,Strafverfahren,Bremen,code04,,,,,3108
-2025,Strafverfahren,Bremen,code04,,,,,3493
-2024,Strafverfahren,Bremen,code04,Baugewerbe,,,,178
-2025,Strafverfahren,Bremen,code04,Baugewerbe,,,,192
-2024,Strafverfahren,Bremen,code04,Gaststätten- und Beherbergungsgewerbe,,,,268
-2025,Strafverfahren,Bremen,code04,Gaststätten- und Beherbergungsgewerbe,,,,299
-2024,Strafverfahren,Bremen,code04,Frisör- und Kosmetikgewerbe,,,,47
-2025,Strafverfahren,Bremen,code04,Frisör- und Kosmetikgewerbe,,,,62
-2024,Strafverfahren,Bremen,code04,"Speditions-, Transport- und Logistikgewerbe",,,,131
-2025,Strafverfahren,Bremen,code04,"Speditions-, Transport- und Logistikgewerbe",,,,109
-2024,Strafverfahren,Hamburg,code02,,,,,3817
-2025,Strafverfahren,Hamburg,code02,,,,,2896
-2024,Strafverfahren,Hamburg,code02,Baugewerbe,,,,348
-2025,Strafverfahren,Hamburg,code02,Baugewerbe,,,,285
-2024,Strafverfahren,Hamburg,code02,Gaststätten- und Beherbergungsgewerbe,,,,549
-2025,Strafverfahren,Hamburg,code02,Gaststätten- und Beherbergungsgewerbe,,,,404
-2024,Strafverfahren,Hamburg,code02,Frisör- und Kosmetikgewerbe,,,,104
-2025,Strafverfahren,Hamburg,code02,Frisör- und Kosmetikgewerbe,,,,104
-2024,Strafverfahren,Hamburg,code02,"Speditions-, Transport- und Logistikgewerbe",,,,292
-2025,Strafverfahren,Hamburg,code02,"Speditions-, Transport- und Logistikgewerbe",,,,212
-2024,Strafverfahren,Hessen,code06,,,,,7411
-2025,Strafverfahren,Hessen,code06,,,,,7984
-2024,Strafverfahren,Hessen,code06,Baugewerbe,,,,1209
-2025,Strafverfahren,Hessen,code06,Baugewerbe,,,,1028
-2024,Strafverfahren,Hessen,code06,Gaststätten- und Beherbergungsgewerbe,,,,556
-2025,Strafverfahren,Hessen,code06,Gaststätten- und Beherbergungsgewerbe,,,,590
-2024,Strafverfahren,Hessen,code06,Frisör- und Kosmetikgewerbe,,,,80
-2025,Strafverfahren,Hessen,code06,Frisör- und Kosmetikgewerbe,,,,154
-2024,Strafverfahren,Hessen,code06,"Speditions-, Transport- und Logistikgewerbe",,,,225
-2025,Strafverfahren,Hessen,code06,"Speditions-, Transport- und Logistikgewerbe",,,,266
-2024,Strafverfahren,Mecklenburg-Vorpommern,code13,,,,,2375
-2025,Strafverfahren,Mecklenburg-Vorpommern,code13,,,,,2287
-2024,Strafverfahren,Mecklenburg-Vorpommern,code13,Baugewerbe,,,,111
-2025,Strafverfahren,Mecklenburg-Vorpommern,code13,Baugewerbe,,,,86
-2024,Strafverfahren,Mecklenburg-Vorpommern,code13,Gaststätten- und Beherbergungsgewerbe,,,,127
-2025,Strafverfahren,Mecklenburg-Vorpommern,code13,Gaststätten- und Beherbergungsgewerbe,,,,117
-2024,Strafverfahren,Mecklenburg-Vorpommern,code13,Frisör- und Kosmetikgewerbe,,,,20
-2025,Strafverfahren,Mecklenburg-Vorpommern,code13,Frisör- und Kosmetikgewerbe,,,,19
-2024,Strafverfahren,Mecklenburg-Vorpommern,code13,"Speditions-, Transport- und Logistikgewerbe",,,,12
-2025,Strafverfahren,Mecklenburg-Vorpommern,code13,"Speditions-, Transport- und Logistikgewerbe",,,,16
-2024,Strafverfahren,Niedersachsen,code03,,,,,9076
-2025,Strafverfahren,Niedersachsen,code03,,,,,8306
-2024,Strafverfahren,Niedersachsen,code03,Baugewerbe,,,,851
-2025,Strafverfahren,Niedersachsen,code03,Baugewerbe,,,,618
-2024,Strafverfahren,Niedersachsen,code03,Gaststätten- und Beherbergungsgewerbe,,,,781
-2025,Strafverfahren,Niedersachsen,code03,Gaststätten- und Beherbergungsgewerbe,,,,746
-2024,Strafverfahren,Niedersachsen,code03,Frisör- und Kosmetikgewerbe,,,,56
-2025,Strafverfahren,Niedersachsen,code03,Frisör- und Kosmetikgewerbe,,,,58
-2024,Strafverfahren,Niedersachsen,code03,"Speditions-, Transport- und Logistikgewerbe",,,,323
-2025,Strafverfahren,Niedersachsen,code03,"Speditions-, Transport- und Logistikgewerbe",,,,353
-2024,Strafverfahren,Nordrhein-Westfalen,code05,,,,,21974
-2025,Strafverfahren,Nordrhein-Westfalen,code05,,,,,24301
-2024,Strafverfahren,Nordrhein-Westfalen,code05,Baugewerbe,,,,2109
-2025,Strafverfahren,Nordrhein-Westfalen,code05,Baugewerbe,,,,2121
-2024,Strafverfahren,Nordrhein-Westfalen,code05,Gaststätten- und Beherbergungsgewerbe,,,,1887
-2025,Strafverfahren,Nordrhein-Westfalen,code05,Gaststätten- und Beherbergungsgewerbe,,,,1962
-2024,Strafverfahren,Nordrhein-Westfalen,code05,Frisör- und Kosmetikgewerbe,,,,382
-2025,Strafverfahren,Nordrhein-Westfalen,code05,Frisör- und Kosmetikgewerbe,,,,456
-2024,Strafverfahren,Nordrhein-Westfalen,code05,"Speditions-, Transport- und Logistikgewerbe",,,,1391
-2025,Strafverfahren,Nordrhein-Westfalen,code05,"Speditions-, Transport- und Logistikgewerbe",,,,1847
-2024,Strafverfahren,Rheinland-Pfalz,code07,,,,,3690
-2025,Strafverfahren,Rheinland-Pfalz,code07,,,,,3529
-2024,Strafverfahren,Rheinland-Pfalz,code07,Baugewerbe,,,,703
-2025,Strafverfahren,Rheinland-Pfalz,code07,Baugewerbe,,,,588
-2024,Strafverfahren,Rheinland-Pfalz,code07,Gaststätten- und Beherbergungsgewerbe,,,,339
-2025,Strafverfahren,Rheinland-Pfalz,code07,Gaststätten- und Beherbergungsgewerbe,,,,347
-2024,Strafverfahren,Rheinland-Pfalz,code07,Frisör- und Kosmetikgewerbe,,,,65
-2025,Strafverfahren,Rheinland-Pfalz,code07,Frisör- und Kosmetikgewerbe,,,,82
-2024,Strafverfahren,Rheinland-Pfalz,code07,"Speditions-, Transport- und Logistikgewerbe",,,,121
-2025,Strafverfahren,Rheinland-Pfalz,code07,"Speditions-, Transport- und Logistikgewerbe",,,,125
-2024,Strafverfahren,Saarland,code10,,,,,2257
-2025,Strafverfahren,Saarland,code10,,,,,2032
-2024,Strafverfahren,Saarland,code10,Baugewerbe,,,,147
-2025,Strafverfahren,Saarland,code10,Baugewerbe,,,,166
-2024,Strafverfahren,Saarland,code10,Gaststätten- und Beherbergungsgewerbe,,,,317
-2025,Strafverfahren,Saarland,code10,Gaststätten- und Beherbergungsgewerbe,,,,249
-2024,Strafverfahren,Saarland,code10,Frisör- und Kosmetikgewerbe,,,,14
-2025,Strafverfahren,Saarland,code10,Frisör- und Kosmetikgewerbe,,,,27
-2024,Strafverfahren,Saarland,code10,"Speditions-, Transport- und Logistikgewerbe",,,,124
-2025,Strafverfahren,Saarland,code10,"Speditions-, Transport- und Logistikgewerbe",,,,132
-2024,Strafverfahren,Sachsen,code14,,,,,4108
-2025,Strafverfahren,Sachsen,code14,,,,,3795
-2024,Strafverfahren,Sachsen,code14,Baugewerbe,,,,499
-2025,Strafverfahren,Sachsen,code14,Baugewerbe,,,,409
-2024,Strafverfahren,Sachsen,code14,Gaststätten- und Beherbergungsgewerbe,,,,480
-2025,Strafverfahren,Sachsen,code14,Gaststätten- und Beherbergungsgewerbe,,,,434
-2024,Strafverfahren,Sachsen,code14,Frisör- und Kosmetikgewerbe,,,,34
-2025,Strafverfahren,Sachsen,code14,Frisör- und Kosmetikgewerbe,,,,57
-2024,Strafverfahren,Sachsen,code14,"Speditions-, Transport- und Logistikgewerbe",,,,109
-2025,Strafverfahren,Sachsen,code14,"Speditions-, Transport- und Logistikgewerbe",,,,96
-2024,Strafverfahren,Sachsen-Anhalt,code15,,,,,2092
-2025,Strafverfahren,Sachsen-Anhalt,code15,,,,,2343
-2024,Strafverfahren,Sachsen-Anhalt,code15,Baugewerbe,,,,157
-2025,Strafverfahren,Sachsen-Anhalt,code15,Baugewerbe,,,,88
-2024,Strafverfahren,Sachsen-Anhalt,code15,Gaststätten- und Beherbergungsgewerbe,,,,89
-2025,Strafverfahren,Sachsen-Anhalt,code15,Gaststätten- und Beherbergungsgewerbe,,,,73
-2024,Strafverfahren,Sachsen-Anhalt,code15,Frisör- und Kosmetikgewerbe,,,,9
-2025,Strafverfahren,Sachsen-Anhalt,code15,Frisör- und Kosmetikgewerbe,,,,29
-2024,Strafverfahren,Sachsen-Anhalt,code15,"Speditions-, Transport- und Logistikgewerbe",,,,34
-2025,Strafverfahren,Sachsen-Anhalt,code15,"Speditions-, Transport- und Logistikgewerbe",,,,18
-2024,Strafverfahren,Schleswig-Holstein,code01,,,,,3020
-2025,Strafverfahren,Schleswig-Holstein,code01,,,,,2683
-2024,Strafverfahren,Schleswig-Holstein,code01,Baugewerbe,,,,319
-2025,Strafverfahren,Schleswig-Holstein,code01,Baugewerbe,,,,219
-2024,Strafverfahren,Schleswig-Holstein,code01,Gaststätten- und Beherbergungsgewerbe,,,,454
-2025,Strafverfahren,Schleswig-Holstein,code01,Gaststätten- und Beherbergungsgewerbe,,,,438
-2024,Strafverfahren,Schleswig-Holstein,code01,Frisör- und Kosmetikgewerbe,,,,40
-2025,Strafverfahren,Schleswig-Holstein,code01,Frisör- und Kosmetikgewerbe,,,,36
-2024,Strafverfahren,Schleswig-Holstein,code01,"Speditions-, Transport- und Logistikgewerbe",,,,148
-2025,Strafverfahren,Schleswig-Holstein,code01,"Speditions-, Transport- und Logistikgewerbe",,,,124
-2024,Strafverfahren,Thüringen,code16,,,,,2754
-2025,Strafverfahren,Thüringen,code16,,,,,3213
-2024,Strafverfahren,Thüringen,code16,Baugewerbe,,,,253
-2025,Strafverfahren,Thüringen,code16,Baugewerbe,,,,290
-2024,Strafverfahren,Thüringen,code16,Gaststätten- und Beherbergungsgewerbe,,,,267
-2025,Strafverfahren,Thüringen,code16,Gaststätten- und Beherbergungsgewerbe,,,,331
-2024,Strafverfahren,Thüringen,code16,Frisör- und Kosmetikgewerbe,,,,34
-2025,Strafverfahren,Thüringen,code16,Frisör- und Kosmetikgewerbe,,,,34
-2024,Strafverfahren,Thüringen,code16,"Speditions-, Transport- und Logistikgewerbe",,,,100
-2025,Strafverfahren,Thüringen,code16,"Speditions-, Transport- und Logistikgewerbe",,,,109
+2024,Strafverfahren,Baugewerbe,,,,,,9946
+2025,Strafverfahren,Baugewerbe,,,,,,9075
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,,,,,,10019
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,,,,,,9568
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,,,,,,1353
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,,,,,,1720
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",,,,,,4176
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",,,,,,4735
+2024,Strafverfahren,,Baden-Württemberg,code08,,,,11522
+2025,Strafverfahren,,Baden-Württemberg,code08,,,,11395
+2024,Strafverfahren,Baugewerbe,Baden-Württemberg,code08,,,,1338
+2025,Strafverfahren,Baugewerbe,Baden-Württemberg,code08,,,,1239
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Baden-Württemberg,code08,,,,1334
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Baden-Württemberg,code08,,,,1168
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Baden-Württemberg,code08,,,,183
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Baden-Württemberg,code08,,,,227
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Baden-Württemberg,code08,,,,462
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Baden-Württemberg,code08,,,,461
+2024,Strafverfahren,,Bayern,code09,,,,12558
+2025,Strafverfahren,,Bayern,code09,,,,12441
+2024,Strafverfahren,Baugewerbe,Bayern,code09,,,,1228
+2025,Strafverfahren,Baugewerbe,Bayern,code09,,,,1235
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Bayern,code09,,,,1774
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Bayern,code09,,,,1614
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Bayern,code09,,,,126
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Bayern,code09,,,,149
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Bayern,code09,,,,530
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Bayern,code09,,,,581
+2024,Strafverfahren,,Berlin,code11,,,,4200
+2025,Strafverfahren,,Berlin,code11,,,,4530
+2024,Strafverfahren,Baugewerbe,Berlin,code11,,,,216
+2025,Strafverfahren,Baugewerbe,Berlin,code11,,,,208
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Berlin,code11,,,,493
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Berlin,code11,,,,487
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Berlin,code11,,,,116
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Berlin,code11,,,,161
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Berlin,code11,,,,108
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Berlin,code11,,,,164
+2024,Strafverfahren,,Brandenburg,code12,,,,2794
+2025,Strafverfahren,,Brandenburg,code12,,,,2902
+2024,Strafverfahren,Baugewerbe,Brandenburg,code12,,,,267
+2025,Strafverfahren,Baugewerbe,Brandenburg,code12,,,,288
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Brandenburg,code12,,,,292
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Brandenburg,code12,,,,294
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Brandenburg,code12,,,,37
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Brandenburg,code12,,,,55
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Brandenburg,code12,,,,66
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Brandenburg,code12,,,,117
+2024,Strafverfahren,,Bremen,code04,,,,3108
+2025,Strafverfahren,,Bremen,code04,,,,3493
+2024,Strafverfahren,Baugewerbe,Bremen,code04,,,,178
+2025,Strafverfahren,Baugewerbe,Bremen,code04,,,,192
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Bremen,code04,,,,268
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Bremen,code04,,,,299
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Bremen,code04,,,,47
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Bremen,code04,,,,62
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Bremen,code04,,,,131
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Bremen,code04,,,,109
+2024,Strafverfahren,,Hamburg,code02,,,,3817
+2025,Strafverfahren,,Hamburg,code02,,,,2896
+2024,Strafverfahren,Baugewerbe,Hamburg,code02,,,,348
+2025,Strafverfahren,Baugewerbe,Hamburg,code02,,,,285
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Hamburg,code02,,,,549
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Hamburg,code02,,,,404
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Hamburg,code02,,,,104
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Hamburg,code02,,,,104
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Hamburg,code02,,,,292
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Hamburg,code02,,,,212
+2024,Strafverfahren,,Hessen,code06,,,,7411
+2025,Strafverfahren,,Hessen,code06,,,,7984
+2024,Strafverfahren,Baugewerbe,Hessen,code06,,,,1209
+2025,Strafverfahren,Baugewerbe,Hessen,code06,,,,1028
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Hessen,code06,,,,556
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Hessen,code06,,,,590
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Hessen,code06,,,,80
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Hessen,code06,,,,154
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Hessen,code06,,,,225
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Hessen,code06,,,,266
+2024,Strafverfahren,,Mecklenburg-Vorpommern,code13,,,,2375
+2025,Strafverfahren,,Mecklenburg-Vorpommern,code13,,,,2287
+2024,Strafverfahren,Baugewerbe,Mecklenburg-Vorpommern,code13,,,,111
+2025,Strafverfahren,Baugewerbe,Mecklenburg-Vorpommern,code13,,,,86
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Mecklenburg-Vorpommern,code13,,,,127
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Mecklenburg-Vorpommern,code13,,,,117
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Mecklenburg-Vorpommern,code13,,,,20
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Mecklenburg-Vorpommern,code13,,,,19
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Mecklenburg-Vorpommern,code13,,,,12
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Mecklenburg-Vorpommern,code13,,,,16
+2024,Strafverfahren,,Niedersachsen,code03,,,,9076
+2025,Strafverfahren,,Niedersachsen,code03,,,,8306
+2024,Strafverfahren,Baugewerbe,Niedersachsen,code03,,,,851
+2025,Strafverfahren,Baugewerbe,Niedersachsen,code03,,,,618
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Niedersachsen,code03,,,,781
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Niedersachsen,code03,,,,746
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Niedersachsen,code03,,,,56
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Niedersachsen,code03,,,,58
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Niedersachsen,code03,,,,323
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Niedersachsen,code03,,,,353
+2024,Strafverfahren,,Nordrhein-Westfalen,code05,,,,21974
+2025,Strafverfahren,,Nordrhein-Westfalen,code05,,,,24301
+2024,Strafverfahren,Baugewerbe,Nordrhein-Westfalen,code05,,,,2109
+2025,Strafverfahren,Baugewerbe,Nordrhein-Westfalen,code05,,,,2121
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Nordrhein-Westfalen,code05,,,,1887
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Nordrhein-Westfalen,code05,,,,1962
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Nordrhein-Westfalen,code05,,,,382
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Nordrhein-Westfalen,code05,,,,456
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Nordrhein-Westfalen,code05,,,,1391
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Nordrhein-Westfalen,code05,,,,1847
+2024,Strafverfahren,,Rheinland-Pfalz,code07,,,,3690
+2025,Strafverfahren,,Rheinland-Pfalz,code07,,,,3529
+2024,Strafverfahren,Baugewerbe,Rheinland-Pfalz,code07,,,,703
+2025,Strafverfahren,Baugewerbe,Rheinland-Pfalz,code07,,,,588
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Rheinland-Pfalz,code07,,,,339
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Rheinland-Pfalz,code07,,,,347
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Rheinland-Pfalz,code07,,,,65
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Rheinland-Pfalz,code07,,,,82
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Rheinland-Pfalz,code07,,,,121
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Rheinland-Pfalz,code07,,,,125
+2024,Strafverfahren,,Saarland,code10,,,,2257
+2025,Strafverfahren,,Saarland,code10,,,,2032
+2024,Strafverfahren,Baugewerbe,Saarland,code10,,,,147
+2025,Strafverfahren,Baugewerbe,Saarland,code10,,,,166
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Saarland,code10,,,,317
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Saarland,code10,,,,249
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Saarland,code10,,,,14
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Saarland,code10,,,,27
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Saarland,code10,,,,124
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Saarland,code10,,,,132
+2024,Strafverfahren,,Sachsen,code14,,,,4108
+2025,Strafverfahren,,Sachsen,code14,,,,3795
+2024,Strafverfahren,Baugewerbe,Sachsen,code14,,,,499
+2025,Strafverfahren,Baugewerbe,Sachsen,code14,,,,409
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Sachsen,code14,,,,480
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Sachsen,code14,,,,434
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Sachsen,code14,,,,34
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Sachsen,code14,,,,57
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Sachsen,code14,,,,109
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Sachsen,code14,,,,96
+2024,Strafverfahren,,Sachsen-Anhalt,code15,,,,2092
+2025,Strafverfahren,,Sachsen-Anhalt,code15,,,,2343
+2024,Strafverfahren,Baugewerbe,Sachsen-Anhalt,code15,,,,157
+2025,Strafverfahren,Baugewerbe,Sachsen-Anhalt,code15,,,,88
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Sachsen-Anhalt,code15,,,,89
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Sachsen-Anhalt,code15,,,,73
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Sachsen-Anhalt,code15,,,,9
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Sachsen-Anhalt,code15,,,,29
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Sachsen-Anhalt,code15,,,,34
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Sachsen-Anhalt,code15,,,,18
+2024,Strafverfahren,,Schleswig-Holstein,code01,,,,3020
+2025,Strafverfahren,,Schleswig-Holstein,code01,,,,2683
+2024,Strafverfahren,Baugewerbe,Schleswig-Holstein,code01,,,,319
+2025,Strafverfahren,Baugewerbe,Schleswig-Holstein,code01,,,,219
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Schleswig-Holstein,code01,,,,454
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Schleswig-Holstein,code01,,,,438
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Schleswig-Holstein,code01,,,,40
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Schleswig-Holstein,code01,,,,36
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Schleswig-Holstein,code01,,,,148
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Schleswig-Holstein,code01,,,,124
+2024,Strafverfahren,,Thüringen,code16,,,,2754
+2025,Strafverfahren,,Thüringen,code16,,,,3213
+2024,Strafverfahren,Baugewerbe,Thüringen,code16,,,,253
+2025,Strafverfahren,Baugewerbe,Thüringen,code16,,,,290
+2024,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Thüringen,code16,,,,267
+2025,Strafverfahren,Gaststätten- und Beherbergungsgewerbe,Thüringen,code16,,,,331
+2024,Strafverfahren,Frisör- und Kosmetikgewerbe,Thüringen,code16,,,,34
+2025,Strafverfahren,Frisör- und Kosmetikgewerbe,Thüringen,code16,,,,34
+2024,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Thüringen,code16,,,,100
+2025,Strafverfahren,"Speditions-, Transport- und Logistikgewerbe",Thüringen,code16,,,,109
