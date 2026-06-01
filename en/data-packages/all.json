@@ -2961,6 +2961,7 @@
               "enum": [
                 ".",
                 "r",
+                "p",
                 ""
               ]
             },
@@ -6214,7 +6215,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
+                "r",
                 ""
               ]
             },
@@ -9545,6 +9546,7 @@
               "enum": [
                 "|",
                 "0",
+                "…",
                 ""
               ]
             },
@@ -11230,7 +11232,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p",
+                "r",
                 ""
               ]
             },
@@ -12076,7 +12078,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "|",
                 "‒",
                 "0",
@@ -12090,7 +12091,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "|",
                 "0",
                 ""
@@ -15008,9 +15008,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -16523,6 +16524,7 @@
               "enum": [
                 "‒",
                 ".",
+                "…",
                 "|",
                 "0",
                 ""
@@ -16608,7 +16610,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "-",
                 "‒",
                 ""
               ]
