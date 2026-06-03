@@ -1619,8 +1619,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments (oda)",
-                "gross disbursements (oda)",
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }
@@ -6803,7 +6803,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -6832,6 +6832,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "…",
                 ""
               ]
             }
@@ -9829,7 +9830,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "r",
                 ""
               ]
             }
@@ -11094,6 +11094,28 @@
             }
           },
           {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "official development assistance",
+                "other official flows",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {
@@ -12043,17 +12065,15 @@
             "constraints": {
               "enum": [
                 "|",
-                "r",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -14455,9 +14475,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }

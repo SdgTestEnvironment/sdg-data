@@ -33,7 +33,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "r",
                 ""
               ]
             },
@@ -41,10 +40,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },

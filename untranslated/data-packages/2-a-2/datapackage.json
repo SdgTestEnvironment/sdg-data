@@ -26,6 +26,28 @@
             }
           },
           {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "official development assistance",
+                "other official flows",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {
