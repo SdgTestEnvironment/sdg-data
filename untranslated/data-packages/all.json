@@ -6049,12 +6049,29 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "-",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -11094,23 +11111,23 @@
             }
           },
           {
-            "name": "type of flow",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "official development assistance",
-                "other official flows",
-                ""
-              ]
-            }
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
                 "commitments",
                 "gross disbursements",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "official development assistance",
+                "other official flows",
                 ""
               ]
             }

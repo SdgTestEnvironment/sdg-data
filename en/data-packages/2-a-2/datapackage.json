@@ -28,28 +28,28 @@
             "title": "Units"
           },
           {
-            "name": "type of flow",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "official development assistance",
-                "other official flows",
-                ""
-              ]
-            },
-            "title": "Type of flow"
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance",
+                "Other official flows",
+                ""
+              ]
+            },
+            "title": "Type of flow"
           },
           {
             "name": "COMMENT_OBS_0",

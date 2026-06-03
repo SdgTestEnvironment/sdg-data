@@ -1769,8 +1769,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
@@ -6622,16 +6622,35 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "-",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -12144,28 +12163,28 @@
             "title": "Units"
           },
           {
-            "name": "type of flow",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "official development assistance",
-                "other official flows",
-                ""
-              ]
-            },
-            "title": "Type of flow"
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance",
+                "Other official flows",
+                ""
+              ]
+            },
+            "title": "Type of flow"
           },
           {
             "name": "COMMENT_OBS_0",

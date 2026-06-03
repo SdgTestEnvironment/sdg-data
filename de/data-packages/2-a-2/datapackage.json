@@ -28,28 +28,28 @@
             "title": "Units"
           },
           {
-            "name": "type of flow",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "official development assistance",
-                "other official flows",
-                ""
-              ]
-            },
-            "title": "Art des Finanzstroms"
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments",
-                "gross disbursements",
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Öffentliche Entwicklungsleistungen",
+                "Sonstige öffentliche Leistungen",
+                ""
+              ]
+            },
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "COMMENT_OBS_0",
