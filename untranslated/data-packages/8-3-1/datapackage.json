@@ -26,20 +26,20 @@
             }
           },
           {
-            "name": "industry",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "construction industry",
-                "restaurant and lodging industry",
-                "hairdressing and beauty industry",
-                "freight forwarding, transportation, and logistics industry",
+                "construction sector",
+                "catering and hotel sector",
+                "hairdressing and beauty sector",
+                "haulage, transport and associated logistics sector",
                 ""
               ]
             }
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [

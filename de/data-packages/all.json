@@ -1428,7 +1428,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1765,7 +1765,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1774,7 +1774,7 @@
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Messgröße"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -5012,7 +5012,7 @@
             "title": "Punktwert"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8011,7 +8011,7 @@
             "title": "Art der Technologie"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8742,7 +8742,7 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8893,7 +8893,7 @@
             "title": "Politische Institution"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9769,7 +9769,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "r",
                 "|",
+                "…",
+                "0",
                 ""
               ]
             },
@@ -10006,7 +10010,7 @@
             "title": "Jahr"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10330,6 +10334,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
+                ""
+              ]
+            },
+            "title": "Messgröße"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -12163,7 +12179,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
@@ -12172,7 +12188,7 @@
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Messgröße"
           },
           {
             "name": "type of flow",
@@ -12253,7 +12269,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -12629,6 +12645,18 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
+                ""
+              ]
+            },
+            "title": "Messgröße"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -13864,7 +13892,7 @@
             "title": "Jahr"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -15114,21 +15142,21 @@
             "title": "Art des Verfahrens"
           },
           {
-            "name": "industry",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
                 "Baugewerbe",
                 "Gaststätten- und Beherbergungsgewerbe",
-                "Frisör- und Kosmetikgewerbe",
+                "Friseur- und Kosmetikgewerbe",
                 "Speditions-, Transport- und Logistikgewerbe",
                 ""
               ]
             },
-            "title": "Branche"
+            "title": "Sektor"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [

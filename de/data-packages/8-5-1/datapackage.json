@@ -79,7 +79,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [

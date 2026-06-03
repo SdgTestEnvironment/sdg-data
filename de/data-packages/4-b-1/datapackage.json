@@ -40,6 +40,18 @@
             "title": "Zeitreihe"
           },
           {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
+                ""
+              ]
+            },
+            "title": "Messgröße"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {

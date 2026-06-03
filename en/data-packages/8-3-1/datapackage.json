@@ -28,21 +28,21 @@
             "title": "Type of proceeding"
           },
           {
-            "name": "industry",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "Construction industry",
-                "Restaurant and lodging industry",
-                "Hairdressing and beauty industry",
-                "Freight forwarding, transportation, and logistics industry",
+                "Construction sector",
+                "Catering and hotel sector",
+                "Hairdressing and beauty sector",
+                "Haulage, transport and associated logistics sector",
                 ""
               ]
             },
-            "title": "Industry"
+            "title": "Sector"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -65,7 +65,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",

@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Measurement parameter"
           },
           {
             "name": "type of flow",

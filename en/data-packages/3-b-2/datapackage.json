@@ -28,6 +28,18 @@
             "title": "Units"
           },
           {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments",
+                "Gross disbursements",
+                ""
+              ]
+            },
+            "title": "Measurement parameter"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {

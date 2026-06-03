@@ -1240,7 +1240,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-9",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1307,7 +1307,7 @@
             }
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1615,7 +1615,7 @@
             }
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4579,7 +4579,7 @@
             }
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7319,7 +7319,7 @@
             }
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7985,7 +7985,7 @@
             }
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8124,7 +8124,7 @@
             }
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8925,7 +8925,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "r",
                 "|",
+                "…",
+                "0",
                 ""
               ]
             }
@@ -9141,7 +9145,7 @@
             "type": "integer"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9434,6 +9438,17 @@
               "enum": [
                 "million eur",
                 "million usd, constant prices (2024)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }
@@ -11111,7 +11126,7 @@
             }
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11193,7 +11208,7 @@
             }
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11533,6 +11548,17 @@
               "enum": [
                 "scholarships",
                 "imputed student costs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }
@@ -12665,7 +12691,7 @@
             "type": "integer"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -13806,20 +13832,20 @@
             }
           },
           {
-            "name": "industry",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "construction industry",
-                "restaurant and lodging industry",
-                "hairdressing and beauty industry",
-                "freight forwarding, transportation, and logistics industry",
+                "construction sector",
+                "catering and hotel sector",
+                "hairdressing and beauty sector",
+                "haulage, transport and associated logistics sector",
                 ""
               ]
             }
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [

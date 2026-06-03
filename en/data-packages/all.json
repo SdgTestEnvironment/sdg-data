@@ -1356,7 +1356,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1428,7 +1428,7 @@
             "title": "Sex"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1451,7 +1451,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",
@@ -1765,7 +1765,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1774,7 +1774,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Measurement parameter"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -5012,7 +5012,7 @@
             "title": "Score"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5035,7 +5035,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",
@@ -8011,7 +8011,7 @@
             "title": "Type of technology"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8035,7 +8035,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",
@@ -8742,7 +8742,7 @@
             "title": "Time series"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8765,7 +8765,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",
@@ -8893,7 +8893,7 @@
             "title": "Political institution"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8916,7 +8916,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",
@@ -9769,7 +9769,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "r",
                 "|",
+                "…",
+                "0",
                 ""
               ]
             },
@@ -10006,7 +10010,7 @@
             "title": "Year"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10029,7 +10033,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",
@@ -10330,6 +10334,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments",
+                "Gross disbursements",
+                ""
+              ]
+            },
+            "title": "Measurement parameter"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -12163,7 +12179,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
@@ -12172,7 +12188,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Measurement parameter"
           },
           {
             "name": "type of flow",
@@ -12253,7 +12269,7 @@
             "title": "Sex"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -12276,7 +12292,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",
@@ -12629,6 +12645,18 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments",
+                "Gross disbursements",
+                ""
+              ]
+            },
+            "title": "Measurement parameter"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -13864,7 +13892,7 @@
             "title": "Year"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -13888,7 +13916,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",
@@ -15114,21 +15142,21 @@
             "title": "Type of proceeding"
           },
           {
-            "name": "industry",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "Construction industry",
-                "Restaurant and lodging industry",
-                "Hairdressing and beauty industry",
-                "Freight forwarding, transportation, and logistics industry",
+                "Construction sector",
+                "Catering and hotel sector",
+                "Hairdressing and beauty sector",
+                "Haulage, transport and associated logistics sector",
                 ""
               ]
             },
-            "title": "Industry"
+            "title": "Sector"
           },
           {
-            "name": "länder",
+            "name": "land",
             "type": "string",
             "constraints": {
               "enum": [
@@ -15151,7 +15179,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",

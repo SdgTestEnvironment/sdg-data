@@ -1,31 +1,61 @@
-Year,Units,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Millionen EUR,,,,139.9
-2011,Millionen EUR,,,,93.8
-2012,Millionen EUR,,,,117.9
-2013,Millionen EUR,,,,180.2
-2014,Millionen EUR,,,,198.9
-2015,Millionen EUR,,,,256.6
-2016,Millionen EUR,,,,310.9
-2017,Millionen EUR,,,,380.0
-2018,Millionen EUR,,,,408.6
-2019,Millionen EUR,,,,449.8
-2020,Millionen EUR,,,,1494.2
-2021,Millionen EUR,,,,1826.5
-2022,Millionen EUR,,,,2571.7
-2023,Millionen EUR,,,,549.2
-2024,Millionen EUR,,,,394.3
-2010,"Millionen USD, konstante Preise (2024)",,,,214.7
-2011,"Millionen USD, konstante Preise (2024)",,,,142.1
-2012,"Millionen USD, konstante Preise (2024)",,,,176.2
-2013,"Millionen USD, konstante Preise (2024)",,,,263.9
-2014,"Millionen USD, konstante Preise (2024)",,,,286.0
-2015,"Millionen USD, konstante Preise (2024)",,,,362.6
-2016,"Millionen USD, konstante Preise (2024)",,,,433.8
-2017,"Millionen USD, konstante Preise (2024)",,,,522.5
-2018,"Millionen USD, konstante Preise (2024)",,,,551.5
-2019,"Millionen USD, konstante Preise (2024)",,,,595.1
-2020,"Millionen USD, konstante Preise (2024)",,,,1942.9
-2021,"Millionen USD, konstante Preise (2024)",,,,2312.7
-2022,"Millionen USD, konstante Preise (2024)",,,,3059.9
-2023,"Millionen USD, konstante Preise (2024)",,,,612.5
-2024,"Millionen USD, konstante Preise (2024)",,,,426.4
+Year,Units,Messgröße,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Millionen EUR,Zusagen,,,,108.658
+2011,Millionen EUR,Zusagen,,,,102.575
+2012,Millionen EUR,Zusagen,,,,185.557
+2013,Millionen EUR,Zusagen,,,,356.535
+2014,Millionen EUR,Zusagen,,,,340.661
+2015,Millionen EUR,Zusagen,,,,278.728
+2016,Millionen EUR,Zusagen,,,,300.001
+2017,Millionen EUR,Zusagen,,,,447.854
+2018,Millionen EUR,Zusagen,,,,464.646
+2019,Millionen EUR,Zusagen,,,,464.299
+2020,Millionen EUR,Zusagen,,,,1425.335
+2021,Millionen EUR,Zusagen,,,,2377.986
+2022,Millionen EUR,Zusagen,,,,1793.246
+2023,Millionen EUR,Zusagen,,,,469.164
+2024,Millionen EUR,Zusagen,,,,407.163
+2010,Millionen EUR,Bruttoentwicklungsausgaben,,,,139.9
+2011,Millionen EUR,Bruttoentwicklungsausgaben,,,,93.8
+2012,Millionen EUR,Bruttoentwicklungsausgaben,,,,117.9
+2013,Millionen EUR,Bruttoentwicklungsausgaben,,,,180.2
+2014,Millionen EUR,Bruttoentwicklungsausgaben,,,,198.9
+2015,Millionen EUR,Bruttoentwicklungsausgaben,,,,256.6
+2016,Millionen EUR,Bruttoentwicklungsausgaben,,,,310.9
+2017,Millionen EUR,Bruttoentwicklungsausgaben,,,,380.0
+2018,Millionen EUR,Bruttoentwicklungsausgaben,,,,408.6
+2019,Millionen EUR,Bruttoentwicklungsausgaben,,,,449.8
+2020,Millionen EUR,Bruttoentwicklungsausgaben,,,,1494.2
+2021,Millionen EUR,Bruttoentwicklungsausgaben,,,,1826.5
+2022,Millionen EUR,Bruttoentwicklungsausgaben,,,,2571.7
+2023,Millionen EUR,Bruttoentwicklungsausgaben,,,,549.2
+2024,Millionen EUR,Bruttoentwicklungsausgaben,,,,394.3
+2010,"Millionen USD, konstante Preise (2024)",Zusagen,,,,166.688
+2011,"Millionen USD, konstante Preise (2024)",Zusagen,,,,155.443
+2012,"Millionen USD, konstante Preise (2024)",Zusagen,,,,277.216
+2013,"Millionen USD, konstante Preise (2024)",Zusagen,,,,522.223
+2014,"Millionen USD, konstante Preise (2024)",Zusagen,,,,489.685
+2015,"Millionen USD, konstante Preise (2024)",Zusagen,,,,393.794
+2016,"Millionen USD, konstante Preise (2024)",Zusagen,,,,418.57
+2017,"Millionen USD, konstante Preise (2024)",Zusagen,,,,615.797
+2018,"Millionen USD, konstante Preise (2024)",Zusagen,,,,627.146
+2019,"Millionen USD, konstante Preise (2024)",Zusagen,,,,614.309
+2020,"Millionen USD, konstante Preise (2024)",Zusagen,,,,1853.364
+2021,"Millionen USD, konstante Preise (2024)",Zusagen,,,,3011.072
+2022,"Millionen USD, konstante Preise (2024)",Zusagen,,,,2133.652
+2023,"Millionen USD, konstante Preise (2024)",Zusagen,,,,523.194
+2024,"Millionen USD, konstante Preise (2024)",Zusagen,,,,440.367
+2010,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,214.7
+2011,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,142.1
+2012,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,176.2
+2013,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,263.9
+2014,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,286.0
+2015,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,362.6
+2016,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,433.8
+2017,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,522.5
+2018,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,551.5
+2019,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,595.1
+2020,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,1942.9
+2021,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,2312.7
+2022,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,3059.9
+2023,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,612.5
+2024,"Millionen USD, konstante Preise (2024)",Bruttoentwicklungsausgaben,,,,426.4

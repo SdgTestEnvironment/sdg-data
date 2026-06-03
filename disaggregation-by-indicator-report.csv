@@ -2,9 +2,9 @@ Indicator,Disaggregations,Number of disaggregations
 #1-1-1,COMMENT_OBS_0,1
 #1-2-1,"COMMENT_OBS_0, sex, age group",3
 #1-2-2,"COMMENT_OBS_0, sex, age group, timeseries",4
-#1-3-1,"sex, länder",2
+#1-3-1,"sex, land",2
 #1-5-1,"COMMENT_OBS_0, cause of death",2
-#1-a-1,time series,1
+#1-a-1,measurement parameter,1
 #1-a-2,"COMMENT_OBS_0, typ of essential service",2
 #1-b-1,COMMENT_OBS_0,1
 #10-1-1,"COMMENT_OBS_0, population",2
@@ -18,7 +18,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-b-1,type of flow,1
 #10-c-1,COMMENT_OBS_0,1
 #11-1-1,"COMMENT_OBS_0, COMMENT_OBS_1, sex, degree of urbanisation",4
-#11-2-1,"COMMENT_OBS_0, sex, age group, time series, länder, disability status",6
+#11-2-1,"COMMENT_OBS_0, sex, age group, time series, land, disability status",6
 #11-3-1,"COMMENT_OBS_0, timeseries, presentation",3
 #11-3-2,COMMENT_OBS_0,1
 #11-4-1,"COMMENT_OBS_0, time series",2
@@ -39,7 +39,7 @@ Indicator,Disaggregations,Number of disaggregations
 #12-b-1,"COMMENT_OBS_0, standard accounting system",2
 #12-c-1,"COMMENT_OBS_0, type of fiscal policy tool",2
 #13-1-1,"COMMENT_OBS_0, cause of death",2
-#13-2-2,"COMMENT_OBS_0, länder",2
+#13-2-2,"COMMENT_OBS_0, land",2
 #13-3-1,education policy area,1
 #13-a-1,COMMENT_OBS_0,1
 #14-1-1,COMMENT_OBS_0,1
@@ -102,11 +102,11 @@ Indicator,Disaggregations,Number of disaggregations
 #2-2-2,"COMMENT_OBS_0, sex, timeseries",3
 #2-2-3,age group,1
 #2-3-1,"COMMENT_OBS_0, economic activity",2
-#2-4-1,"COMMENT_OBS_0, länder, data source, score",4
+#2-4-1,"COMMENT_OBS_0, land, data source, score",4
 #2-5-1,COMMENT_OBS_0,1
 #2-5-2,"COMMENT_OBS_0, type of classification, level of risk of extinction",3
 #2-a-1,COMMENT_OBS_0,1
-#2-a-2,"time series, type of flow",2
+#2-a-2,"measurement parameter, type of flow",2
 #2-b-1,COMMENT_OBS_0,1
 #3-2-1,"sex, age group",2
 #3-3-1,"COMMENT_OBS_0, sex",2
@@ -125,6 +125,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-9-3,"COMMENT_OBS_0, sex",2
 #3-a-1,"sex, timeseries",2
 #3-b-1,"COMMENT_OBS_0, sex, timeseries",3
+#3-b-2,measurement parameter,1
 #3-c-1,"COMMENT_OBS_0, profession",2
 #3-d-1,COMMENT_OBS_0,1
 #3-d-2,"COMMENT_OBS_0, pathogens and resistance",2
@@ -137,14 +138,14 @@ Indicator,Disaggregations,Number of disaggregations
 #4-6-1,age group,1
 #4-7-1,education policy area,1
 #4-a-1,"COMMENT_OBS_0, type of service",2
-#4-b-1,time series,1
+#4-b-1,"time series, measurement parameter",2
 #5-1-1,"COMMENT_OBS_0, area of law",2
 #5-2-1,COMMENT_OBS_0,1
 #5-2-2,COMMENT_OBS_0,1
 #5-3-1,"COMMENT_OBS_0, age group",2
 #5-3-2,COMMENT_OBS_0,1
 #5-4-1,"sex, age group, degree of urbanisation, type of unpaid work",4
-#5-5-1,"COMMENT_OBS_0, länder, political institution",3
+#5-5-1,"COMMENT_OBS_0, land, political institution",3
 #5-5-2,COMMENT_OBS_0,1
 #5-6-2,"COMMENT_OBS_0, thematic area",2
 #5-a-1,"COMMENT_OBS_0, timeseries, type of tenure",3
@@ -168,10 +169,10 @@ Indicator,Disaggregations,Number of disaggregations
 #8-10-1,"COMMENT_OBS_0, timeseries",2
 #8-10-2,"COMMENT_OBS_0, COMMENT_OBS_1, type of account",3
 #8-2-1,COMMENT_OBS_0,1
-#8-3-1,"länder, type of proceeding, industry",3
+#8-3-1,"land, sector, type of proceeding",3
 #8-4-1,COMMENT_OBS_0,1
 #8-4-2,COMMENT_OBS_0,1
-#8-5-1,"COMMENT_OBS_0, sex, age group, occupation, länder",5
+#8-5-1,"COMMENT_OBS_0, sex, age group, occupation, land",5
 #8-5-2,"COMMENT_OBS_0, COMMENT_OBS_1, sex, age group",4
 #8-6-1,"COMMENT_OBS_0, sex",2
 #8-7-1,"COMMENT_OBS_0, COMMENT_OBS_1, sex, age group",4
@@ -185,8 +186,8 @@ Indicator,Disaggregations,Number of disaggregations
 #9-2-1,COMMENT_OBS_0,1
 #9-2-2,"COMMENT_OBS_0, sex, timeseries",3
 #9-4-1,COMMENT_OBS_0,1
-#9-5-1,"COMMENT_OBS_0, länder",2
+#9-5-1,"COMMENT_OBS_0, land",2
 #9-5-2,COMMENT_OBS_0,1
 #9-a-1,time series,1
 #9-b-1,"COMMENT_OBS_0, enterprise definition, technology sector",3
-#9-c-1,"COMMENT_OBS_0, länder, type of technology",3
+#9-c-1,"COMMENT_OBS_0, land, type of technology",3
