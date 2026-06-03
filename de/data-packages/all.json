@@ -2319,16 +2319,28 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bruttoausgaben (ODA und OOF)",
-                "Bruttoentwicklungsausgaben (ODA)",
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Messgröße"
+          },
+          {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Öffentliche Entwicklungsleistungen",
+                "Sonstige öffentliche Leistungen",
+                ""
+              ]
+            },
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -2362,7 +2374,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -4380,7 +4392,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "p",
                 ""
               ]
             },
@@ -14804,6 +14815,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "…",
                 "|",
                 ""
               ]
@@ -16165,16 +16178,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wasser und Sanitär",
-                "Verwandte Zwecke",
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Messgröße"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -1,61 +1,121 @@
-Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Million EUR,Gross disbursements (ODA and OOF),,,,2626.5
-2011,Million EUR,Gross disbursements (ODA and OOF),,,,2524.3
-2012,Million EUR,Gross disbursements (ODA and OOF),,,,2254.5
-2013,Million EUR,Gross disbursements (ODA and OOF),,,,2648.3
-2014,Million EUR,Gross disbursements (ODA and OOF),,,,3458.8
-2015,Million EUR,Gross disbursements (ODA and OOF),,,,4346.0
-2016,Million EUR,Gross disbursements (ODA and OOF),,,,3736.1
-2017,Million EUR,Gross disbursements (ODA and OOF),,,,3736.6
-2018,Million EUR,Gross disbursements (ODA and OOF),,,,3850.8
-2019,Million EUR,Gross disbursements (ODA and OOF),,,,4099.2
-2020,Million EUR,Gross disbursements (ODA and OOF),,,,4230.2
-2021,Million EUR,Gross disbursements (ODA and OOF),,,,4040.7
-2022,Million EUR,Gross disbursements (ODA and OOF),,,,4862.6
-2023,Million EUR,Gross disbursements (ODA and OOF),,,,4012.5
-2024,Million EUR,Gross disbursements (ODA and OOF),,,,4075.3
-2010,Million EUR,Gross disbursements (ODA),,,,1927.2
-2011,Million EUR,Gross disbursements (ODA),,,,1808.9
-2012,Million EUR,Gross disbursements (ODA),,,,1488.2
-2013,Million EUR,Gross disbursements (ODA),,,,2046.5
-2014,Million EUR,Gross disbursements (ODA),,,,2918.9
-2015,Million EUR,Gross disbursements (ODA),,,,3768.4
-2016,Million EUR,Gross disbursements (ODA),,,,3304.0
-2017,Million EUR,Gross disbursements (ODA),,,,3048.7
-2018,Million EUR,Gross disbursements (ODA),,,,3016.5
-2019,Million EUR,Gross disbursements (ODA),,,,3309.2
-2020,Million EUR,Gross disbursements (ODA),,,,3632.4
-2021,Million EUR,Gross disbursements (ODA),,,,3403.5
-2022,Million EUR,Gross disbursements (ODA),,,,4217.9
-2023,Million EUR,Gross disbursements (ODA),,,,3936.8
-2024,Million EUR,Gross disbursements (ODA),,,,3934.2
-2010,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,4029.2
-2011,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,3825.4
-2012,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,3368.1
-2013,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,3879.0
-2014,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,4971.9
-2015,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,6140.2
-2016,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,5212.6
-2017,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,5137.8
-2018,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,5197.5
-2019,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,5423.7
-2020,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,5500.6
-2021,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,5116.5
-2022,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,5785.6
-2023,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,4474.6
-2024,"Million USD, constant prices (2024)",Gross disbursements (ODA and OOF),,,,4407.6
-2010,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,2956.5
-2011,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,2741.2
-2012,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,2223.3
-2013,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,2997.6
-2014,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,4195.8
-2015,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,5324.0
-2016,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,4609.8
-2017,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,4192.0
-2018,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,4071.4
-2019,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,4378.4
-2020,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,4723.3
-2021,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,4309.6
-2022,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,5018.6
-2023,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,4390.1
-2024,"Million USD, constant prices (2024)",Gross disbursements (ODA),,,,4255.1
+Year,Units,Measurement parameter,Type of flow,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Million EUR,Commitments,Official development assistance,,,,999
+2011,Million EUR,Commitments,Official development assistance,,,,999
+2012,Million EUR,Commitments,Official development assistance,,,,999
+2013,Million EUR,Commitments,Official development assistance,,,,999
+2014,Million EUR,Commitments,Official development assistance,,,,999
+2015,Million EUR,Commitments,Official development assistance,,,,999
+2016,Million EUR,Commitments,Official development assistance,,,,999
+2017,Million EUR,Commitments,Official development assistance,,,,999
+2018,Million EUR,Commitments,Official development assistance,,,,999
+2019,Million EUR,Commitments,Official development assistance,,,,999
+2020,Million EUR,Commitments,Official development assistance,,,,999
+2021,Million EUR,Commitments,Official development assistance,,,,999
+2022,Million EUR,Commitments,Official development assistance,,,,999
+2023,Million EUR,Commitments,Official development assistance,,,,999
+2024,Million EUR,Commitments,Official development assistance,,,,999
+2010,Million EUR,Gross disbursements,Official development assistance,,,,999
+2011,Million EUR,Gross disbursements,Official development assistance,,,,999
+2012,Million EUR,Gross disbursements,Official development assistance,,,,999
+2013,Million EUR,Gross disbursements,Official development assistance,,,,999
+2014,Million EUR,Gross disbursements,Official development assistance,,,,999
+2015,Million EUR,Gross disbursements,Official development assistance,,,,999
+2016,Million EUR,Gross disbursements,Official development assistance,,,,999
+2017,Million EUR,Gross disbursements,Official development assistance,,,,999
+2018,Million EUR,Gross disbursements,Official development assistance,,,,999
+2019,Million EUR,Gross disbursements,Official development assistance,,,,999
+2020,Million EUR,Gross disbursements,Official development assistance,,,,999
+2021,Million EUR,Gross disbursements,Official development assistance,,,,999
+2022,Million EUR,Gross disbursements,Official development assistance,,,,999
+2023,Million EUR,Gross disbursements,Official development assistance,,,,999
+2024,Million EUR,Gross disbursements,Official development assistance,,,,999
+2010,Million EUR,Commitments,Other official flows,,,,999
+2011,Million EUR,Commitments,Other official flows,,,,999
+2012,Million EUR,Commitments,Other official flows,,,,999
+2013,Million EUR,Commitments,Other official flows,,,,999
+2014,Million EUR,Commitments,Other official flows,,,,999
+2015,Million EUR,Commitments,Other official flows,,,,999
+2016,Million EUR,Commitments,Other official flows,,,,999
+2017,Million EUR,Commitments,Other official flows,,,,999
+2018,Million EUR,Commitments,Other official flows,,,,999
+2019,Million EUR,Commitments,Other official flows,,,,999
+2020,Million EUR,Commitments,Other official flows,,,,999
+2021,Million EUR,Commitments,Other official flows,,,,999
+2022,Million EUR,Commitments,Other official flows,,,,999
+2023,Million EUR,Commitments,Other official flows,,,,999
+2024,Million EUR,Commitments,Other official flows,,,,999
+2010,Million EUR,Gross disbursements,Other official flows,,,,999
+2011,Million EUR,Gross disbursements,Other official flows,,,,999
+2012,Million EUR,Gross disbursements,Other official flows,,,,999
+2013,Million EUR,Gross disbursements,Other official flows,,,,999
+2014,Million EUR,Gross disbursements,Other official flows,,,,999
+2015,Million EUR,Gross disbursements,Other official flows,,,,999
+2016,Million EUR,Gross disbursements,Other official flows,,,,999
+2017,Million EUR,Gross disbursements,Other official flows,,,,999
+2018,Million EUR,Gross disbursements,Other official flows,,,,999
+2019,Million EUR,Gross disbursements,Other official flows,,,,999
+2020,Million EUR,Gross disbursements,Other official flows,,,,999
+2021,Million EUR,Gross disbursements,Other official flows,,,,999
+2022,Million EUR,Gross disbursements,Other official flows,,,,999
+2023,Million EUR,Gross disbursements,Other official flows,,,,999
+2024,Million EUR,Gross disbursements,Other official flows,,,,999
+2010,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2011,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2012,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2013,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2014,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2015,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2016,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2017,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2018,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2019,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2020,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2021,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2022,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2023,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2024,"Million USD, constant prices (2024)",Commitments,Official development assistance,,,,999
+2010,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2011,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2012,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2013,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2014,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2015,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2016,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2017,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2018,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2019,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2020,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2021,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2022,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2023,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2024,"Million USD, constant prices (2024)",Gross disbursements,Official development assistance,,,,999
+2010,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2011,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2012,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2013,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2014,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2015,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2016,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2017,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2018,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2019,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2020,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2021,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2022,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2023,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2024,"Million USD, constant prices (2024)",Commitments,Other official flows,,,,999
+2010,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2011,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2012,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2013,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2014,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2015,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2016,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2017,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2018,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2019,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2020,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2021,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2022,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2023,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999
+2024,"Million USD, constant prices (2024)",Gross disbursements,Other official flows,,,,999

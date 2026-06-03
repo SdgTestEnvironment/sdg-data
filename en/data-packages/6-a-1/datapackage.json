@@ -28,16 +28,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "Water and sanitation",
-                "Other related purposes",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Measurement parameter"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -28,16 +28,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wasser und Sanitär",
-                "Verwandte Zwecke",
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Messgröße"
           },
           {
             "name": "COMMENT_OBS_0",

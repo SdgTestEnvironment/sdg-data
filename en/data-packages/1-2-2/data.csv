@@ -142,7 +142,7 @@ Year,Time series,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Population living below the national poverty line,,,,,,14.8
 2023,Population living below the national poverty line,,,,,,14.4
 2024,Population living below the national poverty line,,,,,,15.5
-2025,Population living below the national poverty line,,,p,,,16.1
+2025,Population living below the national poverty line,,,,,,16.1
 2010,Population living below the national poverty line,5 years and younger,,,,,16.6
 2011,Population living below the national poverty line,5 years and younger,,,,,15.6
 2012,Population living below the national poverty line,5 years and younger,,,,,14.8
@@ -158,7 +158,7 @@ Year,Time series,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Population living below the national poverty line,5 years and younger,,,,,14.0
 2023,Population living below the national poverty line,5 years and younger,,,,,13.7
 2024,Population living below the national poverty line,5 years and younger,,,,,15.6
-2025,Population living below the national poverty line,5 years and younger,,p,,,16.3
+2025,Population living below the national poverty line,5 years and younger,,,,,16.3
 2010,Population living below the national poverty line,6 to under 12 years,,,,,17.4
 2011,Population living below the national poverty line,6 to under 12 years,,,,,14.7
 2012,Population living below the national poverty line,6 to under 12 years,,,,,13.5
@@ -174,7 +174,7 @@ Year,Time series,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Population living below the national poverty line,6 to under 12 years,,,,,14.6
 2023,Population living below the national poverty line,6 to under 12 years,,,,,13.0
 2024,Population living below the national poverty line,6 to under 12 years,,,,,14.3
-2025,Population living below the national poverty line,6 to under 12 years,,p,,,14.6
+2025,Population living below the national poverty line,6 to under 12 years,,,,,14.6
 2010,Population living below the national poverty line,12 to under 18 years,,,,,18.7
 2011,Population living below the national poverty line,12 to under 18 years,,,,,16.5
 2012,Population living below the national poverty line,12 to under 18 years,,,,,17.2
@@ -190,7 +190,7 @@ Year,Time series,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Population living below the national poverty line,12 to under 18 years,,,,,16.3
 2023,Population living below the national poverty line,12 to under 18 years,,,,,15.4
 2024,Population living below the national poverty line,12 to under 18 years,,,,,15.9
-2025,Population living below the national poverty line,12 to under 18 years,,p,,,17.1
+2025,Population living below the national poverty line,12 to under 18 years,,,,,17.1
 2010,Population living below the national poverty line,18 to under 65 years,,,,,15.6
 2011,Population living below the national poverty line,18 to under 65 years,,,,,16.4
 2012,Population living below the national poverty line,18 to under 65 years,,,,,16.6
@@ -206,7 +206,7 @@ Year,Time series,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Population living below the national poverty line,18 to under 65 years,,,,,13.5
 2023,Population living below the national poverty line,18 to under 65 years,,,,,13.2
 2024,Population living below the national poverty line,18 to under 65 years,,,,,14.2
-2025,Population living below the national poverty line,18 to under 65 years,,p,,,15.0
+2025,Population living below the national poverty line,18 to under 65 years,,,,,15.0
 2010,Population living below the national poverty line,65 years and older,,,,,14.1
 2011,Population living below the national poverty line,65 years and older,,,,,14.2
 2012,Population living below the national poverty line,65 years and older,,,,,15.0
@@ -222,7 +222,7 @@ Year,Time series,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Population living below the national poverty line,65 years and older,,,,,18.3
 2023,Population living below the national poverty line,65 years and older,,,,,18.4
 2024,Population living below the national poverty line,65 years and older,,,,,19.4
-2025,Population living below the national poverty line,65 years and older,,p,,,19.5
+2025,Population living below the national poverty line,65 years and older,,,,,19.5
 2010,Population living below the national poverty line,,Female,,,,16.4
 2011,Population living below the national poverty line,,Female,,,,16.8
 2012,Population living below the national poverty line,,Female,,,,17.2
@@ -238,7 +238,7 @@ Year,Time series,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Population living below the national poverty line,,Female,,,,15.5
 2023,Population living below the national poverty line,,Female,,,,15.1
 2024,Population living below the national poverty line,,Female,,,,16.2
-2025,Population living below the national poverty line,,Female,p,,,16.7
+2025,Population living below the national poverty line,,Female,,,,16.7
 2010,Population living below the national poverty line,,Male,,,,14.9
 2011,Population living below the national poverty line,,Male,,,,14.9
 2012,Population living below the national poverty line,,Male,,,,14.9
@@ -254,7 +254,7 @@ Year,Time series,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,Population living below the national poverty line,,Male,,,,14.0
 2023,Population living below the national poverty line,,Male,,,,13.7
 2024,Population living below the national poverty line,,Male,,,,14.7
-2025,Population living below the national poverty line,,Male,p,,,15.6
+2025,Population living below the national poverty line,,Male,,,,15.6
 2010,Persons living in households with very low work intensity,,,.,,,
 2011,Persons living in households with very low work intensity,,,.,,,
 2012,Persons living in households with very low work intensity,,,.,,,

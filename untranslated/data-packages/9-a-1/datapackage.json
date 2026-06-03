@@ -26,12 +26,23 @@
             }
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "gross disbursements (oda and oof)",
-                "gross disbursements (oda)",
+                "commitments",
+                "gross disbursements",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "official development assistance",
+                "other official flows",
                 ""
               ]
             }
@@ -65,7 +76,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
