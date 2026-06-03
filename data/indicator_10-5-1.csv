@@ -14,6 +14,7 @@ Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,ratio of regulatory capital to all weighted risk positions,|,,,7.29
 2023,ratio of regulatory capital to all weighted risk positions,,,,7.30
 2024,ratio of regulatory capital to all weighted risk positions,,,,
+2025,ratio of regulatory capital to all weighted risk positions,…,,,
 2010,ratio of regulatory (tier 1) capital to all weighted risk positions,,,,11.83
 2011,ratio of regulatory (tier 1) capital to all weighted risk positions,,,,12.14
 2012,ratio of regulatory (tier 1) capital to all weighted risk positions,,,,14.18
@@ -29,6 +30,7 @@ Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,ratio of regulatory (tier 1) capital to all weighted risk positions,|,,,17.15
 2023,ratio of regulatory (tier 1) capital to all weighted risk positions,,,,17.69
 2024,ratio of regulatory (tier 1) capital to all weighted risk positions,,,,18.25
+2025,ratio of regulatory (tier 1) capital to all weighted risk positions,,,,18.25
 2010,ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,34.22
 2011,ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,31.63
 2012,ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,27.41
@@ -44,6 +46,7 @@ Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,ratio of non-performing loans (net of risk provisions) to balance sheet capital,|,,,13.30
 2023,ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,16.08
 2024,ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,18.58
+2025,ratio of non-performing loans (net of risk provisions) to balance sheet capital,,,,19.85
 2010,non-performing loans to total gross loans,,,,3.20
 2011,non-performing loans to total gross loans,,,,3.03
 2012,non-performing loans to total gross loans,,,,2.86
@@ -59,6 +62,7 @@ Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,non-performing loans to total gross loans,|,,,1.23
 2023,non-performing loans to total gross loans,,,,1.54
 2024,non-performing loans to total gross loans,,,,1.77
+2025,non-performing loans to total gross loans,,,,1.89
 2010,total return on assets,,,,0.37
 2011,total return on assets,,,,0.53
 2012,total return on assets,,,,0.45
@@ -74,6 +78,7 @@ Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,total return on assets,|,,,0.35
 2023,total return on assets,,,,0.51
 2024,total return on assets,,,,0.58
+2025,total return on assets,,,,0.62
 2010,ratio of liquid assets to short-term liabilities,,,,136.99
 2011,ratio of liquid assets to short-term liabilities,,,,137.86
 2012,ratio of liquid assets to short-term liabilities,,,,144.17
@@ -89,6 +94,7 @@ Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,ratio of liquid assets to short-term liabilities,|,,,33.67
 2023,ratio of liquid assets to short-term liabilities,,,,35.66
 2024,ratio of liquid assets to short-term liabilities,,,,33.46
+2025,ratio of liquid assets to short-term liabilities,,,,32.41
 2010,ratio of open foreign exchange position to regulatory capital,,,,4.40
 2011,ratio of open foreign exchange position to regulatory capital,,,,4.48
 2012,ratio of open foreign exchange position to regulatory capital,,,,3.93
@@ -104,3 +110,4 @@ Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,ratio of open foreign exchange position to regulatory capital,|,,,3.63
 2023,ratio of open foreign exchange position to regulatory capital,,,,2.74
 2024,ratio of open foreign exchange position to regulatory capital,,,,2.75
+2025,ratio of open foreign exchange position to regulatory capital,,,,2.56
