@@ -26,13 +26,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (commitments) for biodiversity",
-                "oda (gross disbursements) for biodiversity",
-                "oda (gross disbursements) to the forestry sector",
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }

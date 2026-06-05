@@ -2409,24 +2409,22 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben (ODA) für Biodiversität",
-                "Umweltschutzausgaben",
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Messgröße"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
                 "r",
                 "p",
                 ""
@@ -2453,6 +2451,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität",
+                "Umweltschutzausgaben",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -6700,17 +6710,16 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben (ODA) für den Forstsektor",
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Messgröße"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -11848,8 +11857,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA)",
-                "Bruttoentwicklungsausgaben (ODA)",
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
                 ""
               ]
             },

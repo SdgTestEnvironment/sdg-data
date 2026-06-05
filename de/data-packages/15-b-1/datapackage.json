@@ -28,17 +28,16 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben (ODA) für Biodiversität",
-                "Bruttoentwicklungsausgaben (ODA) für den Forstsektor",
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Messgröße"
           },
           {
             "name": "COMMENT_OBS_0",

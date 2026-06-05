@@ -26,13 +26,12 @@
             }
           },
           {
-            "name": "timeseries",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (commitments) for biodiversity",
-                "oda (gross disbursements) for biodiversity",
-                "environmental protection expenditure",
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }
@@ -42,7 +41,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "…",
                 "r",
                 "p",
                 ""
@@ -63,6 +61,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments and gross disbursements of official development assistance for biodiversity",
+                "environmental protection expenditure",
                 ""
               ]
             }
