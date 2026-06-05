@@ -6710,6 +6710,18 @@
             "title": "Units"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments and gross disbursements of official development assistance for biodiversity",
+                "Commitments and gross disbursements of official development assistance to the forestry sector",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "measurement parameter",
             "type": "string",
             "constraints": {
