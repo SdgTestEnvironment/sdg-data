@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Commitments",
-                "Gross disbursements (nez)",
+                "Gross disbursements (net)",
                 ""
               ]
             },

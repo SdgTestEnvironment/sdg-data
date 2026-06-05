@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million USD, constant prices (2024)",
                 "Million EUR",
+                "Million USD, constant prices (2024)",
                 ""
               ]
             },
@@ -41,6 +41,30 @@
               ]
             },
             "title": "Sector"
+          },
+          {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments",
+                "Gross disbursements",
+                ""
+              ]
+            },
+            "title": "Measurement parameter"
+          },
+          {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance",
+                "Other official flows",
+                ""
+              ]
+            },
+            "title": "Type of flow"
           },
           {
             "name": "COMMENT_OBS_0",

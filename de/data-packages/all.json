@@ -12653,7 +12653,7 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
@@ -12664,8 +12664,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Stipendien",
                 "Kalkulatorische Studienplatzkosten",
+                "Stipendien",
                 ""
               ]
             },
@@ -14010,8 +14010,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen USD, konstante Preise (2024)",
                 "Millionen EUR",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
@@ -14031,6 +14031,30 @@
               ]
             },
             "title": "Sektor"
+          },
+          {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
+                ""
+              ]
+            },
+            "title": "Messgröße"
+          },
+          {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Öffentliche Entwicklungsleistungen",
+                "Sonstige öffentliche Leistungen",
+                ""
+              ]
+            },
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -1,181 +1,601 @@
-Year,Units,Sektor,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,"Millionen USD, konstante Preise (2024)",,,,,2828.4
-2011,"Millionen USD, konstante Preise (2024)",,,,,2537.8
-2012,"Millionen USD, konstante Preise (2024)",,,,,2072.1
-2013,"Millionen USD, konstante Preise (2024)",,,,,2653.9
-2014,"Millionen USD, konstante Preise (2024)",,,,,3066.7
-2015,"Millionen USD, konstante Preise (2024)",,,,,4086.4
-2016,"Millionen USD, konstante Preise (2024)",,,,,4146.5
-2017,"Millionen USD, konstante Preise (2024)",,,,,3730.7
-2018,"Millionen USD, konstante Preise (2024)",,,,,4275.3
-2019,"Millionen USD, konstante Preise (2024)",,,,,4385.9
-2020,"Millionen USD, konstante Preise (2024)",,,,,4321.1
-2021,"Millionen USD, konstante Preise (2024)",,,,,3474.5
-2022,"Millionen USD, konstante Preise (2024)",,,,,4227.1
-2023,"Millionen USD, konstante Preise (2024)",,,,,4123.2
-2024,"Millionen USD, konstante Preise (2024)",,,,,5115.2
-2010,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,689.4
-2011,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,750.3
-2012,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,673.0
-2013,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,718.4
-2014,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,987.4
-2015,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,1056.1
-2016,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,1045.4
-2017,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,1096.9
-2018,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,1130.5
-2019,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,1054.8
-2020,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,1176.4
-2021,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,922.1
-2022,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,972.3
-2023,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,988.5
-2024,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,,,,1405.1
-2010,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,407.9
-2011,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,284.4
-2012,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,363.1
-2013,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,477.2
-2014,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,166.1
-2015,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,611.2
-2016,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,527.9
-2017,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,334.0
-2018,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,467.4
-2019,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,657.2
-2020,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,475.4
-2021,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,259.4
-2022,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,341.7
-2023,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,401.7
-2024,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,,,,488.3
-2010,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,31.5
-2011,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,11.8
-2012,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,8.2
-2013,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,33.5
-2014,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,82.0
-2015,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,35.6
-2016,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,19.4
-2017,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,37.1
-2018,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,38.6
-2019,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,75.3
-2020,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,76.4
-2021,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,112.7
-2022,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,158.3
-2023,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,61.8
-2024,"Millionen USD, konstante Preise (2024)",Kommunikation,,,,54.5
-2010,"Millionen USD, konstante Preise (2024)",Energie,,,,11602.1
-2011,"Millionen USD, konstante Preise (2024)",Energie,,,,1357.6
-2012,"Millionen USD, konstante Preise (2024)",Energie,,,,917.8
-2013,"Millionen USD, konstante Preise (2024)",Energie,,,,1353.7
-2014,"Millionen USD, konstante Preise (2024)",Energie,,,,1756.4
-2015,"Millionen USD, konstante Preise (2024)",Energie,,,,2291.5
-2016,"Millionen USD, konstante Preise (2024)",Energie,,,,2370.2
-2017,"Millionen USD, konstante Preise (2024)",Energie,,,,2052.4
-2018,"Millionen USD, konstante Preise (2024)",Energie,,,,2328.2
-2019,"Millionen USD, konstante Preise (2024)",Energie,,,,2311.4
-2020,"Millionen USD, konstante Preise (2024)",Energie,,,,2174.4
-2021,"Millionen USD, konstante Preise (2024)",Energie,,,,1854.6
-2022,"Millionen USD, konstante Preise (2024)",Energie,,,,2576.1
-2023,"Millionen USD, konstante Preise (2024)",Energie,,,,2529.2
-2024,"Millionen USD, konstante Preise (2024)",Energie,,,,3033.1
-2010,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,97.5
-2011,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,133.7
-2012,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,110.0
-2013,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,71.2
-2014,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,74.7
-2015,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,91.9
-2016,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,183.6
-2017,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,210.3
-2018,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,310.6
-2019,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,287.3
-2020,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,418.4
-2021,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,325.8
-2022,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,178.8
-2023,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,142.1
-2024,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,,,,134.1
-2010,Millionen EUR,,,,,1843.7
-2011,Millionen EUR,,,,,1674.7
-2012,Millionen EUR,,,,,1387.0
-2013,Millionen EUR,,,,,1811.9
-2014,Millionen EUR,,,,,2133.4
-2015,Millionen EUR,,,,,2892.3
-2016,Millionen EUR,,,,,2971.9
-2017,Millionen EUR,,,,,2713.2
-2018,Millionen EUR,,,,,3167.5
-2019,Millionen EUR,,,,,3314.9
-2020,Millionen EUR,,,,,3323.1
-2021,Millionen EUR,,,,,2744.0
-2022,Millionen EUR,,,,,3552.7
-2023,Millionen EUR,,,,,3697.4
-2024,Millionen EUR,,,,,4729.5
-2010,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,449.4
-2011,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,495.1
-2012,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,450.5
-2013,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,490.5
-2014,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,686.9
-2015,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,747.5
-2016,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,749.3
-2017,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,797.8
-2018,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,837.6
-2019,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,797.2
-2020,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,904.7
-2021,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,728.2
-2022,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,817.2
-2023,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,886.4
-2024,Millionen EUR,Wasserversorgung und Abwasserentsorgung,,,,1299.2
-2010,Millionen EUR,Transport und Lagerung,,,,265.9
-2011,Millionen EUR,Transport und Lagerung,,,,187.7
-2012,Millionen EUR,Transport und Lagerung,,,,243.1
-2013,Millionen EUR,Transport und Lagerung,,,,325.8
-2014,Millionen EUR,Transport und Lagerung,,,,115.5
-2015,Millionen EUR,Transport und Lagerung,,,,432.6
-2016,Millionen EUR,Transport und Lagerung,,,,378.4
-2017,Millionen EUR,Transport und Lagerung,,,,242.9
-2018,Millionen EUR,Transport und Lagerung,,,,346.3
-2019,Millionen EUR,Transport und Lagerung,,,,496.7
-2020,Millionen EUR,Transport und Lagerung,,,,365.6
-2021,Millionen EUR,Transport und Lagerung,,,,204.9
-2022,Millionen EUR,Transport und Lagerung,,,,287.1
-2023,Millionen EUR,Transport und Lagerung,,,,360.2
-2024,Millionen EUR,Transport und Lagerung,,,,451.5
-2010,Millionen EUR,Kommunikation,,,,20.6
-2011,Millionen EUR,Kommunikation,,,,7.8
-2012,Millionen EUR,Kommunikation,,,,5.5
-2013,Millionen EUR,Kommunikation,,,,22.9
-2014,Millionen EUR,Kommunikation,,,,57.1
-2015,Millionen EUR,Kommunikation,,,,25.2
-2016,Millionen EUR,Kommunikation,,,,13.9
-2017,Millionen EUR,Kommunikation,,,,27.0
-2018,Millionen EUR,Kommunikation,,,,28.6
-2019,Millionen EUR,Kommunikation,,,,56.9
-2020,Millionen EUR,Kommunikation,,,,58.7
-2021,Millionen EUR,Kommunikation,,,,89.0
-2022,Millionen EUR,Kommunikation,,,,133.0
-2023,Millionen EUR,Kommunikation,,,,55.4
-2024,Millionen EUR,Kommunikation,,,,50.4
-2010,Millionen EUR,Energie,,,,1044.3
-2011,Millionen EUR,Energie,,,,895.9
-2012,Millionen EUR,Energie,,,,614.4
-2013,Millionen EUR,Energie,,,,924.2
-2014,Millionen EUR,Energie,,,,1221.9
-2015,Millionen EUR,Energie,,,,1621.9
-2016,Millionen EUR,Energie,,,,1698.8
-2017,Millionen EUR,Energie,,,,1492.7
-2018,Millionen EUR,Energie,,,,1724.9
-2019,Millionen EUR,Energie,,,,1747.0
-2020,Millionen EUR,Energie,,,,1672.2
-2021,Millionen EUR,Energie,,,,1464.7
-2022,Millionen EUR,Energie,,,,2165.1
-2023,Millionen EUR,Energie,,,,2268.0
-2024,Millionen EUR,Energie,,,,2804.4
-2010,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,63.6
-2011,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,88.3
-2012,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,73.6
-2013,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,48.6
-2014,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,52.0
-2015,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,65.1
-2016,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,131.6
-2017,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,152.9
-2018,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,230.1
-2019,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,217.1
-2020,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,321.8
-2021,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,257.3
-2022,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,150.2
-2023,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,127.4
-2024,Millionen EUR,Stadtentwicklung und Stadtverwaltung,,,,124.0
+Year,Units,Sektor,Messgröße,Art des Finanzstroms,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,566.859
+2011,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,748.48
+2012,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1075.52
+2013,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,803.379
+2014,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,696.313
+2015,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,854.934
+2016,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,591.005
+2017,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1263.616
+2018,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1416.619
+2019,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1223.479
+2020,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1135.461
+2021,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1052.936
+2022,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1400.488
+2023,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,698.579
+2024,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1393.622
+2010,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,367.776
+2011,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,64.273
+2012,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,76.692
+2013,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,228.64
+2014,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,138.361
+2015,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,668.163
+2016,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,946.723
+2017,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,421.653
+2018,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,52.203
+2019,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,793.824
+2020,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,798.468
+2021,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,642.954
+2022,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,527.784
+2023,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,839.404
+2024,Millionen EUR,Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,541.665
+2010,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,18.576
+2011,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,12.374
+2012,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,9.101
+2013,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,27.46
+2014,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,54.694
+2015,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,28.116
+2016,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,12.666
+2017,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,33.175
+2018,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,11.928
+2019,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,61.076
+2020,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,39.841
+2021,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,150.329
+2022,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,88.587
+2023,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,48.214
+2024,Millionen EUR,Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,38.935
+2010,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,1813.137
+2011,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,1114.534
+2012,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,1043.354
+2013,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,1581.735
+2014,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2974.079
+2015,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2001.063
+2016,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2332.488
+2017,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2172.595
+2018,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2931.578
+2019,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2007.762
+2020,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,1594.5
+2021,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,1416.67
+2022,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,3563.555
+2023,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,3080.325
+2024,Millionen EUR,Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,1987.54
+2010,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,51.869
+2011,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,313.286
+2012,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,48.912
+2013,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,135.842
+2014,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,51.927
+2015,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,90.856
+2016,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,455.108
+2017,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,204.952
+2018,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,215.715
+2019,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,280.982
+2020,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,346.96
+2021,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,137.054
+2022,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,808.189
+2023,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,437.784
+2024,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,137.464
+2010,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,449.387
+2011,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,495.117
+2012,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,450.456
+2013,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,490.458
+2014,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,686.944
+2015,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,739.473
+2016,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,743.538
+2017,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,797.765
+2018,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,837.61
+2019,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,763.001
+2020,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,824.907
+2021,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,728.218
+2022,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,771.218
+2023,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,886.445
+2024,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1299.174
+2010,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,134.292
+2011,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,187.662
+2012,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,163.622
+2013,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,276.122
+2014,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,105.962
+2015,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,432.619
+2016,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,378.383
+2017,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,242.894
+2018,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,273.935
+2019,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,444.629
+2020,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,346.776
+2021,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,165.431
+2022,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,247.648
+2023,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,355.743
+2024,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,451.456
+2010,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,20.555
+2011,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,7.778
+2012,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,5.479
+2013,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,22.854
+2014,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,57.058
+2015,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,25.187
+2016,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,13.898
+2017,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,26.97
+2018,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,8.941
+2019,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,28.875
+2020,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,36.512
+2021,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,68.153
+2022,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,82.24
+2023,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,55.395
+2024,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,50.404
+2010,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1044.339
+2011,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,895.864
+2012,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,614.358
+2013,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,924.214
+2014,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1221.904
+2015,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1621.932
+2016,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1698.765
+2017,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1492.676
+2018,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1570.578
+2019,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1600.496
+2020,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1577.668
+2021,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1375.152
+2022,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1988.187
+2023,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,2238.748
+2024,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,2663.402
+2010,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,63.574
+2011,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,88.251
+2012,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,73.644
+2013,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,48.583
+2014,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,51.959
+2015,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,65.08
+2016,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,131.599
+2017,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,152.943
+2018,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,230.109
+2019,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,217.125
+2020,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,321.776
+2021,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,257.277
+2022,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,150.243
+2023,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,127.399
+2024,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,123.998
+2010,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2011,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2012,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2013,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2014,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2015,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2016,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2017,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2018,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2019,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,34.209
+2020,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,79.816
+2021,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2022,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,45.946
+2023,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2024,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2010,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2011,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2012,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2013,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2014,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2015,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2016,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2017,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2018,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,72.34
+2019,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,52.089
+2020,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,18.869
+2021,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,39.431
+2022,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,39.498
+2023,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,9.683
+2024,Millionen EUR,Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2010,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2011,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2012,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2013,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2014,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2015,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2016,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2017,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2018,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,19.649
+2019,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,28.006
+2020,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,22.237
+2021,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,20.82
+2022,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,50.769
+2023,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2024,Millionen EUR,Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2010,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2011,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2012,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2013,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2014,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2015,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2016,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2017,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2018,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,154.328
+2019,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,146.486
+2020,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,94.567
+2021,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,89.522
+2022,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,176.929
+2023,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,200.0
+2024,Millionen EUR,Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2010,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2011,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2012,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2013,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2014,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2015,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2016,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2017,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2018,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2019,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2020,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2021,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2022,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2023,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2024,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2010,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2011,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2012,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2013,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2014,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2015,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,8.043
+2016,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,5.737
+2017,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2018,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2019,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,34.209
+2020,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,79.816
+2021,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2022,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,45.946
+2023,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2024,Millionen EUR,Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2010,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,131.6
+2011,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2012,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,79.432
+2013,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,49.641
+2014,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,9.584
+2015,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2016,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2017,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2018,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,72.34
+2019,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,52.089
+2020,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,18.869
+2021,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,39.431
+2022,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,39.498
+2023,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,4.442
+2024,Millionen EUR,Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2010,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2011,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2012,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2013,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2014,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2015,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2016,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2017,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2018,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,19.649
+2019,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,28.006
+2020,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,22.237
+2021,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,20.82
+2022,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,50.769
+2023,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2024,Millionen EUR,Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2010,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2011,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2012,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2013,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2014,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2015,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2016,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2017,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2018,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,154.328
+2019,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,146.486
+2020,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,94.567
+2021,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,89.522
+2022,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,176.929
+2023,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,29.239
+2024,Millionen EUR,Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,141.034
+2010,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2011,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2012,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2013,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2014,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2015,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2016,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2017,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2018,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2019,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2020,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2021,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2022,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2023,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2024,Millionen EUR,Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2010,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,869.6
+2011,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1134.247
+2012,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1606.788
+2013,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1176.723
+2014,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1000.918
+2015,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1207.87
+2016,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,824.586
+2017,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1737.466
+2018,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1912.051
+2019,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1618.771
+2020,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1476.441
+2021,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1333.256
+2022,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1666.338
+2023,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,779.028
+2024,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1507.27
+2010,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,564.193
+2011,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,97.399
+2012,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,114.575
+2013,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,334.893
+2014,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,198.888
+2015,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,943.996
+2016,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1320.895
+2017,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,579.772
+2018,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,70.46
+2019,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1050.299
+2020,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,1038.249
+2021,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,814.127
+2022,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,627.972
+2023,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,936.07
+2024,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Öffentliche Entwicklungsleistungen,,,,585.837
+2010,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,28.496
+2011,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,18.752
+2012,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,13.597
+2013,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,40.221
+2014,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,78.621
+2015,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,39.723
+2016,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,17.672
+2017,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,45.615
+2018,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,16.099
+2019,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,80.809
+2020,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,51.805
+2021,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,190.351
+2022,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,105.403
+2023,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,53.766
+2024,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Öffentliche Entwicklungsleistungen,,,,42.11
+2010,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2781.474
+2011,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,1688.966
+2012,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,1558.734
+2013,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2316.795
+2014,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,4275.099
+2015,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2827.148
+2016,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,3254.353
+2017,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2987.308
+2018,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,3956.833
+2019,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2656.445
+2020,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2073.329
+2021,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,1793.827
+2022,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,4240.013
+2023,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,3435.059
+2024,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Öffentliche Entwicklungsleistungen,,,,2149.622
+2010,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,79.57
+2011,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,474.754
+2012,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,73.073
+2013,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,198.97
+2014,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,74.643
+2015,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,128.363
+2016,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,634.98
+2017,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,281.808
+2018,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,291.157
+2019,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,371.764
+2020,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,451.152
+2021,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,173.541
+2022,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,961.605
+2023,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,488.2
+2024,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Öffentliche Entwicklungsleistungen,,,,148.674
+2010,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,689.39
+2011,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,750.302
+2012,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,672.966
+2013,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,718.382
+2014,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,987.449
+2015,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1044.745
+2016,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1037.405
+2017,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1096.923
+2018,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1130.546
+2019,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1009.517
+2020,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1072.627
+2021,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,922.089
+2022,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,917.616
+2023,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,988.529
+2024,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1405.12
+2010,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,206.013
+2011,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,284.383
+2012,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,244.446
+2013,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,404.44
+2014,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,152.315
+2015,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,611.213
+2016,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,527.931
+2017,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,333.978
+2018,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,369.738
+2019,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,588.284
+2020,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,450.913
+2021,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,209.473
+2022,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,294.658
+2023,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,396.711
+2024,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,488.272
+2010,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,31.532
+2011,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,11.787
+2012,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,8.186
+2013,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,33.474
+2014,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,82.019
+2015,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,35.585
+2016,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,19.391
+2017,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,37.084
+2018,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,12.068
+2019,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,38.205
+2020,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,47.476
+2021,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,86.297
+2022,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,97.851
+2023,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,61.774
+2024,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,54.514
+2010,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1602.086
+2011,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1357.594
+2012,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,917.829
+2013,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1353.713
+2014,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1756.429
+2015,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,2291.503
+2016,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,2370.165
+2017,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,2052.423
+2018,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,2119.853
+2019,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,2117.597
+2020,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,2051.442
+2021,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,1741.255
+2022,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,2365.598
+2023,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,2496.565
+2024,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,2880.6
+2010,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,97.526
+2011,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,133.736
+2012,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,110.022
+2013,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,71.161
+2014,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,74.688
+2015,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,91.947
+2016,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,183.61
+2017,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,210.296
+2018,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,310.585
+2019,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,287.276
+2020,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,418.405
+2021,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,325.772
+2022,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,178.763
+2023,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,142.07
+2024,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Öffentliche Entwicklungsleistungen,,,,134.11
+2010,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2011,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2012,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2013,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2014,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2015,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2016,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2017,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2018,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2019,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,45.262
+2020,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,103.785
+2021,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2022,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,54.668
+2023,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2024,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2010,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2011,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2012,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2013,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2014,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2015,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2016,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2017,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2018,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,97.639
+2019,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,68.919
+2020,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,24.535
+2021,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,49.928
+2022,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,46.996
+2023,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,10.798
+2024,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2010,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2011,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2012,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2013,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2014,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2015,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2016,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2017,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2018,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,26.521
+2019,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,37.054
+2020,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,28.915
+2021,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,26.363
+2022,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,60.407
+2023,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2024,"Millionen USD, konstante Preise (2024)",Kommunikation,Zusagen,Sonstige öffentliche Leistungen,,,,
+2010,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2011,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2012,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2013,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2014,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2015,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2016,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2017,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2018,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,208.3
+2019,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,193.815
+2020,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,122.965
+2021,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,113.356
+2022,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,210.515
+2023,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,223.032
+2024,"Millionen USD, konstante Preise (2024)",Energie,Zusagen,Sonstige öffentliche Leistungen,,,,
+2010,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2011,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2012,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2013,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2014,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2015,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2016,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2017,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2018,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2019,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2020,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2021,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2022,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2023,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2024,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Zusagen,Sonstige öffentliche Leistungen,,,,
+2010,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2011,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2012,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2013,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2014,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2015,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,11.363
+2016,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,8.005
+2017,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2018,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2019,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,45.262
+2020,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,103.785
+2021,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2022,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,54.668
+2023,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2024,"Millionen USD, konstante Preise (2024)",Wasserversorgung und Abwasserentsorgung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2010,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,201.883
+2011,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2012,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,118.668
+2013,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,72.711
+2014,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,13.777
+2015,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2016,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2017,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2018,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,97.639
+2019,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,68.919
+2020,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,24.535
+2021,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,49.928
+2022,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,46.996
+2023,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,4.953
+2024,"Millionen USD, konstante Preise (2024)",Transport und Lagerung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2010,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2011,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2012,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2013,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2014,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2015,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2016,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2017,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2018,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,26.521
+2019,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,37.054
+2020,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,28.915
+2021,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,26.363
+2022,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,60.407
+2023,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2024,"Millionen USD, konstante Preise (2024)",Kommunikation,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2010,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2011,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2012,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2013,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2014,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2015,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2016,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2017,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2018,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,208.3
+2019,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,193.815
+2020,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,122.965
+2021,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,113.356
+2022,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,210.515
+2023,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,32.606
+2024,"Millionen USD, konstante Preise (2024)",Energie,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,152.536
+2010,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2011,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2012,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2013,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2014,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2015,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2016,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2017,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2018,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2019,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2020,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2021,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2022,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2023,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,
+2024,"Millionen USD, konstante Preise (2024)",Stadtentwicklung und Stadtverwaltung,Bruttoentwicklungsausgaben,Sonstige öffentliche Leistungen,,,,

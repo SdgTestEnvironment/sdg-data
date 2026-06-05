@@ -10170,7 +10170,7 @@
             "constraints": {
               "enum": [
                 "commitments",
-                "gross disbursements (nez)",
+                "gross disbursements (net)",
                 ""
               ]
             }
@@ -11559,7 +11559,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2023)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -11569,8 +11569,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "scholarships",
                 "imputed student costs",
+                "scholarships",
                 ""
               ]
             }
@@ -12800,8 +12800,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million usd, constant prices (2024)",
                 "million eur",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -12816,6 +12816,28 @@
                 "communications",
                 "energy",
                 "urban development and management",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "official development assistance",
+                "other official flows",
                 ""
               ]
             }

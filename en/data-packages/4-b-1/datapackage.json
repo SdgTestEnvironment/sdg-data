@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2023)",
+                "Million USD, constant prices (2024)",
                 ""
               ]
             },
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Scholarships",
                 "Imputed student costs",
+                "Scholarships",
                 ""
               ]
             },

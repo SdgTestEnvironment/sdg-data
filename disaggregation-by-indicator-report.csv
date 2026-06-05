@@ -26,7 +26,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-6-1,COMMENT_OBS_0,1
 #11-6-2,level of fine particulate matter,1
 #11-7-2,"COMMENT_OBS_0, COMMENT_OBS_1, sex, age group, type of harassment",5
-#11-c-1,sector,1
+#11-c-1,"measurement parameter, type of flow, sector",3
 #12-2-1,COMMENT_OBS_0,1
 #12-2-2,COMMENT_OBS_0,1
 #12-3-1,"COMMENT_OBS_0, food chain stage",2
