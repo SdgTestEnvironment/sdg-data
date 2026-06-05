@@ -15,7 +15,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-5-1,"COMMENT_OBS_0, timeseries",2
 #10-7-2,migration policy area,1
 #10-7-3,COMMENT_OBS_0,1
-#10-b-1,type of flow,1
+#10-b-1,"COMMENT_OBS_0, measurement parameter, type of flow",3
 #10-c-1,COMMENT_OBS_0,1
 #11-1-1,"COMMENT_OBS_0, COMMENT_OBS_1, sex, degree of urbanisation",4
 #11-2-1,"COMMENT_OBS_0, sex, age group, time series, land, disability status",6
@@ -180,7 +180,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-8-2,COMMENT_OBS_0,1
 #8-9-1,COMMENT_OBS_0,1
 #8-9-2,"COMMENT_OBS_0, economic activity",2
-#8-a-1,time series,1
+#8-a-1,measurement parameter,1
 #9-1-1,COMMENT_OBS_0,1
 #9-1-2,"COMMENT_OBS_0, COMMENT_OBS_1, mode of transport",3
 #9-2-1,COMMENT_OBS_0,1

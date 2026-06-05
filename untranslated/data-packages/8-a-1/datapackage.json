@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [

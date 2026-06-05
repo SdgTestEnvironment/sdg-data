@@ -21,22 +21,34 @@
             "constraints": {
               "enum": [
                 "Million EUR",
-                "Million USD, constant prices (2023)",
+                "Million USD, constant prices (2024)",
                 ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments",
+                "Gross disbursements (nez)",
+                ""
+              ]
+            },
+            "title": "Measurement parameter"
+          },
+          {
             "name": "type of flow",
             "type": "string",
             "constraints": {
               "enum": [
-                "ODA (net disbursements)",
-                "OOF (net disbursements)",
-                "Officially supported export credits (net disbursements)",
-                "Private sector flows at market terms (net disbursement)",
-                "Private concessional flows (net disbursements)",
+                "Official development assistance",
+                "Other official flows",
+                "Officially supported export credits",
+                "Private sector flows at market terms",
+                "Private grants",
                 ""
               ]
             },
@@ -44,9 +56,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
+                ".",
                 ""
               ]
             },

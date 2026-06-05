@@ -21,22 +21,34 @@
             "constraints": {
               "enum": [
                 "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
+                "Millionen USD, konstante Preise (2024)",
                 ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "measurement parameter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zusagen",
+                "Bruttoentwicklungsausgaben (netto)",
+                ""
+              ]
+            },
+            "title": "Messgröße"
+          },
+          {
             "name": "type of flow",
             "type": "string",
             "constraints": {
               "enum": [
-                "Öffentliche Nettoentwicklungsausgaben (ODA)",
-                "Sonstige öffentliche Nettoausgaben (OOF)",
-                "Öffentlich unterstützte Exportkredite (Nettoausgaben)",
-                "Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)",
-                "Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)",
+                "Öffentliche Entwicklungsleistungen",
+                "Sonstige öffentliche Leistungen",
+                "Öffentlich unterstützte Exportkredite",
+                "Private Leistungen zu marktüblichen Bedingungen",
+                "Private Fördermittel",
                 ""
               ]
             },
@@ -44,9 +56,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "…",
+                ".",
                 ""
               ]
             },
