@@ -80,8 +80,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments and gross disbursements of official development assistance for biodiversity",
-                "environmental protection expenditure",
+                "a) commitments and gross disbursements of official development assistance for biodiversity",
+                "b) environmental protection expenditure",
                 ""
               ]
             }

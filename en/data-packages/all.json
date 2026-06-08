@@ -2468,8 +2468,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Commitments and gross disbursements of official development assistance for biodiversity",
-                "Environmental protection expenditure",
+                "a) Commitments and gross disbursements of official development assistance for biodiversity",
+                "b) Environmental protection expenditure",
                 ""
               ]
             },
@@ -6733,18 +6733,6 @@
             "title": "Units"
           },
           {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Commitments and gross disbursements of official development assistance for biodiversity",
-                "Commitments and gross disbursements of official development assistance biodiversity and the forestry sector",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "measurement parameter",
             "type": "string",
             "constraints": {
@@ -6757,23 +6745,10 @@
             "title": "Measurement parameter"
           },
           {
-            "name": "field",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Biodiversity",
-                "Forestry sector",
-                ""
-              ]
-            },
-            "title": "Field"
-          },
-          {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "…",
                 ""
               ]
             },
