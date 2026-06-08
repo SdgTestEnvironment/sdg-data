@@ -1615,7 +1615,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2120,7 +2120,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2202,7 +2202,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3579,7 +3579,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5306,7 +5306,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6150,7 +6150,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9481,7 +9481,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10193,7 +10193,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10848,7 +10848,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11177,7 +11177,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11604,7 +11604,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -12849,7 +12849,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -14420,7 +14420,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -14840,7 +14840,7 @@
             }
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [

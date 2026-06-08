@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "measurement parameter",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Measurement parameter"
+            "title": "Type of official development assistance"
           },
           {
             "name": "type of flow",
