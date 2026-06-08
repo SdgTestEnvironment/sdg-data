@@ -31,7 +31,7 @@
             "constraints": {
               "enum": [
                 "commitments and gross disbursements of official development assistance for biodiversity",
-                "commitments and gross disbursements of official development assistance to the forestry sector",
+                "commitments and gross disbursements of official development assistance biodiversity and the forestry sector",
                 ""
               ]
             }
@@ -43,6 +43,17 @@
               "enum": [
                 "commitments",
                 "gross disbursements",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "biodiversity",
+                "forestry sector",
                 ""
               ]
             }

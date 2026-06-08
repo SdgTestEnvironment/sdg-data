@@ -40,6 +40,17 @@
             "title": "Measurement parameter"
           },
           {
+            "name": "field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biodiversity",
+                ""
+              ]
+            },
+            "title": "Field"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {

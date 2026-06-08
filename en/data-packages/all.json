@@ -2421,6 +2421,17 @@
             "title": "Measurement parameter"
           },
           {
+            "name": "field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biodiversity",
+                ""
+              ]
+            },
+            "title": "Field"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -6727,7 +6738,7 @@
             "constraints": {
               "enum": [
                 "Commitments and gross disbursements of official development assistance for biodiversity",
-                "Commitments and gross disbursements of official development assistance to the forestry sector",
+                "Commitments and gross disbursements of official development assistance biodiversity and the forestry sector",
                 ""
               ]
             },
@@ -6744,6 +6755,18 @@
               ]
             },
             "title": "Measurement parameter"
+          },
+          {
+            "name": "field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biodiversity",
+                "Forestry sector",
+                ""
+              ]
+            },
+            "title": "Field"
           },
           {
             "name": "COMMENT_OBS_0",

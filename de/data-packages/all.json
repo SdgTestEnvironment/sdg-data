@@ -2421,6 +2421,17 @@
             "title": "Messgröße"
           },
           {
+            "name": "field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biodiversität",
+                ""
+              ]
+            },
+            "title": "Bereich"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -6727,7 +6738,7 @@
             "constraints": {
               "enum": [
                 "Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität",
-                "Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für den Forstsektor",
+                "Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität und den Forstsektor",
                 ""
               ]
             },
@@ -6744,6 +6755,18 @@
               ]
             },
             "title": "Messgröße"
+          },
+          {
+            "name": "field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biodiversität",
+                "Forstsektor",
+                ""
+              ]
+            },
+            "title": "Bereich"
           },
           {
             "name": "COMMENT_OBS_0",

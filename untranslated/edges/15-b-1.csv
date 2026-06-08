@@ -1,3 +1,4 @@
 From,To
 timeseries,measurement parameter
-measurement parameter,COMMENT_OBS_0
+measurement parameter,field
+field,COMMENT_OBS_0
