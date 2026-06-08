@@ -5808,16 +5808,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "Commitments (ODA)",
-                "Gross disbursements (ODA)",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Measurement parameter"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -15786,16 +15786,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "Commitments (ODA and OOF)",
-                "Gross disbursements (ODA and OOF)",
+                "Commitments",
+                "Gross disbursements",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Measurement parameter"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -5808,16 +5808,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA)",
-                "Bruttoentwicklungsausgaben (ODA)",
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Messgröße"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -15786,16 +15786,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA und OOF)",
-                "Bruttoausgaben (ODA und OOF)",
+                "Zusagen",
+                "Bruttoentwicklungsausgaben",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Messgröße"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -26,12 +26,12 @@
             }
           },
           {
-            "name": "time series",
+            "name": "measurement parameter",
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments (oda and oof)",
-                "gross disbursements (oda and oof)",
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }
