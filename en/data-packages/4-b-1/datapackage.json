@@ -28,18 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "type of official development assistance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Commitments",
-                "Gross disbursements",
-                ""
-              ]
-            },
-            "title": "Type of Official Development Assistance"
-          },
-          {
             "name": "field",
             "type": "string",
             "constraints": {
@@ -50,6 +38,18 @@
               ]
             },
             "title": "Field"
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments",
+                "Gross disbursements",
+                ""
+              ]
+            },
+            "title": "Type of Official Development Assistance"
           },
           {
             "name": "COMMENT_OBS_0",

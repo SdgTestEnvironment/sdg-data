@@ -28,18 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "type of official development assistance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zusagen",
-                "Bruttoauszahlungen",
-                ""
-              ]
-            },
-            "title": "Art der öffentlichen Entwicklungsleistung"
-          },
-          {
             "name": "field",
             "type": "string",
             "constraints": {
@@ -50,6 +38,18 @@
               ]
             },
             "title": "Bereich"
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zusagen",
+                "Bruttoauszahlungen",
+                ""
+              ]
+            },
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",

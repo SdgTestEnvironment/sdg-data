@@ -26,23 +26,23 @@
             }
           },
           {
-            "name": "type of official development assistance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "commitments",
-                "gross disbursements",
-                ""
-              ]
-            }
-          },
-          {
             "name": "field",
             "type": "string",
             "constraints": {
               "enum": [
                 "biodiversity",
                 "forestry sector",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }

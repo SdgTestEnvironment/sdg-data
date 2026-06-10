@@ -32,27 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wasserversorgung und Abwasserentsorgung",
                 "Transport und Lagerung",
                 "Kommunikation",
                 "Energie",
                 "Stadtentwicklung und Stadtverwaltung",
+                "Wasserversorgung und Abwasserentsorgung",
                 ""
               ]
             },
             "title": "Sektor"
-          },
-          {
-            "name": "type of official development assistance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zusagen",
-                "Bruttoauszahlungen",
-                ""
-              ]
-            },
-            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "type of financial flow",
@@ -65,6 +53,18 @@
               ]
             },
             "title": "Art des Finanzstroms"
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zusagen",
+                "Bruttoauszahlungen",
+                ""
+              ]
+            },
+            "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",

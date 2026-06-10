@@ -26,23 +26,23 @@
             }
           },
           {
-            "name": "type of official development assistance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "commitments",
-                "gross disbursements",
-                ""
-              ]
-            }
-          },
-          {
             "name": "type of financial flow",
             "type": "string",
             "constraints": {
               "enum": [
                 "official development assistance",
                 "other official flows",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }

@@ -32,27 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Water supply & sanitation",
                 "Transport and storage",
                 "Communications",
                 "Energy",
                 "Urban development and management",
+                "Water supply & sanitation",
                 ""
               ]
             },
             "title": "Sector"
-          },
-          {
-            "name": "type of official development assistance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Commitments",
-                "Gross disbursements",
-                ""
-              ]
-            },
-            "title": "Type of Official Development Assistance"
           },
           {
             "name": "type of financial flow",
@@ -65,6 +53,18 @@
               ]
             },
             "title": "Type of financial flow"
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments",
+                "Gross disbursements",
+                ""
+              ]
+            },
+            "title": "Type of Official Development Assistance"
           },
           {
             "name": "COMMENT_OBS_0",

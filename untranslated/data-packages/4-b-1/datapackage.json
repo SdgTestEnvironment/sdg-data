@@ -26,23 +26,23 @@
             }
           },
           {
-            "name": "type of official development assistance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "commitments",
-                "gross disbursements",
-                ""
-              ]
-            }
-          },
-          {
             "name": "field",
             "type": "string",
             "constraints": {
               "enum": [
                 "scholarships",
                 "imputed student costs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
                 ""
               ]
             }
