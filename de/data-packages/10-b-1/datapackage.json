@@ -33,14 +33,14 @@
             "constraints": {
               "enum": [
                 "Zusagen",
-                "Bruttoentwicklungsausgaben (netto)",
+                "Nettoauszahlungen",
                 ""
               ]
             },
             "title": "Art der öffentlichen Entwicklungsleistung"
           },
           {
-            "name": "type of flow",
+            "name": "type of financial flow",
             "type": "string",
             "constraints": {
               "enum": [

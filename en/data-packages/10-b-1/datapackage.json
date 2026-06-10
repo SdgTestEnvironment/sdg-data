@@ -33,26 +33,26 @@
             "constraints": {
               "enum": [
                 "Commitments",
-                "Gross disbursements (net)",
+                "Net disbursements",
                 ""
               ]
             },
-            "title": "Type of official development assistance"
+            "title": "Type of Official Development Assistance"
           },
           {
-            "name": "type of flow",
+            "name": "type of financial flow",
             "type": "string",
             "constraints": {
               "enum": [
-                "Official development assistance",
-                "Other official flows",
+                "Official Development Assistance",
+                "Other Official Flows",
                 "Officially supported export credits",
                 "Private sector flows at market terms",
                 "Private grants",
                 ""
               ]
             },
-            "title": "Type of flow"
+            "title": "Type of financial flow"
           },
           {
             "name": "COMMENT_OBS_0",

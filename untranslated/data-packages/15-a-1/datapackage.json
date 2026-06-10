@@ -37,16 +37,6 @@
             }
           },
           {
-            "name": "field",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "biodiversity",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -33,11 +33,23 @@
             "constraints": {
               "enum": [
                 "Zusagen",
-                "Bruttoentwicklungsausgaben",
+                "Bruttoauszahlungen",
                 ""
               ]
             },
             "title": "Art der öffentlichen Entwicklungsleistung"
+          },
+          {
+            "name": "field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biodiversität",
+                "Forstsektor",
+                ""
+              ]
+            },
+            "title": "Bereich"
           },
           {
             "name": "COMMENT_OBS_0",

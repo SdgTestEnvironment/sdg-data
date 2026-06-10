@@ -37,6 +37,17 @@
             }
           },
           {
+            "name": "field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "biodiversity",
+                "forestry sector",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "number",
             "constraints": {

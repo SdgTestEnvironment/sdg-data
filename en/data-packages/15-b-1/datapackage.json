@@ -37,7 +37,19 @@
                 ""
               ]
             },
-            "title": "Type of official development assistance"
+            "title": "Type of Official Development Assistance"
+          },
+          {
+            "name": "field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biodiversity",
+                "Forestry sector",
+                ""
+              ]
+            },
+            "title": "Field"
           },
           {
             "name": "COMMENT_OBS_0",

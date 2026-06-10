@@ -28,18 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Imputed student costs",
-                "Scholarships",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
@@ -49,7 +37,19 @@
                 ""
               ]
             },
-            "title": "Type of official development assistance"
+            "title": "Type of Official Development Assistance"
+          },
+          {
+            "name": "field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Scholarships",
+                "Imputed student costs",
+                ""
+              ]
+            },
+            "title": "Field"
           },
           {
             "name": "COMMENT_OBS_0",

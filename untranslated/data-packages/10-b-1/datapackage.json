@@ -31,13 +31,13 @@
             "constraints": {
               "enum": [
                 "commitments",
-                "gross disbursements (net)",
+                "net disbursements",
                 ""
               ]
             }
           },
           {
-            "name": "type of flow",
+            "name": "type of financial flow",
             "type": "string",
             "constraints": {
               "enum": [

@@ -28,6 +28,18 @@
             "title": "Units"
           },
           {
+            "name": "type of financial flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official Development Assistance",
+                "Other Official Flows",
+                ""
+              ]
+            },
+            "title": "Type of financial flow"
+          },
+          {
             "name": "type of official development assistance",
             "type": "string",
             "constraints": {
@@ -37,19 +49,7 @@
                 ""
               ]
             },
-            "title": "Type of official development assistance"
-          },
-          {
-            "name": "type of flow",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Official development assistance",
-                "Other official flows",
-                ""
-              ]
-            },
-            "title": "Type of flow"
+            "title": "Type of Official Development Assistance"
           },
           {
             "name": "COMMENT_OBS_0",

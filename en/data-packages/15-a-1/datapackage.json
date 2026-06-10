@@ -37,18 +37,7 @@
                 ""
               ]
             },
-            "title": "Type of official development assistance"
-          },
-          {
-            "name": "field",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Biodiversity",
-                ""
-              ]
-            },
-            "title": "Field"
+            "title": "Type of Official Development Assistance"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -87,7 +76,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Commitments and gross disbursements of official development assistance for biodiversity",
+                "a) Commitments and gross disbursements of Official Development Assistance for biodiversity",
                 "b) Environmental protection expenditure",
                 ""
               ]

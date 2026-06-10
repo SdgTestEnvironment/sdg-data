@@ -51,7 +51,7 @@
             }
           },
           {
-            "name": "type of flow",
+            "name": "type of financial flow",
             "type": "string",
             "constraints": {
               "enum": [
