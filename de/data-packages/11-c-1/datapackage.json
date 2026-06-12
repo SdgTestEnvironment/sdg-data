@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Transport und Lagerung",
+                "Wasser und Abwasser/Abfallentsorgung",
+                "Transport und Lagerhaltung",
                 "Kommunikation",
-                "Energie",
-                "Stadtentwicklung und Stadtverwaltung",
-                "Wasserversorgung und Abwasserentsorgung",
+                "Energieerzeugung, -verteilung und -effizienz",
+                "Stadtentwicklung und -verwaltung",
                 ""
               ]
             },
@@ -68,9 +68,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             },

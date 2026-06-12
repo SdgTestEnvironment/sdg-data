@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Water supply and sanitation",
                 "Transport and storage",
                 "Communications",
                 "Energy",
                 "Urban development and management",
-                "Water supply & sanitation",
                 ""
               ]
             },
@@ -68,9 +68,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             },

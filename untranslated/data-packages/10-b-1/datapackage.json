@@ -26,17 +26,6 @@
             }
           },
           {
-            "name": "type of official development assistance",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "commitments",
-                "net disbursements",
-                ""
-              ]
-            }
-          },
-          {
             "name": "type of financial flow",
             "type": "string",
             "constraints": {
@@ -46,6 +35,17 @@
                 "officially supported export credits",
                 "private sector flows at market terms",
                 "private grants",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "net disbursements",
                 ""
               ]
             }
