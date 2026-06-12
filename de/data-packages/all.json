@@ -5608,7 +5608,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -5638,7 +5638,7 @@
                 ""
               ]
             },
-            "title": "funding sector"
+            "title": "Förderbereich"
           },
           {
             "name": "type of official development assistance",
@@ -8025,7 +8025,7 @@
                 ""
               ]
             },
-            "title": "funding sector"
+            "title": "Förderbereich"
           },
           {
             "name": "type of official development assistance",
