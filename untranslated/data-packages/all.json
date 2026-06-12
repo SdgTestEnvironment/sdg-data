@@ -5140,7 +5140,7 @@
             }
           },
           {
-            "name": "field",
+            "name": "funding sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7318,7 +7318,7 @@
             }
           },
           {
-            "name": "field",
+            "name": "funding sector",
             "type": "string",
             "constraints": {
               "enum": [

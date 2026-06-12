@@ -5629,7 +5629,7 @@
             "title": "Units"
           },
           {
-            "name": "field",
+            "name": "funding sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5638,7 +5638,7 @@
                 ""
               ]
             },
-            "title": "Field"
+            "title": "funding sector"
           },
           {
             "name": "type of official development assistance",
@@ -8016,7 +8016,7 @@
             "title": "Units"
           },
           {
-            "name": "field",
+            "name": "funding sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8025,7 +8025,7 @@
                 ""
               ]
             },
-            "title": "Field"
+            "title": "funding sector"
           },
           {
             "name": "type of official development assistance",
