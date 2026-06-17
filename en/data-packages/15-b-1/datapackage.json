@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "funding sector",
+            "name": "development sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Funding sector"
+            "title": "Development sector"
           },
           {
             "name": "type of official development assistance",

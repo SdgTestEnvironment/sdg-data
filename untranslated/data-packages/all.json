@@ -3767,23 +3767,35 @@
             "type": "integer"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "form of abuse",
             "type": "string",
             "constraints": {
               "enum": [
                 "physical abuse",
                 "psychological abuse",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 to under 18 years",
+                "1 to under 15 years",
+                "15 to under 18 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -4188,7 +4200,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "p",
                 ""
               ]
             }
@@ -5140,7 +5151,7 @@
             }
           },
           {
-            "name": "funding sector",
+            "name": "development sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6499,9 +6510,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             }
@@ -6526,7 +6538,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -7318,7 +7330,7 @@
             }
           },
           {
-            "name": "funding sector",
+            "name": "development sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7751,7 +7763,6 @@
               "enum": [
                 ".",
                 "|",
-                "p",
                 ""
               ]
             }
@@ -12761,7 +12772,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "p",
                 ".",
                 "0",
                 ""
@@ -14709,7 +14719,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "p",
                 ""
               ]
             }

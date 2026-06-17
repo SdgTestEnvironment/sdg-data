@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "funding sector",
+            "name": "development sector",
             "type": "string",
             "constraints": {
               "enum": [

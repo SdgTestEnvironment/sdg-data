@@ -16,18 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "form of abuse",
             "type": "string",
             "constraints": {
@@ -38,6 +26,31 @@
               ]
             },
             "title": "Form der Misshandlung"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 bis unter 18 Jahre",
+                "1 bis unter 15 Jahre",
+                "15 bis unter 18 Jahre",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "COMMENT_OBS_0",

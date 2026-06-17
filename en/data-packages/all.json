@@ -4126,18 +4126,6 @@
             "title": "Year"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "form of abuse",
             "type": "string",
             "constraints": {
@@ -4148,6 +4136,31 @@
               ]
             },
             "title": "Form of abuse"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 to under 18 years",
+                "1 to under 15 years",
+                "15 to under 18 years",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -4587,7 +4600,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "p",
                 ""
               ]
             },
@@ -5629,7 +5641,7 @@
             "title": "Units"
           },
           {
-            "name": "funding sector",
+            "name": "development sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5638,7 +5650,7 @@
                 ""
               ]
             },
-            "title": "Funding sector"
+            "title": "Development sector"
           },
           {
             "name": "type of official development assistance",
@@ -7117,9 +7129,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             },
@@ -7147,7 +7160,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -8016,7 +8029,7 @@
             "title": "Units"
           },
           {
-            "name": "funding sector",
+            "name": "development sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8025,7 +8038,7 @@
                 ""
               ]
             },
-            "title": "Funding sector"
+            "title": "Development sector"
           },
           {
             "name": "type of official development assistance",
@@ -8489,7 +8502,6 @@
               "enum": [
                 ".",
                 "|",
-                "p",
                 ""
               ]
             },
@@ -13973,7 +13985,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "p",
                 ".",
                 "0",
                 ""
@@ -16103,7 +16114,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "p",
                 ""
               ]
             },
