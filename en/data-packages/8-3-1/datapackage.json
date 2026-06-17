@@ -28,7 +28,7 @@
             "title": "Type of proceeding"
           },
           {
-            "name": "sector",
+            "name": "industry",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Industry"
           },
           {
             "name": "land",

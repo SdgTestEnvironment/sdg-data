@@ -28,7 +28,7 @@
             "title": "Art des Verfahrens"
           },
           {
-            "name": "sector",
+            "name": "industry",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Sektor"
+            "title": "Branche"
           },
           {
             "name": "land",

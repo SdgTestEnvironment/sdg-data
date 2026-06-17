@@ -6467,7 +6467,7 @@
             }
           },
           {
-            "name": "sector",
+            "name": "industry",
             "type": "string",
             "constraints": {
               "enum": [
