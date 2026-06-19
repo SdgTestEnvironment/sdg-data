@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio of regulatory capital to all weighted risk positions",
-                "Ratio of regulatory (tier 1) capital to all weighted risk positions",
-                "Ratio of non-performing loans (net of risk provisions) to balance sheet capital",
-                "Non-performing loans to total gross loans",
-                "Total return on assets",
-                "Ratio of liquid assets to short-term liabilities",
-                "Ratio of open foreign exchange position to regulatory capital",
+                "(1) Tier-1 capital to assets",
+                "(2) Regulatory Tier 1 capital to risk-weighted assets",
+                "(3) Non-performing loans net of provisions to capital",
+                "(4) Non-performing loans to total gross loans",
+                "(5) Total return on assets",
+                "(6) Liquid assets to short-term liabilities",
+                "(7) Net open position in foreign exchange to capital",
                 ""
               ]
             },
@@ -38,7 +38,7 @@
             "constraints": {
               "enum": [
                 "|",
-                "…",
+                "r",
                 ""
               ]
             },
@@ -46,9 +46,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },

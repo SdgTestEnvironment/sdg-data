@@ -1,19 +1,4 @@
 Year,Form der Misshandlung,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,1 bis unter 18 Jahre,,,,,
-2011,,1 bis unter 18 Jahre,,,,,
-2012,,1 bis unter 18 Jahre,,,,,
-2013,,1 bis unter 18 Jahre,,,,,
-2014,,1 bis unter 18 Jahre,,,,,
-2015,,1 bis unter 18 Jahre,,,,,
-2016,,1 bis unter 18 Jahre,,,,,
-2017,,1 bis unter 18 Jahre,,,,,
-2018,,1 bis unter 18 Jahre,,,,,
-2019,,1 bis unter 18 Jahre,,,,,
-2020,,1 bis unter 18 Jahre,,,,,
-2021,,1 bis unter 18 Jahre,,,,,
-2022,,1 bis unter 18 Jahre,,,,,
-2023,,1 bis unter 18 Jahre,,,,,
-2024,,1 bis unter 18 Jahre,,,,,
 2010,,1 bis unter 18 Jahre,Weiblich,.,,,
 2011,,1 bis unter 18 Jahre,Weiblich,.,,,
 2012,,1 bis unter 18 Jahre,Weiblich,,,,0.08
@@ -26,8 +11,8 @@ Year,Form der Misshandlung,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,C
 2019,,1 bis unter 18 Jahre,Weiblich,,,,0.14
 2020,,1 bis unter 18 Jahre,Weiblich,,,,0.15
 2021,,1 bis unter 18 Jahre,Weiblich,,,,0.16
-2022,,1 bis unter 18 Jahre,Weiblich,r,,,0.18
-2023,,1 bis unter 18 Jahre,Weiblich,,,,0.17
+2022,,1 bis unter 18 Jahre,Weiblich,,,,0.18
+2023,,1 bis unter 18 Jahre,Weiblich,r,,,0.18
 2024,,1 bis unter 18 Jahre,Weiblich,,,,0.22
 2010,,1 bis unter 18 Jahre,Männlich,.,,,
 2011,,1 bis unter 18 Jahre,Männlich,.,,,
@@ -39,101 +24,71 @@ Year,Form der Misshandlung,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,C
 2017,,1 bis unter 18 Jahre,Männlich,,,,0.09
 2018,,1 bis unter 18 Jahre,Männlich,,,,0.11
 2019,,1 bis unter 18 Jahre,Männlich,,,,0.13
-2020,,1 bis unter 18 Jahre,Männlich,r,,,0.14
-2021,,1 bis unter 18 Jahre,Männlich,r,,,0.14
+2020,,1 bis unter 18 Jahre,Männlich,,,,0.14
+2021,,1 bis unter 18 Jahre,Männlich,,,,0.14
 2022,,1 bis unter 18 Jahre,Männlich,,,,0.15
 2023,,1 bis unter 18 Jahre,Männlich,,,,0.16
 2024,,1 bis unter 18 Jahre,Männlich,,,,0.19
-2010,,1 bis unter 15 Jahre,,,,,
-2011,,1 bis unter 15 Jahre,,,,,
-2012,,1 bis unter 15 Jahre,,,,,
-2013,,1 bis unter 15 Jahre,,,,,
-2014,,1 bis unter 15 Jahre,,,,,
-2015,,1 bis unter 15 Jahre,,,,,
-2016,,1 bis unter 15 Jahre,,,,,
-2017,,1 bis unter 15 Jahre,,,,,
-2018,,1 bis unter 15 Jahre,,,,,
-2019,,1 bis unter 15 Jahre,,,,,
-2020,,1 bis unter 15 Jahre,,,,,
-2021,,1 bis unter 15 Jahre,,,,,
-2022,,1 bis unter 15 Jahre,,,,,
-2023,,1 bis unter 15 Jahre,,,,,
-2024,,1 bis unter 15 Jahre,,,,,
-2010,,1 bis unter 15 Jahre,Weiblich,,,,
-2011,,1 bis unter 15 Jahre,Weiblich,,,,
-2012,,1 bis unter 15 Jahre,Weiblich,,,,
-2013,,1 bis unter 15 Jahre,Weiblich,,,,
-2014,,1 bis unter 15 Jahre,Weiblich,,,,
-2015,,1 bis unter 15 Jahre,Weiblich,,,,
-2016,,1 bis unter 15 Jahre,Weiblich,,,,
-2017,,1 bis unter 15 Jahre,Weiblich,,,,
-2018,,1 bis unter 15 Jahre,Weiblich,,,,
-2019,,1 bis unter 15 Jahre,Weiblich,,,,
-2020,,1 bis unter 15 Jahre,Weiblich,,,,
-2021,,1 bis unter 15 Jahre,Weiblich,,,,
-2022,,1 bis unter 15 Jahre,Weiblich,,,,
-2023,,1 bis unter 15 Jahre,Weiblich,,,,
-2024,,1 bis unter 15 Jahre,Weiblich,,,,
-2010,,1 bis unter 15 Jahre,Männlich,,,,
-2011,,1 bis unter 15 Jahre,Männlich,,,,
-2012,,1 bis unter 15 Jahre,Männlich,,,,
-2013,,1 bis unter 15 Jahre,Männlich,,,,
-2014,,1 bis unter 15 Jahre,Männlich,,,,
-2015,,1 bis unter 15 Jahre,Männlich,,,,
-2016,,1 bis unter 15 Jahre,Männlich,,,,
-2017,,1 bis unter 15 Jahre,Männlich,,,,
-2018,,1 bis unter 15 Jahre,Männlich,,,,
-2019,,1 bis unter 15 Jahre,Männlich,,,,
-2020,,1 bis unter 15 Jahre,Männlich,,,,
-2021,,1 bis unter 15 Jahre,Männlich,,,,
-2022,,1 bis unter 15 Jahre,Männlich,,,,
-2023,,1 bis unter 15 Jahre,Männlich,,,,
-2024,,1 bis unter 15 Jahre,Männlich,,,,
-2010,,15 bis unter 18 Jahre,,,,,
-2011,,15 bis unter 18 Jahre,,,,,
-2012,,15 bis unter 18 Jahre,,,,,
-2013,,15 bis unter 18 Jahre,,,,,
-2014,,15 bis unter 18 Jahre,,,,,
-2015,,15 bis unter 18 Jahre,,,,,
-2016,,15 bis unter 18 Jahre,,,,,
-2017,,15 bis unter 18 Jahre,,,,,
-2018,,15 bis unter 18 Jahre,,,,,
-2019,,15 bis unter 18 Jahre,,,,,
-2020,,15 bis unter 18 Jahre,,,,,
-2021,,15 bis unter 18 Jahre,,,,,
-2022,,15 bis unter 18 Jahre,,,,,
-2023,,15 bis unter 18 Jahre,,,,,
-2024,,15 bis unter 18 Jahre,,,,,
-2010,,15 bis unter 18 Jahre,Weiblich,,,,
-2011,,15 bis unter 18 Jahre,Weiblich,,,,
-2012,,15 bis unter 18 Jahre,Weiblich,,,,
-2013,,15 bis unter 18 Jahre,Weiblich,,,,
-2014,,15 bis unter 18 Jahre,Weiblich,,,,
-2015,,15 bis unter 18 Jahre,Weiblich,,,,
-2016,,15 bis unter 18 Jahre,Weiblich,,,,
-2017,,15 bis unter 18 Jahre,Weiblich,,,,
-2018,,15 bis unter 18 Jahre,Weiblich,,,,
-2019,,15 bis unter 18 Jahre,Weiblich,,,,
-2020,,15 bis unter 18 Jahre,Weiblich,,,,
-2021,,15 bis unter 18 Jahre,Weiblich,,,,
-2022,,15 bis unter 18 Jahre,Weiblich,,,,
-2023,,15 bis unter 18 Jahre,Weiblich,,,,
-2024,,15 bis unter 18 Jahre,Weiblich,,,,
-2010,,15 bis unter 18 Jahre,Männlich,,,,
-2011,,15 bis unter 18 Jahre,Männlich,,,,
-2012,,15 bis unter 18 Jahre,Männlich,,,,
-2013,,15 bis unter 18 Jahre,Männlich,,,,
-2014,,15 bis unter 18 Jahre,Männlich,,,,
-2015,,15 bis unter 18 Jahre,Männlich,,,,
-2016,,15 bis unter 18 Jahre,Männlich,,,,
-2017,,15 bis unter 18 Jahre,Männlich,,,,
-2018,,15 bis unter 18 Jahre,Männlich,,,,
-2019,,15 bis unter 18 Jahre,Männlich,,,,
-2020,,15 bis unter 18 Jahre,Männlich,,,,
-2021,,15 bis unter 18 Jahre,Männlich,,,,
-2022,,15 bis unter 18 Jahre,Männlich,,,,
-2023,,15 bis unter 18 Jahre,Männlich,,,,
-2024,,15 bis unter 18 Jahre,Männlich,,,,
+2010,,1 bis unter 15 Jahre,Weiblich,.,,,
+2011,,1 bis unter 15 Jahre,Weiblich,.,,,
+2012,,1 bis unter 15 Jahre,Weiblich,,,,0.07
+2013,,1 bis unter 15 Jahre,Weiblich,,,,0.07
+2014,,1 bis unter 15 Jahre,Weiblich,,,,0.08
+2015,,1 bis unter 15 Jahre,Weiblich,,,,0.09
+2016,,1 bis unter 15 Jahre,Weiblich,,,,0.1
+2017,,1 bis unter 15 Jahre,Weiblich,,,,0.1
+2018,,1 bis unter 15 Jahre,Weiblich,,,,0.12
+2019,,1 bis unter 15 Jahre,Weiblich,,,,0.14
+2020,,1 bis unter 15 Jahre,Weiblich,,,,0.14
+2021,,1 bis unter 15 Jahre,Weiblich,,,,0.15
+2022,,1 bis unter 15 Jahre,Weiblich,,,,0.17
+2023,,1 bis unter 15 Jahre,Weiblich,,,,0.17
+2024,,1 bis unter 15 Jahre,Weiblich,,,,0.21
+2010,,1 bis unter 15 Jahre,Männlich,.,,,
+2011,,1 bis unter 15 Jahre,Männlich,.,,,
+2012,,1 bis unter 15 Jahre,Männlich,,,,0.07
+2013,,1 bis unter 15 Jahre,Männlich,,,,0.07
+2014,,1 bis unter 15 Jahre,Männlich,,,,0.08
+2015,,1 bis unter 15 Jahre,Männlich,,,,0.08
+2016,,1 bis unter 15 Jahre,Männlich,,,,0.1
+2017,,1 bis unter 15 Jahre,Männlich,,,,0.1
+2018,,1 bis unter 15 Jahre,Männlich,,,,0.18
+2019,,1 bis unter 15 Jahre,Männlich,,,,0.14
+2020,,1 bis unter 15 Jahre,Männlich,,,,0.15
+2021,,1 bis unter 15 Jahre,Männlich,,,,0.15
+2022,,1 bis unter 15 Jahre,Männlich,,,,0.17
+2023,,1 bis unter 15 Jahre,Männlich,,,,0.17
+2024,,1 bis unter 15 Jahre,Männlich,,,,0.21
+2010,,15 bis unter 18 Jahre,Weiblich,.,,,
+2011,,15 bis unter 18 Jahre,Weiblich,.,,,
+2012,,15 bis unter 18 Jahre,Weiblich,,,,0.1
+2013,,15 bis unter 18 Jahre,Weiblich,,,,0.09
+2014,,15 bis unter 18 Jahre,Weiblich,,,,0.1
+2015,,15 bis unter 18 Jahre,Weiblich,,,,0.1
+2016,,15 bis unter 18 Jahre,Weiblich,,,,0.12
+2017,,15 bis unter 18 Jahre,Weiblich,,,,0.13
+2018,,15 bis unter 18 Jahre,Weiblich,,,,0.15
+2019,,15 bis unter 18 Jahre,Weiblich,,,,0.16
+2020,,15 bis unter 18 Jahre,Weiblich,,,,0.18
+2021,,15 bis unter 18 Jahre,Weiblich,,,,0.19
+2022,,15 bis unter 18 Jahre,Weiblich,,,,0.21
+2023,,15 bis unter 18 Jahre,Weiblich,,,,0.22
+2024,,15 bis unter 18 Jahre,Weiblich,,,,0.26
+2010,,15 bis unter 18 Jahre,Männlich,.,,,
+2011,,15 bis unter 18 Jahre,Männlich,.,,,
+2012,,15 bis unter 18 Jahre,Männlich,,,,0.04
+2013,,15 bis unter 18 Jahre,Männlich,,,,0.04
+2014,,15 bis unter 18 Jahre,Männlich,,,,0.05
+2015,,15 bis unter 18 Jahre,Männlich,,,,0.05
+2016,,15 bis unter 18 Jahre,Männlich,,,,0.05
+2017,,15 bis unter 18 Jahre,Männlich,,,,0.05
+2018,,15 bis unter 18 Jahre,Männlich,,,,0.06
+2019,,15 bis unter 18 Jahre,Männlich,,,,0.08
+2020,,15 bis unter 18 Jahre,Männlich,,,,0.08
+2021,,15 bis unter 18 Jahre,Männlich,,,,0.08
+2022,,15 bis unter 18 Jahre,Männlich,,,,0.1
+2023,,15 bis unter 18 Jahre,Männlich,,,,0.1
+2024,,15 bis unter 18 Jahre,Männlich,,,,0.12
 2010,Körperliche Misshandlung,1 bis unter 18 Jahre,,.,,,
 2011,Körperliche Misshandlung,1 bis unter 18 Jahre,,.,,,
 2012,Körperliche Misshandlung,1 bis unter 18 Jahre,,,,,0.04
@@ -172,103 +127,103 @@ Year,Form der Misshandlung,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,C
 2015,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.04
 2016,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.04
 2017,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.05
-2018,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,r,,,0.06
-2019,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,r,,,0.07
-2020,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,r,,,0.07
+2018,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.06
+2019,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.07
+2020,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.07
 2021,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.06
 2022,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.07
-2023,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,r,,,0.08
+2023,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,r,,,0.07
 2024,Körperliche Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.09
-2010,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2011,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2012,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2013,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2014,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2015,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2016,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2017,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2018,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2019,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2020,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2021,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2022,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2023,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2024,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,
-2010,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2011,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2012,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2013,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2014,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2015,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2016,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2017,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2018,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2019,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2020,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2021,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2022,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2023,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2024,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2010,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2011,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2012,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2013,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2014,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2015,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2016,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2017,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2018,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2019,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2020,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2021,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2022,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2023,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2024,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2010,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2011,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2012,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2013,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2014,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2015,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2016,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2017,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2018,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2019,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2020,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2021,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2022,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2023,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2024,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,
-2010,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2011,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2012,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2013,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2014,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2015,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2016,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2017,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2018,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2019,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2020,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2021,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2022,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2023,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2024,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2010,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2011,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2012,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2013,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2014,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2015,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2016,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2017,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2018,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2019,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2020,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2021,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2022,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2023,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2024,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
+2010,Körperliche Misshandlung,1 bis unter 15 Jahre,,.,,,
+2011,Körperliche Misshandlung,1 bis unter 15 Jahre,,.,,,
+2012,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.04
+2013,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.04
+2014,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.04
+2015,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.04
+2016,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.05
+2017,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.05
+2018,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.06
+2019,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.07
+2020,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.07
+2021,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.07
+2022,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.08
+2023,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.08
+2024,Körperliche Misshandlung,1 bis unter 15 Jahre,,,,,0.1
+2010,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,.,,,
+2011,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,.,,,
+2012,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.04
+2013,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.04
+2014,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.04
+2015,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.04
+2016,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.05
+2017,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.05
+2018,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.06
+2019,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.07
+2020,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.06
+2021,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.07
+2022,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.08
+2023,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.08
+2024,Körperliche Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.09
+2010,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,.,,,
+2011,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,.,,,
+2012,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.04
+2013,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.04
+2014,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.04
+2015,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.04
+2016,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.05
+2017,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.05
+2018,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.06
+2019,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.07
+2020,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.07
+2021,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.07
+2022,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.08
+2023,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.08
+2024,Körperliche Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.1
+2010,Körperliche Misshandlung,15 bis unter 18 Jahre,,.,,,
+2011,Körperliche Misshandlung,15 bis unter 18 Jahre,,.,,,
+2012,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.04
+2013,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.04
+2014,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.04
+2015,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.04
+2016,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.04
+2017,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.05
+2018,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.05
+2019,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.06
+2020,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.06
+2021,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.06
+2022,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.08
+2023,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.08
+2024,Körperliche Misshandlung,15 bis unter 18 Jahre,,,,,0.09
+2010,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,.,,,
+2011,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,.,,,
+2012,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.05
+2013,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.05
+2014,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.05
+2015,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.05
+2016,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.06
+2017,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.06
+2018,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.08
+2019,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.08
+2020,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.09
+2021,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.09
+2022,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.1
+2023,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.11
+2024,Körperliche Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.13
+2010,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,.,,,
+2011,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,.,,,
+2012,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.02
+2013,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.02
+2014,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.03
+2015,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.02
+2016,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.03
+2017,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.03
+2018,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.03
+2019,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.04
+2020,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.04
+2021,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.04
+2022,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.05
+2023,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.05
+2024,Körperliche Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.06
 2010,Psychische Misshandlung,1 bis unter 18 Jahre,,.,,,
 2011,Psychische Misshandlung,1 bis unter 18 Jahre,,.,,,
 2012,Psychische Misshandlung,1 bis unter 18 Jahre,,,,,0.03
@@ -279,7 +234,7 @@ Year,Form der Misshandlung,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,C
 2017,Psychische Misshandlung,1 bis unter 18 Jahre,,,,,0.05
 2018,Psychische Misshandlung,1 bis unter 18 Jahre,,,,,0.06
 2019,Psychische Misshandlung,1 bis unter 18 Jahre,,,,,0.07
-2020,Psychische Misshandlung,1 bis unter 18 Jahre,,r,,,0.08
+2020,Psychische Misshandlung,1 bis unter 18 Jahre,,,,,0.08
 2021,Psychische Misshandlung,1 bis unter 18 Jahre,,,,,0.08
 2022,Psychische Misshandlung,1 bis unter 18 Jahre,,,,,0.09
 2023,Psychische Misshandlung,1 bis unter 18 Jahre,,,,,0.09
@@ -297,7 +252,7 @@ Year,Form der Misshandlung,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,C
 2020,Psychische Misshandlung,1 bis unter 18 Jahre,Weiblich,,,,0.08
 2021,Psychische Misshandlung,1 bis unter 18 Jahre,Weiblich,,,,0.09
 2022,Psychische Misshandlung,1 bis unter 18 Jahre,Weiblich,,,,0.09
-2023,Psychische Misshandlung,1 bis unter 18 Jahre,Weiblich,,,,0.09
+2023,Psychische Misshandlung,1 bis unter 18 Jahre,Weiblich,r,,,0.1
 2024,Psychische Misshandlung,1 bis unter 18 Jahre,Weiblich,,,,0.12
 2010,Psychische Misshandlung,1 bis unter 18 Jahre,Männlich,.,,,
 2011,Psychische Misshandlung,1 bis unter 18 Jahre,Männlich,.,,,
@@ -312,95 +267,95 @@ Year,Form der Misshandlung,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,C
 2020,Psychische Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.07
 2021,Psychische Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.07
 2022,Psychische Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.08
-2023,Psychische Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.09
+2023,Psychische Misshandlung,1 bis unter 18 Jahre,Männlich,r,,,0.08
 2024,Psychische Misshandlung,1 bis unter 18 Jahre,Männlich,,,,0.1
-2010,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2011,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2012,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2013,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2014,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2015,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2016,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2017,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2018,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2019,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2020,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2021,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2022,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2023,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2024,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,
-2010,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2011,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2012,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2013,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2014,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2015,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2016,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2017,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2018,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2019,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2020,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2021,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2022,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2023,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2024,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,
-2010,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2011,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2012,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2013,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2014,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2015,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2016,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2017,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2018,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2019,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2020,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2021,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2022,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2023,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2024,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,
-2010,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2011,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2012,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2013,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2014,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2015,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2016,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2017,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2018,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2019,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2020,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2021,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2022,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2023,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2024,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,
-2010,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2011,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2012,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2013,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2014,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2015,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2016,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2017,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2018,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2019,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2020,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2021,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2022,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2023,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2024,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,
-2010,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2011,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2012,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2013,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2014,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2015,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2016,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2017,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2018,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2019,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2020,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2021,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2022,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2023,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
-2024,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,
+2010,Psychische Misshandlung,1 bis unter 15 Jahre,,.,,,
+2011,Psychische Misshandlung,1 bis unter 15 Jahre,,.,,,
+2012,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.03
+2013,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.03
+2014,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.04
+2015,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.04
+2016,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.05
+2017,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.05
+2018,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.06
+2019,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.07
+2020,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.08
+2021,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.08
+2022,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.09
+2023,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.09
+2024,Psychische Misshandlung,1 bis unter 15 Jahre,,,,,0.11
+2010,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,.,,,
+2011,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,.,,,
+2012,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.04
+2013,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.04
+2014,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.04
+2015,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.04
+2016,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.05
+2017,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.05
+2018,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.06
+2019,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.07
+2020,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.08
+2021,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.08
+2022,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.09
+2023,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.09
+2024,Psychische Misshandlung,1 bis unter 15 Jahre,Weiblich,,,,0.12
+2010,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,.,,,
+2011,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,.,,,
+2012,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.03
+2013,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.03
+2014,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.04
+2015,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.04
+2016,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.05
+2017,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.05
+2018,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.12
+2019,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.07
+2020,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.08
+2021,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.08
+2022,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.09
+2023,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.09
+2024,Psychische Misshandlung,1 bis unter 15 Jahre,Männlich,,,,0.11
+2010,Psychische Misshandlung,15 bis unter 18 Jahre,,.,,,
+2011,Psychische Misshandlung,15 bis unter 18 Jahre,,.,,,
+2012,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.03
+2013,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.03
+2014,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.04
+2015,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.04
+2016,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.04
+2017,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.04
+2018,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.05
+2019,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.06
+2020,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.06
+2021,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.07
+2022,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.08
+2023,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.08
+2024,Psychische Misshandlung,15 bis unter 18 Jahre,,,,,0.1
+2010,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,.,,,
+2011,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,.,,,
+2012,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.05
+2013,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.05
+2014,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.05
+2015,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.05
+2016,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.06
+2017,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.06
+2018,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.07
+2019,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.08
+2020,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.09
+2021,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.1
+2022,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.11
+2023,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.12
+2024,Psychische Misshandlung,15 bis unter 18 Jahre,Weiblich,,,,0.14
+2010,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,.,,,
+2011,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,.,,,
+2012,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.02
+2013,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.02
+2014,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.03
+2015,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.03
+2016,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.03
+2017,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.03
+2018,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.03
+2019,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.04
+2020,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.04
+2021,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.04
+2022,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.05
+2023,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.05
+2024,Psychische Misshandlung,15 bis unter 18 Jahre,Männlich,,,,0.06

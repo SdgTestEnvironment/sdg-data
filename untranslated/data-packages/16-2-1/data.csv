@@ -1,19 +1,4 @@
 Year,form of abuse,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,1 to under 18 years,,,,,
-2011,,1 to under 18 years,,,,,
-2012,,1 to under 18 years,,,,,
-2013,,1 to under 18 years,,,,,
-2014,,1 to under 18 years,,,,,
-2015,,1 to under 18 years,,,,,
-2016,,1 to under 18 years,,,,,
-2017,,1 to under 18 years,,,,,
-2018,,1 to under 18 years,,,,,
-2019,,1 to under 18 years,,,,,
-2020,,1 to under 18 years,,,,,
-2021,,1 to under 18 years,,,,,
-2022,,1 to under 18 years,,,,,
-2023,,1 to under 18 years,,,,,
-2024,,1 to under 18 years,,,,,
 2010,,1 to under 18 years,female,.,,,
 2011,,1 to under 18 years,female,.,,,
 2012,,1 to under 18 years,female,,,,0.08
@@ -26,8 +11,8 @@ Year,form of abuse,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,,1 to under 18 years,female,,,,0.14
 2020,,1 to under 18 years,female,,,,0.15
 2021,,1 to under 18 years,female,,,,0.16
-2022,,1 to under 18 years,female,r,,,0.18
-2023,,1 to under 18 years,female,,,,0.17
+2022,,1 to under 18 years,female,,,,0.18
+2023,,1 to under 18 years,female,r,,,0.18
 2024,,1 to under 18 years,female,,,,0.22
 2010,,1 to under 18 years,male,.,,,
 2011,,1 to under 18 years,male,.,,,
@@ -39,101 +24,71 @@ Year,form of abuse,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,,1 to under 18 years,male,,,,0.09
 2018,,1 to under 18 years,male,,,,0.11
 2019,,1 to under 18 years,male,,,,0.13
-2020,,1 to under 18 years,male,r,,,0.14
-2021,,1 to under 18 years,male,r,,,0.14
+2020,,1 to under 18 years,male,,,,0.14
+2021,,1 to under 18 years,male,,,,0.14
 2022,,1 to under 18 years,male,,,,0.15
 2023,,1 to under 18 years,male,,,,0.16
 2024,,1 to under 18 years,male,,,,0.19
-2010,,1 to under 15 years,,,,,
-2011,,1 to under 15 years,,,,,
-2012,,1 to under 15 years,,,,,
-2013,,1 to under 15 years,,,,,
-2014,,1 to under 15 years,,,,,
-2015,,1 to under 15 years,,,,,
-2016,,1 to under 15 years,,,,,
-2017,,1 to under 15 years,,,,,
-2018,,1 to under 15 years,,,,,
-2019,,1 to under 15 years,,,,,
-2020,,1 to under 15 years,,,,,
-2021,,1 to under 15 years,,,,,
-2022,,1 to under 15 years,,,,,
-2023,,1 to under 15 years,,,,,
-2024,,1 to under 15 years,,,,,
-2010,,1 to under 15 years,female,,,,
-2011,,1 to under 15 years,female,,,,
-2012,,1 to under 15 years,female,,,,
-2013,,1 to under 15 years,female,,,,
-2014,,1 to under 15 years,female,,,,
-2015,,1 to under 15 years,female,,,,
-2016,,1 to under 15 years,female,,,,
-2017,,1 to under 15 years,female,,,,
-2018,,1 to under 15 years,female,,,,
-2019,,1 to under 15 years,female,,,,
-2020,,1 to under 15 years,female,,,,
-2021,,1 to under 15 years,female,,,,
-2022,,1 to under 15 years,female,,,,
-2023,,1 to under 15 years,female,,,,
-2024,,1 to under 15 years,female,,,,
-2010,,1 to under 15 years,male,,,,
-2011,,1 to under 15 years,male,,,,
-2012,,1 to under 15 years,male,,,,
-2013,,1 to under 15 years,male,,,,
-2014,,1 to under 15 years,male,,,,
-2015,,1 to under 15 years,male,,,,
-2016,,1 to under 15 years,male,,,,
-2017,,1 to under 15 years,male,,,,
-2018,,1 to under 15 years,male,,,,
-2019,,1 to under 15 years,male,,,,
-2020,,1 to under 15 years,male,,,,
-2021,,1 to under 15 years,male,,,,
-2022,,1 to under 15 years,male,,,,
-2023,,1 to under 15 years,male,,,,
-2024,,1 to under 15 years,male,,,,
-2010,,15 to under 18 years,,,,,
-2011,,15 to under 18 years,,,,,
-2012,,15 to under 18 years,,,,,
-2013,,15 to under 18 years,,,,,
-2014,,15 to under 18 years,,,,,
-2015,,15 to under 18 years,,,,,
-2016,,15 to under 18 years,,,,,
-2017,,15 to under 18 years,,,,,
-2018,,15 to under 18 years,,,,,
-2019,,15 to under 18 years,,,,,
-2020,,15 to under 18 years,,,,,
-2021,,15 to under 18 years,,,,,
-2022,,15 to under 18 years,,,,,
-2023,,15 to under 18 years,,,,,
-2024,,15 to under 18 years,,,,,
-2010,,15 to under 18 years,female,,,,
-2011,,15 to under 18 years,female,,,,
-2012,,15 to under 18 years,female,,,,
-2013,,15 to under 18 years,female,,,,
-2014,,15 to under 18 years,female,,,,
-2015,,15 to under 18 years,female,,,,
-2016,,15 to under 18 years,female,,,,
-2017,,15 to under 18 years,female,,,,
-2018,,15 to under 18 years,female,,,,
-2019,,15 to under 18 years,female,,,,
-2020,,15 to under 18 years,female,,,,
-2021,,15 to under 18 years,female,,,,
-2022,,15 to under 18 years,female,,,,
-2023,,15 to under 18 years,female,,,,
-2024,,15 to under 18 years,female,,,,
-2010,,15 to under 18 years,male,,,,
-2011,,15 to under 18 years,male,,,,
-2012,,15 to under 18 years,male,,,,
-2013,,15 to under 18 years,male,,,,
-2014,,15 to under 18 years,male,,,,
-2015,,15 to under 18 years,male,,,,
-2016,,15 to under 18 years,male,,,,
-2017,,15 to under 18 years,male,,,,
-2018,,15 to under 18 years,male,,,,
-2019,,15 to under 18 years,male,,,,
-2020,,15 to under 18 years,male,,,,
-2021,,15 to under 18 years,male,,,,
-2022,,15 to under 18 years,male,,,,
-2023,,15 to under 18 years,male,,,,
-2024,,15 to under 18 years,male,,,,
+2010,,1 to under 15 years,female,.,,,
+2011,,1 to under 15 years,female,.,,,
+2012,,1 to under 15 years,female,,,,0.07
+2013,,1 to under 15 years,female,,,,0.07
+2014,,1 to under 15 years,female,,,,0.08
+2015,,1 to under 15 years,female,,,,0.09
+2016,,1 to under 15 years,female,,,,0.1
+2017,,1 to under 15 years,female,,,,0.1
+2018,,1 to under 15 years,female,,,,0.12
+2019,,1 to under 15 years,female,,,,0.14
+2020,,1 to under 15 years,female,,,,0.14
+2021,,1 to under 15 years,female,,,,0.15
+2022,,1 to under 15 years,female,,,,0.17
+2023,,1 to under 15 years,female,,,,0.17
+2024,,1 to under 15 years,female,,,,0.21
+2010,,1 to under 15 years,male,.,,,
+2011,,1 to under 15 years,male,.,,,
+2012,,1 to under 15 years,male,,,,0.07
+2013,,1 to under 15 years,male,,,,0.07
+2014,,1 to under 15 years,male,,,,0.08
+2015,,1 to under 15 years,male,,,,0.08
+2016,,1 to under 15 years,male,,,,0.1
+2017,,1 to under 15 years,male,,,,0.1
+2018,,1 to under 15 years,male,,,,0.18
+2019,,1 to under 15 years,male,,,,0.14
+2020,,1 to under 15 years,male,,,,0.15
+2021,,1 to under 15 years,male,,,,0.15
+2022,,1 to under 15 years,male,,,,0.17
+2023,,1 to under 15 years,male,,,,0.17
+2024,,1 to under 15 years,male,,,,0.21
+2010,,15 to under 18 years,female,.,,,
+2011,,15 to under 18 years,female,.,,,
+2012,,15 to under 18 years,female,,,,0.1
+2013,,15 to under 18 years,female,,,,0.09
+2014,,15 to under 18 years,female,,,,0.1
+2015,,15 to under 18 years,female,,,,0.1
+2016,,15 to under 18 years,female,,,,0.12
+2017,,15 to under 18 years,female,,,,0.13
+2018,,15 to under 18 years,female,,,,0.15
+2019,,15 to under 18 years,female,,,,0.16
+2020,,15 to under 18 years,female,,,,0.18
+2021,,15 to under 18 years,female,,,,0.19
+2022,,15 to under 18 years,female,,,,0.21
+2023,,15 to under 18 years,female,,,,0.22
+2024,,15 to under 18 years,female,,,,0.26
+2010,,15 to under 18 years,male,.,,,
+2011,,15 to under 18 years,male,.,,,
+2012,,15 to under 18 years,male,,,,0.04
+2013,,15 to under 18 years,male,,,,0.04
+2014,,15 to under 18 years,male,,,,0.05
+2015,,15 to under 18 years,male,,,,0.05
+2016,,15 to under 18 years,male,,,,0.05
+2017,,15 to under 18 years,male,,,,0.05
+2018,,15 to under 18 years,male,,,,0.06
+2019,,15 to under 18 years,male,,,,0.08
+2020,,15 to under 18 years,male,,,,0.08
+2021,,15 to under 18 years,male,,,,0.08
+2022,,15 to under 18 years,male,,,,0.1
+2023,,15 to under 18 years,male,,,,0.1
+2024,,15 to under 18 years,male,,,,0.12
 2010,physical abuse,1 to under 18 years,,.,,,
 2011,physical abuse,1 to under 18 years,,.,,,
 2012,physical abuse,1 to under 18 years,,,,,0.04
@@ -172,103 +127,103 @@ Year,form of abuse,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2015,physical abuse,1 to under 18 years,male,,,,0.04
 2016,physical abuse,1 to under 18 years,male,,,,0.04
 2017,physical abuse,1 to under 18 years,male,,,,0.05
-2018,physical abuse,1 to under 18 years,male,r,,,0.06
-2019,physical abuse,1 to under 18 years,male,r,,,0.07
-2020,physical abuse,1 to under 18 years,male,r,,,0.07
+2018,physical abuse,1 to under 18 years,male,,,,0.06
+2019,physical abuse,1 to under 18 years,male,,,,0.07
+2020,physical abuse,1 to under 18 years,male,,,,0.07
 2021,physical abuse,1 to under 18 years,male,,,,0.06
 2022,physical abuse,1 to under 18 years,male,,,,0.07
-2023,physical abuse,1 to under 18 years,male,r,,,0.08
+2023,physical abuse,1 to under 18 years,male,r,,,0.07
 2024,physical abuse,1 to under 18 years,male,,,,0.09
-2010,physical abuse,1 to under 15 years,,,,,
-2011,physical abuse,1 to under 15 years,,,,,
-2012,physical abuse,1 to under 15 years,,,,,
-2013,physical abuse,1 to under 15 years,,,,,
-2014,physical abuse,1 to under 15 years,,,,,
-2015,physical abuse,1 to under 15 years,,,,,
-2016,physical abuse,1 to under 15 years,,,,,
-2017,physical abuse,1 to under 15 years,,,,,
-2018,physical abuse,1 to under 15 years,,,,,
-2019,physical abuse,1 to under 15 years,,,,,
-2020,physical abuse,1 to under 15 years,,,,,
-2021,physical abuse,1 to under 15 years,,,,,
-2022,physical abuse,1 to under 15 years,,,,,
-2023,physical abuse,1 to under 15 years,,,,,
-2024,physical abuse,1 to under 15 years,,,,,
-2010,physical abuse,1 to under 15 years,female,,,,
-2011,physical abuse,1 to under 15 years,female,,,,
-2012,physical abuse,1 to under 15 years,female,,,,
-2013,physical abuse,1 to under 15 years,female,,,,
-2014,physical abuse,1 to under 15 years,female,,,,
-2015,physical abuse,1 to under 15 years,female,,,,
-2016,physical abuse,1 to under 15 years,female,,,,
-2017,physical abuse,1 to under 15 years,female,,,,
-2018,physical abuse,1 to under 15 years,female,,,,
-2019,physical abuse,1 to under 15 years,female,,,,
-2020,physical abuse,1 to under 15 years,female,,,,
-2021,physical abuse,1 to under 15 years,female,,,,
-2022,physical abuse,1 to under 15 years,female,,,,
-2023,physical abuse,1 to under 15 years,female,,,,
-2024,physical abuse,1 to under 15 years,female,,,,
-2010,physical abuse,1 to under 15 years,male,,,,
-2011,physical abuse,1 to under 15 years,male,,,,
-2012,physical abuse,1 to under 15 years,male,,,,
-2013,physical abuse,1 to under 15 years,male,,,,
-2014,physical abuse,1 to under 15 years,male,,,,
-2015,physical abuse,1 to under 15 years,male,,,,
-2016,physical abuse,1 to under 15 years,male,,,,
-2017,physical abuse,1 to under 15 years,male,,,,
-2018,physical abuse,1 to under 15 years,male,,,,
-2019,physical abuse,1 to under 15 years,male,,,,
-2020,physical abuse,1 to under 15 years,male,,,,
-2021,physical abuse,1 to under 15 years,male,,,,
-2022,physical abuse,1 to under 15 years,male,,,,
-2023,physical abuse,1 to under 15 years,male,,,,
-2024,physical abuse,1 to under 15 years,male,,,,
-2010,physical abuse,15 to under 18 years,,,,,
-2011,physical abuse,15 to under 18 years,,,,,
-2012,physical abuse,15 to under 18 years,,,,,
-2013,physical abuse,15 to under 18 years,,,,,
-2014,physical abuse,15 to under 18 years,,,,,
-2015,physical abuse,15 to under 18 years,,,,,
-2016,physical abuse,15 to under 18 years,,,,,
-2017,physical abuse,15 to under 18 years,,,,,
-2018,physical abuse,15 to under 18 years,,,,,
-2019,physical abuse,15 to under 18 years,,,,,
-2020,physical abuse,15 to under 18 years,,,,,
-2021,physical abuse,15 to under 18 years,,,,,
-2022,physical abuse,15 to under 18 years,,,,,
-2023,physical abuse,15 to under 18 years,,,,,
-2024,physical abuse,15 to under 18 years,,,,,
-2010,physical abuse,15 to under 18 years,female,,,,
-2011,physical abuse,15 to under 18 years,female,,,,
-2012,physical abuse,15 to under 18 years,female,,,,
-2013,physical abuse,15 to under 18 years,female,,,,
-2014,physical abuse,15 to under 18 years,female,,,,
-2015,physical abuse,15 to under 18 years,female,,,,
-2016,physical abuse,15 to under 18 years,female,,,,
-2017,physical abuse,15 to under 18 years,female,,,,
-2018,physical abuse,15 to under 18 years,female,,,,
-2019,physical abuse,15 to under 18 years,female,,,,
-2020,physical abuse,15 to under 18 years,female,,,,
-2021,physical abuse,15 to under 18 years,female,,,,
-2022,physical abuse,15 to under 18 years,female,,,,
-2023,physical abuse,15 to under 18 years,female,,,,
-2024,physical abuse,15 to under 18 years,female,,,,
-2010,physical abuse,15 to under 18 years,male,,,,
-2011,physical abuse,15 to under 18 years,male,,,,
-2012,physical abuse,15 to under 18 years,male,,,,
-2013,physical abuse,15 to under 18 years,male,,,,
-2014,physical abuse,15 to under 18 years,male,,,,
-2015,physical abuse,15 to under 18 years,male,,,,
-2016,physical abuse,15 to under 18 years,male,,,,
-2017,physical abuse,15 to under 18 years,male,,,,
-2018,physical abuse,15 to under 18 years,male,,,,
-2019,physical abuse,15 to under 18 years,male,,,,
-2020,physical abuse,15 to under 18 years,male,,,,
-2021,physical abuse,15 to under 18 years,male,,,,
-2022,physical abuse,15 to under 18 years,male,,,,
-2023,physical abuse,15 to under 18 years,male,,,,
-2024,physical abuse,15 to under 18 years,male,,,,
+2010,physical abuse,1 to under 15 years,,.,,,
+2011,physical abuse,1 to under 15 years,,.,,,
+2012,physical abuse,1 to under 15 years,,,,,0.04
+2013,physical abuse,1 to under 15 years,,,,,0.04
+2014,physical abuse,1 to under 15 years,,,,,0.04
+2015,physical abuse,1 to under 15 years,,,,,0.04
+2016,physical abuse,1 to under 15 years,,,,,0.05
+2017,physical abuse,1 to under 15 years,,,,,0.05
+2018,physical abuse,1 to under 15 years,,,,,0.06
+2019,physical abuse,1 to under 15 years,,,,,0.07
+2020,physical abuse,1 to under 15 years,,,,,0.07
+2021,physical abuse,1 to under 15 years,,,,,0.07
+2022,physical abuse,1 to under 15 years,,,,,0.08
+2023,physical abuse,1 to under 15 years,,,,,0.08
+2024,physical abuse,1 to under 15 years,,,,,0.1
+2010,physical abuse,1 to under 15 years,female,.,,,
+2011,physical abuse,1 to under 15 years,female,.,,,
+2012,physical abuse,1 to under 15 years,female,,,,0.04
+2013,physical abuse,1 to under 15 years,female,,,,0.04
+2014,physical abuse,1 to under 15 years,female,,,,0.04
+2015,physical abuse,1 to under 15 years,female,,,,0.04
+2016,physical abuse,1 to under 15 years,female,,,,0.05
+2017,physical abuse,1 to under 15 years,female,,,,0.05
+2018,physical abuse,1 to under 15 years,female,,,,0.06
+2019,physical abuse,1 to under 15 years,female,,,,0.07
+2020,physical abuse,1 to under 15 years,female,,,,0.06
+2021,physical abuse,1 to under 15 years,female,,,,0.07
+2022,physical abuse,1 to under 15 years,female,,,,0.08
+2023,physical abuse,1 to under 15 years,female,,,,0.08
+2024,physical abuse,1 to under 15 years,female,,,,0.09
+2010,physical abuse,1 to under 15 years,male,.,,,
+2011,physical abuse,1 to under 15 years,male,.,,,
+2012,physical abuse,1 to under 15 years,male,,,,0.04
+2013,physical abuse,1 to under 15 years,male,,,,0.04
+2014,physical abuse,1 to under 15 years,male,,,,0.04
+2015,physical abuse,1 to under 15 years,male,,,,0.04
+2016,physical abuse,1 to under 15 years,male,,,,0.05
+2017,physical abuse,1 to under 15 years,male,,,,0.05
+2018,physical abuse,1 to under 15 years,male,,,,0.06
+2019,physical abuse,1 to under 15 years,male,,,,0.07
+2020,physical abuse,1 to under 15 years,male,,,,0.07
+2021,physical abuse,1 to under 15 years,male,,,,0.07
+2022,physical abuse,1 to under 15 years,male,,,,0.08
+2023,physical abuse,1 to under 15 years,male,,,,0.08
+2024,physical abuse,1 to under 15 years,male,,,,0.1
+2010,physical abuse,15 to under 18 years,,.,,,
+2011,physical abuse,15 to under 18 years,,.,,,
+2012,physical abuse,15 to under 18 years,,,,,0.04
+2013,physical abuse,15 to under 18 years,,,,,0.04
+2014,physical abuse,15 to under 18 years,,,,,0.04
+2015,physical abuse,15 to under 18 years,,,,,0.04
+2016,physical abuse,15 to under 18 years,,,,,0.04
+2017,physical abuse,15 to under 18 years,,,,,0.05
+2018,physical abuse,15 to under 18 years,,,,,0.05
+2019,physical abuse,15 to under 18 years,,,,,0.06
+2020,physical abuse,15 to under 18 years,,,,,0.06
+2021,physical abuse,15 to under 18 years,,,,,0.06
+2022,physical abuse,15 to under 18 years,,,,,0.08
+2023,physical abuse,15 to under 18 years,,,,,0.08
+2024,physical abuse,15 to under 18 years,,,,,0.09
+2010,physical abuse,15 to under 18 years,female,.,,,
+2011,physical abuse,15 to under 18 years,female,.,,,
+2012,physical abuse,15 to under 18 years,female,,,,0.05
+2013,physical abuse,15 to under 18 years,female,,,,0.05
+2014,physical abuse,15 to under 18 years,female,,,,0.05
+2015,physical abuse,15 to under 18 years,female,,,,0.05
+2016,physical abuse,15 to under 18 years,female,,,,0.06
+2017,physical abuse,15 to under 18 years,female,,,,0.06
+2018,physical abuse,15 to under 18 years,female,,,,0.08
+2019,physical abuse,15 to under 18 years,female,,,,0.08
+2020,physical abuse,15 to under 18 years,female,,,,0.09
+2021,physical abuse,15 to under 18 years,female,,,,0.09
+2022,physical abuse,15 to under 18 years,female,,,,0.1
+2023,physical abuse,15 to under 18 years,female,,,,0.11
+2024,physical abuse,15 to under 18 years,female,,,,0.13
+2010,physical abuse,15 to under 18 years,male,.,,,
+2011,physical abuse,15 to under 18 years,male,.,,,
+2012,physical abuse,15 to under 18 years,male,,,,0.02
+2013,physical abuse,15 to under 18 years,male,,,,0.02
+2014,physical abuse,15 to under 18 years,male,,,,0.03
+2015,physical abuse,15 to under 18 years,male,,,,0.02
+2016,physical abuse,15 to under 18 years,male,,,,0.03
+2017,physical abuse,15 to under 18 years,male,,,,0.03
+2018,physical abuse,15 to under 18 years,male,,,,0.03
+2019,physical abuse,15 to under 18 years,male,,,,0.04
+2020,physical abuse,15 to under 18 years,male,,,,0.04
+2021,physical abuse,15 to under 18 years,male,,,,0.04
+2022,physical abuse,15 to under 18 years,male,,,,0.05
+2023,physical abuse,15 to under 18 years,male,,,,0.05
+2024,physical abuse,15 to under 18 years,male,,,,0.06
 2010,psychological abuse,1 to under 18 years,,.,,,
 2011,psychological abuse,1 to under 18 years,,.,,,
 2012,psychological abuse,1 to under 18 years,,,,,0.03
@@ -279,7 +234,7 @@ Year,form of abuse,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2017,psychological abuse,1 to under 18 years,,,,,0.05
 2018,psychological abuse,1 to under 18 years,,,,,0.06
 2019,psychological abuse,1 to under 18 years,,,,,0.07
-2020,psychological abuse,1 to under 18 years,,r,,,0.08
+2020,psychological abuse,1 to under 18 years,,,,,0.08
 2021,psychological abuse,1 to under 18 years,,,,,0.08
 2022,psychological abuse,1 to under 18 years,,,,,0.09
 2023,psychological abuse,1 to under 18 years,,,,,0.09
@@ -297,7 +252,7 @@ Year,form of abuse,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,psychological abuse,1 to under 18 years,female,,,,0.08
 2021,psychological abuse,1 to under 18 years,female,,,,0.09
 2022,psychological abuse,1 to under 18 years,female,,,,0.09
-2023,psychological abuse,1 to under 18 years,female,,,,0.09
+2023,psychological abuse,1 to under 18 years,female,r,,,0.1
 2024,psychological abuse,1 to under 18 years,female,,,,0.12
 2010,psychological abuse,1 to under 18 years,male,.,,,
 2011,psychological abuse,1 to under 18 years,male,.,,,
@@ -312,95 +267,95 @@ Year,form of abuse,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2020,psychological abuse,1 to under 18 years,male,,,,0.07
 2021,psychological abuse,1 to under 18 years,male,,,,0.07
 2022,psychological abuse,1 to under 18 years,male,,,,0.08
-2023,psychological abuse,1 to under 18 years,male,,,,0.09
+2023,psychological abuse,1 to under 18 years,male,r,,,0.08
 2024,psychological abuse,1 to under 18 years,male,,,,0.1
-2010,psychological abuse,1 to under 15 years,,,,,
-2011,psychological abuse,1 to under 15 years,,,,,
-2012,psychological abuse,1 to under 15 years,,,,,
-2013,psychological abuse,1 to under 15 years,,,,,
-2014,psychological abuse,1 to under 15 years,,,,,
-2015,psychological abuse,1 to under 15 years,,,,,
-2016,psychological abuse,1 to under 15 years,,,,,
-2017,psychological abuse,1 to under 15 years,,,,,
-2018,psychological abuse,1 to under 15 years,,,,,
-2019,psychological abuse,1 to under 15 years,,,,,
-2020,psychological abuse,1 to under 15 years,,,,,
-2021,psychological abuse,1 to under 15 years,,,,,
-2022,psychological abuse,1 to under 15 years,,,,,
-2023,psychological abuse,1 to under 15 years,,,,,
-2024,psychological abuse,1 to under 15 years,,,,,
-2010,psychological abuse,1 to under 15 years,female,,,,
-2011,psychological abuse,1 to under 15 years,female,,,,
-2012,psychological abuse,1 to under 15 years,female,,,,
-2013,psychological abuse,1 to under 15 years,female,,,,
-2014,psychological abuse,1 to under 15 years,female,,,,
-2015,psychological abuse,1 to under 15 years,female,,,,
-2016,psychological abuse,1 to under 15 years,female,,,,
-2017,psychological abuse,1 to under 15 years,female,,,,
-2018,psychological abuse,1 to under 15 years,female,,,,
-2019,psychological abuse,1 to under 15 years,female,,,,
-2020,psychological abuse,1 to under 15 years,female,,,,
-2021,psychological abuse,1 to under 15 years,female,,,,
-2022,psychological abuse,1 to under 15 years,female,,,,
-2023,psychological abuse,1 to under 15 years,female,,,,
-2024,psychological abuse,1 to under 15 years,female,,,,
-2010,psychological abuse,1 to under 15 years,male,,,,
-2011,psychological abuse,1 to under 15 years,male,,,,
-2012,psychological abuse,1 to under 15 years,male,,,,
-2013,psychological abuse,1 to under 15 years,male,,,,
-2014,psychological abuse,1 to under 15 years,male,,,,
-2015,psychological abuse,1 to under 15 years,male,,,,
-2016,psychological abuse,1 to under 15 years,male,,,,
-2017,psychological abuse,1 to under 15 years,male,,,,
-2018,psychological abuse,1 to under 15 years,male,,,,
-2019,psychological abuse,1 to under 15 years,male,,,,
-2020,psychological abuse,1 to under 15 years,male,,,,
-2021,psychological abuse,1 to under 15 years,male,,,,
-2022,psychological abuse,1 to under 15 years,male,,,,
-2023,psychological abuse,1 to under 15 years,male,,,,
-2024,psychological abuse,1 to under 15 years,male,,,,
-2010,psychological abuse,15 to under 18 years,,,,,
-2011,psychological abuse,15 to under 18 years,,,,,
-2012,psychological abuse,15 to under 18 years,,,,,
-2013,psychological abuse,15 to under 18 years,,,,,
-2014,psychological abuse,15 to under 18 years,,,,,
-2015,psychological abuse,15 to under 18 years,,,,,
-2016,psychological abuse,15 to under 18 years,,,,,
-2017,psychological abuse,15 to under 18 years,,,,,
-2018,psychological abuse,15 to under 18 years,,,,,
-2019,psychological abuse,15 to under 18 years,,,,,
-2020,psychological abuse,15 to under 18 years,,,,,
-2021,psychological abuse,15 to under 18 years,,,,,
-2022,psychological abuse,15 to under 18 years,,,,,
-2023,psychological abuse,15 to under 18 years,,,,,
-2024,psychological abuse,15 to under 18 years,,,,,
-2010,psychological abuse,15 to under 18 years,female,,,,
-2011,psychological abuse,15 to under 18 years,female,,,,
-2012,psychological abuse,15 to under 18 years,female,,,,
-2013,psychological abuse,15 to under 18 years,female,,,,
-2014,psychological abuse,15 to under 18 years,female,,,,
-2015,psychological abuse,15 to under 18 years,female,,,,
-2016,psychological abuse,15 to under 18 years,female,,,,
-2017,psychological abuse,15 to under 18 years,female,,,,
-2018,psychological abuse,15 to under 18 years,female,,,,
-2019,psychological abuse,15 to under 18 years,female,,,,
-2020,psychological abuse,15 to under 18 years,female,,,,
-2021,psychological abuse,15 to under 18 years,female,,,,
-2022,psychological abuse,15 to under 18 years,female,,,,
-2023,psychological abuse,15 to under 18 years,female,,,,
-2024,psychological abuse,15 to under 18 years,female,,,,
-2010,psychological abuse,15 to under 18 years,male,,,,
-2011,psychological abuse,15 to under 18 years,male,,,,
-2012,psychological abuse,15 to under 18 years,male,,,,
-2013,psychological abuse,15 to under 18 years,male,,,,
-2014,psychological abuse,15 to under 18 years,male,,,,
-2015,psychological abuse,15 to under 18 years,male,,,,
-2016,psychological abuse,15 to under 18 years,male,,,,
-2017,psychological abuse,15 to under 18 years,male,,,,
-2018,psychological abuse,15 to under 18 years,male,,,,
-2019,psychological abuse,15 to under 18 years,male,,,,
-2020,psychological abuse,15 to under 18 years,male,,,,
-2021,psychological abuse,15 to under 18 years,male,,,,
-2022,psychological abuse,15 to under 18 years,male,,,,
-2023,psychological abuse,15 to under 18 years,male,,,,
-2024,psychological abuse,15 to under 18 years,male,,,,
+2010,psychological abuse,1 to under 15 years,,.,,,
+2011,psychological abuse,1 to under 15 years,,.,,,
+2012,psychological abuse,1 to under 15 years,,,,,0.03
+2013,psychological abuse,1 to under 15 years,,,,,0.03
+2014,psychological abuse,1 to under 15 years,,,,,0.04
+2015,psychological abuse,1 to under 15 years,,,,,0.04
+2016,psychological abuse,1 to under 15 years,,,,,0.05
+2017,psychological abuse,1 to under 15 years,,,,,0.05
+2018,psychological abuse,1 to under 15 years,,,,,0.06
+2019,psychological abuse,1 to under 15 years,,,,,0.07
+2020,psychological abuse,1 to under 15 years,,,,,0.08
+2021,psychological abuse,1 to under 15 years,,,,,0.08
+2022,psychological abuse,1 to under 15 years,,,,,0.09
+2023,psychological abuse,1 to under 15 years,,,,,0.09
+2024,psychological abuse,1 to under 15 years,,,,,0.11
+2010,psychological abuse,1 to under 15 years,female,.,,,
+2011,psychological abuse,1 to under 15 years,female,.,,,
+2012,psychological abuse,1 to under 15 years,female,,,,0.04
+2013,psychological abuse,1 to under 15 years,female,,,,0.04
+2014,psychological abuse,1 to under 15 years,female,,,,0.04
+2015,psychological abuse,1 to under 15 years,female,,,,0.04
+2016,psychological abuse,1 to under 15 years,female,,,,0.05
+2017,psychological abuse,1 to under 15 years,female,,,,0.05
+2018,psychological abuse,1 to under 15 years,female,,,,0.06
+2019,psychological abuse,1 to under 15 years,female,,,,0.07
+2020,psychological abuse,1 to under 15 years,female,,,,0.08
+2021,psychological abuse,1 to under 15 years,female,,,,0.08
+2022,psychological abuse,1 to under 15 years,female,,,,0.09
+2023,psychological abuse,1 to under 15 years,female,,,,0.09
+2024,psychological abuse,1 to under 15 years,female,,,,0.12
+2010,psychological abuse,1 to under 15 years,male,.,,,
+2011,psychological abuse,1 to under 15 years,male,.,,,
+2012,psychological abuse,1 to under 15 years,male,,,,0.03
+2013,psychological abuse,1 to under 15 years,male,,,,0.03
+2014,psychological abuse,1 to under 15 years,male,,,,0.04
+2015,psychological abuse,1 to under 15 years,male,,,,0.04
+2016,psychological abuse,1 to under 15 years,male,,,,0.05
+2017,psychological abuse,1 to under 15 years,male,,,,0.05
+2018,psychological abuse,1 to under 15 years,male,,,,0.12
+2019,psychological abuse,1 to under 15 years,male,,,,0.07
+2020,psychological abuse,1 to under 15 years,male,,,,0.08
+2021,psychological abuse,1 to under 15 years,male,,,,0.08
+2022,psychological abuse,1 to under 15 years,male,,,,0.09
+2023,psychological abuse,1 to under 15 years,male,,,,0.09
+2024,psychological abuse,1 to under 15 years,male,,,,0.11
+2010,psychological abuse,15 to under 18 years,,.,,,
+2011,psychological abuse,15 to under 18 years,,.,,,
+2012,psychological abuse,15 to under 18 years,,,,,0.03
+2013,psychological abuse,15 to under 18 years,,,,,0.03
+2014,psychological abuse,15 to under 18 years,,,,,0.04
+2015,psychological abuse,15 to under 18 years,,,,,0.04
+2016,psychological abuse,15 to under 18 years,,,,,0.04
+2017,psychological abuse,15 to under 18 years,,,,,0.04
+2018,psychological abuse,15 to under 18 years,,,,,0.05
+2019,psychological abuse,15 to under 18 years,,,,,0.06
+2020,psychological abuse,15 to under 18 years,,,,,0.06
+2021,psychological abuse,15 to under 18 years,,,,,0.07
+2022,psychological abuse,15 to under 18 years,,,,,0.08
+2023,psychological abuse,15 to under 18 years,,,,,0.08
+2024,psychological abuse,15 to under 18 years,,,,,0.1
+2010,psychological abuse,15 to under 18 years,female,.,,,
+2011,psychological abuse,15 to under 18 years,female,.,,,
+2012,psychological abuse,15 to under 18 years,female,,,,0.05
+2013,psychological abuse,15 to under 18 years,female,,,,0.05
+2014,psychological abuse,15 to under 18 years,female,,,,0.05
+2015,psychological abuse,15 to under 18 years,female,,,,0.05
+2016,psychological abuse,15 to under 18 years,female,,,,0.06
+2017,psychological abuse,15 to under 18 years,female,,,,0.06
+2018,psychological abuse,15 to under 18 years,female,,,,0.07
+2019,psychological abuse,15 to under 18 years,female,,,,0.08
+2020,psychological abuse,15 to under 18 years,female,,,,0.09
+2021,psychological abuse,15 to under 18 years,female,,,,0.1
+2022,psychological abuse,15 to under 18 years,female,,,,0.11
+2023,psychological abuse,15 to under 18 years,female,,,,0.12
+2024,psychological abuse,15 to under 18 years,female,,,,0.14
+2010,psychological abuse,15 to under 18 years,male,.,,,
+2011,psychological abuse,15 to under 18 years,male,.,,,
+2012,psychological abuse,15 to under 18 years,male,,,,0.02
+2013,psychological abuse,15 to under 18 years,male,,,,0.02
+2014,psychological abuse,15 to under 18 years,male,,,,0.03
+2015,psychological abuse,15 to under 18 years,male,,,,0.03
+2016,psychological abuse,15 to under 18 years,male,,,,0.03
+2017,psychological abuse,15 to under 18 years,male,,,,0.03
+2018,psychological abuse,15 to under 18 years,male,,,,0.03
+2019,psychological abuse,15 to under 18 years,male,,,,0.04
+2020,psychological abuse,15 to under 18 years,male,,,,0.04
+2021,psychological abuse,15 to under 18 years,male,,,,0.04
+2022,psychological abuse,15 to under 18 years,male,,,,0.05
+2023,psychological abuse,15 to under 18 years,male,,,,0.05
+2024,psychological abuse,15 to under 18 years,male,,,,0.06
