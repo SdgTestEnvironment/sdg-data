@@ -15207,19 +15207,68 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "million eur",
+                "million usd, constant prices (2024)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of financial flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "official development assistance",
+                "other official flows",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "commitments",
+                "gross disbursements",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -15961,7 +16010,7 @@
                 "(2) regulatory tier 1 capital to risk-weighted assets",
                 "(3) non-performing loans net of provisions to capital",
                 "(4) non-performing loans to total gross loans",
-                "(5) total return on assets",
+                "(5) return on assets",
                 "(6) liquid assets to short-term liabilities",
                 "(7) net open position in foreign exchange to capital",
                 ""

@@ -16650,20 +16650,74 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Million EUR",
+                "Million USD, constant prices (2024)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "type of financial flow",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official Development Assistance",
+                "Other Official Flows",
+                ""
+              ]
+            },
+            "title": "Type of financial flow"
+          },
+          {
+            "name": "type of official development assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments",
+                "Gross disbursements",
+                ""
+              ]
+            },
+            "title": "Type of Official Development Assistance"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -17473,7 +17527,7 @@
                 "(2) Regulatory Tier 1 capital to risk-weighted assets",
                 "(3) Non-performing loans net of provisions to capital",
                 "(4) Non-performing loans to total gross loans",
-                "(5) Total return on assets",
+                "(5) Return on assets",
                 "(6) Liquid assets to short-term liabilities",
                 "(7) Net open position in foreign exchange to capital",
                 ""
