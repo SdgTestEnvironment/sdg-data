@@ -1,7 +1,121 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,type of financial flow,type of official development assistance,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,million eur,official development assistance,commitments,,,,5679.857
+2011,million eur,official development assistance,commitments,,,,3622.443
+2012,million eur,official development assistance,commitments,,,,4731.998
+2013,million eur,official development assistance,commitments,,,,5060.298
+2014,million eur,official development assistance,commitments,,,,5633.437
+2015,million eur,official development assistance,commitments,,,,9994.227
+2016,million eur,official development assistance,commitments,,,,7494.979
+2017,million eur,official development assistance,commitments,,,,7520.897
+2018,million eur,official development assistance,commitments,,,,5641.047
+2019,million eur,official development assistance,commitments,,,,6476.748
+2020,million eur,official development assistance,commitments,,,,4719.889
+2021,million eur,official development assistance,commitments,,,,5164.704
+2022,million eur,official development assistance,commitments,,,,8564.408
+2023,million eur,official development assistance,commitments,,,,6690.262
+2024,million eur,official development assistance,commitments,,,,5667.850
+2010,million eur,official development assistance,gross disbursements,,,,3256.424
+2011,million eur,official development assistance,gross disbursements,,,,2756.391
+2012,million eur,official development assistance,gross disbursements,,,,3160.415
+2013,million eur,official development assistance,gross disbursements,,,,3368.235
+2014,million eur,official development assistance,gross disbursements,,,,3225.645
+2015,million eur,official development assistance,gross disbursements,,,,5739.481
+2016,million eur,official development assistance,gross disbursements,,,,5437.674
+2017,million eur,official development assistance,gross disbursements,,,,5251.636
+2018,million eur,official development assistance,gross disbursements,,,,4831.795
+2019,million eur,official development assistance,gross disbursements,,,,5626.648
+2020,million eur,official development assistance,gross disbursements,,,,5096.230
+2021,million eur,official development assistance,gross disbursements,,,,4495.883
+2022,million eur,official development assistance,gross disbursements,,,,6540.131
+2023,million eur,official development assistance,gross disbursements,,,,5599.717
+2024,million eur,official development assistance,gross disbursements,,,,5664.082
+2010,million eur,other official flows,commitments,,,,42.261
+2011,million eur,other official flows,commitments,,,,207.645
+2012,million eur,other official flows,commitments,,,,24.261
+2013,million eur,other official flows,commitments,,,,0.000
+2014,million eur,other official flows,commitments,,,,79.859
+2015,million eur,other official flows,commitments,,,,196.557
+2016,million eur,other official flows,commitments,,,,394.375
+2017,million eur,other official flows,commitments,,,,415.158
+2018,million eur,other official flows,commitments,,,,1711.900
+2019,million eur,other official flows,commitments,,,,1025.185
+2020,million eur,other official flows,commitments,,,,1285.051
+2021,million eur,other official flows,commitments,,,,1588.572
+2022,million eur,other official flows,commitments,,,,876.201
+2023,million eur,other official flows,commitments,,,,17.686
+2024,million eur,other official flows,commitments,,,,45.038
+2010,million eur,other official flows,gross disbursements,,,,3.390
+2011,million eur,other official flows,gross disbursements,,,,28.840
+2012,million eur,other official flows,gross disbursements,,,,1.847
+2013,million eur,other official flows,gross disbursements,,,,6.250
+2014,million eur,other official flows,gross disbursements,,,,65.864
+2015,million eur,other official flows,gross disbursements,,,,270.107
+2016,million eur,other official flows,gross disbursements,,,,487.698
+2017,million eur,other official flows,gross disbursements,,,,543.509
+2018,million eur,other official flows,gross disbursements,,,,1201.037
+2019,million eur,other official flows,gross disbursements,,,,1529.899
+2020,million eur,other official flows,gross disbursements,,,,1252.935
+2021,million eur,other official flows,gross disbursements,,,,1337.369
+2022,million eur,other official flows,gross disbursements,,,,1607.055
+2023,million eur,other official flows,gross disbursements,,,,29.341
+2024,million eur,other official flows,gross disbursements,,,,38.959
+2010,"million usd, constant prices (2024)",official development assistance,commitments,,,,6495.299
+2011,"million usd, constant prices (2024)",official development assistance,commitments,,,,4621.409
+2012,"million usd, constant prices (2024)",official development assistance,commitments,,,,5232.931
+2013,"million usd, constant prices (2024)",official development assistance,commitments,,,,6089.780
+2014,"million usd, constant prices (2024)",official development assistance,commitments,,,,6898.947
+2015,"million usd, constant prices (2024)",official development assistance,commitments,,,,8704.223
+2016,"million usd, constant prices (2024)",official development assistance,commitments,,,,6569.013
+2017,"million usd, constant prices (2024)",official development assistance,commitments,,,,6950.616
+2018,"million usd, constant prices (2024)",official development assistance,commitments,,,,5821.554
+2019,"million usd, constant prices (2024)",official development assistance,commitments,,,,6134.421
+2020,"million usd, constant prices (2024)",official development assistance,commitments,,,,4714.046
+2021,"million usd, constant prices (2024)",official development assistance,commitments,,,,5704.318
+2022,"million usd, constant prices (2024)",official development assistance,commitments,,,,7960.565
+2023,"million usd, constant prices (2024)",official development assistance,commitments,,,,7014.711
+2024,"million usd, constant prices (2024)",official development assistance,commitments,,,,6130.056
+2010,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,3723.940
+2011,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,3516.525
+2012,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,3494.979
+2013,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,4053.479
+2014,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,3950.262
+2015,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,4998.658
+2016,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,4765.878
+2017,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,4853.424
+2018,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,4986.407
+2019,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,5329.253
+2020,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,5089.921
+2021,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,4965.618
+2022,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,6079.011
+2023,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,5871.279
+2024,"million usd, constant prices (2024)",official development assistance,gross disbursements,,,,6125.980
+2010,"million usd, constant prices (2024)",other official flows,commitments,,,,48.328
+2011,"million usd, constant prices (2024)",other official flows,commitments,,,,264.907
+2012,"million usd, constant prices (2024)",other official flows,commitments,,,,26.829
+2013,"million usd, constant prices (2024)",other official flows,commitments,,,,0.000
+2014,"million usd, constant prices (2024)",other official flows,commitments,,,,97.798
+2015,"million usd, constant prices (2024)",other official flows,commitments,,,,171.186
+2016,"million usd, constant prices (2024)",other official flows,commitments,,,,345.652
+2017,"million usd, constant prices (2024)",other official flows,commitments,,,,383.678
+2018,"million usd, constant prices (2024)",other official flows,commitments,,,,1766.679
+2019,"million usd, constant prices (2024)",other official flows,commitments,,,,970.999
+2020,"million usd, constant prices (2024)",other official flows,commitments,,,,1283.460
+2021,"million usd, constant prices (2024)",other official flows,commitments,,,,1754.548
+2022,"million usd, constant prices (2024)",other official flows,commitments,,,,814.424
+2023,"million usd, constant prices (2024)",other official flows,commitments,,,,18.544
+2024,"million usd, constant prices (2024)",other official flows,commitments,,,,48.711
+2010,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,3.877
+2011,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,36.794
+2012,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,2.042
+2013,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,7.521
+2014,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,80.660
+2015,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,235.243
+2016,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,427.445
+2017,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,502.297
+2018,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,1239.469
+2019,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,1449.036
+2020,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,1251.384
+2021,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,1477.098
+2022,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,1493.748
+2023,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,30.763
+2024,"million usd, constant prices (2024)",other official flows,gross disbursements,,,,42.136

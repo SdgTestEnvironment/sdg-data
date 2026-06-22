@@ -63,22 +63,22 @@ Year,timeseries,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2023,(4) non-performing loans to total gross loans,,,,1.54
 2024,(4) non-performing loans to total gross loans,,,,1.77
 2025,(4) non-performing loans to total gross loans,,,,1.89
-2010,(5) total return on assets,,,,0.37
-2011,(5) total return on assets,,,,0.53
-2012,(5) total return on assets,,,,0.45
-2013,(5) total return on assets,,,,0.36
-2014,(5) total return on assets,,,,0.37
-2015,(5) total return on assets,,,,0.40
-2016,(5) total return on assets,,,,0.37
-2017,(5) total return on assets,,,,0.37
-2018,(5) total return on assets,,,,0.32
-2019,(5) total return on assets,|,,,0.24
-2020,(5) total return on assets,,,,0.16
-2021,(5) total return on assets,,,,0.34
-2022,(5) total return on assets,|,,,0.35
-2023,(5) total return on assets,,,,0.51
-2024,(5) total return on assets,,,,0.58
-2025,(5) total return on assets,,,,0.62
+2010,(5) return on assets,,,,0.37
+2011,(5) return on assets,,,,0.53
+2012,(5) return on assets,,,,0.45
+2013,(5) return on assets,,,,0.36
+2014,(5) return on assets,,,,0.37
+2015,(5) return on assets,,,,0.40
+2016,(5) return on assets,,,,0.37
+2017,(5) return on assets,,,,0.37
+2018,(5) return on assets,,,,0.32
+2019,(5) return on assets,|,,,0.24
+2020,(5) return on assets,,,,0.16
+2021,(5) return on assets,,,,0.34
+2022,(5) return on assets,|,,,0.35
+2023,(5) return on assets,,,,0.51
+2024,(5) return on assets,,,,0.58
+2025,(5) return on assets,,,,0.62
 2010,(6) liquid assets to short-term liabilities,,,,136.99
 2011,(6) liquid assets to short-term liabilities,,,,137.86
 2012,(6) liquid assets to short-term liabilities,,,,144.17
