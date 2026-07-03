@@ -327,38 +327,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
+                "‒",
+                "…",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -367,7 +351,7 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -376,7 +360,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
@@ -12063,9 +12047,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "<u>time series of the indicator:</u> employed persons",
-                "<u>additional time series:</u> employees",
-                "<u>additional time series:</u> full-time equivalents",
+                "employed persons",
+                "employees",
+                "full-time equivalents",
                 ""
               ]
             }

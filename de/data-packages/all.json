@@ -356,34 +356,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
+                "‒",
+                "…",
                 ""
               ]
             },
@@ -391,7 +373,7 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -401,7 +383,7 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
                 ""
@@ -411,7 +393,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -13207,9 +13189,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "<u>Zeitreihe des Indikators:</u> Erwerbstätige",
-                "<u>Zusätzliche Zeitreihe:</u> Beschäftigte",
-                "<u>Zusätzliche Zeitreihe:</u> Vollzeitäquivalente",
+                "Erwerbstätige",
+                "Beschäftigte",
+                "Vollzeitäquivalente",
                 ""
               ]
             },
