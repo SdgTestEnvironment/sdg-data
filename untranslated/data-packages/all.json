@@ -2894,9 +2894,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -7933,7 +7934,6 @@
               "enum": [
                 "r",
                 "|",
-                "p",
                 ""
               ]
             }
@@ -8486,10 +8486,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -9007,7 +9006,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "p",
                 ""
               ]
             }
@@ -9289,7 +9287,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "p",
                 ""
               ]
             }
@@ -9363,6 +9360,7 @@
               "enum": [
                 "‒",
                 "0",
+                "r",
                 ""
               ]
             }
@@ -10423,10 +10421,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
