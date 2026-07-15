@@ -27,6 +27,7 @@ Year,Units,type of waste,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,"1,000 tonnes",municipal waste,,,,material recovery,35115
 2022,"1,000 tonnes",municipal waste,,,,material recovery,32873
 2023,"1,000 tonnes",municipal waste,,,,material recovery,32833
+2024,"1,000 tonnes",municipal waste,,,,material recovery,33284
 2010,percentage,total waste,,,,national recycling rate,69
 2011,percentage,total waste,,,,national recycling rate,69
 2012,percentage,total waste,,,,national recycling rate,70
@@ -55,3 +56,4 @@ Year,Units,type of waste,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
 2021,"1,000 tonnes",total waste,,,,material recovery,288460
 2022,"1,000 tonnes",total waste,,,,material recovery,279975
 2023,"1,000 tonnes",total waste,,,,material recovery,266368
+2024,"1,000 tonnes",total waste,,,,material recovery,249857

@@ -3290,17 +3290,15 @@
             "constraints": {
               "enum": [
                 "|",
-                "r",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -11933,6 +11931,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -16099,6 +16098,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
