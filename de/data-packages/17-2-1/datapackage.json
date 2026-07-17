@@ -16,16 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "timeseries",
+            "name": "type of financial flow",
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE",
-                "Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)",
+                "Öffentliche Entwicklungsleistungen",
+                "Bilaterale und kalkulatorisch multilaterale öffentliche Entwicklungsausgaben für die am wenigsten entwickelten Länder (LDCs)",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Art des Finanzstroms"
           },
           {
             "name": "COMMENT_OBS_0",
