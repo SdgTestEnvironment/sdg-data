@@ -14142,7 +14142,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -14155,8 +14155,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "net disbursements total",
-                "net disbursements to least developed countries",
+                "Nettoauszahlungen insgesamt",
+                "Nettoauszahlungen an die am wenigsten entwickelten Länder",
                 ""
               ]
             },

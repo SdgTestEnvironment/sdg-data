@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "net disbursements total",
-                "net disbursements to least developed countries",
+                "Net disbursements total",
+                "Net disbursements to least developed countries",
                 ""
               ]
             },
