@@ -12922,12 +12922,12 @@
             "type": "integer"
           },
           {
-            "name": "type of financial flow",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "official development assistance",
-                "bilateral and imputed multilateral official development assistance for ldcs",
+                "net disbursements total",
+                "net disbursements to least developed countries",
                 ""
               ]
             }

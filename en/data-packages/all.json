@@ -14151,16 +14151,16 @@
             "title": "Year"
           },
           {
-            "name": "type of financial flow",
+            "name": "type of official development assistance",
             "type": "string",
             "constraints": {
               "enum": [
-                "Official Development Assistance",
-                "Bilateral and imputed multilateral Official Development Assistance for LDCs",
+                "net disbursements total",
+                "net disbursements to least developed countries",
                 ""
               ]
             },
-            "title": "Type of financial flow"
+            "title": "Type of Official Development Assistance"
           },
           {
             "name": "COMMENT_OBS_0",
