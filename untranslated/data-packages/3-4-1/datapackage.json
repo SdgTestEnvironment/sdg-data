@@ -15,18 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage",
-                "number",
-                "number in 1,000",
-                ""
-              ]
-            }
-          },
-          {
             "name": "type of disease",
             "type": "string",
             "constraints": {
