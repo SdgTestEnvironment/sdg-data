@@ -5103,6 +5103,18 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "number",
+                "number in 1,000",
+                ""
+              ]
+            }
+          },
+          {
             "name": "type of disease",
             "type": "string",
             "constraints": {
@@ -8397,7 +8409,6 @@
             "constraints": {
               "enum": [
                 "p",
-                "…",
                 "r",
                 ""
               ]
@@ -12492,7 +12503,7 @@
             "constraints": {
               "enum": [
                 "million eur",
-                "million usd, constant prices (2022)",
+                "million usd, constant prices (2024)",
                 ""
               ]
             }
@@ -12521,9 +12532,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "‒",
                 ""
               ]
             }
