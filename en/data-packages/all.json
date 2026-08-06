@@ -2361,7 +2361,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             },
@@ -6400,9 +6399,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "…",
                 ""
               ]
             },
@@ -8186,9 +8187,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             },
@@ -10380,11 +10382,27 @@
             "title": "Sex"
           },
           {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing (ISIC A)",
+                "Manufacturing (ISIC C)",
+                "Construction (ISIC F)",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC G)",
+                " Verkehr und Lagerei (ISIC H)",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
                 "|",
+                ".",
                 ""
               ]
             },
@@ -10676,6 +10694,7 @@
             "constraints": {
               "enum": [
                 "…",
+                "p",
                 ".",
                 ""
               ]
@@ -11333,7 +11352,6 @@
                 ".",
                 "|",
                 "0",
-                "…",
                 ""
               ]
             },
@@ -11886,6 +11904,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "|",
                 ""
               ]
             },
@@ -17116,7 +17135,6 @@
               "enum": [
                 "|",
                 "0",
-                "…",
                 ""
               ]
             },

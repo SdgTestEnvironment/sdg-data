@@ -2157,7 +2157,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             }
@@ -5845,9 +5844,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
+                "…",
                 ""
               ]
             }
@@ -7481,9 +7482,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -9482,11 +9484,26 @@
             }
           },
           {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "agriculture, forestry and fishing (isic a)",
+                "manufacturing (isic c)",
+                "construction (isic f)",
+                "wholesale and retail trade; repair of motor vehicles and motorcycles (isic g)",
+                " verkehr und lagerei (isic h)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
                 "|",
+                ".",
                 ""
               ]
             }
@@ -9753,6 +9770,7 @@
             "constraints": {
               "enum": [
                 "…",
+                "p",
                 ".",
                 ""
               ]
@@ -10355,7 +10373,6 @@
                 ".",
                 "|",
                 "0",
-                "…",
                 ""
               ]
             }
@@ -10860,6 +10877,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "|",
                 ""
               ]
             }
@@ -15635,7 +15653,6 @@
               "enum": [
                 "|",
                 "0",
-                "…",
                 ""
               ]
             }
