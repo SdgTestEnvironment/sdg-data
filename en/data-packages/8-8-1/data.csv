@@ -104,21 +104,21 @@ Year,Time series,Sex,Economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2
 2022,Fatal occupational accidents,,Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC G),,,,0.5
 2023,Fatal occupational accidents,,Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC G),,,,0.3
 2024,Fatal occupational accidents,,Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC G),,,,0.4
-2010,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),.,,,
-2011,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),.,,,
-2012,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),.,,,
-2013,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),.,,,
-2014,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,3.8
-2015,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,4.2
-2016,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,3.3
-2017,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),|,,,3.2
-2018,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,2.5
-2019,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,2.8
-2020,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),|,,,1.8
-2021,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,3.3
-2022,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,2.5
-2023,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,2.6
-2024,Fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,2.0
+2010,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),.,,,
+2011,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),.,,,
+2012,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),.,,,
+2013,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),.,,,
+2014,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,3.8
+2015,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,4.2
+2016,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,3.3
+2017,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),|,,,3.2
+2018,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,2.5
+2019,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,2.8
+2020,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),|,,,1.8
+2021,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,3.3
+2022,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,2.5
+2023,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,2.6
+2024,Fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,2.0
 2010,Non-fatal occupational accidents,,,,,,1976.1
 2011,Non-fatal occupational accidents,,,,,,2058.3
 2012,Non-fatal occupational accidents,,,,,,1956.3
@@ -176,7 +176,7 @@ Year,Time series,Sex,Economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2
 2019,Non-fatal occupational accidents,,"Agriculture, forestry and fishing (ISIC A)",,,,1536.5
 2020,Non-fatal occupational accidents,,"Agriculture, forestry and fishing (ISIC A)",|,,,1368.5
 2021,Non-fatal occupational accidents,,"Agriculture, forestry and fishing (ISIC A)",,,,1320.6
-2022,Non-fatal occupational accidents,,"Agriculture, forestry and fishing (ISIC A)",,,,1239.2
+2022,Non-fatal occupational accidents,,"Agriculture, forestry and fishing (ISIC A)",,,,1269.2
 2023,Non-fatal occupational accidents,,"Agriculture, forestry and fishing (ISIC A)",,,,1253.3
 2024,Non-fatal occupational accidents,,"Agriculture, forestry and fishing (ISIC A)",,,,1105.8
 2010,Non-fatal occupational accidents,,Manufacturing (ISIC C),.,,,
@@ -190,7 +190,7 @@ Year,Time series,Sex,Economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2
 2018,Non-fatal occupational accidents,,Manufacturing (ISIC C),,,,2215.2
 2019,Non-fatal occupational accidents,,Manufacturing (ISIC C),,,,2121.2
 2020,Non-fatal occupational accidents,,Manufacturing (ISIC C),|,,,2038.9
-2021,Non-fatal occupational accidents,,Manufacturing (ISIC C),,,,2456.1
+2021,Non-fatal occupational accidents,,Manufacturing (ISIC C),,,,2156.1
 2022,Non-fatal occupational accidents,,Manufacturing (ISIC C),,,,2144.4
 2023,Non-fatal occupational accidents,,Manufacturing (ISIC C),,,,1920.7
 2024,Non-fatal occupational accidents,,Manufacturing (ISIC C),,,,1919.3
@@ -224,18 +224,18 @@ Year,Time series,Sex,Economic activity,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2
 2022,Non-fatal occupational accidents,,Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC G),,,,1389.1
 2023,Non-fatal occupational accidents,,Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC G),,,,1307.8
 2024,Non-fatal occupational accidents,,Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC G),,,,1275.1
-2010,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),.,,,
-2011,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),.,,,
-2012,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),.,,,
-2013,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),.,,,
-2014,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,2943.8
-2015,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,3027.3
-2016,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,2766.3
-2017,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),|,,,3460.1
-2018,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,3327.8
-2019,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,3182.3
-2020,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),|,,,2842.2
-2021,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,3163.4
-2022,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,2882.9
-2023,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,2768.5
-2024,Non-fatal occupational accidents,, Verkehr und Lagerei (ISIC H),,,,2680.4
+2010,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),.,,,
+2011,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),.,,,
+2012,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),.,,,
+2013,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),.,,,
+2014,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,2943.8
+2015,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,3027.3
+2016,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,2766.3
+2017,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),|,,,3460.1
+2018,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,3327.8
+2019,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,3182.3
+2020,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),|,,,2842.2
+2021,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,3163.4
+2022,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,2882.9
+2023,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,2768.5
+2024,Non-fatal occupational accidents,,Verkehr und Lagerei (ISIC H),,,,2680.4

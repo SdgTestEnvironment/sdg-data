@@ -102,7 +102,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2014,Anzahl,,,,,,98.0
 2015,Anzahl,,,,,,106.0
 2016,Anzahl,,,,,,147.0
-2017,Anzahl,,,,,,120.0
+2017,Anzahl,,,|,,,120.0
 2018,Anzahl,,,,,,130.0
 2019,Anzahl,,,,,,104.0
 2020,Anzahl,,,,,,117.0
@@ -118,7 +118,7 @@ Year,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Val
 2014,Anzahl,,Weiblich,,,,75.0
 2015,Anzahl,,Weiblich,,,,87.0
 2016,Anzahl,,Weiblich,,,,115.0
-2017,Anzahl,,Weiblich,,,,65.0
+2017,Anzahl,,Weiblich,|,,,65.0
 2018,Anzahl,,Weiblich,,,,105.0
 2019,Anzahl,,Weiblich,,,,83.0
 2020,Anzahl,,Weiblich,,,,72.0
