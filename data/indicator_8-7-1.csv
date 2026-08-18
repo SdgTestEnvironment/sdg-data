@@ -102,7 +102,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2014,number,,,,,,98
 2015,number,,,,,,106
 2016,number,,,,,,147
-2017,number,,,,,,120
+2017,number,,,|,,,120
 2018,number,,,,,,130
 2019,number,,,,,,104
 2020,number,,,,,,117
@@ -118,7 +118,7 @@ Year,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2014,number,,female,,,,75
 2015,number,,female,,,,87
 2016,number,,female,,,,115
-2017,number,,female,,,,65
+2017,number,,female,|,,,65
 2018,number,,female,,,,105
 2019,number,,female,,,,83
 2020,number,,female,,,,72
