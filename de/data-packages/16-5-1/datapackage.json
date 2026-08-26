@@ -77,7 +77,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren",
+                "Bevölkerung, die in den letzten zwei Jahren im Umgang mit Behörden den Eindruck hatte, dass Beschäftigte der Behörde bestechlich sind",
                 "Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten",
                 ""
               ]
