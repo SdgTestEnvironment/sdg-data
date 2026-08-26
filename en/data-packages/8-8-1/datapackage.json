@@ -44,11 +44,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing (ISIC A)",
-                "Manufacturing (ISIC C)",
-                "Construction (ISIC F)",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC G)",
-                "Verkehr und Lagerei (ISIC H)",
+                "Agriculture, forestry and fishing (Section A)",
+                "Manufacturing (Section C)",
+                "Construction (Section F)",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles (Section G)",
+                "Verkehr und Lagerei (Section H)",
                 ""
               ]
             },

@@ -2394,7 +2394,7 @@
             "title": "Year"
           },
           {
-            "name": "environmental protection and/or resource management sector",
+            "name": "environmental protection and/or resource management domain",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2415,24 +2415,24 @@
                 ""
               ]
             },
-            "title": "Environmental protection and/or resource management sector"
+            "title": "Environmental protection and/or resource management domain"
           },
           {
             "name": "economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing (ISIC A)",
-                "Mining and quarrying (ISIC B)",
-                "Manufacturing (ISIC C)",
-                "Electricity, gas, steam and air conditioning supply (ISIC D)",
-                "Water supply; sewerage, waste management and remediation activities (ISIC E)",
-                "Construction (ISIC F)",
-                "Information and communication (ISIC J)",
-                "Professional, scientific and technical activities (ISIC M)",
-                "Public administration and defence; compulsory social security (ISIC O)",
-                "Education (ISIC P)",
-                "Other services (ISIC G, H, I, K, L, N, Q, R, S, T and U)",
+                "Agriculture, forestry and fishing (Section A)",
+                "Mining and quarrying (Section B)",
+                "Manufacturing (Section C)",
+                "Electricity, gas, steam and air conditioning supply (Section D)",
+                "Water supply; sewerage, waste management and remediation activities (Section E)",
+                "Construction (Section F)",
+                "Information and communication (Section J)",
+                "Professional, scientific and technical activities (Section M)",
+                "Public administration and defence; compulsory social security (Section O)",
+                "Education (Section P)",
+                "Other services (Sections G, H, I, K, L, N, Q, R, S, T and U)",
                 ""
               ]
             },
@@ -2957,7 +2957,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Organically farmed agricultural land",
+                "Organically farmed agricultural area",
                 "Progress toward productive and sustainable agriculture (proxy)",
                 ""
               ]
@@ -10410,7 +10410,7 @@
             "constraints": {
               "enum": [
                 "Agriculture, forestry and fishing",
-                "Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",
+                "Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (Sections B, C, D and F)",
                 "Services",
                 ""
               ]
@@ -11415,11 +11415,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing (ISIC A)",
-                "Manufacturing (ISIC C)",
-                "Construction (ISIC F)",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC G)",
-                "Verkehr und Lagerei (ISIC H)",
+                "Agriculture, forestry and fishing (Section A)",
+                "Manufacturing (Section C)",
+                "Construction (Section F)",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles (Section G)",
+                "Verkehr und Lagerei (Section H)",
                 ""
               ]
             },
@@ -16767,9 +16767,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing (ISIC A)",
-                "Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (ISIC B, C, D and F)",
-                "Other services (ISIC E, G to T)",
+                "Agriculture, forestry and fishing (Section A)",
+                "Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (Sections B, C, D and F)",
+                "Other services (Sections E, G to T)",
                 ""
               ]
             },

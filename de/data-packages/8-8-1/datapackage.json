@@ -44,11 +44,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",
-                "Verarbeitendes Gewerbe (WZ-Abschnitt C)",
-                "Baugewerbe (WZ-Abschnitt F)",
-                "Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (WZ-Abschnitt G)",
-                "Verkehr und Lagerei (WZ-Abschnitt H)",
+                "Land- und Forstwirtschaft, Fischerei (Abschnitt A)",
+                "Verarbeitendes Gewerbe (Abschnitt C)",
+                "Baugewerbe (Abschnitt F)",
+                "Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G)",
+                "Verkehr und Lagerei (Abschnitt H)",
                 ""
               ]
             },

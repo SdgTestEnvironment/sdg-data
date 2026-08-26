@@ -2394,7 +2394,7 @@
             "title": "Jahr"
           },
           {
-            "name": "environmental protection and/or resource management sector",
+            "name": "environmental protection and/or resource management domain",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2422,17 +2422,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",
-                "Bergbau und Gewinnung von Steinen und Erden (WZ-Abschnitt B)",
-                "Verarbeitendes Gewerbe (WZ-Abschnitt C)",
-                "Energieversorgung (WZ-Abschnitt D)",
-                "Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen (WZ-Abschnitt E)",
-                "Baugewerbe (WZ-Abschnitt F)",
-                "Information und Kommunikation (WZ-Abschnitt J)",
-                "Freiberufliche, wissenschaftliche und technische Dienstleistungen (WZ-Abschnitt M)",
-                "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (WZ-Abschnitt O)",
+                "Land- und Forstwirtschaft, Fischerei (Abschnitt A)",
+                "Bergbau und Gewinnung von Steinen und Erden (Abschnitt B)",
+                "Verarbeitendes Gewerbe (Abschnitt C)",
+                "Energieversorgung (Abschnitt D)",
+                "Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen (Abschnitt E)",
+                "Baugewerbe (Abschnitt F)",
+                "Information und Kommunikation (Abschnitt J)",
+                "Freiberufliche, wissenschaftliche und technische Dienstleistungen (Abschnitt M)",
+                "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (Abschnitt O)",
                 "Erziehung und Unterricht (WZ-Abschnitt P)",
-                "Andere Dienstleistungen (WZ-Abschnitte G, H, I, K, L, N, Q, R, S, T und U)",
+                "Andere Dienstleistungen (Abschnitte G, H, I, K, L, N, Q, R, S, T und U)",
                 ""
               ]
             },
@@ -2869,7 +2869,7 @@
             "constraints": {
               "enum": [
                 "Statistisches Bundesamt",
-                "BMLEH",
+                "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
                 ""
               ]
             },
@@ -10410,7 +10410,7 @@
             "constraints": {
               "enum": [
                 "Land- und Forstwirtschaft, Fischerei",
-                "Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",
+                "Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (Abschnitte B, C, D und F)",
                 "Dienstleistungen",
                 ""
               ]
@@ -11415,11 +11415,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",
-                "Verarbeitendes Gewerbe (WZ-Abschnitt C)",
-                "Baugewerbe (WZ-Abschnitt F)",
-                "Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (WZ-Abschnitt G)",
-                "Verkehr und Lagerei (WZ-Abschnitt H)",
+                "Land- und Forstwirtschaft, Fischerei (Abschnitt A)",
+                "Verarbeitendes Gewerbe (Abschnitt C)",
+                "Baugewerbe (Abschnitt F)",
+                "Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G)",
+                "Verkehr und Lagerei (Abschnitt H)",
                 ""
               ]
             },
@@ -16767,9 +16767,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",
-                "Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (WZ-Abschnitt B, C, D und F)",
-                "Andere Dienstleistungen (WZ-Abschnitte E, G bis T)",
+                "Land- und Forstwirtschaft, Fischerei (Abschnitt A)",
+                "Bergbau, verarbeitendes Gewerbe, Energieversorgung und Baugewerbe (Abschnitte B, C, D und F)",
+                "Andere Dienstleistungen (Abschnitte E, G bis T)",
                 ""
               ]
             },

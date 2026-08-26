@@ -41,11 +41,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "agriculture, forestry and fishing (isic a)",
-                "manufacturing (isic c)",
-                "construction (isic f)",
-                "wholesale and retail trade; repair of motor vehicles and motorcycles (isic g)",
-                "verkehr und lagerei (isic h)",
+                "agriculture, forestry and fishing (section a)",
+                "manufacturing (section c)",
+                "construction (section f)",
+                "wholesale and retail trade; repair of motor vehicles and motorcycles (section g)",
+                "verkehr und lagerei (section h)",
                 ""
               ]
             }
