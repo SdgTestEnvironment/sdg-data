@@ -605,7 +605,6 @@
               "enum": [
                 "|",
                 ".",
-                "r",
                 ""
               ]
             }
@@ -1800,9 +1799,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -4752,8 +4752,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "r",
+                ".",
                 "|",
                 ""
               ]
@@ -6398,8 +6398,8 @@
             "constraints": {
               "enum": [
                 "(1) maternity care",
-                "(2) contraception and family planning",
-                "(3) comprehensive sexuality education and information",
+                "(2) contraception services",
+                "(3) sexuality education",
                 "(4) hiv and hpv",
                 ""
               ]
@@ -12289,7 +12289,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             }
@@ -14107,9 +14106,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
