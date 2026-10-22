@@ -2553,10 +2553,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "p",
                 ""
               ]
             }
@@ -3999,6 +3998,17 @@
             }
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -4011,17 +4021,6 @@
                 "55 to under 65 years",
                 "65 to under 75 years",
                 "75 years and older",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
                 ""
               ]
             }
@@ -4829,6 +4828,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "r",
                 ""
               ]
             }
@@ -10710,7 +10710,6 @@
               "enum": [
                 "r",
                 "-",
-                ".",
                 "‒",
                 ""
               ]
@@ -11564,8 +11563,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
-                "-",
                 "‒",
                 "s",
                 ""
@@ -15901,7 +15898,7 @@
                 "manufacturing (section c)",
                 "construction (section f)",
                 "wholesale and retail trade; repair of motor vehicles and motorcycles (section g)",
-                "verkehr und lagerei (section h)",
+                " verkehr und lagerei (section h)",
                 ""
               ]
             }

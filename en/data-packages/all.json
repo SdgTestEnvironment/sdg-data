@@ -2795,10 +2795,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "p",
                 ""
               ]
             },
@@ -4381,6 +4380,18 @@
             "title": "Units"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -4397,18 +4408,6 @@
               ]
             },
             "title": "Age group"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -5290,6 +5289,7 @@
             "constraints": {
               "enum": [
                 ".",
+                "r",
                 ""
               ]
             },
@@ -11727,7 +11727,6 @@
               "enum": [
                 "r",
                 "-",
-                ".",
                 "‒",
                 ""
               ]
@@ -12663,8 +12662,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
-                "-",
                 "‒",
                 "s",
                 ""
@@ -17408,7 +17405,7 @@
                 "Manufacturing (Section C)",
                 "Construction (Section F)",
                 "Wholesale and retail trade; repair of motor vehicles and motorcycles (Section G)",
-                "Verkehr und Lagerei (Section H)",
+                " Verkehr und Lagerei (Section H)",
                 ""
               ]
             },
