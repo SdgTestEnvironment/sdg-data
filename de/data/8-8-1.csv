@@ -104,21 +104,21 @@ Year,Zeitreihe,Geschlecht,Wirtschaftszweig,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2022,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.5
 2023,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.3
 2024,Tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,0.4
-2010,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
-2011,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
-2012,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
-2013,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
-2014,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3.8
-2015,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,4.2
-2016,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3.3
-2017,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),|,,,3.2
-2018,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2.5
-2019,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2.8
-2020,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),|,,,1.8
-2021,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3.3
-2022,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2.5
-2023,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2.6
-2024,Tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2.0
+2010,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),.,,,
+2011,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),.,,,
+2012,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),.,,,
+2013,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),.,,,
+2014,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,3.8
+2015,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,4.2
+2016,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,3.3
+2017,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),|,,,3.2
+2018,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,2.5
+2019,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,2.8
+2020,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),|,,,1.8
+2021,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,3.3
+2022,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,2.5
+2023,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,2.6
+2024,Tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,2.0
 2010,Nicht-tödliche Arbeitsunfälle,,,,,,1976.1
 2011,Nicht-tödliche Arbeitsunfälle,,,,,,2058.3
 2012,Nicht-tödliche Arbeitsunfälle,,,,,,1956.3
@@ -224,18 +224,18 @@ Year,Zeitreihe,Geschlecht,Wirtschaftszweig,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2022,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1389.1
 2023,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1307.8
 2024,Nicht-tödliche Arbeitsunfälle,,Handel; Instandhaltung und Reparatur von Kraftfahrzeugen (Abschnitt G),,,,1275.1
-2010,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
-2011,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
-2012,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
-2013,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),.,,,
-2014,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2943.8
-2015,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3027.3
-2016,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2766.3
-2017,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),|,,,3460.1
-2018,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3327.8
-2019,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3182.3
-2020,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),|,,,2842.2
-2021,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,3163.4
-2022,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2882.9
-2023,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2768.5
-2024,Nicht-tödliche Arbeitsunfälle,,Verkehr und Lagerei (Abschnitt H),,,,2680.4
+2010,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),.,,,
+2011,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),.,,,
+2012,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),.,,,
+2013,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),.,,,
+2014,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,2943.8
+2015,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,3027.3
+2016,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,2766.3
+2017,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),|,,,3460.1
+2018,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,3327.8
+2019,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,3182.3
+2020,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),|,,,2842.2
+2021,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,3163.4
+2022,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,2882.9
+2023,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,2768.5
+2024,Nicht-tödliche Arbeitsunfälle,, verkehr und lagerei (section h),,,,2680.4
