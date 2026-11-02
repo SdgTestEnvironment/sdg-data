@@ -472,9 +472,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -2116,7 +2117,7 @@
                 "manufacturing (section c)",
                 "construction (section f)",
                 "wholesale and retail trade; repair of motor vehicles and motorcycles (section g)",
-                " verkehr und lagerei (section h)",
+                "verkehr und lagerei (section h)",
                 ""
               ]
             }
@@ -5985,8 +5986,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "|",
                 "p",
+                "…",
                 ""
               ]
             }
@@ -9018,6 +9021,7 @@
               "enum": [
                 "r",
                 "-",
+                "…",
                 "‒",
                 ""
               ]

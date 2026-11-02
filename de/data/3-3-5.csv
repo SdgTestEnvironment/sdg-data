@@ -78,7 +78,7 @@ Year,Zeitreihe,Art der Erkrankung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Valu
 2022,Stationäre Behandlung,,,,,661.0
 2023,Stationäre Behandlung,,,,,999.0
 2024,Stationäre Behandlung,,,,,967.0
-2025,Stationäre Behandlung,,,,,
+2025,Stationäre Behandlung,,…,,,
 2010,Stationäre Behandlung,Buruli-Ulkus,,,,30.0
 2011,Stationäre Behandlung,Buruli-Ulkus,,,,20.0
 2012,Stationäre Behandlung,Buruli-Ulkus,,,,16.0
@@ -94,7 +94,7 @@ Year,Zeitreihe,Art der Erkrankung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Valu
 2022,Stationäre Behandlung,Buruli-Ulkus,,,,20.0
 2023,Stationäre Behandlung,Buruli-Ulkus,,,,22.0
 2024,Stationäre Behandlung,Buruli-Ulkus,,,,17.0
-2025,Stationäre Behandlung,Buruli-Ulkus,,,,
+2025,Stationäre Behandlung,Buruli-Ulkus,…,,,
 2010,Stationäre Behandlung,Echinokokkose,,,,323.0
 2011,Stationäre Behandlung,Echinokokkose,,,,373.0
 2012,Stationäre Behandlung,Echinokokkose,,,,359.0
@@ -110,7 +110,7 @@ Year,Zeitreihe,Art der Erkrankung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Valu
 2022,Stationäre Behandlung,Echinokokkose,,,,452.0
 2023,Stationäre Behandlung,Echinokokkose,,,,569.0
 2024,Stationäre Behandlung,Echinokokkose,,,,533.0
-2025,Stationäre Behandlung,Echinokokkose,,,,
+2025,Stationäre Behandlung,Echinokokkose,…,,,
 2010,Stationäre Behandlung,Afrikanische Trypanosomiasis,,,,1.0
 2011,Stationäre Behandlung,Afrikanische Trypanosomiasis,‒,,,0.0
 2012,Stationäre Behandlung,Afrikanische Trypanosomiasis,,,,3.0
@@ -126,7 +126,7 @@ Year,Zeitreihe,Art der Erkrankung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Valu
 2022,Stationäre Behandlung,Afrikanische Trypanosomiasis,,,,2.0
 2023,Stationäre Behandlung,Afrikanische Trypanosomiasis,,,,1.0
 2024,Stationäre Behandlung,Afrikanische Trypanosomiasis,‒,,,0.0
-2025,Stationäre Behandlung,Afrikanische Trypanosomiasis,,,,
+2025,Stationäre Behandlung,Afrikanische Trypanosomiasis,…,,,
 2010,Stationäre Behandlung,Lepra,,,,4.0
 2011,Stationäre Behandlung,Lepra,,,,7.0
 2012,Stationäre Behandlung,Lepra,,,,11.0
@@ -142,7 +142,7 @@ Year,Zeitreihe,Art der Erkrankung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Valu
 2022,Stationäre Behandlung,Lepra,,,,2.0
 2023,Stationäre Behandlung,Lepra,,,,7.0
 2024,Stationäre Behandlung,Lepra,,,,6.0
-2025,Stationäre Behandlung,Lepra,,,,
+2025,Stationäre Behandlung,Lepra,…,,,
 2010,Stationäre Behandlung,Leishmaniose,,,,42.0
 2011,Stationäre Behandlung,Leishmaniose,,,,25.0
 2012,Stationäre Behandlung,Leishmaniose,,,,38.0
@@ -158,7 +158,7 @@ Year,Zeitreihe,Art der Erkrankung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Valu
 2022,Stationäre Behandlung,Leishmaniose,,,,75.0
 2023,Stationäre Behandlung,Leishmaniose,,,,105.0
 2024,Stationäre Behandlung,Leishmaniose,,,,55.0
-2025,Stationäre Behandlung,Leishmaniose,,,,
+2025,Stationäre Behandlung,Leishmaniose,…,,,
 2010,Stationäre Behandlung,Tollwut,,,,4.0
 2011,Stationäre Behandlung,Tollwut,‒,,,0.0
 2012,Stationäre Behandlung,Tollwut,‒,,,0.0
@@ -174,7 +174,7 @@ Year,Zeitreihe,Art der Erkrankung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Valu
 2022,Stationäre Behandlung,Tollwut,‒,,,0.0
 2023,Stationäre Behandlung,Tollwut,,,,2.0
 2024,Stationäre Behandlung,Tollwut,‒,,,0.0
-2025,Stationäre Behandlung,Tollwut,,,,
+2025,Stationäre Behandlung,Tollwut,…,,,
 2010,Stationäre Behandlung,Frambösie,,,,2.0
 2011,Stationäre Behandlung,Frambösie,,,,3.0
 2012,Stationäre Behandlung,Frambösie,-,,,0.0
@@ -190,7 +190,7 @@ Year,Zeitreihe,Art der Erkrankung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Valu
 2022,Stationäre Behandlung,Frambösie,‒,,,0.0
 2023,Stationäre Behandlung,Frambösie,,,,1.0
 2024,Stationäre Behandlung,Frambösie,‒,,,0.0
-2025,Stationäre Behandlung,Frambösie,,,,
+2025,Stationäre Behandlung,Frambösie,…,,,
 2010,Stationäre Behandlung,Dengue,‒,,,0.0
 2011,Stationäre Behandlung,Dengue,‒,,,0.0
 2012,Stationäre Behandlung,Dengue,‒,,,0.0
@@ -206,7 +206,7 @@ Year,Zeitreihe,Art der Erkrankung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Valu
 2022,Stationäre Behandlung,Dengue,,,,109.0
 2023,Stationäre Behandlung,Dengue,,,,280.0
 2024,Stationäre Behandlung,Dengue,,,,356.0
-2025,Stationäre Behandlung,Dengue,,,,
+2025,Stationäre Behandlung,Dengue,…,,,
 2010,Stationäre Behandlung,Drakunkulose,‒,,,0.0
 2011,Stationäre Behandlung,Drakunkulose,‒,,,0.0
 2012,Stationäre Behandlung,Drakunkulose,‒,,,0.0
@@ -222,7 +222,7 @@ Year,Zeitreihe,Art der Erkrankung,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Valu
 2022,Stationäre Behandlung,Drakunkulose,,,,1.0
 2023,Stationäre Behandlung,Drakunkulose,,,,12.0
 2024,Stationäre Behandlung,Drakunkulose,‒,,,0.0
-2025,Stationäre Behandlung,Drakunkulose,,,,
+2025,Stationäre Behandlung,Drakunkulose,…,,,
 2010,Personen mit Behandlungsbedarf,Tollwut,‒,,,0.0
 2011,Personen mit Behandlungsbedarf,Tollwut,‒,,,0.0
 2012,Personen mit Behandlungsbedarf,Tollwut,‒,,,0.0

@@ -78,7 +78,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,inpatient treatment,,,,,661.0
 2023,inpatient treatment,,,,,999.0
 2024,inpatient treatment,,,,,967.0
-2025,inpatient treatment,,,,,
+2025,inpatient treatment,,…,,,
 2010,inpatient treatment,buruli ulcer,,,,30.0
 2011,inpatient treatment,buruli ulcer,,,,20.0
 2012,inpatient treatment,buruli ulcer,,,,16.0
@@ -94,7 +94,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,inpatient treatment,buruli ulcer,,,,20.0
 2023,inpatient treatment,buruli ulcer,,,,22.0
 2024,inpatient treatment,buruli ulcer,,,,17.0
-2025,inpatient treatment,buruli ulcer,,,,
+2025,inpatient treatment,buruli ulcer,…,,,
 2010,inpatient treatment,echinococcosis,,,,323.0
 2011,inpatient treatment,echinococcosis,,,,373.0
 2012,inpatient treatment,echinococcosis,,,,359.0
@@ -110,7 +110,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,inpatient treatment,echinococcosis,,,,452.0
 2023,inpatient treatment,echinococcosis,,,,569.0
 2024,inpatient treatment,echinococcosis,,,,533.0
-2025,inpatient treatment,echinococcosis,,,,
+2025,inpatient treatment,echinococcosis,…,,,
 2010,inpatient treatment,human african trypanosomiasis,,,,1.0
 2011,inpatient treatment,human african trypanosomiasis,‒,,,0.0
 2012,inpatient treatment,human african trypanosomiasis,,,,3.0
@@ -126,7 +126,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,inpatient treatment,human african trypanosomiasis,,,,2.0
 2023,inpatient treatment,human african trypanosomiasis,,,,1.0
 2024,inpatient treatment,human african trypanosomiasis,‒,,,0.0
-2025,inpatient treatment,human african trypanosomiasis,,,,
+2025,inpatient treatment,human african trypanosomiasis,…,,,
 2010,inpatient treatment,leprosy,,,,4.0
 2011,inpatient treatment,leprosy,,,,7.0
 2012,inpatient treatment,leprosy,,,,11.0
@@ -142,7 +142,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,inpatient treatment,leprosy,,,,2.0
 2023,inpatient treatment,leprosy,,,,7.0
 2024,inpatient treatment,leprosy,,,,6.0
-2025,inpatient treatment,leprosy,,,,
+2025,inpatient treatment,leprosy,…,,,
 2010,inpatient treatment,leishmaniases,,,,42.0
 2011,inpatient treatment,leishmaniases,,,,25.0
 2012,inpatient treatment,leishmaniases,,,,38.0
@@ -158,7 +158,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,inpatient treatment,leishmaniases,,,,75.0
 2023,inpatient treatment,leishmaniases,,,,105.0
 2024,inpatient treatment,leishmaniases,,,,55.0
-2025,inpatient treatment,leishmaniases,,,,
+2025,inpatient treatment,leishmaniases,…,,,
 2010,inpatient treatment,rabies,,,,4.0
 2011,inpatient treatment,rabies,‒,,,0.0
 2012,inpatient treatment,rabies,‒,,,0.0
@@ -174,7 +174,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,inpatient treatment,rabies,‒,,,0.0
 2023,inpatient treatment,rabies,,,,2.0
 2024,inpatient treatment,rabies,‒,,,0.0
-2025,inpatient treatment,rabies,,,,
+2025,inpatient treatment,rabies,…,,,
 2010,inpatient treatment,yaws,,,,2.0
 2011,inpatient treatment,yaws,,,,3.0
 2012,inpatient treatment,yaws,-,,,0.0
@@ -190,7 +190,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,inpatient treatment,yaws,‒,,,0.0
 2023,inpatient treatment,yaws,,,,1.0
 2024,inpatient treatment,yaws,‒,,,0.0
-2025,inpatient treatment,yaws,,,,
+2025,inpatient treatment,yaws,…,,,
 2010,inpatient treatment,dengue,‒,,,0.0
 2011,inpatient treatment,dengue,‒,,,0.0
 2012,inpatient treatment,dengue,‒,,,0.0
@@ -206,7 +206,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,inpatient treatment,dengue,,,,109.0
 2023,inpatient treatment,dengue,,,,280.0
 2024,inpatient treatment,dengue,,,,356.0
-2025,inpatient treatment,dengue,,,,
+2025,inpatient treatment,dengue,…,,,
 2010,inpatient treatment,dracunculiasis,‒,,,0.0
 2011,inpatient treatment,dracunculiasis,‒,,,0.0
 2012,inpatient treatment,dracunculiasis,‒,,,0.0
@@ -222,7 +222,7 @@ Year,time series,type of disease,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,inpatient treatment,dracunculiasis,,,,1.0
 2023,inpatient treatment,dracunculiasis,,,,12.0
 2024,inpatient treatment,dracunculiasis,‒,,,0.0
-2025,inpatient treatment,dracunculiasis,,,,
+2025,inpatient treatment,dracunculiasis,…,,,
 2010,people requiring interventions,rabies,‒,,,0.0
 2011,people requiring interventions,rabies,‒,,,0.0
 2012,people requiring interventions,rabies,‒,,,0.0
