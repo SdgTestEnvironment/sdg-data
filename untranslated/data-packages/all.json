@@ -2813,10 +2813,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -4991,9 +4990,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "…",
                 ""
               ]
             }
@@ -10067,10 +10068,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -15835,7 +15835,7 @@
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "physical access to banking services",
             "type": "string",
             "constraints": {
               "enum": [
