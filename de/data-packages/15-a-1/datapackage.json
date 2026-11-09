@@ -76,8 +76,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität",
-                "b) Umweltschutzausgaben",
+                "(a) commitments and gross disbursements of official development assistance for biodiversity",
+                "(b) environmental protection expenditure",
                 ""
               ]
             },

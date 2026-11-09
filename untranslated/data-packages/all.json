@@ -2892,8 +2892,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) national legislation and policy relevant to ias",
-                "b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity",
+                "(a) national legislation and policy relevant to ias",
+                "(b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity",
                 ""
               ]
             }
@@ -5646,8 +5646,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) hazardous waste generated per capita",
-                "b) hazardous waste treated",
+                "(a) hazardous waste generated per capita",
+                "(b) hazardous waste treated",
                 ""
               ]
             }
@@ -10576,8 +10576,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) commitments and gross disbursements of official development assistance for biodiversity",
-                "b) environmental protection expenditure",
+                "(a) commitments and gross disbursements of official development assistance for biodiversity",
+                "(b) environmental protection expenditure",
                 ""
               ]
             }

@@ -3167,8 +3167,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Nationale Strategien zur Bekämpfung oder Kontrolle IAS",
-                "b) Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des NSB",
+                "(a) national legislation and policy relevant to ias",
+                "(b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity",
                 ""
               ]
             },
@@ -6178,8 +6178,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Aufkommen gefährlicher Abfälle",
-                "b) Behandelte gefährliche Abfälle",
+                "(a) hazardous waste generated per capita",
+                "(b) hazardous waste treated",
                 ""
               ]
             },
@@ -11576,8 +11576,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität",
-                "b) Umweltschutzausgaben",
+                "(a) commitments and gross disbursements of official development assistance for biodiversity",
+                "(b) environmental protection expenditure",
                 ""
               ]
             },
