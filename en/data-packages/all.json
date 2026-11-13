@@ -2542,8 +2542,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
                 "‒",
+                "0",
                 ""
               ]
             },
@@ -3167,8 +3167,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) national legislation and policy relevant to ias",
-                "(b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity",
+                "(a) National legislation and policy relevant to IAS",
+                "(b) Align the NBSAP targets with Aichi Target 9 of the Strategic Plan for Biodiversity",
                 ""
               ]
             },
@@ -4395,9 +4395,8 @@
             "constraints": {
               "enum": [
                 ".",
-                "r",
                 "|",
-                "…",
+                "r",
                 "0",
                 ""
               ]
@@ -4553,8 +4552,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sustainably managed fish stocks in the North and Baltic Seas on all MSY examined stocks",
-                "MSY examined fish stocks in all managed stocks",
+                "Sustainably managed fish stocks",
+                "MSY examined fish stocks",
                 ""
               ]
             },
@@ -5463,7 +5462,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "…",
                 ""
               ]
             },
@@ -6178,8 +6176,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) hazardous waste generated per capita",
-                "(b) hazardous waste treated",
+                "(a) Hazardous waste generated per capita",
+                "(b) Hazardous waste treated",
                 ""
               ]
             },
@@ -7453,8 +7451,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
                 "‒",
+                "0",
                 ""
               ]
             },
@@ -11576,8 +11574,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) commitments and gross disbursements of official development assistance for biodiversity",
-                "(b) environmental protection expenditure",
+                "(a) Commitments and gross disbursements of Official Development Assistance for biodiversity",
+                "(b) Environmental protection expenditure",
                 ""
               ]
             },
@@ -16120,8 +16118,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
                 "‒",
+                "0",
                 ""
               ]
             },
@@ -17344,7 +17342,7 @@
                 ""
               ]
             },
-            "title": "Physical Access to Banking Services"
+            "title": "Physical access to banking services"
           },
           {
             "name": "COMMENT_OBS_0",

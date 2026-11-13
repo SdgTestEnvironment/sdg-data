@@ -2542,8 +2542,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
                 "‒",
+                "0",
                 ""
               ]
             },
@@ -3167,8 +3167,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) national legislation and policy relevant to ias",
-                "(b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity",
+                "a) Nationale Strategien zur Bekämpfung oder Kontrolle IAS",
+                "b) Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des NSB",
                 ""
               ]
             },
@@ -4395,9 +4395,8 @@
             "constraints": {
               "enum": [
                 ".",
-                "r",
                 "|",
-                "…",
+                "r",
                 "0",
                 ""
               ]
@@ -4553,8 +4552,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nachhaltig befischte Fischbestände in Nord- und Ostsee an allen MSY-untersuchten Beständen",
-                "MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen",
+                "Nachhaltig bewirtschaftete Fischbestände",
+                "MSY-untersuchte Fischbestände",
                 ""
               ]
             },
@@ -5463,7 +5462,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "…",
                 ""
               ]
             },
@@ -6178,8 +6176,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) hazardous waste generated per capita",
-                "(b) hazardous waste treated",
+                "a) Aufkommen gefährlicher Abfälle",
+                "b) Behandelte gefährliche Abfälle",
                 ""
               ]
             },
@@ -7453,8 +7451,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
                 "‒",
+                "0",
                 ""
               ]
             },
@@ -11576,8 +11574,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) commitments and gross disbursements of official development assistance for biodiversity",
-                "(b) environmental protection expenditure",
+                "a) Zusagen und Bruttoauszahlungen öffentlicher Entwicklungsleistungen für Biodiversität",
+                "b) Umweltschutzausgaben",
                 ""
               ]
             },
@@ -16120,8 +16118,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
                 "‒",
+                "0",
                 ""
               ]
             },

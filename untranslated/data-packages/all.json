@@ -2322,8 +2322,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
                 "‒",
+                "0",
                 ""
               ]
             }
@@ -4018,9 +4018,8 @@
             "constraints": {
               "enum": [
                 ".",
-                "r",
                 "|",
-                "…",
+                "r",
                 "0",
                 ""
               ]
@@ -4162,8 +4161,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "sustainably managed fish stocks in the north and baltic seas on all msy examined stocks",
-                "msy examined fish stocks in all managed stocks",
+                "sustainably managed fish stocks",
+                "msy examined fish stocks",
                 ""
               ]
             }
@@ -4994,7 +4993,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "…",
                 ""
               ]
             }
@@ -6812,8 +6810,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
                 "‒",
+                "0",
                 ""
               ]
             }
@@ -14727,8 +14725,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
                 "‒",
+                "0",
                 ""
               ]
             }

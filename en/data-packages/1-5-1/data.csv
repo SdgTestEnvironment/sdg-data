@@ -14,7 +14,7 @@ Year,Cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,,,,0.3
 2023,,,,,0.3
 2024,,,,,0.2
-2025,,,,,0.2
+2025,,‒,,,0.0
 2010,Exposure to excessive natural heat,0,,,0.0
 2011,Exposure to excessive natural heat,0,,,0.0
 2012,Exposure to excessive natural heat,0,,,0.0
@@ -43,7 +43,7 @@ Year,Cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Exposure to excessive natural cold,,,,0.2
 2020,Exposure to excessive natural cold,,,,0.1
 2021,Exposure to excessive natural cold,,,,0.2
-2022,Exposure to excessive natural cold,,,,0.2
+2022,Exposure to excessive natural cold,,,,0.3
 2023,Exposure to excessive natural cold,,,,0.2
 2024,Exposure to excessive natural cold,,,,0.2
 2025,Exposure to excessive natural cold,,,,0.2
@@ -126,7 +126,7 @@ Year,Cause of death,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"Victim of avalanche, landslide and other earth movements",0,,,0.0
 2023,"Victim of avalanche, landslide and other earth movements",‒,,,0.0
 2024,"Victim of avalanche, landslide and other earth movements",0,,,0.0
-2025,"Victim of avalanche, landslide and other earth movements",0,,,0.0
+2025,"Victim of avalanche, landslide and other earth movements",‒,,,0.0
 2010,Victim of cataclysmic storm,0,,,0.0
 2011,Victim of cataclysmic storm,0,,,0.0
 2012,Victim of cataclysmic storm,‒,,,0.0

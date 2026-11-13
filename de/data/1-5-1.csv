@@ -14,7 +14,7 @@ Year,Todesursache,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,,,,0.3
 2023,,,,,0.3
 2024,,,,,0.2
-2025,,,,,0.2
+2025,,‒,,,0.0
 2010,Exposition gegenüber übermäßiger natürlicher Hitze,0,,,0.0
 2011,Exposition gegenüber übermäßiger natürlicher Hitze,0,,,0.0
 2012,Exposition gegenüber übermäßiger natürlicher Hitze,0,,,0.0
@@ -43,7 +43,7 @@ Year,Todesursache,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2019,Exposition gegenüber übermäßiger natürlicher Kälte,,,,0.2
 2020,Exposition gegenüber übermäßiger natürlicher Kälte,,,,0.1
 2021,Exposition gegenüber übermäßiger natürlicher Kälte,,,,0.2
-2022,Exposition gegenüber übermäßiger natürlicher Kälte,,,,0.2
+2022,Exposition gegenüber übermäßiger natürlicher Kälte,,,,0.3
 2023,Exposition gegenüber übermäßiger natürlicher Kälte,,,,0.2
 2024,Exposition gegenüber übermäßiger natürlicher Kälte,,,,0.2
 2025,Exposition gegenüber übermäßiger natürlicher Kälte,,,,0.2
@@ -126,7 +126,7 @@ Year,Todesursache,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",0,,,0.0
 2023,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",‒,,,0.0
 2024,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",0,,,0.0
-2025,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",0,,,0.0
+2025,"Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",‒,,,0.0
 2010,Opfer von Sturmkatastrophe,0,,,0.0
 2011,Opfer von Sturmkatastrophe,0,,,0.0
 2012,Opfer von Sturmkatastrophe,‒,,,0.0
