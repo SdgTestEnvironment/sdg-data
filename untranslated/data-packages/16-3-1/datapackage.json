@@ -65,11 +65,25 @@
             }
           },
           {
+            "name": "type of psychological violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "personal offense on the internet",
+                "threat of violence offline",
+                "threat of violence online",
+                ""
+              ]
+            }
+          },
+          {
             "name": "type of sexual violence",
             "type": "string",
             "constraints": {
               "enum": [
+                "exposure of genitals",
                 "physical sexual assault",
+                "sexual abuse or rape",
                 ""
               ]
             }
@@ -80,8 +94,10 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 "|",
+                "r",
+                "/",
+                "…",
                 ""
               ]
             }

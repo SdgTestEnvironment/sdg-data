@@ -70,11 +70,26 @@
             "title": "Art der physischen Gewalt"
           },
           {
+            "name": "type of psychological violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persönliche Beleidigung im Internet",
+                "Gewaltandrohung offline",
+                "Gewaltandrohung online",
+                ""
+              ]
+            },
+            "title": "Art der psychischen Gewalt"
+          },
+          {
             "name": "type of sexual violence",
             "type": "string",
             "constraints": {
               "enum": [
+                "Zeigen von Geschlechtsteilen",
                 "Körperliche sexuelle Belästigung",
+                "Sexueller Missbrauch oder Vergewaltigung",
                 ""
               ]
             },
@@ -86,8 +101,10 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 "|",
+                "r",
+                "/",
+                "…",
                 ""
               ]
             },
